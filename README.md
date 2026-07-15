@@ -1,0 +1,67 @@
+# PulseTracker Lite
+
+A free, static, daily-refreshed sentiment tracker for 5 politicians: Nirav Shah, Shenna Bellows, Troy Jackson, Jordan Wood, and Paige Loud. Pulls news (NewsData.io) and social posts (Bluesky) from the last 24 hours, scores them with VADER sentiment analysis, and shows per-candidate news/social/overall sentiment plus total mentions.
+
+See `plan.md` for the full design rationale. This README is the practical setup guide.
+
+## How it works
+
+1. `scripts/build-data.js` runs once a day via GitHub Actions. It fetches every news article and social post mentioning each candidate from the last 24 hours (fully paginated — no fixed cap), scores each item, and writes `public/data.json`.
+2. The React app (built with Vite) fetches `data.json` on load and renders it — no backend server involved.
+3. GitHub Pages hosts the built static site for free.
+
+**Note on news source:** this originally used NewsAPI.org, but its free "Developer" plan delays articles by ~24 hours (which made a strict last-24-hours filter return nothing) and explicitly restricts free-tier use to local development only — not something that can run unattended from a GitHub Actions runner. It's since been switched to [NewsData.io](https://newsdata.io), whose free tier allows non-localhost/production use with only a ~12 hour delay.
+
+## Local development
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Copy `.env.example` to `.env` and fill in real credentials:
+   ```bash
+   cp .env.example .env
+   ```
+   - `NEWSDATA_API_KEY`: from [newsdata.io](https://newsdata.io) (free tier: 200 requests/day)
+   - `BLUESKY_HANDLE` / `BLUESKY_APP_PASSWORD`: create an **app password** at bsky.app → Settings → App Passwords. Never use your real account password here.
+3. Sanity-check the news API key works:
+   ```bash
+   node --env-file=.env scripts/debug-newsdata.js
+   ```
+4. Generate a fresh `data.json` locally (Node 20.6+ loads `.env` natively):
+   ```bash
+   node --env-file=.env scripts/build-data.js
+   ```
+5. Run the app:
+   ```bash
+   npm run dev
+   ```
+
+A sample `public/data.json` is already committed so `npm run dev` works out of the box even before you run the pipeline.
+
+## Deploying (GitHub Pages, free)
+
+1. Push this repo to GitHub.
+2. Add three repo secrets (Settings → Secrets and variables → Actions):
+   - `NEWSDATA_API_KEY`
+   - `BLUESKY_HANDLE`
+   - `BLUESKY_APP_PASSWORD`
+3. Enable Pages: Settings → Pages → Source → **GitHub Actions**.
+4. If your repo name isn't `pulsetracker-lite`, update the `base` path in `vite.config.js` to match.
+5. Trigger the two workflows once manually to confirm everything works (Actions tab → select workflow → Run workflow):
+   - **Daily data refresh** — fetches/scores data, commits `public/data.json`.
+   - **Deploy to GitHub Pages** — builds the React app and publishes it.
+
+After that, both run automatically: data refreshes daily at 12:00 UTC, and every push to `main` (including the daily data commit) redeploys the site.
+
+## Data point notes
+
+- **Mentions**: total news + social mentions in the last 24 hours, tracked as its own metric independent of sentiment — a candidate can be heavily discussed without that discussion being positive or negative.
+- **Overall sentiment**: simple average of news sentiment and social sentiment. If one category has no data, overall falls back to whichever category does.
+- **Missing data**: shown as "No data" rather than treated as a neutral 0, so a quiet day doesn't look like a lukewarm one.
+
+## Security notes
+
+- Never commit `.env` (already gitignored) or hardcode API keys/passwords in scripts.
+- Use a Bluesky app password, not your real login — if this repo is ever public, a leaked app password can be revoked without touching your main account.
+- Rotate the NewsAPI key and Bluesky password if they were ever previously committed to source control (e.g. in the original Foundry transforms) — even though this project no longer uses NewsAPI.org, that key was exposed and should still be rotated/revoked.
