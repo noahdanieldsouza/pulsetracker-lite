@@ -4,7 +4,7 @@ import { fileURLToPath } from "url";
 import { POLITICIANS } from "./politicians.js";
 import { fetchNewsForPolitician } from "./fetchNews.js";
 import { fetchPostsForPolitician } from "./fetchBluesky.js";
-import { scoreText, makeId, average } from "./score.js";
+import { scoreText, makeId, average, weightedAverage } from "./score.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, "..", "public", "data.json");
@@ -55,7 +55,10 @@ async function buildPoliticianRecord(politician, { sinceIso, newsDataApiKey, blu
 
   const newsSentiment = average(news.map((n) => n.sentiment));
   const socialSentiment = average(social.map((s) => s.sentiment));
-  const overallSentiment = average([newsSentiment, socialSentiment]);
+  const overallSentiment = weightedAverage([
+  [newsSentiment, 1],
+  [socialSentiment, 2],
+   ]);
 
   // Mentions is its own data point: total volume across both platforms in
   // the last 24 hours, plus the per-platform breakdown, independent of

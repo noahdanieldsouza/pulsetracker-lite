@@ -34,3 +34,12 @@ export function average(numbers) {
   if (valid.length === 0) return null;
   return valid.reduce((sum, n) => sum + n, 0) / valid.length;
 }
+
+export function weightedAverage(pairs) {
+  // pairs: [[value, weight], [value, weight], ...]
+  const valid = pairs.filter(([v]) => typeof v === "number" && !Number.isNaN(v));
+  if (valid.length === 0) return null;
+  const weightSum = valid.reduce((sum, [, w]) => sum + w, 0);
+  const valueSum = valid.reduce((sum, [v, w]) => sum + v * w, 0);
+  return valueSum / weightSum;
+}
