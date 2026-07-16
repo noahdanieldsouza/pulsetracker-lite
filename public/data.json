@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-16T19:31:50.468Z",
+  "lastUpdated": "2026-07-16T20:31:17.312Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.22801079411764708,
+      "overallSentiment": -0.21477550000000004,
       "newsSentiment": -0.679551,
-      "socialSentiment": 0.22352941176470587,
+      "socialSentiment": 0.24999999999999994,
       "mentions": {
         "news": 100,
-        "social": 17,
-        "total": 117
+        "social": 18,
+        "total": 118
       },
       "news": [
         {
@@ -917,6 +917,14 @@
       ],
       "social": [
         {
+          "id": "3bb123c41c05f533e9e47c25fda7ae519b452883669cb8c41af97ddf979a0f31",
+          "authorHandle": "mohaveindv.bsky.social",
+          "postText": "BREAKING: New polling from Survey USA shows Democrat Nirav Shah in the lead against Susan Collins in Maine. Polling also shows Shah is the best performing Democrat of any candidate now in the race against Collins.",
+          "createdAt": "2026-07-16T20:12:20.441Z",
+          "uri": "at://did:plc:47tpdh3mfxq2f3wkd6abmhrq/app.bsky.feed.post/3mqs2bf3ovs2v",
+          "sentiment": 0.7
+        },
+        {
           "id": "b7bee37ba63cf8ab0d1579c8387a4b29a9dee986c7e70e9bce35b53ee4735dd4",
           "authorHandle": "bugg50.bsky.social",
           "postText": "www.huffpost.com/entry/progre...\n\nCompared to all the other current Congress members, this guy seems over qualified but a good candidate.  It would be nice to have intelligent people in Congress.",
@@ -1068,6 +1076,14 @@
       "news": [],
       "social": [
         {
+          "id": "3809905aa043d231b0e4184230ef772052724ccdbb975da865c4dad9ab70a2d6",
+          "authorHandle": "egall.bsky.social",
+          "postText": "Article mentions that David Michael Brouillette was from \"Manchester\", which confused me at first, because why'd they be referring to him as a Maine man if he's actually from New Hampshire? But apparently Maine has a Manchester, too; it's right next to Augusta, & Shenna Bellows is from there, too:",
+          "createdAt": "2026-07-16T19:47:31.177Z",
+          "uri": "at://did:plc:o56qmbc5xf5gnrlhm3ozhgpk/app.bsky.feed.post/3mqryuysum22x",
+          "sentiment": 0
+        },
+        {
           "id": "7b05434026be19d5a198949e7bcfb03cc15be7378a17379624305663cd509b73",
           "authorHandle": "thecantina.bsky.social",
           "postText": "The fact that the Graham Platner people fucking hate Shenna Bellows despite the fact that she actually has the political record of being a socialist and supporting minorities is interesting",
@@ -1146,30 +1162,38 @@
           "createdAt": "2026-07-15T20:40:47.691Z",
           "uri": "at://did:plc:enzlem7stuqn7sh4ij7joqfb/app.bsky.feed.post/3mqplfdryck2i",
           "sentiment": 0
-        },
-        {
-          "id": "89930e96ed0b99fae8e26333c07570cd307e397c80dc96be1464921cf1e1ea2f",
-          "authorHandle": "shennabellows.bsky.social",
-          "postText": "You have less than one hour to sign up to be a delegate. If you were a registered Democrat in Maine as of June 9th, you qualify. You don't need any experience, just ten minutes and a laptop.\n\nVisit my website: www.bellowsformaine.com, before 5pm TODAY. I would be honored to have you in that room.",
-          "createdAt": "2026-07-15T20:19:00.540Z",
-          "uri": "at://did:plc:mlehwhjmuxvc5kwfsi54vfmo/app.bsky.feed.post/3mqpk6f6wn222",
-          "sentiment": 0
         }
       ]
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3066666666666667,
+      "overallSentiment": 0.21590909090909094,
       "newsSentiment": null,
-      "socialSentiment": 0.3066666666666667,
+      "socialSentiment": 0.21590909090909094,
       "mentions": {
         "news": 0,
-        "social": 45,
-        "total": 45
+        "social": 44,
+        "total": 44
       },
       "news": [],
       "social": [
+        {
+          "id": "b1173443d654c728a2888abb17d55bb7180277bed09e915dc345ed28678a98cd",
+          "authorHandle": "vhemt4all.bsky.social",
+          "postText": "#fucktheGOP #maine",
+          "createdAt": "2026-07-16T20:01:42.451Z",
+          "uri": "at://did:plc:io34bo52nuxy42k6k34ncssz/app.bsky.feed.post/3mqrzoenouk2y",
+          "sentiment": -1
+        },
+        {
+          "id": "99d99b78aa1fc63409f01d8d91ae91bbdca8acbcda5ce3b9cafe4f2aacadd001",
+          "authorHandle": "mainstream-media.bsky.social",
+          "postText": "Troy Jackson, an anti-corporate Maine Senate hopeful, touts endorsements from lobbyists\n\nhttps://www.washingtonexaminer.com/n...",
+          "createdAt": "2026-07-16T20:00:32.997145+00:00",
+          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mqrzmchb5n2i",
+          "sentiment": -1
+        },
         {
           "id": "75226c364105e9b7ede1a0db4b79599f7cf754e48870776fb2281e47b5466841",
           "authorHandle": "techwizard.bsky.social",
@@ -1505,43 +1529,19 @@
           "createdAt": "2026-07-15T20:39:22.577Z",
           "uri": "at://did:plc:lh7uqxgv6glly3ujhix4qxeb/app.bsky.feed.post/3mqplcsmk5c2u",
           "sentiment": 0.8
-        },
-        {
-          "id": "d253d613d276986c8faf345c6cafc210dfa729a72887b06a430145231b633279",
-          "authorHandle": "charleskeener.bsky.social",
-          "postText": "Food AND Medicine proudly endorses Troy Jackson for US Senate. As our next senator, Troy Jackson will fight for working people. Tomorrow is the deadline for becoming a delegate to your local democratic county meeting. Links are in the comment section to secure the nomination for Troy.",
-          "createdAt": "2026-07-15T20:08:45.113Z",
-          "uri": "at://did:plc:4llyqwdqnd6t7ncyvvjzeih7/app.bsky.feed.post/3mqpjm2blpc2f",
-          "sentiment": 0.9
-        },
-        {
-          "id": "c9a3a976dfb4d067916319751300419892602865b11c0233ca17f893fd1de59a",
-          "authorHandle": "guerrillapress.bsky.social",
-          "postText": "Troy Jackson has jumped into the flash Democratic primary taking place in #Maine following #GrahamPlatner withdrawing from the race.\n\nFollowing #ICE murdering a man in Maine, Jackson called to \"#AbolishICE.\"\n\nFull conversation on the Guerrrilla Press YouTube and podcast feeds.",
-          "createdAt": "2026-07-15T20:04:28.336576396Z",
-          "uri": "at://did:plc:6iebtvek7ufcix6gj3zq76vw/app.bsky.feed.post/3mqpjefvg7w2f",
-          "sentiment": 0.5
-        },
-        {
-          "id": "48f3ba47b50a02f5babeeeb30423f11cc5234db40d02e091dd47631a07737a88",
-          "authorHandle": "willneils.bsky.social",
-          "postText": "Troy Jackson is the right choice!",
-          "createdAt": "2026-07-15T19:32:15.060Z",
-          "uri": "at://did:plc:32me6sen2w2ststznfcszfyc/app.bsky.feed.post/3mqphkroj2c25",
-          "sentiment": 0.9
         }
       ]
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.0843267441860465,
+      "overallSentiment": -0.04266007751937984,
       "newsSentiment": -0.168653488372093,
-      "socialSentiment": -5.046468293750712e-18,
+      "socialSentiment": 0.08333333333333333,
       "mentions": {
         "news": 43,
-        "social": 11,
-        "total": 54
+        "social": 12,
+        "total": 55
       },
       "news": [
         {
@@ -1934,6 +1934,14 @@
       ],
       "social": [
         {
+          "id": "e69bf0e7313e1b948eb060ba7adc033a9f19018dc337e678d81e77194ab00b0c",
+          "authorHandle": "svukic.bsky.social",
+          "postText": "Jordan Wood for the win for US Senator from Maine! \n#JordanWood #MaineSenator #LGBTQ",
+          "createdAt": "2026-07-16T19:38:44.155Z",
+          "uri": "at://did:plc:vbyvj6re5dzdwukzdtonebny/app.bsky.feed.post/3mqryfc7in22h",
+          "sentiment": 1
+        },
+        {
           "id": "a4a0ad027bfc05e24f1c30acdcb9de19ad756e566a1f0136b44e0a37247bf350",
           "authorHandle": "magsmom7.bsky.social",
           "postText": "www.instagram.com/p/DayFSoJJpIy/",
@@ -2026,13 +2034,13 @@
     {
       "id": "paige-loud",
       "name": "Paige Loud",
-      "overallSentiment": -0.26834318181818184,
+      "overallSentiment": -0.29334318181818186,
       "newsSentiment": -0.5366863636363637,
-      "socialSentiment": 0,
+      "socialSentiment": -0.05,
       "mentions": {
         "news": 22,
-        "social": 1,
-        "total": 23
+        "social": 2,
+        "total": 24
       },
       "news": [
         {
@@ -2235,6 +2243,14 @@
         }
       ],
       "social": [
+        {
+          "id": "f9d4d1398185cad56b37ae1d9e334f9846fbfdca3a8a41c5d9a776a5cab18772",
+          "authorHandle": "bangordailynews.bsky.social",
+          "postText": "The social worker and Democratic Socialist cited the unprecedented process the Maine Democratic Party has chosen to replace Graham Platner.",
+          "createdAt": "2026-07-16T19:42:52.261Z",
+          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mqrympdbom2l",
+          "sentiment": -0.1
+        },
         {
           "id": "d29736e8704903f9d04efca05d429aa74bff37d4a67ce8a2718f7e0af7290ed8",
           "authorHandle": "henrythedog.bsky.social",
