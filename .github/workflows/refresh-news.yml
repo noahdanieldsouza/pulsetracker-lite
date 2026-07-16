@@ -1,0 +1,46 @@
+name: News refresh (daily)
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # every day at 12:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh news data
+        env:
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run refresh-news
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data.json data/sentiment-cache.json
+          git diff --cached --quiet && echo "No data changes" && exit 0
+          git commit -m "chore: refresh news data"
+          # The social workflow runs every 10 minutes and may have pushed
+          # in between this job starting and finishing, so rebase before
+          # pushing and retry once if another push wins the race.
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "Push failed, retrying ($i)..."
+            sleep 5
+          done
