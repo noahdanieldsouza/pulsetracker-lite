@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T16:55:01.337Z",
+  "lastUpdated": "2026-07-16T18:02:17.884Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -1152,16 +1152,32 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3276595744680852,
+      "overallSentiment": 0.32954545454545464,
       "newsSentiment": null,
-      "socialSentiment": 0.3276595744680852,
+      "socialSentiment": 0.32954545454545464,
       "mentions": {
         "news": 0,
-        "social": 47,
-        "total": 47
+        "social": 44,
+        "total": 44
       },
       "news": [],
       "social": [
+        {
+          "id": "38768d2974968e220eb82e4c46cfb3b58d5d566377fac1014d762cc1be0430a4",
+          "authorHandle": "mctenor1.bsky.social",
+          "postText": "Take it from an old campaigner, always check your information. The report, which I saw on the Huffington Post link, referenced a poll by an outfit called Chism Strategies, no indication of partisan affiliation.\n\nwww.chismstrategies.com/field-notes/...",
+          "createdAt": "2026-07-16T17:37:04.866Z",
+          "uri": "at://did:plc:giu5ozra562dhd4e6xmikbhs/app.bsky.feed.post/3mqrrlr2src22",
+          "sentiment": 0
+        },
+        {
+          "id": "57ab0e4d03fbb4024503a07a49bb2562a5be82bc4d99486449fc8ede8a094016",
+          "authorHandle": "retiredams.bsky.social",
+          "postText": "We're proud to endorse @troyjackson207.bsky.social's campaign to be the Democratic candidate for U.S. Senate! He's always fought for retirees in Maine, and he'll work to strengthen Medicare and protect Social Security for current and future generations.",
+          "createdAt": "2026-07-16T17:08:23.599Z",
+          "uri": "at://did:plc:jgao6ejx4qqazjl6ry44etk4/app.bsky.feed.post/3mqrpyhjyvc2d",
+          "sentiment": 1
+        },
         {
           "id": "1b19e2bb8dc65c2bdc97a97f3de118a783e11b5e446c96370479886ea7f132b9",
           "authorHandle": "bugg50.bsky.social",
@@ -1497,59 +1513,19 @@
           "createdAt": "2026-07-15T18:51:55.234Z",
           "uri": "at://did:plc:32me6sen2w2ststznfcszfyc/app.bsky.feed.post/3mqpfcnxaqk25",
           "sentiment": 0.9
-        },
-        {
-          "id": "9630bfb6284387a9a2aadbfffeebee761e3429d1ec643bf5c6ff478b81dd460a",
-          "authorHandle": "rankednews.bsky.social",
-          "postText": "Democratic debate to replace Platner in Maine will have 8 candidates: News Center Maine initially invited only four candidates who met a 20% primary vote threshold, but reversed course after criticism. The expanded field now includes Dan Kleban, Troy Jackson, Shenna … https://ranked.news/1137364?u=b",
-          "createdAt": "2026-07-15T18:00:41.284Z",
-          "uri": "at://did:plc:42han5exrxyrgdsbwosrp7sy/app.bsky.feed.post/3mqpch3nmbi2h",
-          "sentiment": 0
-        },
-        {
-          "id": "08abe2478a097dec28abf536f474a52ed89c3eb16915efc71f6b71b258849d0b",
-          "authorHandle": "fortheforlorn.bsky.social",
-          "postText": "Troy Jackson is the man. Yall need to get going on him. all hands on deck. Collins must lose. Thank You",
-          "createdAt": "2026-07-15T17:33:29.089Z",
-          "uri": "at://did:plc:vact2qcgkj5klf23pffrcwc6/app.bsky.feed.post/3mqpawft3zc2f",
-          "sentiment": 0.9
-        },
-        {
-          "id": "16fb387e3345c485dc5733df9d755d8719e903707382606c78257b4f95b33513",
-          "authorHandle": "slavuji.bsky.social",
-          "postText": "www.tiktok.com/@joe.niemczu...?",
-          "createdAt": "2026-07-15T17:07:01.457Z",
-          "uri": "at://did:plc:jbkuhpkq36jizlz32vk3y262/app.bsky.feed.post/3mqp7h3qf622h",
-          "sentiment": 0
-        },
-        {
-          "id": "d1fc0901f87de06fe5a70f6df9d2d08772d12eef8cc98ec912fd653efca77e4f",
-          "authorHandle": "nataliedavis.journa.host.ap.brid.gy",
-          "postText": "Troy Jackson’s Politics Are Rooted in Maine Logger Struggles https://jacobin.com/2026/07/maine-jackson-logging-workplace-struggles?utm_source=dlvr.it&utm_medium=mastodon #socialism",
-          "createdAt": "2026-07-15T17:05:02.000Z",
-          "uri": "at://did:plc:6w6rw6s7dn5554bv4pznp46a/app.bsky.feed.post/3mqp7dtqr3h62",
-          "sentiment": 0.3
-        },
-        {
-          "id": "58b55b1f90bcdcec5f5559321d09955f54105bcb883934621096c9f35487bd38",
-          "authorHandle": "polymarket.extwitter.link",
-          "postText": "78% chance Troy Jackson is chosen as the nominee.",
-          "createdAt": "2026-07-15T17:04:51.558804+00:00",
-          "uri": "at://did:plc:wzlw5nsbpcebsiccs6iu7ipj/app.bsky.feed.post/3mqp7d7wwyw2w",
-          "sentiment": 0.7
         }
       ]
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.07807674418604652,
+      "overallSentiment": -0.0843267441860465,
       "newsSentiment": -0.168653488372093,
-      "socialSentiment": 0.012499999999999994,
+      "socialSentiment": -6.1679056923619804e-18,
       "mentions": {
         "news": 43,
-        "social": 8,
-        "total": 51
+        "social": 9,
+        "total": 52
       },
       "news": [
         {
@@ -1942,6 +1918,22 @@
       ],
       "social": [
         {
+          "id": "f4aaedf8292dcff1511c28a0a3afba9dd9f2b2a05f7910dda2b8f41802300e80",
+          "authorHandle": "nokingsprotest.bsky.social",
+          "postText": "#NoKings #AbolishIce #HandsOff #50501 #Trump",
+          "createdAt": "2026-07-16T17:14:36.2946054+00:00",
+          "uri": "at://did:plc:qxyzwo6uvxbtsh4spdxzec3q/app.bsky.feed.post/3mqrqdl26ap2m",
+          "sentiment": 0
+        },
+        {
+          "id": "61dcbd7a1cdf63c2dc4310cb8ab5855691d6f1fab68ad2a7e36259bb012a3a16",
+          "authorHandle": "longtail-news.bsky.social",
+          "postText": "Feed: \"Essex Cricket\"\nBy: Oakley Bromfield on Wednesday, July 15, 2026",
+          "createdAt": "2026-07-16T17:02:48.890909+00:00",
+          "uri": "at://did:plc:o6ggjvnj4ze3mnrpnv5oravg/app.bsky.feed.post/3mqrpol7zoy2i",
+          "sentiment": 0
+        },
+        {
           "id": "2f2e830aad1edef033891c5b47cef5920cb34894b724234686ff79af8c5c660d",
           "authorHandle": "wttudf8uxfhmmde.bsky.social",
           "postText": "メイン州のジョーダン・ウッド、グラハム・プラットナー、ICE、スーザン・コリンズについて｜ADVOCATE\nwww.advocate.com/politics/nat...\n\nメイン州上院議員候補のジョーダン・ウッド氏は、ICE（移民・関税執行局）の職員による銃撃死亡事件を受け、ICEの廃止を求めている。同氏は、同機関が国民の信頼を失っており、代替機関が必要だと主張している。またウッド氏は、グラハム・プラットナー氏の失脚を例に挙げ、民主党内での説明責任の重要性を強調するとともに、共和党のスーザン・コリンズ上院議員に効果的に対抗できる候補者を指名することの重要性を訴えている。",
@@ -1996,14 +1988,6 @@
           "createdAt": "2026-07-15T23:41:07.193Z",
           "uri": "at://did:plc:2urhomgq5ryteqi6eignthhw/app.bsky.feed.post/3mqpvhs326l27",
           "sentiment": -0.3
-        },
-        {
-          "id": "07636e78a38b16adbb6ae02d95269b867b9757b8968d37f657f376118b3df32b",
-          "authorHandle": "dirigoblue.bsky.social",
-          "postText": "Just received a call from Jordan Wood for Senate campaign asking if I would register as a candidate for delegate Said I already had Was asked if I was supporting anyone If elected \"I will listen to all candidates and vote for the one that best supports the Platner platform\" #MeSen #MePolitics",
-          "createdAt": "2026-07-15T17:29:59.944Z",
-          "uri": "at://did:plc:emynwtwnfwmol6mxg344f5rm/app.bsky.feed.post/3mqpaq6eiu227",
-          "sentiment": 0.1
         }
       ]
     },
