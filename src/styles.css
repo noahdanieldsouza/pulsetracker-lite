@@ -164,9 +164,9 @@ body {
 /* Sentiment badge */
 
 .sentiment-badge {
-  display: inline-flex;
+  display: flex;
   flex-direction: column;
-  align-items: flex-end;
+  align-items: center;
   line-height: 1.2;
 }
 
@@ -248,10 +248,14 @@ body {
   margin-bottom: 24px;
 }
 
+
+
 .score-row__item {
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 6px;
+  text-align: center;
 }
 
 .score-row__label {

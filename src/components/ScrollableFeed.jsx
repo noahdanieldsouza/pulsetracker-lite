@@ -29,13 +29,17 @@ function NewsItem({ item }) {
 }
 
 function SocialItem({ item }) {
+  const rkey = item.uri.split("/").pop();
+  const postUrl = `https://bsky.app/profile/${item.authorHandle}/post/${rkey}`;
   return (
     <li className="feed-item">
       <div className="feed-item__header">
         <span className="feed-item__source">@{item.authorHandle ?? "unknown"}</span>
         <span className="feed-item__date">{formatDate(item.createdAt)}</span>
       </div>
-      <p className="feed-item__body feed-item__body--post">{item.postText}</p>
+      <a className="feed-item__body" href={postUrl} target="_blank" rel="noreferrer">
+        {item.postText}
+      </a>
       <SentimentBadge score={item.sentiment} size="sm" />
     </li>
   );
