@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T18:02:17.884Z",
+  "lastUpdated": "2026-07-16T19:31:50.468Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -1057,16 +1057,24 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.2,
+      "overallSentiment": 0.2727272727272727,
       "newsSentiment": null,
-      "socialSentiment": 0.2,
+      "socialSentiment": 0.2727272727272727,
       "mentions": {
         "news": 0,
-        "social": 10,
-        "total": 10
+        "social": 11,
+        "total": 11
       },
       "news": [],
       "social": [
+        {
+          "id": "7b05434026be19d5a198949e7bcfb03cc15be7378a17379624305663cd509b73",
+          "authorHandle": "thecantina.bsky.social",
+          "postText": "The fact that the Graham Platner people fucking hate Shenna Bellows despite the fact that she actually has the political record of being a socialist and supporting minorities is interesting",
+          "createdAt": "2026-07-16T18:59:43.809Z",
+          "uri": "at://did:plc:b724is4xqt4il74rld5emoru/app.bsky.feed.post/3mqrw7kbrjc2c",
+          "sentiment": 1
+        },
         {
           "id": "33cd2753d0a52152d5276d1a84509173bbf3cb66b2de7f8d798186b6e236f039",
           "authorHandle": "mctenor1.bsky.social",
@@ -1152,16 +1160,40 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.32954545454545464,
+      "overallSentiment": 0.3066666666666667,
       "newsSentiment": null,
-      "socialSentiment": 0.32954545454545464,
+      "socialSentiment": 0.3066666666666667,
       "mentions": {
         "news": 0,
-        "social": 44,
-        "total": 44
+        "social": 45,
+        "total": 45
       },
       "news": [],
       "social": [
+        {
+          "id": "75226c364105e9b7ede1a0db4b79599f7cf754e48870776fb2281e47b5466841",
+          "authorHandle": "techwizard.bsky.social",
+          "postText": "Notice that none of the platner detractors seem interested in the Maine race any longer or Troy Jackson.",
+          "createdAt": "2026-07-16T19:22:16.224Z",
+          "uri": "at://did:plc:qlmzgy5txatwiexva2gd5kd7/app.bsky.feed.post/3mqrxhu27c223",
+          "sentiment": 0
+        },
+        {
+          "id": "74e5144c673c4dca86715bebc96f007a15861848c46b5300e136d5bc7219d68a",
+          "authorHandle": "progressivepower.bsky.social",
+          "postText": "Hundreds gathered outside Sen. Susan Collins’ office in Maine, demanding accountability after the ICE execution in Biddeford. Susan Collins helped fund ICE by giving MAGA/Trump her vote. She needs to lose her seat to Troy Jackson this November 3rd. #news #politics #MAGA #Trump #ICE",
+          "createdAt": "2026-07-16T19:19:10Z",
+          "uri": "at://did:plc:7sgclcermjo3y4b3625fyvld/app.bsky.feed.post/3mqrxcdi26w22",
+          "sentiment": 0.8
+        },
+        {
+          "id": "fd6a4ab5002dc42f3d6929124f362b49271c842e02764e31a4d917a918cf66db",
+          "authorHandle": "catmcfeline.bsky.social",
+          "postText": "#AbolishICE \n\nyoutu.be/FUbOhBtV6Kc?...",
+          "createdAt": "2026-07-16T18:15:43.471Z",
+          "uri": "at://did:plc:syp5sbeldusi3ugjcrqziee3/app.bsky.feed.post/3mqrtqub2gs2j",
+          "sentiment": 0
+        },
         {
           "id": "38768d2974968e220eb82e4c46cfb3b58d5d566377fac1014d762cc1be0430a4",
           "authorHandle": "mctenor1.bsky.social",
@@ -1497,22 +1529,6 @@
           "createdAt": "2026-07-15T19:32:15.060Z",
           "uri": "at://did:plc:32me6sen2w2ststznfcszfyc/app.bsky.feed.post/3mqphkroj2c25",
           "sentiment": 0.9
-        },
-        {
-          "id": "a8fe9cbec90d71b9bdb9c33995b5631251c1fa1dce85c2278a5a294779cc8772",
-          "authorHandle": "patrickas.bsky.social",
-          "postText": "I think it’s cool that Troy “Escalade” Jackson is the likely new Dem nominee for Senate from the great state of Maine",
-          "createdAt": "2026-07-15T19:09:47.854Z",
-          "uri": "at://did:plc:3isw4k2uaeuae64ibnxju7um/app.bsky.feed.post/3mqpgcmva2c2n",
-          "sentiment": 0.6
-        },
-        {
-          "id": "487cf680899b56c4670b981bb0ab6fd4dde665fae1aca850102cb8024ee76ca8",
-          "authorHandle": "willneils.bsky.social",
-          "postText": "Troy \"Action\" Jackson is the right one for this job.",
-          "createdAt": "2026-07-15T18:51:55.234Z",
-          "uri": "at://did:plc:32me6sen2w2ststznfcszfyc/app.bsky.feed.post/3mqpfcnxaqk25",
-          "sentiment": 0.9
         }
       ]
     },
@@ -1521,11 +1537,11 @@
       "name": "Jordan Wood",
       "overallSentiment": -0.0843267441860465,
       "newsSentiment": -0.168653488372093,
-      "socialSentiment": -6.1679056923619804e-18,
+      "socialSentiment": -5.046468293750712e-18,
       "mentions": {
         "news": 43,
-        "social": 9,
-        "total": 52
+        "social": 11,
+        "total": 54
       },
       "news": [
         {
@@ -1917,6 +1933,22 @@
         }
       ],
       "social": [
+        {
+          "id": "a4a0ad027bfc05e24f1c30acdcb9de19ad756e566a1f0136b44e0a37247bf350",
+          "authorHandle": "magsmom7.bsky.social",
+          "postText": "www.instagram.com/p/DayFSoJJpIy/",
+          "createdAt": "2026-07-16T18:30:47.701Z",
+          "uri": "at://did:plc:cl2x646rknyefmc5l3nq7vrr/app.bsky.feed.post/3mqrulslxkc2w",
+          "sentiment": 0
+        },
+        {
+          "id": "319c4b6af559f56044dcc226232c2f31a0a34b35a14887cf8c5b05ed134c5588",
+          "authorHandle": "ammonsg.bsky.social",
+          "postText": "Anybody from Maine knows where the Bath Iron Works parks its crane. Heads Up for tomorrow night:",
+          "createdAt": "2026-07-16T18:22:16.077Z",
+          "uri": "at://did:plc:h7i3d56374cgofo6ed2mdoqt/app.bsky.feed.post/3mqru4komls27",
+          "sentiment": 0
+        },
         {
           "id": "f4aaedf8292dcff1511c28a0a3afba9dd9f2b2a05f7910dda2b8f41802300e80",
           "authorHandle": "nokingsprotest.bsky.social",
