@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-16T15:41:22.500Z",
+  "lastUpdated": "2026-07-16T16:52:03.548Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.26310883333333335,
+      "overallSentiment": -0.22801079411764708,
       "newsSentiment": -0.679551,
-      "socialSentiment": 0.15333333333333332,
+      "socialSentiment": 0.22352941176470587,
       "mentions": {
         "news": 100,
-        "social": 15,
-        "total": 115
+        "social": 17,
+        "total": 117
       },
       "news": [
         {
@@ -917,6 +917,22 @@
       ],
       "social": [
         {
+          "id": "b7bee37ba63cf8ab0d1579c8387a4b29a9dee986c7e70e9bce35b53ee4735dd4",
+          "authorHandle": "bugg50.bsky.social",
+          "postText": "www.huffpost.com/entry/progre...\n\nCompared to all the other current Congress members, this guy seems over qualified but a good candidate.  It would be nice to have intelligent people in Congress.",
+          "createdAt": "2026-07-16T16:30:26.641Z",
+          "uri": "at://did:plc:zeckpjbmm5nwwpgjyzcxg7ct/app.bsky.feed.post/3mqrnum2p5c2d",
+          "sentiment": 0.7
+        },
+        {
+          "id": "d56a95cfab9b4dc1163bc116272822e2c1b63521533b597bada88a1708c9accc",
+          "authorHandle": "blueeyesofdove1.bsky.social",
+          "postText": "www.huffpost.com/entry/progre...",
+          "createdAt": "2026-07-16T15:43:07.442Z",
+          "uri": "at://did:plc:f53z6nhemyqyiepkqz2cpi4b/app.bsky.feed.post/3mqrl7yf7uk2z",
+          "sentiment": 0.8
+        },
+        {
           "id": "de1190b3f390a1afb85a560a097cf3a0d64326c0ca66355b6f59bb7cdbb1f043",
           "authorHandle": "robillard.bsky.social",
           "postText": "New: The Nirav Shah talking point that Troy Jackson called “bullshit,” and which nicely illustrates the difference between the two progressives seen as the leaders in an unpredictable battle to replace Graham Platner on the ballot.\n\nwww.huffpost.com/entry/progre...",
@@ -1136,9 +1152,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3468085106382979,
+      "overallSentiment": 0.3276595744680852,
       "newsSentiment": null,
-      "socialSentiment": 0.3468085106382979,
+      "socialSentiment": 0.3276595744680852,
       "mentions": {
         "news": 0,
         "social": 47,
@@ -1146,6 +1162,38 @@
       },
       "news": [],
       "social": [
+        {
+          "id": "1b19e2bb8dc65c2bdc97a97f3de118a783e11b5e446c96370479886ea7f132b9",
+          "authorHandle": "bugg50.bsky.social",
+          "postText": "www.huffpost.com/entry/progre...\n\nCompared to all the other current Congress members, this guy seems over qualified but a good candidate.  It would be nice to have intelligent people in Congress.",
+          "createdAt": "2026-07-16T16:30:26.641Z",
+          "uri": "at://did:plc:zeckpjbmm5nwwpgjyzcxg7ct/app.bsky.feed.post/3mqrnum2p5c2d",
+          "sentiment": 0.8
+        },
+        {
+          "id": "359d4ef50b6522adca98c8bd142b9bc7fb2becc324359929b6beb085823c18aa",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "Maine Senate candidate Troy Jackson reminds voters that Sen. Susan Collins helped advance Trump’s budget bill despite the huge Medicaid cuts that are currently hurting millions of Americans.",
+          "createdAt": "2026-07-16T16:25:39.862Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mqrnm2kxi22f",
+          "sentiment": 0.2
+        },
+        {
+          "id": "7a25ce6a8dc2caf8fdfedf5b3edf401b6f1cd6f607f9c81eb8932c77c4b40c6e",
+          "authorHandle": "libertybot.bsky.social",
+          "postText": "91: 🟥Rep. Nehls, Troy E. [R-TX-22]R\n92: 🟥Rep. Hunt, Wesley [R-TX-38]R\n93: 🟦Del. Plaskett, Stacey E. [D-VI-At Large]D\n94: 🟥Rep. Lee, Laurel M. [R-FL-15]R\n95: 🟦Rep. Harder, Josh [D-CA-9]D\n96: 🟥Rep. Bresnahan, Robert P. [R-PA-8]R\n97: 🟦Rep. Jackson, Jonathan L. [D-IL-1]D\n",
+          "createdAt": "2026-07-16T15:45:07.668Z",
+          "uri": "at://did:plc:5g5w6trzfbpnqukyonaugz6m/app.bsky.feed.post/3mqrldl77f524",
+          "sentiment": 0
+        },
+        {
+          "id": "23d7afc39522b23b450bb7a2ecabbd5bd68b8894930eb0d3750fdf50ee319ab7",
+          "authorHandle": "blueeyesofdove1.bsky.social",
+          "postText": "www.huffpost.com/entry/progre...",
+          "createdAt": "2026-07-16T15:43:07.442Z",
+          "uri": "at://did:plc:f53z6nhemyqyiepkqz2cpi4b/app.bsky.feed.post/3mqrl7yf7uk2z",
+          "sentiment": 0
+        },
         {
           "id": "e7354e00231a40194c7a50898862a2cf2bb6513c2a1a924709e0c3647d611756",
           "authorHandle": "robillard.bsky.social",
@@ -1489,51 +1537,19 @@
           "createdAt": "2026-07-15T17:04:51.558804+00:00",
           "uri": "at://did:plc:wzlw5nsbpcebsiccs6iu7ipj/app.bsky.feed.post/3mqp7d7wwyw2w",
           "sentiment": 0.7
-        },
-        {
-          "id": "b68ce9911a4183730dd4b26db0e3da4f579d7c122cfb67e09e919b64bb0001a5",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "Opinion piece on Maine US Senate candidate Troy Jackson, from Andrea Tirrell & Amanda Gavin, Ph.D. candidates in ecology and environmental sciences at UM, current and former volunteers at Bangor’s Mabel Wadsworth Center, and members of United Auto Workers Local 7650.\n\n#MEpolitics #MEsen #TroyJackson",
-          "createdAt": "2026-07-15T16:42:18.184Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mqp62v6ies2v",
-          "sentiment": 0.2
-        },
-        {
-          "id": "a9555070bfb4a939e2c3b13b500ddd1b48e2b6128263761e0f98bc70c16f0481",
-          "authorHandle": "pressherald.com",
-          "postText": "For rural healthcare and reproductive justice, Troy Jackson gets our vote | Opinion",
-          "createdAt": "2026-07-15T16:00:56+00:00",
-          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mqp3qvzzkt2l",
-          "sentiment": 0.8
-        },
-        {
-          "id": "ad1d29d3dc327102692a9d3c7952af835b9907b329c60994d855037f4531b4d3",
-          "authorHandle": "randycain541.bsky.social",
-          "postText": "Maine residents, unite and vote for Troy Jackson for the U.S. Senate to defeat Susan Collins!",
-          "createdAt": "2026-07-15T15:59:48.570Z",
-          "uri": "at://did:plc:4ydidvhbjgoguelatgdjv5td/app.bsky.feed.post/3mqp3ovoivs2i",
-          "sentiment": 0.9
-        },
-        {
-          "id": "bf84f1adc8b1ddc027f2f129757d0a8763a53f355128b998e5768e61734bbda9",
-          "authorHandle": "yangnyin.bsky.social",
-          "postText": "youtu.be/sYgowFM8Jk8?...",
-          "createdAt": "2026-07-15T15:45:10.232Z",
-          "uri": "at://did:plc:46wkrlpdmxsikbqufaqlxtth/app.bsky.feed.post/3mqp2upzoys2u",
-          "sentiment": 0
         }
       ]
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.004326744186046505,
+      "overallSentiment": -0.07807674418604652,
       "newsSentiment": -0.168653488372093,
-      "socialSentiment": 0.16,
+      "socialSentiment": 0.012499999999999994,
       "mentions": {
         "news": 43,
-        "social": 10,
-        "total": 53
+        "social": 8,
+        "total": 51
       },
       "news": [
         {
@@ -1988,22 +2004,6 @@
           "createdAt": "2026-07-15T17:29:59.944Z",
           "uri": "at://did:plc:emynwtwnfwmol6mxg344f5rm/app.bsky.feed.post/3mqpaq6eiu227",
           "sentiment": 0.1
-        },
-        {
-          "id": "7a38fa844a60a5fad176591a566ec02da33c5213a258d4fb87256b303bdb2794",
-          "authorHandle": "eetuhbutt.bsky.social",
-          "postText": "Get behind Jordan Wood!!\n\nHe's the only decent human being that's running right now 🤷\n\n@jordanwood.bsky.social",
-          "createdAt": "2026-07-15T15:57:25.381Z",
-          "uri": "at://did:plc:d3evu3t5hnasgcw6abvpyrpz/app.bsky.feed.post/3mqp3kn4owc2r",
-          "sentiment": 0.8
-        },
-        {
-          "id": "b7529651e4cc16b9a52317af53709f88f74f989803100998b45a35a85a4d2e98",
-          "authorHandle": "eetuhbutt.bsky.social",
-          "postText": "Should be Jordan Wood!!\n\n@jordanwood.bsky.social",
-          "createdAt": "2026-07-15T15:56:07.761Z",
-          "uri": "at://did:plc:d3evu3t5hnasgcw6abvpyrpz/app.bsky.feed.post/3mqp3id3w5c2r",
-          "sentiment": 0.7
         }
       ]
     },
