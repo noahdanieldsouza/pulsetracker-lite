@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-16T13:51:53.082Z",
+  "lastUpdated": "2026-07-16T15:41:22.500Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.23592934615384614,
+      "overallSentiment": -0.26310883333333335,
       "newsSentiment": -0.679551,
-      "socialSentiment": 0.2076923076923077,
+      "socialSentiment": 0.15333333333333332,
       "mentions": {
         "news": 100,
-        "social": 13,
-        "total": 113
+        "social": 15,
+        "total": 115
       },
       "news": [
         {
@@ -917,6 +917,38 @@
       ],
       "social": [
         {
+          "id": "de1190b3f390a1afb85a560a097cf3a0d64326c0ca66355b6f59bb7cdbb1f043",
+          "authorHandle": "robillard.bsky.social",
+          "postText": "New: The Nirav Shah talking point that Troy Jackson called “bullshit,” and which nicely illustrates the difference between the two progressives seen as the leaders in an unpredictable battle to replace Graham Platner on the ballot.\n\nwww.huffpost.com/entry/progre...",
+          "createdAt": "2026-07-16T15:23:47.207Z",
+          "uri": "at://did:plc:2r5nuj673ujipg5bbgnkvzms/app.bsky.feed.post/3mqrk5fvou22k",
+          "sentiment": -0.5
+        },
+        {
+          "id": "25002018ae62505c5ca4d8351bb5b4f71a40c213a58f69cf869bb68ea62ce537",
+          "authorHandle": "some-news.bsky.social",
+          "postText": "The ultra-credentialed Nirav Shah is facing off against logger-turned-legislator Troy Jackson in an unpredictable battle to challenge GOP Sen. Susan Collins.",
+          "createdAt": "2026-07-16T15:04:13.052226+00:00",
+          "uri": "at://did:plc:dtg2oeh4jj3lmbcxyxl6nm34/app.bsky.feed.post/3mqrj2ga55y2d",
+          "sentiment": 0.3
+        },
+        {
+          "id": "e8e6e5cb8cf8c11d8073545a6a0c2b9f0d68843bc5e4ea7c10fe46bf80481854",
+          "authorHandle": "architecturenerd.bsky.social",
+          "postText": "www.huffpost.com/entry/progre...",
+          "createdAt": "2026-07-16T14:37:55.276Z",
+          "uri": "at://did:plc:gszsx5qhrnwd477dmxk6sq5y/app.bsky.feed.post/3mqrhlfhebs2s",
+          "sentiment": 0
+        },
+        {
+          "id": "a8bc6f34e51931b70e333ba51f6ea814f359321af022254afe98da74638bc499",
+          "authorHandle": "centralmenewsbot.bsky.social",
+          "postText": "I encourage Maine voters to support Dr. Nirav Shah&#8217;s candidacy&#160;to become Maine’s next senator for several reasons. Shah has experience and knowledge that would serve Maine well. With a back... #news #maine  \nhttps://www.centralmaine.com/2026/07/16/nirav-shah-for-us-senate-letter/",
+          "createdAt": "2026-07-16T14:00:04.056430+00:00",
+          "uri": "at://did:plc:3gjcmx6u4jnaudpec3awfyfj/app.bsky.feed.post/3mqrfhphtsg2j",
+          "sentiment": 0.7
+        },
+        {
           "id": "db421bfbc82ea96d50f2e4ca96054d896acc099f244591516cbdd195e08bc980",
           "authorHandle": "joyces1.bsky.social",
           "postText": "www.huffpost.com/entry/progre...",
@@ -1002,22 +1034,6 @@
           "postText": "Maine U.S. Senate (D) Candidates vs. Collins - Flash Poll:\n\nTroy Jackson 49% Susan Collins 44%\nDr. Nirav Shah 47% Susan Collins 45%\nShenna Bellows 47%  Susan Collins 45%\n\nwww.politico.com/news/2026/07...",
           "createdAt": "2026-07-15T20:40:47.691Z",
           "uri": "at://did:plc:enzlem7stuqn7sh4ij7joqfb/app.bsky.feed.post/3mqplfdryck2i",
-          "sentiment": 0
-        },
-        {
-          "id": "55b4e1f45acbf8b05c09c54633667d3905946d70313c8b63658061d93e24ddbc",
-          "authorHandle": "centralmenewsbot.bsky.social",
-          "postText": "Nirav Shah should be the Democratic candidate for Senate for Maine. He has already proven that his calm, reasonable leadership can guide the people of Maine through difficult times. Dr. Shah won the m... #news #maine  \nhttps://www.centralmaine.com/2026/07/15/nirav-shah-for-u-s-senate-letter/",
-          "createdAt": "2026-07-15T15:00:04.384059+00:00",
-          "uri": "at://did:plc:3gjcmx6u4jnaudpec3awfyfj/app.bsky.feed.post/3mqoye3mm7r2u",
-          "sentiment": 0.9
-        },
-        {
-          "id": "113907aa9f0fadc4eba397b8d1ae05ddb24f2278b3a39770879ae4ae8e555a71",
-          "authorHandle": "sharonlandry.bsky.social",
-          "postText": "Nirav Shah is once of the candidates running to replace Collins. Here is his press conference addressing the murder in Biddeford and how he is going to be different from Collins.\nyoutu.be/4X_C7FkLzt8?...",
-          "createdAt": "2026-07-15T13:57:33.353Z",
-          "uri": "at://did:plc:vg6xcxg4hafkdr5jbb6cizx5/app.bsky.feed.post/3mqouucbf422h",
           "sentiment": 0
         }
       ]
@@ -1120,16 +1136,40 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3854166666666667,
+      "overallSentiment": 0.3468085106382979,
       "newsSentiment": null,
-      "socialSentiment": 0.3854166666666667,
+      "socialSentiment": 0.3468085106382979,
       "mentions": {
         "news": 0,
-        "social": 48,
-        "total": 48
+        "social": 47,
+        "total": 47
       },
       "news": [],
       "social": [
+        {
+          "id": "e7354e00231a40194c7a50898862a2cf2bb6513c2a1a924709e0c3647d611756",
+          "authorHandle": "robillard.bsky.social",
+          "postText": "New: The Nirav Shah talking point that Troy Jackson called “bullshit,” and which nicely illustrates the difference between the two progressives seen as the leaders in an unpredictable battle to replace Graham Platner on the ballot.\n\nwww.huffpost.com/entry/progre...",
+          "createdAt": "2026-07-16T15:23:47.207Z",
+          "uri": "at://did:plc:2r5nuj673ujipg5bbgnkvzms/app.bsky.feed.post/3mqrk5fvou22k",
+          "sentiment": -0.6
+        },
+        {
+          "id": "2fac6e9b17b613fa2720be053c050e61688e653f5afb3662fd97af0d5fd106f8",
+          "authorHandle": "some-news.bsky.social",
+          "postText": "The ultra-credentialed Nirav Shah is facing off against logger-turned-legislator Troy Jackson in an unpredictable battle to challenge GOP Sen. Susan Collins.",
+          "createdAt": "2026-07-16T15:04:13.052226+00:00",
+          "uri": "at://did:plc:dtg2oeh4jj3lmbcxyxl6nm34/app.bsky.feed.post/3mqrj2ga55y2d",
+          "sentiment": -0.1
+        },
+        {
+          "id": "39fab4430c98e44138838e6b3907dc84798e9dc88b182d68dfa3126deb1ebc9e",
+          "authorHandle": "architecturenerd.bsky.social",
+          "postText": "www.huffpost.com/entry/progre...",
+          "createdAt": "2026-07-16T14:37:55.276Z",
+          "uri": "at://did:plc:gszsx5qhrnwd477dmxk6sq5y/app.bsky.feed.post/3mqrhlfhebs2s",
+          "sentiment": 0
+        },
         {
           "id": "eb87f20ad0b7e7803acdcaf1b5a65642ac3b0fac19eeb76dfe5f84b1214a1941",
           "authorHandle": "debby33.bsky.social",
@@ -1481,51 +1521,19 @@
           "createdAt": "2026-07-15T15:45:10.232Z",
           "uri": "at://did:plc:46wkrlpdmxsikbqufaqlxtth/app.bsky.feed.post/3mqp2upzoys2u",
           "sentiment": 0
-        },
-        {
-          "id": "ab56ea7db7548e2cc1c6baf3dd046e63b854c9dc29d4b4c9eaf85e2ec463d7f7",
-          "authorHandle": "mom2two.bsky.social",
-          "postText": "I would like a well-known cartoonist to depict #SusanCollins dripping in blood while clutching her pearls wish have ICE written on them. It would make a great ad for Platner’s replacement. I’m most excited about #TroyJackson",
-          "createdAt": "2026-07-15T15:17:15.735Z",
-          "uri": "at://did:plc:znwejztcqgadjmu2yj7z6whe/app.bsky.feed.post/3mqozct44ys24",
-          "sentiment": 0.7
-        },
-        {
-          "id": "ea5d104f9fe8195edb4f2cd4f64c5b67e4b6b0b038f4b55a6bdcd03103c9cf86",
-          "authorHandle": "wizprinceshanrick.bsky.social",
-          "postText": "youtu.be/gz7YX_JywHo?...",
-          "createdAt": "2026-07-15T15:09:57.583Z",
-          "uri": "at://did:plc:vft2p7yzuc5utceyrls5llsq/app.bsky.feed.post/3mqoyvrar7k2a",
-          "sentiment": 0
-        },
-        {
-          "id": "7e50e280f9b0ac084489d7457784f489d68c775dc7e418be90c1f0ddf82f3403",
-          "authorHandle": "finalgirlboss.bsky.social",
-          "postText": "So multiple adaptations of Hercules, the Percy Jackson films, Clash of the Titans, and Troy don’t count?",
-          "createdAt": "2026-07-15T15:09:40.359Z",
-          "uri": "at://did:plc:bkb77x5do2czj3eywygt2msu/app.bsky.feed.post/3mqoyvat5us2x",
-          "sentiment": 0
-        },
-        {
-          "id": "570b549bdccc92de94f085a38b69d30022f092af793307be012fed04569912ab",
-          "authorHandle": "sarita32.bsky.social",
-          "postText": "Go away Susan Collins. You are  inconsequential at the point. You need to stop saying nothing. Troy Jackson is on his way to your seat.",
-          "createdAt": "2026-07-15T15:01:04.864Z",
-          "uri": "at://did:plc:gexrnkdndceussayz6makjao/app.bsky.feed.post/3mqoyfv7hss2u",
-          "sentiment": 0.8
         }
       ]
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.0156732558139535,
+      "overallSentiment": -0.004326744186046505,
       "newsSentiment": -0.168653488372093,
-      "socialSentiment": 0.2,
+      "socialSentiment": 0.16,
       "mentions": {
         "news": 43,
-        "social": 9,
-        "total": 52
+        "social": 10,
+        "total": 53
       },
       "news": [
         {
@@ -1918,6 +1926,22 @@
       ],
       "social": [
         {
+          "id": "2f2e830aad1edef033891c5b47cef5920cb34894b724234686ff79af8c5c660d",
+          "authorHandle": "wttudf8uxfhmmde.bsky.social",
+          "postText": "メイン州のジョーダン・ウッド、グラハム・プラットナー、ICE、スーザン・コリンズについて｜ADVOCATE\nwww.advocate.com/politics/nat...\n\nメイン州上院議員候補のジョーダン・ウッド氏は、ICE（移民・関税執行局）の職員による銃撃死亡事件を受け、ICEの廃止を求めている。同氏は、同機関が国民の信頼を失っており、代替機関が必要だと主張している。またウッド氏は、グラハム・プラットナー氏の失脚を例に挙げ、民主党内での説明責任の重要性を強調するとともに、共和党のスーザン・コリンズ上院議員に効果的に対抗できる候補者を指名することの重要性を訴えている。",
+          "createdAt": "2026-07-16T15:24:38.444Z",
+          "uri": "at://did:plc:77sk47m546qlf4gsybnutnle/app.bsky.feed.post/3mqrk6wrcyc2r",
+          "sentiment": -0.2
+        },
+        {
+          "id": "220954f653119124e4cb1c9e0be71ca82b55d614898c50b061017e75778ec650",
+          "authorHandle": "wokeaf3-2.bsky.social",
+          "postText": "www.reddit.com/r/gay/s/VVrU...",
+          "createdAt": "2026-07-16T15:03:41.126Z",
+          "uri": "at://did:plc:hdljjptovr3zb4ygp6uur673/app.bsky.feed.post/3mqrizhoxgc2j",
+          "sentiment": 0
+        },
+        {
           "id": "ad71179ea8f14a6019288058d072ed311bdc62d5ed0a31c2417e26ee29176077",
           "authorHandle": "uspoliticsbriefly.bsky.social",
           "postText": "Maine Democrats face a July 25 nominee deadline as Jordan Wood urges ICE abolition, warns about Platner’s collapse, and argues Collins can be beaten by a moderate on LGBTQ+ rights.\n",
@@ -1980,14 +2004,6 @@
           "createdAt": "2026-07-15T15:56:07.761Z",
           "uri": "at://did:plc:d3evu3t5hnasgcw6abvpyrpz/app.bsky.feed.post/3mqp3id3w5c2r",
           "sentiment": 0.7
-        },
-        {
-          "id": "6f0130a0c95a561ea1e7a4a96c083e81c54ca7ea17fc941957b51f4e1a327e0a",
-          "authorHandle": "nicole7747.bsky.social",
-          "postText": "www.threads.com/@jordanwoodm...",
-          "createdAt": "2026-07-15T14:42:14.197Z",
-          "uri": "at://did:plc:itprqcbtlou5p776waeeezru/app.bsky.feed.post/3mqoxe6wbsc2g",
-          "sentiment": 0
         }
       ]
     },
