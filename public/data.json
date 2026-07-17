@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-17T19:50:42.017Z",
+  "lastUpdated": "2026-07-17T20:48:59.568Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0.17179487179487177,
+      "overallSentiment": 0.16710526315789473,
       "newsSentiment": 0,
-      "socialSentiment": 0.34358974358974353,
+      "socialSentiment": 0.33421052631578946,
       "mentions": {
         "news": 19,
-        "social": 39,
-        "total": 58
+        "social": 38,
+        "total": 57
       },
       "news": [
         {
@@ -490,14 +490,6 @@
           "createdAt": "2026-07-16T21:05:06.434Z",
           "uri": "at://did:plc:btmcbyoqf62qs6kiwi4x33y2/app.bsky.feed.post/3mqs57qg2yk2g",
           "sentiment": -1
-        },
-        {
-          "id": "3bb123c41c05f533e9e47c25fda7ae519b452883669cb8c41af97ddf979a0f31",
-          "authorHandle": "mohaveindv.bsky.social",
-          "postText": "BREAKING: New polling from Survey USA shows Democrat Nirav Shah in the lead against Susan Collins in Maine. Polling also shows Shah is the best performing Democrat of any candidate now in the race against Collins.",
-          "createdAt": "2026-07-16T20:12:20.441Z",
-          "uri": "at://did:plc:47tpdh3mfxq2f3wkd6abmhrq/app.bsky.feed.post/3mqs2bf3ovs2v",
-          "sentiment": 0.7
         }
       ]
     },
@@ -948,13 +940,13 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.027427611940298538,
+      "overallSentiment": 0.038589130434782626,
       "newsSentiment": -0.125,
-      "socialSentiment": 0.17985522388059708,
+      "socialSentiment": 0.20217826086956525,
       "mentions": {
         "news": 24,
-        "social": 68,
-        "total": 92
+        "social": 70,
+        "total": 94
       },
       "news": [
         {
@@ -1175,6 +1167,38 @@
         }
       ],
       "social": [
+        {
+          "id": "f98206d78bee44ff8244dee8f76d25753f5628494d695ff7e2c61a755d59bbe1",
+          "authorHandle": "trumpstaxes.com",
+          "postText": "Democrat Troy Jackson would seem to be going into the Senate nominating convention with a decent lead among Maine Democratic delegates.\n\nEncouraging for him, and possibly a nightmare scenario for Susan Collins as Jackson held a pretty Trumpy deep red district in the State Senate.",
+          "createdAt": "2026-07-17T20:32:11.680Z",
+          "uri": "at://did:plc:cexv466mp2fhpjqqyh6cxxmi/app.bsky.feed.post/3mqultsm6ak23",
+          "sentiment": 0.2
+        },
+        {
+          "id": "655c2ddcbcbbb9d704dadd630d2de353920760c0b57f954c1ea469c91e00e0aa",
+          "authorHandle": "verm.me",
+          "postText": "FWIW, Troy Jackson has a list of delegates to vote for if you’re firmly in his camp; I imagine other candidates will do or have done likewise:",
+          "createdAt": "2026-07-17T20:24:23.093Z",
+          "uri": "at://did:plc:azo4z267bjjsg6rexd2pozkw/app.bsky.feed.post/3mqulftpxsc2y",
+          "sentiment": 0
+        },
+        {
+          "id": "28ce06a54ae8581161e537db4ba99c299a77c87ec39455b39591a3ba8d335322",
+          "authorHandle": "merovingians.bsky.social",
+          "postText": "if Platner had turned out not to be as big of a monster I was kinda hoping he'd be a bit Butler-esque in congress - though at this rate we may kind of get it from Troy Jackson anyway?",
+          "createdAt": "2026-07-17T20:18:46.950Z",
+          "uri": "at://did:plc:rbzy3issuaqfwgorq22z67aw/app.bsky.feed.post/3mqul3t5q4s2a",
+          "sentiment": 0.3
+        },
+        {
+          "id": "437958397ecdbe8f5194db74e5df87c85bdbf775cc5b6e4e3899afd043cf0a7f",
+          "authorHandle": "ylime13.bsky.social",
+          "postText": "I am officially on duty today as delegate for special election . But there is no sanctity in this process. Being forced into this and forced to choose candidates you already ruled out is crazy. And yes Troy Jackson is another centrist , republican like Fetterman. Don’t trust him.",
+          "createdAt": "2026-07-17T20:09:14.107Z",
+          "uri": "at://did:plc:fei555e43eehhf4fpwnd4axj/app.bsky.feed.post/3mqukkqtw5s2g",
+          "sentiment": -0.6
+        },
         {
           "id": "dc1098aff0fe9e02a8f25425fcdedeb4f629dc7bb5b52b8684e25ac4bffc444b",
           "authorHandle": "susanr58.bsky.social",
@@ -1702,35 +1726,19 @@
           "createdAt": "2026-07-16T20:55:02.461Z",
           "uri": "at://did:plc:dzjfxfsjih5iq2eblimjzyb5/app.bsky.feed.post/3mqs4nqgan22o",
           "sentiment": -0.4
-        },
-        {
-          "id": "b1173443d654c728a2888abb17d55bb7180277bed09e915dc345ed28678a98cd",
-          "authorHandle": "vhemt4all.bsky.social",
-          "postText": "#fucktheGOP #maine",
-          "createdAt": "2026-07-16T20:01:42.451Z",
-          "uri": "at://did:plc:io34bo52nuxy42k6k34ncssz/app.bsky.feed.post/3mqrzoenouk2y",
-          "sentiment": -1
-        },
-        {
-          "id": "99d99b78aa1fc63409f01d8d91ae91bbdca8acbcda5ce3b9cafe4f2aacadd001",
-          "authorHandle": "mainstream-media.bsky.social",
-          "postText": "Troy Jackson, an anti-corporate Maine Senate hopeful, touts endorsements from lobbyists\n\nhttps://www.washingtonexaminer.com/n...",
-          "createdAt": "2026-07-16T20:00:32.997145+00:00",
-          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mqrzmchb5n2i",
-          "sentiment": -1
         }
       ]
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.055458089668615984,
+      "overallSentiment": -0.0678062678062678,
       "newsSentiment": -0.07407407407407407,
-      "socialSentiment": -0.036842105263157905,
+      "socialSentiment": -0.06153846153846153,
       "mentions": {
         "news": 27,
-        "social": 38,
-        "total": 65
+        "social": 39,
+        "total": 66
       },
       "news": [
         {
@@ -1978,6 +1986,14 @@
         }
       ],
       "social": [
+        {
+          "id": "e74219a3a696a3f62457964cac6b2fa15e2d5a8c06a99d18636b893c4a5f36ef",
+          "authorHandle": "trumpstaxes.com",
+          "postText": "Democrat Troy Jackson would seem to be going into the Senate nominating convention with a decent lead among Maine Democratic delegates.\n\nEncouraging for him, and possibly a nightmare scenario for Susan Collins as Jackson held a pretty Trumpy deep red district in the State Senate.",
+          "createdAt": "2026-07-17T20:32:11.680Z",
+          "uri": "at://did:plc:cexv466mp2fhpjqqyh6cxxmi/app.bsky.feed.post/3mqultsm6ak23",
+          "sentiment": -1
+        },
         {
           "id": "a4502f4ed099ac3fb8db3762899714ba351f68db5cf03cad13153b215f260018",
           "authorHandle": "jimlo-hi.bsky.social",
@@ -2287,13 +2303,13 @@
     {
       "id": "paige-loud",
       "name": "Paige Loud",
-      "overallSentiment": -0.24871794871794872,
+      "overallSentiment": -0.09038461538461538,
       "newsSentiment": -0.23076923076923078,
-      "socialSentiment": -0.26666666666666666,
+      "socialSentiment": 0.05000000000000001,
       "mentions": {
         "news": 13,
-        "social": 6,
-        "total": 19
+        "social": 8,
+        "total": 21
       },
       "news": [
         {
@@ -2415,6 +2431,22 @@
         }
       ],
       "social": [
+        {
+          "id": "30a5ac80cea71811a6ca9d343d17ba9589128491824b6ef0a44fc01ce38daf61",
+          "authorHandle": "amerliberal.bsky.social",
+          "postText": "THANK YOU Paige Loud for Everything You Do - ALWAYS ‼️\n\nThank you for serving our nation,\nPLEASE never stop running for office ‼️",
+          "createdAt": "2026-07-17T20:06:44.475Z",
+          "uri": "at://did:plc:jhnxtnubqvp4bebtc53pgcrb/app.bsky.feed.post/3mqukgc5i6k2f",
+          "sentiment": 1
+        },
+        {
+          "id": "cdb51f6ddebba9f59af58226681b8ae2de64c3ef2c77a0a1da6bb9b4b200dfa6",
+          "authorHandle": "amerliberal.bsky.social",
+          "postText": "THANK YOU Paige Loud for Everything You Do - ALWAYS ‼️\n\nThank you for serving our nation,\nPLEASE never stop running for office ‼️\n\nREAD this whole statement...",
+          "createdAt": "2026-07-17T20:05:21.210Z",
+          "uri": "at://did:plc:jhnxtnubqvp4bebtc53pgcrb/app.bsky.feed.post/3mqukdsqgpc2f",
+          "sentiment": 1
+        },
         {
           "id": "6b8e284c63c6b2698ed03b4ac2ce761a2f077c996899e89028d55fce7db1b5e2",
           "authorHandle": "dirigoblue.bsky.social",
