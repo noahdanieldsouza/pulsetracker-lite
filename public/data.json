@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-16T23:41:41.293Z",
+  "lastUpdated": "2026-07-17T01:14:10.665Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.21624608823529415,
+      "overallSentiment": -0.18744991860465124,
       "newsSentiment": -0.679551,
-      "socialSentiment": 0.24705882352941172,
+      "socialSentiment": 0.30465116279069754,
       "mentions": {
         "news": 100,
-        "social": 34,
-        "total": 134
+        "social": 43,
+        "total": 143
       },
       "news": [
         {
@@ -917,6 +917,78 @@
       ],
       "social": [
         {
+          "id": "f9b4e133076b159f45263e6865fdc73246c48c5283f6b9fffa8270d4adeab5de",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Overall in the Maine Senate race, the four candidates from the first debate would all be okay, though all have issues. Nirav Shah and Jordan Wood significantly improved their standing with me in this debate. Shenna Bellows hurt her standing. Troy Jackson failed to impress, but his platform is good.",
+          "createdAt": "2026-07-17T01:02:57.263Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqskj256hk26",
+          "sentiment": 0.6
+        },
+        {
+          "id": "f87aef896881c1e990ff5ab97d9c9a3dc2d1b903f1fd24807ce316681690408b",
+          "authorHandle": "dattimmytim.bsky.social",
+          "postText": "Nirav Shah is looking like a very good replacement in Maine.",
+          "createdAt": "2026-07-17T00:48:22.766Z",
+          "uri": "at://did:plc:jui2s42movqpf7vvdjs7af5a/app.bsky.feed.post/3mqsjoy5nic2w",
+          "sentiment": 0.7
+        },
+        {
+          "id": "5350c8c748986837522c9331fed5258f381bd5fc200a267fac12a815936331b5",
+          "authorHandle": "euthyphro.bsky.social",
+          "postText": "Arguably politics shouldn’t be a personality contest but seeing how it is, I think Maine’s best chance to defeat Collins is with either Sheena Bellows, Nirav Shah, or Dan Kleban.",
+          "createdAt": "2026-07-17T00:46:47.899Z",
+          "uri": "at://did:plc:mhhpqasnlg2hvmjx5uundqss/app.bsky.feed.post/3mqsjm5okvs2r",
+          "sentiment": 0.6
+        },
+        {
+          "id": "29ab3a1a28f227f09b90da8bbd5255aa1d48d4dc16d7502891b45a63b4745f97",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Okay, final thoughts on the first-half debate:\n\nNirav Shah took this away. Clear winner of the debate! His funding remains suspect, but he's giving the best answers by far.\n\nShenna Bellows completely turned me off from her with her answers.",
+          "createdAt": "2026-07-17T00:02:45.035Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsh5faq2m2q",
+          "sentiment": 0.8
+        },
+        {
+          "id": "e954c40c81e7eed838450738d9d246b429bd5d1e1e69cabb5ec6e6a66f6a0ea5",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Nirav Shah: I've got three letters for you: RFK. One of Collin's most odious Senate confirmation votes. We've had zero oversight with Collins. I'd seek a committee assignment on the health committee to hold Kennedy to account.",
+          "createdAt": "2026-07-16T23:57:14.853Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgtkeep42q",
+          "sentiment": 0.5
+        },
+        {
+          "id": "f740cd93e6a8df1eba70d4c7aaf06c84d5f2cd30da970ce4f4639bf5b8249192",
+          "authorHandle": "euthyphro.bsky.social",
+          "postText": "“My North Star is Medicare for all because health care is a human right.” - Nirav Shah",
+          "createdAt": "2026-07-16T23:53:07.801Z",
+          "uri": "at://did:plc:mhhpqasnlg2hvmjx5uundqss/app.bsky.feed.post/3mqsgm6qwy22r",
+          "sentiment": 0.4
+        },
+        {
+          "id": "9ad6a9260b3910fce00b0b1f8fb2c3653038a479ced3ac2e45a86fd229cb45a5",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Also Nirav Shah: My north star is Medicare for All, but we can also work on other reforms along the way there.",
+          "createdAt": "2026-07-16T23:52:41.654Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsglfsyse2q",
+          "sentiment": 0.4
+        },
+        {
+          "id": "8d85cd23d72a9f5f71f4fb768073a342c788c5d03aa5ca1f8e07b52700e85c59",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Nirav Shah: I'll work with Republicans to make advances on our nation's healthcare. Neither side thinks insurance companies are working for us.",
+          "createdAt": "2026-07-16T23:52:15.105Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgkmis242q",
+          "sentiment": 0.4
+        },
+        {
+          "id": "96e07b3483fa7013e5e63a08213c57c55248c2d6a7eb1fec3baac3924fa1c19c",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Nirav Shah: I'm not an apologist for Maduro, but Trump did not have the authority to abduct him. Finally a clear answer.",
+          "createdAt": "2026-07-16T23:47:01.111Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgbb2hbm2q",
+          "sentiment": 0.3
+        },
+        {
           "id": "a70f5738245702ab8bd2a85a533731d4cc22fe53ce0488b077b900434e7d880c",
           "authorHandle": "chuckmcknight.bsky.social",
           "postText": "Nirav Shah: Continue funding Ukraine as our ally. Reign in Putin. Don't embolden him with concessions.",
@@ -1193,16 +1265,88 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.22727272727272727,
+      "overallSentiment": 0.05500000000000003,
       "newsSentiment": null,
-      "socialSentiment": 0.22727272727272727,
+      "socialSentiment": 0.05500000000000003,
       "mentions": {
         "news": 0,
-        "social": 22,
-        "total": 22
+        "social": 30,
+        "total": 30
       },
       "news": [],
       "social": [
+        {
+          "id": "306b2624c65a4711530ff6ca2a9b65a9881ab2a4e903ae1aeaae2768d1f5e43a",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Overall in the Maine Senate race, the four candidates from the first debate would all be okay, though all have issues. Nirav Shah and Jordan Wood significantly improved their standing with me in this debate. Shenna Bellows hurt her standing. Troy Jackson failed to impress, but his platform is good.",
+          "createdAt": "2026-07-17T01:02:57.263Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqskj256hk26",
+          "sentiment": -0.8
+        },
+        {
+          "id": "847fc8916ec6fb40a558bdc9a148b3c7aaf3e826329005e2331335775a63bb48",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Okay, final thoughts on the first-half debate:\n\nNirav Shah took this away. Clear winner of the debate! His funding remains suspect, but he's giving the best answers by far.\n\nShenna Bellows completely turned me off from her with her answers.",
+          "createdAt": "2026-07-17T00:02:45.035Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsh5faq2m2q",
+          "sentiment": -0.9
+        },
+        {
+          "id": "99db51be575f3c94c75ea6a4f4f4c05259a9f5969f575ee9ba97e09ad9b2d7c8",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "End daylight savings time: Shenna Bellows: There are reasons for and against, but won't commit to anything. Troy Jackson: I would not support it. Nirah Shah: Yes, but make sure it's an extra hour in the evening. Jordan Wood: Also a yes.",
+          "createdAt": "2026-07-17T00:00:26.445Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgzb3cb42q",
+          "sentiment": -0.3
+        },
+        {
+          "id": "27ca48c31f08e6cee20c8a5407ddabd51aa80a5227c86dfb41f1cbc3c1ab5336",
+          "authorHandle": "huffpost.com",
+          "postText": "“[Platner] energized a movement that was already there,” Maine Secretary of State Shenna Bellows said.",
+          "createdAt": "2026-07-16T23:56:46.907Z",
+          "uri": "at://did:plc:j4eroku3volozvv6ljsnnfec/app.bsky.feed.post/3mqsgspr3lr27",
+          "sentiment": 0
+        },
+        {
+          "id": "4d45e19d15ba839c03246c2ec2eab855ad74d78caf1229c95ffa3f2adf77fcfe",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Honestly, Shenna Bellows answers here are completely tanking any appreciation I had for her. Platitudes at best. Incoherent at worst.",
+          "createdAt": "2026-07-16T23:55:13.576Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgpwpc4u2q",
+          "sentiment": -0.85
+        },
+        {
+          "id": "28a9a255df48b1f846c43633a585b74d72fd46534dad60ae8a180a1c89f61fc9",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Shenna Bellows: I have a lot of ideas. The path to regaining the US Senate runs through me. Without me, we won't be able to hold Trump accountable. (Apparently she thinks she's the only one that can win?)",
+          "createdAt": "2026-07-16T23:54:40.501Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgox5wd42q",
+          "sentiment": -0.7
+        },
+        {
+          "id": "2a40fa8a0cc51103b5a8497e7cf73e5d1303afc6cd89b72678e5c2dda5b7a47d",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Shenna Bellows: Democratic/Republican is a false binary. Seriously, what? Where has she been living this past decade?",
+          "createdAt": "2026-07-16T23:50:18.439Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgh5agfm2q",
+          "sentiment": -0.8
+        },
+        {
+          "id": "aaff6ed8a0bd1445fdf3cf2be7e6f55cb4b6fca9d4ea3b2d49561e3ef5d1a3b8",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Shenna Bellows on Venezuela: We can't trust Trump. No answer to whether abducting Maduro was right. \"It's sometimes confusing.\"",
+          "createdAt": "2026-07-16T23:44:58.012Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsg5lnrfu2q",
+          "sentiment": -0.6
+        },
+        {
+          "id": "9ddfe6e215d0e8a0cfe9c78ecf82afb17a775af9eca86399537acb19a7621f74",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Shenna Bellows: I will always support Ukraine in this moment. It's about defending democracy and standing up for freedom and against dictators and oppressors.",
+          "createdAt": "2026-07-16T23:43:17.920Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsg2m77cu2q",
+          "sentiment": 0.6
+        },
         {
           "id": "4c391b61ec60e037e08f8ece9ad898f73266f20b0bee21d2a3e10a83e8f9e991",
           "authorHandle": "chuckmcknight.bsky.social",
@@ -1370,30 +1514,150 @@
           "createdAt": "2026-07-16T11:14:57.58139844Z",
           "uri": "at://did:plc:fhfcgh73g7y4wjk7tx647lnp/app.bsky.feed.post/3mqr4ahvysk2s",
           "sentiment": 0
-        },
-        {
-          "id": "2b9bfe73981ad49bfba4ee703a2787c0afdf271e118a6b2769a63ae5c1ba2eec",
-          "authorHandle": "mike-in-the-box.bsky.social",
-          "postText": "So, of the 12 people running for the Democratic senate nomination in Maine, I believe two previously endorsed a Nazi rapist: Shenna Bellows, and Troy Jackson. Both did campaign rallies with him.\n\nI think Dan Kleban explicitly stated at one point that he wouldn't accept any support from Platner.",
-          "createdAt": "2026-07-16T00:53:51.851Z",
-          "uri": "at://did:plc:fedn7qfnkhpr6pnihdosetrq/app.bsky.feed.post/3mqpzjujrkk2b",
-          "sentiment": -1
         }
       ]
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.18200000000000002,
+      "overallSentiment": 0.1872952380952381,
       "newsSentiment": null,
-      "socialSentiment": 0.18200000000000002,
+      "socialSentiment": 0.1872952380952381,
       "mentions": {
         "news": 0,
-        "social": 50,
-        "total": 50
+        "social": 63,
+        "total": 63
       },
       "news": [],
       "social": [
+        {
+          "id": "6641c43e258f618e8c10f5e70e5a83b451dd6f6085bc7d05072be847b1b54fac",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Overall in the Maine Senate race, the four candidates from the first debate would all be okay, though all have issues. Nirav Shah and Jordan Wood significantly improved their standing with me in this debate. Shenna Bellows hurt her standing. Troy Jackson failed to impress, but his platform is good.",
+          "createdAt": "2026-07-17T01:02:57.263Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqskj256hk26",
+          "sentiment": 0.6059
+        },
+        {
+          "id": "0c4dc3643ef7bafce1e2cc0db30d4deee25444c1cd964392785852b70c0fa95d",
+          "authorHandle": "caretaker2.bsky.social",
+          "postText": "I still think Troy Jackson.  He's got a good record, shows he has evolved, still very relatable to working class people. I believe he knows the plight of the working class having lived it, is leading in polls and has tons of endorsements.",
+          "createdAt": "2026-07-17T00:47:17.155Z",
+          "uri": "at://did:plc:osrc7ccdm5yofhnjqvwv35bc/app.bsky.feed.post/3mqsjmzlf7s26",
+          "sentiment": 0.4404
+        },
+        {
+          "id": "aa0fa837d07aeb67dd5a2686fc7c7849ff3f606140380c53fb8e7459d85337ec",
+          "authorHandle": "returnedknyaz.bsky.social",
+          "postText": "Troy Jackson is definitely the guy here",
+          "createdAt": "2026-07-17T00:27:04.938Z",
+          "uri": "at://did:plc:nspmrirz2fcpxzn4cv5homlq/app.bsky.feed.post/3mqsiivjglc2v",
+          "sentiment": 0.4019
+        },
+        {
+          "id": "47f805f9ea81c4e8c595467b22dc9f4de7546470aa1bc4407aa00f0bba59d2ec",
+          "authorHandle": "clearlyashley.bsky.social",
+          "postText": "Troy Jackson is like “hey, remember that guy? I’m him but without the gross shit and WITH an actual working class background. vote for me!”\n\nit’ll probably fuckin work lmao",
+          "createdAt": "2026-07-17T00:26:23.690Z",
+          "uri": "at://did:plc:zjkfkzunzinds2ozg6uidsiv/app.bsky.feed.post/3mqsiho6qb22g",
+          "sentiment": 0.9394
+        },
+        {
+          "id": "8eeac92020184458f4ce9190fb0a5d8d089cd8ced4039a44d009cd1d11318367",
+          "authorHandle": "returnedknyaz.bsky.social",
+          "postText": "the new progressive vanguard being Troy Jackson, Peggy Flanagan, and Abdul El-Sayed isn't so bad",
+          "createdAt": "2026-07-17T00:25:44.698Z",
+          "uri": "at://did:plc:nspmrirz2fcpxzn4cv5homlq/app.bsky.feed.post/3mqsigiyp7c2v",
+          "sentiment": 0.5549
+        },
+        {
+          "id": "78dfe2b4c3f7a8dded5c4b7d4fc7ab7d701d74c4c8331cbd00c0b3239eead829",
+          "authorHandle": "looptyloopandpull.bsky.social",
+          "postText": "Troy Jackson is so dull, his platform is great, but he is not going to inspire turnout.\n\nThe rest are duds.\n\nCollins handed a W",
+          "createdAt": "2026-07-17T00:17:30.931Z",
+          "uri": "at://did:plc:gku7qdyraya5j5gcp4hincs5/app.bsky.feed.post/3mqshxs44uk2c",
+          "sentiment": -0.5708
+        },
+        {
+          "id": "836f32b9d3ece2b51856e9595d98eb3ca3be6bf914d28d7fa7d1b4571f009c7c",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Jordan Wood improved his standing with me by giving some clear, good answers. He was obviously nervous, but I think better of him now than before.\n\nTroy Jackson was kind of meh. Fine answers, not always the best. Never the worst.",
+          "createdAt": "2026-07-17T00:02:45.036Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsh5fasye2q",
+          "sentiment": -0.4752
+        },
+        {
+          "id": "dbd6bf2b0a88e9ad7a578866461cc644dc3280dc05f25fcac0c7a62ccebed9ae",
+          "authorHandle": "vegancj.bsky.social",
+          "postText": "As policies go. So far: Sheena Bellows and Troy Jackson are similar. They both sound fairly informed. Dr. Nirav Shaw sounds like he's actually done his homework and sounds like he has a great grasp on the issues and has a plan. Jordan Wood...kinda sounds like he's just nodding along to the questions",
+          "createdAt": "2026-07-17T00:01:11.149Z",
+          "uri": "at://did:plc:oxkq25pb6uzaxczh53tcb663/app.bsky.feed.post/3mqsh2lplic2d",
+          "sentiment": 0.891
+        },
+        {
+          "id": "d739d774669237a744b74fc293b6daa873c45e6619aec6b46f5eecfa34ac982b",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "End daylight savings time: Shenna Bellows: There are reasons for and against, but won't commit to anything. Troy Jackson: I would not support it. Nirah Shah: Yes, but make sure it's an extra hour in the evening. Jordan Wood: Also a yes.",
+          "createdAt": "2026-07-17T00:00:26.445Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgzb3cb42q",
+          "sentiment": 0.7032
+        },
+        {
+          "id": "5581b4072dde00c5d13a2765811210593d0e1143ed95e4fd3f1749b6f6293855",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Troy Jackson: I stand up for working class people. Collins has completely forgotten who she's representing. She's supposed to be fighting for farmers, not giving tax cuts to billionaires.",
+          "createdAt": "2026-07-16T23:55:58.983Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgrbyyvm2q",
+          "sentiment": -0.5915
+        },
+        {
+          "id": "c19db5e4e49522a29eb5d2fb2aa8bfad80bc1e195ca4c62c949ef7451ed86d4e",
+          "authorHandle": "vegancj.bsky.social",
+          "postText": "As public speakers go: Dr. Nirav Shaw is a really great public speaker. Sheena Bellows has a strange slow cadence that is irritating to follow. Troy Jackson comes off as \"befuddled hometown\" and Jordan Wood sounds like he has a cold and his hand cadence thing that he does is very distracting.",
+          "createdAt": "2026-07-16T23:55:26.885Z",
+          "uri": "at://did:plc:oxkq25pb6uzaxczh53tcb663/app.bsky.feed.post/3mqsgqdfi6c2d",
+          "sentiment": 0.5859
+        },
+        {
+          "id": "a57ad9b0f2a4039aba708d3b6ca7eb3481ea32e7e0c336adec999274d81e5c0f",
+          "authorHandle": "harianddors.bsky.social",
+          "postText": "@muellershewrote.com Troy Jackson seems bored with the Maine senate debate tonight",
+          "createdAt": "2026-07-16T23:53:32.197Z",
+          "uri": "at://did:plc:q76mvwmbkautxvwfczvdbxpu/app.bsky.feed.post/3mqsgmvzk4s23",
+          "sentiment": -0.2732
+        },
+        {
+          "id": "8a9f093333d2cbf10fef72600dec5b3e359e9948a6fe74c2ec4ed742ffd8d361",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Troy Jackson: I'd work with Republicans on anything [that they'll work with us on].",
+          "createdAt": "2026-07-16T23:51:15.115Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgitc22m2q",
+          "sentiment": 0
+        },
+        {
+          "id": "0ef7c2838b9788f6f9036c06ffae349475cc20d0c724591921936a0f40efa81c",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Troy Jackson: We need information to make a good judgment on Maduro, apparently. Really disappointing neither Troy nor Jackson can actually condemn the abduction.",
+          "createdAt": "2026-07-16T23:46:29.945Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgadddq42q",
+          "sentiment": -0.7902
+        },
+        {
+          "id": "56cf9e35c8a5b0e3425d74f5b6dc05a504d6fa5abaf390db49c869d0e8fbe01c",
+          "authorHandle": "blueriverrrr.bsky.social",
+          "postText": "Troy Jackson is the guy. Please make the right choice Maine delegates 🤞",
+          "createdAt": "2026-07-16T23:44:19.765Z",
+          "uri": "at://did:plc:twctkqmt5s52zajjrxyx2qtl/app.bsky.feed.post/3mqsg4h6lsc2l",
+          "sentiment": 0.3182
+        },
+        {
+          "id": "cee00eae9e4867482960d6dd552329009d746de7bdebe1ebf258275fe63dec6a",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Troy Jackson: Support Ukraine. They deserve our support.",
+          "createdAt": "2026-07-16T23:44:06.757Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsg42rlp42q",
+          "sentiment": 0.6597
+        },
         {
           "id": "d695ed003689c2c1fb6b30c2348d65006d33b5357727ae1c54dd2d336f4a134d",
           "authorHandle": "chuckmcknight.bsky.social",
@@ -1769,43 +2033,19 @@
           "createdAt": "2026-07-16T02:17:10.503Z",
           "uri": "at://did:plc:4llyqwdqnd6t7ncyvvjzeih7/app.bsky.feed.post/3mqq66tmjnk2q",
           "sentiment": 0
-        },
-        {
-          "id": "ba572b5d7d73d22a73dc0ea8edeb080c1fa7e5a46d62b5a88de328340bc47d2f",
-          "authorHandle": "mike-in-the-box.bsky.social",
-          "postText": "So, of the 12 people running for the Democratic senate nomination in Maine, I believe two previously endorsed a Nazi rapist: Shenna Bellows, and Troy Jackson. Both did campaign rallies with him.\n\nI think Dan Kleban explicitly stated at one point that he wouldn't accept any support from Platner.",
-          "createdAt": "2026-07-16T00:53:51.851Z",
-          "uri": "at://did:plc:fedn7qfnkhpr6pnihdosetrq/app.bsky.feed.post/3mqpzjujrkk2b",
-          "sentiment": -0.7
-        },
-        {
-          "id": "052fe6547ca61aa9b240cb4d0cb507e9b9fbc7ac9e76fec41c323843fbf3d294",
-          "authorHandle": "jacobinmag.bsky.social",
-          "postText": "Troy Jackson is currently vying to become Maine’s Democratic Senate nominee in the wake of the Graham Platner scandal.\n\nJackson’s history as a fighter for the state’s loggers is a long one.",
-          "createdAt": "2026-07-16T00:14:45.776910161Z",
-          "uri": "at://did:plc:swj6nxxfi5gcpgjdzvo25cri/app.bsky.feed.post/3mqpxdxa3ow24",
-          "sentiment": 0.6
-        },
-        {
-          "id": "e03cc5e5e2fba6553c384049613b7344e48549cb92edba55abf4c30ad0aa6b32",
-          "authorHandle": "hrryan.bsky.social",
-          "postText": "It seems to me that Troy Jackson is the most likely to win. At least he has a legit working-class background and a lot of experience in state politics, unlike the phony.",
-          "createdAt": "2026-07-16T00:13:28.467Z",
-          "uri": "at://did:plc:spqwe32mjsz2nhidkpdqlwqj/app.bsky.feed.post/3mqpxbnfxmk2s",
-          "sentiment": 0.8
         }
       ]
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.09294743384121892,
+      "overallSentiment": -0.07432674418604651,
       "newsSentiment": -0.168653488372093,
-      "socialSentiment": -0.01724137931034482,
+      "socialSentiment": 0.02,
       "mentions": {
         "news": 43,
-        "social": 29,
-        "total": 72
+        "social": 40,
+        "total": 83
       },
       "news": [
         {
@@ -2198,6 +2438,94 @@
       ],
       "social": [
         {
+          "id": "ab09ed308ea791d8282f2ac3b55a9d944bc1c7200361611b35dc627057572938",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Overall in the Maine Senate race, the four candidates from the first debate would all be okay, though all have issues. Nirav Shah and Jordan Wood significantly improved their standing with me in this debate. Shenna Bellows hurt her standing. Troy Jackson failed to impress, but his platform is good.",
+          "createdAt": "2026-07-17T01:02:57.263Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqskj256hk26",
+          "sentiment": 0.6
+        },
+        {
+          "id": "99e28bd2e4b6a34a7c9429b587fdcbbbb12ed6eb58d3ffdba03a52613c9831b5",
+          "authorHandle": "beesmartypants.bsky.social",
+          "postText": "@jordanwood.bsky.social was prescient on Platner. I have a feeling he may have known more than he let on \n\nwww.bangordailynews.com/2025/10/22/p...",
+          "createdAt": "2026-07-17T00:23:28.987Z",
+          "uri": "at://did:plc:ay5xjpzbbmyh6mucxrlvwipk/app.bsky.feed.post/3mqsichlatk2b",
+          "sentiment": 0.5
+        },
+        {
+          "id": "aa6195c9fc873700281350400d3857f3955077889622f6637ea0aca5a781c23e",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Jordan Wood improved his standing with me by giving some clear, good answers. He was obviously nervous, but I think better of him now than before.\n\nTroy Jackson was kind of meh. Fine answers, not always the best. Never the worst.",
+          "createdAt": "2026-07-17T00:02:45.036Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsh5fasye2q",
+          "sentiment": 0.7
+        },
+        {
+          "id": "da133f9b655261b4b26308e7807b9834e6a5e838aab842d0c627224c6d1a7d02",
+          "authorHandle": "vegancj.bsky.social",
+          "postText": "As policies go. So far: Sheena Bellows and Troy Jackson are similar. They both sound fairly informed. Dr. Nirav Shaw sounds like he's actually done his homework and sounds like he has a great grasp on the issues and has a plan. Jordan Wood...kinda sounds like he's just nodding along to the questions",
+          "createdAt": "2026-07-17T00:01:11.149Z",
+          "uri": "at://did:plc:oxkq25pb6uzaxczh53tcb663/app.bsky.feed.post/3mqsh2lplic2d",
+          "sentiment": -0.3
+        },
+        {
+          "id": "3346f76e017d6d24b826e3c28b4f19e2d9e5520d68a677b7903e1e7db1c26dca",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "End daylight savings time: Shenna Bellows: There are reasons for and against, but won't commit to anything. Troy Jackson: I would not support it. Nirah Shah: Yes, but make sure it's an extra hour in the evening. Jordan Wood: Also a yes.",
+          "createdAt": "2026-07-17T00:00:26.445Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgzb3cb42q",
+          "sentiment": 0
+        },
+        {
+          "id": "3db6a4b456013d5f703128130b980c57db16e96e0990ed71f847e502b170ebb6",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Jordan Wood: This is one of the most important questions of this election. This is the number one opportunity to flip a Senate seat. There's too much at stake in this election. [No clear answer on why he's the best option.]",
+          "createdAt": "2026-07-16T23:58:46.239Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgwbjatm2q",
+          "sentiment": -0.2
+        },
+        {
+          "id": "0605f800fd966c13d9457559e4e44ef9e9ff8c7f00a685183bc0617eb5f9801a",
+          "authorHandle": "vegancj.bsky.social",
+          "postText": "As public speakers go: Dr. Nirav Shaw is a really great public speaker. Sheena Bellows has a strange slow cadence that is irritating to follow. Troy Jackson comes off as \"befuddled hometown\" and Jordan Wood sounds like he has a cold and his hand cadence thing that he does is very distracting.",
+          "createdAt": "2026-07-16T23:55:26.885Z",
+          "uri": "at://did:plc:oxkq25pb6uzaxczh53tcb663/app.bsky.feed.post/3mqsgqdfi6c2d",
+          "sentiment": -0.5
+        },
+        {
+          "id": "d2b61ec504f2de9711c14cf152440f2bb4d5416b53a12228bccd6cece74b8076",
+          "authorHandle": "sproutastic.bsky.social",
+          "postText": "A question about reaching across the aisle.\nJordan Wood seems eager to answer this one, but his answer is muddled. Shenna keeps talking about her vacation and I don’t care. Troy seems open to working with whoever is willing to help on whatever will help. Again, I like that. He’s earnest.",
+          "createdAt": "2026-07-16T23:52:57.610Z",
+          "uri": "at://did:plc:myat3fbp4m6z2r5toougouyj/app.bsky.feed.post/3mqsgluzwtc2v",
+          "sentiment": -0.3
+        },
+        {
+          "id": "d99ce8d9c345c2674bbb75690d889804293c1572b9478410922fa6524eaff807",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Jordan Wood: I'd work with Republicans on redistricting reform. Independent redistricting in all 50 states.",
+          "createdAt": "2026-07-16T23:49:25.452Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgfkpfbu2q",
+          "sentiment": 0.3
+        },
+        {
+          "id": "25641383b394f13f58c4062da0a73af740ebde21fd7a6c95cdc125731d90d827",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Jordan Wood: I've opposed the Maduro raid since day one. And I'm focused on the corruption.",
+          "createdAt": "2026-07-16T23:47:33.579Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsgc7zccm2q",
+          "sentiment": 0.2
+        },
+        {
+          "id": "32bcd72c7430bd9c97657222d06b90689ed74a8109f39e28d186a016e1ebb9c5",
+          "authorHandle": "chuckmcknight.bsky.social",
+          "postText": "Jordan Wood: Increase our funding for Ukraine. Also our war in Iran is benefitting Russia.",
+          "createdAt": "2026-07-16T23:42:35.586Z",
+          "uri": "at://did:plc:iqvsjb6mxfaaeaaly2byuf4g/app.bsky.feed.post/3mqsfzdtbje2q",
+          "sentiment": 0.3
+        },
+        {
           "id": "054fae1f6ab6866d98d20b0225f94c958028c5654a4a5bb590eee34e41708682",
           "authorHandle": "chuckmcknight.bsky.social",
           "postText": "Jordan Wood: Audit the federal government.",
@@ -2434,13 +2762,13 @@
     {
       "id": "paige-loud",
       "name": "Paige Loud",
-      "overallSentiment": -0.31834318181818183,
+      "overallSentiment": -0.28834318181818186,
       "newsSentiment": -0.5366863636363637,
-      "socialSentiment": -0.10000000000000002,
+      "socialSentiment": -0.04,
       "mentions": {
         "news": 22,
-        "social": 3,
-        "total": 25
+        "social": 5,
+        "total": 27
       },
       "news": [
         {
@@ -2643,6 +2971,22 @@
         }
       ],
       "social": [
+        {
+          "id": "bfdab1d5f519b0f55c8f9b91ae265f6f831caf263eae53f176515419ba6351e6",
+          "authorHandle": "pinetreeactivism.org",
+          "postText": "Paige issued a statement with her reasons earlier:\n🔗: bsky.app/profile/loud...\n\nAndrea did too: 🔗: bsky.app/profile/andr... \n\nI have thoughts on both, though will reserve them for later. Their statements should speak for them.",
+          "createdAt": "2026-07-17T00:36:31.630Z",
+          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mqsizrxjpk2b",
+          "sentiment": -0.1
+        },
+        {
+          "id": "168b3e12cf1ef149b4c4775db2be8d3be3fab4e52d4a5f89417f258f48e7f5b7",
+          "authorHandle": "caretaker2.bsky.social",
+          "postText": "I wish Paige Loud had joined the debate, it would have given her something to show for her next run locally or otherwise.",
+          "createdAt": "2026-07-17T00:21:33.365Z",
+          "uri": "at://did:plc:osrc7ccdm5yofhnjqvwv35bc/app.bsky.feed.post/3mqsi6zcmt226",
+          "sentiment": 0.2
+        },
         {
           "id": "a593ec74576dd14773bbebbd639f7dc7513dfddb39db63f77f77c1f826b81519",
           "authorHandle": "chuckmcknight.bsky.social",
