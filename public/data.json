@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-17T13:51:44.002Z",
+  "lastUpdated": "2026-07-17T15:10:17.927Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0.17560975609756094,
+      "overallSentiment": 0.17948717948717946,
       "newsSentiment": 0,
-      "socialSentiment": 0.3512195121951219,
+      "socialSentiment": 0.3589743589743589,
       "mentions": {
         "news": 19,
-        "social": 41,
-        "total": 60
+        "social": 39,
+        "total": 58
       },
       "news": [
         {
@@ -187,6 +187,14 @@
         }
       ],
       "social": [
+        {
+          "id": "624451b0caed0c11a61f38980b028c5d43ad50d12171b0a97a2679b7f10b56ab",
+          "authorHandle": "riggedsys-resist.bsky.social",
+          "postText": "BREAKING: New polling from Survey USA shows Democrat Nirav Shah in the lead against Susan Collins in Maine. Polling also shows Shah is the best performing Democrat of any candidate now in the race against Collins. @democraticwins.bsky.social \n@cnn",
+          "createdAt": "2026-07-17T13:51:24.230Z",
+          "uri": "at://did:plc:q3rych6gmuwsb2fa5f6vddsy/app.bsky.feed.post/3mqtvh56m322k",
+          "sentiment": 0.6
+        },
         {
           "id": "f89cba4c34a09754484dc0239c699c4427232a27d380675a993f72fcd3d4e4af",
           "authorHandle": "mainstream-media.bsky.social",
@@ -490,30 +498,6 @@
           "createdAt": "2026-07-16T15:23:47.207Z",
           "uri": "at://did:plc:2r5nuj673ujipg5bbgnkvzms/app.bsky.feed.post/3mqrk5fvou22k",
           "sentiment": -0.5
-        },
-        {
-          "id": "25002018ae62505c5ca4d8351bb5b4f71a40c213a58f69cf869bb68ea62ce537",
-          "authorHandle": "some-news.bsky.social",
-          "postText": "The ultra-credentialed Nirav Shah is facing off against logger-turned-legislator Troy Jackson in an unpredictable battle to challenge GOP Sen. Susan Collins.",
-          "createdAt": "2026-07-16T15:04:13.052226+00:00",
-          "uri": "at://did:plc:dtg2oeh4jj3lmbcxyxl6nm34/app.bsky.feed.post/3mqrj2ga55y2d",
-          "sentiment": 0.3
-        },
-        {
-          "id": "e8e6e5cb8cf8c11d8073545a6a0c2b9f0d68843bc5e4ea7c10fe46bf80481854",
-          "authorHandle": "architecturenerd.bsky.social",
-          "postText": "www.huffpost.com/entry/progre...",
-          "createdAt": "2026-07-16T14:37:55.276Z",
-          "uri": "at://did:plc:gszsx5qhrnwd477dmxk6sq5y/app.bsky.feed.post/3mqrhlfhebs2s",
-          "sentiment": 0
-        },
-        {
-          "id": "a8bc6f34e51931b70e333ba51f6ea814f359321af022254afe98da74638bc499",
-          "authorHandle": "centralmenewsbot.bsky.social",
-          "postText": "I encourage Maine voters to support Dr. Nirav Shah&#8217;s candidacy&#160;to become Maine’s next senator for several reasons. Shah has experience and knowledge that would serve Maine well. With a back... #news #maine  \nhttps://www.centralmaine.com/2026/07/16/nirav-shah-for-us-senate-letter/",
-          "createdAt": "2026-07-16T14:00:04.056430+00:00",
-          "uri": "at://did:plc:3gjcmx6u4jnaudpec3awfyfj/app.bsky.feed.post/3mqrfhphtsg2j",
-          "sentiment": 0.7
         }
       ]
     },
@@ -948,13 +932,13 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.035189166666666674,
+      "overallSentiment": 0.03115895522388061,
       "newsSentiment": -0.125,
-      "socialSentiment": 0.19537833333333335,
+      "socialSentiment": 0.18731791044776122,
       "mentions": {
         "news": 24,
-        "social": 60,
-        "total": 84
+        "social": 68,
+        "total": 92
       },
       "news": [
         {
@@ -1175,6 +1159,86 @@
         }
       ],
       "social": [
+        {
+          "id": "4c8a719f1bbf23a435368d8cd4754c1ccdf4f4e828f61a5936e493b54372b5b3",
+          "authorHandle": "johnfromalbany.bsky.social",
+          "postText": "",
+          "createdAt": "2026-07-17T15:04:04Z",
+          "uri": "at://did:plc:zz2exmalwds4p2amxa7amb3j/app.bsky.feed.post/3mqtzj3i6r22z",
+          "sentiment": null
+        },
+        {
+          "id": "29fb706621f975822b6c6818405d88afa44c4cc3a909dc8052a726a2be886f3e",
+          "authorHandle": "asfried.bsky.social",
+          "postText": "Jackson's campaign has delegate slates of delegates and advises voting ONLY for them.\n\nThat's helpful to them but it also cues non-Troy supporters to not vote for them and excludes folks (like me) with multiple preferences and open minds. #mepolitics. www.jacksonformaine.com/caucus?fbcli...",
+          "createdAt": "2026-07-17T14:55:04.549Z",
+          "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3mqtyyyj2oc2b",
+          "sentiment": 0.6956
+        },
+        {
+          "id": "b43eca48dd21c28d81e2f9391407d060397715540d9e8b3e2d832f882f6a7e32",
+          "authorHandle": "bangordailynews.bsky.social",
+          "postText": "With the large majority of the delegate pool still undeclared, the current tally measures which campaign has built the most public caucus operation. www.bangordailynews.com/2026/07/17/p...",
+          "createdAt": "2026-07-17T14:46:00.713Z",
+          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mqtyisfpn22g",
+          "sentiment": 0
+        },
+        {
+          "id": "19e8cf53e683533d68ae3750eb2620cabca79f3fc1705cc879a10e51942a0ed7",
+          "authorHandle": "sniffit.bsky.social",
+          "postText": "He is.  Long history of public service in Maine, including as majority leader of the state senate.\n\nAnd if I'm understanding the polls correctly, everyone gravitating to him as the candidate is very good news for getting rid of Collins.\n\nen.wikipedia.org/wiki/Troy_Ja...",
+          "createdAt": "2026-07-17T14:36:23.829Z",
+          "uri": "at://did:plc:xdhu5mawy2kxwgmldk5dbjgf/app.bsky.feed.post/3mqtxxlpel22r",
+          "sentiment": 0.4927
+        },
+        {
+          "id": "561f77b9b4538f1c11b86a78e870423fb982c048a661163fa83f2953aaf807d0",
+          "authorHandle": "holdmybooks.bsky.social",
+          "postText": "People still in their goddamn feelings about Maine should probably be asking why Sanders intervened in the first place and why on earth his word was enough for you. (He's not a Democrat!)",
+          "createdAt": "2026-07-17T14:29:30.142Z",
+          "uri": "at://did:plc:mnmzpxebkmcg6rjchfgitc6c/app.bsky.feed.post/3mqtxlb77w226",
+          "sentiment": -0.5255
+        },
+        {
+          "id": "c9b5a55796ec643a82cfae1bd63ae2fb33e256d14557d0dedef1115d032be646",
+          "authorHandle": "midnitreebandit.bsky.social",
+          "postText": "Interesting to now the Maine DSA fully enforced Troy Jackson for governor (meaning donor support) but only \"recommended\" Platner (with no donor support)-- kind of a \"well, I guess he'll do, since he's what we've gotten stuck with.\"",
+          "createdAt": "2026-07-17T14:21:10.664Z",
+          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mqtx4etrus2n",
+          "sentiment": -0.5346
+        },
+        {
+          "id": "5c658a954c1e0df3bc69a70184e32aa211822335c4dda83ff721fd6802dc7e6a",
+          "authorHandle": "pinetreeactivism.org",
+          "postText": "==================\nTROY JACKSON RALLY\n✨FRI JULY 17, 6-7:00PM\n==================\n\nJACKSON FOR MAINE RALLY: Join our pre-caucus rally in Portland, with special guests.\n\nFort Allen Park, 49 Eastern Promenade, Portland, Maine\n\n#MEpolitics\n\nFMI: 👇👇👇",
+          "createdAt": "2026-07-17T14:16:38.326Z",
+          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mqtwub4prk2w",
+          "sentiment": 0.5994
+        },
+        {
+          "id": "bc8dcfcc50804b4b4a525e3c14f4c18500f1814de9f662f5c58c1943e48c12e5",
+          "authorHandle": "troyjackson207.bsky.social",
+          "postText": "RSVP here.",
+          "createdAt": "2026-07-17T14:05:48.973Z",
+          "uri": "at://did:plc:nti5xzs56xrwkpzjzsmxewdz/app.bsky.feed.post/3mqtwavtyz22m",
+          "sentiment": 0
+        },
+        {
+          "id": "2c9f703ebe7c3588eb19298acdf5bd007db72b49407e33697c94ad0593153f30",
+          "authorHandle": "troyjackson207.bsky.social",
+          "postText": "See you tonight at Fort Allen Park in Portland.",
+          "createdAt": "2026-07-17T14:04:46.212Z",
+          "uri": "at://did:plc:nti5xzs56xrwkpzjzsmxewdz/app.bsky.feed.post/3mqtw6zypx22m",
+          "sentiment": 0
+        },
+        {
+          "id": "4c40f8cca754418c33aff463011bf1502273448f820088e93e89b2cc7d08dd99",
+          "authorHandle": "troyjackson207.bsky.social",
+          "postText": "RSVP here:",
+          "createdAt": "2026-07-17T13:57:05.833Z",
+          "uri": "at://did:plc:nti5xzs56xrwkpzjzsmxewdz/app.bsky.feed.post/3mqtvrcx2422m",
+          "sentiment": 0
+        },
         {
           "id": "f04968dfb06977f46d9a16b52aa6854d429ce88023be885e35ddac7c98d1a531",
           "authorHandle": "mainstream-media.bsky.social",
@@ -1638,35 +1702,19 @@
           "createdAt": "2026-07-16T15:23:47.207Z",
           "uri": "at://did:plc:2r5nuj673ujipg5bbgnkvzms/app.bsky.feed.post/3mqrk5fvou22k",
           "sentiment": -0.6
-        },
-        {
-          "id": "2fac6e9b17b613fa2720be053c050e61688e653f5afb3662fd97af0d5fd106f8",
-          "authorHandle": "some-news.bsky.social",
-          "postText": "The ultra-credentialed Nirav Shah is facing off against logger-turned-legislator Troy Jackson in an unpredictable battle to challenge GOP Sen. Susan Collins.",
-          "createdAt": "2026-07-16T15:04:13.052226+00:00",
-          "uri": "at://did:plc:dtg2oeh4jj3lmbcxyxl6nm34/app.bsky.feed.post/3mqrj2ga55y2d",
-          "sentiment": -0.1
-        },
-        {
-          "id": "39fab4430c98e44138838e6b3907dc84798e9dc88b182d68dfa3126deb1ebc9e",
-          "authorHandle": "architecturenerd.bsky.social",
-          "postText": "www.huffpost.com/entry/progre...",
-          "createdAt": "2026-07-16T14:37:55.276Z",
-          "uri": "at://did:plc:gszsx5qhrnwd477dmxk6sq5y/app.bsky.feed.post/3mqrhlfhebs2s",
-          "sentiment": 0
         }
       ]
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.029719963866305328,
+      "overallSentiment": -0.032275132275132276,
       "newsSentiment": -0.07407407407407407,
-      "socialSentiment": 0.014634146341463412,
+      "socialSentiment": 0.009523809523809518,
       "mentions": {
         "news": 27,
-        "social": 41,
-        "total": 68
+        "social": 42,
+        "total": 69
       },
       "news": [
         {
@@ -1914,6 +1962,22 @@
         }
       ],
       "social": [
+        {
+          "id": "5a3eb7a2287d1ea3ea0c4c12eb2cffc9cdb8996d7f869a51538dab1b0b2556a1",
+          "authorHandle": "amys0407.bsky.social",
+          "postText": "www.jta.org/2026/07/16/p...",
+          "createdAt": "2026-07-17T14:32:43.327Z",
+          "uri": "at://did:plc:ykl26hyyhxk2hjl2zdl5mdzr/app.bsky.feed.post/3mqtxqzg6lk2a",
+          "sentiment": -0.3
+        },
+        {
+          "id": "3491a440780633597173206001d1d199ff5b17a37270633233a4122be942eb4a",
+          "authorHandle": "slavko62.bsky.social",
+          "postText": "forward.com/fast-forward...\n\nHe will be a real politician, knows which way the wind is blowing.",
+          "createdAt": "2026-07-17T14:06:25.556Z",
+          "uri": "at://did:plc:lahmghnjs6cuaucq6ppk6aze/app.bsky.feed.post/3mqtwbyqhl22h",
+          "sentiment": 0.1
+        },
         {
           "id": "6ce919b899680e2571d63cc1b47f18503fa26ef773bae3ff148561f7eee2cf70",
           "authorHandle": "pinetreeactivism.org",
@@ -2233,14 +2297,6 @@
           "createdAt": "2026-07-16T15:24:38.444Z",
           "uri": "at://did:plc:77sk47m546qlf4gsybnutnle/app.bsky.feed.post/3mqrk6wrcyc2r",
           "sentiment": -0.2
-        },
-        {
-          "id": "220954f653119124e4cb1c9e0be71ca82b55d614898c50b061017e75778ec650",
-          "authorHandle": "wokeaf3-2.bsky.social",
-          "postText": "www.reddit.com/r/gay/s/VVrU...",
-          "createdAt": "2026-07-16T15:03:41.126Z",
-          "uri": "at://did:plc:hdljjptovr3zb4ygp6uur673/app.bsky.feed.post/3mqrizhoxgc2j",
-          "sentiment": 0
         }
       ]
     },
