@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-07-17T13:20:44.865Z",
+  "lastUpdated": "2026-07-17T13:51:44.002Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0.17317073170731703,
+      "overallSentiment": 0.17560975609756094,
       "newsSentiment": 0,
-      "socialSentiment": 0.34634146341463407,
+      "socialSentiment": 0.3512195121951219,
       "mentions": {
         "news": 19,
         "social": 41,
@@ -187,6 +187,22 @@
         }
       ],
       "social": [
+        {
+          "id": "f89cba4c34a09754484dc0239c699c4427232a27d380675a993f72fcd3d4e4af",
+          "authorHandle": "mainstream-media.bsky.social",
+          "postText": "Nirav Shah and Troy Jackson solidify status as top contenders in Maine as others Senate candidates flounder\n\nhttps://www.washingtonexaminer.com/n...",
+          "createdAt": "2026-07-17T13:30:20.668358+00:00",
+          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mqtubi6hso2h",
+          "sentiment": 0.6
+        },
+        {
+          "id": "78f7ec7df90f734e5d1df4974b952382adff910da2f16a3b0b2be689af95c02d",
+          "authorHandle": "handle.invalid",
+          "postText": "Thanks! With such a short timeline, we can't have another candidate who isn't thoroughly vetted. I've never heard of him, but on paper he sounds like he needs to pick a lane:\n\nNirav Dinesh Shah... epidemiologist, economist, attorney, and politician. He grew up in WI & KY, then was in IL, now in ME..",
+          "createdAt": "2026-07-17T13:16:03.289Z",
+          "uri": "at://did:plc:4q4fnephteeobz6g5rmemcsr/app.bsky.feed.post/3mqtthwi6xc23",
+          "sentiment": -0.4
+        },
         {
           "id": "20035351b7f3891a9c7227615e72a1b62ce5003ab4a2e1091c872f22015f631b",
           "authorHandle": "listendemocrats.bsky.social",
@@ -498,35 +514,19 @@
           "createdAt": "2026-07-16T14:00:04.056430+00:00",
           "uri": "at://did:plc:3gjcmx6u4jnaudpec3awfyfj/app.bsky.feed.post/3mqrfhphtsg2j",
           "sentiment": 0.7
-        },
-        {
-          "id": "db421bfbc82ea96d50f2e4ca96054d896acc099f244591516cbdd195e08bc980",
-          "authorHandle": "joyces1.bsky.social",
-          "postText": "www.huffpost.com/entry/progre...",
-          "createdAt": "2026-07-16T13:32:02.002Z",
-          "uri": "at://did:plc:4a6hqahg5ep5nck5uhqwzsx2/app.bsky.feed.post/3mqrdvlcz5c2a",
-          "sentiment": 0
-        },
-        {
-          "id": "9c892332bf43cce8623639e797f9a2d307900f2eeceae40e63810e8c5c2a69d5",
-          "authorHandle": "mctenor1.bsky.social",
-          "postText": "The Democratic candidates for Senate in Maine. A survey found 40% of registered Democrats in the state back Troy Jackson, 23% back Nirav Shah, and 14% back Shenna Bellows, with the rest of the candidates all receiving less than 10% of the vote.\n\nwww.huffpost.com/entry/progre...",
-          "createdAt": "2026-07-16T13:27:23.890Z",
-          "uri": "at://did:plc:giu5ozra562dhd4e6xmikbhs/app.bsky.feed.post/3mqrdnc3pfc2f",
-          "sentiment": 0
         }
       ]
     },
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.013709677419354825,
+      "overallSentiment": -0.01465517241379309,
       "newsSentiment": 0,
-      "socialSentiment": -0.02741935483870965,
+      "socialSentiment": -0.02931034482758618,
       "mentions": {
         "news": 20,
-        "social": 31,
-        "total": 51
+        "social": 29,
+        "total": 49
       },
       "news": [
         {
@@ -942,35 +942,19 @@
           "createdAt": "2026-07-16T18:59:43.809Z",
           "uri": "at://did:plc:b724is4xqt4il74rld5emoru/app.bsky.feed.post/3mqrw7kbrjc2c",
           "sentiment": 1
-        },
-        {
-          "id": "33cd2753d0a52152d5276d1a84509173bbf3cb66b2de7f8d798186b6e236f039",
-          "authorHandle": "mctenor1.bsky.social",
-          "postText": "The Democratic candidates for Senate in Maine. A survey found 40% of registered Democrats in the state back Troy Jackson, 23% back Nirav Shah, and 14% back Shenna Bellows, with the rest of the candidates all receiving less than 10% of the vote.\n\nwww.huffpost.com/entry/progre...",
-          "createdAt": "2026-07-16T13:27:23.890Z",
-          "uri": "at://did:plc:giu5ozra562dhd4e6xmikbhs/app.bsky.feed.post/3mqrdnc3pfc2f",
-          "sentiment": 0
-        },
-        {
-          "id": "231d25e747229b9b40fb140f1b1aad18b798c3c2e982f59a5fb27d6889405217",
-          "authorHandle": "wanderwoman20.bsky.social",
-          "postText": "\"Good people, regardless of what side they are on, should stand up for the principle that the government does not kill people in the streets.\" -Shenna Bellows",
-          "createdAt": "2026-07-16T12:26:44.522Z",
-          "uri": "at://did:plc:bayggiyggqsfi3djgmv537re/app.bsky.feed.post/3mqraatd22k2m",
-          "sentiment": 0
         }
       ]
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.014735245901639354,
+      "overallSentiment": 0.035189166666666674,
       "newsSentiment": -0.125,
-      "socialSentiment": 0.1544704918032787,
+      "socialSentiment": 0.19537833333333335,
       "mentions": {
         "news": 24,
-        "social": 61,
-        "total": 85
+        "social": 60,
+        "total": 84
       },
       "news": [
         {
@@ -1191,6 +1175,38 @@
         }
       ],
       "social": [
+        {
+          "id": "f04968dfb06977f46d9a16b52aa6854d429ce88023be885e35ddac7c98d1a531",
+          "authorHandle": "mainstream-media.bsky.social",
+          "postText": "Nirav Shah and Troy Jackson solidify status as top contenders in Maine as others Senate candidates flounder\n\nhttps://www.washingtonexaminer.com/n...",
+          "createdAt": "2026-07-17T13:30:20.668358+00:00",
+          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mqtubi6hso2h",
+          "sentiment": 0.7
+        },
+        {
+          "id": "d11a4fc33a1f8365fe75f5037035355e4f4c5a16077bc842267ec54027599caa",
+          "authorHandle": "unnecessary.tech",
+          "postText": "If you are going to your Maine Democrats county delegate nomination meeting and interested in supporting Troy Jackson, the list of slates for each county is out: www.jacksonformaine.com/caucus",
+          "createdAt": "2026-07-17T12:23:02.137Z",
+          "uri": "at://did:plc:jx54v4rmscfwzit7fmgz24ba/app.bsky.feed.post/3mqtqj4p57c2j",
+          "sentiment": 0.8
+        },
+        {
+          "id": "ff5f29f2403fc354e43ed99563e22c41b02466da7349457bf465047600fb33f5",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "The national average gas price rose to $3.98, creeping back toward $4. Maine delegate support favors Troy Jackson for the Democratic U.S. Senate nomination, while yesterday, one caller said on C-SPAN they would skip Trump’s speech and wait for a Meidas summary.",
+          "createdAt": "2026-07-17T12:10:17.717Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mqtpsdoya22v",
+          "sentiment": 0.5
+        },
+        {
+          "id": "5ce25aa8987d463841f4b494d85b340301fde1ce60b534f627c2a81408f13b89",
+          "authorHandle": "techwizard.bsky.social",
+          "postText": "For one I'm donating to Troy Jackson and will be phone banking for him.",
+          "createdAt": "2026-07-17T11:59:42.985Z",
+          "uri": "at://did:plc:qlmzgy5txatwiexva2gd5kd7/app.bsky.feed.post/3mqtp7geeu22w",
+          "sentiment": 0.9
+        },
         {
           "id": "c359255dab16050c404ed6dffbdc9d71f42a441a98ab733df2078ae80bce176e",
           "authorHandle": "alexip718.com",
@@ -1638,59 +1654,19 @@
           "createdAt": "2026-07-16T14:37:55.276Z",
           "uri": "at://did:plc:gszsx5qhrnwd477dmxk6sq5y/app.bsky.feed.post/3mqrhlfhebs2s",
           "sentiment": 0
-        },
-        {
-          "id": "eb87f20ad0b7e7803acdcaf1b5a65642ac3b0fac19eeb76dfe5f84b1214a1941",
-          "authorHandle": "debby33.bsky.social",
-          "postText": "“When Shah entered the race, the very first forum we had, he brought up the fact that the next governor has to be a lawyer,” Troy Jackson, a logger from Maine’s ultra-rural north and a former Maine State Senate president, said at the time. \n\n“Well, I think that’s bullshit.”",
-          "createdAt": "2026-07-16T13:44:11.969Z",
-          "uri": "at://did:plc:57dd32nx3my4vkyq25kh2fwr/app.bsky.feed.post/3mqreleo6422e",
-          "sentiment": 0.7
-        },
-        {
-          "id": "a851b107158938a31b331075b72828a6c1a7318fdfa762d74363137618f6a73a",
-          "authorHandle": "joyces1.bsky.social",
-          "postText": "www.huffpost.com/entry/progre...",
-          "createdAt": "2026-07-16T13:32:02.002Z",
-          "uri": "at://did:plc:4a6hqahg5ep5nck5uhqwzsx2/app.bsky.feed.post/3mqrdvlcz5c2a",
-          "sentiment": 0
-        },
-        {
-          "id": "a2ee6a7cd4878dbd920e359d746b26922741dde8efe2490208223c866f5b0ae4",
-          "authorHandle": "pantsb.bsky.social",
-          "postText": "Troy Jackson sure seems excessively focused on (11) foreign workers taking American jobs.  It seems to be the one constant in a political career that has gone from anti- to pro- choice and anti-same sex marriage to pro-LGBTQ+ in the last ~10 years.\nwww.bangordailynews.com/2022/02/21/b...",
-          "createdAt": "2026-07-16T13:27:40.273Z",
-          "uri": "at://did:plc:mfplw347ij4lmu5wvfgz3dtm/app.bsky.feed.post/3mqrdnrpqek2y",
-          "sentiment": -0.6
-        },
-        {
-          "id": "b5f151fd866591253b742f4beb28eaf34e868d1f60270071661c3776a96e264a",
-          "authorHandle": "mctenor1.bsky.social",
-          "postText": "The Democratic candidates for Senate in Maine. A survey found 40% of registered Democrats in the state back Troy Jackson, 23% back Nirav Shah, and 14% back Shenna Bellows, with the rest of the candidates all receiving less than 10% of the vote.\n\nwww.huffpost.com/entry/progre...",
-          "createdAt": "2026-07-16T13:27:23.890Z",
-          "uri": "at://did:plc:giu5ozra562dhd4e6xmikbhs/app.bsky.feed.post/3mqrdnc3pfc2f",
-          "sentiment": 0.5
-        },
-        {
-          "id": "9a99613b7abf8ba7a5d1c0533bd2a2283c98b625c28f8c35234652e8c9c4fca8",
-          "authorHandle": "algoresmilkymams.bsky.social",
-          "postText": "add troy jackson to that list.",
-          "createdAt": "2026-07-16T13:13:17.975Z",
-          "uri": "at://did:plc:opks2mmeb4bof2kuiph5azdl/app.bsky.feed.post/3mqrcu3eii22d",
-          "sentiment": 0
         }
       ]
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.03203703703703704,
+      "overallSentiment": -0.029719963866305328,
       "newsSentiment": -0.07407407407407407,
-      "socialSentiment": 0.009999999999999997,
+      "socialSentiment": 0.014634146341463412,
       "mentions": {
         "news": 27,
-        "social": 40,
-        "total": 67
+        "social": 41,
+        "total": 68
       },
       "news": [
         {
@@ -1938,6 +1914,22 @@
         }
       ],
       "social": [
+        {
+          "id": "6ce919b899680e2571d63cc1b47f18503fa26ef773bae3ff148561f7eee2cf70",
+          "authorHandle": "pinetreeactivism.org",
+          "postText": "☀️ 82º, gusts to 20mph\n===============\nMAINE RESISTANCE\nFRI, JULY 17, 2026\n===============\n#F*ckICE\n\n#ORGANIZE #RESIST #OPPOSE\n   #NonViolenceIsPower\n      #EveryEffortCounts\n         #GetInvolved\n           #VOTE ✨\n\n☎️ MAINE ICE WATCH HOTLINE: 207-544-9989 ☎️\n\np6/6 – REPOST/SHARE!\n#MEpolitics",
+          "createdAt": "2026-07-17T13:35:04.016Z",
+          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mqtujwevs22i",
+          "sentiment": 0
+        },
+        {
+          "id": "981002ba4529c4d48a10b6e9eea93c12bee9c33d8f4d23bb97456e7a97cb7bb2",
+          "authorHandle": "iwantmycountry26.bsky.social",
+          "postText": "www.threads.com/@jordanwoodm.... THIS",
+          "createdAt": "2026-07-17T13:23:10.739Z",
+          "uri": "at://did:plc:u6wpahdxudi2unba3go2nbsv/app.bsky.feed.post/3mqttuo4wls2y",
+          "sentiment": 0
+        },
         {
           "id": "46e7744467974e3d84081c52eb7e3b489c319316578002618960f3062b3d0ab4",
           "authorHandle": "thejerusalempost.bsky.social",
@@ -2249,14 +2241,6 @@
           "createdAt": "2026-07-16T15:03:41.126Z",
           "uri": "at://did:plc:hdljjptovr3zb4ygp6uur673/app.bsky.feed.post/3mqrizhoxgc2j",
           "sentiment": 0
-        },
-        {
-          "id": "ad71179ea8f14a6019288058d072ed311bdc62d5ed0a31c2417e26ee29176077",
-          "authorHandle": "uspoliticsbriefly.bsky.social",
-          "postText": "Maine Democrats face a July 25 nominee deadline as Jordan Wood urges ICE abolition, warns about Platner’s collapse, and argues Collins can be beaten by a moderate on LGBTQ+ rights.\n",
-          "createdAt": "2026-07-16T12:21:36.567Z",
-          "uri": "at://did:plc:ihl667oyujekuvexdhtgwvc5/app.bsky.feed.post/3mqr7xnp7xe2t",
-          "sentiment": -0.2
         }
       ]
     },
