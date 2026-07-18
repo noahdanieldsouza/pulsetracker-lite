@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-18T13:07:13.626Z",
+  "lastUpdated": "2026-07-18T14:23:07.443Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0.0693877551020408,
+      "overallSentiment": 0.027721088435374148,
       "newsSentiment": 0.03877551020408163,
-      "socialSentiment": 0.09999999999999998,
+      "socialSentiment": 0.016666666666666663,
       "mentions": {
         "news": 98,
-        "social": 9,
-        "total": 107
+        "social": 6,
+        "total": 104
       },
       "news": [
         {
@@ -945,43 +945,19 @@
           "createdAt": "2026-07-17T15:22:12.576Z",
           "uri": "at://did:plc:pqs7zfzfku3c5qyu3k4lel4c/app.bsky.feed.post/3mqu2jj4is225",
           "sentiment": 0.6
-        },
-        {
-          "id": "624451b0caed0c11a61f38980b028c5d43ad50d12171b0a97a2679b7f10b56ab",
-          "authorHandle": "riggedsys-resist.bsky.social",
-          "postText": "BREAKING: New polling from Survey USA shows Democrat Nirav Shah in the lead against Susan Collins in Maine. Polling also shows Shah is the best performing Democrat of any candidate now in the race against Collins. @democraticwins.bsky.social \n@cnn",
-          "createdAt": "2026-07-17T13:51:24.230Z",
-          "uri": "at://did:plc:q3rych6gmuwsb2fa5f6vddsy/app.bsky.feed.post/3mqtvh56m322k",
-          "sentiment": 0.6
-        },
-        {
-          "id": "f89cba4c34a09754484dc0239c699c4427232a27d380675a993f72fcd3d4e4af",
-          "authorHandle": "mainstream-media.bsky.social",
-          "postText": "Nirav Shah and Troy Jackson solidify status as top contenders in Maine as others Senate candidates flounder\n\nhttps://www.washingtonexaminer.com/n...",
-          "createdAt": "2026-07-17T13:30:20.668358+00:00",
-          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mqtubi6hso2h",
-          "sentiment": 0.6
-        },
-        {
-          "id": "78f7ec7df90f734e5d1df4974b952382adff910da2f16a3b0b2be689af95c02d",
-          "authorHandle": "handle.invalid",
-          "postText": "Thanks! With such a short timeline, we can't have another candidate who isn't thoroughly vetted. I've never heard of him, but on paper he sounds like he needs to pick a lane:\n\nNirav Dinesh Shah... epidemiologist, economist, attorney, and politician. He grew up in WI & KY, then was in IL, now in ME..",
-          "createdAt": "2026-07-17T13:16:03.289Z",
-          "uri": "at://did:plc:4q4fnephteeobz6g5rmemcsr/app.bsky.feed.post/3mqtthwi6xc23",
-          "sentiment": -0.4
         }
       ]
     },
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.0071568627450980474,
+      "overallSentiment": -0.03966131907308377,
       "newsSentiment": -0.01568627450980392,
-      "socialSentiment": 0.030000000000000016,
+      "socialSentiment": -0.06363636363636362,
       "mentions": {
         "news": 102,
-        "social": 10,
-        "total": 112
+        "social": 11,
+        "total": 113
       },
       "news": [
         {
@@ -1905,6 +1881,14 @@
       ],
       "social": [
         {
+          "id": "7c2d6349186bff393c0bb1db5cb7e3858031a8cb4498f3bef25011cb70e1c0f5",
+          "authorHandle": "unnecessary.tech",
+          "postText": "This list has some errors. I am listed as a delegate in Oxford county despite the fact that my statement says I support Troy Jackson. Please remove me from the delegate slate as I do not intend to support your campaign. Anyone who wants to support Shenna Bellows, please do not vote for me.",
+          "createdAt": "2026-07-18T13:58:23.114Z",
+          "uri": "at://did:plc:jx54v4rmscfwzit7fmgz24ba/app.bsky.feed.post/3mqwgck4ask2r",
+          "sentiment": -1
+        },
+        {
           "id": "9f17a7087e44037869af05f4039d61cb5922f0fa96dd2763734627bb47053846",
           "authorHandle": "caretaker2.bsky.social",
           "postText": "I really like Shenna Bellows' work with the ACLU, the Holocaust and human rights center and the socialist activist founded non-profit Learning Works.  She's very progressive, and I like that she has stated she believes Israel is committing genocide.  I just don't think she can win.",
@@ -1989,13 +1973,13 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.06173965300477747,
+      "overallSentiment": 0.08726147585458491,
       "newsSentiment": -0.011340206185567015,
-      "socialSentiment": 0.13481951219512195,
+      "socialSentiment": 0.18586315789473684,
       "mentions": {
         "news": 97,
-        "social": 42,
-        "total": 139
+        "social": 39,
+        "total": 136
       },
       "news": [
         {
@@ -2874,6 +2858,30 @@
       ],
       "social": [
         {
+          "id": "1454348ab6852b9ed963a36d534bd70f6de132c9dcb1e70c47af2d272e8a5d8d",
+          "authorHandle": "unnecessary.tech",
+          "postText": "For some reason, I have ended up on both the Bellows slate and the Jackson slate. I like both the candidates, but I believe that Troy Jackson has a better chance of beating Susan Collins. Please vote for me if you are a Jackson supporter, do not vote for me if you support Bellows.",
+          "createdAt": "2026-07-18T14:22:32.677Z",
+          "uri": "at://did:plc:jx54v4rmscfwzit7fmgz24ba/app.bsky.feed.post/3mqwhnqjep22r",
+          "sentiment": 0.8
+        },
+        {
+          "id": "2ea17a9078746045b8501274cac667367497d210071064269a64a9ac04a101bd",
+          "authorHandle": "unnecessary.tech",
+          "postText": "@mainenewsroom.com The Bellows campaign put out a delegates list, but it appears to have several issues with it. specifically it has people who I know, including myself, are supporting Troy Jackson in Oxford County. I don't have a direct contact to her campaign,",
+          "createdAt": "2026-07-18T14:04:06.257Z",
+          "uri": "at://did:plc:jx54v4rmscfwzit7fmgz24ba/app.bsky.feed.post/3mqwgmre6ek2j",
+          "sentiment": 0.7
+        },
+        {
+          "id": "afedacce24acf22d32b6db1efd2178efe634550d30af16ba27afd813879becf6",
+          "authorHandle": "unnecessary.tech",
+          "postText": "This list has some errors. I am listed as a delegate in Oxford county despite the fact that my statement says I support Troy Jackson. Please remove me from the delegate slate as I do not intend to support your campaign. Anyone who wants to support Shenna Bellows, please do not vote for me.",
+          "createdAt": "2026-07-18T13:58:23.114Z",
+          "uri": "at://did:plc:jx54v4rmscfwzit7fmgz24ba/app.bsky.feed.post/3mqwgck4ask2r",
+          "sentiment": 0.8
+        },
+        {
           "id": "21a4c72364f52e92b869a326c9f46819e4acf91b979cbd11ec54966b9dd7828e",
           "authorHandle": "conifergirl.bsky.social",
           "postText": "Who are the leading candidates?\n\nTroy Jackson, 58\n\nA former president of the state senate, Jackson is fresh off a run for the party’s gubernatorial nomination, where he occupied the populist lane, endorsed by both Platner and",
@@ -3160,67 +3168,19 @@
           "createdAt": "2026-07-17T14:29:30.142Z",
           "uri": "at://did:plc:mnmzpxebkmcg6rjchfgitc6c/app.bsky.feed.post/3mqtxlb77w226",
           "sentiment": -0.5255
-        },
-        {
-          "id": "c9b5a55796ec643a82cfae1bd63ae2fb33e256d14557d0dedef1115d032be646",
-          "authorHandle": "midnitreebandit.bsky.social",
-          "postText": "Interesting to now the Maine DSA fully enforced Troy Jackson for governor (meaning donor support) but only \"recommended\" Platner (with no donor support)-- kind of a \"well, I guess he'll do, since he's what we've gotten stuck with.\"",
-          "createdAt": "2026-07-17T14:21:10.664Z",
-          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mqtx4etrus2n",
-          "sentiment": -0.5346
-        },
-        {
-          "id": "5c658a954c1e0df3bc69a70184e32aa211822335c4dda83ff721fd6802dc7e6a",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "==================\nTROY JACKSON RALLY\n✨FRI JULY 17, 6-7:00PM\n==================\n\nJACKSON FOR MAINE RALLY: Join our pre-caucus rally in Portland, with special guests.\n\nFort Allen Park, 49 Eastern Promenade, Portland, Maine\n\n#MEpolitics\n\nFMI: 👇👇👇",
-          "createdAt": "2026-07-17T14:16:38.326Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mqtwub4prk2w",
-          "sentiment": 0.5994
-        },
-        {
-          "id": "bc8dcfcc50804b4b4a525e3c14f4c18500f1814de9f662f5c58c1943e48c12e5",
-          "authorHandle": "troyjackson207.bsky.social",
-          "postText": "RSVP here.",
-          "createdAt": "2026-07-17T14:05:48.973Z",
-          "uri": "at://did:plc:nti5xzs56xrwkpzjzsmxewdz/app.bsky.feed.post/3mqtwavtyz22m",
-          "sentiment": 0
-        },
-        {
-          "id": "2c9f703ebe7c3588eb19298acdf5bd007db72b49407e33697c94ad0593153f30",
-          "authorHandle": "troyjackson207.bsky.social",
-          "postText": "See you tonight at Fort Allen Park in Portland.",
-          "createdAt": "2026-07-17T14:04:46.212Z",
-          "uri": "at://did:plc:nti5xzs56xrwkpzjzsmxewdz/app.bsky.feed.post/3mqtw6zypx22m",
-          "sentiment": 0
-        },
-        {
-          "id": "4c40f8cca754418c33aff463011bf1502273448f820088e93e89b2cc7d08dd99",
-          "authorHandle": "troyjackson207.bsky.social",
-          "postText": "RSVP here:",
-          "createdAt": "2026-07-17T13:57:05.833Z",
-          "uri": "at://did:plc:nti5xzs56xrwkpzjzsmxewdz/app.bsky.feed.post/3mqtvrcx2422m",
-          "sentiment": 0
-        },
-        {
-          "id": "f04968dfb06977f46d9a16b52aa6854d429ce88023be885e35ddac7c98d1a531",
-          "authorHandle": "mainstream-media.bsky.social",
-          "postText": "Nirav Shah and Troy Jackson solidify status as top contenders in Maine as others Senate candidates flounder\n\nhttps://www.washingtonexaminer.com/n...",
-          "createdAt": "2026-07-17T13:30:20.668358+00:00",
-          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mqtubi6hso2h",
-          "sentiment": 0.7
         }
       ]
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.1877840909090909,
+      "overallSentiment": -0.24687499999999998,
       "newsSentiment": -0.09375,
-      "socialSentiment": -0.2818181818181818,
+      "socialSentiment": -0.39999999999999997,
       "mentions": {
         "news": 96,
-        "social": 11,
-        "total": 107
+        "social": 8,
+        "total": 104
       },
       "news": [
         {
@@ -4152,30 +4112,6 @@
           "createdAt": "2026-07-17T14:32:43.327Z",
           "uri": "at://did:plc:ykl26hyyhxk2hjl2zdl5mdzr/app.bsky.feed.post/3mqtxqzg6lk2a",
           "sentiment": -0.3
-        },
-        {
-          "id": "3491a440780633597173206001d1d199ff5b17a37270633233a4122be942eb4a",
-          "authorHandle": "slavko62.bsky.social",
-          "postText": "forward.com/fast-forward...\n\nHe will be a real politician, knows which way the wind is blowing.",
-          "createdAt": "2026-07-17T14:06:25.556Z",
-          "uri": "at://did:plc:lahmghnjs6cuaucq6ppk6aze/app.bsky.feed.post/3mqtwbyqhl22h",
-          "sentiment": 0.1
-        },
-        {
-          "id": "6ce919b899680e2571d63cc1b47f18503fa26ef773bae3ff148561f7eee2cf70",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "☀️ 82º, gusts to 20mph\n===============\nMAINE RESISTANCE\nFRI, JULY 17, 2026\n===============\n#F*ckICE\n\n#ORGANIZE #RESIST #OPPOSE\n   #NonViolenceIsPower\n      #EveryEffortCounts\n         #GetInvolved\n           #VOTE ✨\n\n☎️ MAINE ICE WATCH HOTLINE: 207-544-9989 ☎️\n\np6/6 – REPOST/SHARE!\n#MEpolitics",
-          "createdAt": "2026-07-17T13:35:04.016Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mqtujwevs22i",
-          "sentiment": 0
-        },
-        {
-          "id": "981002ba4529c4d48a10b6e9eea93c12bee9c33d8f4d23bb97456e7a97cb7bb2",
-          "authorHandle": "iwantmycountry26.bsky.social",
-          "postText": "www.threads.com/@jordanwoodm.... THIS",
-          "createdAt": "2026-07-17T13:23:10.739Z",
-          "uri": "at://did:plc:u6wpahdxudi2unba3go2nbsv/app.bsky.feed.post/3mqttuo4wls2y",
-          "sentiment": 0
         }
       ]
     },
