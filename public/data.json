@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T09:43:07.402Z",
+  "lastUpdated": "2026-07-18T10:50:23.446Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -256,13 +256,13 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.11666666666666668,
+      "overallSentiment": -0.1,
       "newsSentiment": 0,
-      "socialSentiment": -0.23333333333333336,
+      "socialSentiment": -0.2,
       "mentions": {
         "news": 20,
-        "social": 6,
-        "total": 26
+        "social": 7,
+        "total": 27
       },
       "news": [
         {
@@ -447,6 +447,14 @@
         }
       ],
       "social": [
+        {
+          "id": "7787fc57323c634e9fd4040431176d21e7ed7ceee7c12f598440e07f48091994",
+          "authorHandle": "asfried.bsky.social",
+          "postText": "The Bellows campaign just put out its slates., www.bellowsformaine.com/delegates",
+          "createdAt": "2026-07-18T10:22:04.791Z",
+          "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3mqw27qzbas23",
+          "sentiment": 0
+        },
         {
           "id": "b4a9717941ec185d53c274a5ceaa6e5d36c8574674c51898a24cc6250eef180c",
           "authorHandle": "avariciousgnome.bsky.social",
@@ -1383,13 +1391,13 @@
     {
       "id": "paige-loud",
       "name": "Paige Loud",
-      "overallSentiment": -0.06538461538461539,
+      "overallSentiment": 0.07211538461538461,
       "newsSentiment": -0.23076923076923078,
-      "socialSentiment": 0.1,
+      "socialSentiment": 0.375,
       "mentions": {
         "news": 13,
-        "social": 5,
-        "total": 18
+        "social": 4,
+        "total": 17
       },
       "news": [
         {
@@ -1542,14 +1550,6 @@
           "createdAt": "2026-07-17T16:48:18.408Z",
           "uri": "at://did:plc:emynwtwnfwmol6mxg344f5rm/app.bsky.feed.post/3mqu7dhn5ms2m",
           "sentiment": -0.5
-        },
-        {
-          "id": "a7026b06609133eaf1b14ff32471bae397758b4b6967c90218ec3fba006d0ee2",
-          "authorHandle": "bigearthdata.ai",
-          "postText": "Democratic Senate candidate withdraws to protest 'spectacle' of selection process\n->Maine Public | More on \"Maine Senate Democratic nomination controversy\" at BigEarthData.ai | #Protest",
-          "createdAt": "2026-07-17T10:07:39.381102+00:00",
-          "uri": "at://did:plc:lc6hdhnjkgccd6ysi7e23pll/app.bsky.feed.post/3mqtix2g6ar2w",
-          "sentiment": -1
         }
       ]
     }
