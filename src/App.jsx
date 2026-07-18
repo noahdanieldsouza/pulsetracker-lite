@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import CandidateGrid from "./components/CandidateGrid.jsx";
 import CandidateDetail from "./components/CandidateDetail.jsx";
+import { applyRollingWindow } from "./rollingWindow.js";
 
 function formatLastUpdated(iso) {
   if (!iso) return "unknown";
@@ -23,7 +24,9 @@ export default function App() {
         if (!res.ok) throw new Error(`Failed to load data.json (${res.status})`);
         return res.json();
       })
-      .then(setData)
+      .then((json) =>
+        setData({ ...json, politicians: applyRollingWindow(json.politicians, json.windowHours ?? 24) })
+      )
       .catch((err) => setError(err.message));
   }, []);
 

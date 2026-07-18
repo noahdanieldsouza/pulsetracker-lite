@@ -1,6 +1,6 @@
 # PulseTracker Lite
 
-A free, static, daily-refreshed sentiment tracker for 5 politicians: Nirav Shah, Shenna Bellows, Troy Jackson, Jordan Wood, and Paige Loud. Pulls news (NewsData.io) and social posts (Bluesky) from the last 24 hours, scores them with VADER sentiment analysis, and shows per-candidate news/social/overall sentiment plus total mentions.
+A free, static, daily-refreshed sentiment tracker for 5 politicians: Nirav Shah, Shenna Bellows, Troy Jackson, Jordan Wood, and Paige Loud. Pulls news (NewsData.io), social posts (Bluesky), and YouTube video comments (YouTube Data API v3) from the last 24 hours, scores them with sentiment analysis, and shows per-candidate news/social/YouTube/overall sentiment plus total mentions.
 
 See `plan.md` for the full design rationale. This README is the practical setup guide.
 
@@ -24,6 +24,7 @@ See `plan.md` for the full design rationale. This README is the practical setup 
    ```
    - `NEWSDATA_API_KEY`: from [newsdata.io](https://newsdata.io) (free tier: 200 requests/day)
    - `BLUESKY_HANDLE` / `BLUESKY_APP_PASSWORD`: create an **app password** at bsky.app → Settings → App Passwords. Never use your real account password here.
+   - `YOUTUBE_API_KEY`: from [Google Cloud Console](https://console.cloud.google.com/), enable "YouTube Data API v3" on a project, then create an API key (Credentials → Create Credentials → API key). No OAuth needed, just a plain key for public search/comment reads.
 3. Sanity-check the news API key works:
    ```bash
    node --env-file=.env scripts/debug-newsdata.js
@@ -42,22 +43,27 @@ A sample `public/data.json` is already committed so `npm run dev` works out of t
 ## Deploying (GitHub Pages, free)
 
 1. Push this repo to GitHub.
-2. Add three repo secrets (Settings → Secrets and variables → Actions):
+2. Add repo secrets (Settings → Secrets and variables → Actions):
    - `NEWSDATA_API_KEY`
    - `BLUESKY_HANDLE`
    - `BLUESKY_APP_PASSWORD`
+   - `YOUTUBE_API_KEY`
+   - `ANTHROPIC_API_KEY`
+   - `GH_PAT` (a personal access token with repo write access, used so the bot's data commits can trigger the deploy workflow)
 3. Enable Pages: Settings → Pages → Source → **GitHub Actions**.
 4. If your repo name isn't `pulsetracker-lite`, update the `base` path in `vite.config.js` to match.
-5. Trigger the two workflows once manually to confirm everything works (Actions tab → select workflow → Run workflow):
-   - **Daily data refresh** — fetches/scores data, commits `public/data.json`.
+5. Trigger the workflows once manually to confirm everything works (Actions tab → select workflow → Run workflow):
+   - **Social refresh** — fetches/scores Bluesky data every 10 minutes, commits `public/data.json`.
+   - **News refresh** — fetches/scores news data daily, commits `public/data.json`.
+   - **YouTube refresh** — fetches/scores YouTube comment data daily, commits `public/data.json`.
    - **Deploy to GitHub Pages** — builds the React app and publishes it.
 
-After that, both run automatically: data refreshes daily at 12:00 UTC, and every push to `main` (including the daily data commit) redeploys the site.
+After that, all run automatically on their schedules, and every push to `main` (including the data-refresh commits) redeploys the site.
 
 ## Data point notes
 
-- **Mentions**: total news + social mentions in the last 24 hours, tracked as its own metric independent of sentiment — a candidate can be heavily discussed without that discussion being positive or negative.
-- **Overall sentiment**: simple average of news sentiment and social sentiment. If one category has no data, overall falls back to whichever category does.
+- **Mentions**: total news + social + YouTube comment mentions in the last 24 hours, tracked as its own metric independent of sentiment — a candidate can be heavily discussed without that discussion being positive or negative.
+- **Overall sentiment**: simple average of news, social, and YouTube sentiment. If one or more categories have no data, overall falls back to averaging whichever categories do.
 - **Missing data**: shown as "No data" rather than treated as a neutral 0, so a quiet day doesn't look like a lukewarm one.
 
 ## Security notes

@@ -33,9 +33,11 @@ export function findOrCreatePolitician(data, politician) {
       overallSentiment: null,
       newsSentiment: null,
       socialSentiment: null,
-      mentions: { total: 0, news: 0, social: 0 },
+      youtubeSentiment: null,
+      mentions: { total: 0, news: 0, social: 0, youtube: 0 },
       news: [],
       social: [],
+      youtube: [],
     };
     data.politicians.push(record);
   }
@@ -50,6 +52,7 @@ export function collectLiveItemIds(data) {
   for (const p of data.politicians) {
     for (const n of p.news ?? []) ids.push(n.id);
     for (const s of p.social ?? []) ids.push(s.id);
+    for (const y of p.youtube ?? []) ids.push(y.id);
   }
   return ids;
 }

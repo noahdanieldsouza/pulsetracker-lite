@@ -27,11 +27,16 @@ export default function CandidateDetail({ politician, onBack }) {
           <SentimentBadge score={politician.socialSentiment} size="lg" />
         </div>
         <div className="score-row__item">
+          <span className="score-row__label">YouTube</span>
+          <SentimentBadge score={politician.youtubeSentiment} size="lg" />
+        </div>
+        <div className="score-row__item">
           <span className="score-row__label">Mentions (24h)</span>
           <span className="mentions-figure">
             {politician.mentions.total}
             <span className="mentions-figure__breakdown">
-              {politician.mentions.news} news · {politician.mentions.social} social
+              {politician.mentions.news} news · {politician.mentions.social} social · {politician.mentions.youtube}{" "}
+              youtube
             </span>
           </span>
         </div>
@@ -47,15 +52,29 @@ export default function CandidateDetail({ politician, onBack }) {
         >
           Social ({politician.social.length})
         </button>
+        <button
+          className={tab === "youtube" ? "feed-tab feed-tab--active" : "feed-tab"}
+          onClick={() => setTab("youtube")}
+        >
+          YouTube ({politician.youtube.length})
+        </button>
       </div>
 
-      {tab === "news" ? (
+      {tab === "news" && (
         <ScrollableFeed items={politician.news} type="news" emptyMessage="No news articles in the last 24 hours." />
-      ) : (
+      )}
+      {tab === "social" && (
         <ScrollableFeed
           items={politician.social}
           type="social"
           emptyMessage="No social posts in the last 24 hours."
+        />
+      )}
+      {tab === "youtube" && (
+        <ScrollableFeed
+          items={politician.youtube}
+          type="youtube"
+          emptyMessage="No YouTube comments in the last 24 hours."
         />
       )}
     </div>

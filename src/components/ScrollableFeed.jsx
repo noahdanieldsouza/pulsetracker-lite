@@ -45,6 +45,22 @@ function SocialItem({ item }) {
   );
 }
 
+function YoutubeItem({ item }) {
+  const commentUrl = `https://www.youtube.com/watch?v=${item.videoId}&lc=${item.commentId}`;
+  return (
+    <li className="feed-item">
+      <div className="feed-item__header">
+        <span className="feed-item__source">{item.authorName ?? "Unknown commenter"}</span>
+        <span className="feed-item__date">{formatDate(item.publishedAt)}</span>
+      </div>
+      <a className="feed-item__body" href={commentUrl} target="_blank" rel="noreferrer">
+        {item.commentText}
+      </a>
+      <SentimentBadge score={item.sentiment} size="sm" />
+    </li>
+  );
+}
+
 export default function ScrollableFeed({ items, type, emptyMessage }) {
   if (!items || items.length === 0) {
     return <p className="feed-empty">{emptyMessage}</p>;
@@ -52,9 +68,11 @@ export default function ScrollableFeed({ items, type, emptyMessage }) {
 
   return (
     <ul className="feed-list">
-      {items.map((item) =>
-        type === "news" ? <NewsItem key={item.id} item={item} /> : <SocialItem key={item.id} item={item} />
-      )}
+      {items.map((item) => {
+        if (type === "news") return <NewsItem key={item.id} item={item} />;
+        if (type === "youtube") return <YoutubeItem key={item.id} item={item} />;
+        return <SocialItem key={item.id} item={item} />;
+      })}
     </ul>
   );
 }

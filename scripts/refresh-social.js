@@ -65,9 +65,10 @@ async function main() {
     record.mentions = {
       news: record.news?.length ?? 0,
       social: record.social?.length ?? 0,
-      total: (record.news?.length ?? 0) + (record.social?.length ?? 0),
+      youtube: record.youtube?.length ?? 0,
+      total: (record.news?.length ?? 0) + (record.social?.length ?? 0) + (record.youtube?.length ?? 0),
     };
-    record.overallSentiment = average([record.newsSentiment, record.socialSentiment]);
+    record.overallSentiment = average([record.newsSentiment, record.socialSentiment, record.youtubeSentiment]);
   }
 
   pruneCache(cache, collectLiveItemIds(data));

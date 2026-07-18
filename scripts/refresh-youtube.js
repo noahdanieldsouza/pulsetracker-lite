@@ -1,5 +1,5 @@
 import { POLITICIANS } from "./politicians.js";
-import { fetchNewsForPolitician } from "./fetchNews.js";
+import { fetchCommentsForPolitician } from "./fetchYoutube.js";
 import { scoreText, makeId, average } from "./score.js";
 import { scoreItemsForPolitician } from "./llmSentiment.js";
 import { loadData, saveData, findOrCreatePolitician, collectLiveItemIds } from "./dataStore.js";
@@ -12,7 +12,7 @@ function requireEnv(name) {
 }
 
 async function main() {
-  const newsDataApiKey = requireEnv("NEWSDATA_API_KEY");
+  const youtubeApiKey = requireEnv("YOUTUBE_API_KEY");
   const anthropicApiKey = requireEnv("ANTHROPIC_API_KEY");
 
   const sinceIso = new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString();
@@ -20,19 +20,19 @@ async function main() {
   const cache = await loadCache();
 
   for (const politician of POLITICIANS) {
-    console.log(`[news] Fetching for ${politician.name}...`);
+    console.log(`[youtube] Fetching for ${politician.name}...`);
     const record = findOrCreatePolitician(data, politician);
 
     try {
-      const rawArticles = await fetchNewsForPolitician(politician.name, {
-        apiKey: newsDataApiKey,
+      const rawComments = await fetchCommentsForPolitician(politician.name, {
+        apiKey: youtubeApiKey,
         sinceIso,
       });
 
-      const scorable = rawArticles.map((article) => ({
-        id: makeId(politician.id, article.url ?? "", article.title ?? ""),
-        text: [article.title, article.description].filter(Boolean).join(". "),
-        article,
+      const scorable = rawComments.map((comment) => ({
+        id: makeId(politician.id, comment.commentId ?? "", comment.commentText ?? ""),
+        text: comment.commentText ?? "",
+        comment,
       }));
 
       const scores = await scoreItemsForPolitician(politician.name, scorable, {
@@ -41,24 +41,25 @@ async function main() {
         fallbackScore: scoreText,
       });
 
-      const news = scorable.map((item, i) => ({
+      const youtube = scorable.map((item, i) => ({
         id: item.id,
-        title: item.article.title,
-        description: item.article.description,
-        sourceName: item.article.sourceName,
-        url: item.article.url,
-        publishedAt: item.article.publishedAt,
+        authorName: item.comment.authorName,
+        commentText: item.comment.commentText,
+        publishedAt: item.comment.publishedAt,
+        videoId: item.comment.videoId,
+        videoTitle: item.comment.videoTitle,
+        commentId: item.comment.commentId,
         sentiment: scores[i],
       }));
-      news.sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0));
+      youtube.sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0));
 
-      record.news = news;
-      record.newsSentiment = average(news.map((n) => n.sentiment));
-      console.log(`  -> ${news.length} articles`);
+      record.youtube = youtube;
+      record.youtubeSentiment = average(youtube.map((y) => y.sentiment));
+      console.log(`  -> ${youtube.length} comments`);
     } catch (err) {
-      console.error(`[news] Failed for ${politician.name}: ${err.message}`);
-      // Leave record.news as-is from the last successful run rather than
-      // wiping it out over a transient fetch failure.
+      console.error(`[youtube] Failed for ${politician.name}: ${err.message}`);
+      // Leave record.youtube as whatever it was from the last successful
+      // run rather than wiping it out over a transient fetch failure.
     }
 
     record.mentions = {
@@ -77,7 +78,7 @@ async function main() {
 
   await saveData(data);
   await saveCache(cache);
-  console.log("Wrote public/data.json and data/sentiment-cache.json (news refresh)");
+  console.log("Wrote public/data.json and data/sentiment-cache.json (youtube refresh)");
 }
 
 main().catch((err) => {
