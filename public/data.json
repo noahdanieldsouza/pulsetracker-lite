@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-18T06:00:37.564Z",
+  "lastUpdated": "2026-07-18T08:06:15.596Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0.10714285714285714,
+      "overallSentiment": 0.05624999999999999,
       "newsSentiment": 0,
-      "socialSentiment": 0.21428571428571427,
+      "socialSentiment": 0.11249999999999998,
       "mentions": {
         "news": 19,
-        "social": 7,
-        "total": 26
+        "social": 8,
+        "total": 27
       },
       "news": [
         {
@@ -187,6 +187,14 @@
         }
       ],
       "social": [
+        {
+          "id": "13a527f65a2aab714f7241bfd71fa1791292fd76456b37142cd6e080ae186d7e",
+          "authorHandle": "alphademocrat.bsky.social",
+          "postText": "No veteran is in the field at Saturday's Maine convention. Platner was the veteran, and he's gone. Yet the veteran frame came back anyway: Duckworth using her own record to ask delegates to reject Nirav Shah over Quincy. #MEpol #Midterms\nalphademocrat.com/duckworth-sh...",
+          "createdAt": "2026-07-18T07:52:00.663Z",
+          "uri": "at://did:plc:vn4gpp23ydznjjx4j4koabyv/app.bsky.feed.post/3mqvrtfz3is2v",
+          "sentiment": -0.6
+        },
         {
           "id": "229333b7dec90cc712249b09ebf8efa683d7c6486e583a715be92205a895eaaf",
           "authorHandle": "meetthepress.com",
@@ -492,13 +500,13 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.06286315789473687,
+      "overallSentiment": 0.04939230769230768,
       "newsSentiment": -0.125,
-      "socialSentiment": 0.25072631578947374,
+      "socialSentiment": 0.22378461538461536,
       "mentions": {
         "news": 24,
-        "social": 39,
-        "total": 63
+        "social": 40,
+        "total": 64
       },
       "news": [
         {
@@ -720,6 +728,22 @@
       ],
       "social": [
         {
+          "id": "f5bdcf52ccae808419c3e361627d4735aceb95233a09b12b77e808f9ff915823",
+          "authorHandle": "humanlineage.bsky.social",
+          "postText": "Great insights on Troy Jackson! If you're curious about the connections in our history, check out Wait Wadsworth's profile on Human Lineage. It’s fascinating to see how our stories intertwine!\n\nhumanlineage.org/en/person/HL...",
+          "createdAt": "2026-07-18T07:42:46.017Z",
+          "uri": "at://did:plc:ly7y23xfhrop3a3wxq3swh3l/app.bsky.feed.post/3mqvrcv2nyk2p",
+          "sentiment": -0.1
+        },
+        {
+          "id": "94b4d5d67e32eb8327066d4e5525498cc74bcc383f65bd598f3a7aab0e037f9a",
+          "authorHandle": "idkmetcalf.lol",
+          "postText": "I can’t work out what is funnier: the apparent belief that Elliot Page was playing Achilles, or their indecision about whether the platonic ideal was “Troy” or “Percy Jackson & The Olympians”",
+          "createdAt": "2026-07-18T07:38:45.826Z",
+          "uri": "at://did:plc:wvecrvpi2jm5iwfq73ba6wbt/app.bsky.feed.post/3mqvr3pysdc2x",
+          "sentiment": 0
+        },
+        {
           "id": "e6477bce54e060e26185f7137585627c9460de457700387f2d59d5c662228854",
           "authorHandle": "jesse41.bsky.social",
           "postText": "that sounds beautiful.  rhythm is over-rated.  \n\nsorry, I thought you name is Troy Jackson and your running for governor of Maine now.   Regardless, it's fine!  it's cool you have a mad, lovely person in your life.  \nMelody is also over-rated.",
@@ -742,14 +766,6 @@
           "createdAt": "2026-07-18T04:08:28.780Z",
           "uri": "at://did:plc:a5ssx3ses5gi4fjjcbmf5p4b/app.bsky.feed.post/3mqvfdpgujs27",
           "sentiment": 0.9
-        },
-        {
-          "id": "beb26521c1ddf0f6d63556e7cdcf2403b46f115e740e8a2d71f934e1c85319ff",
-          "authorHandle": "jesse41.bsky.social",
-          "postText": "why is it people are stuck trying to figure out who's a weird rapist?\n\nHonestly, I don't think Troy Jackson is a weird rapist.  just sayin, Maine.   \n\nTroy Jackson! 🧡",
-          "createdAt": "2026-07-18T04:06:58.064Z",
-          "uri": "at://did:plc:a5ssx3ses5gi4fjjcbmf5p4b/app.bsky.feed.post/3mqvfaywho227",
-          "sentiment": 0.7
         },
         {
           "id": "ddadc9f7dacc7c0434b3848f9a3ea7f62975569f63e11a874dd55f36be91e47c",
@@ -1036,13 +1052,13 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.16703703703703704,
+      "overallSentiment": -0.17037037037037037,
       "newsSentiment": -0.07407407407407407,
-      "socialSentiment": -0.26,
+      "socialSentiment": -0.26666666666666666,
       "mentions": {
         "news": 27,
-        "social": 10,
-        "total": 37
+        "social": 9,
+        "total": 36
       },
       "news": [
         {
@@ -1361,14 +1377,6 @@
           "createdAt": "2026-07-17T13:23:10.739Z",
           "uri": "at://did:plc:u6wpahdxudi2unba3go2nbsv/app.bsky.feed.post/3mqttuo4wls2y",
           "sentiment": 0
-        },
-        {
-          "id": "46e7744467974e3d84081c52eb7e3b489c319316578002618960f3062b3d0ab4",
-          "authorHandle": "thejerusalempost.bsky.social",
-          "postText": "Jordan Wood, leading candidate to replace Graham platner as Maine's Democratic senate nominee, says US \"can’t continue to fund Israel’s genocide in Gaza.\"\n\nwww.jpost.com/american-pol...",
-          "createdAt": "2026-07-17T08:03:48.892Z",
-          "uri": "at://did:plc:724gpbnyikkk2zsafpdtwgzu/app.bsky.feed.post/3mqtbzmvjud2y",
-          "sentiment": -0.2
         }
       ]
     },
