@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T22:26:20.947Z",
+  "lastUpdated": "2026-07-18T23:25:44.802Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -1021,9 +1021,9 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.3533769063180828,
+      "overallSentiment": -0.31263616557734203,
       "newsSentiment": -0.01568627450980392,
-      "socialSentiment": -0.04444444444444444,
+      "socialSentiment": 0.07777777777777779,
       "mentions": {
         "news": 102,
         "social": 9,
@@ -1952,6 +1952,14 @@
       ],
       "social": [
         {
+          "id": "ab11d1ef7cad199437080eb926c20935268068f2d104032dce17fb8612933355",
+          "authorHandle": "gendercoffin.bsky.social",
+          "postText": "I’m excited about Troy Jackson. He’s got great politics just like Shenna Bellows does, and he’s got a great amount of support which is really heartening to see. If either he or Shenna get in I’m excited, because we could count on them to do the right thing in office",
+          "createdAt": "2026-07-18T22:38:44.331Z",
+          "uri": "at://did:plc:g4wylxqm6gndcfre7vmvz2ge/app.bsky.feed.post/3mqxdeyy6js2f",
+          "sentiment": 0.8
+        },
+        {
           "id": "f8101ee6205838cde9215cdf72a3ad4ade40e15e2486870fbaf208144fd67bea",
           "authorHandle": "princessmom122.bsky.social",
           "postText": "Our Revolun endorsed Troy Jackson. I don’t know why you bring up Shenna Bellows.",
@@ -2014,14 +2022,6 @@
           "createdAt": "2026-07-18T01:08:29.169887+00:00",
           "uri": "at://did:plc:cqhx7hrqhzv5h2pm6jzc6irs/app.bsky.feed.post/3mqv3bu5gfj2g",
           "sentiment": -1
-        },
-        {
-          "id": "a228a376083dff7b7dbc4b5943a0337ee6c8fca42ab3d68b7a3fa77b19cdba6b",
-          "authorHandle": "nicokow.bsky.social",
-          "postText": "Are they helping Troy Jackson? Shenna Bellows?\nAbdul El Sayed? Etc.\n\nMamdani won’t fire Katz.\n\nThey don’t care. They’ll keep trying. Bernie sincerely believes it’s the way to go.",
-          "createdAt": "2026-07-17T23:17:03.896Z",
-          "uri": "at://did:plc:dt7corxpmlwcl2sq453rkuzf/app.bsky.feed.post/3mquv2mkofs2t",
-          "sentiment": -0.3
         }
       ],
       "youtube": [
@@ -2281,14 +2281,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2854507005022469,
+      "overallSentiment": 0.2799745100260564,
       "newsSentiment": -0.011340206185567015,
-      "socialSentiment": 0.35999999999999993,
+      "socialSentiment": 0.34357142857142847,
       "mentions": {
         "news": 97,
-        "social": 65,
+        "social": 70,
         "youtube": 52,
-        "total": 214
+        "total": 219
       },
       "news": [
         {
@@ -3167,6 +3167,62 @@
       ],
       "social": [
         {
+          "id": "df5d32449299d65621bfeef391bf689a49ff7af7d359142ac8fb8f52541aebf3",
+          "authorHandle": "lodgepolepines.bsky.social",
+          "postText": "Guys want to watch a movie about the warriors at Troy instead of volunteering for Troy... Jackson, the presumptive Democratic nominee for the Maine US Senate seat!!",
+          "createdAt": "2026-07-18T23:20:19.632Z",
+          "uri": "at://did:plc:off264hnjfn4lqeubjhbbmjs/app.bsky.feed.post/3mqxfpeoqvc25",
+          "sentiment": 0.2
+        },
+        {
+          "id": "48ffa5036c2ae112b6f3fc98e235f9b81327ba1d4307bfde546af63bc68a7201",
+          "authorHandle": "beshearstan.bsky.social",
+          "postText": "Looks like Troy Jackson will be the nominee against Collins. The strongest candidate against Platner INO",
+          "createdAt": "2026-07-18T23:07:49.343Z",
+          "uri": "at://did:plc:r2wew37repqtwhf63wysczrn/app.bsky.feed.post/3mqxeyz5otk2d",
+          "sentiment": 0.6
+        },
+        {
+          "id": "88f57b6d38163bfc1260e99f95ba8319fb300a00d7eab374e552f1b1bbf9fe90",
+          "authorHandle": "hydevoltyge.bsky.social",
+          "postText": "For everyone interested in following the Maine Democratic caucuses, here is a link!\n\nAnd thanks to @bangordailynews.bsky.social and their politics writer Michael Shepherd (don't think there is a Bluesky account, my bad if there is).\n\nwww.bangordailynews.com/2026/07/18/p...",
+          "createdAt": "2026-07-18T23:05:30.521Z",
+          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mqxeuurbfs27",
+          "sentiment": 0
+        },
+        {
+          "id": "04e544762988ff79af246fe3cfd302411abea9e9980110c2895dcf5486f43085",
+          "authorHandle": "gendercoffin.bsky.social",
+          "postText": "I’m excited about Troy Jackson. He’s got great politics just like Shenna Bellows does, and he’s got a great amount of support which is really heartening to see. If either he or Shenna get in I’m excited, because we could count on them to do the right thing in office",
+          "createdAt": "2026-07-18T22:38:44.331Z",
+          "uri": "at://did:plc:g4wylxqm6gndcfre7vmvz2ge/app.bsky.feed.post/3mqxdeyy6js2f",
+          "sentiment": 0.85
+        },
+        {
+          "id": "9eb9b1dc4950856c0e82e2319d3f5e0f7e82308a6b0951ef7e33b4daf285a77f",
+          "authorHandle": "chathamharrison.bsky.social",
+          "postText": "pissed the corpoDems stole the nomination from the workingman!!! look at this fat cat",
+          "createdAt": "2026-07-18T22:35:01.164Z",
+          "uri": "at://did:plc:hyszri36usuuawks7s5viu5p/app.bsky.feed.post/3mqxd6e5zq22s",
+          "sentiment": -0.9
+        },
+        {
+          "id": "3f4645e5e525025032972e561523bdf0eeef4cada931ea370efab10833ac839b",
+          "authorHandle": "im2b.bsky.social",
+          "postText": "On a side note .. it looks pretty clear as of this last hour Troy Jackson is almost assuredly going to be the Dem nominee taking the Platner seat.",
+          "createdAt": "2026-07-18T22:28:01.471Z",
+          "uri": "at://did:plc:4tqzzky6rr4mh3e2rkum54f5/app.bsky.feed.post/3mqxcrtvmlk23",
+          "sentiment": 0
+        },
+        {
+          "id": "04f8bbbeeac2b0b8191f1959b6ae5feb6f54b65c0e6956db4255150c57842914",
+          "authorHandle": "blakesquest.bsky.social",
+          "postText": "Wait how do I have more followers on here than Troy Jackson lol",
+          "createdAt": "2026-07-18T22:26:48.497Z",
+          "uri": "at://did:plc:ipn74qy6q2e4s6obvpkvb2jr/app.bsky.feed.post/3mqxcpocmw22v",
+          "sentiment": -0.3
+        },
+        {
           "id": "cb946b7a3f4a44289c6a5aa6372838c2e2c5c39d2f3413a967a55c666d460b7c",
           "authorHandle": "reginageorgebush.bsky.social",
           "postText": "Troy Jackson looks like the Maine Senate nominee, I don't see how Bellows or Shah can possibly overcome getting swept in Penobscot (Bangor) and Kennebec (Augusta)+near-swept in several smaller counties",
@@ -3668,22 +3724,6 @@
           "postText": "In honor of the Odyssey, can we take a moment to acknowledge that Joshua Jackson has dated two Helen’s of Troy?\n\nhttps://www.fxoxo.com/307506/\n\nHe dated Diane Kruger from 2005 to 2016 and Lupita Nyong’o 2023-2024. Diane was Helen in the movie Troy (2004) and Lupita was Helen in The Odyssey …",
           "createdAt": "2026-07-18T01:00:16+00:00",
           "uri": "at://did:plc:xel4srlpt6zbfme4wfsuhyay/app.bsky.feed.post/3mqv2tbxrtl2o",
-          "sentiment": 0
-        },
-        {
-          "id": "3fe0d8a0bc0785eff15ce82f27409113a24d557aa2f5dbd45794f24f63bf7754",
-          "authorHandle": "nicokow.bsky.social",
-          "postText": "Are they helping Troy Jackson? Shenna Bellows?\nAbdul El Sayed? Etc.\n\nMamdani won’t fire Katz.\n\nThey don’t care. They’ll keep trying. Bernie sincerely believes it’s the way to go.",
-          "createdAt": "2026-07-17T23:17:03.896Z",
-          "uri": "at://did:plc:dt7corxpmlwcl2sq453rkuzf/app.bsky.feed.post/3mquv2mkofs2t",
-          "sentiment": -0.2
-        },
-        {
-          "id": "f28574451a8db04913632e2b02267ea18627bd585844ac66326d7e959eea4d1f",
-          "authorHandle": "renewedhope.bsky.social",
-          "postText": "youtube.com/watch?v=sYgo...",
-          "createdAt": "2026-07-17T23:11:25.953Z",
-          "uri": "at://did:plc:prnvmta723wf4bmgxqhk332g/app.bsky.feed.post/3mquuqkbezc2r",
           "sentiment": 0
         }
       ],
