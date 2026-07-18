@@ -1,6 +1,6 @@
 # PulseTracker Lite
 
-A free, static, daily-refreshed sentiment tracker for 5 politicians: Nirav Shah, Shenna Bellows, Troy Jackson, Jordan Wood, and Paige Loud. Pulls news (NewsData.io), social posts (Bluesky), and YouTube video comments (YouTube Data API v3) from the last 24 hours, scores them with sentiment analysis, and shows per-candidate news/social/YouTube/overall sentiment plus total mentions.
+A free, static, daily-refreshed sentiment tracker for 4 politicians: Nirav Shah, Shenna Bellows, Troy Jackson, and Jordan Wood. Pulls news (NewsData.io), social posts (Bluesky), and YouTube video comments (YouTube Data API v3) from the last 24 hours, scores them with sentiment analysis, and shows per-candidate news/social/YouTube/overall sentiment plus total mentions.
 
 See `plan.md` for the full design rationale. This README is the practical setup guide.
 

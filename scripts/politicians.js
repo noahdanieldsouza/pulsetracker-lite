@@ -5,5 +5,4 @@ export const POLITICIANS = [
   { id: "shenna-bellows", name: "Shenna Bellows" },
   { id: "troy-jackson", name: "Troy Jackson" },
   { id: "jordan-wood", name: "Jordan Wood" },
-  { id: "paige-loud", name: "Paige Loud" },
 ];
