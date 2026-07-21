@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-20T23:33:32.258Z",
+  "lastUpdated": "2026-07-21T01:03:45.242Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.27228862828713574,
+      "overallSentiment": -0.25662159277504104,
       "newsSentiment": -0.08642857142857145,
-      "socialSentiment": -0.030437313432835813,
+      "socialSentiment": 0.016563793103448285,
       "mentions": {
         "news": 49,
-        "social": 70,
+        "social": 60,
         "youtube": 10,
-        "total": 129
+        "total": 119
       },
       "news": [
         {
@@ -555,6 +555,14 @@
           "sentiment": -0.7845
         },
         {
+          "id": "075f47ab76ee727680effc04bab9d91e6d172f0cf82a92b81ba3ac55e6e24f41",
+          "authorHandle": "wbez.org.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-07-20T17:19:03.105Z",
+          "uri": "at://did:plc:fcdmaxq5qly33pzgxlwm6ub4/app.bsky.feed.post/3mr4jqbuvctd2",
+          "sentiment": null
+        },
+        {
           "id": "04582e54cc941309d3e11ea47d7e91592af71b88a0d748f5ce61330c2382b8c0",
           "authorHandle": "chicago.suntimes.com.web.brid.gy",
           "postText": "",
@@ -929,94 +937,6 @@
           "createdAt": "2026-07-20T01:19:25.863Z",
           "uri": "at://did:plc:i4ip2h75ifija6zu7ib5tha5/app.bsky.feed.post/3mr24tbd6422g",
           "sentiment": 0.0516
-        },
-        {
-          "id": "d9fdb68f194a4058a470263e5ddd40186f65186c155072e7f0379259659fed4d",
-          "authorHandle": "foxnews.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-07-20T00:56:30.000Z",
-          "uri": "at://did:plc:6pwit4ctv4egvys3qyqmgbi6/app.bsky.feed.post/3mr27klk57uh2",
-          "sentiment": null
-        },
-        {
-          "id": "9b76b38e8d5afd8958e8bf09aca89c1a3362a3aff72087dc9e87b1337cb74319",
-          "authorHandle": "firstconsul.bsky.social",
-          "postText": "",
-          "createdAt": "2026-07-20T00:54:15.510Z",
-          "uri": "at://did:plc:7w63542t7ygjeukitujfwuyy/app.bsky.feed.post/3mr23gawszk2o",
-          "sentiment": -1
-        },
-        {
-          "id": "bbfcebf0afd44446eae5b137277f8e4b553cad19a2fc2ad35354a0cde79c02e6",
-          "authorHandle": "alexmorash.bsky.social",
-          "postText": "Maine’s Democratic establishment tried to organize a convention hoping it would give traditional candidates an edge.\n\nIn a show of total establishment collapse, their candidates are dropping out since they received almost non of the elected delegates.\n\nWe are witnessing the birth of a new party.",
-          "createdAt": "2026-07-20T00:50:35.014Z",
-          "uri": "at://did:plc:av3rmlphxtsic47ei2x2qgna/app.bsky.feed.post/3mr237onrwc2e",
-          "sentiment": 0
-        },
-        {
-          "id": "bf405d14f7bb900eb342b62be4bca15fafd4da306a9ff002f48d1ccc01e61eff",
-          "authorHandle": "altacadia.bsky.social",
-          "postText": "It's looking more and more certain we'll have a Rumble from the County in November as more candidates leave the race and Troy Jackson gains endorsements. Troy is from Allagash, while Susan hails from Caribou. @aroostookdemocrats.bsky.social \n\nwww.nbcnews.com/politics/202...",
-          "createdAt": "2026-07-20T00:43:04.580Z",
-          "uri": "at://did:plc:jootkerr5coetq3y6fcbftit/app.bsky.feed.post/3mr22sb3ru22p",
-          "sentiment": 0
-        },
-        {
-          "id": "8d5789a466f0025636b599ed367cf750252196697651052c8fceb1ce64fbcd5c",
-          "authorHandle": "rteefact.bsky.social",
-          "postText": "www.nytimes.com/2026/07/19/u...",
-          "createdAt": "2026-07-20T00:41:37.641Z",
-          "uri": "at://did:plc:l7aufjzmk3xj7hossjyshb4b/app.bsky.feed.post/3mr22po6hm22o",
-          "sentiment": 0
-        },
-        {
-          "id": "b2dc4e7848bf695faae3865597b716ea28233a73e0cb1d970e1680e104bf96f0",
-          "authorHandle": "politicalwire.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-07-20T00:25:40.000Z",
-          "uri": "at://did:plc:ngywpvepg2jwzq5abtzp4qo2/app.bsky.feed.post/3mr2lk47o2zi2",
-          "sentiment": null
-        },
-        {
-          "id": "0799d159268347520ea2ff1f6c7dfcd71fdad51f77430f4ee029002dab67fb55",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "Dem candidates Shenna Bellows, Nirav Shah, and Dan Kleban all withdrew or suspended their campaigns today to replace Graham Platner on the Maine ballot in November.\n\nThe convention, at this point, seems more a formality to confirm Troy Jackson than contest with remaining candidates.\n\n#MEpolitics",
-          "createdAt": "2026-07-20T00:17:51.815Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mqzzf6fre22f",
-          "sentiment": -1
-        },
-        {
-          "id": "41e88d8f51971a33cbd78fd2d1a7fb6bc9321f3f04d6546189f2abebd3412046",
-          "authorHandle": "marcaweiss.bsky.social",
-          "postText": "In Maine, Jackson Takes Big Step Toward Nomination as Top Rivals Bow Out www.nytimes.com/2026/07/19/u...",
-          "createdAt": "2026-07-20T00:03:42.800Z",
-          "uri": "at://did:plc:okx4chxihgvg63hrw3ve7si7/app.bsky.feed.post/3mqzylupu6223",
-          "sentiment": 0
-        },
-        {
-          "id": "2bb93adee3f816f6db7c13073c860e99c0be1163a05ac78f1d38d59349920a20",
-          "authorHandle": "kemet2000.bsky.social",
-          "postText": "In Maine, Jackson Takes Big Step Toward Nomination as Top Rivals Bow Out www.nytimes.com/2026/07/19/u...",
-          "createdAt": "2026-07-20T00:03:07.987Z",
-          "uri": "at://did:plc:4gi6crt4jlelgujfw2rpjbuw/app.bsky.feed.post/3mqzyktjjzk2j",
-          "sentiment": 0
-        },
-        {
-          "id": "91b85f3448375bbb031393b0d1ff31d62662bdd63ca2da780fad0bb5df82e39f",
-          "authorHandle": "bleulimousine.bsky.social",
-          "postText": "Shenna Bellows drops out of Maine’s Senate race as Troy Jackson builds Democratic support to replace Graham Platner - NBC News\n\napple.news/AaaHONu3iTn2...",
-          "createdAt": "2026-07-19T23:47:36.926Z",
-          "uri": "at://did:plc:dcld4rmmynx75ioqhm5h2rzd/app.bsky.feed.post/3mqzxp3louc2a",
-          "sentiment": 0
-        },
-        {
-          "id": "a2477a557af450bb8ed49ac3aa53212f2b29b5d8f162143a793958a0042a1e3c",
-          "authorHandle": "midnitreebandit.bsky.social",
-          "postText": "Dr Nirav Shah and Shenna Bellows have withdrawn from the Maine Senate nominating contest, basically locking it in for Troy Jackson.\n\nCongratulations are in order for Susan Collins on getting another easy win.\n\n(I'm still voting for Jackson, because I am pessimistic, but still have hope in miracles).",
-          "createdAt": "2026-07-19T23:44:08.730Z",
-          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mqzxiv22hc2k",
-          "sentiment": -1
         }
       ],
       "youtube": [
@@ -1126,14 +1046,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.441951447245565,
+      "overallSentiment": -0.4428693216417002,
       "newsSentiment": -0.38823529411764734,
-      "socialSentiment": -0.22333333333333333,
+      "socialSentiment": -0.2260869565217391,
       "mentions": {
         "news": 68,
-        "social": 60,
+        "social": 46,
         "youtube": 7,
-        "total": 135
+        "total": 121
       },
       "news": [
         {
@@ -1751,6 +1671,22 @@
       ],
       "social": [
         {
+          "id": "0f76c9164a78347e934b1042650c99dba8be317aeb46d37197965bd69db44e85",
+          "authorHandle": "pagancelticwitch.bsky.social",
+          "postText": "Look up Shenna Bellows 😉",
+          "createdAt": "2026-07-20T23:50:04.825Z",
+          "uri": "at://did:plc:aselzs4zdjou7gekl623bdwt/app.bsky.feed.post/3mr4icg3xi22p",
+          "sentiment": 0
+        },
+        {
+          "id": "fb1c2aa93a23a1e05ec41ae9ec1faaa9281f60270a6aa9ddb61b5fa2eac8c65e",
+          "authorHandle": "pagancelticwitch.bsky.social",
+          "postText": "If I were a Mainer, I'd be pulling for Shenna Bellows all the way. We need more smart and strong women in Congress,  not males who scoff at them. Can Troy Jackson truly say he has zero skeletons in his closet?",
+          "createdAt": "2026-07-20T23:49:19.074Z",
+          "uri": "at://did:plc:aselzs4zdjou7gekl623bdwt/app.bsky.feed.post/3mr4ib2hqrc2p",
+          "sentiment": 1
+        },
+        {
           "id": "817b7d2aa4c5bd2e8fa202918e09e4deeab111123ff5abefa671cdf124172145",
           "authorHandle": "purrfectlyfrank.bsky.social",
           "postText": "Ds should do this in ALL of their primaries; those with low support, drop out & coalesce around the top few>\nMaine’s Secretary of State, Shenna Bellows, withdrew Sunday morning, saying Democrats didn’t have “a day to waste in unifying” around the goal of defeating Collins.\napnews.com/article/troy...",
@@ -2101,134 +2037,6 @@
           "createdAt": "2026-07-20T01:19:25.863Z",
           "uri": "at://did:plc:i4ip2h75ifija6zu7ib5tha5/app.bsky.feed.post/3mr24tbd6422g",
           "sentiment": 0
-        },
-        {
-          "id": "535e7404e563dbcfa439be0151623ab11a4cb141c20f7798a434709ec42ecac4",
-          "authorHandle": "foxnews.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-07-20T00:56:30.000Z",
-          "uri": "at://did:plc:6pwit4ctv4egvys3qyqmgbi6/app.bsky.feed.post/3mr27klk57uh2",
-          "sentiment": 0
-        },
-        {
-          "id": "1433b0161618c7a0d379a1d10292df82ca8722b267717565f513f8d5bd8e5328",
-          "authorHandle": "alexmorash.bsky.social",
-          "postText": "Maine’s Democratic establishment tried to organize a convention hoping it would give traditional candidates an edge.\n\nIn a show of total establishment collapse, their candidates are dropping out since they received almost non of the elected delegates.\n\nWe are witnessing the birth of a new party.",
-          "createdAt": "2026-07-20T00:50:35.014Z",
-          "uri": "at://did:plc:av3rmlphxtsic47ei2x2qgna/app.bsky.feed.post/3mr237onrwc2e",
-          "sentiment": 0
-        },
-        {
-          "id": "906683fb5051cb512ff758f1e4fe2b8af8c05ea5a5f5ed7fb27091cb578eb059",
-          "authorHandle": "altacadia.bsky.social",
-          "postText": "It's looking more and more certain we'll have a Rumble from the County in November as more candidates leave the race and Troy Jackson gains endorsements. Troy is from Allagash, while Susan hails from Caribou. @aroostookdemocrats.bsky.social \n\nwww.nbcnews.com/politics/202...",
-          "createdAt": "2026-07-20T00:43:04.580Z",
-          "uri": "at://did:plc:jootkerr5coetq3y6fcbftit/app.bsky.feed.post/3mr22sb3ru22p",
-          "sentiment": 0
-        },
-        {
-          "id": "1a58f059c29f74c3261e0bd44f531aa965d7414b3829976dab005c17e09e3c04",
-          "authorHandle": "rteefact.bsky.social",
-          "postText": "www.nytimes.com/2026/07/19/u...",
-          "createdAt": "2026-07-20T00:41:37.641Z",
-          "uri": "at://did:plc:l7aufjzmk3xj7hossjyshb4b/app.bsky.feed.post/3mr22po6hm22o",
-          "sentiment": 0
-        },
-        {
-          "id": "36978cbd18c5fa364a5be68fc629a43c0c43b22473a74799fdd2134c55118e80",
-          "authorHandle": "nbcphiladelphia.com",
-          "postText": "Former state Senate President Troy Jackson is racking up support to become Maine’s next Democratic Senate nominee.\non.nbc10.com/a4f5Ahq",
-          "createdAt": "2026-07-20T00:37:49.596Z",
-          "uri": "at://did:plc:xtnri6sf3ur76egadpfepyju/app.bsky.feed.post/3mr22iup4f22y",
-          "sentiment": 0
-        },
-        {
-          "id": "082547451a0badb597e1c1270aa76110e5eaa0f3543a4c1ef396b5ed8d53ba1e",
-          "authorHandle": "continentsentinel.bsky.social",
-          "postText": "Can Susan Collins Election Shift After Bellows Exit?\n\nhttps://www.europesays.com/3141677/\n\nAugusta, Maine, July 19 Brussels Morning Newspaper — Susan Collins election developments took another turn after Maine Secretary of State…",
-          "createdAt": "2026-07-20T00:35:28+00:00",
-          "uri": "at://did:plc:d33nllryum5jlnpygzieh5bv/app.bsky.feed.post/3mr22ergpoh2j",
-          "sentiment": 0
-        },
-        {
-          "id": "6485aa2621732d6876b454744639438edd72491e884f2c61121f72425f7f8200",
-          "authorHandle": "eu-dk.bsky.social",
-          "postText": "Can Susan Collins Election Shift After Bellows Exit?\n\nhttps://www.europesays.com/dk/131879/\n\nAugusta, Maine, July 19 Brussels Morning Newspaper — Susan Collins election developments took another turn after Maine Secretary of State…",
-          "createdAt": "2026-07-20T00:30:02+00:00",
-          "uri": "at://did:plc:zcfs4a2fl2fgggydypqo56u4/app.bsky.feed.post/3mr2234dedq2k",
-          "sentiment": 0
-        },
-        {
-          "id": "5dc08216d9ac9f021cfdfd67b6c11f3748db292e151b745770fbf36956d574f1",
-          "authorHandle": "politicalwire.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-07-20T00:25:40.000Z",
-          "uri": "at://did:plc:ngywpvepg2jwzq5abtzp4qo2/app.bsky.feed.post/3mr2lk47o2zi2",
-          "sentiment": 0
-        },
-        {
-          "id": "1d5770ef18bb389cb1f89ffb0ab726da9e616b36b6ab08836c9c162ab1e44052",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "Dem candidates Shenna Bellows, Nirav Shah, and Dan Kleban all withdrew or suspended their campaigns today to replace Graham Platner on the Maine ballot in November.\n\nThe convention, at this point, seems more a formality to confirm Troy Jackson than contest with remaining candidates.\n\n#MEpolitics",
-          "createdAt": "2026-07-20T00:17:51.815Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mqzzf6fre22f",
-          "sentiment": -1
-        },
-        {
-          "id": "5b0c17ac8a9946f6c0f857968c0e74bff1234e466236b5cde2d157d27f83987d",
-          "authorHandle": "marcaweiss.bsky.social",
-          "postText": "In Maine, Jackson Takes Big Step Toward Nomination as Top Rivals Bow Out www.nytimes.com/2026/07/19/u...",
-          "createdAt": "2026-07-20T00:03:42.800Z",
-          "uri": "at://did:plc:okx4chxihgvg63hrw3ve7si7/app.bsky.feed.post/3mqzylupu6223",
-          "sentiment": 0
-        },
-        {
-          "id": "f9126b451740a458fe085777aca66519a8f27c990f14644ecb0f601df0b47c4b",
-          "authorHandle": "kemet2000.bsky.social",
-          "postText": "In Maine, Jackson Takes Big Step Toward Nomination as Top Rivals Bow Out www.nytimes.com/2026/07/19/u...",
-          "createdAt": "2026-07-20T00:03:07.987Z",
-          "uri": "at://did:plc:4gi6crt4jlelgujfw2rpjbuw/app.bsky.feed.post/3mqzyktjjzk2j",
-          "sentiment": 0
-        },
-        {
-          "id": "07bbe42fc42038f8911c5477338eca1d264347007d5d6d91584c99a2c79c5b3e",
-          "authorHandle": "attyksolnerpearce.bsky.social",
-          "postText": "7/19/26: \"DEMS in Maine held a debate for potential nominees to outline their credentials to serve in US Senate, following Graham’s departure from the race.\nIt’s a part of their special nomination process that will conclude on July 25 AFTER 601 delegates VOTE to select the new DEMocratic nominee.\"",
-          "createdAt": "2026-07-20T00:00:07.834Z",
-          "uri": "at://did:plc:hnmgazxzwo7fxf3pxfrtwilz/app.bsky.feed.post/3mqzyfhpmgk2r",
-          "sentiment": 0
-        },
-        {
-          "id": "678ac9f29409d0a5d247c6a9be50495238fe5286d9a9b164502e35ffd6a01aae",
-          "authorHandle": "attyksolnerpearce.bsky.social",
-          "postText": "7/19/26: REPUB \"Donald Trump’s attacks on our Democracy are only accelerating & the best way that I can serve our State & country at this moment, IS BY focusing exclusively on my role as [Maine's] Secretary of State [protector of the vote],” Bellows wrote in a statement posted to social media.\"",
-          "createdAt": "2026-07-19T23:57:03.701Z",
-          "uri": "at://did:plc:hnmgazxzwo7fxf3pxfrtwilz/app.bsky.feed.post/3mqzy7y4c322r",
-          "sentiment": 1
-        },
-        {
-          "id": "d70bcfab5cba867e3db582bb28cbed1f972f1f9cf9f3a4d84bca919be88c4547",
-          "authorHandle": "attyksolnerpearce.bsky.social",
-          "postText": "7/19/26: DEM Sheena \"Bellows, who previously ran for Senate in 2014, was vying to replace Graham Platner, who dropped out of the race.\nPlatner was accused of rape by 2 women, allegedly had a tattoo that resembled a Nazi Totenkopf & made remarks online deemed as racist in previous years.\"",
-          "createdAt": "2026-07-19T23:53:30.272Z",
-          "uri": "at://did:plc:hnmgazxzwo7fxf3pxfrtwilz/app.bsky.feed.post/3mqzxzmkxcs26",
-          "sentiment": 0
-        },
-        {
-          "id": "27e9ff20ae38a92c30d69d68503356121b4d0e4cb5404e10406a29531a958958",
-          "authorHandle": "bleulimousine.bsky.social",
-          "postText": "Shenna Bellows drops out of Maine’s Senate race as Troy Jackson builds Democratic support to replace Graham Platner - NBC News\n\napple.news/AaaHONu3iTn2...",
-          "createdAt": "2026-07-19T23:47:36.926Z",
-          "uri": "at://did:plc:dcld4rmmynx75ioqhm5h2rzd/app.bsky.feed.post/3mqzxp3louc2a",
-          "sentiment": -1
-        },
-        {
-          "id": "794fdfeb17a3de91674ba4570d6226e4659be65fcae90e5bff11fc442bbb037e",
-          "authorHandle": "midnitreebandit.bsky.social",
-          "postText": "Dr Nirav Shah and Shenna Bellows have withdrawn from the Maine Senate nominating contest, basically locking it in for Troy Jackson.\n\nCongratulations are in order for Susan Collins on getting another easy win.\n\n(I'm still voting for Jackson, because I am pessimistic, but still have hope in miracles).",
-          "createdAt": "2026-07-19T23:44:08.730Z",
-          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mqzxiv22hc2k",
-          "sentiment": -1
         }
       ],
       "youtube": [
@@ -2308,14 +2116,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.399328027536518,
+      "overallSentiment": 0.3953855975365181,
       "newsSentiment": 0.570588235294118,
-      "socialSentiment": 0.23645625000000006,
+      "socialSentiment": 0.22462896000000004,
       "mentions": {
         "news": 85,
-        "social": 664,
+        "social": 633,
         "youtube": 149,
-        "total": 898
+        "total": 867
       },
       "news": [
         {
@@ -3085,6 +2893,334 @@
         }
       ],
       "social": [
+        {
+          "id": "7e6e82f986fb86d4a23738955325084ed61321550a55ee3de01a9a88a5efe56b",
+          "authorHandle": "alexjungroth.bsky.social",
+          "postText": "The process to replace Platner is underway right now and will conclude July 27th.\n\nSo far, four of the other candidates have dropped out.\n\nAs a progressive and union organizer Troy Jackson is the best suited to take up where Platner’s campaign left off.",
+          "createdAt": "2026-07-21T01:02:43.932Z",
+          "uri": "at://did:plc:na7zyjttslsk5prwzpgtk7gg/app.bsky.feed.post/3mr4medbev22p",
+          "sentiment": 0.8
+        },
+        {
+          "id": "c1d9a24ef1f1c33887a6c5026718e1e4dd45b8d606b87f207f2efe49aabb9bd3",
+          "authorHandle": "podlurv1.bsky.social",
+          "postText": "Is he also supporting this guy because he doesn’t seem to stand for anything for longer than 10 minutes.\nThis man will be a PROBLEM\n\nthehill.com/homenews/cam...",
+          "createdAt": "2026-07-21T01:02:20.605Z",
+          "uri": "at://did:plc:d6baxqlhjhitlxbci3wgymqr/app.bsky.feed.post/3mr4mdmzimc24",
+          "sentiment": -0.9
+        },
+        {
+          "id": "1c25e7abf1963f84cd60ca2abffa0ce5af250d3567c905a41bcbf90feb31d16d",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "Maine Democratic gubernatorial nominee Hannah Pingree endorsed Troy Jackson for U.S. Senate. Hunter Biden said he endured years of public attacks but remains standing. UKMTO reported that Iran struck a fourth tanker that day in the Strait of Hormuz off Oman’s coast.",
+          "createdAt": "2026-07-21T01:02:15.328Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mr4mdhyhc22p",
+          "sentiment": 0.7
+        },
+        {
+          "id": "34a9802a03176e54bf75ffa4cc68989a6faf31733126edbc578acac4545d690d",
+          "authorHandle": "podlurv1.bsky.social",
+          "postText": "Oh, good God, does this man stand for anything for longer than half a second?!\n\nthehill.com/homenews/cam...",
+          "createdAt": "2026-07-21T00:58:06.277Z",
+          "uri": "at://did:plc:d6baxqlhjhitlxbci3wgymqr/app.bsky.feed.post/3mr4m42hzgc24",
+          "sentiment": -0.9
+        },
+        {
+          "id": "045c12c1b9e6a15a28990b4a244c788044a80702d5004c77adfdce1e888fada4",
+          "authorHandle": "pbrown4348.bsky.social",
+          "postText": "Progressive Troy Jackson Wins ME Senate Nomination. “In November, Mainers will defeat Susan Collins, and we will take back our Senate seat from the billionaires and corporations who think they own it,” Jackson said. portside.org/2026-07-20/p...",
+          "createdAt": "2026-07-21T00:56:04.351Z",
+          "uri": "at://did:plc:6ptn4k5fjaedyunxycisqnkk/app.bsky.feed.post/3mr4lyg752s2e",
+          "sentiment": 0.9
+        },
+        {
+          "id": "7331702d36a4362f115a7f00d143a12a27aba89e4f3384fc17c6a9261e52fc60",
+          "authorHandle": "prognews.bsky.social",
+          "postText": "Progressive Troy Jackson now presumed Democratic candidate for Maine US Senate seat. \"Jackson... won more than three-quarters of the total delegates over the weekend, effectively clinching his spot in a head-to-head with GOP Sen. Susan Collins...\" www.politico.com/news/2026/07...",
+          "createdAt": "2026-07-21T00:55:54.670Z",
+          "uri": "at://did:plc:22g3mf3sm5z4lp7zfk6ncv32/app.bsky.feed.post/3mr4ly4xnyc2q",
+          "sentiment": 0.8
+        },
+        {
+          "id": "708dbc99e083d4cd2294ef5d62a046c0fd6449c74929f7ab3b2470d972cf684c",
+          "authorHandle": "jillpiggott.bsky.social",
+          "postText": "Wanna help us beat her? secure.actblue.com/donate/tj-we...",
+          "createdAt": "2026-07-21T00:47:22.941Z",
+          "uri": "at://did:plc:qoewv4sal6ftjn3gwcrzyn4g/app.bsky.feed.post/3mr4liuwzks2a",
+          "sentiment": 0.6
+        },
+        {
+          "id": "3101bb5983bb9f10963c1c836acddf8dc1411db44e0dd403af35aba0d20d2bad",
+          "authorHandle": "sidster7.bsky.social",
+          "postText": "Troy Jackson was really a lumberjack.  Seriously, he should get Monte Python’s permission to use their lumberjack song as the campaign ditty.",
+          "createdAt": "2026-07-21T00:43:59.096Z",
+          "uri": "at://did:plc:ddgdi4wdx6q5m72ju5jwzlgd/app.bsky.feed.post/3mr4lcsk4a22d",
+          "sentiment": 0.3
+        },
+        {
+          "id": "265d8c57d3fad545a3d9eea30f91671a570212b79a4d2ffb11803cd5dc40273f",
+          "authorHandle": "hwm777.bsky.social",
+          "postText": "INSIDE: Markwayne Mullin ... Tom Homan ... Troy Jackson\n\nRetribution, Destruction, and Corruption\n\nopen.substack.com/pub/tpmmorni...",
+          "createdAt": "2026-07-21T00:41:41.031Z",
+          "uri": "at://did:plc:esx5bmxidflg56dhnd7gd6yk/app.bsky.feed.post/3mr4l6ouo5k2v",
+          "sentiment": -0.8
+        },
+        {
+          "id": "bcfcc3d393e7d4456828d830ab69608b03324c4ac682a5a568db2c4f35e5ae09",
+          "authorHandle": "minkab.bsky.social",
+          "postText": "youtu.be/xnStgcGzCro?...",
+          "createdAt": "2026-07-21T00:37:23.508Z",
+          "uri": "at://did:plc:qz4f63p3eqtrxbrl57uxe73e/app.bsky.feed.post/3mr4kwzbots2r",
+          "sentiment": 0
+        },
+        {
+          "id": "24f577607ae1128e481dcba74be7d6761be74f571a68ef31de1ad9fcd6fadac9",
+          "authorHandle": "minkab.bsky.social",
+          "postText": "youtu.be/iTGLDwW2aJA?...",
+          "createdAt": "2026-07-21T00:35:33.380Z",
+          "uri": "at://did:plc:qz4f63p3eqtrxbrl57uxe73e/app.bsky.feed.post/3mr4ktqatxs2r",
+          "sentiment": 0
+        },
+        {
+          "id": "5a45e377b3e27759faf0e02da580a82b6ba8757af0426b4919e45d3c2dc3e47a",
+          "authorHandle": "minkab.bsky.social",
+          "postText": "www.theguardian.com/us-news/2026...",
+          "createdAt": "2026-07-21T00:33:24.887Z",
+          "uri": "at://did:plc:qz4f63p3eqtrxbrl57uxe73e/app.bsky.feed.post/3mr4kpvpkjk2r",
+          "sentiment": 0
+        },
+        {
+          "id": "0869c885862e36655a0fdcde976ab0674fe6492221ee9c1d959c1eb334e2be19",
+          "authorHandle": "czarreed.bsky.social",
+          "postText": "NYT pitchbot: “Troy Jackson Yells and Doesn’t Do Dishes; Collins’ Support of Fascism Looking Better to Mainers.”",
+          "createdAt": "2026-07-21T00:32:03.554Z",
+          "uri": "at://did:plc:vfvam4koafkvzqdpnztw5qfh/app.bsky.feed.post/3mr4kni5hrc2y",
+          "sentiment": -0.7
+        },
+        {
+          "id": "3fbdf9a22d04101adbf27936a442532444bcd1918166e239e25cf76ca82c84cf",
+          "authorHandle": "ghnarrator.bsky.social",
+          "postText": "Democrat set to replace Platner in Maine led state Senate with a temper\n\nwww.washingtonpost.com/politics/202...",
+          "createdAt": "2026-07-21T00:28:58.880Z",
+          "uri": "at://did:plc:f3zh6dilykbq2f5z34wuu2qo/app.bsky.feed.post/3mr4khxzo2s2h",
+          "sentiment": -0.6
+        },
+        {
+          "id": "00caeafa617c9a9838add8ad6d4e48e29bb364cdb26cdb15a831098d8086ce68",
+          "authorHandle": "thesonicfox.bsky.social",
+          "postText": "It’s literally just dunking on the fact Helen of Troy was cast as a black woman and it’s Sam Jackson leaving with Ellen Page because they have watermelon.\n\nNo redeeming this.",
+          "createdAt": "2026-07-21T00:26:47.240Z",
+          "uri": "at://did:plc:tw6ymrzchb4q5h67s4kmwkdz/app.bsky.feed.post/3mr4ke2iee227",
+          "sentiment": 0
+        },
+        {
+          "id": "172c545a46a6fd2c6b29fb88ebb030e0c14e52b8653b9202b9327ccd650d9319",
+          "authorHandle": "grandmompa.bsky.social",
+          "postText": "Then he wants to know why he is the butt of every joke worldwide right now. What a quack!\nwww.nbcnews.com/politics/tru...",
+          "createdAt": "2026-07-21T00:23:59.151Z",
+          "uri": "at://did:plc:yytstclm73msuopaltbw3sx5/app.bsky.feed.post/3mr4k726qvc2x",
+          "sentiment": -0.8
+        },
+        {
+          "id": "77d2b2272e3bfab54139c397ea2b787bfe0bec1c0f95c342c7a65bd64ed5a075",
+          "authorHandle": "lovefreespeech.bsky.social",
+          "postText": "This was the kiss of death for him. www.themainewire.com/2026/07/main...",
+          "createdAt": "2026-07-21T00:21:04.017Z",
+          "uri": "at://did:plc:gl5pt6tyfkjdwqotnxxrijmf/app.bsky.feed.post/3mr4jzt5znc2q",
+          "sentiment": -0.7
+        },
+        {
+          "id": "04cffb951cc393c7f31a49d16d502a22250f36e135eaf4fc706feb696dbd19e5",
+          "authorHandle": "metrochimp.bsky.social",
+          "postText": "\"... while Jackson far from a dynamic speaker, the same is true of Susan Collins and Angus King — I would pretend to know what works there.\"\n\nTo reign in Maine, speak mainly rather plain.",
+          "createdAt": "2026-07-21T00:16:38.933Z",
+          "uri": "at://did:plc:lyp7yeqb2tasiidfbmtj6iwt/app.bsky.feed.post/3mr4jrweckc2x",
+          "sentiment": 0.2
+        },
+        {
+          "id": "7d82384d7b91281591ffe788b14b54434332693d592dbc376f005fa67c02e2fc",
+          "authorHandle": "andromeda8.bsky.social",
+          "postText": "I don't think Troy Jackson is a stronger candidate against Collins. I still think she's favored.",
+          "createdAt": "2026-07-21T00:15:26.694Z",
+          "uri": "at://did:plc:ekrgqjcvdx6pewrx6am6am67/app.bsky.feed.post/3mr4jprhrms2i",
+          "sentiment": -0.2
+        },
+        {
+          "id": "fdd8d51a196eb9701bbfef0ff42fb7c887f7f6e0b3b4cba0984d04b3914b639c",
+          "authorHandle": "c-a-m-i-l-l-e.bsky.social",
+          "postText": "Troy Jackson for Senate!",
+          "createdAt": "2026-07-21T00:14:52.507Z",
+          "uri": "at://did:plc:vbyeaa2qg5ibqx5wlssmdh5o/app.bsky.feed.post/3mr4joquiuc2m",
+          "sentiment": 0.9
+        },
+        {
+          "id": "a0b54f1aedacc3aee57111c09e56366e82178f7bd859a6710484d3bc66d13f99",
+          "authorHandle": "noligarchy-us.bsky.social",
+          "postText": "Maine Democrats rally behind Troy Jackson, but risks remain #Noligarchy #SignalHouse\n\ngo.noligarchy.us/9Y3rf",
+          "createdAt": "2026-07-21T00:09:32.973Z",
+          "uri": "at://did:plc:zm5mndgwge7owlqlh2s7g46d/app.bsky.feed.post/3mr4jfa4zyc2e",
+          "sentiment": 0.7
+        },
+        {
+          "id": "870b14ec7471e913321209d548bca02808f0bf36250bf273514010913b4d1bf7",
+          "authorHandle": "rankednews.bsky.social",
+          "postText": "Troy Jackson emerges as potential frontrunner to replace Graham Platner in Maine's Senate race: Former Maine Senate President Troy Jackson appears to be the likely Democratic nominee to challenge Republican Senator Susan Collins, following the withdrawal of four majo… https://ranked.news/1156268?u=b",
+          "createdAt": "2026-07-21T00:09:32.291Z",
+          "uri": "at://did:plc:42han5exrxyrgdsbwosrp7sy/app.bsky.feed.post/3mr4jfanlnb2r",
+          "sentiment": 0.7
+        },
+        {
+          "id": "450be05b82cffa7a33ad659be02a6fbebbc3c7ce9cb227043dae5fae0e4289b7",
+          "authorHandle": "jakebblueeyes.bsky.social",
+          "postText": "Just got this campaign message from Troy Jackson in Maine senatorial race.  I’m all for him winning but this is the pic you guys chose? He doesn’t look “incredibly proud”, he looks like he’s waiting in line for a colonoscopy.",
+          "createdAt": "2026-07-21T00:09:05.497Z",
+          "uri": "at://did:plc:l3g4bxpubsloh5c2qbzwkl22/app.bsky.feed.post/3mr4jefwotk2n",
+          "sentiment": -0.4
+        },
+        {
+          "id": "3b016d1a3c719f5b9450e760345d805c8a110f9f47b69d3282c2ceaafe7fd9a5",
+          "authorHandle": "nogutsnofreedom.bsky.social",
+          "postText": "Required reading \nFollow up on the critical Maine Senate race",
+          "createdAt": "2026-07-21T00:07:23.130Z",
+          "uri": "at://did:plc:sk645hbm6xj4edllgxc3u4fr/app.bsky.feed.post/3mr4jbecj7c2h",
+          "sentiment": 0
+        },
+        {
+          "id": "f3708fc8c71d23c599b5eddd9038a1e488a14751c276072f15fe99486fda9b4d",
+          "authorHandle": "mrquint.bsky.social",
+          "postText": "Oh, well, gee whiz, WaPo. Perhaps Maine could use a senator who doesn't just express \"deep concern\" when dealing with a fascist regime.\n\nwww.washingtonpost.com/politics/202...",
+          "createdAt": "2026-07-21T00:06:45.542Z",
+          "uri": "at://did:plc:tnkwzesf6cvn2kqq2qyltvf5/app.bsky.feed.post/3mr4jaahi4s2k",
+          "sentiment": 0.6
+        },
+        {
+          "id": "6546247ebbafde099db18f65f57c59e2c5f30239c4c7d50fde208caa79887ecf",
+          "authorHandle": "ouraniaseven.bsky.social",
+          "postText": "Troy Jackson! 🎉🎉🎉",
+          "createdAt": "2026-07-21T00:06:13.464Z",
+          "uri": "at://did:plc:3qtmmysg64q6w725bmeywb7n/app.bsky.feed.post/3mr4j7buiy22k",
+          "sentiment": 0
+        },
+        {
+          "id": "da63c7da13ff46bc0b1d4b85bee3fe3acf37b31c67850eeba2a49e411e286788",
+          "authorHandle": "rankednews.bsky.social",
+          "postText": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson: The crowded Democratic primary for Maine’s U.S. Senate seat has dramatically narrowed as candidates rally behind former state Senate President Troy Jackson. Following county nominating meet… https://ranked.news/1154972?u=b",
+          "createdAt": "2026-07-21T00:05:59.452Z",
+          "uri": "at://did:plc:42han5exrxyrgdsbwosrp7sy/app.bsky.feed.post/3mr4j6vmp7i2p",
+          "sentiment": 0
+        },
+        {
+          "id": "eb558bafdc424409e3c6c5d54008fe34d00171454fd52a45634248c9ea01d1e2",
+          "authorHandle": "togrowell.bsky.social",
+          "postText": "youtube.com/shorts/hqiDo... And now the democrats pick their candidate. Share the news...and help get him to the senate...Thanks💯",
+          "createdAt": "2026-07-21T00:05:58.654Z",
+          "uri": "at://did:plc:qn3aka5asin4wkgeileopj23/app.bsky.feed.post/3mr4j6tqj4c2i",
+          "sentiment": 0.5994
+        },
+        {
+          "id": "c788b3d87a3a8d4f81465e25b56ae4d317e86bf7bfb8f1e46fc3d40039b971c5",
+          "authorHandle": "asfried.bsky.social",
+          "postText": "Yeah, that's silly.\nLet me ask you: When was the first time you heard of Troy Jackson?",
+          "createdAt": "2026-07-21T00:04:58.581Z",
+          "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3mr4j52hb2c2p",
+          "sentiment": 0.3182
+        },
+        {
+          "id": "2e0024c350c6e41d440bf956923a09c64ccf2888a7290c626768ec873dbc455b",
+          "authorHandle": "mcall.com",
+          "postText": "Troy Jackson surges as Maine Democrats’ likely Senate pick after Graham Platner’s exit https://mrf.lu/2T6dP",
+          "createdAt": "2026-07-21T00:03:33.213Z",
+          "uri": "at://did:plc:l7jgubjvekubyowfxgwka6ca/app.bsky.feed.post/3mr4j2jkhvt2w",
+          "sentiment": 0
+        },
+        {
+          "id": "abd21a3971880597d238293dc0eb9258996dc99e4e79c946d62fced03695f1cc",
+          "authorHandle": "kvconner.bsky.social",
+          "postText": "Democratic frontrunner in Maine to replace Platner vows to continue the 'movement'\nFormer state lawmaker Troy Jackson is building support leading up to a hurried special convention this weekend\nMaine Public | By Kevin Miller\nPublished July 20, 2026 at 8:22 AM EDT  www.mainepublic.org/politics/202...",
+          "createdAt": "2026-07-21T00:00:47.809Z",
+          "uri": "at://did:plc:whdnyhkdb467nqxvp3rutibz/app.bsky.feed.post/3mr4ivlcggc2y",
+          "sentiment": 0.6597
+        },
+        {
+          "id": "c3208042f73e0bcff1f15afbec9d803544d54d6f45652ec0511010b05d320a26",
+          "authorHandle": "honestelaine.bsky.social",
+          "postText": "I just followed @troyjackson207.bsky.social ,Troy Jackson of Maine.  Please pass his handle so folks get to know him.\n\nTY",
+          "createdAt": "2026-07-20T23:58:24.909Z",
+          "uri": "at://did:plc:3jwosnyzmxws34fn4uwjbwel/app.bsky.feed.post/3mr4irczdqc2w",
+          "sentiment": 0.6841
+        },
+        {
+          "id": "8613f6bc50cb98af7fd4188aac394f41652136d50a67e6802ed652ebd93783fd",
+          "authorHandle": "samlitzinger.bsky.social",
+          "postText": "“Democrat set to replace Platner in Maine led state Senate with a temper Troy Jackson, the presumptive Democratic nominee to challenge Sen. Susan Collins (R-Maine), yelled and cursed at fellow state lawmakers, interviews reveal.”\n\nwww.washingtonpost.com/politics/202...",
+          "createdAt": "2026-07-20T23:57:12.726Z",
+          "uri": "at://did:plc:b2kdumfgkqzhj5bvtbcwihnx/app.bsky.feed.post/3mr4ip66ijk2s",
+          "sentiment": -0.3612
+        },
+        {
+          "id": "f6ba3e5328a9782377800d2abc9f31e030893e6a509136ac1948c5eb4dfd1af3",
+          "authorHandle": "kdbyproxy.bsky.social",
+          "postText": "Have the people concerned about this forgotten Amy \"Staple Thrower\" Klobuchar?\n\nLegislators should not be throwing water bottles at people. Now, if Troy Jackson has a habit of doing it, I'd want to know (if I were a Mainer) if he's done it w/o regard to his colleagues' sex, race, or religion.",
+          "createdAt": "2026-07-20T23:54:38.054Z",
+          "uri": "at://did:plc:mf6x4tcxia23iqiflhqtv2dg/app.bsky.feed.post/3mr4ikkoaoc2v",
+          "sentiment": -0.2083
+        },
+        {
+          "id": "f5cd131830ea4edffccb9e4f002e0f8cc81195328a840d1c3b92739e55e1be7f",
+          "authorHandle": "bruff.gay",
+          "postText": "Troy Jackson. Lifelong labor advocate. Okay. We'll see",
+          "createdAt": "2026-07-20T23:49:59.804Z",
+          "uri": "at://did:plc:xf4oz5nmtshgjgncgp7ynakz/app.bsky.feed.post/3mr4icbcr522l",
+          "sentiment": 0.2263
+        },
+        {
+          "id": "82b077f1ff94e5ff26c4fa4c24dd27dcdcc0654173f22f4b33e679eb978ef5b8",
+          "authorHandle": "pagancelticwitch.bsky.social",
+          "postText": "If I were a Mainer, I'd be pulling for Shenna Bellows all the way. We need more smart and strong women in Congress,  not males who scoff at them. Can Troy Jackson truly say he has zero skeletons in his closet?",
+          "createdAt": "2026-07-20T23:49:19.074Z",
+          "uri": "at://did:plc:aselzs4zdjou7gekl623bdwt/app.bsky.feed.post/3mr4ib2hqrc2p",
+          "sentiment": 0.8576
+        },
+        {
+          "id": "a905013b03ec500f21db3c2c06d1be5092eccc8c295e42a4d1a3dba78bcb53fb",
+          "authorHandle": "mainemorningstar.com",
+          "postText": "Troy Jackson won 478 of 500 delegates attending next week’s Maine Democratic Party convention, essentially securing his nomination in the U.S. Senate race, but his support wasn’t uniform across counties. mainemorningstar.com/2026/07/20/h...",
+          "createdAt": "2026-07-20T23:44:00.731Z",
+          "uri": "at://did:plc:xioe5btxavtplvj5h7gpk2uv/app.bsky.feed.post/3mr4hxmh2dw2h",
+          "sentiment": 0.8126
+        },
+        {
+          "id": "1a068556b4a0aa7a1aa9d029fba94c526a5e1fe3e6c3746203cd6cc4666d1ba2",
+          "authorHandle": "acadia-maine.bsky.social",
+          "postText": "And don't @ me with your stupid Troy Jackson defenses. I know basic bitches with anger problems and entitlement issues when I see them. GTFO my face.",
+          "createdAt": "2026-07-20T23:40:18.028Z",
+          "uri": "at://did:plc:myuofth4lvtmt3ceric2c7r7/app.bsky.feed.post/3mr4hqwidjs2t",
+          "sentiment": -0.9186
+        },
+        {
+          "id": "1c1a5cadbd96fc8e13d0fd724f1a4240bbf48c7418bfb182469bbb792e013b29",
+          "authorHandle": "troyjackson207.bsky.social",
+          "postText": "Thank you, @hannahpingree.bsky.social, for your endorsement. With you in the Blaine House and me in the U.S. Senate, we will deliver a government that works for working Mainers. I'm grateful to be in this fight with you.",
+          "createdAt": "2026-07-20T23:39:17.746Z",
+          "uri": "at://did:plc:nti5xzs56xrwkpzjzsmxewdz/app.bsky.feed.post/3mr4hp4yrd22y",
+          "sentiment": 0.5859
+        },
+        {
+          "id": "b5eaf5c780eb0927115e3ecbfa8c6f1048d93a02b57df339dddfd5ac248e96e2",
+          "authorHandle": "nikolaskozloff.bsky.social",
+          "postText": "Anti- #democratic, #CNN?  Guess we won't get any hard-hitting questions to #TroyJackson about how he features himself in ads cutting down #trees in #Maine with #chainsaws in the middle of a #wildfire #airquality #climate emergency www.cnn.com/2026/07/16/p... #media #politics #environment",
+          "createdAt": "2026-07-20T23:38:02.353Z",
+          "uri": "at://did:plc:jbtw3djzn4vyeg6afvtr3ba5/app.bsky.feed.post/3mr4hmv3vfc2b",
+          "sentiment": -0.6597
+        },
+        {
+          "id": "ecf4f4a21db6493047dc9cd28fd26c50beeb07bb1faf786efb3feef548fe918a",
+          "authorHandle": "andromeda8.bsky.social",
+          "postText": "Is Troy Jackson a stronger candidate against Collins?",
+          "createdAt": "2026-07-20T23:36:49.086Z",
+          "uri": "at://did:plc:ekrgqjcvdx6pewrx6am6am67/app.bsky.feed.post/3mr4hkpa3ik2c",
+          "sentiment": 0.3818
+        },
         {
           "id": "119b8fb9646dd7a8f2442775ac192d32dff91da631c287885aec3801ea5542ef",
           "authorHandle": "charleskeener.bsky.social",
@@ -4620,6 +4756,14 @@
           "createdAt": "2026-07-20T17:20:57.651Z",
           "uri": "at://did:plc:jwq7l3xokmriwdz4fvqizvj5/app.bsky.feed.post/3mr3skmirts25",
           "sentiment": 0
+        },
+        {
+          "id": "c7316fa035755e0ca737604e031f1cf1fbb76c12549f51776bee687fb3c119c9",
+          "authorHandle": "wbez.org.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-07-20T17:19:03.105Z",
+          "uri": "at://did:plc:fcdmaxq5qly33pzgxlwm6ub4/app.bsky.feed.post/3mr4jqbuvctd2",
+          "sentiment": null
         },
         {
           "id": "712dbc9761ba3632cbde97ccd7b076cf14469618baa59bd769f20f9e8c2e6098",
@@ -7812,590 +7956,6 @@
           "createdAt": "2026-07-20T01:05:42Z",
           "uri": "at://did:plc:7bt3pwkn3fedmrmuoj2qbfqa/app.bsky.feed.post/3mr242rbasq2m",
           "sentiment": 0.5848
-        },
-        {
-          "id": "b63e8462f34ccca1fc7338e3e8dbb02ef98b9f4de691a548227e21b8f0fa3feb",
-          "authorHandle": "davidewart.bsky.social",
-          "postText": "Troy Jackson: Self‑described progressive fighter for “working families,” with a platform built around Medicare for All, taxing billionaires and large corporations, strong labor rights, and curbing corporate influence in politics",
-          "createdAt": "2026-07-20T01:00:46.976Z",
-          "uri": "at://did:plc:6ezspd5i42ez4umymdwutikz/app.bsky.feed.post/3mr23rwbg2223",
-          "sentiment": 0.8
-        },
-        {
-          "id": "74a1ae436f7d161f51ee84e665fca49775d45b4db56b32f4871c316e2e8eb867",
-          "authorHandle": "byteseu.bsky.social",
-          "postText": "Top Maine Senate candidates end campaigns as Troy Jackson builds Democratic support\n\nhttps://www.byteseu.com/2210939/\n\nSANFORD, Maine — Former state Senate President Troy Jackson is racking up support to become Maine’s next Democratic Senate nominee, with his top opponents ending their campaigns …",
-          "createdAt": "2026-07-20T01:00:36+00:00",
-          "uri": "at://did:plc:5zww7zorx2ajw7hqrhuix3ba/app.bsky.feed.post/3mr23rp3fd62z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "bcba127f70af3c5d732b7cffafa32913cfa38036e15ba87d92b41697a2d342d5",
-          "authorHandle": "summednews.bsky.social",
-          "postText": "Maine: Enthusiasm for Senate candidate Troy Jackson dominates meeting of York County Democrats\n\nNearly all of the delegates elected in Maine's southernmost county Sunday have pledged to support Jackson at Democrats' nominating convention next weekend.\n\n#Maine",
-          "createdAt": "2026-07-20T01:00:06.301Z",
-          "uri": "at://did:plc:oobayuj4zhhswbciunshqkpi/app.bsky.feed.post/3mr23qpjyq62j",
-          "sentiment": 0.9
-        },
-        {
-          "id": "57e939689ca0d78fda0ac332244643140ab9311194f0952760481a8a2ba904ad",
-          "authorHandle": "darjeelingltd.bsky.social",
-          "postText": "Reading the takes on the other place, it’s clear anyone with half a brain defaulted to being on BlueSky.\n\nApparently Troy Jackson has already lost and is worst than Platner or something something. \n\nJust complete broken brains.",
-          "createdAt": "2026-07-20T00:57:42.458Z",
-          "uri": "at://did:plc:m6m3gadyjdclag3wgsu3agrl/app.bsky.feed.post/3mr23mgcdpc2a",
-          "sentiment": -0.6
-        },
-        {
-          "id": "7492c59af1b2b751c007d610e13f6209c4514465d9cb61039d3cd8673167a65d",
-          "authorHandle": "foxnews.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-07-20T00:56:30.000Z",
-          "uri": "at://did:plc:6pwit4ctv4egvys3qyqmgbi6/app.bsky.feed.post/3mr27klk57uh2",
-          "sentiment": null
-        },
-        {
-          "id": "d950bceac3c4244d508a666bb69a2ee3e3966c2f8d3247e6007b08db3c6f45c5",
-          "authorHandle": "splitrailfence.bsky.social",
-          "postText": "I got you. Jackson's in the white shirt under the flannel. He's a fifth gen Allagash logger, a worker for workers who also knows our place and has sh*t to lose here. He's the real maple syrup, not the fake corn syrup guy we almost had.",
-          "createdAt": "2026-07-20T00:56:25.103Z",
-          "uri": "at://did:plc:4y57ffxeexdnzt65pwii5khu/app.bsky.feed.post/3mr23k4jqnc2n",
-          "sentiment": 0.8
-        },
-        {
-          "id": "5521eaf55d447e141c59ba1679f613d8ba9021936e9fb4a4f7854df3e4c15b85",
-          "authorHandle": "lgbtqageekydork.bsky.social",
-          "postText": "Troy Jackson is the correct choice for Maine and is about the only Hail Mary that could have been thrown to unseat Collins for good and all, coming out of the Platner fiasco",
-          "createdAt": "2026-07-20T00:56:14.450Z",
-          "uri": "at://did:plc:d6vq6y4ws4xanhwyyy5gpmsg/app.bsky.feed.post/3mr23jselek2q",
-          "sentiment": 0.8
-        },
-        {
-          "id": "d236a8a5ac4fac7755a611768191bd41f14b863751b8fd8c9c3d686b29d071b1",
-          "authorHandle": "richarddean.bsky.social",
-          "postText": "x.com/occupydemocr...",
-          "createdAt": "2026-07-20T00:55:21.922Z",
-          "uri": "at://did:plc:xjvmyboun6l3qthnrntctbie/app.bsky.feed.post/3mr23iabkik2x",
-          "sentiment": 0
-        },
-        {
-          "id": "5c7d1f9f970e936a676b8305a83688a125a9fab2f00f53f06bf07dba0d9b313a",
-          "authorHandle": "firstconsul.bsky.social",
-          "postText": "",
-          "createdAt": "2026-07-20T00:54:15.510Z",
-          "uri": "at://did:plc:7w63542t7ygjeukitujfwuyy/app.bsky.feed.post/3mr23gawszk2o",
-          "sentiment": 0
-        },
-        {
-          "id": "c8a7ed00cee71156f5ec368930ba78a5779a58fdcafcd46fa5b58c932e39ee66",
-          "authorHandle": "themagicconch19.bsky.social",
-          "postText": "This summarizes BlueSky pretty well, I think",
-          "createdAt": "2026-07-20T00:53:19.730Z",
-          "uri": "at://did:plc:pki2a6oycyrppalttttogq5j/app.bsky.feed.post/3mr23elqjfc2s",
-          "sentiment": 0
-        },
-        {
-          "id": "321861b1e58027c6ed88898196015dad7aab7a90ba79e35bdbebd675c03d80b0",
-          "authorHandle": "eacanning.bsky.social",
-          "postText": "'Working-Class Organizing Wins': Troy Jackson Pulls Ahead in Race to Replace Platner in Maine www.commondreams.org/news/maine-s...",
-          "createdAt": "2026-07-20T00:53:00.914Z",
-          "uri": "at://did:plc:hoxqjarxr4j5lppo6os2a6gl/app.bsky.feed.post/3mr23dzsdek2b",
-          "sentiment": 0.7
-        },
-        {
-          "id": "9a347a82df213ac17ba6c4692e465cbb97f51d8dec12a80ee6ec8a892986eba6",
-          "authorHandle": "ghnarrator.bsky.social",
-          "postText": "Maine Democrats rally around logger Troy Jackson to replace Graham Platner \n\nwww.washingtonpost.com/politics/202...",
-          "createdAt": "2026-07-20T00:52:59.882Z",
-          "uri": "at://did:plc:f3zh6dilykbq2f5z34wuu2qo/app.bsky.feed.post/3mr23dystkk23",
-          "sentiment": 0.6
-        },
-        {
-          "id": "7dbd2753cff46ada4787aecf95117f88cdaea9c4ccbce5fa82edc82272683946",
-          "authorHandle": "alexmorash.bsky.social",
-          "postText": "Maine’s Democratic establishment tried to organize a convention hoping it would give traditional candidates an edge.\n\nIn a show of total establishment collapse, their candidates are dropping out since they received almost non of the elected delegates.\n\nWe are witnessing the birth of a new party.",
-          "createdAt": "2026-07-20T00:50:35.014Z",
-          "uri": "at://did:plc:av3rmlphxtsic47ei2x2qgna/app.bsky.feed.post/3mr237onrwc2e",
-          "sentiment": 0.7
-        },
-        {
-          "id": "8f62edc86270fec8e7a95fd5ff5e683b3c3c489cc94bdd35e88a830d2b1f9137",
-          "authorHandle": "minuteman04.bsky.social",
-          "postText": "Question for #Maine voters and anyone else who is interested?\n\nWhat are the chances Susan Collins debates likely Democratic nominee Troy Jackson? If yes, more thn once?",
-          "createdAt": "2026-07-20T00:49:53.274Z",
-          "uri": "at://did:plc:35ikw24omeygjw4etf6cebcz/app.bsky.feed.post/3mr236gty7c2h",
-          "sentiment": 0
-        },
-        {
-          "id": "14b76760a0d300a4aaccb738a9c166cd0996857b5d91b17fc90d50f11521dc0a",
-          "authorHandle": "blueriverrrr.bsky.social",
-          "postText": "I think Troy Jackson would make an excellent senator. We need someone who can’t be bought.",
-          "createdAt": "2026-07-20T00:48:30.482Z",
-          "uri": "at://did:plc:twctkqmt5s52zajjrxyx2qtl/app.bsky.feed.post/3mr233xvfmk24",
-          "sentiment": 0.9
-        },
-        {
-          "id": "d282f8cc519ffa53781c18bc8db44100be9b102b54cb756719c4ca4ff1d58a65",
-          "authorHandle": "blueriverrrr.bsky.social",
-          "postText": "Troy Jackson gives a shit. That much, you can tell. And a little bit of heart, is worth far more than a smooth talking corporate shill.",
-          "createdAt": "2026-07-20T00:47:12.227Z",
-          "uri": "at://did:plc:twctkqmt5s52zajjrxyx2qtl/app.bsky.feed.post/3mr22znbaps24",
-          "sentiment": 0.9
-        },
-        {
-          "id": "64f60553141b11e2bd7a1d4000dcae0d5eecdb70d57a48d96c4938825c70e2fd",
-          "authorHandle": "billscher.bsky.social",
-          "postText": "A very self-aware statement from presumptive Democratic U.S. Senate nominee @troyjackson207.bsky.social about the electoral value of his 20 yrs in the Maine state legislature & 6 yrs as Senate President:\n\n\"The state legislature means nothing. Nobody’s following it.\"\n\nwww.politico.com/news/2026/07...",
-          "createdAt": "2026-07-20T00:45:21.652Z",
-          "uri": "at://did:plc:kj7jemsrcf5gunl5wjxmqk5m/app.bsky.feed.post/3mr22wdsscc2k",
-          "sentiment": 0.5
-        },
-        {
-          "id": "62866eb73b2fcf2389b4d5672d60dbd259ebb0164dac9b1ed46b10c892c99514",
-          "authorHandle": "king34-93.bsky.social",
-          "postText": "Troy Jackson can't be trusted",
-          "createdAt": "2026-07-20T00:44:11.861Z",
-          "uri": "at://did:plc:hbgkoucn6ooqpdcrfwb7xfou/app.bsky.feed.post/3mr22ubav322x",
-          "sentiment": -0.8
-        },
-        {
-          "id": "2549d8ce15f02d3e9624988266269c36f895f7deb138e14dff3e8d731c6d2f56",
-          "authorHandle": "altacadia.bsky.social",
-          "postText": "It's looking more and more certain we'll have a Rumble from the County in November as more candidates leave the race and Troy Jackson gains endorsements. Troy is from Allagash, while Susan hails from Caribou. @aroostookdemocrats.bsky.social \n\nwww.nbcnews.com/politics/202...",
-          "createdAt": "2026-07-20T00:43:04.580Z",
-          "uri": "at://did:plc:jootkerr5coetq3y6fcbftit/app.bsky.feed.post/3mr22sb3ru22p",
-          "sentiment": 0.6
-        },
-        {
-          "id": "d3e0debbcf8bd73aea07e2d9d5f5bca01528f0796b42e183ab6752e1dedc5443",
-          "authorHandle": "adammanross.bsky.social",
-          "postText": "For the first time ever, Susan Collins is on the defensive as DSA’s Troy Jackson has clinched the democratic nomination for the United States Senate in Maine\n\nI’m thinking this ends up Jackson +7 this November 🌹",
-          "createdAt": "2026-07-20T00:42:25.053Z",
-          "uri": "at://did:plc:y4326k4r7zo33nzoetv6lyuu/app.bsky.feed.post/3mr22r3fkak25",
-          "sentiment": 0.8
-        },
-        {
-          "id": "81077b62c91e5778cafdb02044a6f04111cdc1f3d01334621c18a6dbc842b1cf",
-          "authorHandle": "rteefact.bsky.social",
-          "postText": "www.nytimes.com/2026/07/19/u...",
-          "createdAt": "2026-07-20T00:41:37.641Z",
-          "uri": "at://did:plc:l7aufjzmk3xj7hossjyshb4b/app.bsky.feed.post/3mr22po6hm22o",
-          "sentiment": 0
-        },
-        {
-          "id": "084a0322c7c70f7052e40978624dd612449d53874c5ca38f5dd4d75e40c48c48",
-          "authorHandle": "dylanljmartin.bsky.social",
-          "postText": "Troy Jackson was my top choice for Maine's Democratic gubernatorial candidate, so I'm very pleased.",
-          "createdAt": "2026-07-20T00:38:32.819Z",
-          "uri": "at://did:plc:rwqcrn74ns4gwlyaopubkng5/app.bsky.feed.post/3mr22k5w6ds2c",
-          "sentiment": 0.8
-        },
-        {
-          "id": "4aa5492d4c5ad314ed7810135d9173f700c7902557f7619de4e790918a73284c",
-          "authorHandle": "dontworrydude.bsky.social",
-          "postText": "It’s crazy as fuck that Troy Jackson very likely has a shot to replace Platner. If he gets a real crack at getting selected as the candidate the midterms are gonna be crazy. Hoping Mainers make the decision to choose someone who represents their working class folks best.",
-          "createdAt": "2026-07-20T00:38:25.235Z",
-          "uri": "at://did:plc:77tb2bj3oxjogeyq6wwknvsd/app.bsky.feed.post/3mr22jwop4k26",
-          "sentiment": 0.8
-        },
-        {
-          "id": "3ab3378b23e19840fd206c4ef3a27ec7a799ae48ede6db6026c00e32320b275f",
-          "authorHandle": "nbcphiladelphia.com",
-          "postText": "Former state Senate President Troy Jackson is racking up support to become Maine’s next Democratic Senate nominee.\non.nbc10.com/a4f5Ahq",
-          "createdAt": "2026-07-20T00:37:49.596Z",
-          "uri": "at://did:plc:xtnri6sf3ur76egadpfepyju/app.bsky.feed.post/3mr22iup4f22y",
-          "sentiment": 0.6
-        },
-        {
-          "id": "3ea7c991583288c69ada951f48f261af398ad96a274de2d82e15f56dac2ea1a9",
-          "authorHandle": "tmroj.bsky.social",
-          "postText": "Troy Jackson appears to have secured the Dem nod in Maine, a victory for the Sanders' wing of the party as they make a big bet in a must-win seat for November. I take a look at 3 upcoming primaries that are also mods vs. the left (the headline of 2026): theworldofjot29.blogspot.com/2026/07/the-...",
-          "createdAt": "2026-07-20T00:36:57.815Z",
-          "uri": "at://did:plc:aeaewbmeoc5jwzlxyzxwxwqa/app.bsky.feed.post/3mr22hdcvy22y",
-          "sentiment": 0.7
-        },
-        {
-          "id": "8835346e64f49bff5fdb6193d2cd329c57bb916b1db0dbc441fc02d1422be025",
-          "authorHandle": "mister-sterling.bsky.social",
-          "postText": "And that name! If you asked me if Troy Jackson is white, I'd guess no.",
-          "createdAt": "2026-07-20T00:34:33.707Z",
-          "uri": "at://did:plc:dmjmegv4ejfgs3vzay4rks7k/app.bsky.feed.post/3mr22czv2js2i",
-          "sentiment": -0.3
-        },
-        {
-          "id": "6a3843817289d215d57b5e0c67c755a2c05af659b2515a82af701fbc0f3a6747",
-          "authorHandle": "malcolmspellman.bsky.social",
-          "postText": "I’m not gonna lie, when I heard “Troy Jackson” I figured ‘Former Athlete who joined the military to honor his grandfather. Got out and wanted to do more good so he rallied the local Baptist church to help him run against ‘that awful white lady.’’ But nope, it’s this guy… GO TROY!",
-          "createdAt": "2026-07-20T00:34:24.042Z",
-          "uri": "at://did:plc:aczdcewyey5po4siz5fcmb3j/app.bsky.feed.post/3mr22cqo33c2d",
-          "sentiment": -1
-        },
-        {
-          "id": "bb8ed95a652a840d53cfd8fa954fdc88eeb06670d5a6bf47a6c3ff8f16204ee1",
-          "authorHandle": "chordtone.bsky.social",
-          "postText": "But Bluesky told me Troy Jackson already won?",
-          "createdAt": "2026-07-20T00:32:05.109Z",
-          "uri": "at://did:plc:bqhf5worytfbuny5mfxen72o/app.bsky.feed.post/3mr226m67cc2k",
-          "sentiment": 0
-        },
-        {
-          "id": "78ca7c538c1f35259eb2a2e7c1b4d515a1921e9cd63abf9b86e855105c4bdda8",
-          "authorHandle": "brucecoffman.bsky.social",
-          "postText": "I don't know who Troy Jackson is and I refuse to go look. I'm going to wallow in my ignorance and assume he's some sports person I have no reason to care about rather than yet another republican I haven't heard of working to kill me. Carry on.",
-          "createdAt": "2026-07-20T00:31:51.900Z",
-          "uri": "at://did:plc:w5zmqksx4hzyr5ek553hk4yo/app.bsky.feed.post/3mr2267l2vs2a",
-          "sentiment": -1
-        },
-        {
-          "id": "26038d98cef8380e530850043007bc73c5b1bb27fe7723adbced6aaa9b085bff",
-          "authorHandle": "politicalwire.com",
-          "postText": "Troy Jackson Is On a Path to Become Senate Nominee\r\nhttps://politicalwire.com/2026/07/19/troy-jackson-is-on-a-path-to-become-senate-nominee/",
-          "createdAt": "2026-07-20T00:31:22+00:00",
-          "uri": "at://did:plc:vaams3fhnnnivk3hzxct7nki/app.bsky.feed.post/3mr225e2yxy2r",
-          "sentiment": 0
-        },
-        {
-          "id": "07b4d844a6bef6f96c5d91db75655d19950862fb86094dbf04e20f0fe3be3c7b",
-          "authorHandle": "gl33p.mastodon.social.ap.brid.gy",
-          "postText": "Troy Jackson — the Maine Senate race candidacy heir apparently — is a fifth-generation logger from Allagash, Maine, who has the good things on his list of priorities and good organizations on his list of endorsements. There is little doubt that he'll be vastly better representation for Maine […]",
-          "createdAt": "2026-07-20T00:31:16.000Z",
-          "uri": "at://did:plc:i2hkcbtnssygv54jqtckdm4s/app.bsky.feed.post/3mr2257pr7wa2",
-          "sentiment": 1
-        },
-        {
-          "id": "b740dbaabe69633b651959e06250499d4f2cd19b0fd6493d3d54ca02a5208be3",
-          "authorHandle": "socrates17.bsky.social",
-          "postText": "",
-          "createdAt": "2026-07-20T00:30:52.629Z",
-          "uri": "at://did:plc:wfbqju4m5o7hxaknhadpl3ev/app.bsky.feed.post/3mr224h2c2c2v",
-          "sentiment": 0
-        },
-        {
-          "id": "80c6cc78a2ae06f9bc7a0d21012de519e7ffcb81d4929407a0b52033d1b0424e",
-          "authorHandle": "clowbogbeborp.bsky.social",
-          "postText": "Based on how hard Maine stumped for a Nazi rapist, I'm gonna need someone to check Troy Jackson for tattoos and Whatsapp messages before I get excited about this.",
-          "createdAt": "2026-07-20T00:30:08.170Z",
-          "uri": "at://did:plc:2ahp7hnvnxytldvhuscqthli/app.bsky.feed.post/3mr2234njzs2k",
-          "sentiment": -1
-        },
-        {
-          "id": "dd5a4506695576396f3620591e755e0d2d744e5e02b67cbdd957acbc660f127e",
-          "authorHandle": "mountaingirl254.bsky.social",
-          "postText": "“Troy Jackson: he’s not a rapist, just the closest possible thing to a rapist we could find”",
-          "createdAt": "2026-07-20T00:27:44.982Z",
-          "uri": "at://did:plc:pqs7zfzfku3c5qyu3k4lel4c/app.bsky.feed.post/3mqzzwu3qzk2q",
-          "sentiment": -1
-        },
-        {
-          "id": "98e098afcb6d7e01cb91a5b6be485bd68bf24015c54eff214e30b096d3c74ddf",
-          "authorHandle": "africanprincess7.bsky.social",
-          "postText": "He was a former Republican turned Progressive. Supported and endorsed Platner. There's an assault allegation on him. he've voted against same sex marriage and supported a personhood bill among other things. This is what I found. americanalmanac.com/maine-democr...",
-          "createdAt": "2026-07-20T00:26:28.197Z",
-          "uri": "at://did:plc:2zczbhjby3mgvbcynmnghfn2/app.bsky.feed.post/3mqzzukuhoc2i",
-          "sentiment": -1
-        },
-        {
-          "id": "275a829ba2e79d985e6b0ad3b64b3350af30d52412a6210b4379fd36258ab696",
-          "authorHandle": "politicalwire.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-07-20T00:25:40.000Z",
-          "uri": "at://did:plc:ngywpvepg2jwzq5abtzp4qo2/app.bsky.feed.post/3mr2lk47o2zi2",
-          "sentiment": 0
-        },
-        {
-          "id": "e90a594b6b9519c14b11a3edf1c0fdd285c8ef5a35f4ff4d519da82418aedc72",
-          "authorHandle": "bengtang.bsky.social",
-          "postText": "Troy Jackson. expected to replace Platner as the Dem candidate for Maine for US Senate, is a fifth-generation logger, progressive labor champion from the northern part of Maine. He has experience of holding public office as a former president of Maine’s senate.\nsundayguardianlive.com/world/maine-...",
-          "createdAt": "2026-07-20T00:24:45.807Z",
-          "uri": "at://did:plc:n4ynpy7swjnpabxoixwz4y7f/app.bsky.feed.post/3mqzzrj7rgs27",
-          "sentiment": 1
-        },
-        {
-          "id": "cb198e97816d15d7581a2bea35b58ca6fbcdc9175c75f7b5a1556db2991791d4",
-          "authorHandle": "beethovengroup.bsky.social",
-          "postText": "The process we are seeing in Maine to choose a new nominee for this year’s elections is exactly the type of process the DNC should have used in 2024, rather than a few elites choosing an unprepared candidate. Maine might be showing us a new Dem party that can act in its best interests.",
-          "createdAt": "2026-07-20T00:22:40.548Z",
-          "uri": "at://did:plc:tcnemjoknietnvtp7eubuhnu/app.bsky.feed.post/3mqzznrr57s2l",
-          "sentiment": 0
-        },
-        {
-          "id": "42d02b3ff2e4a3f6c7bfae9fb9ae9af7c6907de49f876dd9082e00c0bd157d86",
-          "authorHandle": "blackintellect.bsky.social",
-          "postText": "Troy Jackson has effectively secured the ME Senate Dem nomination: Jackson’s preferred delegates have won a majority of the seats at next week’s nominating convention to replace Graham Platner.\n\nwww.politico.com/news/2026/07...",
-          "createdAt": "2026-07-20T00:22:27.217Z",
-          "uri": "at://did:plc:ztfwve6uqc4kowbgbfou2aaf/app.bsky.feed.post/3mqzznf2fls2j",
-          "sentiment": 0
-        },
-        {
-          "id": "6a82d5078abdad09c87c2c813d6f6ccf37946e4389a867ee607a7fc75c007fa3",
-          "authorHandle": "some-news.bsky.social",
-          "postText": "The overwhelming leader was Troy Jackson, a former state Senate president and fifth-generation logger from the state’s remote northern potato-farming county. ",
-          "createdAt": "2026-07-20T00:19:42.502078+00:00",
-          "uri": "at://did:plc:dtg2oeh4jj3lmbcxyxl6nm34/app.bsky.feed.post/3mqzzii2cmm2l",
-          "sentiment": 1
-        },
-        {
-          "id": "0d6cc94e40db92f90f53ace0fc32c4bb7225793c19f0b59d97c6bbd4bbcd2e7a",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "Dem candidates Shenna Bellows, Nirav Shah, and Dan Kleban all withdrew or suspended their campaigns today to replace Graham Platner on the Maine ballot in November.\n\nThe convention, at this point, seems more a formality to confirm Troy Jackson than contest with remaining candidates.\n\n#MEpolitics",
-          "createdAt": "2026-07-20T00:17:51.815Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mqzzf6fre22f",
-          "sentiment": 0
-        },
-        {
-          "id": "3aaa903a75417106b6760d9bcb613f45eef8f02a749aa1e5a3da9d4ea0b17faa",
-          "authorHandle": "admiralmpj.bsky.social",
-          "postText": "What's the word on Troy Jackson?",
-          "createdAt": "2026-07-20T00:17:45.629Z",
-          "uri": "at://did:plc:wwhxhdtgakhxjzacxlacsn6n/app.bsky.feed.post/3mqzzeyiwf226",
-          "sentiment": 0
-        },
-        {
-          "id": "34fec6a44ec95a874a0a4badf13b1b3797a5a9204a062f80a3ed8c6b6453e744",
-          "authorHandle": "trialrun2024.bsky.social",
-          "postText": "Sen. Troy Jackson | Union Member Candidate Program share.google/j5IwgXaUGUo9.... He has some legislative experience, so.... that's good.",
-          "createdAt": "2026-07-20T00:11:05.406Z",
-          "uri": "at://did:plc:dtrw4kjivanjau43hne3nbk7/app.bsky.feed.post/3mqzyz2t4lk2s",
-          "sentiment": 0
-        },
-        {
-          "id": "b80daff5c2412db841a470225b0f0fd8d5c5e6bd0eb3cb2ec98be8b6f13a144b",
-          "authorHandle": "janeofvictory.bsky.social",
-          "postText": "Hah- Tapper is going to have to have his lobster roll at home. Two leading candidates have dropped out, leaving Troy Jackson as the top nominee. Not much of a debate….",
-          "createdAt": "2026-07-20T00:10:03.654Z",
-          "uri": "at://did:plc:cl4rjqaxphfzvjtbi5zd7p2i/app.bsky.feed.post/3mqzyx7wlvk25",
-          "sentiment": 0
-        },
-        {
-          "id": "2f6308df03848475a2d4eab52003d468ebfbe5eb894d6276952c8fae41bcfa8f",
-          "authorHandle": "chocilate.bsky.social",
-          "postText": "it's OFFICIAL!!",
-          "createdAt": "2026-07-20T00:08:26.983Z",
-          "uri": "at://did:plc:shd4xfadlt5elljb2b2rvgyt/app.bsky.feed.post/3mqzyudqhm22b",
-          "sentiment": 0
-        },
-        {
-          "id": "521fb27e4e595541bc1fe0cb95c4c8f22838378e3145f3bedadd73e0aaa9f2cb",
-          "authorHandle": "tomsusanto.bsky.social",
-          "postText": "i’m happy that maine dems have consolidated their support around troy jackson so quickly. it’s a show of resolve after the platner thing. we have to put in our all to unseat susan collins",
-          "createdAt": "2026-07-20T00:08:24.156Z",
-          "uri": "at://did:plc:ibyt5ynpmqpmqw73ox426zyy/app.bsky.feed.post/3mqzyub24vs25",
-          "sentiment": 1
-        },
-        {
-          "id": "df50774c6fe8e52ffc18cd11c5b26023e3e8c39a6fb5e7e5da659c15a1b3e78c",
-          "authorHandle": "kemet2000.bsky.social",
-          "postText": "'Working-Class Organizing Wins': Troy Jackson Pulls Ahead in Race to Replace Platner in Maine www.commondreams.org/news/maine-s...",
-          "createdAt": "2026-07-20T00:07:38.453Z",
-          "uri": "at://did:plc:4gi6crt4jlelgujfw2rpjbuw/app.bsky.feed.post/3mqzysvhkwk22",
-          "sentiment": 1
-        },
-        {
-          "id": "91d90c15c058fb786c3ba58b6e27f3aec5adeefa90803ec5bbc6112eb555b4f6",
-          "authorHandle": "marcaweiss.bsky.social",
-          "postText": "In Maine, Jackson Takes Big Step Toward Nomination as Top Rivals Bow Out www.nytimes.com/2026/07/19/u...",
-          "createdAt": "2026-07-20T00:03:42.800Z",
-          "uri": "at://did:plc:okx4chxihgvg63hrw3ve7si7/app.bsky.feed.post/3mqzylupu6223",
-          "sentiment": 0
-        },
-        {
-          "id": "5143b91740bbff65b9a934c4195e87e58760a8ba0b358ce95e41295e36c34a54",
-          "authorHandle": "kemet2000.bsky.social",
-          "postText": "In Maine, Jackson Takes Big Step Toward Nomination as Top Rivals Bow Out www.nytimes.com/2026/07/19/u...",
-          "createdAt": "2026-07-20T00:03:07.987Z",
-          "uri": "at://did:plc:4gi6crt4jlelgujfw2rpjbuw/app.bsky.feed.post/3mqzyktjjzk2j",
-          "sentiment": 0
-        },
-        {
-          "id": "3087995da0d392903c2ee94151bf07df8fd9bc03811a87b78243bb819061845f",
-          "authorHandle": "meetthepress.com",
-          "postText": "Top Maine Senate candidates end campaigns as Troy Jackson builds Democratic support nbcnews.to/4bLxb4X",
-          "createdAt": "2026-07-20T00:00:28Z",
-          "uri": "at://did:plc:notwnjgyijkutpfkdpqmhosz/app.bsky.feed.post/3mqzyg3rtfm2a",
-          "sentiment": 0
-        },
-        {
-          "id": "90daa92bdd2503c90a21e073534dc5627a2bc3f30f636b0c7bf3c6f4110a7994",
-          "authorHandle": "centralmenewsbot.bsky.social",
-          "postText": "The vast majority of delegates elected at the Oxford County Democrats' county meeting support former Maine Senate President Troy Jackson.... #news #maine  \nhttps://www.centralmaine.com/2026/07/19/jackson-sweeps-delegates-at-oxford-county-democrats-county-meeting/",
-          "createdAt": "2026-07-20T00:00:04.712113+00:00",
-          "uri": "at://did:plc:3gjcmx6u4jnaudpec3awfyfj/app.bsky.feed.post/3mqzyfeqq4q2l",
-          "sentiment": 1
-        },
-        {
-          "id": "80a0e58438a48797bffc5c894c191ed7e105b279b039718b482ba5a6e0c4ba8d",
-          "authorHandle": "dbernstein.bsky.social",
-          "postText": "Dan Kleban has now joined the conga line dropping out of the Maine US Senate nomination contest; in a statement he says he’ll work to help Troy Jackson defeat Susan Collins.",
-          "createdAt": "2026-07-19T23:58:37.551Z",
-          "uri": "at://did:plc:l3zb5xqyd7oycsq677dilqno/app.bsky.feed.post/3mqzycrmfgs2d",
-          "sentiment": 1
-        },
-        {
-          "id": "2f603c780ad509d1fe709faaa109ef5146458f5eca5c6bded40b69c8838e5c0b",
-          "authorHandle": "giannathe.bsky.social",
-          "postText": "Troy Jackson, a former Graham Platner ally, closes in on Maine Democrats’ nomination to face Sen. Susan Collins",
-          "createdAt": "2026-07-19T23:56:35.480Z",
-          "uri": "at://did:plc:ak5g6wsavyuathjxc7mg3mal/app.bsky.feed.post/3mqzy7577f22d",
-          "sentiment": 0
-        },
-        {
-          "id": "b7ff6f57212261dbb9d7d68c83a55207aaa8521cdd304412f2792e06477c3107",
-          "authorHandle": "annpatrice49.bsky.social",
-          "postText": "www.politico.com/news/2026/07...",
-          "createdAt": "2026-07-19T23:55:44.170Z",
-          "uri": "at://did:plc:ispsjc3i57tpxjzxcmluwntj/app.bsky.feed.post/3mqzy5mb73c2y",
-          "sentiment": 0
-        },
-        {
-          "id": "81883270c75075de6d25a55e0d9b90fc289527bf04e78d17456abfeb86e9a193",
-          "authorHandle": "nberlat.bsky.social",
-          "postText": "site's here.\n\nwww.jacksonformaine.com",
-          "createdAt": "2026-07-19T23:53:29.181Z",
-          "uri": "at://did:plc:htdsafwakqmzvuk2oivijzn6/app.bsky.feed.post/3mqzxzljouc2w",
-          "sentiment": 0
-        },
-        {
-          "id": "218afa71c1d03a2fd0283d845ab02d275c304127bb5ce51c7ca35b8c47a11395",
-          "authorHandle": "sharonsf.bsky.social",
-          "postText": "Lets go! 🩵🌊\n\nwww.politico.com/news/2026/07...",
-          "createdAt": "2026-07-19T23:53:11.997Z",
-          "uri": "at://did:plc:mrd6oexdu6sjxcjxbn5txo4g/app.bsky.feed.post/3mqzxz35bmc2k",
-          "sentiment": 1
-        },
-        {
-          "id": "983e646bc21510a2b4c0066574b0fcdb262889698ea6a74b6a6350741d6b1ff6",
-          "authorHandle": "clearlyashley.bsky.social",
-          "postText": "donate to Troy Jackson",
-          "createdAt": "2026-07-19T23:53:03.459Z",
-          "uri": "at://did:plc:zjkfkzunzinds2ozg6uidsiv/app.bsky.feed.post/3mqzxysyoqk2b",
-          "sentiment": 1
-        },
-        {
-          "id": "390b512a07bab2c20dc9620ad8db65e5cd8ce50c487f09933829ae1e2c0f2e5d",
-          "authorHandle": "sahilkapur.bsky.social",
-          "postText": "Dan Kleban also drops out of the Maine Senate race, saying it has “become clear from the county nominating meetings that we lack a path forward.” He says he will “do whatever I can between now and November to help Troy Jackson finally achieve that goal” of beating Susan Collins.",
-          "createdAt": "2026-07-19T23:51:56.919Z",
-          "uri": "at://did:plc:ihpglfqq3dapqjmwl2ntktil/app.bsky.feed.post/3mqzxwtk2bk2r",
-          "sentiment": 1
-        },
-        {
-          "id": "0b5caabca5a9605ef632a9aab6daf3d8144caf5f104ea276d3f5d0f87f66b72b",
-          "authorHandle": "jaxdeedee.bsky.social",
-          "postText": "www.politico.com/news/2026/07...",
-          "createdAt": "2026-07-19T23:51:37.196Z",
-          "uri": "at://did:plc:4e2avnwkqzlgi6y7jma36tu4/app.bsky.feed.post/3mqzxwaq7ic2w",
-          "sentiment": 0
-        },
-        {
-          "id": "4df8302cdb54f3d297b4e9db7c16a1383f726f68f819cc4f3f0b2c1785417586",
-          "authorHandle": "libertylo.bsky.social",
-          "postText": "x.com/occupydemocr...",
-          "createdAt": "2026-07-19T23:50:52.900Z",
-          "uri": "at://did:plc:i6p4mjmoosph6e7c7o5p2pk2/app.bsky.feed.post/3mqzxuwiep22s",
-          "sentiment": 0
-        },
-        {
-          "id": "9f87f48580c60a101f1ab349027a01baa8d9ab76c634d48b95824a404395919f",
-          "authorHandle": "mainestreamnews.bsky.social",
-          "postText": "Looks like Troy Jackson is going to be the Dems nominee for senate. He is not my first pick but we need him to beat Susan Collins. November is coming!",
-          "createdAt": "2026-07-19T23:50:06.915Z",
-          "uri": "at://did:plc:d57ygy7awgabnk4o66tridbc/app.bsky.feed.post/3mqzxtkmzhs2i",
-          "sentiment": 0
-        },
-        {
-          "id": "8e45f6af1a0b1e8de9ef373c70bc26de26a9a5a49a3f14226c1afd02018b9e44",
-          "authorHandle": "metrochimp.bsky.social",
-          "postText": "Looks like Troy Jackson will be the Dem candidate for the Maine Senate seat. Here's a local's take:",
-          "createdAt": "2026-07-19T23:48:31.383Z",
-          "uri": "at://did:plc:lyp7yeqb2tasiidfbmtj6iwt/app.bsky.feed.post/3mqzxqpjmis2c",
-          "sentiment": 0
-        },
-        {
-          "id": "7becd812e6ea5c5e656b7a86c9b9ceda9e47b5b5e79102e3ae9a106863dbdb09",
-          "authorHandle": "bleulimousine.bsky.social",
-          "postText": "Shenna Bellows drops out of Maine’s Senate race as Troy Jackson builds Democratic support to replace Graham Platner - NBC News\n\napple.news/AaaHONu3iTn2...",
-          "createdAt": "2026-07-19T23:47:36.926Z",
-          "uri": "at://did:plc:dcld4rmmynx75ioqhm5h2rzd/app.bsky.feed.post/3mqzxp3louc2a",
-          "sentiment": 0
-        },
-        {
-          "id": "6d101878c096b19de203530ad66483b9df33f2bbaeb1cbe26490cad60146eebd",
-          "authorHandle": "franktakesfrankly.bsky.social",
-          "postText": "Frankly, Troy Jackson better send Susan Collins to retirement.",
-          "createdAt": "2026-07-19T23:47:22.348Z",
-          "uri": "at://did:plc:ghebk4tly2kj7j3jvwqdpty3/app.bsky.feed.post/3mqzxonotj22k",
-          "sentiment": 1
-        },
-        {
-          "id": "b73ff07014cb3a0187451535915a4c96a2506e620a49ebf1f95f4f4835f3257d",
-          "authorHandle": "kateshrewsburysays.bsky.social",
-          "postText": "Maine is seriously coming together against Collins: wapo.st/4fqVoie",
-          "createdAt": "2026-07-19T23:47:07.101Z",
-          "uri": "at://did:plc:2gyp3x4p6laavel3qj3dpjmb/app.bsky.feed.post/3mqzxo75juc24",
-          "sentiment": 0
-        },
-        {
-          "id": "dd4d58977fa105a9bfea1aa529474d9746f949ba9fdd8a2fb610bdd3b934e003",
-          "authorHandle": "midnitreebandit.bsky.social",
-          "postText": "Dr Nirav Shah and Shenna Bellows have withdrawn from the Maine Senate nominating contest, basically locking it in for Troy Jackson.\n\nCongratulations are in order for Susan Collins on getting another easy win.\n\n(I'm still voting for Jackson, because I am pessimistic, but still have hope in miracles).",
-          "createdAt": "2026-07-19T23:44:08.730Z",
-          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mqzxiv22hc2k",
-          "sentiment": -1
-        },
-        {
-          "id": "a0d2ee6f28138223c0fbf8837ad173f14f39ef7e23fa004df754a206f211bc69",
-          "authorHandle": "vixki11.bsky.social",
-          "postText": "A lot of people are ex Republican because the GOP these days is nothing like the party even 40 years ago. Troy Jackson is from northern Maine and is conservative but conservative in the sense that he believes in the Constitution and working for the greater good.",
-          "createdAt": "2026-07-19T23:43:17.500Z",
-          "uri": "at://did:plc:edom56x2uaknsekzvknvtqp5/app.bsky.feed.post/3mqzxhe6n5s2s",
-          "sentiment": 1
-        },
-        {
-          "id": "724c7f128b367e75ad3f697a9179ff06c0cb287c21d66915b50671413bdc1bbc",
-          "authorHandle": "magnificentskinbag.bsky.social",
-          "postText": "no flannel, but a fleece vest sighting:",
-          "createdAt": "2026-07-19T23:42:34.730Z",
-          "uri": "at://did:plc:kqlc4lbrbs3e2lsw3mdcuin5/app.bsky.feed.post/3mqzxg3fjic2k",
-          "sentiment": 0
-        },
-        {
-          "id": "ba5cc1d96fc9f171b60d0c5b85249354e6c8987bd42b3f3abcd1e357d49c945e",
-          "authorHandle": "firstconsul.bsky.social",
-          "postText": "",
-          "createdAt": "2026-07-19T23:42:24.377Z",
-          "uri": "at://did:plc:7w63542t7ygjeukitujfwuyy/app.bsky.feed.post/3mqzxfrjha22x",
-          "sentiment": 0
-        },
-        {
-          "id": "fa7bfc2780af1d82ca05ab37c13270dd9cd8802e84eaa2a6e7006f6dbc6324a7",
-          "authorHandle": "vixki11.bsky.social",
-          "postText": "I can happily vote for Troy Jackson.  He has been rock solid in the state for representing real Mainers from every county.",
-          "createdAt": "2026-07-19T23:40:46.265Z",
-          "uri": "at://did:plc:edom56x2uaknsekzvknvtqp5/app.bsky.feed.post/3mqzxctxcq22s",
-          "sentiment": 1
-        },
-        {
-          "id": "bacf319e04cf2a7c55c2ed989efedf9048b8376cd120416862027c1ba4a543bc",
-          "authorHandle": "davidwave4.bsky.social",
-          "postText": "Troy Jackson is Platner without both the charisma and the baggage. Let’s hope the message is enough to get him elected.",
-          "createdAt": "2026-07-19T23:37:24.812Z",
-          "uri": "at://did:plc:6rbbsdjugz5q7qvdeqx2b36x/app.bsky.feed.post/3mqzx4tthbs2p",
-          "sentiment": 0
-        },
-        {
-          "id": "974cd7d2673fca161b745e31677427af1821e20a63dc2bfc483777200552fe3e",
-          "authorHandle": "roseydays.bsky.social",
-          "postText": "So the Democrat nomiee for Senate in Maine is Troy Jackson. The other two contenders conceded.",
-          "createdAt": "2026-07-19T23:34:08.288Z",
-          "uri": "at://did:plc:arj3l3hlw72sm2hsixjyl55q/app.bsky.feed.post/3mqzwwyg2c22d",
-          "sentiment": 0
-        },
-        {
-          "id": "cbcd0cf577cd50693b48cbd2a76ebd88fb2b1d500338b6be5cbc77070c069782",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "Cool to check the trending topic 'Troy Jackson' and see how many posters around the country are excited, supportive, and posting positive things.\n\n#JacksonForMaine #MEpolitics #MEsen #WorkingPeoplePower",
-          "createdAt": "2026-07-19T23:34:05.490Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mqzwwvqnuk2k",
-          "sentiment": 1
         }
       ],
       "youtube": [
@@ -9895,14 +9455,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.2889382716049383,
+      "overallSentiment": -0.2762874779541446,
       "newsSentiment": 0.05185185185185185,
-      "socialSentiment": 0.08133333333333333,
+      "socialSentiment": 0.11928571428571429,
       "mentions": {
         "news": 27,
-        "social": 31,
+        "social": 29,
         "youtube": 1,
-        "total": 59
+        "total": 57
       },
       "news": [
         {
@@ -10381,22 +9941,6 @@
           "createdAt": "2026-07-20T01:18:37.340Z",
           "uri": "at://did:plc:l3zb5xqyd7oycsq677dilqno/app.bsky.feed.post/3mr24rt2gcs2r",
           "sentiment": 0
-        },
-        {
-          "id": "277b9d0b081332a7702e1e66691c21579b48838b465f085d155b7f2e6f9fdcd8",
-          "authorHandle": "ricaoimhin.bsky.social",
-          "postText": "Jordan Wood would have been my first choice but realistically Shah was the only one with a chance. Looks like he just dropped out so....",
-          "createdAt": "2026-07-20T00:33:57.192Z",
-          "uri": "at://did:plc:se6dm3zs5xmzpnplel7mhqzs/app.bsky.feed.post/3mr22bx2oes2h",
-          "sentiment": -0.5
-        },
-        {
-          "id": "2e1a60b806863168bcd103f9f25829a1a642c13b45af7606ef7eaa3bc8eb7ef2",
-          "authorHandle": "returnedknyaz.bsky.social",
-          "postText": "are Paige Loud and Jordan Wood finding ways to complain about this yet",
-          "createdAt": "2026-07-20T00:13:33.851Z",
-          "uri": "at://did:plc:nspmrirz2fcpxzn4cv5homlq/app.bsky.feed.post/3mqzz5ifdf225",
-          "sentiment": -0.4
         }
       ],
       "youtube": [
