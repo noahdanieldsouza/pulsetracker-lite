@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T21:48:35.193Z",
+  "lastUpdated": "2026-07-24T22:45:56.620Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -122,14 +122,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.016666666666666666,
+      "overallSentiment": 0.29166666666666663,
       "newsSentiment": -0.016666666666666666,
-      "socialSentiment": null,
+      "socialSentiment": 0.6,
       "mentions": {
         "news": 6,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 6
+        "total": 7
       },
       "news": [
         {
@@ -187,21 +187,30 @@
           "sentiment": 0
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "dd99839d8637cea93ea5a978098e1f75d16347bd69552bd47326e4e60074613c",
+          "authorHandle": "midnitreebandit.bsky.social",
+          "postText": "And as it turns out, the GOP candidate is a MAGA moron who was a DC lobbbyist for years.  So that is a pretty good calculation.\n\nLike I said above, Maine's Senate races have been where Maine Dems go to die.  Shenna Bellows is the only vet to do ok since then.",
+          "createdAt": "2026-07-24T22:29:03.483Z",
+          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mrgfn7sl6k2r",
+          "sentiment": 0.6
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.12466148008911167,
+      "overallSentiment": 0.11938657407407409,
       "newsSentiment": 0,
-      "socialSentiment": 0.25488721804511283,
+      "socialSentiment": 0.23906250000000007,
       "mentions": {
         "news": 23,
-        "social": 133,
+        "social": 128,
         "youtube": 144,
-        "total": 300
+        "total": 295
       },
       "news": [
         {
@@ -413,6 +422,46 @@
         }
       ],
       "social": [
+        {
+          "id": "b79264301504fdac6150af5bf4e918f8be2b382e42d9a67f0132e6dbe13c2eaa",
+          "authorHandle": "si-se-puede.bsky.social",
+          "postText": "Go Troy Jackson!",
+          "createdAt": "2026-07-24T22:24:40.596Z",
+          "uri": "at://did:plc:yzshmcoiqzxycqkw2iotqag4/app.bsky.feed.post/3mrgfff3vls2t",
+          "sentiment": 1
+        },
+        {
+          "id": "2afcbfbb6d10ef1cc99151e8f3272d026ca891eef866c08a040587f3c0295227",
+          "authorHandle": "iamsalome.bsky.social",
+          "postText": "Trump Badly Screws Susan Collins as Maine ICE Death Takes Darker Turn newrepublic.com/article/2133... via @newrepublic.com",
+          "createdAt": "2026-07-24T22:11:50.486Z",
+          "uri": "at://did:plc:heapztpinqu6li2vylxzvsxf/app.bsky.feed.post/3mrgeogo2ys2y",
+          "sentiment": 0
+        },
+        {
+          "id": "d2311b39096d983b2338f28dd2106b6a6e505059968c55b29a2d18a24157bafb",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@johnnypalma...",
+          "createdAt": "2026-07-24T22:11:07.547Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mrgen5pnfs2p",
+          "sentiment": 0
+        },
+        {
+          "id": "75cbeea142e22cb6023e6340dd5e2d3daeaed63cc67f8285ca41996e3c28d38d",
+          "authorHandle": "john60612.bsky.social",
+          "postText": "I believe that’s the only way donOLD knows how to screw 😉",
+          "createdAt": "2026-07-24T22:07:05.889Z",
+          "uri": "at://did:plc:txxoxmpskqbu7ymlzo4ms3gj/app.bsky.feed.post/3mrgefxasc22i",
+          "sentiment": 0
+        },
+        {
+          "id": "ba2e4a17a1ad448b7bfab058bbeb7a515a111a4eb08299694c96aff27dd9b1ee",
+          "authorHandle": "mjtoma.bsky.social",
+          "postText": "From @gregsargent.bsky.social: \n\n\"Collins’s reelection depends in part on perceptions of her willingness to take on Trump, including on immigration. But her approach has accomplished nothing.\"\n\ntrib.al/P4Y7Jwl",
+          "createdAt": "2026-07-24T21:54:56.800424Z",
+          "uri": "at://did:plc:nstprphriz2uqasitkzljasp/app.bsky.feed.post/3mrgdq7yyef23",
+          "sentiment": 0
+        },
         {
           "id": "98bc148230613cf82543afc38a2886fd38861bfe04fabf215e1767f1dace92f3",
           "authorHandle": "natty4bumpo.bsky.social",
@@ -1395,86 +1444,6 @@
           "postText": "Jackson had a 100% rating from Planned Parenthood from '18-24. He sponsored a bill requiring insurance to cover rx contraceptives w/ no cost & co-sponsored the law that expanded abortion access later in pregnancy. www.penbaypilot.com/article/repr...",
           "createdAt": "2026-07-23T22:47:31.680Z",
           "uri": "at://did:plc:qoewv4sal6ftjn3gwcrzyn4g/app.bsky.feed.post/3mrdw7d7ds22h",
-          "sentiment": 0.8
-        },
-        {
-          "id": "b1353bb998508c2b2b7705f3e681fa23a887dcccc52086d7ed6da752f0d745e0",
-          "authorHandle": "troyjackson207.bsky.social",
-          "postText": "Join our grassroots movement to defeat Susan Collins at JacksonForMaine.com.",
-          "createdAt": "2026-07-23T22:45:30.725Z",
-          "uri": "at://did:plc:nti5xzs56xrwkpzjzsmxewdz/app.bsky.feed.post/3mrdw3pu2p223",
-          "sentiment": 0.6
-        },
-        {
-          "id": "816710aef73ad094fccd14633290b773d500405c6c98f161bf4e33cbe5de12a6",
-          "authorHandle": "rdh-1.bsky.social",
-          "postText": "",
-          "createdAt": "2026-07-23T22:44:07.595Z",
-          "uri": "at://did:plc:mp3i2us3mdk3veltcqcdqexv/app.bsky.feed.post/3mrdvzal52k2y",
-          "sentiment": 0
-        },
-        {
-          "id": "6819d66c59a5ada71195b780eee3041fe948e021de0319e7334de72955f0dd28",
-          "authorHandle": "dennisjkoch.bsky.social",
-          "postText": "#Trump Badly Screws Susan Collins as Maine ICE Death Takes Darker Turn\n\nCollins cast some recent votes that can help likely Democratic challenger Troy Jackson tie her to Trump and to ICE. And there’s evidence that both liberals & moderates will listen\n\n#USA #uspoli\n\nopen.substack.com/pub/newrepub...",
-          "createdAt": "2026-07-23T22:42:57.469Z",
-          "uri": "at://did:plc:mv6loxcddhj3i6pzfvzicc36/app.bsky.feed.post/3mrdvx5p2n22r",
-          "sentiment": 0.4
-        },
-        {
-          "id": "6955d933116d38268dc90e2977d03a988d037e31c3818af3fb38939e16a2b18f",
-          "authorHandle": "cubanx.bsky.social",
-          "postText": "Maine!\n\"Troy Jackson leads Sen. Susan Collins in new poll\"\n#TACO #Trump #News #Politics #Maine #Senate #Democracy  #Fascism #USA #Economy #Drones #NATO #Democrats #Republicans\n\n #gop #fascists\n\n👉 Vote 'em Out!\n",
-          "createdAt": "2026-07-23T22:37:34.684817+00:00",
-          "uri": "at://did:plc:vhtdipk22mle3gfhsklhpdej/app.bsky.feed.post/3mrdvnjzsx726",
-          "sentiment": 0.7
-        },
-        {
-          "id": "ebf042e629d76125a63f303244d786971ffa351f9c46a08c826168f32c704e17",
-          "authorHandle": "smirk4food.com",
-          "postText": "Incumbents often hope elections become referendums on their challengers.\n\nTroy Jackson seems determined to make this one a referendum on Susan Collins instead. Early polling suggests that shift could matter more than many expected.",
-          "createdAt": "2026-07-23T22:24:00.523Z",
-          "uri": "at://did:plc:77bsbb7mdntcafkctuddf735/app.bsky.feed.post/3mrduvburdn2g",
-          "sentiment": 0.6
-        },
-        {
-          "id": "aba7f7bf7b7bd9355cb89b7b5ad5afd71c91e8fb10b350fd1f4ef0faf6ffce36",
-          "authorHandle": "manyroads.mstdn.social.ap.brid.gy",
-          "postText": "Maine!\n\n\"Troy Jackson leads Sen. Susan Collins in new poll\"\n\n#TACO #Trump #News #Politics #Maine #Senate #Democracy #Fascism #USA #Economy #Drones #NATO #Democrats #Republicans\n\nhttps://wgme.com/news/local/troy-jackson-leads-sen-susan-collins-in-new-poll-unh-democrats-republicans-politics",
-          "createdAt": "2026-07-23T22:00:29.000Z",
-          "uri": "at://did:plc:hwzdtursqmdaixxeamxvmcx2/app.bsky.feed.post/3mrdtlgrytap2",
-          "sentiment": 0.7
-        },
-        {
-          "id": "6c3d988aa97334948918342a3af6250fcc0bfa29df3388dddb5393e09062ff8b",
-          "authorHandle": "macartart.bsky.social",
-          "postText": "youtu.be/hojSHatl_Xk?...",
-          "createdAt": "2026-07-23T21:56:06.353Z",
-          "uri": "at://did:plc:y2t6uvbwcidg3sntaqyumwhg/app.bsky.feed.post/3mrdtdesm622h",
-          "sentiment": 0
-        },
-        {
-          "id": "d27b11570ba4248d44cf128d9827e5949f1161009a98bac22c4fd3fedae4501f",
-          "authorHandle": "coffeecat311.bsky.social",
-          "postText": "After being given a perfect rating from an anti-abortion group early in his political career, Mr. Jackson more recently received a series of 100 percent ratings from Planned Parenthood\n...he helped enact a new Maine law that allows abortion at any stage of pregnancy\nwww.nytimes.com/2026/07/21/u...",
-          "createdAt": "2026-07-23T21:54:52.224Z",
-          "uri": "at://did:plc:s74wpfbfw5qh6k5ckklsrnny/app.bsky.feed.post/3mrdtb64fk225",
-          "sentiment": 0.5
-        },
-        {
-          "id": "d1e7d97e1c055c21f9ca74d0cda4dbd6be55c9367e018979ad09516524591998",
-          "authorHandle": "dianesnavely.bsky.social",
-          "postText": "Trump Badly Screws Susan Collins as Maine ICE Death Takes Darker Turn newrepublic.com/article/2133... via @newrepublic.com  ETTD ☠️",
-          "createdAt": "2026-07-23T21:52:11.150Z",
-          "uri": "at://did:plc:yjh3iizrujgntyxzmsh7metx/app.bsky.feed.post/3mrdt4eiuo22q",
-          "sentiment": 0
-        },
-        {
-          "id": "9d7abadf171e69cc691e4796175c7c5189a13606d0bc42a82f3d2c739dd8623c",
-          "authorHandle": "nycbarkeep.bsky.social",
-          "postText": "She deserves every bit of blame heaped upon her and then some more! \n\nI hope Maine voters bury her in votes for Troy Jackson.",
-          "createdAt": "2026-07-23T21:51:50.961Z",
-          "uri": "at://did:plc:xifbi3begwcfaf6gmhtffmpq/app.bsky.feed.post/3mrdt3raovc26",
           "sentiment": 0.8
         }
       ],
@@ -2925,14 +2894,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.2125,
+      "overallSentiment": -0.2,
       "newsSentiment": 0,
-      "socialSentiment": -0.425,
+      "socialSentiment": -0.4,
       "mentions": {
         "news": 7,
-        "social": 4,
+        "social": 5,
         "youtube": 0,
-        "total": 11
+        "total": 12
       },
       "news": [
         {
@@ -3000,6 +2969,14 @@
         }
       ],
       "social": [
+        {
+          "id": "4d861c57f863599ded4f95b35cf7e71caf96803dcdb8452d1f16a7b80ef392c7",
+          "authorHandle": "midnitreebandit.bsky.social",
+          "postText": "There were four others in the race already, including Jordan Woon and David Costello.  Wood switched to the ME02 race, not because he was pushed, but because he saw the writing on the wall.",
+          "createdAt": "2026-07-24T22:22:09.849Z",
+          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mrgfavu3xc2r",
+          "sentiment": -0.3
+        },
         {
           "id": "d6db9e8ed397f4ad9ed098e9d2c3d5e812a1b61fd050701fc862b35a93a879a6",
           "authorHandle": "jordanwood.bsky.social",
