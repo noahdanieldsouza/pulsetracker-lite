@@ -1,153 +1,117 @@
 {
-  "lastUpdated": "2026-07-24T12:54:45.924Z",
+  "lastUpdated": "2026-07-24T13:29:22.170Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0,
-      "newsSentiment": 0,
+      "overallSentiment": -0.09090909090909091,
+      "newsSentiment": -0.09090909090909091,
       "socialSentiment": null,
       "mentions": {
-        "news": 15,
+        "news": 11,
         "social": 0,
         "youtube": 0,
-        "total": 15
+        "total": 11
       },
       "news": [
         {
-          "id": "9ddb19a8c15e1030b6c0f2a5fe2707f4b24f84f88c44452300258ad3aaeb1728",
-          "title": "Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race",
-          "description": "PORTLAND (WGME) – In the race for governor, Planned Parenthood is backing Democratic candidate Hannah Pingree. Planned Parenthood says Maine needs someone who will fight for access to reproductive healthcare, and Pingree holds that track record as a former Maine state lawmaker. Pingree says states need to do all they can to fend off threats [...] The post Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race appeared first on News Pub . The post Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race appeared first on News Pub .",
+          "id": "83e904911b23320528ec23cd36a355c6b121708120656182420486ef82660685",
+          "title": "Maine faith leaders call for end to ICE violence",
+          "description": "SOUTH PORTLAND (WGME) — Faith leaders in Maine called for an end to violence involving ICE agents Thursday in South Portland. The leaders worked with clergy from Minnesota, Texas and Florida, issuing a call for accountability for ICE and an end to the killing. Faith leaders in Maine called for an end to violence involving [...] The post Maine faith leaders call for end to ICE violence appeared first on News Pub . The post Maine faith leaders call for end to ICE violence appeared first on News Pub .",
           "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/planned-parenthood-backs-democrat-hannah-pingree-in-maines-gubernatorial-race/",
-          "publishedAt": "2026-07-22T23:39:09.000Z",
+          "url": "https://newspub.live/northeast/maine/maine-faith-leaders-call-for-end-to-ice-violence/",
+          "publishedAt": "2026-07-23T23:51:07.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "6c4340067222ab10b925c5f4668bf419801bfc759a1816e7b3332aafbc6d7aa8",
+          "title": "What to Know About Troy Jackson, Democrats’ Likely Pick to Take on Sen. Susan Collins in Maine",
+          "description": "Then-Maine candidate for Governor Troy Jackson speaks during a May Day rally organized by local unions, on May 1, 2026 outside City Hall in Portland, Maine. (Graeme Sloan/Getty Images)",
+          "sourceName": "The Epoch Times",
+          "url": "https://www.theepochtimes.com/us/what-to-know-about-troy-jackson-democrats-likely-pick-to-take-on-sen-susan-collins-in-maine-6066107",
+          "publishedAt": "2026-07-23T22:40:48.000Z",
           "sentiment": 0
         },
         {
-          "id": "9c4cb09da6f31282dc26c3027ee9851ea35df445b7d442bae0dbc8572bfbf8f6",
-          "title": "Meet the Press NOW — July 22",
-          "description": "President Donald Trump continues to escalate his threats toward Iran after attending the dignified transfer of American troops killed in the Middle East. Election officials worry the growing popularity of betting markets could fuel further distrust in elections ahead of the midterms. Trump-endorsed California gubernatorial candidate Steve Hilton (R) joins Meet the Press NOW to discuss his goal of courting voters who dislike the president.",
+          "id": "f98d9bbd95903b968b474838dcdfe554785914ba5996c76945fbc2360461f9c1",
+          "title": "Meet the Press NOW — July 23",
+          "description": "Fuel prices jump as fears grow over an expanding conflict in the Middle East. The Justice Department agrees to withdraw subpoenas seeking testimony and records from New York Times reporters. Sen. Mark Kelly (D-Ariz.) joins NBC's Ryan Nobles to discuss his growing concerns with artificial intelligence.",
           "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/meet-the-press-now-july-22-267117125813",
-          "publishedAt": "2026-07-22T21:14:45.000Z",
+          "url": "https://www.nbcnews.com/meet-the-press/video/meet-the-press-now-july-23-267188293825",
+          "publishedAt": "2026-07-23T21:08:26.000Z",
           "sentiment": 0
         },
         {
-          "id": "fb4bb894aa29cfc7e4a7079f1a2ca6a306bddeca3f42dac373a31c6df3dca025",
-          "title": "Trump-backed Steve Hilton on his bid to sway anti-Trump voters in California gubernatorial race",
-          "description": "California gubernatorial candidate Steve Hilton (R) joins Meet the Press NOW to discuss his new push to sway voters who might dislike President Trump and lays out the policy areas where he disagrees with the president despite touting Trump’s endorsement.",
+          "id": "e3655f25834e0fd1bcfe24080a9a47eae85161040dc7ca65b9132e5d4df5eed9",
+          "title": "Sen. Mark Kelly says the U.S. government should be ‘more proactive’ about AI scams",
+          "description": "President Trump pledges to shield consumers from data center costs as AI data center expansions spark concern in communities nationwide. Sen. Mark Kelly (D-Ariz.) calls for more transparency as AI’s capabilities expand. Head of Policy at AI Policy Network Peter Wildeford weighs in on the debate around AI guardrails.",
           "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/trump-backed-steve-hilton-on-his-bid-to-sway-anti-trump-voters-in-california-gubernatorial-race-267118149756",
-          "publishedAt": "2026-07-22T21:04:09.000Z",
+          "url": "https://www.nbcnews.com/meet-the-press/video/sen-mark-kelly-says-the-u-s-government-should-be-more-proactive-about-ai-scams-267187269645",
+          "publishedAt": "2026-07-23T20:59:11.000Z",
           "sentiment": 0
         },
         {
-          "id": "f74771b187a9aa8640db589427c6b62f587ccc36e0fa6991a50e6245e29b4cc3",
-          "title": "Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers",
-          "description": "NBC News correspondents Monica Alba, Courtney Kube and Julie Tsirkin report on recent developments regarding the war with Iran as President Trump attends the dignified transfer of four soldiers killed in the Middle East. NBC News Intelligence Reporter Dan De Luce reports on President Trump’s approval of a deal with Saudi Arabia to develop a civilian nuclear program which is raising concerns over nuclear proliferation.",
+          "id": "75c7c58f6011354aba5fd16188bbfb60081319e4edfacf2013f09b4055d22e9a",
+          "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
+          "description": "NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.",
           "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/trump-escalates-threats-on-iran-as-he-attends-dignified-transfer-of-fallen-soldiers-267117637561",
-          "publishedAt": "2026-07-22T20:33:16.000Z",
+          "url": "https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837",
+          "publishedAt": "2026-07-23T20:30:39.000Z",
           "sentiment": 0
         },
         {
-          "id": "1d800c7de1232ef4276c5ca5a40cad9784412114fcba864d7b16278ae4010ff9",
-          "title": "Maine’s Mad Scramble to Replace Graham Platner",
-          "description": "The state’s Democratic primary was dominated by an unlikely left-wing insurgent—it became a three-week sprint for Party insiders to select the next best thing.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/maine-s-mad-scramble-to-replace-graham-platner-85848311",
-          "publishedAt": "2026-07-22T18:36:26.000Z",
+          "id": "d70f7101a2c4f534755e387d1ba700448c38edcd51049aa60cf5906f9646f2da",
+          "title": "Abortion May Be The Deciding Issue In The Push To Oust Susan Collins",
+          "description": "Democrats have targeted Susan Collins for her role in the fall of Roe — but their choice of opponent could complicate matters.",
+          "sourceName": "Huffpost",
+          "url": "https://www.huffpost.com/entry/abortion-may-be-the-deciding-issue-in-the-push-to-oust-susan-collins_n_6a62527ee4b077d95ae9369e",
+          "publishedAt": "2026-07-23T18:34:23.000Z",
           "sentiment": 0
         },
         {
-          "id": "0787fdae5abaa558f624f28e03a2225ce9107ed51a8827ed809587453803eb7c",
-          "title": "Maine’s Mad Scramble to Replace Graham Platner",
-          "description": "The state’s Democratic primary was dominated by an unlikely left-wing insurgent—it became a three-week sprint for Party insiders to select the next best thing.",
-          "sourceName": "The New Yorker",
-          "url": "https://www.newyorker.com/news/the-lede/maines-mad-scramble-to-replace-graham-platner",
-          "publishedAt": "2026-07-22T17:15:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "690babecea2e51cf77975cf19b2c7c0cc1a6aeb06da27e3c9514babcd4828429",
-          "title": "Maineâs Mad Scramble to Replace Graham Platner",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/maines-mad-scramble-to-replace-graham-platner-B9B90E40-84A2-4CC3-8E22-D54AEB0501EB",
-          "publishedAt": "2026-07-22T17:15:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1bd7242f58514efaf9e4cf1571e29e7817c83349659d50d6f437d0f7ac9cba24",
-          "title": "Maine Democrat Jackson Hauls in $1 Million as Convention Nears",
-          "description": "Maine Democrat Troy Jackson's campaign says it has raised $1 million in less than two weeks since he entered the state's U.S. Senate race, a fast start that still leaves him tens of millions behind five-term Republican Sen. Susan Collins...",
-          "sourceName": "Newsmax.com",
-          "url": "https://www.newsmax.com/politics/troy-jackson-maine-million/2026/07/22/id/1263707",
-          "publishedAt": "2026-07-22T17:07:15.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7301e611851b965f214db8b8bde49e73715b7f5081e3e28f4cd09035bf65f300",
-          "title": "Troy Jackson raises $1 million in under two weeks in Maine Senate race",
-          "description": "A U.S. service member is killed during a controlled Iranian drone detonation as Donald Trump invokes Lindsey Graham and Troy Jackson surges in Maine.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4658691/troy-jackson-raise-1-million-maine-senate/",
-          "publishedAt": "2026-07-22T16:50:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "01215799c8a9a646fca136a2a0c09e71f4799c19f257086e982a3c8560e85a45",
-          "title": "Troy Jackson has raised $1M for US Senate campaign",
-          "description": "More than half of that money has been raised since Sunday.",
+          "id": "5802d8c1fc207e4078632f6d3129fa0d36f10082a8a3e3e879a38e3f3eb3ed3e",
+          "title": "Susan Collins dismisses Troy Jackson as a ‘Bernie Bro’",
+          "description": "\"He was ... lead for Senator Sanders' presidential campaign in Maine. He's a Bernie bro.”",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/22/politics/elections/maine-election-senate-troy-jackson-fundraising-1m/",
-          "publishedAt": "2026-07-22T16:14:03.000Z",
+          "url": "https://www.bangordailynews.com/2026/07/23/politics/elections/maine-election-senate-susan-collins-troy-jackon-bernie-bro/",
+          "publishedAt": "2026-07-23T17:47:59.000Z",
           "sentiment": 0
         },
         {
-          "id": "09c5fed3bded3a9c6ba81e68edb24b54c7029f3b5896a391532752d7215fc06a",
-          "title": "After rocky road with Platner, Jewish Mainers size up the state’s progressive left",
-          "description": "In the wake of a candidate criticized for his rhetoric on Israel and his Nazi-linked tattoo, members of Maine’s small, liberal Jewish population grapple with what has or hasn’t changed.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/22/after-rocky-road-with-platner-jewish-mainers-size-up-the-states-progressive-left/",
-          "publishedAt": "2026-07-22T15:20:34.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2abce74c7657d8844cbb1bb9736d27ab4bdee29b2d83f4baad1f376b1f4da3b6",
-          "title": "Jackson leading Collins in Maine Senate race survey",
-          "description": "Former Maine Senate President Troy Jackson (D) has a slight lead over incumbent Sen. Susan Collins (R) in new polling on a hypothetical Senate showdown in Maine. A University of New Hampshire poll found 49 percent of likely general election voters in the Pine Tree State said they would vote for Jackson over Collins if...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/5983301-jackson-leads-collins-poll/",
-          "publishedAt": "2026-07-22T15:14:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "95475e306e68765d0983c6801d805a1f65defd7d39cb80143a42e525e7c67a5c",
-          "title": "Hannah Pingree dominates fundraising in Maine governor’s race",
-          "description": "The Democrat has raised more money than both of her opponents, Republican Bobby Charles and independent Rick Bennett, combined.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/07/22/hannah-pingree-dominates-fundraising-in-maine-governors-race/",
-          "publishedAt": "2026-07-22T14:32:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d0c5ab724a32f00038e2905827d80c449e974070b4bdedf76957d810874a1eb6",
-          "title": "Hannah Pingree dominates fundraising in Maine governor’s race",
-          "description": "The Democrat has raised more money than both of her opponents, Republican Bobby Charles and independent Rick Bennett, combined.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/22/hannah-pingree-dominates-fundraising-in-maine-governors-race/",
-          "publishedAt": "2026-07-22T14:32:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ba4acaf2799550aa88170c325d73ccfbe34619c0e5cb6802452907a5645e65a6",
-          "title": "Hannah Pingree dominates fundraising in Maine governor’s race",
-          "description": "The Democrat has raised more money than both of her opponents, Republican Bobby Charles and independent Rick Bennett, combined.",
+          "id": "0f7e259cc92059bbfa7d9c86d79330a1e45a53e61a8c7e29b14e8cf9dc37b4f9",
+          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
+          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
           "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/07/22/hannah-pingree-dominates-fundraising-in-maine-governors-race/",
-          "publishedAt": "2026-07-22T14:32:18.000Z",
+          "url": "https://www.sunjournal.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
+          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "797880b4b5d33725efa6d5471abec8e723d1d13c7d13f7e53e3602e3e9b4773f",
+          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
+          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
+          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d86015d4bdc98debf04bf9ac0ab8079a393a0394a66860889b22b7c6123f8b71",
+          "title": "Who’s the Most Concerned About Maine?",
+          "description": "Troy Jackson steps out of Graham Platner’s shadow to take on Susan Collins in November. The post Who’s the Most Concerned About Maine? appeared first on The American Prospect .",
+          "sourceName": "The American Prospect",
+          "url": "https://prospect.org/2026/07/23/whos-the-most-concerned-about-maine/",
+          "publishedAt": "2026-07-23T15:12:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "01e134190bc7cad4df20e1a30622d0de43fc588338e9f34ca13a50d94f343fb9",
+          "title": "How Troy Jackson went from an anti-abortion Republican to the Democrats’ hope for defeating Susan Collins",
+          "description": "Troy Jackson is on the verge of replacing Graham Platner as the Democratic nominee for Senate in Maine after harnessing the enthusiasm of former Platner supp...",
+          "sourceName": "Yahoo! News",
+          "url": "https://www.yahoo.com/news/politics/articles/troy-jackson-went-anti-abortion-090025509.html",
+          "publishedAt": "2026-07-23T14:30:09.000Z",
           "sentiment": 0
         }
       ],
@@ -158,77 +122,68 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.4,
-      "newsSentiment": 0,
+      "overallSentiment": 0.39166666666666666,
+      "newsSentiment": -0.016666666666666666,
       "socialSentiment": 0.8,
       "mentions": {
-        "news": 7,
+        "news": 6,
         "social": 1,
         "youtube": 0,
-        "total": 8
+        "total": 7
       },
       "news": [
         {
-          "id": "1f6bbb8a28ef2b5f3b63c3a25fc3550db7cc5e13b0eeee80fb53f5c7d68b4078",
-          "title": "Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race",
-          "description": "PORTLAND (WGME) – In the race for governor, Planned Parenthood is backing Democratic candidate Hannah Pingree. Planned Parenthood says Maine needs someone who will fight for access to reproductive healthcare, and Pingree holds that track record as a former Maine state lawmaker. Pingree says states need to do all they can to fend off threats [...] The post Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race appeared first on News Pub . The post Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race appeared first on News Pub .",
+          "id": "414bb97ad91d61bf0375fb43acd553b80f316f0e42a29120a22c67fa89507c15",
+          "title": "Maine faith leaders call for end to ICE violence",
+          "description": "SOUTH PORTLAND (WGME) — Faith leaders in Maine called for an end to violence involving ICE agents Thursday in South Portland. The leaders worked with clergy from Minnesota, Texas and Florida, issuing a call for accountability for ICE and an end to the killing. Faith leaders in Maine called for an end to violence involving [...] The post Maine faith leaders call for end to ICE violence appeared first on News Pub . The post Maine faith leaders call for end to ICE violence appeared first on News Pub .",
           "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/planned-parenthood-backs-democrat-hannah-pingree-in-maines-gubernatorial-race/",
-          "publishedAt": "2026-07-22T23:39:09.000Z",
+          "url": "https://newspub.live/northeast/maine/maine-faith-leaders-call-for-end-to-ice-violence/",
+          "publishedAt": "2026-07-23T23:51:07.000Z",
+          "sentiment": -0.1
+        },
+        {
+          "id": "eb818b118ac9be9ea79f22fe793ac91d5543c051c183bbbf70a0e26b6bd40533",
+          "title": "What to Know About Troy Jackson, Democrats’ Likely Pick to Take on Sen. Susan Collins in Maine",
+          "description": "Then-Maine candidate for Governor Troy Jackson speaks during a May Day rally organized by local unions, on May 1, 2026 outside City Hall in Portland, Maine. (Graeme Sloan/Getty Images)",
+          "sourceName": "The Epoch Times",
+          "url": "https://www.theepochtimes.com/us/what-to-know-about-troy-jackson-democrats-likely-pick-to-take-on-sen-susan-collins-in-maine-6066107",
+          "publishedAt": "2026-07-23T22:40:48.000Z",
           "sentiment": 0
         },
         {
-          "id": "38993246375718e030025354455cc828039243fc42fe14ff54d18f40ee6c23d7",
-          "title": "Maine’s high court says candidate can stay on ballot for Knox sheriff",
-          "description": "The court affirmed a state finding that Albert “A.J.” Joy had the requisite supervisory experience to run for the office.",
+          "id": "86f276893f98c1e98c7a25ff9bd4b6897a0d592073775208d7c4d72add2dd76e",
+          "title": "Susan Collins dismisses Troy Jackson as a ‘Bernie Bro’",
+          "description": "\"He was ... lead for Senator Sanders' presidential campaign in Maine. He's a Bernie bro.”",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/22/midcoast/midcoast-government/maine-law-court-knox-county-sheriff-candidate/",
-          "publishedAt": "2026-07-22T23:15:08.000Z",
+          "url": "https://www.bangordailynews.com/2026/07/23/politics/elections/maine-election-senate-susan-collins-troy-jackon-bernie-bro/",
+          "publishedAt": "2026-07-23T17:47:59.000Z",
           "sentiment": 0
         },
         {
-          "id": "78106fd269713c8154d4eb27193811867c5efea229d9c77f72d34abc76e3d457",
-          "title": "Maine Democrat Jackson Hauls in $1 Million as Convention Nears",
-          "description": "Maine Democrat Troy Jackson's campaign says it has raised $1 million in less than two weeks since he entered the state's U.S. Senate race, a fast start that still leaves him tens of millions behind five-term Republican Sen. Susan Collins...",
-          "sourceName": "Newsmax.com",
-          "url": "https://www.newsmax.com/politics/troy-jackson-maine-million/2026/07/22/id/1263707",
-          "publishedAt": "2026-07-22T17:07:15.000Z",
+          "id": "4fad63e08692f0a29e94c26473b1d0a28a01d1471594e2155ed1c8997aba17de",
+          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
+          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
+          "publishedAt": "2026-07-23T16:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "ca57a0d7b4b99d433dc23871382d7155c2cc498ae6781a92634b8deca2584ddb",
-          "title": "Troy Jackson raises $1 million in under two weeks in Maine Senate race",
-          "description": "A U.S. service member is killed during a controlled Iranian drone detonation as Donald Trump invokes Lindsey Graham and Troy Jackson surges in Maine.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4658691/troy-jackson-raise-1-million-maine-senate/",
-          "publishedAt": "2026-07-22T16:50:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "70472977ea3213ecfe4ab5721b265a0e1512ee05c8d263eeb0f2758181e1a3b3",
-          "title": "Troy Jackson has raised $1M for US Senate campaign",
-          "description": "More than half of that money has been raised since Sunday.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/22/politics/elections/maine-election-senate-troy-jackson-fundraising-1m/",
-          "publishedAt": "2026-07-22T16:14:03.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a14cd1152615bdedba08f5949be589a98bf0a3929475ab05efe60f083cd21950",
-          "title": "After rocky road with Platner, Jewish Mainers size up the state’s progressive left",
-          "description": "In the wake of a candidate criticized for his rhetoric on Israel and his Nazi-linked tattoo, members of Maine’s small, liberal Jewish population grapple with what has or hasn’t changed.",
+          "id": "86a87d2dadd8347b42b5547861ace64db914da690cbabc309bda33bd36f448af",
+          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
+          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/22/after-rocky-road-with-platner-jewish-mainers-size-up-the-states-progressive-left/",
-          "publishedAt": "2026-07-22T15:20:34.000Z",
+          "url": "https://www.pressherald.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
+          "publishedAt": "2026-07-23T16:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "6d3866900454e902d388d970230ecf31a46048e61b5a335a9efb46459a527d6f",
-          "title": "Jackson leading Collins in Maine Senate race survey",
-          "description": "Former Maine Senate President Troy Jackson (D) has a slight lead over incumbent Sen. Susan Collins (R) in new polling on a hypothetical Senate showdown in Maine. A University of New Hampshire poll found 49 percent of likely general election voters in the Pine Tree State said they would vote for Jackson over Collins if...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/5983301-jackson-leads-collins-poll/",
-          "publishedAt": "2026-07-22T15:14:23.000Z",
+          "id": "002bd802930feb9e00b0c5a3da4c581b2ca1adecff7881e6a55c44ad02e4abaa",
+          "title": "Who’s the Most Concerned About Maine?",
+          "description": "Troy Jackson steps out of Graham Platner’s shadow to take on Susan Collins in November. The post Who’s the Most Concerned About Maine? appeared first on The American Prospect .",
+          "sourceName": "The American Prospect",
+          "url": "https://prospect.org/2026/07/23/whos-the-most-concerned-about-maine/",
+          "publishedAt": "2026-07-23T15:12:41.000Z",
           "sentiment": 0
         }
       ],
@@ -248,438 +203,222 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11076308100529092,
-      "newsSentiment": -0.08085106382978723,
+      "overallSentiment": 0.13771343561521998,
+      "newsSentiment": 0,
       "socialSentiment": 0.222095530726257,
       "mentions": {
-        "news": 47,
+        "news": 23,
         "social": 179,
         "youtube": 67,
-        "total": 293
+        "total": 269
       },
       "news": [
         {
-          "id": "20b51d7000da52a03c8d61131a485dc5ca49b99c666095d4a907311bc1682863",
-          "title": "Troy Jackson is Graham Platner lite",
-          "description": "Troy Jackson, the Maine Democratic Party prospective nominee for the Senate, is Graham Platner lite. Platner withdrew from the race to face incumbent Republican Susan Collins following allegations that he sexually assaulted two women, charges he has denied. At least Platner was consistent in his Democrat Socialist of America (DSA) views. Jackson resembles a flip-flopping [...]",
-          "sourceName": "Herald Standard",
-          "url": "https://www.heraldstandard.com/uncategorized/2026/jul/23/troy-jackson-is-graham-platner-lite/",
-          "publishedAt": "2026-07-23T01:42:02.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "69eed655fd324ef120ce85e6167d895599b0822b90bdd92d387418260d777ef2",
-          "title": "Democratic Senate Nomination Process",
-          "description": "How did Maine's delegate election work, and how did Troy Jackson emerge with such a dominant lead?",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/show/maine-calling/2026-07-23/democratic-senate-nomination-process",
-          "publishedAt": "2026-07-23T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "64ae75093129b26512cf633a8e0bed157ae17f4a8fd5623ea6ddceedc3424caa",
-          "title": "Cal Thomas: Troy Jackson is Graham Platner lite",
-          "description": "Troy Jackson, the Maine Democratic Party prospective nominee for the Senate, is Graham Platner lite. Platner withdrew from the race to face incumbent Republican Susan Collins following allegations that he sexually assaulted two women, charges he ...",
-          "sourceName": "Arcamax",
-          "url": "https://www.arcamax.com/calthomas/s-4259239",
-          "publishedAt": "2026-07-23T00:00:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "f5d8b0be61cb7aa940cf9d9be0b242d1b6a96e5b3d6e25768ecef56bd55bee95",
-          "title": "Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race",
-          "description": "PORTLAND (WGME) – In the race for governor, Planned Parenthood is backing Democratic candidate Hannah Pingree. Planned Parenthood says Maine needs someone who will fight for access to reproductive healthcare, and Pingree holds that track record as a former Maine state lawmaker. Pingree says states need to do all they can to fend off threats [...] The post Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race appeared first on News Pub . The post Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/planned-parenthood-backs-democrat-hannah-pingree-in-maines-gubernatorial-race/",
-          "publishedAt": "2026-07-22T23:39:09.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "aeffb2a9886e84ed7c39575d00774b4ccb244ec1facdf14d34e7efa37d930588",
-          "title": "Maine Democrats Narrow U.S. Senate Field to Two Candidates After Disqualifications",
-          "description": "The Maine Democratic Party has disqualified several U.S. Senate candidates, including transgender candidate Ashley Webb, from its nominating convention, leaving only Saundra Pelletier and Troy Jackson on the official list. Candidates were required to submit 500 valid signatures and meet other eligibility rules. Webb's campaign was marked by unusual personal disclosures about his intersex condition, while Jackson's candidacy is noted for his combative reputation.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/maine-democrats-narrow-u-s-senate-field-to-two-candidates-85853684",
-          "publishedAt": "2026-07-22T22:36:45.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9a947ae1b5c2dcb9d96c73dccc57178ac92e8afa878f5761121d41d76aa45947",
-          "title": "Richard Brodyâs Favorite Films of the Year So Far",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/richard-brodys-favorite-films-of-the-year-so-far-8BD392BE-4FD4-47AE-AAFE-3B1965CFBBFB",
-          "publishedAt": "2026-07-22T22:30:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e06d9249fd09d00136516f5b1995a3b262bae6f431daa0e77389ee81d061c581",
-          "title": "Richard Brody’s Favorite Films of the Year So Far",
-          "description": "From the daily newsletter: our film critics picks his top three films from the first half of 2026.",
-          "sourceName": "The New Yorker",
-          "url": "https://www.newyorker.com/newsletter/the-daily/richard-brodys-favorite-films-of-the-year-so-far",
-          "publishedAt": "2026-07-22T22:30:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d0d1e4aafddb66abe0664381e54d34d35d2c9214c4518e05f8501fd7795fbf67",
-          "title": "Troy Jackson owed $4,600 in back income taxes during his run for governor",
-          "description": "The stumble surfaced just as Jackson prepares to run one of the most closely watched Senate campaigns in the country.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/22/politics/troy-jackson-back-taxes-gubernatorial-bid/",
-          "publishedAt": "2026-07-22T21:45:16.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "0541938e63cd30739b9e0116c854097c659a32c391cb52eed24d581d4a6cbedd",
-          "title": "Platner’s replacement in Maine has 100 days to beat Collins",
-          "description": "What was set to be a messy capstone to a frenzied primary process has now become a coronation ceremony for Troy Jackson, a progressive former Maine lawmaker who so effectively out-organized his opponents that he locked up the Democratic nomination...",
-          "sourceName": "Daily Item",
-          "url": "https://www.dailyitem.com/wire/platner-s-replacement-in-maine-has-100-days-to-beat-collins/article_d7a3afc9-0092-52f6-b0d0-27b69fcd6892.html",
-          "publishedAt": "2026-07-22T21:32:33.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "61b8dc0589e623b58c2152de20d26e47a4f0f08bb6fee896a8bcea610831a010",
-          "title": "Platner’s replacement in Maine has 100 days to beat Collins",
-          "description": "What was set to be a messy capstone to a frenzied primary process has now become a coronation ceremony for Troy Jackson, a progressive former Maine lawmaker who so effectively out-organized his opponents that he locked up the Democratic nomination...",
-          "sourceName": "Eagletribune",
-          "url": "https://www.eagletribune.com/region/platner-s-replacement-in-maine-has-100-days-to-beat-collins/article_ab7ab86c-750d-5f21-9ade-95a5047922f7.html",
-          "publishedAt": "2026-07-22T21:32:33.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "b3297011736946bb693c397186ff8f14ae820fa3c076b029e55258d0abce7380",
-          "title": "Platner’s replacement in Maine has 100 days to beat Collins",
-          "description": "What was set to be a messy capstone to a frenzied primary process has now become a coronation ceremony for Troy Jackson, a progressive former Maine lawmaker who so effectively out-organized his opponents that he locked up the Democratic nomination...",
-          "sourceName": "The Brunswick News",
-          "url": "https://thebrunswicknews.com/news/national_news/platner-s-replacement-in-maine-has-100-days-to-beat-collins/article_29657326-d88b-5bb7-958f-0d1f09085d6c.html",
-          "publishedAt": "2026-07-22T21:27:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "492a864e6fbd1be1fc0cf14d2b0a3029e45210f252f7a69ecd2c13e4159e126d",
-          "title": "Only 2 Left: Maine Democrats Remove Transgender Candidate Ashley Webb, Others as Options for Senate",
-          "description": "Maine Democrats have removed transgender candidate Ashley Webb – vying to replace scandal-plagued Graham Platner in the state's Senate race – and others from their website under listed candidates, leaving only two who they say meet the qualifications to participate in the Maine Democrat Party’s U.S. Senate Nominating Convention. The post Only 2 Left: Maine Democrats Remove Transgender Candidate Ashley Webb, Others as Options for Senate appeared first on Breitbart .",
-          "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/politics/2026/07/22/only-2-left-maine-democrats-remove-transgender-candidate-ashley-webb-others-as-options-for-senate/",
-          "publishedAt": "2026-07-22T21:14:52.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "695fbcc81ebd309cbb24574780ef7a9926684620a2982e83481e41477fc2c3d3",
-          "title": "Immigration enforcement becomes flashpoint in Maine Senate race after fatal shooting",
-          "description": "The fatal shooting of a 25-year-old Colombian man by a federal immigration agent has put the issue of ICE front and center in Maine's Senate race.",
-          "sourceName": "Abc News",
-          "url": "https://abcnews.com/Politics/immigration-enforcement-flashpoint-maine-senate-race-after-fatal/story?id=134983149",
-          "publishedAt": "2026-07-22T20:52:04.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b0fe8bcfb3ea8826bf52f0b86fa8af91d5d8f2068c568ecb50de3e854a109942",
-          "title": "Chameleon hypocrite Troy Jackson no improvement over Graham Platner",
-          "description": "Troy Jackson, the Maine Democratic Party's prospective nominee for the U.S. Senate, is Graham Platner lite.",
-          "sourceName": "The Washington Times",
-          "url": "https://www.washingtontimes.com/news/2026/jul/22/chameleon-hypocrite-troy-jackson-no-improvement-graham-platner/",
-          "publishedAt": "2026-07-22T20:45:24.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "33bab3f014e3656792b83f0e8f93d48f9f5e30939f2e138d67ac006baee4fc0a",
-          "title": "AOC picks up steam while Vance loses ground to Rubio: New Hampshire poll",
-          "description": "Troy Jackson is likely to replace Graham Platner as the Democratic nominee after rival candidates dropped out and his supporters swept delegate elections.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4659344/aoc-picks-up-steam-vance-loses-ground-rubio-2028-poll/",
-          "publishedAt": "2026-07-22T20:28:49.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "89395ad406a0c72b0b2f560414e0730ee9ec5f20548805d8204e754befaa2f1d",
-          "title": "Polls Show Susan Collins Is Doing Well Against Troy Jackson, Too",
-          "description": "At the end of June, a poll showed that Susan Collins was beating Graham Platner with working-class voters by a...",
-          "sourceName": "Townhall",
-          "url": "https://townhall.com/tipsheet/amy-curtis/2026/07/22/poll-shows-collins-beating-jackson-n2679920",
-          "publishedAt": "2026-07-22T20:15:24.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5eaf0ead453211b27f56002571b7b7190e4039d665a43a63bcd54ddd3437bdfb",
-          "title": "Collins slips among independents as Democratic opponent gains strength",
-          "description": "Over half of unaffiliated Maine residents dislike the Republican incumbent, according to a recent poll.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/collins-slips-among-independents-as-democratic-opponent-85849869",
-          "publishedAt": "2026-07-22T20:07:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "37336c4e460d65f58a2602e8ea5a0b3b4b430bb6cbf4ce8d93b6d8f7cac4a8d4",
-          "title": "Likely Platner replacement's resurfaced posts on 'democracy' come back to bite him: 'Hypocritical socialist'",
-          "description": "Troy Jackson's past posts championing democracy and voter participation clash with his path to the Maine Senate nomination without a single vote cast.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/likely-platner-replacement-s-resurfaced-posts-on-85849883",
-          "publishedAt": "2026-07-22T20:07:32.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "bed4e71349db64d2a27e8673fc74db534320dfa21274927a12dbbd99408bd406",
-          "title": "Generic Ballot Tightens as Republicans Gain Momentum Ahead of Midterms",
-          "description": "Recent polls show Republicans narrowing the generic ballot gap, settIng the stage for a close contest in the 2026 midterm elections despite Democratic advantages and presidential headwinds.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/generic-ballot-tightens-as-republicans-gain-momentum-ahead-85849733",
-          "publishedAt": "2026-07-22T19:37:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b183dff5d36a3112e43eaf40aa45c2d03e7ad1d218a6985b863697e571439411",
-          "title": "Maine Democrat Troy Jackson has raised $1M for his Senate bid so far (Andrew Howard/Politico)",
-          "description": "Andrew Howard / Politico : Maine Democrat Troy Jackson has raised $1M for his Senate bid so far — Maine Democrat Troy Jackson has raised $1 million in the less than two weeks since he entered the race for Senate shortly after Graham Platner dropped out, his campaign told POLITICO on Wednesday morning.",
-          "sourceName": "Memeorandum",
-          "url": "https://www.memeorandum.com/260722/p71",
-          "publishedAt": "2026-07-22T19:30:00.000Z",
+          "id": "6ec3b51da81b1f6054c68a14d3bd2a8bd9d7752fce98a341fb9f8503a9b5d58f",
+          "title": "David Costello announces exit from US Senate race",
+          "description": "David Costello exits the U.S. Senate race to support Troy Jackson, citing no viable path forward based on delegate makeup.",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/david-costello-announces-exit-from-us-senate-race/97-d30c3477-6be0-4877-9062-1680d3e18afe",
+          "publishedAt": "2026-07-24T01:25:13.000Z",
           "sentiment": 1
         },
         {
-          "id": "7bf2199809e0c8b0b5f05d6c5f5ff394ab13982f26181d0ab98e96c6c0148929",
-          "title": "Likely Platner replacement's resurfaced posts on 'democracy' come back to bite him: 'Hypocritical socialist'",
-          "description": "Troy Jackson's past posts championing democracy and voter participation clash with his path to the Maine Senate nomination without a single vote cast.",
-          "sourceName": "Fox News",
-          "url": "https://www.foxnews.com/politics/likely-platner-replacement-resurfaced-posts-democracy-come-back-bite-him-hypocritical-socialist",
-          "publishedAt": "2026-07-22T19:22:19.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "56d2791069d49558996db5aaf5ad6d6e7b1c5f2be24a8417bda0c5d119d9a7ae",
-          "title": "Collins slips among independents as Democratic opponent gains strength",
-          "description": "Over half of unaffiliated Maine residents dislike the Republican incumbent, according to a recent poll.",
-          "sourceName": "Wgxa",
-          "url": "https://wgxa.tv/news/nation-world/maine-republican-senator-susan-collins-slips-among-independents-as-democratic-opponent-troy-jackson-gains-strength",
-          "publishedAt": "2026-07-22T19:18:48.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6c648636c13d66498d3b946bd7ff651ecd98f5228226ba5a3bd5139ae6112d22",
-          "title": "Collins slips among independents as Democratic opponent gains strength",
-          "description": "Over half of unaffiliated Maine residents dislike the Republican incumbent, according to a recent poll.",
-          "sourceName": "Ktul",
-          "url": "https://ktul.com/news/nation-world/maine-republican-senator-susan-collins-slips-among-independents-as-democratic-opponent-troy-jackson-gains-strength",
-          "publishedAt": "2026-07-22T19:18:48.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ec5bf0f05c6aa6eee8038ce388751d34d5dc5f2eedb00a8d385450d3feef8219",
-          "title": "Collins slips among independents as Democratic opponent gains strength",
-          "description": "Over half of unaffiliated Maine residents dislike the Republican incumbent, according to a recent poll.",
-          "sourceName": "Kutv",
-          "url": "https://kutv.com/news/nation-world/maine-republican-senator-susan-collins-slips-among-independents-as-democratic-opponent-troy-jackson-gains-strength",
-          "publishedAt": "2026-07-22T19:18:48.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c04c2addc7d5bc648b8ee2f75ef7649cb50ed3be62095e8db1e29dc6f1ac80d4",
-          "title": "Collins slips among independents as Democratic opponent gains strength",
-          "description": "Over half of unaffiliated Maine residents dislike the Republican incumbent, according to a recent poll.",
-          "sourceName": "Katv",
-          "url": "https://katv.com/news/nation-world/maine-republican-senator-susan-collins-slips-among-independents-as-democratic-opponent-troy-jackson-gains-strength",
-          "publishedAt": "2026-07-22T19:18:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8e971cd7a655a442703826a01fbe366451b00ed939cf27b0f5ef0d62400b7d60",
-          "title": "Collins slips among independents as Democratic opponent gains strength",
-          "description": "Over half of unaffiliated Maine residents dislike the Republican incumbent, according to a recent poll.",
-          "sourceName": "Ksnv",
-          "url": "https://news3lv.com/news/nation-world/maine-republican-senator-susan-collins-slips-among-independents-as-democratic-opponent-troy-jackson-gains-strength",
-          "publishedAt": "2026-07-22T19:18:47.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "dc3a8eb56335c45c1eb2e369e243bcc50a33f0a59705dfcc39050d056ae4db81",
-          "title": "Collins slips among independents as Democratic opponent gains strength",
-          "description": "Over half of unaffiliated Maine residents dislike the Republican incumbent, according to a recent poll.",
-          "sourceName": "Wtvc",
-          "url": "https://newschannel9.com/news/nation-world/maine-republican-senator-susan-collins-slips-among-independents-as-democratic-opponent-troy-jackson-gains-strength",
-          "publishedAt": "2026-07-22T19:18:47.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "2579bd38933a941cb7592d9a70c7db8896c683f76dbbff07abf4db032160cd40",
-          "title": "Maine Democrat Troy Jackson Under Fire for Reported Outburst, Mortgage Fraud Claims",
-          "description": "Troy Jackson, a progressive Democrat, has effectively clinched the nomination for U.S. Senate in Maine after Graham Platner dropped out earlier this month following allegations of sexual assault. Now, Jackson is facing accusations of violence with a female colleague. Allegations of Jackson throwing a water bottle at a female colleague have been widely reported this...",
-          "sourceName": "The Daily Signal",
-          "url": "https://www.dailysignal.com/2026/07/22/maine-democrat-troy-jackson-under-fire/",
-          "publishedAt": "2026-07-22T19:00:00.000Z",
-          "sentiment": -0.95
-        },
-        {
-          "id": "a2365fe2aee4f110c3d8c907bef5dde52b90895463603a457e33b126569df326",
-          "title": "Column: Maine’s Troy Jackson is Graham Platner lite",
-          "description": "At least Graham Platner was consistent in his socialist views. Troy Jackson resembles a flip-flopping fish out of water, Tribune columnist Cal Thomas writes.",
-          "sourceName": "Daily Press",
-          "url": "https://www.dailypress.com/2026/07/22/column-maines-troy-jackson-is-graham-platner-lite/",
-          "publishedAt": "2026-07-22T18:05:39.000Z",
-          "sentiment": -0.9
-        },
-        {
-          "id": "9f3181ff2ff00b539e0e79d18ad8ca3b01602dba1389702da8869df68aeae5dd",
-          "title": "Voting for Troy Jackson",
-          "description": "<span class=\"field field-name-title field-formatter-string field-type-string field-label-hidden\">Voting for Troy Jackson</span> <span class=\"field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden\"><span>kburnham</span></span> <span class=\"field field-name-created field-formatter-timestamp field-type-created field-label-hidden\"><time datetime=\"2026-07-22T13:30:04-04:00\" title=\"Wednesday, July 22, 2026 - 13:30\" class=\"datetime\">Wed, 07/22/2026 - 13:30</time> </span>",
-          "sourceName": "Boothbay Register",
-          "url": "https://www.boothbayregister.com/article/voting-troy-jackson/272634",
-          "publishedAt": "2026-07-22T17:30:04.000Z",
-          "sentiment": 0.8
-        },
-        {
-          "id": "3f6e2eab0735c9d07c6418e5499e9dfc255440103f153a4a10a2b1648d977212",
-          "title": "Troy Jackson raises $1 million in under two weeks in Maine Senate race",
-          "description": "A U.S. service member is killed during a controlled Iranian drone detonation as Donald Trump invokes Lindsey Graham and Troy Jackson surges in Maine.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4658691/troy-jackson-raise-1-million-maine-senate/",
-          "publishedAt": "2026-07-22T16:50:23.000Z",
-          "sentiment": 0.3
-        },
-        {
-          "id": "41a46b904b7783d7456a6c8552d3f8c106d315ad7bd77b7538cc98884dc1778f",
-          "title": "Poll: Jackson leads Collins; Pingree holds wide edge in governor’s race",
+          "id": "2d6fe730e8a053014322a9434804d606ec13348d73575d0c30483090b2800b03",
+          "title": "Troy Jackson has almost clear path to Maine Democratic Party US Senate nomination",
           "description": null,
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/07/22/poll-jackson-leads-collins-pingree-holds-wide-edge-governors-race/",
-          "publishedAt": "2026-07-22T16:37:28.000Z",
-          "sentiment": 0.4
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4788414803312-troy-jackson-has-almost-clear-path-to-maine-democratic-party-us-senate-nomination",
+          "publishedAt": "2026-07-24T00:00:00.000Z",
+          "sentiment": 1
         },
         {
-          "id": "07dd267e4eb45d548fe9f9bff91d2eeafd3142d87367b9286cc35f1c26240e42",
-          "title": "Troy Jackson has raised $1M for US Senate campaign",
-          "description": "More than half of that money has been raised since Sunday.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/22/politics/elections/maine-election-senate-troy-jackson-fundraising-1m/",
-          "publishedAt": "2026-07-22T16:14:03.000Z",
-          "sentiment": 0.4
-        },
-        {
-          "id": "6ef894679d78b65b4071b662f654bb29973bcffdfa4c5d72d0ba3b315ff3308f",
-          "title": "Presumptive Democratic nominee Troy Jackson Raises More Than $1 Million Since Launching Maine Senate Campaign",
-          "description": "Jackson, a former state senate president, is expected to officially become Democrats’ nominee in the Maine Senate race this weekend.",
-          "sourceName": "The New York Sun",
-          "url": "https://www.nysun.com/article/presumptive-democratic-nominee-troy-jackson-raises-more-than-1-million-since-launching-maine-senate-campaign",
-          "publishedAt": "2026-07-22T16:10:46.000Z",
+          "id": "e05beefd4e6beed735090d11f4369aeb702e80ecc3c693e50614d4ada4334c38",
+          "title": "Troy Jackson predicted Donald Trump’s trade appeal. Now he’s fighting tariffs.",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4788381076330-troy-jackson-predicted-donald-trump-s-trade-appeal-now-he-s-fighting-tariffs",
+          "publishedAt": "2026-07-24T00:00:00.000Z",
           "sentiment": 0.5
         },
         {
-          "id": "b4a5ed2d4a55debe390464ab51ca0972ef3752274239ffdb52e210542cd99ab9",
-          "title": "Wednesday’s Campaign Round-Up, 7.22.26: Mark Lamb overcomes sex scandal, wins GOP primary",
-          "description": "Today’s installment of campaign-related news items from across the country. The post Wednesday’s Campaign Round-Up, 7.22.26: Mark Lamb overcomes sex scandal, wins GOP primary appeared first on MS NOW .",
-          "sourceName": "Ms Now",
-          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/mark-lamb-arizona-congress-wins-gop-primary",
-          "publishedAt": "2026-07-22T16:05:46.000Z",
+          "id": "bfd35618e97fb36511759d28a9905187010475767867e5bcec13aa614cf190d0",
+          "title": "Maine faith leaders call for end to ICE violence",
+          "description": "SOUTH PORTLAND (WGME) — Faith leaders in Maine called for an end to violence involving ICE agents Thursday in South Portland. The leaders worked with clergy from Minnesota, Texas and Florida, issuing a call for accountability for ICE and an end to the killing. Faith leaders in Maine called for an end to violence involving [...] The post Maine faith leaders call for end to ICE violence appeared first on News Pub . The post Maine faith leaders call for end to ICE violence appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/northeast/maine/maine-faith-leaders-call-for-end-to-ice-violence/",
+          "publishedAt": "2026-07-23T23:51:07.000Z",
           "sentiment": 0
         },
         {
-          "id": "50032895282689d03a127d4f0c6c0cfed38effebda16c1011ac196d2b83dd52c",
-          "title": "After Democrats' shake-up, Collins faces toss-up against Platner replacement in must-win Senate race",
-          "description": "Susan Collins faces a fierce challenge from progressive Troy Jackson, who backs \"Medicare-for-all\" and abolishing ICE, in a toss-up Maine Senate race.",
-          "sourceName": "Fox News",
-          "url": "https://www.foxnews.com/politics/democrats-shake-up-collins-faces-toss-up-platner-replacement-must-win-senate-race",
-          "publishedAt": "2026-07-22T16:03:55.000Z",
-          "sentiment": 0.2
-        },
-        {
-          "id": "72fefa39fe054288f127475a1b253959404e4fa6de432c1f8568697e47aac009",
-          "title": "After Democrats’ shake-up, Collins faces toss-up against Platner replacement in must-win Senate race",
-          "description": "The first Fox News Power Rankings of the 2026 midterm elections and a new poll... The post After Democrats’ shake-up, Collins faces toss-up against Platner replacement in must-win Senate race appeared first on Democratic Accent .",
-          "sourceName": "Democratic Accent",
-          "url": "https://www.democraticaccent.com/after-democrats-shake-up-collins-faces-toss-up-against-platner-replacement-in-must-win-senate-race/",
-          "publishedAt": "2026-07-22T16:03:55.000Z",
-          "sentiment": 0.2
-        },
-        {
-          "id": "b03b28fc67896e9f74e3228bd4dba0696f2fcca1f4b8c556df515223c0602f45",
-          "title": "Maine Democrat Troy Jackson has raised $1M for his Senate bid so far",
-          "description": "Maine Democrat Troy Jackson has raised $1 million in the less than two weeks since he entered the race for Senate shortly after Graham Platner dropped out, his campaign told POLITICO on Wednesday morning. Jackson, the presumptive Democratic nominee, raised $613,000 of that haul since Sunday...",
-          "sourceName": "Biztoc",
-          "url": "https://biztoc.com/x/23a074b68ca5d465",
-          "publishedAt": "2026-07-22T15:26:52.000Z",
-          "sentiment": 0.4
-        },
-        {
-          "id": "3a2c33cac63345a039645b2061ba62f077376bdc2c516a9295802c92993fed98",
-          "title": "After rocky road with Platner, Jewish Mainers size up the state’s progressive left",
-          "description": "In the wake of a candidate criticized for his rhetoric on Israel and his Nazi-linked tattoo, members of Maine’s small, liberal Jewish population grapple with what has or hasn’t changed.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/22/after-rocky-road-with-platner-jewish-mainers-size-up-the-states-progressive-left/",
-          "publishedAt": "2026-07-22T15:20:34.000Z",
+          "id": "a933cc06d8f9e8d9ffa7c30ac39c916de488c4275ae9fd8f066a9b4fdb0078b7",
+          "title": "What to Know About Troy Jackson, Democrats’ Likely Pick to Take on Sen. Susan Collins in Maine",
+          "description": "Then-Maine candidate for Governor Troy Jackson speaks during a May Day rally organized by local unions, on May 1, 2026 outside City Hall in Portland, Maine. (Graeme Sloan/Getty Images)",
+          "sourceName": "The Epoch Times",
+          "url": "https://www.theepochtimes.com/us/what-to-know-about-troy-jackson-democrats-likely-pick-to-take-on-sen-susan-collins-in-maine-6066107",
+          "publishedAt": "2026-07-23T22:40:48.000Z",
           "sentiment": 0
         },
         {
-          "id": "41290e46441efa3fe1a0b698b093930743dbbd9479f9276668b865f1194705f0",
-          "title": "Maine Democrat Troy Jackson has raised $1M for his Senate bid so far - Politico",
-          "description": "Maine Democrat Troy Jackson has raised $1M for his Senate bid so far Politico Maine Is a Mess The Atlantic Maine Democratic Senate frontrunner faces scrutiny over alleged anger outbursts CNN Troy Jackson leads Sen. Susan Collins in new poll WGME Democrat set to replace Platner in Maine led state Senate with a temper The Washington Post",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFBQeE1pdHRxSHVaRFIyclZURXlMaktaRGFXUjdsMlFncGwyYlZVV2dXb2VaWUxrRURhc05GMXE2eEVfSEIxUkdjQmFzcFNqMS15UFZicVp5aS1oUngyeUZ3MXhUUThJa2M5dGllbHV5ZUR5TUViend6Ylo2VGNxSFd1WVhMbm4yRlc0Ym5PTWIwQXNmSkxCdl9zLVVOUXlqV2xQMnBjbTZUeWJOTEE?oc=5",
-          "publishedAt": "2026-07-22T15:18:52.000Z",
-          "sentiment": -0.4
-        },
-        {
-          "id": "de8894c527aa05a44122d759fa15cd559d9b0eb44c42ca040a8f779a75bd4637",
-          "title": "Jackson leading Collins in Maine Senate race survey",
-          "description": "Former Maine Senate President Troy Jackson (D) has a slight lead over incumbent Sen. Susan Collins (R) in new polling on a hypothetical Senate showdown in Maine. A University of New Hampshire poll found 49 percent of likely general election voters in the Pine Tree State said they would vote for Jackson over Collins if...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/5983301-jackson-leads-collins-poll/",
-          "publishedAt": "2026-07-22T15:14:23.000Z",
-          "sentiment": 0.3
-        },
-        {
-          "id": "07b2fd0e32c307c2fe14d894779c68ae4505043208b957c183b89624945ef342",
-          "title": "Maine Democrats don’t need Platner to win Senate seat | Letter",
-          "description": null,
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/22/maine-democrats-dont-need-platner-to-win-senate-seat-letter/",
-          "publishedAt": "2026-07-22T15:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7226d17d5b74bb2e1686204158316c066a00f1c3b5b8b5d25fb5634df7450e0c",
-          "title": "Maine Democrats don’t need Platner to win Senate seat | Letter",
-          "description": null,
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/07/22/maine-democrats-dont-need-platner-to-win-senate-seat-letter/",
-          "publishedAt": "2026-07-22T15:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "690ebd262b947bfc88981fc7bdceb34224d68c8ac1b8814ca2f0817b29631fca",
-          "title": "Democrats’ Plan for Ending the Iran War",
-          "description": "Editor’s Note: Welcome to The TNR Blue Book. It’s our new daily newsletter that covers Congress and much more, but with a distinctly TNR twist: Our focus will be strictly on Democrats, liberal and progressive groups, and the fight to take back power and save democracy. Every morning, you’ll get a rundown of late-breaking news, what Democrats on Capitol Hill are thinking, quick hits on what you need to know nationally, the latest on what’s coming out of the think tanks and activist groups, short interviews with progressive newsmakers and authors, and more (including some humor and political trivia!). There’s nothing else out there like it. Inside Washington “On day one, Democrats will pass a bill to end the Iran war” Democratic lawmakers currently can’t do much to stop the Iran war, House members admitted on Tuesday. Instead, their strategy is to continue to push for oversight and remind voters why gas prices are high. Then, if voters deliver them the House in November, Democrats could cut off funding. Some members would like to see that happen right after the swearing-in ceremony. “It’s going to be very difficult,” said Representative Adam Smith , ranking member of the House Armed Services Committee, when I asked what legislative options Democrats currently have to curtail the war. “At the end of the day, this president—most presidents—have asserted their authority to use the military as they see fit.” Democrats have tried a number of options against President Trump and Republicans. They’ve offered multiple amendments to the National Defense Authorization Act, or NDAA, that would prevent future Defense Department funds from being spent on the war, but the Republican-led Rules Committee rejected the amendments. In June, Democrats passed concurrent war powers resolutions in both the House and Senate, each time with the help of four Republicans. But concurrent resolutions don’t have the force of law. Just this Monday, two American service members were killed in Jordan by an Iranian strike. Now, some House Democrats are planning to vote against the NDAA this week in protest of its unrestricted funding for the war. “To ask us to spend another $1.5 trillion of our constituents’ taxpayer funds, hard-earned, is just outrageous,” said Representative Pat Ryan on Tuesday. Defense Secretary Pete Hegseth was on the Hill Tuesday afternoon making the case that the funding is crucial for national security, and for the first time gave an estimate on the war’s cost to date: a staggering $37.5 billion. His testimony was interrupted multiple times by antiwar protesters, who were removed from the hearing room. Representative Pete Aguilar , the chair of the House Democratic Caucus, said Dems’ other symbolic legislative protests will continue, too. “We’re going to use the opportunities we have in the Rules Committee to add amendments to the NDAA [and] to future appropriation bills each and every time,” he said—even though Republicans will likely continue to reject the amendments. But Dems also have a parallel mission: winning the messaging fight. “Normally, the way this works is public opposition reaches the point where the executive branch realizes they have to respond. But Trump has decided the public opinion doesn’t matter, and that puts us in a very dangerous place,” said Smith. Even if Trump doesn’t respond to public opinion like most presidents do, Democrats hope voters will. “I think the American public is clear that this is a war they didn’t ask for,” said Aguilar. “I think they’re also very clear that Democrats want nothing to do with this, and so that’ll be the case that we make over the next 105 days or so.” Representative Ro Khanna thinks the case will make itself: “As gas prices go up, as food prices go up, as Americans see more, unfortunately, of their service members be killed, the cry to end the war will increase,” he told me. Without currently having enough votes to get their oversight amendments into the NDAA and enforce restrictions on the war, some Democrats are looking ahead to January, when they hope to have a majority in the House. “Hopefully, this war is going to be ended soon,” said Representative Ted Lieu . “If it is still around next term, on day one, Democrats will pass a bill to end the Iran war.” —Emma Janssen Outside Washington Rob Sand rakes in the (populist?) cash Democrat Rob Sand is smashing fundraising records in the Iowa gubernatorial race, The Des Moines Register reports . The most recent disclosures, filed this week, show $9.4 million flowing to Sand and only $6.4 million to Republican Zach Lahn , bringing Sand’s total receipts up to almost $38 million, while Lahn stands at $10 million. The Sand campaign on Tuesday was quick to argue that these numbers weren’t just high, but also fundamentally populist: Sand’s donations, the campaign wrote in a press release , came from 33,500 individuals as opposed to Lahn’s 431. Also, 95 percent of Sand’s contributions were under $100, with an average contribution of $280, whereas only 61 percent of Lahn’s contributions were under this figure, with an average contribution of $14,786. This week, noted political commentator Charlie Cook predicted to people on a Zoom call that Sand will win in November, but he cast doubt on Democrat Josh Turek ’s chances against Ashley Hinson in the Senate race. A New York Times /Siena University poll in late June showed Sand up two points, while a Fox News poll conducted by Beacon Research and Shaw & Company Research showed Sand up nine points. Elsewhere: Florida’s gubernatorial hopefuls, still waiting for the state’s very late August 18 primary, are already pivoting to their general election messaging. Democratic front-runner David Jolly , a former Republican congressman, spent Tuesday hammering his likely Republican opponent Byron Donalds on data centers, Politico reports —“reiterating” his own support for a moratorium and saying Donalds is in the industry’s pocket. Maybe you haven’t been following this race, given that Republicans have occupied the Florida governor’s mansion for the past 27 years. But a recent poll from the University of North Florida showed Donalds leading Jolly by only five points—an intriguingly close margin given that the state’s voters backed Trump to the tune of over 13 points in 2024. The Washington Post ’s “Climate Coach” columnist Michael J. Coren reports that peanut butter jars only need “a quick scrape” to be recyclable—no scrubbing or rinsing. Huge, if true, as they say on social media. “Peanut butter jars” were trending on the WaPo homepage on Tuesday, while the paper’s scoop on Troy Jackson ’s temper languished below the digital fold. —Heather Souvaine Horn The Ideas Factory Public Citizen announces a “Combating Corruption” event on July 30 at the National Press Club, featuring Senators Chuck Schumer and Sheldon Whitehouse . The watchdog promises that the event “will dive into topics such as money in politics, contracting scandals, pay-to-play schemes and family enrichment deals for elected officials.” Data for Progress releases a new poll finding that jittery voters overwhelmingly want the government to put some guardrails on AI. First, 69 percent of voters support “requiring AI companies to give the U.S. government a 30-day window to review their new AI models before releasing them to the public.” Second, 68 percent support “requiring large AI companies to invest a portion of their revenue in local development projects and community services.” And even larger majorities support creating new jobs training programs and direct government employment programs for workers who may be displaced by AI. On Thursday, Brookings hosts a conversation about “top priorities for US-Africa relations in an era of great power competition,” featuring numerous experts, including Brookings senior fellow Landry Signé ; Mozambique’s ambassador to the U.S., Alfredo Fabião Nuvunga ; U.S. Trade and Development Agency Director of Policy and Program Management Mary Sloan ; Deputy Assistant Energy Secretary Dan Byers ; and others. —Heather Souvaine Horn In Closing Book of the Week: This Is The Plan: How to End America’s Meltdown and Save Democracy by Ben Wikler. THE GIST: This Is the Plan is a “field guide” to “dictator-proof” the United States. As former head of the Wisconsin Democratic Party, Wikler helped Democrats win back the Midwestern swing state after years of gerrymandering and attacks on unions. He knows how to organize locally to fight GOP-backed voter suppression, and he knows what works in swing states, particularly in the Midwest. His plan also includes abolishing the filibuster, Supreme Court reform, and changing how the 435 members of the House of Representatives are elected. Most importantly, he thinks reform should be joyous. Democrats, he writes, should “have fun storming the castle—in a civil, metaphorical, and non-January-6th-y way.” PRAISE: Nancy Pelosi says, “If we do what this book says, we will win.” CRUISING THROUGH THE INDEX: In addition to big-ticket reform, Wikler also favors passing the Protecting the Right to Organize, or PRO, Act, which would expand collective bargaining rights and expand labor protections, and the Women’s Health Protection Act, which would establish a nationwide statutory right to provide and receive abortion care. TNR’S QUICK CRITICAL ASSESSMENT: With hindsight, it’s clear that Wikler should have been elected as chair of the Democratic National Committee after the 2024 election—though that was clear at the time, too. This isn’t the first book about unrigging democracy and saving America—but Wikler’s résumé makes this stand out. His plan worked in Wisconsin. It can work everywhere else, as well. —Alex Shephard Only one American president was officially kicked out of his own political party while serving as president. Who was it, and what was the party? ( Sign up for The Blue Book to find the answer in tomorrow’s newsletter.)",
-          "sourceName": "The New Republic",
-          "url": "https://newrepublic.com/post/213353/democrats-end-iran-war-smith-aguilar-lieu",
-          "publishedAt": "2026-07-22T14:56:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7b2688fdfa44ca5a85be256646afe83d7a9bdb516bcfddb85ecb7887850ce013",
-          "title": "Wisconsin Democrats push for absentee ballots to be recast after candidate musical chairs",
-          "description": "Troy Jackson is likely to replace Graham Platner as the Democratic nominee after rival candidates dropped out and his supporters swept delegate elections.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/state/4658419/wisconsin-democrats-push-absentee-ballot-recast/",
-          "publishedAt": "2026-07-22T14:51:30.000Z",
-          "sentiment": 0.2
-        },
-        {
-          "id": "17df9b64aba638184007aef284ca4385988d1f2171a0b7ba917806a8dd54e004",
-          "title": "Cal Thomas | Troy Jackson is Graham Platner lite",
-          "description": "Troy Jackson, the Maine Democratic Party prospective nominee for the Senate, is Graham Platner lite. Platner withdrew from the race to face incumbent Republican Susan Collins following allegations that he sexually assaulted two women, charges he has denied. At least...",
+          "id": "c1ecf91989510c262110753e9b1a03e4e76e67a21f2d788ff6b5e7f8c3a71d43",
+          "title": "David Shribman | The parting on the left",
+          "description": "FRYEBURG, Maine — Meet the new boss, same as the old boss. Except this one has a bad temper.",
           "sourceName": "The Cumberland Times-news",
-          "url": "https://www.times-news.com/opinion/cal-thomas-troy-jackson-is-graham-platner-lite/article_0ca69e17-a7bb-4b28-8d4b-f1318b36d163.html",
-          "publishedAt": "2026-07-22T14:22:00.000Z",
-          "sentiment": -0.85
+          "url": "https://www.times-news.com/opinion/david-shribman-the-parting-on-the-left/article_9735257d-9001-4f80-9449-9e845d79940e.html",
+          "publishedAt": "2026-07-23T20:58:00.000Z",
+          "sentiment": -0.8
         },
         {
-          "id": "0b13bab6c695e773db65fbcb4b560771bedf21f9b5652b39c79e662c76857df1",
-          "title": "Maine Democrat Troy Jackson has raised $1M for his Senate bid so far",
-          "description": "Jackson has to catch up fast to GOP Sen. Susan Collins, who’s sitting on an $11 million warchest.",
-          "sourceName": "Politico",
-          "url": "https://www.politico.com/live-updates/2026/07/22/congress/troy-jackson-raises-1-million-maine-senate-01007681",
-          "publishedAt": "2026-07-22T14:18:52.000Z",
-          "sentiment": 0.1
+          "id": "bd0d3fa89c93b144c4e48760e8b83cfa0553081c96e8b91b2e15c1c2855b0949",
+          "title": "People Keep Dying in ICE Custody. 13 Dems Back a Bill to Abolish the Agency.",
+          "description": "At least 53 people have died in ICE custody since President Donald Trump’s return to office.",
+          "sourceName": "Truthout",
+          "url": "https://truthout.org/articles/people-keep-dying-in-ice-custody-13-dems-back-a-bill-to-abolish-the-agency/",
+          "publishedAt": "2026-07-23T20:24:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b1234e256ad5ff4e9a99991e451019f20c84cc8c82dd5b07f4161a6634112ef2",
+          "title": "Sarah Longwell and Alex Seitz-Wald: The Maine Thing",
+          "description": "In 2026, everyone who follows politics has an opinion about Maine politics.",
+          "sourceName": "Thebulwark",
+          "url": "https://www.thebulwark.com/p/sarah-longwell-and-alex-seitz-wald",
+          "publishedAt": "2026-07-23T19:37:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6e8e5e9116614412e71899fe24c3d0c832469fbcf040569d63e4276ca4a51827",
+          "title": "Abortion May Be The Deciding Issue In The Push To Oust Susan Collins",
+          "description": "Democrats have targeted Susan Collins for her role in the fall of Roe — but their choice of opponent could complicate matters.",
+          "sourceName": "Huffpost",
+          "url": "https://www.huffpost.com/entry/abortion-may-be-the-deciding-issue-in-the-push-to-oust-susan-collins_n_6a62527ee4b077d95ae9369e",
+          "publishedAt": "2026-07-23T18:34:23.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d9cca419a0c483eeab5fc991c1b23654d9e50655bacbc0d064e1f5db1dcac308",
+          "title": "Instead of Tariffs, Maybe Help Canada Put Out Wildfires?",
+          "description": "Editor’s Note: Welcome to The TNR Blue Book. It’s our new daily newsletter that covers Congress and much more, but with a distinctly TNR twist: Our focus will be strictly on Democrats, liberal and progressive groups, and the fight to take back power and save democracy. Every morning, you’ll get a rundown of late-breaking news, what Democrats on Capitol Hill are thinking, quick hits on what you need to know nationally, the latest on what’s coming out of the think tanks and activist groups, short interviews with progressive newsmakers and authors, and more (including some humor and political trivia!). There’s nothing else out there like it. Inside Washington Instead of tariffs, maybe help Canada put out wildfires? Democratic lawmakers don’t merely think Trump’s newly announced 50 percent tariffs on Canada are a bad idea from an economic standpoint. They also want to see the U.S. actively helping Canadians fight the Ontario wildfires currently sending smoke into the U.S., and fear for the future of the two countries’ relationship. Trump has told reporters that the tariffs he announced Monday aren’t in response to the wildfires, but the timing is highly suspicious. The announcement came just days after Trump said, “Maybe they should pay us some damages or something, or we should do some tariffs.” To some, the arbitrary nature of Trump’s decision is the biggest affront. “There’s no question that Trump thinks he’s a king and he can use these tariffs to execute whatever he wants,” said Senator Ron Wyden , who on Wednesday unveiled a bill to reassert congressional authority over tariffs. Others are worried about the economic impact in their own states. “Canada is a friend, one of our closest allies,” said Michigan Senator Gary Peters . “In Michigan, where we have close trading relations with Canadians, they’re a vital part of our economy, and it’s an important friendship.” Senator Tina Smith of Minnesota is similarly concerned about her home state. “Minnesota has a good relationship with Canada. Clearly, the hostile and reckless approach of the Trump administration towards Canada makes those relationships hard to maintain.” But beyond the typical condemnation of tariffs, several politicians are also suggesting that with wildfires in particular, the U.S. might be better served by collaborating more closely with its northern neighbor. Some would even like to see direct aid. “I was on a call this morning with Secretary [of Agriculture Brooke] Rollins and leaders from the Forest Service talking about the fires in northern Minnesota, and I know that the Forest Service and Canadian officials are working closely and well together. So I think at the operating level, the relationships continue to be effective,” Smith told me. On Saturday, Ontario Premier Doug Ford criticized the “short memory” of American politicians who have blamed Canada for Ontario’s wildfire smoke drifting southward. “We had the water bombers and everyone going over to California [last year],” he said. “That’s what neighbors do.” Californian Senator Alex Padilla hasn’t forgotten that. “They’re there for us in our time of need,” he said, “and we should be there for them.” —Emma Janssen Full-time workers increasingly need SNAP and Medicaid to make ends meet The number of Americans who rely on SNAP and Medicaid despite working full-time for major companies has shot up, according to a report the Government Accountability Office, or GAO, released Wednesday. The number of Amazon workers who receive anti-poverty benefits nearly tripled between February 2020 and September 2025, the report found. Gig-based companies like Uber, Lyft, Grubhub, Instacart, and DoorDash also employ high numbers of Medicaid and SNAP recipients, the report found, a major change from 2020. Meanwhile, Walmart was the top employer of Medicaid recipients in both 2020 and 2025. The report confirms what anti-poverty advocates have been saying for years: It’s becoming harder to be a working American, and working full-time does not guarantee financial security. It also shows that some of the country’s most successful companies don’t pay their workers a living wage, according to Senator Bernie Sanders , who requested the GAO produce the report. “American taxpayers should not be forced to subsidize the starvation wages of large corporations like Walmart and Amazon,” said Sanders in a statement. Between 2020 and 2025, Walmart increased its profits from nearly $15 billion to nearly $22 billion. Meanwhile, the number of Walmart employees relying on Medicaid in the 11 states sampled in the GAO report increased by 55 percent. Life has probably gotten harder for these employees in the months since the data was collected. This report comes just over a year after President Trump signed the One Big Beautiful Bill Act into law, implementing massive cuts to SNAP and Medicaid. SNAP participation is already down more than 4.5 million people , according to USDA data. The Center on Budget and Policy Priorities, a progressive think tank, estimates that up to 15 million people could lose their Medicaid coverage by 2034. Californian Senator Alex Padilla hasn’t forgotten that. “They’re there for us in our time of need,” he said, “and we should be there for them.” —Emma Janssen Outside Washington Canada “politely” withdraws party invites in response to Trump tariffs Americans have been “politely, but effectively, disinvited” from the opening ceremony on Friday for the new and long-awaited Gordie Howe International Bridge between Detroit and Windsor, Ontario, three sources tell the Detroit Free Press. The reason, Todd Spangler reports, is Trump ’s threat to slap 50 percent tariffs on Canada. Michigan Democratic Governor Gretchen Whitmer has publicly worried about the threat’s effect on the state’s economy, and the Trump administration already delayed the bridge’s opening last month by demanding that Canada give the United States half the bridge’s profits for the first 15 years—in addition to a debt-repayment arrangement that remains a little unclear. (The text of the deal was only released on Tuesday.) Tariffs are also a wild card in Maine’s Senate race, where Democrats have been frantically shoring up support for Troy Jackson to replace the scandal-a-day Graham Platner as Democratic nominee against Republican incumbent Susan Collins . Republican candidates in the state quickly distanced themselves from Trump on tariffs, with Collins disavowing her own party head to Politico on behalf of Maine’s lobsters and blueberries. (They’re “harvested in Maine, processed in Canada, and then come back,” said Collins.) Meanwhile, U.S. businesses obviously aren’t thrilled with the new chaos, and the American dairy and distilled spirits lobbies, representing industries Trump is allegedly protecting with these tariffs, have already voiced their displeasure . Elsewhere: The Massachusetts state Senate is considering a proposal to increase affordable housing by upzoning vast swaths of the state, ending single-family zoning in favor of allowing “duplexes by right.” At CalMatters, Jeanne Kuang examines Gavin Newsom’s intricate balancing act as he attempts to position himself as a populist candidate for 2028—an act that has included opposing a state billionaire tax while voicing support for a federal one. Progressives are skeptical, Kuang notes. —Heather Souvaine Horn The Ideas Factory The Century Foundation ’s Angela Hanks , Aissa Canchola Bañez , and Eduard Nilaj find that “rising energy debt is climbing into the middle class,” in part because “energy bills have increased three times faster than the rate of inflation while Trump has been president.” The Natural Resources Defense Council slams the Trump administration for “making climate science denial its official policy” and then threatening Canada with tariffs over Ontario wildfire smoke. “Some 180 million Americans were threatened last week by dangerous heat” in addition to the perilously poor air quality, senior attorney David Doniger writes in a memo, and widespread drought has contributed to “Colorado wheat farmers ... reporting their worst year in six decades; in Nebraska, it’s the worst in more than a century.” Resources for the Future ’s Brandon Holmes , Molly Robertson , Kevin Rennert , Keith J. Benes , Natalie Baillargeon , Juniper Katz , Robi Nilson , and Ben Hoen publish a new working paper analyzing solar and wind development, finding that “Texas’s renewable energy development often proceeds quickly when compared with projects on federal land and many state-level permitting processes.” Earlier this week, the Urban Institute ’s William J. Congdon , Elisabeth Jacobs , Amanda Briggs , Ryan Kelsey , Shayne Spaulding , Oluwasekemi Odumosu , and Julia Payne released an article outlining “Policy Priorities for an Inclusive AI Economy.” A few of their proposals: “use AI to match workers with jobs and employers with talent,” “update” labor regulations to address the risks of AI, “incorporate worker voice in AI design and implementation,” “improve policies and programs for displaced workers,” and “ensure gains in productivity and prosperity are widely shared.” So, basically a complete redesign of how the AI transition is currently going. —Heather Souvaine Horn In Closing $37.5 billion for Trump’s war on Iran? Something doesn’t add up ... Defense Secretary Pete Hegseth appeared before the Senate Appropriations Committee this week, saying the Pentagon has spent $37.5 billion bombing Iran so far, and needs another $67 billion, stat. Those numbers are a bit suspicious. Watch TNR’s Edie Olmsted get into the math. Political Trivia Question of the Day Who was the first Socialist Party member elected to the House of Representatives, and when, and where was he from? ( Sign up for The Blue Book to find the answer in tomorrow’s newsletter.)",
+          "sourceName": "The New Republic",
+          "url": "https://newrepublic.com/post/213439/tariffs-wildfires-canada-democrats",
+          "publishedAt": "2026-07-23T18:18:55.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "99280c647a85829d39fb6b84353161d8ce756d488b8f7e70e1156a413d3a7a5b",
+          "title": "Actually, Susan Collins didn’t win in a landslide in 2020 | Steve Collins",
+          "description": "Misleading stats make it seem like Sen. Collins was more popular during her last campaign than she was.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/23/actually-susan-collins-didnt-win-in-a-landslide-in-2020-steve-collins/",
+          "publishedAt": "2026-07-23T18:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d05d0c044ab6c36f4968eca36015d488fcd68e342321381814f987dfac2aea47",
+          "title": "Actually, Susan Collins didn’t win in a landslide in 2020 | Steve Collins",
+          "description": "Misleading stats make it seem like Sen. Collins was more popular during her last campaign than she was.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/23/actually-susan-collins-didnt-win-in-a-landslide-in-2020-steve-collins/",
+          "publishedAt": "2026-07-23T18:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5a29fe68326237e16aef82a81fd15df6265bf0d8a491d8982b28c12998e4487b",
+          "title": "Jon Ossoff's chances of beating Mike Collins in GeorgiaâNew poll",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/jon-ossoffs-chances-of-beating-mike-collins-in-georgianew-poll-605798B0-FCE1-4022-9FDF-EE57B09A48B4",
+          "publishedAt": "2026-07-23T17:53:55.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a10e1ac48d73c4be848d1c26077e5ef5f29c40c481a976da94de9a9afacb62b0",
+          "title": "Susan Collins dismisses Troy Jackson as a ‘Bernie Bro’",
+          "description": "\"He was ... lead for Senator Sanders' presidential campaign in Maine. He's a Bernie bro.”",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/07/23/politics/elections/maine-election-senate-susan-collins-troy-jackon-bernie-bro/",
+          "publishedAt": "2026-07-23T17:47:59.000Z",
+          "sentiment": -0.7
+        },
+        {
+          "id": "111e6349c9bc428990274fc32ec1202434834caaea91d30767a852fc54275212",
+          "title": "At the Races: Seeing blue in Georgia",
+          "description": "Welcome to At the Races! Each week we bring you news and analysis from the CQ Roll Call campaign team. Know someone who’d like to get this newsletter? They can subscribe here. By Daniela Altimari and Mary Ellen McIntire A new poll of one of the most consequential Senate races on the midterm map found Georgia Democratic [...]",
+          "sourceName": "Roll Call",
+          "url": "https://rollcall.com/2026/07/23/at-the-races-seeing-blue-in-georgia/",
+          "publishedAt": "2026-07-23T16:10:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7032d6e5727ece3160fe912d2f476588a335b7654a03ccdd477ed7774328d947",
+          "title": "DSA endorsement tracker: Here are the socialists running for office across America",
+          "description": "The Democratic Socialists of America topped 120,000 members as the United States celebrated its 250th Independence Day.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/4657182/dsa-endorsement-tracker-socialists-running-for-office-across-america/",
+          "publishedAt": "2026-07-23T16:06:58.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "58882895093fdfbac2b3132a13912c280c2eb75aacdf90db302ad7b67da3e9e3",
+          "title": "Susan Collins reels as Trump blows up Maine victory lap: analyst",
+          "description": "Sen. Susan Collins (R-ME) has been plunged into a new nightmare as President Donald Trump demolished an effort to escape having his Immigration and Customs Enforcement brutality tied to her, reported The New Republic. Collins has been immersed in Trump's policies after a killing in Biddeford, Maine, in which ICE agents boxed in a vehicle and shot Johan Sebastián Durán Guerrero, a Colombian immigrant described as a devoted father who was in the country legally. His three-year-old daughter was seen crying at the scene. The dead man reportedly wasn't ICE's intended target, and the agent who fired, David Brouillette, has been described by relatives as violent and mentally unstable, even allegedly threatening violence against his ex-wife . Collins denounced the killing — but after she backed a $70 billion new slush fund for ICE and \" opposed an amendment, offered by Democratic Senator Alex Padilla, that would have required ICE agents to wear active body cameras on duty and made footage available to Congress,\" the New Republic reported. That \"could now create bigger problems for Collins\" as the agents involved in the shooting weren't wearing cameras, according to the report. Meanwhile, Collins tried to claim credit for a cooling down of tensions. But just hours after she publicly credited herself with getting Trump's Homeland Security Secretary Markwayne Mullin to halt ICE vehicle stops following a deadly shooting in Maine, Trump blew up her victory lap entirely — ordering the stops to resume immediately. Polls show Collins is in a tie with Democratic Party challenger Troy Jackson. With Trump publicly overriding the very policy Collins claimed to have won, her attempt to appear tough on ICE may end up making her look powerless instead, the report concluded: \"The violence and the terror are the point . Broadcasting that ugly fact far and wide matters a whole lot more to Trump than Collins’s political survival does. \"And in the end, there’s always this: She just voted to fund a whole lot more of it.\"",
+          "sourceName": "Raw Story",
+          "url": "https://www.rawstory.com/trump-susan-collins-2677261914/",
+          "publishedAt": "2026-07-23T16:05:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9d2d005f96dec9f7b38fa77555d0e0a32628be0dd6f36f9e27af1b9395a08fef",
+          "title": "Politics Panel: What is ICE doing in Maine?",
+          "description": "Opinion editor Jim Dao talks to Abdallah Fayyad and Joan Vennochi about Maine, Iran, and bike safety in Boston.",
+          "sourceName": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/07/23/opinion/ice-maine-bike-lanes-say-more-podcast/",
+          "publishedAt": "2026-07-23T16:04:12.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0bdcac275552bd31cbdaaf6e4a811b5a711b73cb2bbc71576e34e75eb3feecba",
+          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
+          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
+          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "sentiment": -0.6
+        },
+        {
+          "id": "f1c9fbd759bbd357edf7867ac5b8dc25c84b724c0e362c6f8181f1e9d24c4dc4",
+          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
+          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
+          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "sentiment": -0.6
+        },
+        {
+          "id": "37fc43a4e6d149fb2edbb998ba6310ca9f859b956d68d755aef08766a42afa5d",
+          "title": "Who’s the Most Concerned About Maine?",
+          "description": "Troy Jackson steps out of Graham Platner’s shadow to take on Susan Collins in November. The post Who’s the Most Concerned About Maine? appeared first on The American Prospect .",
+          "sourceName": "The American Prospect",
+          "url": "https://prospect.org/2026/07/23/whos-the-most-concerned-about-maine/",
+          "publishedAt": "2026-07-23T15:12:41.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "ef76cffa93d7502861e28ae74c8cce0321819229abafe8ec8fd76b8828386dd5",
+          "title": "Cal Thomas: Troy Jackson is Graham Platner lite",
+          "description": "Troy Jackson, the Maine Democratic Party prospective nominee for the Senate, is Graham Platner lite. Platner withdrew from the race to face incumbent Republican Susan Collins following allegations that he sexually assaulted two women, charges he has denied. At least Platner was consistent in his Democrat Socialist of America (DSA) views. Jackson resembles a flip-flopping fish out of water.",
+          "sourceName": "Home | Triblive.com",
+          "url": "https://triblive.com/opinion/cal-thomas-troy-jackson-is-graham-platner-lite/",
+          "publishedAt": "2026-07-23T15:00:00.000Z",
+          "sentiment": -0.8
+        },
+        {
+          "id": "0cbe8e5091c76b28a9fc908af3b1dbfaf0d867958d6ec32a3be2605c04bb8b68",
+          "title": "How Troy Jackson went from an anti-abortion Republican to the Democrats’ hope for defeating Susan Collins",
+          "description": "Troy Jackson is on the verge of replacing Graham Platner as the Democratic nominee for Senate in Maine after harnessing the enthusiasm of former Platner supp...",
+          "sourceName": "Yahoo! News",
+          "url": "https://www.yahoo.com/news/politics/articles/troy-jackson-went-anti-abortion-090025509.html",
+          "publishedAt": "2026-07-23T14:30:09.000Z",
+          "sentiment": 0.5
         }
       ],
       "social": [
@@ -2797,91 +2536,73 @@
       "newsSentiment": 0,
       "socialSentiment": -0.21666666666666667,
       "mentions": {
-        "news": 9,
+        "news": 7,
         "social": 6,
         "youtube": 0,
-        "total": 15
+        "total": 13
       },
       "news": [
         {
-          "id": "ac3ffb6d6bf8590585dc74f5b875c2b0460ec1bba6b7a5036743545cf65859b3",
-          "title": "Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race",
-          "description": "PORTLAND (WGME) – In the race for governor, Planned Parenthood is backing Democratic candidate Hannah Pingree. Planned Parenthood says Maine needs someone who will fight for access to reproductive healthcare, and Pingree holds that track record as a former Maine state lawmaker. Pingree says states need to do all they can to fend off threats [...] The post Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race appeared first on News Pub . The post Planned Parenthood backs Democrat Hannah Pingree in Maine’s gubernatorial race appeared first on News Pub .",
+          "id": "657da344ddf65e58bde60a942329e98b795f3d7b4625a63d7ff9db0b92c787a7",
+          "title": "Maine faith leaders call for end to ICE violence",
+          "description": "SOUTH PORTLAND (WGME) — Faith leaders in Maine called for an end to violence involving ICE agents Thursday in South Portland. The leaders worked with clergy from Minnesota, Texas and Florida, issuing a call for accountability for ICE and an end to the killing. Faith leaders in Maine called for an end to violence involving [...] The post Maine faith leaders call for end to ICE violence appeared first on News Pub . The post Maine faith leaders call for end to ICE violence appeared first on News Pub .",
           "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/planned-parenthood-backs-democrat-hannah-pingree-in-maines-gubernatorial-race/",
-          "publishedAt": "2026-07-22T23:39:09.000Z",
+          "url": "https://newspub.live/northeast/maine/maine-faith-leaders-call-for-end-to-ice-violence/",
+          "publishedAt": "2026-07-23T23:51:07.000Z",
           "sentiment": 0
         },
         {
-          "id": "f94a0097533e562b5d549b1a2f1ca2ce30b75d9cc4147c43d2bb5b04adbd7eb5",
-          "title": "Meet the Press NOW — July 22",
-          "description": "President Donald Trump continues to escalate his threats toward Iran after attending the dignified transfer of American troops killed in the Middle East. Election officials worry the growing popularity of betting markets could fuel further distrust in elections ahead of the midterms. Trump-endorsed California gubernatorial candidate Steve Hilton (R) joins Meet the Press NOW to discuss his goal of courting voters who dislike the president.",
+          "id": "4068df7d5c59d6345d5e94ac219ee26cc976e9181c953985ecb85fd076aa4687",
+          "title": "Meet the Press NOW — July 23",
+          "description": "Fuel prices jump as fears grow over an expanding conflict in the Middle East. The Justice Department agrees to withdraw subpoenas seeking testimony and records from New York Times reporters. Sen. Mark Kelly (D-Ariz.) joins NBC's Ryan Nobles to discuss his growing concerns with artificial intelligence.",
           "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/meet-the-press-now-july-22-267117125813",
-          "publishedAt": "2026-07-22T21:14:45.000Z",
+          "url": "https://www.nbcnews.com/meet-the-press/video/meet-the-press-now-july-23-267188293825",
+          "publishedAt": "2026-07-23T21:08:26.000Z",
           "sentiment": 0
         },
         {
-          "id": "fb18ef61210dba9bd99a99e53a0219f20041c93a40da8c925bf570985b14752c",
-          "title": "Trump-backed Steve Hilton on his bid to sway anti-Trump voters in California gubernatorial race",
-          "description": "California gubernatorial candidate Steve Hilton (R) joins Meet the Press NOW to discuss his new push to sway voters who might dislike President Trump and lays out the policy areas where he disagrees with the president despite touting Trump’s endorsement.",
+          "id": "cb67ab4df8f0e34509e0f2e3583655a48c52bd9d81ea351acb232a1cae4ef60c",
+          "title": "Sen. Mark Kelly says the U.S. government should be ‘more proactive’ about AI scams",
+          "description": "President Trump pledges to shield consumers from data center costs as AI data center expansions spark concern in communities nationwide. Sen. Mark Kelly (D-Ariz.) calls for more transparency as AI’s capabilities expand. Head of Policy at AI Policy Network Peter Wildeford weighs in on the debate around AI guardrails.",
           "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/trump-backed-steve-hilton-on-his-bid-to-sway-anti-trump-voters-in-california-gubernatorial-race-267118149756",
-          "publishedAt": "2026-07-22T21:04:09.000Z",
+          "url": "https://www.nbcnews.com/meet-the-press/video/sen-mark-kelly-says-the-u-s-government-should-be-more-proactive-about-ai-scams-267187269645",
+          "publishedAt": "2026-07-23T20:59:11.000Z",
           "sentiment": 0
         },
         {
-          "id": "28d7754e92e27e735a5308da9924e19ce9733443d77bfb398e8c4f9d2066bd93",
-          "title": "Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers",
-          "description": "NBC News correspondents Monica Alba, Courtney Kube and Julie Tsirkin report on recent developments regarding the war with Iran as President Trump attends the dignified transfer of four soldiers killed in the Middle East. NBC News Intelligence Reporter Dan De Luce reports on President Trump’s approval of a deal with Saudi Arabia to develop a civilian nuclear program which is raising concerns over nuclear proliferation.",
+          "id": "af34c7cd76dd1327b5a528fa15c5eef689819edaaeaba804174c1e8916c43a0f",
+          "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
+          "description": "NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.",
           "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/trump-escalates-threats-on-iran-as-he-attends-dignified-transfer-of-fallen-soldiers-267117637561",
-          "publishedAt": "2026-07-22T20:33:16.000Z",
+          "url": "https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837",
+          "publishedAt": "2026-07-23T20:30:39.000Z",
           "sentiment": 0
         },
         {
-          "id": "27051eaec490d56a2639913f2fe31bf0762db3c20d9da3fdbde322f80d5de994",
-          "title": "Maine’s Mad Scramble to Replace Graham Platner",
-          "description": "The state’s Democratic primary was dominated by an unlikely left-wing insurgent—it became a three-week sprint for Party insiders to select the next best thing.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/maine-s-mad-scramble-to-replace-graham-platner-85848311",
-          "publishedAt": "2026-07-22T18:36:26.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9cb00fd4e407238924aca03c1b91982085127f2d578a9d4bc53bb1156a08fde6",
-          "title": "Maineâs Mad Scramble to Replace Graham Platner",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/maines-mad-scramble-to-replace-graham-platner-B9B90E40-84A2-4CC3-8E22-D54AEB0501EB",
-          "publishedAt": "2026-07-22T17:15:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "fa5aca9f5a84425828a6896b3ec99515cc981b849137ff0d44b87c9327138f77",
-          "title": "Troy Jackson raises $1 million in under two weeks in Maine Senate race",
-          "description": "A U.S. service member is killed during a controlled Iranian drone detonation as Donald Trump invokes Lindsey Graham and Troy Jackson surges in Maine.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4658691/troy-jackson-raise-1-million-maine-senate/",
-          "publishedAt": "2026-07-22T16:50:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1e90a382cdc5804e46767be758621563533c5b359388b0cabee892f738db9b67",
-          "title": "Troy Jackson has raised $1M for US Senate campaign",
-          "description": "More than half of that money has been raised since Sunday.",
+          "id": "95e9825648f54161c5cee654bfb36a3d722fe1ed2a3b5fd6ec50ff548ebd487d",
+          "title": "Susan Collins dismisses Troy Jackson as a ‘Bernie Bro’",
+          "description": "\"He was ... lead for Senator Sanders' presidential campaign in Maine. He's a Bernie bro.”",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/22/politics/elections/maine-election-senate-troy-jackson-fundraising-1m/",
-          "publishedAt": "2026-07-22T16:14:03.000Z",
+          "url": "https://www.bangordailynews.com/2026/07/23/politics/elections/maine-election-senate-susan-collins-troy-jackon-bernie-bro/",
+          "publishedAt": "2026-07-23T17:47:59.000Z",
           "sentiment": 0
         },
         {
-          "id": "1b8926e5e57fbb52391cc2fc727781b7ee0cbceb4eb0d1b5be6594b3a9de7e00",
-          "title": "After rocky road with Platner, Jewish Mainers size up the state’s progressive left",
-          "description": "In the wake of a candidate criticized for his rhetoric on Israel and his Nazi-linked tattoo, members of Maine’s small, liberal Jewish population grapple with what has or hasn’t changed.",
+          "id": "297a472d14d3e47fc28e91249c8f13a4659ba713fc2b0dca5cedec8e52c2fdc5",
+          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
+          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
+          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "205d4811c31a458d70d6fc2c9914bba478b653617943e0a6601bdef0539eb316",
+          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
+          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/22/after-rocky-road-with-platner-jewish-mainers-size-up-the-states-progressive-left/",
-          "publishedAt": "2026-07-22T15:20:34.000Z",
+          "url": "https://www.pressherald.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
+          "publishedAt": "2026-07-23T16:00:00.000Z",
           "sentiment": 0
         }
       ],
