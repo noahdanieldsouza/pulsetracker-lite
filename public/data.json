@@ -1,117 +1,189 @@
 {
-  "lastUpdated": "2026-07-25T13:14:03.059Z",
+  "lastUpdated": "2026-07-25T13:17:40.402Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.09090909090909091,
-      "newsSentiment": -0.09090909090909091,
+      "overallSentiment": -0.021052631578947368,
+      "newsSentiment": -0.021052631578947368,
       "socialSentiment": null,
       "mentions": {
-        "news": 11,
+        "news": 19,
         "social": 0,
         "youtube": 0,
-        "total": 11
+        "total": 19
       },
       "news": [
         {
-          "id": "83e904911b23320528ec23cd36a355c6b121708120656182420486ef82660685",
-          "title": "Maine faith leaders call for end to ICE violence",
-          "description": "SOUTH PORTLAND (WGME) — Faith leaders in Maine called for an end to violence involving ICE agents Thursday in South Portland. The leaders worked with clergy from Minnesota, Texas and Florida, issuing a call for accountability for ICE and an end to the killing. Faith leaders in Maine called for an end to violence involving [...] The post Maine faith leaders call for end to ICE violence appeared first on News Pub . The post Maine faith leaders call for end to ICE violence appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/maine-faith-leaders-call-for-end-to-ice-violence/",
-          "publishedAt": "2026-07-23T23:51:07.000Z",
-          "sentiment": -1
+          "id": "26a52530d6d6cec63739bdecdd49e8d1f9642db335749891e9cb61c72f9446fb",
+          "title": "South Carolina to hold first Democratic 2028 primary, indicating DNC's push to court minority voters",
+          "description": "NBC National Political Reporter Ben Kamisar reports on the DNC rules committee's move to make South Carolina the first state to vote in the 2028 Democratic presidential primary, replacing two heavily white states at the top of the calendar with states with more diverse populations.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/south-carolina-to-hold-first-democratic-2028-primary-85920746",
+          "publishedAt": "2026-07-25T01:07:12.000Z",
+          "sentiment": -0.1
         },
         {
-          "id": "6c4340067222ab10b925c5f4668bf419801bfc759a1816e7b3332aafbc6d7aa8",
-          "title": "What to Know About Troy Jackson, Democrats’ Likely Pick to Take on Sen. Susan Collins in Maine",
-          "description": "Then-Maine candidate for Governor Troy Jackson speaks during a May Day rally organized by local unions, on May 1, 2026 outside City Hall in Portland, Maine. (Graeme Sloan/Getty Images)",
-          "sourceName": "The Epoch Times",
-          "url": "https://www.theepochtimes.com/us/what-to-know-about-troy-jackson-democrats-likely-pick-to-take-on-sen-susan-collins-in-maine-6066107",
-          "publishedAt": "2026-07-23T22:40:48.000Z",
+          "id": "1d02de6157913e64cd664793f9f80d739b0179003a8c8e4c20cd9ffb3bb4154e",
+          "title": "A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement",
+          "description": "The state of Maine has roughly 19,000 Jews across 10,600 households, with the population highly concentrated in and around Portland.",
+          "sourceName": "Jpost",
+          "url": "https://www.jpost.com/diaspora/antisemitism/article-903583",
+          "publishedAt": "2026-07-24T22:32:44.000Z",
           "sentiment": 0
         },
         {
-          "id": "f98d9bbd95903b968b474838dcdfe554785914ba5996c76945fbc2360461f9c1",
-          "title": "Meet the Press NOW — July 23",
-          "description": "Fuel prices jump as fears grow over an expanding conflict in the Middle East. The Justice Department agrees to withdraw subpoenas seeking testimony and records from New York Times reporters. Sen. Mark Kelly (D-Ariz.) joins NBC's Ryan Nobles to discuss his growing concerns with artificial intelligence.",
+          "id": "6791e6f4b92e70121b23105f259711236ba25c463469bb74ca25021cd2dd5965",
+          "title": "Meet the Press NOW — July 24",
+          "description": "President Donald Trump weighs a \"massive attack\" on Iran as they double down on blocking critical waterways. NBC's Ryan Chandler joins Texas Senate candidate James Talarico (D) on the campaign trail as he unveils his border security plan. The Trump administration admits to canceling energy grants to states that did not vote for him.",
           "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/meet-the-press-now-july-23-267188293825",
-          "publishedAt": "2026-07-23T21:08:26.000Z",
-          "sentiment": 0
+          "url": "https://www.nbcnews.com/meet-the-press/video/meet-the-press-now-july-24-267245637848",
+          "publishedAt": "2026-07-24T21:06:05.000Z",
+          "sentiment": -0.1
         },
         {
-          "id": "e3655f25834e0fd1bcfe24080a9a47eae85161040dc7ca65b9132e5d4df5eed9",
-          "title": "Sen. Mark Kelly says the U.S. government should be ‘more proactive’ about AI scams",
-          "description": "President Trump pledges to shield consumers from data center costs as AI data center expansions spark concern in communities nationwide. Sen. Mark Kelly (D-Ariz.) calls for more transparency as AI’s capabilities expand. Head of Policy at AI Policy Network Peter Wildeford weighs in on the debate around AI guardrails.",
+          "id": "d7a1a81865a993e287d6d432c4879bba9d6a069e07490ae073688c67c70a88f9",
+          "title": "South Carolina to hold first Democratic 2028 primary, indicating DNC's push to court minority voters",
+          "description": "NBC National Political Reporter Ben Kamisar reports on the DNC rules committee's move to make South Carolina the first state to vote in the 2028 Democratic presidential primary, replacing two heavily white states at the top of the calendar with states with more diverse populations.",
           "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/sen-mark-kelly-says-the-u-s-government-should-be-more-proactive-about-ai-scams-267187269645",
-          "publishedAt": "2026-07-23T20:59:11.000Z",
-          "sentiment": 0
+          "url": "https://www.nbcnews.com/meet-the-press/video/south-carolina-to-hold-first-democratic-2028-primary-indicating-dnc-s-push-to-court-minority-voters-267245125532",
+          "publishedAt": "2026-07-24T20:56:06.000Z",
+          "sentiment": -0.1
         },
         {
-          "id": "75c7c58f6011354aba5fd16188bbfb60081319e4edfacf2013f09b4055d22e9a",
-          "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
-          "description": "NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.",
+          "id": "d58b87bfe0952f1affc6e3b12caba7fae373bcc64d83e180cc4248a7bdd88859",
+          "title": "James Talarico unveils border policy plan for TX Senate bid, saying 'both parties have failed us'",
+          "description": "NBC News Correspondent Ryan Chandler joins State Rep. James Talarico (D-Texas) on a campaign trip to his state's border districts, where he hopes to win over voters with his new border security plan.",
           "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837",
-          "publishedAt": "2026-07-23T20:30:39.000Z",
+          "url": "https://www.nbcnews.com/meet-the-press/video/james-talarico-unveils-border-policy-plan-for-tx-senate-bid-saying-both-parties-have-failed-us-267245637545",
+          "publishedAt": "2026-07-24T20:51:18.000Z",
           "sentiment": 0
         },
         {
-          "id": "d70f7101a2c4f534755e387d1ba700448c38edcd51049aa60cf5906f9646f2da",
-          "title": "Abortion May Be The Deciding Issue In The Push To Oust Susan Collins",
-          "description": "Democrats have targeted Susan Collins for her role in the fall of Roe — but their choice of opponent could complicate matters.",
-          "sourceName": "Huffpost",
-          "url": "https://www.huffpost.com/entry/abortion-may-be-the-deciding-issue-in-the-push-to-oust-susan-collins_n_6a62527ee4b077d95ae9369e",
-          "publishedAt": "2026-07-23T18:34:23.000Z",
+          "id": "5d3aacaf4f4a0126ba75d66d9f3067c4ebc16a31afb4b858a09f4c253056effe",
+          "title": "Trump says U.S. 'locked and loaded' to attack Iran as concerns grow over rising costs at home",
+          "description": "NBC’s Monica Alba, Brian Cheung, Courtney Kube and Richard Engel share their latest reporting on new strikes in Iran and the economic impact of a growing war. Retired Vice Admiral Kevin Donegan reacts to the president’s comments, saying he sees a “potential path to escalation\" in Iran.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/meet-the-press/video/trump-says-u-s-locked-and-loaded-to-attack-iran-as-concerns-grow-over-rising-costs-at-home-267244101960",
+          "publishedAt": "2026-07-24T20:33:49.000Z",
+          "sentiment": -0.1
+        },
+        {
+          "id": "790d9dc55efeef2ca38ddfa4450933ef1b8703f55ea47bd1a4dbb609b4f87de9",
+          "title": "A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement",
+          "description": "Exit of populist progressive marred by sexual assault allegations has left some Jewish Democrats relieved, but positions on Israel of likely replacement Troy Jackson are seen as largely similar The post A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement appeared first on The Times of Israel .",
+          "sourceName": "The Times Of Israel",
+          "url": "https://www.timesofisrael.com/a-community-divided-maines-jewish-democrats-gear-up-for-platners-replacement/",
+          "publishedAt": "2026-07-24T17:57:34.000Z",
           "sentiment": 0
         },
         {
-          "id": "5802d8c1fc207e4078632f6d3129fa0d36f10082a8a3e3e879a38e3f3eb3ed3e",
-          "title": "Susan Collins dismisses Troy Jackson as a ‘Bernie Bro’",
-          "description": "\"He was ... lead for Senator Sanders' presidential campaign in Maine. He's a Bernie bro.”",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/23/politics/elections/maine-election-senate-susan-collins-troy-jackon-bernie-bro/",
-          "publishedAt": "2026-07-23T17:47:59.000Z",
+          "id": "d44ba64be8a9c7ec99fb0c007ea9d278ccc11929f255b0ded6806b3b95ca8103",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Ksnv",
+          "url": "https://news3lv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:13.000Z",
           "sentiment": 0
         },
         {
-          "id": "0f7e259cc92059bbfa7d9c86d79330a1e45a53e61a8c7e29b14e8cf9dc37b4f9",
-          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
-          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
+          "id": "8c44496dba8406ce822df24f7588f689b2729dc60922cd6f6084277ddeb64451",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Wgxa",
+          "url": "https://wgxa.tv/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7f0d177f950e438e22a6081c95158cdaf992286de7d081cee9dfb4c068552deb",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Katv",
+          "url": "https://katv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7658978f7c42f2dd238ca51076df0077ee0de874354bdcfb7cd68aa9f4c0792e",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Ktul",
+          "url": "https://ktul.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "73ac802eb098fc44db084265c5afcc423c052795441e3ac7376188da843a0cf3",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Wtvc",
+          "url": "https://newschannel9.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:00:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c5e8b6912f024f43d5840d0d9d465e50105fa4ac5f437a31f98476113387c0ad",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Kutv",
+          "url": "https://kutv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:00:57.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d6507abd144989e1189bfcc28dc44d5998a8871c84317ca150133d39809c73fe",
+          "title": "Why I left the Senate race and got behind Troy Jackson | Jordan Wood",
+          "description": "Maine Democrats voted for a fighter in Graham Platner. My friend is the candidate to carry that movement forward.",
           "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
-          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "url": "https://www.sunjournal.com/2026/07/24/why-i-left-the-senate-race-and-got-behind-troy-jackson-opinion/",
+          "publishedAt": "2026-07-24T16:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "797880b4b5d33725efa6d5471abec8e723d1d13c7d13f7e53e3602e3e9b4773f",
-          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
-          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
+          "id": "42748473def605e36cca99d0113eb597a6f5654cf2003a5307b892eeb9ff12ac",
+          "title": "Why I left the Senate race and got behind Troy Jackson | Jordan Wood",
+          "description": "Maine Democrats voted for a fighter in Graham Platner. My friend is the candidate to carry that movement forward.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
-          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "url": "https://www.pressherald.com/2026/07/24/why-i-left-the-senate-race-and-got-behind-troy-jackson-opinion/",
+          "publishedAt": "2026-07-24T16:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "d86015d4bdc98debf04bf9ac0ab8079a393a0394a66860889b22b7c6123f8b71",
-          "title": "Who’s the Most Concerned About Maine?",
-          "description": "Troy Jackson steps out of Graham Platner’s shadow to take on Susan Collins in November. The post Who’s the Most Concerned About Maine? appeared first on The American Prospect .",
-          "sourceName": "The American Prospect",
-          "url": "https://prospect.org/2026/07/23/whos-the-most-concerned-about-maine/",
-          "publishedAt": "2026-07-23T15:12:41.000Z",
+          "id": "246da72bf1f26321c29120f8517491128062e4c6d6dc74dfac055f774f5c9ea3",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Troy Record",
+          "url": "https://www.troyrecord.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
           "sentiment": 0
         },
         {
-          "id": "01e134190bc7cad4df20e1a30622d0de43fc588338e9f34ca13a50d94f343fb9",
-          "title": "How Troy Jackson went from an anti-abortion Republican to the Democrats’ hope for defeating Susan Collins",
-          "description": "Troy Jackson is on the verge of replacing Graham Platner as the Democratic nominee for Senate in Maine after harnessing the enthusiasm of former Platner supp...",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/articles/troy-jackson-went-anti-abortion-090025509.html",
-          "publishedAt": "2026-07-23T14:30:09.000Z",
+          "id": "10a76167810bf5c654d33b68ab32e5bc6b15a6d3d2e2216ec15ce5338a1f062d",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Canon City Daily Record",
+          "url": "https://www.canoncitydailyrecord.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "37b5372e85c701fab89407dbb8554df3b3062c7133c78d07a85b2bbca39de6c5",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "94247f1ff2de216bcf128397bc0e0e77a1ce6c63b6e2b3ddcd2c1faa7e7787c4",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
           "sentiment": 0
         }
       ],
@@ -122,68 +194,185 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.3416666666666666,
-      "newsSentiment": -0.016666666666666666,
+      "overallSentiment": 0.24473684210526314,
+      "newsSentiment": -0.21052631578947367,
       "socialSentiment": 0.7,
       "mentions": {
-        "news": 6,
+        "news": 19,
         "social": 2,
         "youtube": 0,
-        "total": 8
+        "total": 21
       },
       "news": [
         {
-          "id": "414bb97ad91d61bf0375fb43acd553b80f316f0e42a29120a22c67fa89507c15",
-          "title": "Maine faith leaders call for end to ICE violence",
-          "description": "SOUTH PORTLAND (WGME) — Faith leaders in Maine called for an end to violence involving ICE agents Thursday in South Portland. The leaders worked with clergy from Minnesota, Texas and Florida, issuing a call for accountability for ICE and an end to the killing. Faith leaders in Maine called for an end to violence involving [...] The post Maine faith leaders call for end to ICE violence appeared first on News Pub . The post Maine faith leaders call for end to ICE violence appeared first on News Pub .",
+          "id": "43b951f61aa20cc2b279ca9a6ae58e24d1ad0db6626a13f0de41a9fede01a281",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community",
+          "description": "While some Jewish Mainers questioned Jackson’s recent rhetoric on Israel, others said his long record in local government offered some assurances.",
+          "sourceName": "Jpost",
+          "url": "https://www.jpost.com/diaspora/antisemitism/article-903590",
+          "publishedAt": "2026-07-25T01:03:27.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "c3df2d046173757b3ac4f4869c7c697b94d7511cf8f795d6cc0ab868a5438dda",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community – Jewish Telegraphic Agency",
+          "description": "BANGOR, Maine – Throughout his two-decade-long career as a state lawmaker in Maine, Troy Jackson built his political brand around labor and economic issues. But as the former logger and state Senate president now seeks a seat in the U.S. Senate, Jackson has begun staking out positions on something new — Israel. Facing one of [...] The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community – Jewish Telegraphic Agency appeared first on News Pub . The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community – Jewish Telegraphic Agency appeared first on News Pub .",
           "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/maine-faith-leaders-call-for-end-to-ice-violence/",
-          "publishedAt": "2026-07-23T23:51:07.000Z",
-          "sentiment": -0.1
+          "url": "https://newspub.live/northeast/maine/maine-democratic-senate-nominee-in-waiting-troy-jackson-raises-eyebrows-in-the-jewish-community-jewish-telegraphic-agency/",
+          "publishedAt": "2026-07-25T00:03:07.000Z",
+          "sentiment": -1
         },
         {
-          "id": "eb818b118ac9be9ea79f22fe793ac91d5543c051c183bbbf70a0e26b6bd40533",
-          "title": "What to Know About Troy Jackson, Democrats’ Likely Pick to Take on Sen. Susan Collins in Maine",
-          "description": "Then-Maine candidate for Governor Troy Jackson speaks during a May Day rally organized by local unions, on May 1, 2026 outside City Hall in Portland, Maine. (Graeme Sloan/Getty Images)",
-          "sourceName": "The Epoch Times",
-          "url": "https://www.theepochtimes.com/us/what-to-know-about-troy-jackson-democrats-likely-pick-to-take-on-sen-susan-collins-in-maine-6066107",
-          "publishedAt": "2026-07-23T22:40:48.000Z",
+          "id": "bd9670a3e3fbfadeccc903865c0c65ccd0afca742714569f101714fb8c9190ba",
+          "title": "Letter: Shenna Bellows in right place protecting Maine",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4790339225439-letter-shenna-bellows-in-right-place-protecting-maine",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "3391220a99367945367e544302307a9b1d6c3adf86ffd90f9b18bb51393cc4ce",
+          "title": "A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement",
+          "description": "The state of Maine has roughly 19,000 Jews across 10,600 households, with the population highly concentrated in and around Portland.",
+          "sourceName": "Jpost",
+          "url": "https://www.jpost.com/diaspora/antisemitism/article-903583",
+          "publishedAt": "2026-07-24T22:32:44.000Z",
           "sentiment": 0
         },
         {
-          "id": "86f276893f98c1e98c7a25ff9bd4b6897a0d592073775208d7c4d72add2dd76e",
-          "title": "Susan Collins dismisses Troy Jackson as a ‘Bernie Bro’",
-          "description": "\"He was ... lead for Senator Sanders' presidential campaign in Maine. He's a Bernie bro.”",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/23/politics/elections/maine-election-senate-susan-collins-troy-jackon-bernie-bro/",
-          "publishedAt": "2026-07-23T17:47:59.000Z",
+          "id": "a284474dfe88eafe653c0aca0e041f3f3e846966916ad4a2cb902b40bea2c057",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community",
+          "description": "After a career focused on economic issues, the former state Senate president is now railing against AIPAC and ‘genocide.’ -- The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community appeared first on Jewish Telegraphic Agency .",
+          "sourceName": "Jewish Telegraphic Agency",
+          "url": "https://www.jta.org/2026/07/24/politics/maine-democratic-senate-nominee-in-waiting-troy-jackson-raises-eyebrows-in-the-jewish-community",
+          "publishedAt": "2026-07-24T22:31:09.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "bc9cd03a7317e49d4d76ac389d08583bb229fd4153926db8db9ec9f9ede9bc4b",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community",
+          "description": "BANGOR, Maine – All through his two-decade-long profession as a state lawmaker in Maine, Troy Jackson constructed his political model round labor and financial points. However as the previous logger and state Senate president now seeks a seat within the U.S. Senate, Jackson has begun staking out positions on one thing new — Israel. Going [...] The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community appeared first on Asia Today .",
+          "sourceName": "Asia Today",
+          "url": "https://asiatoday.co/2026/07/25/maine-democratic-senate-nominee-in-waiting-troy-jackson-raises-eyebrows-in-the-jewish-community/",
+          "publishedAt": "2026-07-24T22:31:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "d89a6cd39be5d2c75035a3ea89ef41d35e97f8950c0a9c83a6a116fb6c2e7b6c",
+          "title": "A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement",
+          "description": "Exit of populist progressive marred by sexual assault allegations has left some Jewish Democrats relieved, but positions on Israel of likely replacement Troy Jackson are seen as largely similar The post A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement appeared first on The Times of Israel .",
+          "sourceName": "The Times Of Israel",
+          "url": "https://www.timesofisrael.com/a-community-divided-maines-jewish-democrats-gear-up-for-platners-replacement/",
+          "publishedAt": "2026-07-24T17:57:34.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "f3cf853fa442b751f88d3cdfea0e5ad73298a0237fad86e5c33171b8fb65a3ef",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Ksnv",
+          "url": "https://news3lv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:13.000Z",
           "sentiment": 0
         },
         {
-          "id": "4fad63e08692f0a29e94c26473b1d0a28a01d1471594e2155ed1c8997aba17de",
-          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
-          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
+          "id": "c4426e564fc70f2c05a8ed2046b430e4d0b6fd2a515ae688567f470eb05936dc",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Wgxa",
+          "url": "https://wgxa.tv/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d66a6d1158b400dc756e37086848e1b59fa8b76d408e34e86501f53387a4842f",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Katv",
+          "url": "https://katv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d96f996ecfe7fa1f054cabd2e0401be7f28c9cec21792e14f9dcc1d99722a12c",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Ktul",
+          "url": "https://ktul.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d4baadf6095fcce8f364f9dee362f842c3d71866e18735f7bf45c4df6f5ccba7",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Wtvc",
+          "url": "https://newschannel9.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:00:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fa52fb32ee8a8da3e456444a02937a7c42d78ee2f3ddee22cb8d332c0560e98f",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Kutv",
+          "url": "https://kutv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:00:57.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0e1c8456eafe85ac5327330bc37c648d3bb89ba6aef20f43a80211b26ea9a728",
+          "title": "Why I left the Senate race and got behind Troy Jackson | Jordan Wood",
+          "description": "Maine Democrats voted for a fighter in Graham Platner. My friend is the candidate to carry that movement forward.",
           "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
-          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "url": "https://www.sunjournal.com/2026/07/24/why-i-left-the-senate-race-and-got-behind-troy-jackson-opinion/",
+          "publishedAt": "2026-07-24T16:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "86a87d2dadd8347b42b5547861ace64db914da690cbabc309bda33bd36f448af",
-          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
-          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
+          "id": "b3c7467a5840617c2e80cf393a78c97d792c66667fc4e4c889db0ff844721fe8",
+          "title": "Why I left the Senate race and got behind Troy Jackson | Jordan Wood",
+          "description": "Maine Democrats voted for a fighter in Graham Platner. My friend is the candidate to carry that movement forward.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
-          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "url": "https://www.pressherald.com/2026/07/24/why-i-left-the-senate-race-and-got-behind-troy-jackson-opinion/",
+          "publishedAt": "2026-07-24T16:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "002bd802930feb9e00b0c5a3da4c581b2ca1adecff7881e6a55c44ad02e4abaa",
-          "title": "Who’s the Most Concerned About Maine?",
-          "description": "Troy Jackson steps out of Graham Platner’s shadow to take on Susan Collins in November. The post Who’s the Most Concerned About Maine? appeared first on The American Prospect .",
-          "sourceName": "The American Prospect",
-          "url": "https://prospect.org/2026/07/23/whos-the-most-concerned-about-maine/",
-          "publishedAt": "2026-07-23T15:12:41.000Z",
+          "id": "6f93ae75b5a25c88c99a42e4a69bf0bafe7c14dd7afbbbe4ac7cb7258c0f4f6c",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Troy Record",
+          "url": "https://www.troyrecord.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "827521cab0b6f2138a4a34f3cd10f1d604caf4818fb059096ead32d0a298517b",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Canon City Daily Record",
+          "url": "https://www.canoncitydailyrecord.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1cddeac0cfd104a264715d93076015955fd6d1faeeed313318880437cc9a3f4c",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ff2c2edd4652fb4b1b1fa3c088266455d74ed3a113eaadbee9fbcbc2ccbe4d5b",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
           "sentiment": 0
         }
       ],
@@ -211,222 +400,1176 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.09314132213608957,
-      "newsSentiment": 0,
+      "overallSentiment": 0.09598369939707148,
+      "newsSentiment": 0.008527131782945733,
       "socialSentiment": 0.16032674418604653,
       "mentions": {
-        "news": 23,
+        "news": 129,
         "social": 174,
         "youtube": 144,
-        "total": 341
+        "total": 447
       },
       "news": [
         {
-          "id": "6ec3b51da81b1f6054c68a14d3bd2a8bd9d7752fce98a341fb9f8503a9b5d58f",
-          "title": "David Costello announces exit from US Senate race",
-          "description": "David Costello exits the U.S. Senate race to support Troy Jackson, citing no viable path forward based on delegate makeup.",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/david-costello-announces-exit-from-us-senate-race/97-d30c3477-6be0-4877-9062-1680d3e18afe",
-          "publishedAt": "2026-07-24T01:25:13.000Z",
-          "sentiment": 1
+          "id": "7991471ff245caafee83c3f3269c6b1c2c2d4f1127047648624b3053c468dd06",
+          "title": "‘Disorienting’: Maine Democrats race to bolster new candidate in must-win race",
+          "description": "Democrats plan to appoint a new nominee in Maine after Graham Platner's dramatic exit. Troy Jackson is now expected to formally secure the nomination and will have little time to to hit the trail and convince voters. Jeff Zeleny reports on OutFront.",
+          "sourceName": "Cnn",
+          "url": "https://www.cnn.com/2026/07/24/politics/video/ebof-jeff-zeleny-troy-jackson-maine-senate",
+          "publishedAt": "2026-07-25T01:04:46.000Z",
+          "sentiment": -0.1
         },
         {
-          "id": "2d6fe730e8a053014322a9434804d606ec13348d73575d0c30483090b2800b03",
-          "title": "Troy Jackson has almost clear path to Maine Democratic Party US Senate nomination",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4788414803312-troy-jackson-has-almost-clear-path-to-maine-democratic-party-us-senate-nomination",
-          "publishedAt": "2026-07-24T00:00:00.000Z",
-          "sentiment": 1
+          "id": "54444bb7dee836ddf70d1ba1e7a635d55542c94a865c2d002497a3825becc2a0",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community",
+          "description": "While some Jewish Mainers questioned Jackson’s recent rhetoric on Israel, others said his long record in local government offered some assurances.",
+          "sourceName": "Jpost",
+          "url": "https://www.jpost.com/diaspora/antisemitism/article-903590",
+          "publishedAt": "2026-07-25T01:03:27.000Z",
+          "sentiment": -0.2
         },
         {
-          "id": "e05beefd4e6beed735090d11f4369aeb702e80ecc3c693e50614d4ada4334c38",
-          "title": "Troy Jackson predicted Donald Trump’s trade appeal. Now he’s fighting tariffs.",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4788381076330-troy-jackson-predicted-donald-trump-s-trade-appeal-now-he-s-fighting-tariffs",
-          "publishedAt": "2026-07-24T00:00:00.000Z",
-          "sentiment": 0.5
+          "id": "2b9387f578ad03acbfa9fd47cb6f316383f3a250a80d50bd8c05dea4b98ed369",
+          "title": "Cal Thomas - Troy Jackson is Graham Platner lite",
+          "description": "Troy Jackson, the Maine Democratic Party prospective nominee for the Senate, is Graham Platner lite. Platner withdrew from the race to face incumbent Republican Susan Collins following allegations that he sexually assaulted two women, charges he has denied. At least...",
+          "sourceName": "Crescent-news",
+          "url": "https://www.crescent-news.com/opinion/opinion_columnists/cal-thomas---troy-jackson-is-graham-platner-lite/article_23cf344e-9d78-4aa7-8ec2-aeae063c2cfc.html",
+          "publishedAt": "2026-07-25T01:00:00.000Z",
+          "sentiment": -0.3
         },
         {
-          "id": "bfd35618e97fb36511759d28a9905187010475767867e5bcec13aa614cf190d0",
-          "title": "Maine faith leaders call for end to ICE violence",
-          "description": "SOUTH PORTLAND (WGME) — Faith leaders in Maine called for an end to violence involving ICE agents Thursday in South Portland. The leaders worked with clergy from Minnesota, Texas and Florida, issuing a call for accountability for ICE and an end to the killing. Faith leaders in Maine called for an end to violence involving [...] The post Maine faith leaders call for end to ICE violence appeared first on News Pub . The post Maine faith leaders call for end to ICE violence appeared first on News Pub .",
+          "id": "276b96b365e87ddecf145f3c88ab1ef0d1f15b161bde90bb78d00a7ce0640988",
+          "title": "Maui Raiders fan gets surprise of a lifetime for 40th birthday",
+          "description": "HONOLULU (HawaiiNewsNow) – A Maui man got the surprise of a lifetime for his 40th birthday, thanks to his favorite football team. Nathan Rosberg is heading to Las Vegas to watch the Raiders play the San Francisco 49ers on Aug. 27. It will be his first time in Las Vegas and his first time attending [...] The post Maui Raiders fan gets surprise of a lifetime for 40th birthday appeared first on News Pub . The post Maui Raiders fan gets surprise of a lifetime for 40th birthday appeared first on News Pub .",
           "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/maine-faith-leaders-call-for-end-to-ice-violence/",
-          "publishedAt": "2026-07-23T23:51:07.000Z",
+          "url": "https://newspub.live/west/hawaii/maui-raiders-fan-gets-surprise-of-a-lifetime-for-40th-birthday/",
+          "publishedAt": "2026-07-25T00:51:06.000Z",
           "sentiment": 0
         },
         {
-          "id": "a933cc06d8f9e8d9ffa7c30ac39c916de488c4275ae9fd8f066a9b4fdb0078b7",
-          "title": "What to Know About Troy Jackson, Democrats’ Likely Pick to Take on Sen. Susan Collins in Maine",
-          "description": "Then-Maine candidate for Governor Troy Jackson speaks during a May Day rally organized by local unions, on May 1, 2026 outside City Hall in Portland, Maine. (Graeme Sloan/Getty Images)",
-          "sourceName": "The Epoch Times",
-          "url": "https://www.theepochtimes.com/us/what-to-know-about-troy-jackson-democrats-likely-pick-to-take-on-sen-susan-collins-in-maine-6066107",
-          "publishedAt": "2026-07-23T22:40:48.000Z",
+          "id": "fbc9070e31186f2edfe0b7ebc0a29eb88d85822cfbf99869c6544914972f3308",
+          "title": "Illinois sanctuary policy frees illegal immigrant gang member after gun bust | Fox News Video",
+          "description": "Fox News correspondent Garrett Tenney reports on alleged illegal immigrant gang member Jose Vasquez Hernandez, who was released from a Cook County, Ill. jail after allegedly selling guns to an undercover ATF agent on ‘America Reports.’ Fox News correspondent Garrett Tenney reports on a case that has drawn criticism of Illinois’ sanctuary policies, with a [...] The post Illinois sanctuary policy frees illegal immigrant gang member after gun bust | Fox News Video appeared first on News Pub . The post Illinois sanctuary policy frees illegal immigrant gang member after gun bust | Fox News Video appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/midwest/illinois/illinois-sanctuary-policy-frees-illegal-immigrant-gang-member-after-gun-bust-fox-news-video/",
+          "publishedAt": "2026-07-25T00:39:06.000Z",
           "sentiment": 0
         },
         {
-          "id": "c1ecf91989510c262110753e9b1a03e4e76e67a21f2d788ff6b5e7f8c3a71d43",
-          "title": "David Shribman | The parting on the left",
-          "description": "FRYEBURG, Maine — Meet the new boss, same as the old boss. Except this one has a bad temper.",
-          "sourceName": "The Cumberland Times-news",
-          "url": "https://www.times-news.com/opinion/david-shribman-the-parting-on-the-left/article_9735257d-9001-4f80-9449-9e845d79940e.html",
-          "publishedAt": "2026-07-23T20:58:00.000Z",
-          "sentiment": -0.8
-        },
-        {
-          "id": "bd0d3fa89c93b144c4e48760e8b83cfa0553081c96e8b91b2e15c1c2855b0949",
-          "title": "People Keep Dying in ICE Custody. 13 Dems Back a Bill to Abolish the Agency.",
-          "description": "At least 53 people have died in ICE custody since President Donald Trump’s return to office.",
-          "sourceName": "Truthout",
-          "url": "https://truthout.org/articles/people-keep-dying-in-ice-custody-13-dems-back-a-bill-to-abolish-the-agency/",
-          "publishedAt": "2026-07-23T20:24:01.000Z",
+          "id": "b7682433d580c07d2b2961aa803d2e099f06c90c5012db8c44eb31aeb9e441df",
+          "title": "7 Best Towns In Iowa For A Two-Day Recharge",
+          "description": "Iowa keeps a slice of the Driftless region in its northeast corner, where the glaciers missed and left the cliffs standing. The small towns scattered through it run on rivers, lakes and prairie. Decorah sits in the heart of it and leans funky and outdoorsy. Others trade Dutch windmills or glacial lakes for the same [...] The post 7 Best Towns In Iowa For A Two-Day Recharge appeared first on News Pub . The post 7 Best Towns In Iowa For A Two-Day Recharge appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/midwest/iowa/7-best-towns-in-iowa-for-a-two-day-recharge/",
+          "publishedAt": "2026-07-25T00:27:07.000Z",
           "sentiment": 0
         },
         {
-          "id": "b1234e256ad5ff4e9a99991e451019f20c84cc8c82dd5b07f4161a6634112ef2",
-          "title": "Sarah Longwell and Alex Seitz-Wald: The Maine Thing",
-          "description": "In 2026, everyone who follows politics has an opinion about Maine politics.",
-          "sourceName": "Thebulwark",
-          "url": "https://www.thebulwark.com/p/sarah-longwell-and-alex-seitz-wald",
-          "publishedAt": "2026-07-23T19:37:41.000Z",
+          "id": "cabe6cc3201b33beaaf42b78e20ae4066d112a1ec73d20f7be6383b73c3459e1",
+          "title": "Kentucky farmers hope Congress acts on proposed hemp solution before November ban",
+          "description": "GEORGETOWN, Ky. (LEX NEWS) — A federal law set to take effect Nov. 12 will reclassify many legal hemp products as Schedule I controlled substances, effectively banning them and leaving Kentucky hemp farmers in financial limbo. Congress passed the measure to address concerns about children accessing intoxicating hemp products, but the law has already caused [...] The post Kentucky farmers hope Congress acts on proposed hemp solution before November ban appeared first on News Pub . The post Kentucky farmers hope Congress acts on proposed hemp solution before November ban appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/south/kentucky/kentucky-farmers-hope-congress-acts-on-proposed-hemp-solution-before-november-ban/",
+          "publishedAt": "2026-07-25T00:15:06.000Z",
           "sentiment": 0
         },
         {
-          "id": "6e8e5e9116614412e71899fe24c3d0c832469fbcf040569d63e4276ca4a51827",
-          "title": "Abortion May Be The Deciding Issue In The Push To Oust Susan Collins",
-          "description": "Democrats have targeted Susan Collins for her role in the fall of Roe — but their choice of opponent could complicate matters.",
-          "sourceName": "Huffpost",
-          "url": "https://www.huffpost.com/entry/abortion-may-be-the-deciding-issue-in-the-push-to-oust-susan-collins_n_6a62527ee4b077d95ae9369e",
-          "publishedAt": "2026-07-23T18:34:23.000Z",
+          "id": "c2dddd2d529601465a157d88ffa71385c66c202c4a9b2a5fef7329f1cee17488",
+          "title": "WWL Louisiana announces a new morning anchor amid lineup changes",
+          "description": "WWL Louisiana announced Friday that another familiar face will join Doug Mouton as anchor of WWL Louisiana Morning News. Weekend anchor and reporter Whitney Miller will join the local CBS affiliate’s morning show, a network spokesperson said. Her and Mouton’s first day on the morning desk will be Aug. 24. A Texas native, Miller is [...] The post WWL Louisiana announces a new morning anchor amid lineup changes appeared first on News Pub . The post WWL Louisiana announces a new morning anchor amid lineup changes appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/south/louisiana/wwl-louisiana-announces-a-new-morning-anchor-amid-lineup-changes/",
+          "publishedAt": "2026-07-25T00:09:07.000Z",
           "sentiment": 0
         },
         {
-          "id": "d9cca419a0c483eeab5fc991c1b23654d9e50655bacbc0d064e1f5db1dcac308",
-          "title": "Instead of Tariffs, Maybe Help Canada Put Out Wildfires?",
-          "description": "Editor’s Note: Welcome to The TNR Blue Book. It’s our new daily newsletter that covers Congress and much more, but with a distinctly TNR twist: Our focus will be strictly on Democrats, liberal and progressive groups, and the fight to take back power and save democracy. Every morning, you’ll get a rundown of late-breaking news, what Democrats on Capitol Hill are thinking, quick hits on what you need to know nationally, the latest on what’s coming out of the think tanks and activist groups, short interviews with progressive newsmakers and authors, and more (including some humor and political trivia!). There’s nothing else out there like it. Inside Washington Instead of tariffs, maybe help Canada put out wildfires? Democratic lawmakers don’t merely think Trump’s newly announced 50 percent tariffs on Canada are a bad idea from an economic standpoint. They also want to see the U.S. actively helping Canadians fight the Ontario wildfires currently sending smoke into the U.S., and fear for the future of the two countries’ relationship. Trump has told reporters that the tariffs he announced Monday aren’t in response to the wildfires, but the timing is highly suspicious. The announcement came just days after Trump said, “Maybe they should pay us some damages or something, or we should do some tariffs.” To some, the arbitrary nature of Trump’s decision is the biggest affront. “There’s no question that Trump thinks he’s a king and he can use these tariffs to execute whatever he wants,” said Senator Ron Wyden , who on Wednesday unveiled a bill to reassert congressional authority over tariffs. Others are worried about the economic impact in their own states. “Canada is a friend, one of our closest allies,” said Michigan Senator Gary Peters . “In Michigan, where we have close trading relations with Canadians, they’re a vital part of our economy, and it’s an important friendship.” Senator Tina Smith of Minnesota is similarly concerned about her home state. “Minnesota has a good relationship with Canada. Clearly, the hostile and reckless approach of the Trump administration towards Canada makes those relationships hard to maintain.” But beyond the typical condemnation of tariffs, several politicians are also suggesting that with wildfires in particular, the U.S. might be better served by collaborating more closely with its northern neighbor. Some would even like to see direct aid. “I was on a call this morning with Secretary [of Agriculture Brooke] Rollins and leaders from the Forest Service talking about the fires in northern Minnesota, and I know that the Forest Service and Canadian officials are working closely and well together. So I think at the operating level, the relationships continue to be effective,” Smith told me. On Saturday, Ontario Premier Doug Ford criticized the “short memory” of American politicians who have blamed Canada for Ontario’s wildfire smoke drifting southward. “We had the water bombers and everyone going over to California [last year],” he said. “That’s what neighbors do.” Californian Senator Alex Padilla hasn’t forgotten that. “They’re there for us in our time of need,” he said, “and we should be there for them.” —Emma Janssen Full-time workers increasingly need SNAP and Medicaid to make ends meet The number of Americans who rely on SNAP and Medicaid despite working full-time for major companies has shot up, according to a report the Government Accountability Office, or GAO, released Wednesday. The number of Amazon workers who receive anti-poverty benefits nearly tripled between February 2020 and September 2025, the report found. Gig-based companies like Uber, Lyft, Grubhub, Instacart, and DoorDash also employ high numbers of Medicaid and SNAP recipients, the report found, a major change from 2020. Meanwhile, Walmart was the top employer of Medicaid recipients in both 2020 and 2025. The report confirms what anti-poverty advocates have been saying for years: It’s becoming harder to be a working American, and working full-time does not guarantee financial security. It also shows that some of the country’s most successful companies don’t pay their workers a living wage, according to Senator Bernie Sanders , who requested the GAO produce the report. “American taxpayers should not be forced to subsidize the starvation wages of large corporations like Walmart and Amazon,” said Sanders in a statement. Between 2020 and 2025, Walmart increased its profits from nearly $15 billion to nearly $22 billion. Meanwhile, the number of Walmart employees relying on Medicaid in the 11 states sampled in the GAO report increased by 55 percent. Life has probably gotten harder for these employees in the months since the data was collected. This report comes just over a year after President Trump signed the One Big Beautiful Bill Act into law, implementing massive cuts to SNAP and Medicaid. SNAP participation is already down more than 4.5 million people , according to USDA data. The Center on Budget and Policy Priorities, a progressive think tank, estimates that up to 15 million people could lose their Medicaid coverage by 2034. Californian Senator Alex Padilla hasn’t forgotten that. “They’re there for us in our time of need,” he said, “and we should be there for them.” —Emma Janssen Outside Washington Canada “politely” withdraws party invites in response to Trump tariffs Americans have been “politely, but effectively, disinvited” from the opening ceremony on Friday for the new and long-awaited Gordie Howe International Bridge between Detroit and Windsor, Ontario, three sources tell the Detroit Free Press. The reason, Todd Spangler reports, is Trump ’s threat to slap 50 percent tariffs on Canada. Michigan Democratic Governor Gretchen Whitmer has publicly worried about the threat’s effect on the state’s economy, and the Trump administration already delayed the bridge’s opening last month by demanding that Canada give the United States half the bridge’s profits for the first 15 years—in addition to a debt-repayment arrangement that remains a little unclear. (The text of the deal was only released on Tuesday.) Tariffs are also a wild card in Maine’s Senate race, where Democrats have been frantically shoring up support for Troy Jackson to replace the scandal-a-day Graham Platner as Democratic nominee against Republican incumbent Susan Collins . Republican candidates in the state quickly distanced themselves from Trump on tariffs, with Collins disavowing her own party head to Politico on behalf of Maine’s lobsters and blueberries. (They’re “harvested in Maine, processed in Canada, and then come back,” said Collins.) Meanwhile, U.S. businesses obviously aren’t thrilled with the new chaos, and the American dairy and distilled spirits lobbies, representing industries Trump is allegedly protecting with these tariffs, have already voiced their displeasure . Elsewhere: The Massachusetts state Senate is considering a proposal to increase affordable housing by upzoning vast swaths of the state, ending single-family zoning in favor of allowing “duplexes by right.” At CalMatters, Jeanne Kuang examines Gavin Newsom’s intricate balancing act as he attempts to position himself as a populist candidate for 2028—an act that has included opposing a state billionaire tax while voicing support for a federal one. Progressives are skeptical, Kuang notes. —Heather Souvaine Horn The Ideas Factory The Century Foundation ’s Angela Hanks , Aissa Canchola Bañez , and Eduard Nilaj find that “rising energy debt is climbing into the middle class,” in part because “energy bills have increased three times faster than the rate of inflation while Trump has been president.” The Natural Resources Defense Council slams the Trump administration for “making climate science denial its official policy” and then threatening Canada with tariffs over Ontario wildfire smoke. “Some 180 million Americans were threatened last week by dangerous heat” in addition to the perilously poor air quality, senior attorney David Doniger writes in a memo, and widespread drought has contributed to “Colorado wheat farmers ... reporting their worst year in six decades; in Nebraska, it’s the worst in more than a century.” Resources for the Future ’s Brandon Holmes , Molly Robertson , Kevin Rennert , Keith J. Benes , Natalie Baillargeon , Juniper Katz , Robi Nilson , and Ben Hoen publish a new working paper analyzing solar and wind development, finding that “Texas’s renewable energy development often proceeds quickly when compared with projects on federal land and many state-level permitting processes.” Earlier this week, the Urban Institute ’s William J. Congdon , Elisabeth Jacobs , Amanda Briggs , Ryan Kelsey , Shayne Spaulding , Oluwasekemi Odumosu , and Julia Payne released an article outlining “Policy Priorities for an Inclusive AI Economy.” A few of their proposals: “use AI to match workers with jobs and employers with talent,” “update” labor regulations to address the risks of AI, “incorporate worker voice in AI design and implementation,” “improve policies and programs for displaced workers,” and “ensure gains in productivity and prosperity are widely shared.” So, basically a complete redesign of how the AI transition is currently going. —Heather Souvaine Horn In Closing $37.5 billion for Trump’s war on Iran? Something doesn’t add up ... Defense Secretary Pete Hegseth appeared before the Senate Appropriations Committee this week, saying the Pentagon has spent $37.5 billion bombing Iran so far, and needs another $67 billion, stat. Those numbers are a bit suspicious. Watch TNR’s Edie Olmsted get into the math. Political Trivia Question of the Day Who was the first Socialist Party member elected to the House of Representatives, and when, and where was he from? ( Sign up for The Blue Book to find the answer in tomorrow’s newsletter.)",
-          "sourceName": "The New Republic",
-          "url": "https://newrepublic.com/post/213439/tariffs-wildfires-canada-democrats",
-          "publishedAt": "2026-07-23T18:18:55.000Z",
-          "sentiment": 0
+          "id": "4e1f6e21fa8d5570d81362a443d9307d54a5bde9a00690012acd441a0109fc5d",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community – Jewish Telegraphic Agency",
+          "description": "BANGOR, Maine – Throughout his two-decade-long career as a state lawmaker in Maine, Troy Jackson built his political brand around labor and economic issues. But as the former logger and state Senate president now seeks a seat in the U.S. Senate, Jackson has begun staking out positions on something new — Israel. Facing one of [...] The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community – Jewish Telegraphic Agency appeared first on News Pub . The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community – Jewish Telegraphic Agency appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/northeast/maine/maine-democratic-senate-nominee-in-waiting-troy-jackson-raises-eyebrows-in-the-jewish-community-jewish-telegraphic-agency/",
+          "publishedAt": "2026-07-25T00:03:07.000Z",
+          "sentiment": -0.1
         },
         {
-          "id": "99280c647a85829d39fb6b84353161d8ce756d488b8f7e70e1156a413d3a7a5b",
-          "title": "Actually, Susan Collins didn’t win in a landslide in 2020 | Steve Collins",
-          "description": "Misleading stats make it seem like Sen. Collins was more popular during her last campaign than she was.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/07/23/actually-susan-collins-didnt-win-in-a-landslide-in-2020-steve-collins/",
-          "publishedAt": "2026-07-23T18:00:00.000Z",
-          "sentiment": 0
+          "id": "7a3ee37bb5ccb01edefa80b50d1c2e23a85a5b906eda5122170893e1e5ef69aa",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Connecticut Public",
+          "url": "https://www.ctpublic.org/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
         },
         {
-          "id": "d05d0c044ab6c36f4968eca36015d488fcd68e342321381814f987dfac2aea47",
-          "title": "Actually, Susan Collins didn’t win in a landslide in 2020 | Steve Collins",
-          "description": "Misleading stats make it seem like Sen. Collins was more popular during her last campaign than she was.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/23/actually-susan-collins-didnt-win-in-a-landslide-in-2020-steve-collins/",
-          "publishedAt": "2026-07-23T18:00:00.000Z",
-          "sentiment": 0
+          "id": "b085ad8874e667c0b9086d10244f8c134296cbbd319544ee5cb6f3d7435234ac",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Wsiu Public Broadcasting",
+          "url": "https://www.wsiu.org/politics-elections/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
         },
         {
-          "id": "5a29fe68326237e16aef82a81fd15df6265bf0d8a491d8982b28c12998e4487b",
-          "title": "Jon Ossoff's chances of beating Mike Collins in GeorgiaâNew poll",
+          "id": "276698ed2e3f438ed4706fbc3f0d01127cdf5aa3c4cf527d85604f7b7a2175c3",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Michigan Public",
+          "url": "https://www.michiganpublic.org/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "75f44a2babab083a0209bd2de23da099dbd06689a9b9637b4544f845f140e923",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Nevada Public Radio | Npr And Local News In Las Ve",
+          "url": "https://knpr.org/npr/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "cef81065d9081fc30c89bb059a90c236c1b45ab474862eadefe747bb94766ffe",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Wlrn",
+          "url": "https://www.wlrn.org/national-politics/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "040f4310bd26c0faeb93395455f93e4d9b66ca47c8fd3abe36206085da9cafa3",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Ideastream Public Media",
+          "url": "https://www.ideastream.org/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "75a0c288f333b852a0ffdccbbc1d9b91d9ef50d4657ecba6e7697aac8817a1ed",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Iowa Public Radio",
+          "url": "https://www.iowapublicradio.org/news-from-npr/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "0d9e2ba8ae12712382054eac71a3eb60bcccbaddcde897f4c6dc3aaf9d8d88a2",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Stlpr",
+          "url": "https://www.stlpr.org/npr/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "92f54cfb7dd84d9a536e9aabfb65655476c306f90d5dbe05518cf5b2fb78fffd",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Kyuk Public Radio",
+          "url": "https://www.kyuk.org/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "c53c857ad114ba0356e6aead247d2cc8b1df7d7f6c6a87d7198a732635c2ecc4",
+          "title": "GOP Rep Says Troy Jackson May Not Qualify for Maine Senate Nomination",
           "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/jon-ossoffs-chances-of-beating-mike-collins-in-georgianew-poll-605798B0-FCE1-4022-9FDF-EE57B09A48B4",
-          "publishedAt": "2026-07-23T17:53:55.000Z",
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4790235653539-gop-rep-says-troy-jackson-may-not-qualify-for-maine-senate-nomination",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "2a957fd40467af3b60d7198fc7c1a746c7db0156dc09f7558dea0fa615c59679",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Kbia",
+          "url": "https://www.kbia.org/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "e11a8659ab1e8a186dffc1134e89a8c4ea6cfd7b439cfa8d055cf07671bb8f3a",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/npr-news/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "4a2d0caff8e5a93d9c2670b7a1baa4f3f9f7751628fa8ecfe74743183f1b767d",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Wskg",
+          "url": "https://www.wskg.org/npr-news/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "b37ce927b8cce98a1733d135d84df7479a04e591bc0e1b356b6b3a8f4c19619d",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Wfdd Public Radio",
+          "url": "https://www.wfdd.org/national/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "6da44fcec105713a32af452188446d62bb02547182002a27735fa8aa1f090869",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Wrvo Public Media",
+          "url": "https://www.wrvo.org/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "c477c41ff92a7516a541661f5bf8bae08e593242b9af1b85910529e8721a6c54",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Wfae 90.7",
+          "url": "https://www.wfae.org/united-states-world/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "f21b52e2bbff6f364ddf018e583433160e811c292c8f5ad49f1968d33cec7569",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Wamc Northeast Public Radio",
+          "url": "https://www.wamc.org/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": -0.1
+        },
+        {
+          "id": "1aa405d4a0f4fa79ef605ca38288778d00d427a582fbf14a2192770a1977163c",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Wuga | University Of Georgia | Your Oasis For Idea",
+          "url": "https://www.wuga.org/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": -0.1
+        },
+        {
+          "id": "49c5915b21c16da2a686a81a42a6c02c3a648df0fef769dd3d38a8a7b37dc5d3",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+          "description": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "sourceName": "Wunc",
+          "url": "https://www.wunc.org/2026-07-25/democrats-in-maine-gather-to-replace-graham-platner-in-the-race-against-susan-collins",
+          "publishedAt": "2026-07-25T00:00:00.000Z",
+          "sentiment": -0.1
+        },
+        {
+          "id": "6ca8f1ca608da439fdef9c789d40f1b91e7748d514220deb26497967e8bef3f9",
+          "title": "Honduran man sentenced in Maryland murder-for-hire, cocaine case",
+          "description": "MARYLAND (WBFF) — An undocumented Honduran man was sentenced Friday to over a decade in prison for attempted murder for hire, according to the U.S. Attorney’s Office of Maryland. Frelin Hernandez Guardado, 30, was sentenced to 12 years for possession with intent to distribute cocaine, possession of a firearm by a prohibited person, and murder [...] The post Honduran man sentenced in Maryland murder-for-hire, cocaine case appeared first on News Pub . The post Honduran man sentenced in Maryland murder-for-hire, cocaine case appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/south/maryland/honduran-man-sentenced-in-maryland-murder-for-hire-cocaine-case/",
+          "publishedAt": "2026-07-24T23:57:06.000Z",
           "sentiment": 0
         },
         {
-          "id": "a10e1ac48d73c4be848d1c26077e5ef5f29c40c481a976da94de9a9afacb62b0",
-          "title": "Susan Collins dismisses Troy Jackson as a ‘Bernie Bro’",
-          "description": "\"He was ... lead for Senator Sanders' presidential campaign in Maine. He's a Bernie bro.”",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/23/politics/elections/maine-election-senate-susan-collins-troy-jackon-bernie-bro/",
-          "publishedAt": "2026-07-23T17:47:59.000Z",
-          "sentiment": -0.7
-        },
-        {
-          "id": "111e6349c9bc428990274fc32ec1202434834caaea91d30767a852fc54275212",
-          "title": "At the Races: Seeing blue in Georgia",
-          "description": "Welcome to At the Races! Each week we bring you news and analysis from the CQ Roll Call campaign team. Know someone who’d like to get this newsletter? They can subscribe here. By Daniela Altimari and Mary Ellen McIntire A new poll of one of the most consequential Senate races on the midterm map found Georgia Democratic [...]",
-          "sourceName": "Roll Call",
-          "url": "https://rollcall.com/2026/07/23/at-the-races-seeing-blue-in-georgia/",
-          "publishedAt": "2026-07-23T16:10:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7032d6e5727ece3160fe912d2f476588a335b7654a03ccdd477ed7774328d947",
-          "title": "DSA endorsement tracker: Here are the socialists running for office across America",
-          "description": "The Democratic Socialists of America topped 120,000 members as the United States celebrated its 250th Independence Day.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/4657182/dsa-endorsement-tracker-socialists-running-for-office-across-america/",
-          "publishedAt": "2026-07-23T16:06:58.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "58882895093fdfbac2b3132a13912c280c2eb75aacdf90db302ad7b67da3e9e3",
-          "title": "Susan Collins reels as Trump blows up Maine victory lap: analyst",
-          "description": "Sen. Susan Collins (R-ME) has been plunged into a new nightmare as President Donald Trump demolished an effort to escape having his Immigration and Customs Enforcement brutality tied to her, reported The New Republic. Collins has been immersed in Trump's policies after a killing in Biddeford, Maine, in which ICE agents boxed in a vehicle and shot Johan Sebastián Durán Guerrero, a Colombian immigrant described as a devoted father who was in the country legally. His three-year-old daughter was seen crying at the scene. The dead man reportedly wasn't ICE's intended target, and the agent who fired, David Brouillette, has been described by relatives as violent and mentally unstable, even allegedly threatening violence against his ex-wife . Collins denounced the killing — but after she backed a $70 billion new slush fund for ICE and \" opposed an amendment, offered by Democratic Senator Alex Padilla, that would have required ICE agents to wear active body cameras on duty and made footage available to Congress,\" the New Republic reported. That \"could now create bigger problems for Collins\" as the agents involved in the shooting weren't wearing cameras, according to the report. Meanwhile, Collins tried to claim credit for a cooling down of tensions. But just hours after she publicly credited herself with getting Trump's Homeland Security Secretary Markwayne Mullin to halt ICE vehicle stops following a deadly shooting in Maine, Trump blew up her victory lap entirely — ordering the stops to resume immediately. Polls show Collins is in a tie with Democratic Party challenger Troy Jackson. With Trump publicly overriding the very policy Collins claimed to have won, her attempt to appear tough on ICE may end up making her look powerless instead, the report concluded: \"The violence and the terror are the point . Broadcasting that ugly fact far and wide matters a whole lot more to Trump than Collins’s political survival does. \"And in the end, there’s always this: She just voted to fund a whole lot more of it.\"",
-          "sourceName": "Raw Story",
-          "url": "https://www.rawstory.com/trump-susan-collins-2677261914/",
-          "publishedAt": "2026-07-23T16:05:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9d2d005f96dec9f7b38fa77555d0e0a32628be0dd6f36f9e27af1b9395a08fef",
-          "title": "Politics Panel: What is ICE doing in Maine?",
-          "description": "Opinion editor Jim Dao talks to Abdallah Fayyad and Joan Vennochi about Maine, Iran, and bike safety in Boston.",
-          "sourceName": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/07/23/opinion/ice-maine-bike-lanes-say-more-podcast/",
-          "publishedAt": "2026-07-23T16:04:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0bdcac275552bd31cbdaaf6e4a811b5a711b73cb2bbc71576e34e75eb3feecba",
-          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
-          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
-          "publishedAt": "2026-07-23T16:00:00.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "f1c9fbd759bbd357edf7867ac5b8dc25c84b724c0e362c6f8181f1e9d24c4dc4",
-          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
-          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
-          "publishedAt": "2026-07-23T16:00:00.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "37fc43a4e6d149fb2edbb998ba6310ca9f859b956d68d755aef08766a42afa5d",
-          "title": "Who’s the Most Concerned About Maine?",
-          "description": "Troy Jackson steps out of Graham Platner’s shadow to take on Susan Collins in November. The post Who’s the Most Concerned About Maine? appeared first on The American Prospect .",
-          "sourceName": "The American Prospect",
-          "url": "https://prospect.org/2026/07/23/whos-the-most-concerned-about-maine/",
-          "publishedAt": "2026-07-23T15:12:41.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "ef76cffa93d7502861e28ae74c8cce0321819229abafe8ec8fd76b8828386dd5",
-          "title": "Cal Thomas: Troy Jackson is Graham Platner lite",
-          "description": "Troy Jackson, the Maine Democratic Party prospective nominee for the Senate, is Graham Platner lite. Platner withdrew from the race to face incumbent Republican Susan Collins following allegations that he sexually assaulted two women, charges he has denied. At least Platner was consistent in his Democrat Socialist of America (DSA) views. Jackson resembles a flip-flopping fish out of water.",
-          "sourceName": "Home | Triblive.com",
-          "url": "https://triblive.com/opinion/cal-thomas-troy-jackson-is-graham-platner-lite/",
-          "publishedAt": "2026-07-23T15:00:00.000Z",
+          "id": "5c5f73290bc5679bf496bfe945db21cd0dbb944dc6396e2cc02fca68cab6dd4f",
+          "title": "Maine Democrat Troy Jackson Under Fire For Reported Outburst, Mortgage Fraud Claims",
+          "description": "By Virginia Grace McKinnon, The Daily Signal | July 22, 2026 Troy Jackson, a progressive Democrat, has effectively clinched the nomination for U.S. Senate in Maine after Graham Platner dropped out earlier this month following allegations of sexual assault. Now, Jackson is facing accusations of...",
+          "sourceName": "Biztoc",
+          "url": "https://biztoc.com/x/d7e30f30731c7ce3",
+          "publishedAt": "2026-07-24T23:13:56.000Z",
           "sentiment": -0.8
         },
         {
-          "id": "0cbe8e5091c76b28a9fc908af3b1dbfaf0d867958d6ec32a3be2605c04bb8b68",
-          "title": "How Troy Jackson went from an anti-abortion Republican to the Democrats’ hope for defeating Susan Collins",
-          "description": "Troy Jackson is on the verge of replacing Graham Platner as the Democratic nominee for Senate in Maine after harnessing the enthusiasm of former Platner supp...",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/articles/troy-jackson-went-anti-abortion-090025509.html",
-          "publishedAt": "2026-07-23T14:30:09.000Z",
-          "sentiment": 0.5
+          "id": "731ed492614edd5b021d432fb144f27c8c9a3eab7827dd34c8f239fee8483cab",
+          "title": "A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement",
+          "description": "The state of Maine has roughly 19,000 Jews across 10,600 households, with the population highly concentrated in and around Portland.",
+          "sourceName": "Jpost",
+          "url": "https://www.jpost.com/diaspora/antisemitism/article-903583",
+          "publishedAt": "2026-07-24T22:32:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "658c6bbe6185467f66fe8fe8f64314dafc0ebc9e360a02d623a2a0705b7d846e",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community",
+          "description": "After a career focused on economic issues, the former state Senate president is now railing against AIPAC and ‘genocide.’ -- The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community appeared first on Jewish Telegraphic Agency .",
+          "sourceName": "Jewish Telegraphic Agency",
+          "url": "https://www.jta.org/2026/07/24/politics/maine-democratic-senate-nominee-in-waiting-troy-jackson-raises-eyebrows-in-the-jewish-community",
+          "publishedAt": "2026-07-24T22:31:09.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "4fe97e06f9dc2264e199eec38b3e627f2a6bcc73ce52e91abd0bcadd42a9cebf",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community",
+          "description": "BANGOR, Maine – All through his two-decade-long profession as a state lawmaker in Maine, Troy Jackson constructed his political model round labor and financial points. However as the previous logger and state Senate president now seeks a seat within the U.S. Senate, Jackson has begun staking out positions on one thing new — Israel. Going [...] The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community appeared first on Asia Today .",
+          "sourceName": "Asia Today",
+          "url": "https://asiatoday.co/2026/07/25/maine-democratic-senate-nominee-in-waiting-troy-jackson-raises-eyebrows-in-the-jewish-community/",
+          "publishedAt": "2026-07-24T22:31:00.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "dbc1742711841713e56c867dcce8f65130b3048bb33d71d0c4eef78786acc623",
+          "title": "This CEO wants a word with Maine Democrats before Troy Jackson’s coronation",
+          "description": "“I want people to know that I am a smart, tenacious, committed woman who’s here to stay. If this isn't my time, my time is coming,\" Saundra Pelletier says.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/07/24/politics/elections/saundra-pelletier-troy-jackson-democractic-senate-nominee/",
+          "publishedAt": "2026-07-24T21:56:09.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "a51452dffd6817593213648681209e56a59f130dc2e7c7f6e1446e890eb8ed68",
+          "title": "Shribman: The parting on the left",
+          "description": "David M. Shribman David M. Shribman NATIONAL PERSPECTIVE FRYEBURG, Maine — Meet the new boss, same as the old boss. Except this one has a bad temper. Troy Jackson, the new Senate candidate from Maine, was born three years before The Who’s Pete Townshend wrote a rock anthem that spoke of taking “a bow for the new revolution” [...] The post Shribman: The parting on the left appeared first on Itemlive .",
+          "sourceName": "Itemlive",
+          "url": "https://itemlive.com/2026/07/24/shribman-the-parting-on-the-left/",
+          "publishedAt": "2026-07-24T21:29:54.000Z",
+          "sentiment": -0.6
+        },
+        {
+          "id": "b1ef14b9c79ff4329cad95151787f0fde2b0ddfa2a40461610e1590092fe8261",
+          "title": "Maine Democrats must now check their egos at the door | Opinion",
+          "description": "The more effectively we unite around Troy Jackson and his working-class movement, the better our odds will be to unseat Sen. Susan Collins in November.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/24/maine-voters-must-check-their-egos-at-the-door-opinion/",
+          "publishedAt": "2026-07-24T20:59:36.000Z",
+          "sentiment": 0.3
+        },
+        {
+          "id": "a36dda254e490daa7a363c836cd93d746a11038ebb07bfdd156512c57b2f6f1d",
+          "title": "Maine Democrats must now check their egos at the door | Opinion",
+          "description": "The more effectively we unite around Troy Jackson and his working-class movement, the better our odds will be to unseat Sen. Susan Collins in November.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/24/maine-voters-must-check-their-egos-at-the-door-opinion/",
+          "publishedAt": "2026-07-24T20:59:36.000Z",
+          "sentiment": 0.3
+        },
+        {
+          "id": "0a74559d54216b9366843b8e283f9f069aa099d1f27250edbae15fb9d1240b17",
+          "title": "National Perspective: The Parting on the Left",
+          "description": "FRYEBURG, Maine — Meet the new boss, same as the old boss. Except this one has a bad temper.",
+          "sourceName": "Conwaydailysun",
+          "url": "https://www.conwaydailysun.com/opinion/columns/national-perspective-the-parting-on-the-left/article_1c7ff11e-ef39-44e1-ae9b-fd3a5a6bc346.html",
+          "publishedAt": "2026-07-24T20:00:00.000Z",
+          "sentiment": -0.5
+        },
+        {
+          "id": "fa784433cb8f43370b42e13fc31f36fb5c8e64f5cf0ec39b9cd64aaea28ad8bc",
+          "title": "Democrats Had a Chance to Get Really Weird in Maine. They Went in a Different Direction.",
+          "description": "This weekend’s convention is a surprisingly low-key end to a truly wild ride.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/democrats-had-a-chance-to-get-really-weird-in-maine-they-85912570",
+          "publishedAt": "2026-07-24T19:36:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "48406350a0178c7a1ca8c7e41fdc93c2dcadcfc55ef7ef379447fb2174b22d51",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Maine Democrats are expected to nominate Troy Jackson at a last-minute convention this weekend.",
+          "sourceName": "Https://www.wcax.com",
+          "url": "https://www.wcax.com/2026/07/24/what-know-about-troy-jackson-maine-democrats-likely-nominee-us-senate/",
+          "publishedAt": "2026-07-24T18:37:42.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "da681f822fb0aab6334505b0d0cdc5f0fa8286edccc5e9e415210783bd52b1bf",
+          "title": "Platner campaign strategist admits tattoo, Reddit posts should have been 'enough' to disqualify him",
+          "description": "Graham Platner strategist Morris Katz said in a new interview that the candidate's Reddit posts and troubling behavior should have disqualified him from the Maine Senate race.",
+          "sourceName": "Fox News",
+          "url": "https://www.foxnews.com/media/platner-campaign-strategist-admits-tattoo-reddit-posts-should-have-been-enough-disqualify-him",
+          "publishedAt": "2026-07-24T18:30:25.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "725c6ca298ac3f0f2a0e6a9b522e5ece4d625dab40890f5296da1cf611dcf520",
+          "title": "Important Drive Update!",
+          "description": "We need to get to $325,000 today to stay on track for our goal in this year’s Annual TPM Journalism...",
+          "sourceName": "Tpm – Talking Points Memo",
+          "url": "https://talkingpointsmemo.com/edblog/important-drive-update",
+          "publishedAt": "2026-07-24T18:01:24.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9d146fc67a3599a24811dace380bf3e35d6fc5eb47c8495261ebbe87b51ef51f",
+          "title": "A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement",
+          "description": "Exit of populist progressive marred by sexual assault allegations has left some Jewish Democrats relieved, but positions on Israel of likely replacement Troy Jackson are seen as largely similar The post A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement appeared first on The Times of Israel .",
+          "sourceName": "The Times Of Israel",
+          "url": "https://www.timesofisrael.com/a-community-divided-maines-jewish-democrats-gear-up-for-platners-replacement/",
+          "publishedAt": "2026-07-24T17:57:34.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "5e249ba6e4a00f7528fbaf13af884c57ff0e6de4f7fb88000a6de61fd452d971",
+          "title": "Trump says US will investigate EU trade practices, claiming the bloc unfairly fined US tech giants",
+          "description": "The EU hit Google with $1 billion fine for breaking digital antitrust regulations.",
+          "sourceName": "Canon City Daily Record",
+          "url": "https://www.canoncitydailyrecord.com/2026/07/24/trump-eu-trade-tech/",
+          "publishedAt": "2026-07-24T17:35:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "11a860d8413fb231707d9cc712d3e522cbe9bf06f6d2aba754deefa63ff97fa6",
+          "title": "Trump says US will investigate EU trade practices, claiming the bloc unfairly fined US tech giants",
+          "description": "The EU hit Google with $1 billion fine for breaking digital antitrust regulations.",
+          "sourceName": "Troy Record",
+          "url": "https://www.troyrecord.com/2026/07/24/trump-eu-trade-tech/",
+          "publishedAt": "2026-07-24T17:35:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "da5b410ceaeee4268c623b3756a6226db941d0ed0bed7cb3aa8b5ae329b1370b",
+          "title": "Maine Democrats expected to nominate new Senate race candidate",
+          "description": "This weekend, delegates are expected to formally nominate Troy Jackson, a former president of Maine's state senate, to face incumbent Sen. Susan Collins in a pivotal race that could determine control of the U.S. Senate.",
+          "sourceName": "Wbur",
+          "url": "https://www.wbur.org/hereandnow/2026/07/24/maine-democrats-senate",
+          "publishedAt": "2026-07-24T17:23:19.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "8d09847c9e0097dc50947a0026a17703c7d6e322213115c06b20e77616c65f56",
+          "title": "David M. Shribman: The parting on the left",
+          "description": "FRYEBURG, Maine ― Meet the new boss, same as the old boss. Except this one has a bad temper.",
+          "sourceName": "Laconiadailysun",
+          "url": "https://www.laconiadailysun.com/opinion/columns/david-m-shribman-the-parting-on-the-left/article_4dde1dc9-12da-4172-95d0-a79bc69b26f1.html",
+          "publishedAt": "2026-07-24T17:16:00.000Z",
+          "sentiment": -0.6
+        },
+        {
+          "id": "6157489a0b974805c2b19f8d52bf8cb48845a360d2e9a5fd5f97e5eb51df9575",
+          "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
+          "description": "Tens of thousands of immigrant drivers have lost their licenses this year.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/07/24/commercial-drivers-licenses-veterans/",
+          "publishedAt": "2026-07-24T17:05:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d4fb940176fbd57c593bab7dfe7fa39fa76e75d56f736571f936a8c537e32bd0",
+          "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
+          "description": "Tens of thousands of immigrant drivers have lost their licenses this year.",
+          "sourceName": "Canon City Daily Record",
+          "url": "https://www.canoncitydailyrecord.com/2026/07/24/commercial-drivers-licenses-veterans/",
+          "publishedAt": "2026-07-24T17:05:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "20b6bb25b26f7a00bc60d5ae7b9891a4c390f9683eb6cd2cf606413feba1edff",
+          "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
+          "description": "Tens of thousands of immigrant drivers have lost their licenses this year.",
+          "sourceName": "Boulder Daily Camera",
+          "url": "https://www.dailycamera.com/2026/07/24/commercial-drivers-licenses-veterans/",
+          "publishedAt": "2026-07-24T17:05:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "85e426b015b10decc328cb31a3925971b5ac130d75d5c00a35fb3ac932912813",
+          "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
+          "description": "Tens of thousands of immigrant drivers have lost their licenses this year.",
+          "sourceName": "Daily Press",
+          "url": "https://www.dailypress.com/2026/07/24/commercial-drivers-licenses-veterans/",
+          "publishedAt": "2026-07-24T17:05:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f8aff5b9cf3db841c168c71e8008e521885e546f5cbd97f9f0acf5a209e07d1e",
+          "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
+          "description": "Tens of thousands of immigrant drivers have lost their licenses this year.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/07/24/commercial-drivers-licenses-veterans/",
+          "publishedAt": "2026-07-24T17:05:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8f338ff1d4c873f28a90896ba515aa83be3dbb163f7b1f96441c618eaabb0755",
+          "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
+          "description": "Tens of thousands of immigrant drivers have lost their licenses this year.",
+          "sourceName": "Troy Record",
+          "url": "https://www.troyrecord.com/2026/07/24/commercial-drivers-licenses-veterans/",
+          "publishedAt": "2026-07-24T17:05:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4408f8a0c2ca9424bcfa82c952aba6be41a619c3d70813618b80cfa1a96c8485",
+          "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
+          "description": "Tens of thousands of immigrant drivers have lost their licenses this year.",
+          "sourceName": "Longmont Times Call",
+          "url": "https://www.timescall.com/2026/07/24/commercial-drivers-licenses-veterans/",
+          "publishedAt": "2026-07-24T17:05:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2e3c2ef1e21319d80f4f1546c41e0870d11a0ac005f7302e4666265eced519d6",
+          "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
+          "description": "Tens of thousands of immigrant drivers have lost their licenses this year.",
+          "sourceName": "Greeley Tribune",
+          "url": "https://www.greeleytribune.com/2026/07/24/commercial-drivers-licenses-veterans/",
+          "publishedAt": "2026-07-24T17:05:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d91ecbb7b6346216e55a7703052f9f8dfd42732df71a6a2cd0ad37db6074e750",
+          "title": "Troy Jackson is about to learn why Susan Collins keeps winning",
+          "description": "Graham Platner’s replacement faces a difficult task against the veteran Republican",
+          "sourceName": "Unherd",
+          "url": "https://unherd.com/newsroom/troy-jackson-is-about-to-learn-why-susan-collins-keeps-winning/?edition=us",
+          "publishedAt": "2026-07-24T17:00:53.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "035dd2162b604dde55a1f4d62c92df0925af9ea02dd864689f73cb65fc7ec225",
+          "title": "Maine Democrats are meeting to pick a new Senate nominee to face Republican Sen. Susan Collins",
+          "description": "BANGOR, Maine (AP) — Maine Democrats on Saturday will choose a new U.S. Senate nominee to face longtime Republican Sen. Susan Collins in a contest that could decide control of the Senate, after Graham...",
+          "sourceName": "Tri-city Record Nm",
+          "url": "https://www.tricityrecordnm.com/articles/maine-democrats-are-meeting-to-pick-a-new-senate-nominee-to-face-republican-sen-susan-collins/",
+          "publishedAt": "2026-07-24T17:00:33.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ea63feed733b625eb2553c4b0b7afe916567c250e916b2db423007258863b34b",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate (Associated Press)",
+          "description": "Associated Press : What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate — Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend.",
+          "sourceName": "Memeorandum",
+          "url": "https://www.memeorandum.com/260724/p40",
+          "publishedAt": "2026-07-24T16:25:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "67c9cf9c284a30a9396c0007120d6938bdae1d2be476affcf182327d53837ab8",
+          "title": "Cal Thomas: Troy Jackson is Graham Platner lite",
+          "description": "Troy Jackson, the Maine Democratic Party prospective nominee for the Senate, is Graham Platner lite. Platner withdrew from the race to face incumbent Republican Susan Collins following allegations that he sexually assaulted two women, charges he has denied. At least...",
+          "sourceName": "Washtimesherald",
+          "url": "https://www.washtimesherald.com/opinion/cal-thomas-troy-jackson-is-graham-platner-lite/article_27582748-5bbf-4c93-871d-d62d2f1f1440.html",
+          "publishedAt": "2026-07-24T16:10:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "1d43cb005100d521334f0e3c8e1f66bcf0168f6594c0e079f8f750f49377462a",
+          "title": "What to expect ahead of the convention to select a new Democratic Senate nominee",
+          "description": "Just two candidates remain in the race the day before the convention: frontrunner Troy Jackson and political newcomer Saundra Pelletier.",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/what-expect-ahead-convention-select-new-democratic-senate-nominee/97-ca6740b7-04aa-4e56-963f-ef1b5abe252e",
+          "publishedAt": "2026-07-24T16:09:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ef993a8b77a9ac93b58ffb3088d667b76b7f814b664d17c7ff52c823b57f4784",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Ksnv",
+          "url": "https://news3lv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ba6ed27f14e26328fc2e3c9d4cecd648d849de09d31ee3aebd5fdabcb7c45b27",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Wgxa",
+          "url": "https://wgxa.tv/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1fb509cb9d02f24895f58a27bcea0bc0a31e283069291e5547ebb7075e6fba4b",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Katv",
+          "url": "https://katv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b03a4988c643a3e92bf592c6208fec24d8d14ad6c7f06677d330177ddb6fdd9e",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Ktul",
+          "url": "https://ktul.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "58dd79d1a09aec2c65943d0379a5f0c52a186bcfafde547e4b49c66abdad1d9a",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Wtvc",
+          "url": "https://newschannel9.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:00:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "94fc78fd64973442e5c96975f3e2e19232cde416b9e0c37b4149c0995b1032e5",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Kutv",
+          "url": "https://kutv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:00:57.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d39e817089743e1110603d3607af5b578f25c28fcde713e78249e6cc7446d925",
+          "title": "Troy Jackson has the stuff to bridge Maine’s geographic, cultural divides | Opinion",
+          "description": "The opportunity for Maine's Democratic Senate nominee lies in a well-known political tension.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/24/troy-jackson-has-the-stuff-to-bridge-maines-geographic-cultural-divides-opinion/",
+          "publishedAt": "2026-07-24T16:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "b7758d247b263c2e1fc40fa30ffc844710c9295320866412f2078d561f80dc63",
+          "title": "Why I left the Senate race and got behind Troy Jackson | Jordan Wood",
+          "description": "Maine Democrats voted for a fighter in Graham Platner. My friend is the candidate to carry that movement forward.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/24/why-i-left-the-senate-race-and-got-behind-troy-jackson-opinion/",
+          "publishedAt": "2026-07-24T16:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "ea6a8de53930d02cf688c7909ebdaf1b987e7b9aae081ded3df54ba92da0a2a3",
+          "title": "Troy Jackson has the stuff to bridge Maine’s geographic, cultural divides | Opinion",
+          "description": "The opportunity for Maine's Democratic Senate nominee lies in a well-known political tension.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/24/troy-jackson-has-the-stuff-to-bridge-maines-geographic-cultural-divides-opinion/",
+          "publishedAt": "2026-07-24T16:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "908add326eaca62f185ac26afb57432048c965b124a5b7c44a976ca0b21cfc74",
+          "title": "Why I left the Senate race and got behind Troy Jackson | Jordan Wood",
+          "description": "Maine Democrats voted for a fighter in Graham Platner. My friend is the candidate to carry that movement forward.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/24/why-i-left-the-senate-race-and-got-behind-troy-jackson-opinion/",
+          "publishedAt": "2026-07-24T16:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "1401f26836b8ab45702b905907eb85055df2ee6999a31d7305da2567f0755a60",
+          "title": "American scientists see prosecutions as part of federal campaign against them",
+          "description": "Senior U.S. officials and members of Congress have leaned into unproven theories.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/07/24/american-scientists-prosecutions/",
+          "publishedAt": "2026-07-24T15:53:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b4514833aac5cbe865abf5de5bdbecd26d24f3ad8013a848f5e2601013e19d05",
+          "title": "American scientists see prosecutions as part of federal campaign against them",
+          "description": "Senior U.S. officials and members of Congress have leaned into unproven theories.",
+          "sourceName": "Troy Record",
+          "url": "https://www.troyrecord.com/2026/07/24/american-scientists-prosecutions/",
+          "publishedAt": "2026-07-24T15:53:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ca04f5f812c15a001d08ed1eb82972faf77535ad632fb306f731c42ea0d0b2aa",
+          "title": "American scientists see prosecutions as part of federal campaign against them",
+          "description": "Senior U.S. officials and members of Congress have leaned into unproven theories.",
+          "sourceName": "Canon City Daily Record",
+          "url": "https://www.canoncitydailyrecord.com/2026/07/24/american-scientists-prosecutions/",
+          "publishedAt": "2026-07-24T15:53:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2a44264753a0d55f74439b7fed91c4639c86a6f86970879bd832fae7f983a11c",
+          "title": "American scientists see prosecutions as part of federal campaign against them",
+          "description": "Senior U.S. officials and members of Congress have leaned into unproven theories.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/07/24/american-scientists-prosecutions/",
+          "publishedAt": "2026-07-24T15:53:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8674ead69101681b5ea65db1099978ceed66f61f79f8ad014a6a499b7cc66650",
+          "title": "American scientists see prosecutions as part of federal campaign against them",
+          "description": "Senior U.S. officials and members of Congress have leaned into unproven theories.",
+          "sourceName": "Longmont Times Call",
+          "url": "https://www.timescall.com/2026/07/24/american-scientists-prosecutions/",
+          "publishedAt": "2026-07-24T15:53:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c86936f64a6a1727935a93c53cafff4a8c8934981619908c9aa1ae33bf7eeb9a",
+          "title": "American scientists see prosecutions as part of federal campaign against them",
+          "description": "Senior U.S. officials and members of Congress have leaned into unproven theories.",
+          "sourceName": "Boulder Daily Camera",
+          "url": "https://www.dailycamera.com/2026/07/24/american-scientists-prosecutions/",
+          "publishedAt": "2026-07-24T15:53:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b6a8763b377e69d261a8c2f0820e709325e246566c94a2b0f0a096d555a64b84",
+          "title": "American scientists see prosecutions as part of federal campaign against them",
+          "description": "Senior U.S. officials and members of Congress have leaned into unproven theories.",
+          "sourceName": "Greeley Tribune",
+          "url": "https://www.greeleytribune.com/2026/07/24/american-scientists-prosecutions/",
+          "publishedAt": "2026-07-24T15:53:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5db4976533c1a666cc028e8d0ebb217add39207b386bf9836aa835d1a1daa57c",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is a former president of the state’s Democratic-controlled Senate who has been a fixture...",
+          "sourceName": "Mymotherlode.com - The Mother Lode's Local News, S",
+          "url": "https://mymotherlode.com/news/national/general-election/11014370/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate.html",
+          "publishedAt": "2026-07-24T15:37:59.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "fb3a2928a1ab784e856b4823784177845b66ba64beb5dc2f65de89db362c8bd8",
+          "title": "Wisconsin voters sue to allow for vote to count if absentee ballot is late",
+          "description": "The lawsuit comes amid concerns about how quickly USPS will be able to deliver ballots.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/07/24/wisconsin-voters-absentee-ballot-lawsuit/",
+          "publishedAt": "2026-07-24T15:29:16.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c4d5d6993942e7bec802e3790fcf391d5be7ddbc2a0092fd98c140a1b1d68a25",
+          "title": "Wisconsin voters sue to allow for vote to count if absentee ballot is late",
+          "description": "The lawsuit comes amid concerns about how quickly USPS will be able to deliver ballots.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/07/24/wisconsin-voters-absentee-ballot-lawsuit/",
+          "publishedAt": "2026-07-24T15:29:16.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a2c38cc8eaa7fce497de9da553eb70702f630aa05befed66e08a16b33b2f89e4",
+          "title": "Wisconsin voters sue to allow for vote to count if absentee ballot is late",
+          "description": "The lawsuit comes amid concerns about how quickly USPS will be able to deliver ballots.",
+          "sourceName": "Boulder Daily Camera",
+          "url": "https://www.dailycamera.com/2026/07/24/wisconsin-voters-absentee-ballot-lawsuit/",
+          "publishedAt": "2026-07-24T15:29:16.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7f5f09734d28c2b033eecb989fb37f9f3ff4bf6364c1f7f3c6bbf4a759c1e933",
+          "title": "Wisconsin voters sue to allow for vote to count if absentee ballot is late",
+          "description": "The lawsuit comes amid concerns about how quickly USPS will be able to deliver ballots.",
+          "sourceName": "Greeley Tribune",
+          "url": "https://www.greeleytribune.com/2026/07/24/wisconsin-voters-absentee-ballot-lawsuit/",
+          "publishedAt": "2026-07-24T15:29:16.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "025eb6404d1a072ede837fa67460d4a03f76255bfdc80b4a4442b15ed2748993",
+          "title": "Platner’s lead strategist says his Reddit posts and Nazi-linked tattoo ‘should have been enough’ to drop him",
+          "description": "Troy Jackson is likely to replace Graham Platner as the Democratic nominee after rival candidates dropped out and his supporters swept delegate elections.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4662113/katz-graham-platner-reddit-tattoo-campaign-ezra-klein/",
+          "publishedAt": "2026-07-24T15:28:52.000Z",
+          "sentiment": 0.3
+        },
+        {
+          "id": "e1d22b8af7d364b5eecd3b7c9042044f4c06ba206d260751292a9cfb893c0edc",
+          "title": "From prison fears to fireworks, Chinese pastor recounts sudden release after Trump’s intervention",
+          "description": "“It’s so dramatic. It's unimaginable,” the pastor said.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/07/24/chinese-pastor-release-trump-interviention/",
+          "publishedAt": "2026-07-24T15:18:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9bc73dd6d3f2e5da196d368cfabb29032942e627b89d8aac66821dc29eaae512",
+          "title": "From prison fears to fireworks, Chinese pastor recounts sudden release after Trump’s intervention",
+          "description": "“It’s so dramatic. It's unimaginable,” the pastor said.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/07/24/chinese-pastor-release-trump-interviention/",
+          "publishedAt": "2026-07-24T15:18:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "49dca76ce3daca063d3579d76753ec4bf87cb4a80aaf384f242f4d54c4696672",
+          "title": "From prison fears to fireworks, Chinese pastor recounts sudden release after Trump’s intervention",
+          "description": "“It’s so dramatic. It's unimaginable,” the pastor said.",
+          "sourceName": "Boulder Daily Camera",
+          "url": "https://www.dailycamera.com/2026/07/24/chinese-pastor-release-trump-interviention/",
+          "publishedAt": "2026-07-24T15:18:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f1bc013e49a1c5defcdcb84e5104b5a601fe300b619879afeebfc32b2ded987e",
+          "title": "Morris Katz, adviser to Graham Platner, says he ‘was wrong’ to stick with him",
+          "description": "In a podcast interview, the progressive strategist said a series of scandals before the rape allegation that did in Platner's U.S. Senate bid \"should have been enough.\"",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/24/morris-katz-adviser-to-graham-platner-says-he-was-wrong-to-stick-with-him/",
+          "publishedAt": "2026-07-24T15:12:32.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "42b7defdc5de8220cb33902f0baad377e987f298fc3779a5e3c31b9d45f711c4",
+          "title": "A liberal lumberjack may soon be Maine's Democrat Senate nominee. Who's Troy Jackson?",
+          "description": "Troy Jackson is Maine's former state senate president who comes from a logging family. He could take on Republican Sen. Susan Collins in November.",
+          "sourceName": "Abc News",
+          "url": "https://abcnews.com/Politics/liberal-lumberjack-maines-democratic-senate-nominee-troy-jackson/story?id=134991873",
+          "publishedAt": "2026-07-24T15:10:23.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "b5b91660e1902c95dc8adfd705a8f67e410e654ac09be3d6f55a32d151158fab",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state’s Senate.",
+          "sourceName": "The News Herald",
+          "url": "https://www.thenewsherald.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "63586a1328548fcc8610d98c69222818440a2fa772baaf05e75a623c028c88d1",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Troy Record",
+          "url": "https://www.troyrecord.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "68eaa7cfabbbc08fbd9586934d567b4779e361e8ea64c292270eea81453e64bb",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Canon City Daily Record",
+          "url": "https://www.canoncitydailyrecord.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "ec8eff20eed8f513ab2c45307a5205a19fe7e6f113eaabc162771f7a5dd845e0",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "c547b01b2999a397d3fd64236a23e79b960236caf86ef1e6e8f7b7fdc4a50478",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "9573f889974d04c9b8313989a48e6ff39c39bf8a9cc2332bb0293ce0878d77bd",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate...",
+          "sourceName": "Wtop News",
+          "url": "https://wtop.com/national/2026/07/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/",
+          "publishedAt": "2026-07-24T14:38:27.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "9a1588d9ee43405a4c41b965ee61b542c8c0d6476788c2a315e91c28905ea8b9",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": null,
+          "sourceName": "News Times",
+          "url": "https://www.newstimes.com/news/politics/article/what-to-know-about-troy-jackson-maine-democrats-22358864.php",
+          "publishedAt": "2026-07-24T14:38:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c0f745f070d36304c90bdd192bfc8fbe8d2b4edae62bbadcdd59a9b5e564aec5",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this...",
+          "sourceName": "Plainview Daily Herald",
+          "url": "https://www.myplainview.com/news/politics/article/what-to-know-about-troy-jackson-maine-democrats-22358864.php",
+          "publishedAt": "2026-07-24T14:38:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "24c3be2fa8c76c25ae78c76f42b284502dd1ad041b17f448c26af1ab61a01764",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this...",
+          "sourceName": "Ct Insider",
+          "url": "https://www.ctinsider.com/news/politics/article/what-to-know-about-troy-jackson-maine-democrats-22358864.php",
+          "publishedAt": "2026-07-24T14:38:09.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "040e8a1a76660e90ab7ccfa8400d05e8f45c7250a6852fbb394eb113d7d84230",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this...",
+          "sourceName": "Times Union",
+          "url": "https://www.timesunion.com/news/politics/article/what-to-know-about-troy-jackson-maine-democrats-22358864.php",
+          "publishedAt": "2026-07-24T14:38:09.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "fdb696ade2cd39d6d4dcdd5948d611a921668de2832c9ef1bcc329c586ef2adc",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": null,
+          "sourceName": "The Courier Of Montgomery County",
+          "url": "https://www.yourconroenews.com/news/politics/article/what-to-know-about-troy-jackson-maine-democrats-22358864.php",
+          "publishedAt": "2026-07-24T14:38:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2a089fb82cbeafab6de81e36eadab965628843bfa4d8e4966b75ae0b922a0cd1",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": null,
+          "sourceName": "Beaumont Enterprise",
+          "url": "https://www.beaumontenterprise.com/news/politics/article/what-to-know-about-troy-jackson-maine-democrats-22358864.php",
+          "publishedAt": "2026-07-24T14:38:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b1622ed2638a423057aefa30f319ddb0f49824755162a27ed0622d32f2d231a1",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": null,
+          "sourceName": "Houston Chronicle",
+          "url": "https://www.houstonchronicle.com/news/politics/article/what-to-know-about-troy-jackson-maine-democrats-22358864.php",
+          "publishedAt": "2026-07-24T14:38:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "68017edd8c11f85ce5d5045ba28cff38041359ab0d092afdc97225e495d057c9",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": null,
+          "sourceName": "Greenwich Time",
+          "url": "https://www.greenwichtime.com/news/politics/article/what-to-know-about-troy-jackson-maine-democrats-22358864.php",
+          "publishedAt": "2026-07-24T14:38:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "326df0617310104d3e7ce68dc9acbae9cb5d062e29bc9286466dcc8e8125153f",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend.",
+          "sourceName": "The Star",
+          "url": "https://www.thestar.com/news/world/united-states/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_38e5f2f5-de9e-55b7-b522-a9390b93a0e9.html",
+          "publishedAt": "2026-07-24T14:37:29.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "593ccfb161bfc6904666af56e843b0759d1e0bd7eb93dc075dc674739e065760",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend.",
+          "sourceName": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/07/24/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate",
+          "publishedAt": "2026-07-24T14:37:29.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f69c25c9643d5aff6b1b0cb4af9ea2a64527127ecdd66b85a06753f66ebe576c",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is a former president of the state’s Democratic-controlled Senate who has been a fixture [...]",
+          "sourceName": "Infonews.ca",
+          "url": "https://infonews.ca/news/7760889/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/",
+          "publishedAt": "2026-07-24T14:37:29.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fe3b676c7db449c83fdd5bb90775baee617555ea37bfc4ad2d1edc23ed7c166f",
+          "title": "ChatGPT’s Daring Escape Forces Dems to Pick a Path on AI Legislation",
+          "description": "Editor’s Note: Welcome to The TNR Blue Book. It’s our new daily newsletter that covers Congress and much more, but with a distinctly TNR twist: Our focus will be strictly on Democrats, liberal and progressive groups, and the fight to take back power and save democracy. Every morning, you’ll get a rundown of late-breaking news, what Democrats on Capitol Hill are thinking, quick hits on what you need to know nationally, the latest on what’s coming out of the think tanks and activist groups, short interviews with progressive newsmakers and authors, and more (including some humor and political trivia!). There’s nothing else out there like it. Sign up and get this newsletter for free . Inside Washington OpenAI breach forces Dems to pick a path on AI legislation After a shocking security breach at OpenAI, Democrats say they plan to get serious about artificial intelligence regulation. It’s a “wake-up call,” Senator Elizabeth Warren said on Thursday, as Democrats introduced not one but two new AI regulation bills in the House. With numerous proposals on the table, though, lawmakers will have to make some hard compromises when they get back after the August recess. And not everyone’s impressed by the recent options. On Tuesday, OpenAI announced its discovery that two of the company’s AI models had broken free of their “sandbox”—an (allegedly) isolated testing environment without access to the internet—in order to access the internet to complete a testing goal. The models did this by hacking into the servers of a different company, Hugging Face, using stolen credentials. Democratic lawmakers, many of whom were already concerned about AI, say that this week’s incident has lit a fire underneath them. Representative Lori Trahan , who proposed a new bipartisan AI regulation bill on Thursday, said that the news had “accelerated our conversations, pushing lawmakers to shift from “a discussion draft to a piece of legislation.” Trahan and Republican Representative Jay Obernolte ’s bill, the Frontier Risk Oversight, National Transparency, Independent Evaluation, and Reporting, or FRONTIER, Act, would require the biggest AI companies to implement plans to address catastrophic risks, including cybersecurity threats. The bill also calls for third-party auditors to ensure that AI companies follow their own plans. Some state lawmakers—for example New York Assemblymember Alex Bores , who helped draft New York’s 2025 Responsible AI Safety and Education Act —have warned that a broader version of the bill released in June, called the Great American AI Act, could “block” stronger state-level AI regulation. But Democrats on the Hill reiterated on Thursday that some kind of federal law is needed, and quickly. “The ability to not rely on an administration, executive fiat, or a voluntary model of reporting—we need to make that a mandate, and Congress needs to lead on that,” Trahan said. “We should not rely upon the good citizenship of these companies,” agreed Senator Brian Schatz of Hawaii. Deciding what that legislation should look like, though, is easier said than done. The Brennan Center , which maintains a tracker of the AI-related legislation proposed by Congress, lists 112 pieces of legislation that had been introduced as of September 2025 without being passed. That doesn’t count bills introduced in the past year. Representative Ted Lieu and GOP Representative Nathaniel Moran introduced their own new bill on Thursday. Their AI Kill Switch Act would require companies to report security incidents and create a system to shut down or pause their most powerful AI models. Representative Suhas Subramanyan , who is a co-sponsor of the FRONTIER Act, said he believes the two pieces of legislation are complementary. He called for Congress to mark up the FRONTIER Act in September and push a vote by the end of the year. “That’s my plan,” he told me. “We need to act in Congress. It needs to be this Congress. We shouldn’t wait until next Congress,” he said. (The new Congress will be sworn in in January 2027.) Obernolte also sees opportunity for compromise between separate proposals. “I don’t think it’s a competition,” he said. “We welcome all.” He believes his bill has a strong chance, given its “traction in committee” and bipartisan sponsorship. Not everyone is as optimistic that these proposed bills will actually rein in Big Tech. “That’s a start, but it makes no sense to draft on the fly,” Warren said when I asked what she thought about bills that call for mandatory reporting and independent oversight. “That’s how Congress ends up telling itself it fixed a problem but it didn’t really carefully stitch up the loopholes and solve much of anything.” —Emma Janssen Outside Washington What North Carolina’s fundraising shortfall says about the broader electoral map Amid the headlines over Rob Sand ’s fundraising “ haul ” in Iowa or James Talarico ’s in Texas , one race has been less of a cash battle than anticipated. Western Carolina University professor Christopher Cooper observes in The Assembly this week that North Carolina’s Senate race between Democrat Roy Cooper (no relation) and Republican Michael Whatley is massively underperforming relative to the “billion-dollar” predictions previously made by political insiders. “In the first half of 2026, Whatley raised $5.8 million to Cooper’s $16.1 million,” Cooper writes. “Candidates in the U.S. Senate race in Texas raised 2.7 times as much as Cooper and Whatley’s combined haul during that period. Georgia candidates raised 1.7 times as much, and Ohio candidates 1.4 times.” Cooper theorizes that the discrepancy between prediction and actual fundraising may reflect how rapidly the electoral map has shifted in the last six months: “In January, North Carolina looked like the most competitive Senate election in the country. States like Texas, Alaska, Ohio, and Iowa weren’t considered in play.” Cooper and Whatley are bringing in less cash, in other words, because Republicans have lost ground in states that were once considered secure—and perhaps because Cooper has led consistently in the polls, although the race seems to have tightened a bit lately. Elsewhere: In case you missed it: Former Democratic senator and Governor Ben Nelson of Nebraska penned an op-ed in The Washington Post arguing that a wealth tax would hurt family farms Policy Matters Ohio tax expert Zach Schiller tells the Ohio Capital Journal that Republican gubernatorial candidate Vivek Ramaswamy ’s proposal to “reduce the growing property tax crisis” is “lousy,” while Democrat Amy Acton ’s proposal is “sensible” but “nowhere near enough.” Read the full analysis here . —Heather Souvaine Horn The Ideas Factory The Urban Institute hosts an event next Monday at 2 p.m. on “Tackling Housing Supply and Affordability Challenges Through Mixed-Income Housing Finance Innovations.” Speakers include Invest Chattanooga president Matt Bedsole , Colorado Office of Economic Development and International Trade director of innovative funding for housing programs Hilary Cooper , and the Urban Institute’s Laurie Goodman , Daniel Hornung , Chrystal Kornegay , and Christina Plerhoples Stacy. The Yale Program on Climate Change Communication releases a new report, “How Local Governments Can Use Communication to Drive Climate Action.” One of the suggestions: “Identify key messengers,” including “doctors and nurses, faith leaders, business leaders, and community-based organizations.” Public Citizen files a petition with the Food and Drug Administration, saying the agency should “ban direct-to-consumer (DTC) advertising of prescription drugs.” Boy, would that change the experience of watching television ... Earlier this week, the Urban Institute ’s William J. Congdon , Elisabeth Jacobs , Amanda Briggs , Ryan Kelsey , Shayne Spaulding , Oluwasekemi Odumosu , and Julia Payne released an article outlining “Policy Priorities for an Inclusive AI Economy.” A few of their proposals: “use AI to match workers with jobs and employers with talent,” “update” labor regulations to address the risks of AI, “incorporate worker voice in AI design and implementation,” “improve policies and programs for displaced workers,” and “ensure gains in productivity and prosperity are widely shared.” So, basically a complete redesign of how the AI transition is currently going. —Heather Souvaine Horn In Closing Good week: Troy Jackson The Senate candidate in Maine effectively cleared the Democratic field on Sunday, when it was revealed he had the support of a majority of delegates who were elected to attend the party’s convention this Saturday. The other four leading candidates promptly dropped out. Then, on Wednesday, Jackson’s nascent campaign announced that it had already raised $1 million since he entered the race two weeks ago, after Graham Platner’s implosion. Bad week: Andrew and Tristan Tate The MAGA-loving, women-hating brothers were arrested in Miami last weekend and are facing extradition to England over charges of rape and sex trafficking. The manosphere influencers are accused of “choking women, sometimes until they passed out, and then raping them”—which comes as no surprise to anyone who read Heidi Blake’s recent, definitive investigation in The New Yorker of their “empire of abuse.” Now their MAGA backers are suddenly ghosting them . Political Trivia Question of the Day Whom did Clarence Thomas replace on the Supreme Court, and what was notable about his departure from the court? That is, it had a vast historical impact that few could have guessed at the time. ( Sign up for The Blue Book to find the answer in tomorrow’s newsletter.)",
+          "sourceName": "The New Republic",
+          "url": "https://newrepublic.com/post/213500/chatgpt-lab-breach-democrats-ai-legislation",
+          "publishedAt": "2026-07-24T14:36:52.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "392c1bc08f034ffc691d0ab24f8c5029ad9e9aae3cd14932a83db9c2466c3137",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend.",
+          "sourceName": "Newsday",
+          "url": "https://www.newsday.com/long-island/politics/troy-jackson-maine-senate-susan-collins-graham-platner-j49341",
+          "publishedAt": "2026-07-24T14:36:45.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "04a0871635deec17eebc59003bd20e5fa7832d4fd6ed8f1081997805d71c4394",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy...",
+          "sourceName": "Kvue",
+          "url": "https://www.kvue.com/article/syndication/associatedpress/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/616-fa5b1b9e-715d-476a-a598-6900442998ae",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "61f15f311b05765eda02a251ba48df1379bed851b528ff24b8382685dd3c44db",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Tdtnews.com",
+          "url": "https://www.tdtnews.com/news/nation_world/article_c6babbdc-a48a-5469-a5f2-785b7acd9a35.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7ee671214f71b9ef9d6111f2549697747b409fc8c313b3d70dc434670b555cf0",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Nvdaily",
+          "url": "https://www.nvdaily.com/associated_press_national/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_95264f68-19b7-5605-a737-7adb3cc5c97c.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "109e20ae9180249872f8ec9343aee0b86daec63cd3ebeab082b1738385ff31d7",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Chronicle Online",
+          "url": "https://www.chronicleonline.com/news/national/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_a3dd3a23-f1b1-5766-9cf7-ccacabb799ba.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3bb4e04837b1235c07e9a0d86d2785d090ec60832f942cd1713ced1de136c4c4",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Wink News",
+          "url": "https://www.winknews.com/news/international/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_ea40a80e-7f39-5ca8-bdd1-35d0e36143a5.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4ccb171655862905508ae381dc0b75a991f963d5d3c991d82a392227b7fd8e28",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Herald Palladium",
+          "url": "https://www.heraldpalladium.com/news/state/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_2e82c350-837f-50f0-81eb-3700dfcafbe4.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "185b7fc89686ddbf2e9dcb3238d4a52d228911b39e4850dfff1c51e0129ffacf",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Winchesterstar",
+          "url": "https://www.winchesterstar.com/associated_press/washington/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_84ba1e04-c56e-5de5-bb1b-978fca9ea00a.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9e8b6bd474d8fdc80fee33c322fe59944d1946d14606ec5502aba96edd1c6e1d",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy...",
+          "sourceName": "Wthr",
+          "url": "https://www.wthr.com/article/syndication/associatedpress/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/616-fa5b1b9e-715d-476a-a598-6900442998ae",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7a98f1e0e7d8f6b2b8f361e8f6a9355da944663f4b3300c9ad6d4425a1001fda",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Palestineherald.com",
+          "url": "https://www.palestineherald.com/national/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_4400f9dd-433c-574d-9a04-191bcf20d43c.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6bfc10b1dfddec61bceb6e254a5d665d0384275d905d309c21bad1329f49d468",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Oskaloosa",
+          "url": "https://www.oskaloosa.com/news/national_news/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_fd9decd6-be61-50ff-b273-8a7877654f9f.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "776c27e1847a208ccdce0053f4e4d3517cabd44afbe26d23646e14ce0a30124e",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend.",
+          "sourceName": "Woonsocketcall",
+          "url": "https://www.woonsocketcall.com/news/national_and_world_news/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_6b65b55b-3dfd-5182-aa5a-25a8d6083b85.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "df39655f171c366e133722bd47c3aa9bd4c017b6d065da965533267489ee5314",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy...",
+          "sourceName": "12news",
+          "url": "https://www.12news.com/article/syndication/associatedpress/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/616-fa5b1b9e-715d-476a-a598-6900442998ae",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f0226c9e1b26405961e66a53292952c057fbb4ee6457e5086fee0b1f339997c1",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend.",
+          "sourceName": "Rutland Herald",
+          "url": "https://www.rutlandherald.com/ap/national/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_08d837d8-8d46-5b80-829b-7acd30bbc4fb.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8816bb799cad27e46a14de60d89b66c5697a24a7c8085590ef5693b2e0ae611a",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Caledonianrecord",
+          "url": "https://www.caledonianrecord.com/news/national/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_9fb38e2a-ad0c-5825-997c-615a40951600.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "339b96e689333afd289ca07ea4ff4a37c14c41edec0d6e445509d8fcfd5d0479",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Eagletribune",
+          "url": "https://www.eagletribune.com/region/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_c69c324e-418b-5f3b-9364-0c2180a8f023.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e649fa6c56530ce4d1ed9860ee70d493b50bf79342e8f6e481726564f53c5d0e",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Dnronline",
+          "url": "https://www.dnronline.com/associated_press/national/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_42fc66cb-4970-5323-9184-8c6dc5033ac5.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a6eadeedbbf47a5da37e458379220fff91df78fa50d7718e6e504d31c063889b",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Lufkindailynews",
+          "url": "https://lufkindailynews.com/anpa/us/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_bdb06492-5ce2-5d6f-ba3b-e4093533cec9.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "424854496bce7cd11784a4abc810bc036ae2afafc9357739f919990e32026248",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend.",
+          "sourceName": "Times Argus",
+          "url": "https://www.timesargus.com/news/national/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_ddf4df89-f6db-5d34-9fc3-167191bfb5a0.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b9bd7d4f007074938d16677762a035aabe22905023f5af8bb15c87921f73e6fc",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend. Jackson, a progressive Democrat, is the former...",
+          "sourceName": "Swoknews",
+          "url": "https://www.swoknews.com/ap/national/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_92eee570-eb6a-562a-bbbf-a6dc0d158d8e.html",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "541670f63719c3852846b2ce52b9b065396473e26ee40b8dfd95733ebe9effd0",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy...",
+          "sourceName": "Wfaa",
+          "url": "https://www.wfaa.com/article/syndication/associatedpress/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/616-fa5b1b9e-715d-476a-a598-6900442998ae",
+          "publishedAt": "2026-07-24T14:36:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4d5e116f0e0b4cd59a4704de8e2e94829c207539602ff0edc7780004185c401d",
+          "title": "What to Know About Troy Jackson, Maine Democrats' Likely Nominee for US Senate",
+          "description": "Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend",
+          "sourceName": "Usnews",
+          "url": "https://www.usnews.com/news/us/articles/2026-07-24/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate",
+          "publishedAt": "2026-07-24T14:36:18.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "14fda28480d3b8f67777438407fde39dc02dbc63efb746fcb3343e2bd4147f87",
+          "title": "What to know about Troy Jackson, Maine Democrats' likely nominee for US Senate",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats who have been scrambling to tap a new nominee for a pivotal U.S. Senate race against Republican Susan Collins are expected to nominate Troy Jackson at a last-minute convention this weekend.",
+          "sourceName": "The Sun Chronicle",
+          "url": "https://www.thesunchronicle.com/news/state/what-to-know-about-troy-jackson-maine-democrats-likely-nominee-for-us-senate/article_28caba50-cc9c-5063-ac9a-e4bb6098049a.html",
+          "publishedAt": "2026-07-24T14:36:00.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
@@ -3270,77 +4413,167 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.16999999999999998,
-      "newsSentiment": 0,
+      "overallSentiment": -0.11117647058823528,
+      "newsSentiment": 0.11764705882352941,
       "socialSentiment": -0.33999999999999997,
       "mentions": {
-        "news": 7,
+        "news": 17,
         "social": 5,
         "youtube": 0,
-        "total": 12
+        "total": 22
       },
       "news": [
         {
-          "id": "657da344ddf65e58bde60a942329e98b795f3d7b4625a63d7ff9db0b92c787a7",
-          "title": "Maine faith leaders call for end to ICE violence",
-          "description": "SOUTH PORTLAND (WGME) — Faith leaders in Maine called for an end to violence involving ICE agents Thursday in South Portland. The leaders worked with clergy from Minnesota, Texas and Florida, issuing a call for accountability for ICE and an end to the killing. Faith leaders in Maine called for an end to violence involving [...] The post Maine faith leaders call for end to ICE violence appeared first on News Pub . The post Maine faith leaders call for end to ICE violence appeared first on News Pub .",
+          "id": "85bd27bba35bcc3bec5eb28934a5a47fd4e3e524583e2d74cf342dab2db65073",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community",
+          "description": "While some Jewish Mainers questioned Jackson’s recent rhetoric on Israel, others said his long record in local government offered some assurances.",
+          "sourceName": "Jpost",
+          "url": "https://www.jpost.com/diaspora/antisemitism/article-903590",
+          "publishedAt": "2026-07-25T01:03:27.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "dd9e129f14cfe1e4e2f97b68dcea656786974b4425a43afec1c83a1c0ad6c8a9",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community – Jewish Telegraphic Agency",
+          "description": "BANGOR, Maine – Throughout his two-decade-long career as a state lawmaker in Maine, Troy Jackson built his political brand around labor and economic issues. But as the former logger and state Senate president now seeks a seat in the U.S. Senate, Jackson has begun staking out positions on something new — Israel. Facing one of [...] The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community – Jewish Telegraphic Agency appeared first on News Pub . The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community – Jewish Telegraphic Agency appeared first on News Pub .",
           "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/maine-faith-leaders-call-for-end-to-ice-violence/",
-          "publishedAt": "2026-07-23T23:51:07.000Z",
+          "url": "https://newspub.live/northeast/maine/maine-democratic-senate-nominee-in-waiting-troy-jackson-raises-eyebrows-in-the-jewish-community-jewish-telegraphic-agency/",
+          "publishedAt": "2026-07-25T00:03:07.000Z",
           "sentiment": 0
         },
         {
-          "id": "4068df7d5c59d6345d5e94ac219ee26cc976e9181c953985ecb85fd076aa4687",
-          "title": "Meet the Press NOW — July 23",
-          "description": "Fuel prices jump as fears grow over an expanding conflict in the Middle East. The Justice Department agrees to withdraw subpoenas seeking testimony and records from New York Times reporters. Sen. Mark Kelly (D-Ariz.) joins NBC's Ryan Nobles to discuss his growing concerns with artificial intelligence.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/meet-the-press-now-july-23-267188293825",
-          "publishedAt": "2026-07-23T21:08:26.000Z",
+          "id": "d2e241e94c79e4d5672ed423133031842f24e908bede8b0cb9d1e236895033b8",
+          "title": "A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement",
+          "description": "The state of Maine has roughly 19,000 Jews across 10,600 households, with the population highly concentrated in and around Portland.",
+          "sourceName": "Jpost",
+          "url": "https://www.jpost.com/diaspora/antisemitism/article-903583",
+          "publishedAt": "2026-07-24T22:32:44.000Z",
           "sentiment": 0
         },
         {
-          "id": "cb67ab4df8f0e34509e0f2e3583655a48c52bd9d81ea351acb232a1cae4ef60c",
-          "title": "Sen. Mark Kelly says the U.S. government should be ‘more proactive’ about AI scams",
-          "description": "President Trump pledges to shield consumers from data center costs as AI data center expansions spark concern in communities nationwide. Sen. Mark Kelly (D-Ariz.) calls for more transparency as AI’s capabilities expand. Head of Policy at AI Policy Network Peter Wildeford weighs in on the debate around AI guardrails.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/sen-mark-kelly-says-the-u-s-government-should-be-more-proactive-about-ai-scams-267187269645",
-          "publishedAt": "2026-07-23T20:59:11.000Z",
+          "id": "3a8e02a2d7a67cd73dfc5a0510df4f4443505f27ac7a8acacec3c957cafc6f05",
+          "title": "Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community",
+          "description": "After a career focused on economic issues, the former state Senate president is now railing against AIPAC and ‘genocide.’ -- The post Maine Democratic Senate nominee-in-waiting Troy Jackson raises eyebrows in the Jewish community appeared first on Jewish Telegraphic Agency .",
+          "sourceName": "Jewish Telegraphic Agency",
+          "url": "https://www.jta.org/2026/07/24/politics/maine-democratic-senate-nominee-in-waiting-troy-jackson-raises-eyebrows-in-the-jewish-community",
+          "publishedAt": "2026-07-24T22:31:09.000Z",
           "sentiment": 0
         },
         {
-          "id": "af34c7cd76dd1327b5a528fa15c5eef689819edaaeaba804174c1e8916c43a0f",
-          "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
-          "description": "NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837",
-          "publishedAt": "2026-07-23T20:30:39.000Z",
+          "id": "cfacda1aa5e8a0621f2cf5f95c5acd011cc8fdbd3692637673b07d19e19b0837",
+          "title": "A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement",
+          "description": "Exit of populist progressive marred by sexual assault allegations has left some Jewish Democrats relieved, but positions on Israel of likely replacement Troy Jackson are seen as largely similar The post A community divided: Maine’s Jewish Democrats gear up for Platner’s replacement appeared first on The Times of Israel .",
+          "sourceName": "The Times Of Israel",
+          "url": "https://www.timesofisrael.com/a-community-divided-maines-jewish-democrats-gear-up-for-platners-replacement/",
+          "publishedAt": "2026-07-24T17:57:34.000Z",
           "sentiment": 0
         },
         {
-          "id": "95e9825648f54161c5cee654bfb36a3d722fe1ed2a3b5fd6ec50ff548ebd487d",
-          "title": "Susan Collins dismisses Troy Jackson as a ‘Bernie Bro’",
-          "description": "\"He was ... lead for Senator Sanders' presidential campaign in Maine. He's a Bernie bro.”",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/23/politics/elections/maine-election-senate-susan-collins-troy-jackon-bernie-bro/",
-          "publishedAt": "2026-07-23T17:47:59.000Z",
+          "id": "4bbafd17dad350dcda4b2e0ab381f1977e2a3fad1a1b7b1b3fc3982a1de4cb1e",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Ksnv",
+          "url": "https://news3lv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:13.000Z",
           "sentiment": 0
         },
         {
-          "id": "297a472d14d3e47fc28e91249c8f13a4659ba713fc2b0dca5cedec8e52c2fdc5",
-          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
-          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
+          "id": "b9eae3d9057c16cc746c9761d1382f3d3e6e81bd0d1effc8f280c8635356fb59",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Wgxa",
+          "url": "https://wgxa.tv/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fd629866d4e54ea2c0ac76970f0466c7adc49a0cbd5a7a333c0afea1f90aeca5",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Katv",
+          "url": "https://katv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5a7280a51657c17a58f1acafa43741d4237660f7720325662c0b4c53225815ef",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Ktul",
+          "url": "https://ktul.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:01:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a628fa2a922188990244fc9179fb989618fc437033be4a69c3644d124626a15f",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Wtvc",
+          "url": "https://newschannel9.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:00:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "69761451840b68286de6c6772b09d745463b25f6e984034108eb7c109da4832d",
+          "title": "Fact Check Team: Why Maine Democrats are choosing a Senate nominee at a party convention",
+          "description": "Maine Democrats are set to gather on Saturday for an unusual political event that could have national consequences.",
+          "sourceName": "Kutv",
+          "url": "https://kutv.com/news/nation-world/fact-check-team-why-maine-democrats-are-choosing-a-senate-nominee-at-a-party-convention-endorsement-2026-election-politics-troy-jackson-general",
+          "publishedAt": "2026-07-24T16:00:57.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5389cce9251541bac3d7417a87a4be52ef4e6d59301f7146d504d3b37922a64f",
+          "title": "Why I left the Senate race and got behind Troy Jackson | Jordan Wood",
+          "description": "Maine Democrats voted for a fighter in Graham Platner. My friend is the candidate to carry that movement forward.",
           "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
-          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "url": "https://www.sunjournal.com/2026/07/24/why-i-left-the-senate-race-and-got-behind-troy-jackson-opinion/",
+          "publishedAt": "2026-07-24T16:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "a3bdf6e59514f8403aa8c62ed33881db1dc05526476350db69fe24a947dbfe00",
+          "title": "Why I left the Senate race and got behind Troy Jackson | Jordan Wood",
+          "description": "Maine Democrats voted for a fighter in Graham Platner. My friend is the candidate to carry that movement forward.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/24/why-i-left-the-senate-race-and-got-behind-troy-jackson-opinion/",
+          "publishedAt": "2026-07-24T16:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "d44c4c54acdcaf94d6cecc302e3f7928adbae066b41348c67eb72b5a7369a6a5",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Troy Record",
+          "url": "https://www.troyrecord.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
           "sentiment": 0
         },
         {
-          "id": "205d4811c31a458d70d6fc2c9914bba478b653617943e0a6601bdef0539eb316",
-          "title": "Troy Jackson’s pending victory feels more of a coronation | Opinion",
-          "description": "Maine Democratic voters have been robbed of the opportunity to critically assess a strong field of prospective candidates.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/23/troy-jacksons-pending-victory-feels-more-of-a-coronation-opinion/",
-          "publishedAt": "2026-07-23T16:00:00.000Z",
+          "id": "642043368a274e583f1bcf25700fccbe4dc7db3486f7bf211878d05e371f8e0b",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Canon City Daily Record",
+          "url": "https://www.canoncitydailyrecord.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "58b591c02e609c475ca74862626ea14071e5df79eb7c89bd5e7477a9b5eeb3cb",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "dae298c6820f4d4b6428fd5aabd7f52f8e9aa484684bfa580becfd8e094e1fb3",
+          "title": "What to know about Troy Jackson, Maine Democrats’ likely nominee for US Senate",
+          "description": "Jackson, a progressive Democrat, is a former president of the state's Senate.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/07/24/troy-jackson-maine-democrats-senate/",
+          "publishedAt": "2026-07-24T14:46:31.000Z",
           "sentiment": 0
         }
       ],
