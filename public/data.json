@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T09:05:34.369Z",
+  "lastUpdated": "2026-07-25T10:41:27.089Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -211,14 +211,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.09984429371231697,
+      "overallSentiment": 0.08987069569569568,
       "newsSentiment": 0,
-      "socialSentiment": 0.18043565891472874,
+      "socialSentiment": 0.15051486486486487,
       "mentions": {
         "news": 23,
-        "social": 130,
+        "social": 150,
         "youtube": 144,
-        "total": 297
+        "total": 317
       },
       "news": [
         {
@@ -431,12 +431,220 @@
       ],
       "social": [
         {
+          "id": "d02e99937fdd3857c8d57ccc55592e0d11ca2a7edbfe9f3d93c4c4d9bd688c90",
+          "authorHandle": "flolake.bsky.social",
+          "postText": "www.npr.org/2026/07/25/n...",
+          "createdAt": "2026-07-25T10:40:58.394Z",
+          "uri": "at://did:plc:kdssmjrjwqqcrudzajrkdhjr/app.bsky.feed.post/3mrhojydgec2t",
+          "sentiment": 0
+        },
+        {
+          "id": "45c1143a951e0aee1cddb63c27eac65b4e38a0f8742ebd904da3cdb76b64ddc2",
+          "authorHandle": "michelleelle.bsky.social",
+          "postText": "We've known for days now that it will be Troy Jackson.",
+          "createdAt": "2026-07-25T10:35:58.596Z",
+          "uri": "at://did:plc:5cgssuwlhoyd7bfjrepvte2p/app.bsky.feed.post/3mrhob2g6xs27",
+          "sentiment": 0
+        },
+        {
+          "id": "ba6153f877f883ab42e5e84642a99697a5927e927888fb070f4caf58bbba3ad4",
+          "authorHandle": "travelingjim.bsky.social",
+          "postText": "Maine Democrats to nominate Troy Jackson to replace Platner in US Senate race | Reuters www.reuters.com/legal/govern...",
+          "createdAt": "2026-07-25T10:33:35.969Z",
+          "uri": "at://did:plc:cgqatvkr3vzcf2efcn7loxlw/app.bsky.feed.post/3mrho4sfks22a",
+          "sentiment": 0
+        },
+        {
+          "id": "a40275f66c7f744cb8072bb5608bb2e7906bcff651b8a5ddeaf9af042e2d8308",
+          "authorHandle": "michelleelle.bsky.social",
+          "postText": "We've known for days that it will be Troy Jackson.",
+          "createdAt": "2026-07-25T10:31:39.298Z",
+          "uri": "at://did:plc:5cgssuwlhoyd7bfjrepvte2p/app.bsky.feed.post/3mrhnzd52bc27",
+          "sentiment": 0
+        },
+        {
+          "id": "8a6c81081a72ae8e783c698f12eef10d7f250d05c70de434ed0b1e0cb99e5362",
+          "authorHandle": "memeorandum.com",
+          "postText": "Democrats poised to nominate Troy Jackson in must-win Maine Senate race (NBC News)\n\nMain Link | memeorandum Permalink",
+          "createdAt": "2026-07-25T10:25:55Z",
+          "uri": "at://did:plc:yxwuluq3ksl4hur6mopcl5el/app.bsky.feed.post/3mrhnp3rzo62a",
+          "sentiment": 0
+        },
+        {
+          "id": "9bad87618a4ad7fa57f7a6068f09489e8f30cff2489c43f871f97f5b0a554fb5",
+          "authorHandle": "minouroufail.bsky.social",
+          "postText": "Great job, everyone.\n\nwww.nytimes.com/2026/07/25/u...",
+          "createdAt": "2026-07-25T10:25:14.462Z",
+          "uri": "at://did:plc:qqiqjgdns3n42rfgy65usg7h/app.bsky.feed.post/3mrhnnu4stk2z",
+          "sentiment": 0
+        },
+        {
+          "id": "3a963294bbfe7442b469211f12ed01cabb750050b029b4f5df505aed699ec274",
+          "authorHandle": "legal.reuters.com",
+          "postText": "Former Maine Senate President Troy Jackson is poised to accept the Democratic Party's U.S. Senate nomination on Saturday, formally ending the two-week scramble to replace Graham Platner on the ballot for November's midterm election.",
+          "createdAt": "2026-07-25T10:15:11Z",
+          "uri": "at://did:plc:ieqql4ogk6t5zdgimr2pntnm/app.bsky.feed.post/3mrhn3vjkty2o",
+          "sentiment": 0
+        },
+        {
+          "id": "022bb37f1c014196edb1c2da4a66b1e25d274a5f50292d2ea73d4e1ad179f470",
+          "authorHandle": "mcbridetd.bsky.social",
+          "postText": "Democrats poised to nominate Troy Jackson in must-win Maine Senate race www.nbcnews.com/politics/202...",
+          "createdAt": "2026-07-25T10:15:05.541Z",
+          "uri": "at://did:plc:lzfzawdilrmsfikvr4c6ytk4/app.bsky.feed.post/3mrhn3pfyh222",
+          "sentiment": 0
+        },
+        {
+          "id": "500d7b20c50dc388e77b7602c5c0d3b778ba2cd830f8da0530ebc82513c70dd1",
+          "authorHandle": "ayoobkk1984.bsky.social",
+          "postText": "Maine Democrats meet to select Senate nominee to replace Graham Platner\n\nWashington — Maine Democrats are gathering Saturday for the party's nominating convention to select a U.S. Senate nominee to replace Graham Platner on the ballot in November, with former state Senate President Troy Jackson…",
+          "createdAt": "2026-07-25T10:07:18Z",
+          "uri": "at://did:plc:7bt3pwkn3fedmrmuoj2qbfqa/app.bsky.feed.post/3mrhmnsvqm523",
+          "sentiment": 0
+        },
+        {
+          "id": "0c0d0a64472a432f06305b8b4e74a13161d5445db2ae6c528a54d02836ebb8ce",
+          "authorHandle": "floridasunjournal.bsky.social",
+          "postText": "Maine Democrats Nominate Jackson for Collins Senate Race Amid Fresh Concerns About Vetting\n\nMaine Democrats are poised to formally nominate Troy Jackson as their Senate candidate Saturday, moving swiftly to replace Graham Platner after his sudden withdrawal from the race. Jackson, a former state…",
+          "createdAt": "2026-07-25T10:03:59Z",
+          "uri": "at://did:plc:ngzryh2wdytcp2pxrgwguuuw/app.bsky.feed.post/3mrhmhvbjpe2l",
+          "sentiment": 0
+        },
+        {
+          "id": "c9af9ad040801ed4283ca42aaa45e5d5a6699a6dd0f95f4683b566987e15f4f0",
+          "authorHandle": "maradolan.bsky.social",
+          "postText": "Susan Collins “relying on a web of deep-pocketed outside groups, funded largely by billionaires megadonors”. That’s all she’s got. #TroyJackson #darkmoney www.nytimes.com/2026/07/25/u...",
+          "createdAt": "2026-07-25T10:02:41.502Z",
+          "uri": "at://did:plc:urrpcq2cy7zvbqbpagnlaybr/app.bsky.feed.post/3mrhmfjtss223",
+          "sentiment": 0.5
+        },
+        {
+          "id": "405426db94fbbd53851ba26d1de337edaae14fd25157cbf0186180a0082d6715",
+          "authorHandle": "verdantsquare.bsky.social",
+          "postText": "",
+          "createdAt": "2026-07-25T09:58:07Z",
+          "uri": "at://did:plc:blo3tbxok5fdd4az2zi73agt/app.bsky.feed.post/3mrhm5eg46w2k",
+          "sentiment": 0
+        },
+        {
+          "id": "7bbe28df4f0b9573f6612164fcb8618afca9ac04d4417260ae8ead32c8833195",
+          "authorHandle": "sandybeaches21.bsky.social",
+          "postText": "Translated:\n\"Oh, who would have thought? Troy Jackson, the successor to #MaineKanpf, is not only a fraud, a misogynist, and a racist, but also an antisemite. The usual trifecta, once again.\"",
+          "createdAt": "2026-07-25T09:36:39.302Z",
+          "uri": "at://did:plc:2fenehxdht55kdzzea3bf4xh/app.bsky.feed.post/3mrhkwxz5wc2q",
+          "sentiment": -1
+        },
+        {
+          "id": "78208c839aff4598c6e012b1a9a49f1081941d08b38f2125a0fa00f57f771230",
+          "authorHandle": "bradporcellato.bsky.social",
+          "postText": "The Maine Senate race is rated a toss-up as Troy Jackson runs on Medicare for all and abolishing ICE against Republican incumbent Susan Collins.\nhttps://www.foxnews.com/politics/platner-implosion-maine-democrats-rally-troy-jackson-high-stakes-senate-fight",
+          "createdAt": "2026-07-25T09:36:25.581197Z",
+          "uri": "at://did:plc:drwh37ctfbbgpduog3dnkphr/app.bsky.feed.post/3mrhkwm73pa2p",
+          "sentiment": 0
+        },
+        {
+          "id": "1089d00881927df37db0c8a570b89f8c64191334ca1be17c583ebd494b437313",
+          "authorHandle": "whitehousewatchdog.bsky.social",
+          "postText": "Jackson is expected to be selected as the party’s nominee at Saturday’s state party convention after all of his major opponents dropped out of the race.",
+          "createdAt": "2026-07-25T09:21:07.251Z",
+          "uri": "at://did:plc:chkh3qo3cdvmsycdvtoirih6/app.bsky.feed.post/3mrhk37b6at2f",
+          "sentiment": 0
+        },
+        {
+          "id": "27d292aa1e517e614b99cf8ec636df4d7664a969a3b3066e5241dbbafc701ecf",
+          "authorHandle": "whitehousewatchdog.bsky.social",
+          "postText": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "createdAt": "2026-07-25T09:18:10.853Z",
+          "uri": "at://did:plc:chkh3qo3cdvmsycdvtoirih6/app.bsky.feed.post/3mrhjvwztmf2v",
+          "sentiment": 0
+        },
+        {
+          "id": "03299280825b737f54c97d9ccd52c94405cbf273f055418066e9583965463b84",
+          "authorHandle": "npr.org",
+          "postText": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. n.pr/44JwiGt",
+          "createdAt": "2026-07-25T09:13:13.706689Z",
+          "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3mrhjn3le4g2g",
+          "sentiment": 0
+        },
+        {
+          "id": "fea231730ffae62bf8d574c5364f83a0832235b3c0e7219d801e6a4aa014d294",
+          "authorHandle": "usnewsbriefly.bsky.social",
+          "postText": "Democrats in Bangor, Maine will nominate Troy Jackson to replace Graham Platner and target Susan Collins for a Senate seat this fall.\n",
+          "createdAt": "2026-07-25T09:12:47.705Z",
+          "uri": "at://did:plc:zlxwgkchnvfhh6vxz6tphwby/app.bsky.feed.post/3mrhjmcskqe25",
+          "sentiment": 0
+        },
+        {
+          "id": "f11d467f41a2b0531dc6c2197e50babcd7fc4d82b84b215131b6482ed0ecfec0",
+          "authorHandle": "01adam12.bsky.social",
+          "postText": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "createdAt": "2026-07-25T09:12:29Z",
+          "uri": "at://did:plc:63ftgjwdvmlaixvrqq6sonlz/app.bsky.feed.post/3mrhjlttbxa24",
+          "sentiment": 0
+        },
+        {
+          "id": "b0ed776c3a074a2dc69c23b3c7c214fb29e0705cdb246b83fae370de2c8b3b12",
+          "authorHandle": "ayoobkk1984.bsky.social",
+          "postText": "After Platner implosion, Maine Democrats rush toward new Senate nominee despite fresh warning signs\n\nMaine Democrats rally around Troy Jackson for Senate bid Fox News’ Bryan Llenas reports on Maine Democrats strongly supporting Troy Jackson, who is set to become the Senate nominee after Graham…",
+          "createdAt": "2026-07-25T09:12:21Z",
+          "uri": "at://did:plc:7bt3pwkn3fedmrmuoj2qbfqa/app.bsky.feed.post/3mrhjllfho52y",
+          "sentiment": 0
+        },
+        {
+          "id": "5e2f4c0efb298de01bf6d68096af99830f951b9c41c1d7c36888340c1202b5fa",
+          "authorHandle": "ayoobkk1984.bsky.social",
+          "postText": "Longtime Sen. Susan Collins is facing a new Democratic challenger. Troy Jackson is on the cusp of the nomination, setting up a 101-day sprint in a must-win race that could decide control of the Senate.\n\nBANGOR, Maine — Former state Senate President Troy Jackson is on the cusp of becoming Democrats’…",
+          "createdAt": "2026-07-25T09:10:10Z",
+          "uri": "at://did:plc:7bt3pwkn3fedmrmuoj2qbfqa/app.bsky.feed.post/3mrhjhogpid25",
+          "sentiment": 0
+        },
+        {
+          "id": "b7dfd458857aa7559f6486c40995e5ad8a64eb7a34bc0cd7ce88993d5490fb78",
+          "authorHandle": "headline-feed.bsky.social",
+          "postText": "[NBC] DEMOCRATS POISED TO NOMINATE TROY JACKSON IN MUST-WIN MAINE SENATE RACE",
+          "createdAt": "2026-07-25T09:10:07.562806+00:00",
+          "uri": "at://did:plc:642zd52d36yxdwshde6edydk/app.bsky.feed.post/3mrhjhjzj5c2j",
+          "sentiment": 0
+        },
+        {
+          "id": "14497c3b7aea8dc754d9e2948794cd050e98656703b7077ad59f79c0ca864497",
+          "authorHandle": "fightingliberal.bsky.social",
+          "postText": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. ...",
+          "createdAt": "2026-07-25T09:09:57Z",
+          "uri": "at://did:plc:vaged6uocai4jrd2s5pd2ebo/app.bsky.feed.post/3mrhjhcm55v2i",
+          "sentiment": 0
+        },
+        {
+          "id": "7421bd62f76295957560a908a97f1e62edd112cd1db4c1e7e2a4bc23605abc70",
+          "authorHandle": "01adam12.bsky.social",
+          "postText": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+          "createdAt": "2026-07-25T09:08:25Z",
+          "uri": "at://did:plc:63ftgjwdvmlaixvrqq6sonlz/app.bsky.feed.post/3mrhjel36ti2n",
+          "sentiment": 0
+        },
+        {
           "id": "6a4629a4db7706f7693b5d080a44c78a065ae1b80d538fafebf3976a90740d58",
           "authorHandle": "samfisher90.bsky.social",
           "postText": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
           "createdAt": "2026-07-25T09:04:23Z",
           "uri": "at://did:plc:ddo2sqibuwq4kqufq37ktwxj/app.bsky.feed.post/3mrhj5bz2vk2l",
           "sentiment": 0
+        },
+        {
+          "id": "4dde828c2f1bdf774c5d516bec4f12020da367fe0625775ffc6e5f6c8764d3b1",
+          "authorHandle": "foxnews.com.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-07-25T09:00:51.000Z",
+          "uri": "at://did:plc:6pwit4ctv4egvys3qyqmgbi6/app.bsky.feed.post/3mrhmrfihfe72",
+          "sentiment": 0
+        },
+        {
+          "id": "cc76aaf716948eb62b40c59962a4fcf198440f8fe9f43a8c54426522752d13b1",
+          "authorHandle": "newsweek.com.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-07-25T09:00:00.000Z",
+          "uri": "at://did:plc:m6lbo2wi2yzbwup547ogi5kj/app.bsky.feed.post/3mrhlwe5axpk2",
+          "sentiment": null
         },
         {
           "id": "57bb98bc19b4302034a5eab035f139a06609b3b31fbbcacb390968e7600db0e4",
@@ -1421,54 +1629,6 @@
           "createdAt": "2026-07-24T11:28:57.557Z",
           "uri": "at://did:plc:vblf4fvlg2sn2v2pvyybscli/app.bsky.feed.post/3mrfaqunozk2b",
           "sentiment": 0.8
-        },
-        {
-          "id": "3529b4f567c7a45b58f09093170ecfe5ae3414f24a0eeb6862593e60bf1113a4",
-          "authorHandle": "bstnboy.bsky.social",
-          "postText": "Troy Jackson, Democratic candidate to steamroll Suzie Cavanaugh Collins,  ICE aficionado.\n\nFor those that can help, see below.\n\nThank you.",
-          "createdAt": "2026-07-24T10:39:16.884Z",
-          "uri": "at://did:plc:gnmvwraq2ktahom4kyqmzhcw/app.bsky.feed.post/3mrf5y22ql224",
-          "sentiment": 0.6
-        },
-        {
-          "id": "17c0fca26a4b4bd8a69a7d6e31ff27deae4a9fd8599110d427a46db7bb73852f",
-          "authorHandle": "hydevoltyge.bsky.social",
-          "postText": "Something strange going on in Maine possibly, some sort of coordination against Troy Jackson? There's certainly some media (CNN) already attempting that.",
-          "createdAt": "2026-07-24T10:33:40.869Z",
-          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mrf5nzmdx22t",
-          "sentiment": 0.5
-        },
-        {
-          "id": "53d3008ec50338ff4be2528176250562f540a7ac825cfda083bc91cd6e194f15",
-          "authorHandle": "wbur.org",
-          "postText": "Troy Jackson has political experience but lacks the charisma Platner brought to the race. Still, Democratic Party delegates are expected to formally nominate Jackson this weekend to challenge Sen. Susan Collins, in a pivotal race that could determine control of the Senate.",
-          "createdAt": "2026-07-24T10:05:10.695830Z",
-          "uri": "at://did:plc:4xks4szk6ck5zvyojnofnyat/app.bsky.feed.post/3mrf432pivv2c",
-          "sentiment": 0.1
-        },
-        {
-          "id": "631f7c4cf325b8aa0e42b6ba86e2cb99b5e7ce0761e98a3c0a12cce7a98bfe43",
-          "authorHandle": "wbur.org.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-07-24T10:02:03.000Z",
-          "uri": "at://did:plc:276ax7x753tqfyx7d34uheuj/app.bsky.feed.post/3mrfcen7eyaw2",
-          "sentiment": 0
-        },
-        {
-          "id": "1b88ceff899f876be83aa3d07d177daa7b44a9901415224b604524ade01a93a8",
-          "authorHandle": "slate.com",
-          "postText": "Graham Platner is over. Troy Jackson is here. Here’s how Democrats made the last-minute switch. slate.trib.al/cqE88lw",
-          "createdAt": "2026-07-24T09:42:44.028092Z",
-          "uri": "at://did:plc:wwiikm77cjmgpjn7i7iao43p/app.bsky.feed.post/3mrf2swhkim25",
-          "sentiment": 0.3
-        },
-        {
-          "id": "773e0df134609698d3b30d02d18f098ac0fedcfb5b7b83a2178857f7e879b3d5",
-          "authorHandle": "leiataillefur.bsky.social",
-          "postText": "I'm one who's sweating - he didn't do well in either gubernatorial senate primary yet he's been crowned - like Platner.\nwww.politico.com/news/2026/07...",
-          "createdAt": "2026-07-24T09:06:23.236Z",
-          "uri": "at://did:plc:v33bmwfrawdvhoczvsv6o2dy/app.bsky.feed.post/3mreyrwmix22v",
-          "sentiment": -1
         }
       ],
       "youtube": [
