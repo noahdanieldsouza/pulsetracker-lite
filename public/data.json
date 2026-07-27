@@ -1,135 +1,27 @@
 {
-  "lastUpdated": "2026-07-27T11:59:38.296Z",
+  "lastUpdated": "2026-07-27T14:25:48.783Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.07692307692307693,
-      "newsSentiment": -0.07692307692307693,
+      "overallSentiment": 0,
+      "newsSentiment": 0,
       "socialSentiment": null,
       "mentions": {
-        "news": 13,
+        "news": 1,
         "social": 0,
         "youtube": 0,
-        "total": 13
+        "total": 1
       },
       "news": [
         {
-          "id": "b335db1325db612d1d119f5b7a19364b27f77ada327baf4082d82c8cdd981ca2",
-          "title": "Maine Democrats nominate Troy Jackson to replace Graham Platner and take on Susan Collins",
-          "description": "Troy Jackson is likely to replace Graham Platner as the Democratic nominee after rival candidates dropped out and his supporters swept delegate elections.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4663494/maine-democrats-nominate-troy-jackson-replace-graham-platner-susan-collins/",
-          "publishedAt": "2026-07-25T15:58:43.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "db825e5bf26d97ba76530a07af2d870bb607f426d1ec89309e50e0d6f65cdcbc",
-          "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
-          "description": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations",
-          "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/troy-jackson-secures-democratic-nomination-154409400.html",
-          "publishedAt": "2026-07-25T15:44:09.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bebbcb0b1e363ed58d4e0c85853e657d517af64581a4bef15307fc8c603c2191",
-          "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
-          "description": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations In a race defined by scandal, withdrawals and a frantic hunt for a replacement candidate, Maine Democrats hit reset on their chaotic Senate primary on Saturday as Troy Jackson officially secured the party’s nomination. He took the stage at the Cross Insurance Center in Bangor to rapturous applause, a standing ovation and Noah Kahan’s Northern Attitude blaring over the speakers. “This is the absolute honor of my life,” Jackson said. Continue reading...",
-          "sourceName": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat",
-          "publishedAt": "2026-07-25T15:44:09.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6cc15c42cda24fae650251be794ef8f944805cd1abe44d1cf06a4d2e5c45cc92",
-          "title": "Maine Democrats nominate Troy Jackson to replace Graham Platner on Senate ballot",
-          "description": "Maine Democrats gathered Saturday to select former state Senate President Troy Jackson as the Senate nominee to replace Graham Platner on the ballot.",
-          "sourceName": "Cbs Boston",
-          "url": "https://www.cbsnews.com/boston/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/",
-          "publishedAt": "2026-07-25T15:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1825b30e511daa14a157d4dc03368fccb6a508d8dcc0c45b0cd365aaaedec60d",
-          "title": "Jackson formally clinches Democratic nod to take on Collins in Maine Senate race",
-          "description": "Former Maine Senate President Troy Jackson formally clinched the Democratic nod to take on Sen. Susan Collins (R-Maine) in November, giving the party just 100 days to quickly turn the tides in the must-win race. Jackson handily won on Saturday with 566 votes during the Democratic nomination convention in Bangor, Maine. His only challenger, biopharmaceutical executive Saundra...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/campaign/5989059-troy-jackson-democratic-nomination-maine-senate-race-2026/",
-          "publishedAt": "2026-07-25T15:36:58.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f614115c6540107f8923b99678447eaa61d8dbd726b82ad2f9573bc04c58755c",
-          "title": "Troy Jackson wins Democratic nomination for U.S. Senate",
-          "description": "The former Maine Senate president from Allagash won 566 of 571 delegates at a special Democratic convention at the Cross Insurance Center in Bangor.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/25/politics/elections/troy-jackson-wins-democratic-nomination-for-u-s-senate/",
-          "publishedAt": "2026-07-25T15:32:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6b85df462eb286f781112c779cb913a3ddc40cf980af01fed0eea0dde25e33db",
-          "title": "Democrats unite behind Troy Jackson as their next U.S. Senate candidate",
-          "description": "Jackson, a logger and former state lawmaker, was selected by Democrats at a convention Saturday to replace Graham Platner on the ballot.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/25/democrats-unite-behind-troy-jackson-as-their-next-u-s-senate-candidate/",
-          "publishedAt": "2026-07-25T15:26:31.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b93c7e30b93085730cc779d5a5b4251d8f9906828d9be66bd3cd0f74a6b53f74",
-          "title": "Democrats unite behind Troy Jackson as their next U.S. Senate candidate",
-          "description": "Jackson, a logger and former state lawmaker, was selected by Democrats at a convention Saturday to replace Graham Platner on the ballot.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/07/25/democrats-unite-behind-troy-jackson-as-their-next-u-s-senate-candidate/",
-          "publishedAt": "2026-07-25T15:26:31.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0ef6b871ac7c72e626699ac3b88d148f8b87e996a10a2e7019248a4cf3d04926",
-          "title": "Democrats unite behind Troy Jackson as their next US Senate candidate",
-          "description": "Jackson, a logger and former state lawmaker, was selected by at a convention Saturday to replace Graham Platner on the ballot.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/07/25/democrats-unite-behind-troy-jackson-as-their-next-u-s-senate-candidate/",
-          "publishedAt": "2026-07-25T15:26:31.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3fe60af2f7b35edfcbed5a1e7c0f7a4358b866e6f8fb86f79f5c0f28a4da737f",
-          "title": "Nazi tattooed Graham Platner's behavior is turning voters OFF the Democratic Party",
-          "description": "One chaotic race for the US Senate could cost the Democrats the upper hand in the November midterm elections.",
-          "sourceName": "Mail Online",
-          "url": "https://www.dailymail.com/news/article-16000785/Nazi-tattooed-Graham-Platners-behavior-turning-voters-Democratic-Party.html",
-          "publishedAt": "2026-07-25T15:26:26.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e9eebe3f1a0bb5d12a415b663d41d9c35f5baf25cd481dc03eaaf2f6099a0a67",
-          "title": "Nazi-tattooed Platner's behavior is turning voters OFF Democrats",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/nazi-tattooed-platners-behavior-is-turning-voters-off-democrats-19F1AF2F-D69C-4684-BE5B-7DF7CD249EB7",
-          "publishedAt": "2026-07-25T15:26:25.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ae90ed6738a49b97662daaa953d449af2ea131623149d41965434e0c6fba8385",
-          "title": "Maine Democrats' Clown Car Continues: Favorite Troy Jackson May Not Be Eligible to Run for Senate",
-          "description": "We're not sure what is going on up in the Pine Tree State, but we are enjoying watching the complete...",
-          "sourceName": "Twitchy",
-          "url": "https://twitchy.com/grateful-calvin/2026/07/25/maine-democrats-clown-car-continues-favorite-troy-jackson-may-not-be-eligible-to-run-for-senate-n2430605",
-          "publishedAt": "2026-07-25T15:00:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "da4f4a574caefddd37139b59808fc78678002aa3866f16a6345184415cc6a250",
-          "title": "Maine Democrats pick Troy Jackson to replace Platner as Senate nominee",
-          "description": "Former Maine Senate President Troy Jackson greets delegates at the nominating convention in Bangor after becoming the new Democratic nominee to take on Republican Sen. Susan Collins.",
-          "sourceName": "Roll Call",
-          "url": "https://rollcall.com/2026/07/25/maine-democrats-pick-troy-jackson-to-replace-platner-as-senate-nominee/",
-          "publishedAt": "2026-07-25T13:41:30.000Z",
+          "id": "dcc12788c79d41600d685d21c294bd421f979e03047d4e4d54c9dfd5bed31b4d",
+          "title": "Mark Kelly: Democrats can ‘win in Maine’ with Troy Jackson, Platner ‘wasn’t vetted well enough’",
+          "description": "In an exclusive interview with Meet the Press, Sen. Mark Kelly (D-Ariz.) says he believes Troy Jackson is a “strong candidate” who can beat Republican Senator Susan Collins after Jackson replaced Graham Platner on the ballot.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/mark-kelly-democrats-can-win-in-maine-with-troy-jackson-85966084",
+          "publishedAt": "2026-07-26T15:07:00.000Z",
           "sentiment": 0
         }
       ],
@@ -140,197 +32,16 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.2,
-      "newsSentiment": -0.2,
+      "overallSentiment": null,
+      "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
-        "news": 20,
+        "news": 0,
         "social": 0,
         "youtube": 0,
-        "total": 20
+        "total": 0
       },
-      "news": [
-        {
-          "id": "3c6fcc213e2ed550c9cf08bd6ad138a8b46bbda2274edaa8657359e0cbe6988d",
-          "title": "Maine Democrats select Troy Jackson as Senate candidate",
-          "description": "IE 11 is not supported. For an optimal experience visit our site on another browser. Hundreds of thousands race to escape wildfires in France and Spain 02:04 Daredevils jump off Seattle’s Space Needle 01:17 Inside the battle for clean energy on Native American land 02:34 Anti-ICE demonstrations across the country 01:47 Now Playing Maine Democrats [...] The post Maine Democrats select Troy Jackson as Senate candidate appeared first on News Pub . The post Maine Democrats select Troy Jackson as Senate candidate appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/maine-democrats-select-troy-jackson-as-senate-candidate/",
-          "publishedAt": "2026-07-26T00:15:05.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "698f337a2fd5c6e2081b6bfdd541c09b8a5694a39160616659b2c41ba59ef159",
-          "title": "Republican Lawmaker Asks Secretary of State to Investigate Whether Troy Jackson Is Eligible for Democratic U.S. Senate Nomination",
-          "description": "Just hours before Maine Democrats are scheduled to meet in Bangor to select a replacement nominee for the U.S. Senate, a Republican state lawmaker is asking Secretary of State Shenna Bellows to determine whether former Senate President Troy Jackson is legally eligible to receive the nomination at all...",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-news/4389358/posts",
-          "publishedAt": "2026-07-26T00:08:36.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "75313e3982990879c03333e6af79de176b50c52284c15ede0b02dd123abe90f5",
-          "title": "Maine has a \"sore loser\" law that says a candidate that runs for one office and loses cannot run for another office in the same cycle",
-          "description": "Maine has a \"sore loser\" law that says a candidate that runs for one office and loses cannot run for another office in the same cycle. After Graham Platner dropped out, Maine Dems are poised to nominate Troy Jackson. But Jackson ran for Governor (and lost the primary). Eligible?",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-bloggers/4389351/posts",
-          "publishedAt": "2026-07-25T22:25:21.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "06870f85c0530b60b4ca9ef08f6b28a79fe9c27b70e0945920dc417df199a8e3",
-          "title": "Democrats pick new Senate candidate in Maine in aftermath of Platner debacle - Sat, 25 Jul 2026 PST",
-          "description": "BANGOR, Maine – The Maine Democratic Party formally selected Troy Jackson as its new Senate nominee on Saturday, ending three tumultuous weeks that nearly derailed the party’s quest to unseat veteran Republican Sen. Susan Collins.",
-          "sourceName": "Spokesman",
-          "url": "http://www.spokesman.com/stories/2026/jul/25/democrats-pick-new-senate-candidate-in-maine-in-af/",
-          "publishedAt": "2026-07-25T20:24:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "88bc0a10221462d6c572829917d9a5ca82191d4ac0c4faae7efaaf80f529c4c3",
-          "title": "Maine Democrats pick Troy Jackson to replace Platner in Senate race",
-          "description": "BANGOR, Maine >> Maine Democrats chose Troy Jackson, a progressive former state legislator, to replace Graham Platner as their Senate candidate at a convention today that followed weeks of internal turmoil in a key battleground state.",
-          "sourceName": "Hawaii News",
-          "url": "https://www.staradvertiser.com/2026/07/25/breaking-news/maine-democrats-pick-troy-jackson-to-replace-platner-in-senate-race/",
-          "publishedAt": "2026-07-25T18:50:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0f2acba75865211f38cde74309fde17ca727266b4374bcc4862063aaa660a5a2",
-          "title": "Maine Democrats Nominate Jared Jackson to Challenge Republican Senator Susan Collins After Turbulent Primary",
-          "description": "Following a messy nomination process marred by scandal, Maine Democrats have rallied behind former Senate President Jared Jackson as thier standard-bearer in the effort to oust long-serving Republican Senator Susan Collins. Jackson's nomination at a state conVention comes after the original primary winner was forced to withdraw, and he right now faces the daunting tasks of overcoming Collins's financial advantage and legal challenges to his candidacy.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/maine-democrats-nominate-jared-jackson-to-challenge-85942375",
-          "publishedAt": "2026-07-25T17:07:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "591d1b68d3657bcbb325f9ccb9c1ea1ac44c21a385f4e073d5cd5fa35e44e5d6",
-          "title": "Democrats May Be in Big Trouble in Their Maine Senate Do-Over",
-          "description": "Maine Democrats have had a rough go of vetting candidates this cycle, and it isn't getting easier. Their original Senate...",
-          "sourceName": "Pjmedia.com",
-          "url": "https://pjmedia.com/matt-margolis/2026/07/25/democrats-may-be-in-big-trouble-in-their-maine-senate-do-over-n4955444",
-          "publishedAt": "2026-07-25T16:54:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1e391be2d6a86164a3d3571c2c0168031f214e58ae9caa886bce7f6b1cea0124",
-          "title": "Maine Democrats nominate Troy Jackson to replace Graham Platner and take on Susan Collins",
-          "description": "Troy Jackson is likely to replace Graham Platner as the Democratic nominee after rival candidates dropped out and his supporters swept delegate elections.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4663494/maine-democrats-nominate-troy-jackson-replace-graham-platner-susan-collins/",
-          "publishedAt": "2026-07-25T15:58:43.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "59fcd3a0cb8427faf1e92b06e960efb0a928de86fd4b20bdb38a097aec3e3b0c",
-          "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
-          "description": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations",
-          "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/troy-jackson-secures-democratic-nomination-154409400.html",
-          "publishedAt": "2026-07-25T15:44:09.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1699ef2ce7b5abe8e0032e5f168b8a5dc14f8ec8618a75e255ab88c2e7935a30",
-          "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
-          "description": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations In a race defined by scandal, withdrawals and a frantic hunt for a replacement candidate, Maine Democrats hit reset on their chaotic Senate primary on Saturday as Troy Jackson officially secured the party’s nomination. He took the stage at the Cross Insurance Center in Bangor to rapturous applause, a standing ovation and Noah Kahan’s Northern Attitude blaring over the speakers. “This is the absolute honor of my life,” Jackson said. Continue reading...",
-          "sourceName": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat",
-          "publishedAt": "2026-07-25T15:44:09.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5e550c94078628c6f52bd02afe1e8b9b743312c41905fe594559c441fcd3523d",
-          "title": "Maine Democrats nominate Troy Jackson to replace Graham Platner on Senate ballot",
-          "description": "Maine Democrats gathered Saturday to select former state Senate President Troy Jackson as the Senate nominee to replace Graham Platner on the ballot.",
-          "sourceName": "Cbs Boston",
-          "url": "https://www.cbsnews.com/boston/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/",
-          "publishedAt": "2026-07-25T15:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "886306448b8115dd206ce911699efd22faee6e4bfd807bc5a0bedc73ca957fc8",
-          "title": "Jackson formally clinches Democratic nod to take on Collins in Maine Senate race",
-          "description": "Former Maine Senate President Troy Jackson formally clinched the Democratic nod to take on Sen. Susan Collins (R-Maine) in November, giving the party just 100 days to quickly turn the tides in the must-win race. Jackson handily won on Saturday with 566 votes during the Democratic nomination convention in Bangor, Maine. His only challenger, biopharmaceutical executive Saundra...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/campaign/5989059-troy-jackson-democratic-nomination-maine-senate-race-2026/",
-          "publishedAt": "2026-07-25T15:36:58.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "97d0aec4203f263fd68fe15080a004a01fc8bf7f2cb131c7df69ada2fbccd341",
-          "title": "Troy Jackson wins Democratic nomination for U.S. Senate",
-          "description": "The former Maine Senate president from Allagash won 566 of 571 delegates at a special Democratic convention at the Cross Insurance Center in Bangor.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/25/politics/elections/troy-jackson-wins-democratic-nomination-for-u-s-senate/",
-          "publishedAt": "2026-07-25T15:32:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b9377d48b6ee1026af1668b367e9fb4c246f7f34f98c094306ff2c75400c3115",
-          "title": "Democrats unite behind Troy Jackson as their next U.S. Senate candidate",
-          "description": "Jackson, a logger and former state lawmaker, was selected by Democrats at a convention Saturday to replace Graham Platner on the ballot.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/25/democrats-unite-behind-troy-jackson-as-their-next-u-s-senate-candidate/",
-          "publishedAt": "2026-07-25T15:26:31.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a8dba4de216fd01dec280fbb6a89a91e3406ec4849e6ac08081cd73bc6fdaf49",
-          "title": "Democrats unite behind Troy Jackson as their next U.S. Senate candidate",
-          "description": "Jackson, a logger and former state lawmaker, was selected by Democrats at a convention Saturday to replace Graham Platner on the ballot.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/07/25/democrats-unite-behind-troy-jackson-as-their-next-u-s-senate-candidate/",
-          "publishedAt": "2026-07-25T15:26:31.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8a95e50e5943dc09d72e0a4b85cb934b8ac2beb7ab3ba3937c4842f24e994ed9",
-          "title": "Democrats unite behind Troy Jackson as their next US Senate candidate",
-          "description": "Jackson, a logger and former state lawmaker, was selected by at a convention Saturday to replace Graham Platner on the ballot.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/07/25/democrats-unite-behind-troy-jackson-as-their-next-u-s-senate-candidate/",
-          "publishedAt": "2026-07-25T15:26:31.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f8548bf702243193f38f64ecd57303c664fc87b16f603cc6f2de1e376ab003e8",
-          "title": "Nazi tattooed Graham Platner's behavior is turning voters OFF the Democratic Party",
-          "description": "One chaotic race for the US Senate could cost the Democrats the upper hand in the November midterm elections.",
-          "sourceName": "Mail Online",
-          "url": "https://www.dailymail.com/news/article-16000785/Nazi-tattooed-Graham-Platners-behavior-turning-voters-Democratic-Party.html",
-          "publishedAt": "2026-07-25T15:26:26.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "ec25513da3205b7a23ddec33eeed2533b69cef9064cecb5783980cbbbcf23de2",
-          "title": "Nazi-tattooed Platner's behavior is turning voters OFF Democrats",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/nazi-tattooed-platners-behavior-is-turning-voters-off-democrats-19F1AF2F-D69C-4684-BE5B-7DF7CD249EB7",
-          "publishedAt": "2026-07-25T15:26:25.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "6c206130bd7f3b882fd0d35b55841a9260345a7649e35bb03aae35e569fd4db9",
-          "title": "Maine Democrats' Clown Car Continues: Favorite Troy Jackson May Not Be Eligible to Run for Senate",
-          "description": "We're not sure what is going on up in the Pine Tree State, but we are enjoying watching the complete...",
-          "sourceName": "Twitchy",
-          "url": "https://twitchy.com/grateful-calvin/2026/07/25/maine-democrats-clown-car-continues-favorite-troy-jackson-may-not-be-eligible-to-run-for-senate-n2430605",
-          "publishedAt": "2026-07-25T15:00:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "b747216e47e12ff27f28153e037d6fd23d29336c0df347f4eada13a7b377f90e",
-          "title": "Maine Democrats pick Troy Jackson to replace Platner as Senate nominee",
-          "description": "Former Maine Senate President Troy Jackson greets delegates at the nominating convention in Bangor after becoming the new Democratic nominee to take on Republican Sen. Susan Collins.",
-          "sourceName": "Roll Call",
-          "url": "https://rollcall.com/2026/07/25/maine-democrats-pick-troy-jackson-to-replace-platner-as-senate-nominee/",
-          "publishedAt": "2026-07-25T13:41:30.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -338,1005 +49,789 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.26424542771782206,
-      "newsSentiment": 0.054647272727272746,
+      "overallSentiment": 0.27548703448314976,
+      "newsSentiment": 0.08837209302325578,
       "socialSentiment": 0.24688337662337656,
       "mentions": {
-        "news": 110,
+        "news": 86,
         "social": 387,
         "youtube": 213,
-        "total": 710
+        "total": 686
       },
       "news": [
         {
-          "id": "f58a20a5bb93c4ba5aa975078dc1d29efbc49835fd24ce74f3cae6476f0815ec",
-          "title": "AP News Summary at 9:00 p.m. EDT",
-          "description": "Van slams into people gathered for Berlin's LGBTQ+ event, killing 1 and injuring at least 16",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/ap-news-summary-at-9-00-p-m-edt/article_9a737e9c-fc81-5a37-916b-3b39aa01e6d9.html",
-          "publishedAt": "2026-07-26T01:00:19.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "85de7f9a3d5bf3a0bdf2379f1992ea1c15fa87bc6af985c8188eb4a0b780851c",
-          "title": "Court checks Pritzker as Trump administration scores another immigration win",
-          "description": "NEWYou can now listen to Fox News articles! Illinois Gov. JB Pritzker was dealt a major legal blow Friday after a federal judge gutted key state laws providing in-state tuition, financial aid and scholarships to illegal immigrants, marking another win for the Trump administration’s nationwide immigration agenda. U.S. District Judge Stephen McGlynn, a Trump appointee [...] The post Court checks Pritzker as Trump administration scores another immigration win appeared first on News Pub . The post Court checks Pritzker as Trump administration scores another immigration win appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/midwest/illinois/court-checks-pritzker-as-trump-administration-scores-another-immigration-win/",
-          "publishedAt": "2026-07-26T00:51:08.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "dd186195a4479de970778bd216b3b9c44d2c9252b7db4007aab03538a9239acf",
-          "title": "Heat builds Sunday before two rounds of storms bring relief | July 25, 2026",
-          "description": "TONIGHT Mostly cloudy skies continue with patchy fog developing after midnight. Some of that fog could become locally dense, especially outside the Indianapolis metro and in places that received rain Saturday. Lows settle into the upper 60s with light and variable winds. Once any leftover sprinkles fade, the main overnight concern will be reduced visibility [...] The post Heat builds Sunday before two rounds of storms bring relief | July 25, 2026 appeared first on News Pub . The post Heat builds Sunday before two rounds of storms bring relief | July 25, 2026 appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/midwest/indiana/heat-builds-sunday-before-two-rounds-of-storms-bring-relief-july-25-2026/",
-          "publishedAt": "2026-07-26T00:45:06.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "73bb200215c6a78045ed9729bbce162bdfac9da481cff210d51f0e6d026899d1",
-          "title": "RAGBRAI wraps in Dubuque with final dip in the Mississippi",
-          "description": "DUBUQUE, Iowa (KCRG) – Thousands of cyclists completed RAGBRAI’s 53rd annual ride Saturday, dipping their tires into the Mississippi River to mark the end of a nearly 400-mile journey across Iowa. Riders covered just over 34 miles on the final day, finishing in Dubuque after seven days on the road. This year’s route ran from [...] The post RAGBRAI wraps in Dubuque with final dip in the Mississippi appeared first on News Pub . The post RAGBRAI wraps in Dubuque with final dip in the Mississippi appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/midwest/iowa/ragbrai-wraps-in-dubuque-with-final-dip-in-the-mississippi/",
-          "publishedAt": "2026-07-26T00:39:05.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "56b3e9412e9f952403649f39ba749ac2a5301cab3b287b283d2df3b1e9b800cd",
-          "title": "Labor Advocate Troy Jackson Wins Maine Democratic Senate Nomination, Vows to Defeat Susan Collins",
-          "description": "At a Democratic convention in Bangor, Troy Jackson clinched the Senate nomination with overwhelming delegate support, launching a general election challenge to long-time Republican Senator Susan Collins. Jackson's speech framed the race as a fight for working people against a record of corporate tax cuts and conservative judicial appointments, using Collins's own word \"concerned\" as a central critique.",
+          "id": "c19fa79dfbda92ed7859a0bb9afdcf7b00da1d4fd3f383040d3c9bc78f84e637",
+          "title": "Bernie Sanders rejects regret over early Graham Platner support despite ‘warning signs’",
+          "description": "Bernie Sanders says he urged Graham Platner to withdraw after the sexual assault allegation surfaced but rejected any regret over his early endorsement.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/labor-advocate-troy-jackson-wins-maine-democratic-senate-85949720",
-          "publishedAt": "2026-07-26T00:35:46.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "e4406747797796afe752c995b6e8bd4e133929b0c1a98dff7a4b123ebad33815",
-          "title": "330 + Communities Nationwide Gather for Vigils for Lorenzo, Johan and All Lives Taken by ICE",
-          "description": "People Across the Country Come Together to Demand Justice for Lorenzo. Justice for Johan. Justice for All. ICE Out.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/330-communities-nationwide-gather-for-vigils-for-lorenzo-85949761",
-          "publishedAt": "2026-07-26T00:35:46.000Z",
+          "url": "https://us.headtopics.com/news/bernie-sanders-rejects-regret-over-early-graham-platner-85976846",
+          "publishedAt": "2026-07-27T01:36:58.000Z",
           "sentiment": 0
         },
         {
-          "id": "1e632852c88c54dc25b17939864452c3f08df5b146f197bcf341b3bce8f5c1fb",
-          "title": "Troy Jackson Clinches Democratic Senate Nomination in Maine Amid Controversy",
-          "description": "Maine Democrats have nominated Troy Jackson as their U.S. Senate candidate to challenge Susan Collins, but his campaign is clouded by allegations of violence. The convention process, described as transparent, has unified the party behind Jackson despite his tumultuous reputation.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/troy-jackson-clinches-democratic-senate-nomination-in-maine-85949822",
-          "publishedAt": "2026-07-26T00:35:46.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "ef808e13fd5074c2efd9ee74f32ac4a73ba70eb161a7ca973bad3c6f30ad81ef",
-          "title": "Troy Jackson wins Maine Democratic Senate nomination, keeps mum on Israel, AIPAC",
-          "description": "Senate hopeful, who previously accused Israel of 'genocide,' skirts issue in victory speech, while anti-Israel activists rally in support of him outside convention hall The post Troy Jackson wins Maine Democratic Senate nomination, keeps mum on Israel, AIPAC appeared first on The Times of Israel .",
-          "sourceName": "The Times Of Israel",
-          "url": "https://www.timesofisrael.com/troy-jackson-wins-maine-democratic-senate-nomination-keeps-mum-on-israel-aipac/",
-          "publishedAt": "2026-07-26T00:35:10.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "9a32dd3a8e8ada670a5b81bd9acd434398114402719ce5b020671303296e0d47",
-          "title": "1 adult found dead during welfare check at Gardner, Kansas, residence",
-          "description": "KANSAS CITY, Mo. — The Gardner Police Department is investigating the death of an individual who was found dead Saturday. Police responded around 7:55 a.m. Saturday to a residence in the 200 block of North Laurel Street in Gardner, Kansas, to perform a welfare check. During the welfare check, officers found one adult dead, per [...] The post 1 adult found dead during welfare check at Gardner, Kansas, residence appeared first on News Pub . The post 1 adult found dead during welfare check at Gardner, Kansas, residence appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/midwest/kansas/1-adult-found-dead-during-welfare-check-at-gardner-kansas-residence/",
-          "publishedAt": "2026-07-26T00:33:08.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "54e07fc7d67b329a9e8aed197b3ef7f402edb08acf88fb7ddf9d05adc21ba91f",
-          "title": "Troy Jackson wins Maine Democratic Senate nomination, omits mention of Israel, AIPAC",
-          "description": "While Jackson took several shots during his acceptance address at Sen. Susan Collins, the incumbent Republican he will now face in the general election, he did not mention Israel or AIPAC.",
-          "sourceName": "Jpost",
-          "url": "https://www.jpost.com/american-politics/article-903626",
-          "publishedAt": "2026-07-26T00:31:49.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "f4c5134d65eb79c6bc1e99b106e96112c956aba7c24c829a999661d6cd1a5fad",
-          "title": "Sen. Collins calls new Democratic US Senate nominee Troy Jackson 'hyper-partisan'",
-          "description": "In an interview, Collins said, \"He’s very much a person who takes a hyper-partisan approach to the issues. I think that’s one of the big contrasts between us.\"",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/senator-susan-collins/senator-susan-collins-democratic-us-senate-nominee-troy-jackson-hyper-partisan-maine/97-b806b385-4dd0-4748-a46d-53c168283ba2",
-          "publishedAt": "2026-07-26T00:27:48.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "36fec3753b678ab50873cdde48e63b39ad549f82ff233f2267fe1295879c6e3f",
-          "title": "1 dead after two-vehicle crash in Leslie County",
-          "description": "LESLIE COUNTY, Ky. (LEX News) — One person is dead after a two-vehicle collision on Hal Rogers Parkway in Leslie County on Saturday, according to Kentucky State Police. Kentucky State Police Trooper Matt Gayhart says, they were called to a head-on collision at mile marker 37 on Hal Rogers Parkway in Leslie County at 2:57 [...] The post 1 dead after two-vehicle crash in Leslie County appeared first on News Pub . The post 1 dead after two-vehicle crash in Leslie County appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/south/kentucky/1-dead-after-two-vehicle-crash-in-leslie-county/",
-          "publishedAt": "2026-07-26T00:27:06.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0d9923e632c9e00c1a249683f0af76147d05ef52af62fd5daebe1cbfb6ea6a7c",
-          "title": "Trump expands Ratepayer Protection Pledge for AI data centers; Landry attends White House event",
-          "description": "NEW ORLEANS (WVUE) – President Donald Trump expanded his pledge aimed at ensuring AI data centers do not raise electricity bills for Americans. Louisiana Gov. Jeff Landry and Entergy CEO Drew Marsh attended the White House event. “With the Trump Administration’s Ratepayer Protection Plan the American innovators and consumers strive to win together because we’re [...] The post Trump expands Ratepayer Protection Pledge for AI data centers; Landry attends White House event appeared first on News Pub . The post Trump expands Ratepayer Protection Pledge for AI data centers; Landry attends White House event appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/south/louisiana/trump-expands-ratepayer-protection-pledge-for-ai-data-centers-landry-attends-white-house-event/",
-          "publishedAt": "2026-07-26T00:21:09.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7b5359d6378c33bc084ab19e80b846c00bd8288ed160d248fe2beeddef35ee94",
-          "title": "Maine Democrats select Troy Jackson as Senate candidate",
-          "description": "IE 11 is not supported. For an optimal experience visit our site on another browser. Hundreds of thousands race to escape wildfires in France and Spain 02:04 Daredevils jump off Seattle’s Space Needle 01:17 Inside the battle for clean energy on Native American land 02:34 Anti-ICE demonstrations across the country 01:47 Now Playing Maine Democrats [...] The post Maine Democrats select Troy Jackson as Senate candidate appeared first on News Pub . The post Maine Democrats select Troy Jackson as Senate candidate appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/maine-democrats-select-troy-jackson-as-senate-candidate/",
-          "publishedAt": "2026-07-26T00:15:05.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "20989c42b4321cb3a54ed5f7c1546f098dc1b8644e40bc6cd9ea1b8337f83499",
-          "title": "Maine Democrats Declare Troy Jackson Winner of Convention, Formally Replacing Graham Platner",
-          "description": "Maine Democrats formally declared Troy Jackson the winner of the Maine Democrat Party’s U.S. Senate Nominating Convention, meaning he will formally replace scandal-plagued Graham Platner in the race against incumbent Rep. Susan Collins (R-ME). The post Maine Democrats Declare Troy Jackson Winner of Convention, Formally Replacing Graham Platner appeared first on Breitbart .",
-          "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/politics/2026/07/25/maine-democrats-declare-troy-jackson-winner-of-convention-formally-replacing-graham-platner/",
-          "publishedAt": "2026-07-26T00:11:03.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "e181e250728b02538d9d8e7dd1cb8248bc9c240caedc25daa452fff78aca71b8",
-          "title": "Maine Dems Declare Troy Jackson Winner of Convention for Sen. Primary",
-          "description": "Maine Democrats formally declared Troy Jackson the winner of the Maine Democrat Party’s U.S. Senate Nominating Convention, meaning he will formally replace scandal-plagued Graham Platner in the race against incumbent Rep. Susan Collins (R-ME). The Maine Democrat Party announced that Jackson secured the nomination at this weekend’s convention, receiving support from 566 delegates across the state. “Congratulations [...] The post Maine Dems Declare Troy Jackson Winner of Convention for Sen. Primary appeared first on CBNC .",
-          "sourceName": "Cbnc",
-          "url": "https://cbnc.com/maine-dems-declare-troy-jackson-winner-of-convention-for-sen-primary/",
-          "publishedAt": "2026-07-26T00:11:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "03d6af5e3d3c6457470516abc718a1dc55c934a9b66c56d1a706c44b76d13f20",
-          "title": "Maryland’s rising cost of living leaves 39 percent of its residents struggling to make ends meet",
-          "description": "By Makayla Walker mwalker@afro.comAFRO Intern Nearly four out of every 10 Maryland households cannot afford the state’s basic cost of living despite many adults working full time, according to newly released ALICE data from United Way of Central Maryland. According to 2024’s household survival budget, it costs $42,120 for one adult to afford the essentials of [...] The post Maryland’s rising cost of living leaves 39 percent of its residents struggling to make ends meet appeared first on News Pub . The post Maryland’s rising cost of living leaves 39 percent of its residents struggling to make ends meet appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/south/maryland/marylands-rising-cost-of-living-leaves-39-percent-of-its-residents-struggling-to-make-ends-meet/",
-          "publishedAt": "2026-07-26T00:09:05.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7326805e2569480a70d414f6facee351ee15367723266ea46c0b43f22ffe2340",
-          "title": "Republican Lawmaker Asks Secretary of State to Investigate Whether Troy Jackson Is Eligible for Democratic U.S. Senate Nomination",
-          "description": "Just hours before Maine Democrats are scheduled to meet in Bangor to select a replacement nominee for the U.S. Senate, a Republican state lawmaker is asking Secretary of State Shenna Bellows to determine whether former Senate President Troy Jackson is legally eligible to receive the nomination at all...",
+          "id": "8fd0c2de8c468844fbc8d9ad714058405feacf796421d91d376f168f142d0bf7",
+          "title": "Bernie Sanders has no regrets for ignoring warning signs about disgraced pick Graham Platner",
+          "description": "Sen. Bernie Sanders insisted that he has no regrets about his initial stance standing by disgraced oyster farmer Graham Platner despite an avalanche of warning signs. Sanders (I-Vt.) had been among Platner’s earliest backers, catapulting him to prominence with his endorsement shortly after the oyster farmer jumped in the race for Maine’s Senate seat. “No, I don’t think so,” Sanders told CBS News’ “Face the Nation” on Sunday when asked about whether he had regrets for not abandoning Platner sooner. The self-described democratic socialist had stuck with Platner during a string of scandals, defending him after revelations emerged that he...",
           "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-news/4389358/posts",
-          "publishedAt": "2026-07-26T00:08:36.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "750a84545e463a863a65b30729b30dc1c33100ba2fbf65f91ca25ed5a7b033b0",
-          "title": "AP News Summary at 8:00 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Lufkindailynews",
-          "url": "https://lufkindailynews.com/anpa/us/ap-news-summary-at-8-00-p-m-edt/article_9c17fd20-c3b1-5b4c-84ef-4d2813358eb3.html",
-          "publishedAt": "2026-07-26T00:00:52.000Z",
+          "url": "https://freerepublic.com/focus/f-chat/4389471/posts",
+          "publishedAt": "2026-07-27T01:05:49.000Z",
           "sentiment": 0
         },
         {
-          "id": "cc41494d02c2815615632c060e5579bd61db4622d19db00797ae240642a2040b",
-          "title": "AP News Summary at 8:00 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/ap-news-summary-at-8-00-p-m-edt/article_9a737e9c-fc81-5a37-916b-3b39aa01e6d9.html",
-          "publishedAt": "2026-07-26T00:00:52.000Z",
+          "id": "7b80aee02aeb34a47881cc723d2e665bc44c22dd3bd20a136bb1274f0a404eec",
+          "title": "Bernie Sanders rejects regret over early Graham Platner support despite ‘warning signs’",
+          "description": "Bernie Sanders says he urged Graham Platner to withdraw after the sexual assault allegation surfaced but rejected any regret over his early endorsement.",
+          "sourceName": "Fox News",
+          "url": "https://www.foxnews.com/media/bernie-sanders-rejects-regret-early-graham-platner-support-despite-warning-signs",
+          "publishedAt": "2026-07-27T00:25:02.000Z",
           "sentiment": 0
         },
         {
-          "id": "87eb3535500e30d2bcc916e0f6f99925897ca55b2193f0eae286995cac7195c9",
-          "title": "Politics chat: How the war with Iran will shape midterms, Troy Jackson enters Maine Senate race",
-          "description": "We'll look at how the war with Iran might shape the outcome for the 2026 Midterm elections, as well as how the new Democratic senate candidate in Maine might fare against the Republican incumbent.",
-          "sourceName": "Ideastream Public Media",
-          "url": "https://www.ideastream.org/2026-07-26/politics-chat-how-the-war-with-iran-will-shape-midterms-troy-jackson-enters-maine-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
+          "id": "8f41f0e9890627efd4fffb89c7f8ab5914f12efeade616ebfc1613ba00d63918",
+          "title": "Inside Fauci's private diary: What he wrote about Trump, TV personalities and celebrities",
+          "description": "Anthony Fauci's diary entries reveal candid opinions about Trump, Mark Meadows, Jake Tapper and celebrities he encountered during the COVID-19 pandemic.",
+          "sourceName": "Headtopics",
+          "url": "https://headtopics.com/news/inside-fauci-s-private-diary-what-he-wrote-about-trump-tv-85975951",
+          "publishedAt": "2026-07-27T00:07:18.000Z",
           "sentiment": 0
         },
         {
-          "id": "caa5be1bc8b076345088ab632236c767531fc4c63f95938f38faf3a653ba6a22",
-          "title": "Maine Democrats pick Troy Jackson to take over from Platner in Senate race",
-          "description": "Maine Democrats have chosen their candidate to run against incumbent GOP Sen. Susan Collins. Troy Jackson, former state lawmaker, steps in where the scandal-plagued Graham Platner stepped out.",
-          "sourceName": "Nevada Public Radio | Npr And Local News In Las Ve",
-          "url": "https://knpr.org/2026-07-26/maine-democrats-pick-troy-jackson-to-take-over-from-platner-in-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
+          "id": "42ad6b07097b80c4fc4f59cdb8f2503782d4aebd674f515a3fce195f866464ec",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Wskg",
+          "url": "https://www.wskg.org/npr-news/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "01046e0e471f8b57327256ce9179afb40932f4a8ed292a538c086f358e0e8efc",
+          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
+          "sourceName": "Wrvo Public Media",
+          "url": "https://www.wrvo.org/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "110317ca5fcf047fbbf939a7a521d5f2df9eeeba65a3f92fd7efa8c1f314007d",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
+          "sourceName": "Wuga | University Of Georgia | Your Oasis For Idea",
+          "url": "https://www.wuga.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
           "sentiment": 0.5
         },
         {
-          "id": "2aa72ca95d6611a500fcd3929be72c568f53db9e8bbcdb0735a471c7e4ee656e",
-          "title": "Politics chat: How the war with Iran will shape midterms, Troy Jackson enters Maine Senate race",
-          "description": "We'll look at how the war with Iran might shape the outcome for the 2026 Midterm elections, as well as how the new Democratic senate candidate in Maine might fare against the Republican incumbent.",
-          "sourceName": "Nevada Public Radio | Npr And Local News In Las Ve",
-          "url": "https://knpr.org/2026-07-26/politics-chat-how-the-war-with-iran-will-shape-midterms-troy-jackson-enters-maine-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
+          "id": "27b8987dcd32e50f0fe542363ece56c8a40f4cb9ebc63bca6f7760baefda719f",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Michigan Public",
+          "url": "https://www.michiganpublic.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "45573de838d56951a6577c55cf8013224e3e3f855cbfdc94afddab11c9acf110",
-          "title": "Politics chat: How the war with Iran will shape midterms, Troy Jackson enters Maine Senate race",
-          "description": "We'll look at how the war with Iran might shape the outcome for the 2026 Midterm elections, as well as how the new Democratic senate candidate in Maine might fare against the Republican incumbent.",
+          "id": "1b7661438085f80921925193e236e65d6f0ce12472c97aa1f87001214d13aae1",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Wuga | University Of Georgia | Your Oasis For Idea",
+          "url": "https://www.wuga.org/national-news/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "cab676bef4dcd78492ff1e663bd474fb7d853a97677ae6589586e7ae184133ac",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
           "sourceName": "Wamc Northeast Public Radio",
-          "url": "https://www.wamc.org/2026-07-26/politics-chat-how-the-war-with-iran-will-shape-midterms-troy-jackson-enters-maine-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
+          "url": "https://www.wamc.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "e6da638ee09f5397d11cf2d32eb69f51231c8ebf3c30813f4a235f4459eaeb2f",
-          "title": "Politics chat: How the war with Iran will shape midterms, Troy Jackson enters Maine Senate race",
-          "description": "We'll look at how the war with Iran might shape the outcome for the 2026 Midterm elections, as well as how the new Democratic senate candidate in Maine might fare against the Republican incumbent.",
+          "id": "e79b836ebf7ef49f80b44ebd9bb02b8c707518b9f39c196cadf3e2c896cacaa5",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Kyuk Public Radio",
+          "url": "https://www.kyuk.org/2026-07-26/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "50e74d4ad8b958d2673a7f0f32a1aaffeb987a2573623abca2832079fe603cdc",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": null,
+          "sourceName": "Connecticut Public",
+          "url": "https://www.ctpublic.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "21699c44b3ea169bd73d7a7bb8c78c19286721e3d19eab16735ba6b8addc09a5",
+          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
+          "sourceName": "Wfdd Public Radio",
+          "url": "https://www.wfdd.org/world-news/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fa98371486ade85a6fd515cab51c9aae72c6650f1100c1ba09042fca8c920f32",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Connecticut Public",
+          "url": "https://www.ctpublic.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "36ccc7816255d815f8c437d814338d2781ec883ba382f2f45177085bf8b645e8",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Wrvo Public Media",
+          "url": "https://www.wrvo.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7b6dbee387d4fa17680832136938ac5e7d1d6a118c7dbcb1d6c5947bc813903b",
+          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
+          "sourceName": "Iowa Public Radio",
+          "url": "https://www.iowapublicradio.org/news-from-npr/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "81cec114a7b99f34ce68a02b136588f3ae688dd4dd7c775c70eca93e73433f5a",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Nevada Public Radio | Npr And Local News In Las Ve",
+          "url": "https://knpr.org/npr/2026-07-26/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "efc67475bbd7c3adc5c2a48dcf3a99b311261b66fe7e0b546e357365ea606a86",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Stlpr",
+          "url": "https://www.stlpr.org/npr/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "70cbc3e3bcf51f3fecfab8d075d5ff4ebdf7444c6351a826991d93bbe4c95e0a",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
+          "sourceName": "Wsiu Public Broadcasting",
+          "url": "https://www.wsiu.org/politics-elections/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "e361edbe0f60aab8dd9ad3309bb40345a868337999999a88d5a17bc38d8b1386",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
+          "sourceName": "Kyuk Public Radio",
+          "url": "https://www.kyuk.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "3b614da8ed3be5030e9b1cd32ba3dff72f33646ebe216593a6ddc6f63f1acb76",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Ideastream Public Media",
+          "url": "https://www.ideastream.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "570d9c11d859a2e00c9bf22c31d4357244edd2819e6443ea5ad2eeee1844eb98",
+          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
+          "sourceName": "Ideastream Public Media",
+          "url": "https://www.ideastream.org/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a41ad6a7e9c9f2943e41245cd85a41eff72734ec3233ba29d6f9a8775c6e84df",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Wsiu Public Broadcasting",
+          "url": "https://www.wsiu.org/politics-elections/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6dd2b6b769e52ffc3812374ea959facddcd1da32a6ba11aa73b62bbbaf876ea2",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Wfdd Public Radio",
+          "url": "https://www.wfdd.org/national/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b82cf15b7856fae020f2fd9782c1df6a13f78ad0247c261ba9f610c93985f077",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "66f582f7e632643539227858baa2de480e2c9d4e4ad66fc197c0b7f7be5b3ac9",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/npr-news/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "324f26c387af13765a0ae7c512046d1eaa2f2d76dd1b66a2946f3dacd0ad9e24",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Wunc",
+          "url": "https://www.wunc.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4e80bf9390015104f88dd73417695662283d7d55d9bafcd023af95b05a830eaa",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
+          "sourceName": "Ideastream Public Media",
+          "url": "https://www.ideastream.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "71dfc9e1c1d124494afb8a28faa8397bb07cb9e7e87675579501a723ac4a93ef",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Kbia",
+          "url": "https://www.kbia.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1076077374233eeb5adb59f98f0f8767d8ec817bbe99bdb4b83d90653850ad6b",
+          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
+          "sourceName": "Wlrn",
+          "url": "https://www.wlrn.org/npr-breaking-news/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a89461a9f6c9b875d96f8e86229c922f44199ee0a0b8fa4ded662982342873d1",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
           "sourceName": "Wfae 90.7",
-          "url": "https://www.wfae.org/2026-07-26/politics-chat-how-the-war-with-iran-will-shape-midterms-troy-jackson-enters-maine-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
+          "url": "https://www.wfae.org/united-states-world/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "032d9f2e252360e6f4a81c26f3c14a02a29b17edb9b0947c881581d9910b3f61",
-          "title": "Maine Democrats pick Troy Jackson to take over from Platner in Senate race",
-          "description": "Maine Democrats have chosen their candidate to run against incumbent GOP Sen. Susan Collins. Troy Jackson, former state lawmaker, steps in where the scandal-plagued Graham Platner stepped out.",
-          "sourceName": "Wamc Northeast Public Radio",
-          "url": "https://www.wamc.org/2026-07-26/maine-democrats-pick-troy-jackson-to-take-over-from-platner-in-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
+          "id": "90e6bcee2ad7f4d067db377d5450ae542946b8d926eb7991b9e1f0c35bbb444a",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
+          "sourceName": "Nevada Public Radio | Npr And Local News In Las Ve",
+          "url": "https://knpr.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "52288e8a0ddecc6feb7f3af282d345bda817f6fec8928641601102af34ebdbee",
+          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
+          "sourceName": "Wfae 90.7",
+          "url": "https://www.wfae.org/world/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "7c1475081339d89972d2f973c5a063965a753370ce337ec6b0968e68c190d6dd",
-          "title": "Politics chat: How the war with Iran will shape midterms, Troy Jackson enters Maine Senate race",
-          "description": "We'll look at how the war with Iran might shape the outcome for the 2026 Midterm elections, as well as how the new Democratic senate candidate in Maine might fare against the Republican incumbent.",
-          "sourceName": "Wunc",
-          "url": "https://www.wunc.org/2026-07-26/politics-chat-how-the-war-with-iran-will-shape-midterms-troy-jackson-enters-maine-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "734864f2e08557b173c1f0abda36c62b1cb4b6aa548705f060294448b5c9b3e3",
-          "title": "Maine Democrats pick Troy Jackson to take over from Platner in Senate race",
-          "description": "Maine Democrats have chosen their candidate to run against incumbent GOP Sen. Susan Collins. Troy Jackson, former state lawmaker, steps in where the scandal-plagued Graham Platner stepped out.",
-          "sourceName": "Ideastream Public Media",
-          "url": "https://www.ideastream.org/2026-07-26/maine-democrats-pick-troy-jackson-to-take-over-from-platner-in-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e18bc5aea99dcaea68a0e0bbfa1b5c9bb71332d3af1a30965558bea9d7cba6f5",
-          "title": "Maine Democrats pick Troy Jackson to take over from Platner in Senate race",
-          "description": "Maine Democrats have chosen their candidate to run against incumbent GOP Sen. Susan Collins. Troy Jackson, former state lawmaker, steps in where the scandal-plagued Graham Platner stepped out.",
-          "sourceName": "Kbia",
-          "url": "https://www.kbia.org/2026-07-26/maine-democrats-pick-troy-jackson-to-take-over-from-platner-in-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8d5327f1b3e3b682c2e5ad44b0079ac649575f5bf35b96bf1dbcf20c52a65d9f",
-          "title": "Maine Democrats Declare Troy Jackson Winner of Convention, Formally Replacing Graham Platner",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4791527505545-maine-democrats-declare-troy-jackson-winner-of-convention-formally-replacing-graham-platner",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0.3
-        },
-        {
-          "id": "cced0c3986f8b2c98fd0a8481e3d8f2a25e1b8be99091c79bffd3328c25fbe3f",
-          "title": "Maine Democrats pick Troy Jackson to take over from Platner in Senate race",
-          "description": "Maine Democrats have chosen their candidate to run against incumbent GOP Sen. Susan Collins. Troy Jackson, former state lawmaker, steps in where the scandal-plagued Graham Platner stepped out.",
-          "sourceName": "Connecticut Public",
-          "url": "https://www.ctpublic.org/2026-07-26/maine-democrats-pick-troy-jackson-to-take-over-from-platner-in-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0371ef9b913c6a325fae06721585ef64178aaf6113752becd6fb1354914fa72b",
-          "title": "Politics chat: How the war with Iran will shape midterms, Troy Jackson enters Maine Senate race",
-          "description": "We'll look at how the war with Iran might shape the outcome for the 2026 Midterm elections, as well as how the new Democratic senate candidate in Maine might fare against the Republican incumbent.",
-          "sourceName": "Connecticut Public",
-          "url": "https://www.ctpublic.org/2026-07-26/politics-chat-how-the-war-with-iran-will-shape-midterms-troy-jackson-enters-maine-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a132433c3b32c8143012b42c7d945cc5960b7daa4290af18f2ca01789d8e07a7",
-          "title": "Troy Jackson Wins Maine Democratic Senate Nomination to Challenge Susan Collins",
-          "description": "Troy Jackson won the Democratic nomination for U.S.",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/the-coffman-chronicle-358564907/4791542386079-troy-jackson-wins-maine-democratic-senate-nomination-to-challenge-susan-collins",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0.3
-        },
-        {
-          "id": "2d6ea7ae58b5bbf7fca850a4f7f06d1345e2073b70534820676cb2356a9155e9",
-          "title": "Maine Democrats pick Troy Jackson to take over from Platner in Senate race",
-          "description": "Maine Democrats have chosen their candidate to run against incumbent GOP Sen. Susan Collins. Troy Jackson, former state lawmaker, steps in where the scandal-plagued Graham Platner stepped out.",
-          "sourceName": "Wunc",
-          "url": "https://www.wunc.org/2026-07-26/maine-democrats-pick-troy-jackson-to-take-over-from-platner-in-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0815a4da86b7189e02773140777d7ea7caa842742663008db9906dad903b7ae5",
-          "title": "Politics chat: How the war with Iran will shape midterms, Troy Jackson enters Maine Senate race",
-          "description": "We'll look at how the war with Iran might shape the outcome for the 2026 Midterm elections, as well as how the new Democratic senate candidate in Maine might fare against the Republican incumbent.",
-          "sourceName": "Kbia",
-          "url": "https://www.kbia.org/2026-07-26/politics-chat-how-the-war-with-iran-will-shape-midterms-troy-jackson-enters-maine-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "78f74518beff572a4741ec282df8963479a7a0435c7aba93aee75d3ec0a4ffe0",
-          "title": "Politics chat: How the war with Iran will shape midterms, Troy Jackson enters Maine Senate race",
-          "description": "We'll look at how the war with Iran might shape the outcome for the 2026 Midterm elections, as well as how the new Democratic senate candidate in Maine might fare against the Republican incumbent.",
+          "id": "e1919e3671ebd57325852fddb2306be844bffe4ff2044644ec22460e0172db23",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
           "sourceName": "Wlrn",
-          "url": "https://www.wlrn.org/national-politics/2026-07-26/politics-chat-how-the-war-with-iran-will-shape-midterms-troy-jackson-enters-maine-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0
+          "url": "https://www.wlrn.org/national-politics/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.6
         },
         {
-          "id": "98725d3f5ee46d24eb08e5d47ed3db436ac4bf687c2bc9ae7ba0172863cda36b",
-          "title": "Maine Democrats pick Troy Jackson to take over from Platner in Senate race",
-          "description": "Maine Democrats have chosen their candidate to run against incumbent GOP Sen. Susan Collins. Troy Jackson, former state lawmaker, steps in where the scandal-plagued Graham Platner stepped out.",
-          "sourceName": "Wrvo Public Media",
-          "url": "https://www.wrvo.org/2026-07-26/maine-democrats-pick-troy-jackson-to-take-over-from-platner-in-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0
+          "id": "e9701cc02dad8850ba673d27877a18d469bead2f1728a0eaee14bb458a5859eb",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
+          "sourceName": "Wfae 90.7",
+          "url": "https://www.wfae.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.6
         },
         {
-          "id": "c6853449bf55f5a9b957a7ae4fd4541682bf72a9338c3c1177cfd3006491d45e",
-          "title": "Politics chat: How the war with Iran will shape midterms, Troy Jackson enters Maine Senate race",
-          "description": "We'll look at how the war with Iran might shape the outcome for the 2026 Midterm elections, as well as how the new Democratic senate candidate in Maine might fare against the Republican incumbent.",
-          "sourceName": "Wrvo Public Media",
-          "url": "https://www.wrvo.org/2026-07-26/politics-chat-how-the-war-with-iran-will-shape-midterms-troy-jackson-enters-maine-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f67da1a1386abe8c32d597c9dfc9e2a605b137cce22c8ea6f113e6834b99bf89",
-          "title": "Maine Democrats pick Troy Jackson to take over from Platner in Senate race",
-          "description": "Maine Democrats have chosen their candidate to run against incumbent GOP Sen. Susan Collins. Troy Jackson, former state lawmaker, steps in where the scandal-plagued Graham Platner stepped out.",
+          "id": "4a79031759b2817639927c2c34707d7251f99a9e06fc3b2992ac755763f4a9a0",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
           "sourceName": "Wlrn",
-          "url": "https://www.wlrn.org/national-politics/2026-07-26/maine-democrats-pick-troy-jackson-to-take-over-from-platner-in-senate-race",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
+          "url": "https://www.wlrn.org/national-politics/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "6e4fc78a05c0942baf33704d5611d5fbd4679ab55f9d2e137bde3b6342269459",
-          "title": "Sen. Susan Collins talks Troy Jackson at Casco Days",
+          "id": "83d2983e3b5bfaacbb323916ea8c377153f9f7d8611e668fee76a18b0ff55062",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
+          "sourceName": "Wunc",
+          "url": "https://www.wunc.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "1e68a02d2f4bd29adb0416e6aa6be7f6f81901a115c8ce5c7c778e2940d0926e",
+          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
+          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
+          "sourceName": "Wfdd Public Radio",
+          "url": "https://www.wfdd.org/politics-government/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "cd082e1242d713da01d6f64143ddca10180c50c361616a14520bd97bd73c5fa2",
+          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+          "sourceName": "Iowa Public Radio",
+          "url": "https://www.iowapublicradio.org/news-from-npr/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "faffaf54b00af7bbcc1499346a3a73e192c6e5c6f99c10550f9409634023bfc2",
+          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
+          "sourceName": "Nevada Public Radio | Npr And Local News In Las Ve",
+          "url": "https://knpr.org/npr/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "133394f5dddfa4551d01f6384a36c2948e5b0ff3b0b6c17cf282a566a52d943c",
+          "title": "U.S. Senate Race",
+          "description": "With Troy Jackson officially nominated to run against Senator Susan Collins, we discuss where the two candidates stand and what to expect in this closely watched race",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/show/maine-calling/2026-07-27/u-s-senate-race",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "f531883fc54c3e593c48a31827911febe245bdf0ec17f4c8b9f16d54f9785789",
+          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
+          "sourceName": "Wsiu Public Broadcasting",
+          "url": "https://www.wsiu.org/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
+          "publishedAt": "2026-07-27T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "364a46d1965b490157591991fe7fa0e5d5700b750dec723e4e60dc3b53be4df3",
+          "title": "Margaret Brennan Confronts Bernie Sanders On Scandal-Plagued Graham Platner: ‘Do You Regret Not Acting Earlier?’",
+          "description": "Margaret Brennan confronted Bernie Sanders about not dropping his support of scandal-plagued U.S. Senate candidate Graham Platner (D) earlier than he did. The post Margaret Brennan Confronts Bernie Sanders On Scandal-Plagued Graham Platner: ‘Do You Regret Not Acting Earlier?’ first appeared on Mediaite .",
+          "sourceName": "Mediaite",
+          "url": "https://www.mediaite.com/media/news/margaret-brennan-confronts-bernie-sanders-on-scandal-plagued-graham-platner-do-you-regret-not-acting-earlier/",
+          "publishedAt": "2026-07-26T23:39:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9574142bc1e8c0166b8228bce0c4a51309e19f6630b9c4ac4c10c009cabfa48a",
+          "title": "Suspect killed after deadly Berlin terror attack",
           "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news-center-maine-524552/4791460879596-sen-susan-collins-talks-troy-jackson-at-casco-days",
-          "publishedAt": "2026-07-26T00:00:00.000Z",
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/suspect-killed-after-deadly-berlin-terror-attack-DA6AFDC5-8DBA-4C65-B7DD-22472045EEF8",
+          "publishedAt": "2026-07-26T23:08:39.000Z",
           "sentiment": 0
         },
         {
-          "id": "8387c7ee22653a021dfd3e4c46af7d21a287ffe5e344194721108ad03232ad3b",
-          "title": "Police searching Milford, Massachusetts quarry for missing swimmer",
-          "description": "First responders were searching a Milford, Massachusetts quarry Saturday afternoon for a missing swimmer, less than one week after warning about the dangers of swimming there. Milford Police Chief Robert Tusino said they were looking for a missing swimmer but did not provide any other information. The Douglas Fire Department, which was one of several [...] The post Police searching Milford, Massachusetts quarry for missing swimmer appeared first on News Pub . The post Police searching Milford, Massachusetts quarry for missing swimmer appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/massachusetts/police-searching-milford-massachusetts-quarry-for-missing-swimmer/",
-          "publishedAt": "2026-07-25T23:57:06.000Z",
-          "sentiment": -1
+          "id": "9633881ba23b26e04185bd64cf18beda56cfafec7eaa2d41c1282d24ed1dae30",
+          "title": "Suspect killed after deadly Berlin terror attack",
+          "description": "Berlin police shot and killed 21-year-old Abdul Ballout after authorities say he rushed at officers with a stabbing weapon while they tried to arrest him today. Police say the suspect drove a white van into dozens of people as they walked through a park. Many of the victims were attending a large Pride event. NBC News’ Valerie Castro has the latest.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/suspect-killed-after-deadly-berlin-terror-attack-267289157744",
+          "publishedAt": "2026-07-26T23:08:39.000Z",
+          "sentiment": 0
         },
         {
-          "id": "383eeaa1339fbe63009da6235c80de0a2b6179972f094a933ed61fc854e5da53",
-          "title": "AP News Summary at 7:48 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/ap-news-summary-at-7-48-p-m-edt/article_9a737e9c-fc81-5a37-916b-3b39aa01e6d9.html",
-          "publishedAt": "2026-07-25T23:48:56.000Z",
-          "sentiment": -1
+          "id": "7d4aaeac50f2aa888593ddc50508a51d9200225691d454a84d34469977742bf5",
+          "title": "New diplomatic push to end war with Iran",
+          "description": "A new diplomatic push was underway to potentially end the war with Iran on Sunday, after a pause in fighting between the U.S. and Iran over the weekend. NBC News’ Richard Engel reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/new-diplomatic-push-to-end-war-with-iran-267287621965",
+          "publishedAt": "2026-07-26T23:07:46.000Z",
+          "sentiment": 0
         },
         {
-          "id": "74e210b22ce49f6a251171d347abe08f1ee684c4184f5b7b3dc9390ecadb56e7",
-          "title": "AP News Summary at 7:48 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Killeen Daily Herald",
-          "url": "https://kdhnews.com/news/nation/ap-news-summary-at-7-48-p-m-edt/article_e5de5c7d-7bd9-564b-99c8-6634e1ab6fc6.html",
-          "publishedAt": "2026-07-25T23:48:56.000Z",
-          "sentiment": -1
+          "id": "dbe45926fcc4cba73e14eb777083a2bc0919c12f2ab38472e096edaaf72a6b26",
+          "title": "Urgent search for missing American in Caribbean",
+          "description": "An urgent search is ramping up to find an American woman who went missing in Grenada. Officials say Elizabeth Waddell has been missing since last week and was last seen at Grand Anse Beach. NBC News’ Priscilla Thompson reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/urgent-search-for-missing-american-in-caribbean-267288133631",
+          "publishedAt": "2026-07-26T23:01:47.000Z",
+          "sentiment": 0
         },
         {
-          "id": "0cff3325293e441d1584fc9c78bbb906c5bd40f876af542be79e24fdfce588e0",
-          "title": "AP News Summary at 7:48 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Goskagit",
-          "url": "https://www.goskagit.com/news/nation/ap-news-summary-at-7-48-p-m-edt/article_0409b3cb-d3ea-5a7f-aed6-f08ea14a4557.html",
-          "publishedAt": "2026-07-25T23:48:56.000Z",
-          "sentiment": -1
+          "id": "17f3708a176aebaaa9aa42734a6285a102ced49372a648c8f19171a521a7c5d0",
+          "title": "Video helps free man from death row",
+          "description": "A Louisiana man was recently released after nearly three decades on death row for a murder multiple judges now agree never happened. Jimmie Duncan won his freedom with the help of a video that the jury did not see in his trial. NBC News’ Dan Slepian reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/video-helps-free-man-from-death-row-267287621910",
+          "publishedAt": "2026-07-26T22:59:41.000Z",
+          "sentiment": 0
         },
         {
-          "id": "5dcc3b0e43df764f4b064e1df7bf43ab256297a8beadf26de6c8db30bbbce73d",
-          "title": "Fast-moving wildfires burn in central Oregon, in photos",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homesMaine Democratic delegates choose Troy Jackson as new nominee to face US Sen.",
+          "id": "13d7d25fed6470b6c695eeb8e5c6a8b5d6eb709cccec3cbac19b14ab60a36601",
+          "title": "Out-of-control wildfires burn in Europe as millions brace for severe weather in the U.S.",
+          "description": "Millions of people across the U.S. are on alert for severe storms on Sunday as crews in Europe rushed to put out wildfires that are burning out of control. NBC News’ Liz Kreutz reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/out-of-control-wildfires-burn-in-europe-as-millions-brace-for-severe-weather-in-the-u-s-267287621895",
+          "publishedAt": "2026-07-26T22:43:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ca106c4d21e3162dcecc5c1e38d3e76972c03667f4ef024c8105a7ad497ecf67",
+          "title": "Trump pushes elections bill",
+          "description": "With 100 days until the midterms, President Trump is putting new pressure on Senate Republicans to pass a bill that could have a sweeping impact on elections. NBC News’ Julie Tsirkin reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-pushes-elections-bill-267288645651",
+          "publishedAt": "2026-07-26T22:42:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3f5d997ca2a66263942a9a54d41f4ac483287207c0a182725a4f917c265fa799",
+          "title": "Bernie Sanders has no regrets for ignoring warning signs about disgraced pick Graham Platner",
+          "description": "Sen. Bernie Sanders insisted that he has no regrets about not ditching disgraced oyster farmer Graham Platner earlier despite the avalanche of warning signs.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/fast-moving-wildfires-burn-in-central-oregon-in-photos-85949268",
-          "publishedAt": "2026-07-25T23:36:30.000Z",
-          "sentiment": 0.2
-        },
-        {
-          "id": "7430c573c97ea5013d19311a2fbe4c5e1bee1d7a9e3abce46b73d5448cdc3bb5",
-          "title": "Hundreds of thousands race to escape wildfires in France and Spain",
-          "description": "An urgent effort to contain multiple massive wildfires. French officials changed the course of the final stage of the famed \"Tour de France\" race amid the ongoing disaster. NBC News’ Liz Kreutz reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/hundreds-of-thousands-race-to-escape-wildfires-in-france-and-spain-267277381758",
-          "publishedAt": "2026-07-25T23:33:41.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "1e3766eae2aba4174ee8c762731ad2237d6e82d0e8c6512bea699969f97a9f71",
-          "title": "AP News Summary at 7:32 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Times Argus",
-          "url": "https://www.timesargus.com/news/national/ap-news-summary-at-7-32-p-m-edt/article_edf1c8a2-e0ad-5509-aec3-bbac12655c1b.html",
-          "publishedAt": "2026-07-25T23:32:31.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "b826b932bf0f7bf3929307cacde813396c677d785b84afd926ad5773f60c92c6",
-          "title": "AP News Summary at 7:32 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Nvdaily",
-          "url": "https://www.nvdaily.com/associated_press_national/ap-news-summary-at-7-32-p-m-edt/article_1d9457db-c0c0-53ff-9024-3588d7957ecb.html",
-          "publishedAt": "2026-07-25T23:32:31.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "a80bdf08ad705ddd2f29583cc7e3da488015e6e363b5a72c1c14da35e05c0998",
-          "title": "Fast-moving wildfires burn in central Oregon, in photos",
-          "description": "Wind-driven wildfires burned across central Oregon, where firefighters worked to contain fast-moving flames threatening nearby communities.",
-          "sourceName": "Wv News",
-          "url": "https://www.wvnews.com/newsfeed/us/fast-moving-wildfires-burn-in-central-oregon-in-photos/article_6906c3a5-35a4-51e8-b9c6-e693538518e6.html",
-          "publishedAt": "2026-07-25T23:24:35.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "2ead212271aefa0c1612c9a5fc7c96c0ec153fd76adfe936ffa875260eb939ad",
-          "title": "Daredevils jump off Seattle’s Space Needle",
-          "description": "Authorities are trying to find two people who parachuted off Seattle's Space Needle. The stunt was captured from up in the air and from the ground. NBC News’ Hallie Jackson reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/daredevils-jump-off-seattle-s-space-needle-267276357613",
-          "publishedAt": "2026-07-25T23:23:46.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "aa0a4394c3d301f5f5a1e7a9a7fe90aca3b901d34a319f9dc0827113bd2c7d18",
-          "title": "Inside the battle for clean energy on Native American land",
-          "description": "There’s a growing fight to develop clean energy on Native American land, which tribal leaders say could help ease the strain on America’s power grid. NBC News’ Julie Tsirkin reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/inside-the-battle-for-clean-energy-on-native-american-land-267277381539",
-          "publishedAt": "2026-07-25T23:20:14.000Z",
+          "url": "https://us.headtopics.com/news/bernie-sanders-has-no-regrets-for-ignoring-warning-signs-85974762",
+          "publishedAt": "2026-07-26T22:36:55.000Z",
           "sentiment": 0
         },
         {
-          "id": "5933a621334d239040a4b0bdaa46b7822e2be6589795708881db5fb4e8988736",
-          "title": "Anti-Ice demonstrations across the country",
-          "description": "Protests took place in over a dozen cities on Saturday over the immigration crackdown and recent killings by ICE officers. NBC News’ Priscilla Thompson reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/anti-ice-demonstrations-across-the-country-267277893517",
-          "publishedAt": "2026-07-25T23:19:40.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3e6f228aff5d040069843ed63409da11a00af6550248409d0fada360dffd23f5",
-          "title": "AP News Summary at 7:18 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Rutland Herald",
-          "url": "https://www.rutlandherald.com/ap/national/ap-news-summary-at-7-18-p-m-edt/article_add23e4c-fe99-5a55-a036-ecba9af240df.html",
-          "publishedAt": "2026-07-25T23:18:11.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8cdce674789d0d08b53c9ec6d60d633db7bda6b84ca8a2150fbaa0974cf40113",
-          "title": "Troy Jackson Wins Maine Democratic Senate Nomination, Sets Up High-Stakes Race Against Susan Collins",
-          "description": "Former Maine Senate President Troy Jackson has secured the Maine Democratic Partys nomination for the U.S. Senate, officially replacing Graham Platner on the ballot after the former candidate withdrew following sexual...",
-          "sourceName": "Econotimes",
-          "url": "https://econotimes.com/Troy-Jackson-Wins-Maine-Democratic-Senate-Nomination-Sets-Up-High-Stakes-Race-Against-Susan-Collins-1747737",
-          "publishedAt": "2026-07-25T23:13:54.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "019ecbc22ebda88f7ff1a79560772b25ba8a0969f7d8e6462ee2b3416f7ae638",
-          "title": "Maine Democrats select Troy Jackson as Senate candidate",
-          "description": "Former state senator Troy Jackson will now take on longtime Republican Senator Susan Collins after Graham Platner’s campaign in scandal. NBC News’ Julie Tsirkin reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/maine-democrats-select-troy-jackson-as-senate-candidate-267274821994",
-          "publishedAt": "2026-07-25T23:13:25.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "91700ebb04d34b0d97233ceee3504fea41682fbaf7f82c07135a499689e7cad5",
-          "title": "Good News: Meet the airport worker going the extra mile",
-          "description": "NBC News’ Hallie Jackson introduces us to the airport luggage worker going above and beyond to reunite passengers with lost luggage tags.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/good-news-meet-the-airport-worker-going-the-extra-mile-267274821991",
-          "publishedAt": "2026-07-25T23:11:55.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2b16539150b45199d1f82fbebfbe201f5b7bfaa28d0ef7e2dd7f89369ba0bb3f",
-          "title": "AP News Summary at 7:11 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Union-bulletin",
-          "url": "https://www.union-bulletin.com/news/national/ap-news-summary-at-7-11-p-m-edt/article_9daf8c31-4b1a-5608-bc7a-56989fbf1233.html",
-          "publishedAt": "2026-07-25T23:11:37.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b1fbe420840685118be8490821209d7b134c9d4c100a3259a2c4bd9dc2c5dbae",
-          "title": "FIRST ON MS NOW: Troy Jackson’s verdict on Susan Collins’ Senate tenure",
-          "description": "MS NOW's Chris Jansing sits down with Maine Democratic Senate Candidate Troy Jackson for his first interview after being ...",
-          "sourceName": "Biztoc",
-          "url": "https://biztoc.com/x/6d0220de4f59ea3d",
-          "publishedAt": "2026-07-25T23:10:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "08e9259da140dfc8811df89fc19315e6c303cc570fcbe5c1d858ed5525182b62",
-          "title": "Saudi Arabia trades fire with Iran-backed rebels in Yemen",
-          "description": "There were no new strikes against Iran overnight. The pause comes as there appears to be a new warfront opening in the Middle East, with Saudi Arabia and Iran-backed Houthi rebels trading fire. NBC News’ Richard Engel reports from Jerusalem.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/saudi-arabia-trades-fire-with-iran-backed-rebels-in-yemen-267275333912",
-          "publishedAt": "2026-07-25T23:06:51.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "382307d712e247c3772f4428bb3e60072b4d269cf96d4f223cb81910ea152b9c",
-          "title": "Dems get renewed hope of ending GOP senator’s near-30-year career",
-          "description": "Maine Democrats on Saturday overwhelmingly nominated Troy Jackson, a former state Senate president and logger by trade , as their party’s nominee to challenge longtime Republican incumbent Susan Collins in November’s high-stakes US Senate election. “Well, thank you, Maine,” Jackson, 58, said after securing the votes of 566 of 571 delegates during Saturday’s special Democratic convention at Cross Insurance Center in Bangor. “Today we turn the page, today this becomes a general election campaign, and today we win the work of defeating Susan Collins in November.” “For nearly 30 years, Collins has told Maine that she is ‘concerned’,” Jackson said, referring to the 73-year-old incumbent’s go-to word when President Donald Trump and Republicans attack rights and justice. “She was concerned while she rubber-stamped Trump’s Medicaid cuts and gutted our healthcare .” “She’s concerned when she cut taxes for corporations and the wealthy,” he continued. “Concerned when she confirmed justices who overturned Roe v. Wade . And really tragically, she was concerned when she gave [US Immigration and Customs Enforcement] billions to terrorize our neighbors and murder people in the streets with no accountability.” “But concern does not lower the costs of groceries or gas,” Jackson said. “Concern does not keep our monitoring wards of rural hospitals like down in Lincoln County open. Concern does not restore all the rights that she’s taken away. Maine does not need another six years of concern. We need someone with courage. We need a fighter, and we need a senator who remembers exactly who sent them to Washington.” “So if you’ve ever been ignored, underestimated, pushed around, or told that you have to wait your turn while the rich cut the line, I’m asking you to stand with us in this campaign,” he continued. “If you believe in your heart that healthcare is a right, stand with us. And if you believe that workers deserve power, stand with us. And if you believe our freedoms are worth defending, stand with us.” “And if you believe that Maine deserves a senator who will fight like hell for working-class people, well, stand with us,” Jackson added. “We have a party to unite, we have a movement to build, and we have a senator to defeat.” Jackson’s improbably rapid rise followed former Democratic nominee Graham Platner’s withdrawal from the race earlier this month amid allegations of sexual assault and abusive behavior. Supporters of Platner’s progressive platform warned at the time that they would not back a replacement candidate who did not share the same pro-worker, anti-war agenda. While Collins spokeswoman Blake Kernen called Jackson a “low-energy version” of Platner, Maine Democrats decided the fifth-generation lumberjack fit the bill. “The working class has been left behind and forgotten about,” Shelly Mountain, a former Aroostook County Democratic Committee chairwoman and Jackson delegate at the convention, told NBC News. “He is definitely working class and always—has always—been a champion for the working class.” Progressive politicians, advocacy groups, and labor organizations cheered Jackson’s nomination, with Sen. Elizabeth Warren (D-Mass.) saying that “he’s ready to fight for working people and flip this seat.” International Association of Machinists and Aerospace Workers (IAM) president Brian Bryant said Saturday that “Troy Jackson knows firsthand what it means to work hard for a living and fight for a better future for working families.” “Throughout his career, he has stood shoulder-to-shoulder with union members and working people, never backing down from a challenge when workers’ rights were on the line,” he added. “He represents the strength of a people-powered movement focused on fairness, opportunity, and economic justice. Troy has our full support as he heads to the general election.”",
-          "sourceName": "Raw Story",
-          "url": "https://www.rawstory.com/susan-collins-2677271842/",
-          "publishedAt": "2026-07-25T23:00:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "51c52037a425760b278ecb7dc41730521779ce49853b4bfc77bfafb46ec6d420",
-          "title": "Caitlin Clark speaks out after controversies",
-          "description": "WNBA superstar speaking publicly about the controversies she’s faced on and off the court. NBC News’ Valerie Castro reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/caitlin-clark-speaks-out-after-controversies-267275845790",
-          "publishedAt": "2026-07-25T22:54:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ae5aa7f5b16b8df969c4abf590d8f690530c83a2a206fb32f4d9d4c18aa9b61e",
-          "title": "AP News Summary at 6:51 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Rutland Herald",
-          "url": "https://www.rutlandherald.com/ap/national/ap-news-summary-at-6-51-p-m-edt/article_add23e4c-fe99-5a55-a036-ecba9af240df.html",
-          "publishedAt": "2026-07-25T22:51:34.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "374c362fc2db99c1fae0c50507bba103e3ede4c3679a176dfc5cac9fcdd67ec1",
-          "title": "AP News Summary at 6:51 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Nvdaily",
-          "url": "https://www.nvdaily.com/associated_press_national/ap-news-summary-at-6-51-p-m-edt/article_1d9457db-c0c0-53ff-9024-3588d7957ecb.html",
-          "publishedAt": "2026-07-25T22:51:34.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cea8ff3ff7a9ef5d41401424b95a4bb11e1de3322096d88d3b1bed0285d6d5e4",
-          "title": "AP News Summary at 6:51 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Owensboro Messenger And Inquirer",
-          "url": "https://www.messenger-inquirer.com/ap/elections/ap-news-summary-at-6-51-p-m-edt/article_d187c848-9e8f-594f-8110-d1bdc9185de4.html",
-          "publishedAt": "2026-07-25T22:51:34.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9766347c924c5b0ada6ed017e883fd0206f8251cea18663869df99685a3921e2",
-          "title": "Troy Jackson, former Maine Senate president, chosen as Democratic nominee for US Senate",
-          "description": "Troy Jackson, former Maine Senate president, chosen as Democratic nominee for US Senate",
-          "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/troy-jackson-former-maine-senate-224808649.html",
-          "publishedAt": "2026-07-25T22:48:08.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "05cb0cb1069a7e2f4876812f239286e4c9afa5ea91e93b7e852cf06e1df50fa1",
-          "title": "Democrats pick Platner’s replacement in Maine Senate race",
-          "description": "Maine Democrats chose Troy Jackson as their new Senate nominee Saturday, after a brief and unusual contest to replace Graham Platner, who dropped out of the battleground race. CNN’s Jeff Zeleny reports.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/democrats-pick-platner-s-replacement-in-maine-senate-race-85948221",
-          "publishedAt": "2026-07-25T22:36:11.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "e1f3f3c54010fefb5922a6c9266e5df56962dacd251afc334313da08aa81f5a8",
-          "title": "Maine has a \"sore loser\" law that says a candidate that runs for one office and loses cannot run for another office in the same cycle",
-          "description": "Maine has a \"sore loser\" law that says a candidate that runs for one office and loses cannot run for another office in the same cycle. After Graham Platner dropped out, Maine Dems are poised to nominate Troy Jackson. But Jackson ran for Governor (and lost the primary). Eligible?",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-bloggers/4389351/posts",
-          "publishedAt": "2026-07-25T22:25:21.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e6a676c1e48a79d136a9394ecebf64889866139b299670e3d79215ebb3f355a9",
-          "title": "AP News Summary at 6:13 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/ap-news-summary-at-6-13-p-m-edt/article_9a737e9c-fc81-5a37-916b-3b39aa01e6d9.html",
-          "publishedAt": "2026-07-25T22:13:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "add931dafa2c384eee6e1b05e3311fd1eaefffae9c016ff8b77762e39edbdc04",
-          "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins",
-          "description": "BANGOR, Maine — Former state lawmaker and logger Troy Jackson secured the Democratic nomination for U.S. Senate in Maine on Saturday and will face longtime GOP Sen. Susan Collins in November in a ra...",
-          "sourceName": "Daily Herald",
-          "url": "https://www.dailyherald.com/20260725/nation-and-world-politics/maine-democratic-delegates-choose-troy-jackson-as-new-nominee-to-face-us-sen-susan-collins/",
-          "publishedAt": "2026-07-25T22:08:03.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "8e90cbd0b55b9aae14ba438d8da6399291ff8f2c298d2232c6a7f83b0347d1b0",
-          "title": "AP News Summary at 5:53 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Dailyadvance",
-          "url": "https://www.dailyadvance.com/news/national/ap-news-summary-at-5-53-p-m-edt/article_fc24b536-1645-50eb-b501-61c67738c5c6.html",
-          "publishedAt": "2026-07-25T21:53:05.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "46ecaa03e67aad05634f842f5cdf7bd9142c0b41183fad2bcf9b9e92bf8e622f",
-          "title": "Troy Jackson clenches Democrat nomination for Maine Senate race, replacing Graham Platner",
-          "description": "Troy Jackson clenched the Democrat nomination for the Maine Senate race, replacing Graham Platner, who suspended his campaign amidst scandals and allegations.",
-          "sourceName": "One America News Network",
-          "url": "https://www.oann.com/newsroom/troy-jackson-clenches-democrat-nomination-for-maine-senate-race-replacing-graham-platner/",
-          "publishedAt": "2026-07-25T21:42:04.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "a55852d542eea731591ccea50c2267bd388d993ae510c2bc6599ac9408e3c944",
-          "title": "Troy Jackson clenches Democrat nomination for Maine Senate race, replacing Graham Platner – One America News Network",
-          "description": "Troy Jackson holds a pulaski axe on July 25, 2026, in Bangor, Maine. (Photo by Joe Raedle/Getty Images) OAN Staff Addie Davis2:41 PM – Saturday, July 25, 2026 Troy Jackson clenched the Democrat nomination for the Maine Senate race, replacing Graham Platner, who suspended his campaign amidst scandals and allegations. Jackson, a former Maine state senator, [...] The post Troy Jackson clenches Democrat nomination for Maine Senate race, replacing Graham Platner – One America News Network appeared first on CBNC .",
-          "sourceName": "Cbnc",
-          "url": "https://cbnc.com/troy-jackson-clenches-democrat-nomination-for-maine-senate-race-replacing-graham-platner-one-america-news-network/",
-          "publishedAt": "2026-07-25T21:42:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "bedbc026a5bf6e9517dbca036a15e357ffa8e838fd33f1a615cdc54fa0a8d84c",
-          "title": "Police call off an LGBTQ+ parade in Berlin and say several people have been injured",
-          "description": "Berlin police have called off the LGBTQ+ pride parade in the German capital, hours after the event had begun, saying it was because several people had been injured.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/police-call-off-an-lgbtq-parade-in-berlin-and-say-several-85947160",
-          "publishedAt": "2026-07-25T21:36:35.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f12625bf060e43a0df86002a5bee595a570eb6b85644f4fab6c333875170db3a",
-          "title": "Troy Jackson wins the Democratic nomination, with 101 days to mount a movement before the election",
-          "description": "The fifth-generation logger is betting on his 24-year legislative career and a state tired of Sen. Susan Collins to bring him a victory in November.",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/local/troy-jackson-wins-democratic-nomination-101-days-before-election-maine/97-e3dc15c1-c1fd-4a02-a890-cbfd1823f550",
-          "publishedAt": "2026-07-25T21:32:11.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "9014b9c9dfdc760efd3dd4d7e4591a7530494a8920edbeee7c7babba2ba241ad",
-          "title": "Wyoming PBS Wins Four Emmy Awards",
-          "description": "Wyoming PBS earned four Heartland Emmy® Awards over the weekend for productions that celebrate adventure, uncover hidden Wyoming industries, and explore the connections between people and the natural world. The awards were presented during the National Academy of Television Arts & Sciences (NATAS) Heartland Chapter Emmy® Awards ceremony on Saturday, July 18, in Denver. The [...] The post Wyoming PBS Wins Four Emmy Awards appeared first on News Pub . The post Wyoming PBS Wins Four Emmy Awards appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/west/wyoming/wyoming-pbs-wins-four-emmy-awards/",
-          "publishedAt": "2026-07-25T21:15:06.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "45825239882ac6f2375c69a61fd0d7fd649d45ad15993bc5e5da9029465a9d2e",
-          "title": "AP News Summary at 5:09 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Dailyadvance",
-          "url": "https://www.dailyadvance.com/news/national/ap-news-summary-at-5-09-p-m-edt/article_fc24b536-1645-50eb-b501-61c67738c5c6.html",
-          "publishedAt": "2026-07-25T21:09:50.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0aa6ed49fc361fdf6e70c6fe189278232dd864529e28b6ee6d599588ebc7eba7",
-          "title": "AP News Summary at 5:09 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/ap-news-summary-at-5-09-p-m-edt/article_9a737e9c-fc81-5a37-916b-3b39aa01e6d9.html",
-          "publishedAt": "2026-07-25T21:09:50.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e5d7a6a096cf23482d3a98cb98d4eb32d356e136efab25b6f8344371d1bd255b",
-          "title": "House passes limits on stock trading, Senate path remains uncertain",
-          "description": "WASHINGTON (Gray DC) – The U.S. House of Representatives passed the Stop Insider Trading Act Wednesday, banning members of Congress and their families from buying new stocks and requiring public notice before selling existing holdings. The bill, which was passed largely along party lines, now faces an uncertain future in the Senate. House Speaker Mike [...] The post House passes limits on stock trading, Senate path remains uncertain appeared first on News Pub . The post House passes limits on stock trading, Senate path remains uncertain appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/finance/house-passes-limits-on-stock-trading-senate-path-remains-uncertain/",
-          "publishedAt": "2026-07-25T21:03:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "47a926b3cb1f7660ead74cd64bead64b7ce56e829aee8f6c944c9ec1cace798a",
-          "title": "AP top stories July 25",
-          "description": "Here's the latest for Saturday, July 25th: Troy Jackson secures Democratic nomination for Maine's U.S.",
-          "sourceName": "Apnews",
-          "url": "https://apnews.com/video/ap-top-stories-july-25-5204f0d3eea445cd9d6f2a90f5bc9c2e",
-          "publishedAt": "2026-07-25T21:02:39.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "15baa86ae5b1ce9ab7ceba504b76ca3d205bc128f6a2805cad8e4a1a78715e6c",
-          "title": "AP News Summary at 4:58 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Beloit Daily News",
-          "url": "https://www.beloitdailynews.com/news/national-news/ap-news-summary-at-4-58-p-m-edt/article_1e7dca63-b020-5d33-a4b0-3972ee5dce35.html",
-          "publishedAt": "2026-07-25T20:58:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1937961024352caf79232eefc16d21fa42e1e74c42b47597e2644cc2885e0424",
-          "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face Collins",
-          "description": "Former state lawmaker and logger Troy Jackson has secured the Democratic nomination for U.S. Senate in Maine. He will face longtime GOP Sen. Susan Collins in November in a race that could decide which party controls the Senate. Jackson was...",
-          "sourceName": "The Frederick News-post",
-          "url": "https://www.fredericknewspost.com/public/ap/maine-democratic-delegates-choose-troy-jackson-as-new-nominee-to-face-collins/article_91cec899-0802-5213-beb2-c34a64b18bc5.html",
-          "publishedAt": "2026-07-25T20:51:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "e4f2d056f1fbd34023e2045626c69ba7e20a4cb9e31c061ac52d789a8d2f5f01",
-          "title": "Fantasia Fest 2026: You Are the Film Review",
-          "description": "This will be one of many reviews during this year’s Fantasia International Film Festival, to keep up with our latest coverage, click here. Fantasia favorite Makoto Ueda has blessed the festival over the years with his time-travel writing, including Beyond The Infinite Two Minutes (2020), River (2023), and Rewrite (2025). This year, Ueda returns to [...] The post Fantasia Fest 2026: You Are the Film Review appeared first on News Pub . The post Fantasia Fest 2026: You Are the Film Review appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/entertainment/movie-reviews/fantasia-fest-2026-you-are-the-film-review/",
-          "publishedAt": "2026-07-25T20:45:06.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "42aec323c8bb05eaece6a11071d6d53d1c91f9d0c7271bf5d9d6ef3fc6ec3ff8",
-          "title": "Troy Jackson replaces Graham Platner as Maine Senate Democratic nominee - USA Today",
-          "description": "Troy Jackson replaces Graham Platner as Maine Senate Democratic nominee USA Today Democrats Reset the Maine Senate Race. Now Comes the Tricky Part. The New York Times Opinion | Maine Democrats made the right choice with Troy Jackson MS NOW Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race The Guardian Jackson enters 100-day sprint with Collins as Maine Democrats hit reset The Hill",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSk5rSXBQZW43dXlnZEZQdDlBLVp2Z05ROVd1MThJQWZ1NFF6azJmN0JveUtweXV3cDRuNG92cXdYaGRBVF8xbnVoSjlSeWxJdDFxb2ZYWEM4dTFfWnpKX3EyWFBEUWxpZl82WW5TNElIcE9JYWFMOElVXzVFMTAxa0ZtckJYdmM1NzFhU2RJdUd6VWU4QnNYZEs4b3NwTTJ4SGZUaVRpQmJkMDEzM2ZEUnpjakV0MTNwZWVRXzlUMmhDODM0aDUwdlV4THJxS25J?oc=5",
-          "publishedAt": "2026-07-25T20:44:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "ca5ee7097158a4748fb2799e75d246b499ec719df2eefec09ec2f83af07ac00c",
-          "title": "AP News Summary at 4:39 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/ap-news-summary-at-4-39-p-m-edt/article_9a737e9c-fc81-5a37-916b-3b39aa01e6d9.html",
-          "publishedAt": "2026-07-25T20:39:50.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ce9e7f0f132509cf66fe1184f960e092ae96a1155067ccfe7a605df0718e1109",
-          "title": "Dem Star’s Replacement Revealed After Scandalous Exit",
-          "description": "The longtime Maine lawmaker is stepping into a bruising Senate fight after Graham Platner’s withdrawal.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/dem-star-s-replacement-revealed-after-scandalous-exit-85946575",
-          "publishedAt": "2026-07-25T20:37:02.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "558b6ed2da5e8a23a0f28f8ee4cbb35658c8db6c7efb1459af2f88cd0f17a89d",
-          "title": "War, Mourning and the Struggle to Survive on a Tehran Street",
-          "description": "It’s been a punishing year for Tehran’s street vendors. Protests, war, and funeral observances for the slain supreme leader have forced repeated closures. Yet, even in the presence of government-provided translators, some spoke candidly to a New York Times crew granted rare but limited access to Iran, explaining that earning a living isn’t their only [...] The post War, Mourning and the Struggle to Survive on a Tehran Street appeared first on News Pub . The post War, Mourning and the Struggle to Survive on a Tehran Street appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/world/war-mourning-and-the-struggle-to-survive-on-a-tehran-street/",
-          "publishedAt": "2026-07-25T20:33:13.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9b33efbd58f5720b5d4343b8bace0860134835d3064306deb96b00bbb0a0a829",
-          "title": "President Trump’s New Air Force One Poses Potential Security Risks",
-          "description": "Our investigative reporter Eric Lipton explains how earlier this month President Trump abruptly switched aircraft when leaving Turkey because of a credible threat that Iranian proxies were targeting a new Air Force One that had omitted key security modifications needed for a Qatari Boeing 747. The post President Trump’s New Air Force One Poses Potential Security Risks appeared first on News Pub . The post President Trump’s New Air Force One Poses Potential Security Risks appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/news/president-trumps-new-air-force-one-poses-potential-security-risks/",
-          "publishedAt": "2026-07-25T20:27:08.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b18eaa832b48fa2f3084e0638b395065abdff2b6047cbe8f398d6c2c1be616f0",
-          "title": "Democrats pick new Senate candidate in Maine in aftermath of Platner debacle - Sat, 25 Jul 2026 PST",
-          "description": "BANGOR, Maine – The Maine Democratic Party formally selected Troy Jackson as its new Senate nominee on Saturday, ending three tumultuous weeks that nearly derailed the party’s quest to unseat veteran Republican Sen. Susan Collins.",
-          "sourceName": "Spokesman",
-          "url": "http://www.spokesman.com/stories/2026/jul/25/democrats-pick-new-senate-candidate-in-maine-in-af/",
-          "publishedAt": "2026-07-25T20:24:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "47290502cb7f115cf55549228eae86b6db35cd0a5f23faccd22dc46f517ae6d7",
-          "title": "AP News Summary at 4:23 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Dailyadvance",
-          "url": "https://www.dailyadvance.com/news/national/ap-news-summary-at-4-23-p-m-edt/article_fc24b536-1645-50eb-b501-61c67738c5c6.html",
-          "publishedAt": "2026-07-25T20:23:45.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "44811363af89bccf28c79ddaffd4a0fe8d6a63c68fc711f7a57c16e035f0fb8f",
-          "title": "AP News Summary at 4:23 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/ap-news-summary-at-4-23-p-m-edt/article_9a737e9c-fc81-5a37-916b-3b39aa01e6d9.html",
-          "publishedAt": "2026-07-25T20:23:45.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "356f0b5b5121064ca4b5a2b965fe5fd6c8006afe0640eeb4bf8c9e4fd1679317",
-          "title": "AP News Summary at 4:23 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Beloit Daily News",
-          "url": "https://www.beloitdailynews.com/news/national-news/ap-news-summary-at-4-23-p-m-edt/article_1e7dca63-b020-5d33-a4b0-3972ee5dce35.html",
-          "publishedAt": "2026-07-25T20:23:45.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "fc47426a1eb6308ff91397ccdcf40c5747ba13dc6d253ee6f41e6c4f0964fa30",
-          "title": "Maine Democrats Pick Troy Jackson to Replace Graham Platner in Senate Race",
-          "description": "Maine Democrats have chosen Troy Jackson, a progressive former State Senate president, to replace Graham Platner as their Senate candidate. Jackson was selected at a hastily organized state party convention, which came together after Platner, who faced a rape accusation he denies, dropped out of the race. The post Maine Democrats Pick Troy Jackson to Replace Graham Platner in Senate Race appeared first on News Pub . The post Maine Democrats Pick Troy Jackson to Replace Graham Platner in Senate Race appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/politics/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race/",
-          "publishedAt": "2026-07-25T20:21:05.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "d71792c7a08636ce463995151b952be53be45813e54613b681e5bcefe6899c78",
-          "title": "Dem Star’s Replacement Revealed After Scandalous Exit",
-          "description": "Amanda Sabga / REUTERS/Amanda Sabga/File Photo Democrats have chosen a replacement for Maine Senate hopeful Graham Platner after he suspended his campaign amid a sexual assault allegation. On Saturday, the Maine Democratic Party formally selected Troy Jackson as its new Senate nominee in the race to unseat longtime Republican Sen. Susan Collins, who has represented the state for 29 years. “This is the absolute honor of my life,” Jackson said when accepting his nomination at a convention center in downtown Bangor, Maine. Read more at The Daily Beast.",
-          "sourceName": "The Daily Beast",
-          "url": "https://www.thedailybeast.com/dem-stars-replacement-revealed-after-scandalous-sex-assault-claim/",
-          "publishedAt": "2026-07-25T20:15:10.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "22119f277498652c7b21026c79970d614172e4c077b103e423f7678457a07c1f",
-          "title": "Court checks Pritzker as Trump administration scores another immigration win",
-          "description": "A federal judge ruled Illinois laws providing in-state tuition and financial aid to illegal immigrants are unconstitutional, dealing a blow to JB Pritzker.",
-          "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/court-checks-pritzker-as-trump-administration-scores-85946019",
-          "publishedAt": "2026-07-25T20:07:06.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b54074512ff4d64969cc3b2dd1ba576dec697e78ef1af1a3bcb433405052ac85",
-          "title": "McVay says Aaron Donald is still contemplating a return to the Rams. They won't rush his decision",
-          "description": "Los Angeles Rams coach Sean McVay says Aaron Donald is still determining whether he is ready and able to return to the team.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/mcvay-says-aaron-donald-is-still-contemplating-a-return-to-85945923",
-          "publishedAt": "2026-07-25T20:07:05.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e608d21b485fc8f8fa110b32fa9f1e390ae8cadd056479ac73d13da0d61a7b5d",
-          "title": "Troy Jackson: Policies, background, and controversies of Maine's new Democratic Senate nominee",
-          "description": "Troy Jackson, a former logger and state lawmaker, is now the Democratic Senate nominee set to face Susan Collins in Maine.",
-          "sourceName": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/us-news/troy-jackson-policies-background-and-controversies-of-maines-new-democratic-senate-nominee-101785006968432.html",
-          "publishedAt": "2026-07-25T20:04:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b3034e580d7e339e65544d0acccf8dbb24f9b52b59ef998c01f822cba7705a82",
-          "title": "The Walking Hack That Burns Stubborn Age-Related Fat At Double Speed",
-          "description": "Walk off Weight 2X Faster With This HIIT Routine for Fat Loss Use left and right arrow keys to navigate between menu items. Use escape to exit the menu. Sign In Sign InUp with your social account Continue with Google Continue with Apple We won’t post to any of your accounts Sign Up Create a [...] The post The Walking Hack That Burns Stubborn Age-Related Fat At Double Speed appeared first on News Pub . The post The Walking Hack That Burns Stubborn Age-Related Fat At Double Speed appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/health/the-walking-hack-that-burns-stubborn-age-related-fat-at-double-speed/",
-          "publishedAt": "2026-07-25T20:03:07.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4e6235c415d6013363660aa9a867b4b062bd58c85b2f7385305412c793fa779e",
-          "title": "Democrats pick new Senate candidate in Maine in aftermath of Platner debacle - The Washington Post",
-          "description": "Democrats pick new Senate candidate in Maine in aftermath of Platner debacle The Washington Post Democrats nominate Troy Jackson to replace Graham Platner in must-win Maine Senate race NBC News After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine The New York Times Maine Democrats set for November as Troy Jackson becomes U.S. Senate nominee WGME Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins Pittsburgh Post-Gazette",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTy04a0JFWDFTVFVMdy1PMzBMNEJhcHowWlkyUFJIWGJUM25pT3dMRDVTdm00LTlfOHAzMTZNUW1iZE9FZU5jc1Y1bmJ0a3Fkb0UxckRDbEVieTZ5eE1MVS1Qd2N4WXIzU3p1ZS1zWXI4QkJRTjJRUTZ3YVpFODZPeWlQZEdBcW9falpNVTVHaXZCb2g3S0Z1SUpNbUlJLXlHR1dFWjc5YUp0T3NRdU1MM25aTmtjR3dDY09V?oc=5",
-          "publishedAt": "2026-07-25T20:02:47.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "8805b096eede8826c20c644b3198ac13ed18e29d0fb6acc4f4201e467cdafaef",
-          "title": "Who is Troy Jackson? Maine’s swap-in for Graham Platner in Senate race",
-          "description": "Democrats are betting Jackson’s rural roots, labor background and populist message can connect with voters as Republicans say he is a longtime lawmaker with a blustery past.",
+          "id": "12abc337e558489160932472060812a3b0fc16f74aa7f2f676208d76102d98b9",
+          "title": "Bernie Sanders has no regrets for ignoring warning signs about disgraced pick Graham Platner",
+          "description": "Sen. Bernie Sanders insisted that he has no regrets about not ditching disgraced oyster farmer Graham Platner earlier despite the avalanche of warning signs.",
           "sourceName": "New York Post",
-          "url": "https://nypost.com/2026/07/25/us-news/who-is-troy-jackson-maines-swap-in-for-graham-platner-in-senate-race/",
-          "publishedAt": "2026-07-25T19:48:44.000Z",
+          "url": "https://nypost.com/2026/07/26/us-news/bernie-sanders-has-no-regrets-for-ignoring-warning-signs-about-disgraced-pick-graham-platner/",
+          "publishedAt": "2026-07-26T22:18:02.000Z",
           "sentiment": 0
         },
         {
-          "id": "d2b87e8b8352fbb2521d0c284242f82a22c61765534784dc88dadd1d8bce5f62",
-          "title": "Troy Jackson gains Bernie Sanders endorsement in 2026 Maine governor race",
-          "description": "The U.S. senator from Vermont highlighted Jackson's advocacy for labor rights and alignment with progressive priorities.",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/senator-bernie-sanders-endorses-troy-jackson-for-maine-governor-citing-working-class-roots-2026/97-eaf20f02-8cef-41de-a106-210894bf331d",
-          "publishedAt": "2026-07-25T19:46:18.000Z",
+          "id": "1081f1c846532f686ceaf67e98c837fd446e18bc2fdfe4e4af43b9ccd7a2216f",
+          "title": "Bernie Sanders Defends Endorsement Record, Backs Progressive Candidates in Key Races",
+          "description": "Senator Bernie Sanders discusses his endorsement of a candidate who withdrew after rape allegations, defends his actions, and throws his suppOrt behind progressive contenders in Maine, Michigan, and Minnesota,emphasizing economic inequality and working-class advocacy.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/bernie-sanders-defends-endorsement-record-backs-85973705",
+          "publishedAt": "2026-07-26T21:36:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d5eeb28fccd785e3afa965894b39c30982547f29d8218384278b059b8dd35a17",
+          "title": "Sanders stands by Platner endorsement, gives Troy Jackson 'excellent' chance",
+          "description": "Troy Jackson is likely to replace Graham Platner as the Democratic nominee after rival candidates dropped out and his supporters swept delegate elections.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4663826/sanders-platner-endorsement-troy-jackson-maine/",
+          "publishedAt": "2026-07-26T21:14:46.000Z",
           "sentiment": 1
         },
         {
-          "id": "48139051633d0e8ede7884149b917bfbefa8a754fbe1bc0c0d4611c2d3763fec",
-          "title": "AP News Summary at 3:35 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/ap-news-summary-at-3-35-p-m-edt/article_9a737e9c-fc81-5a37-916b-3b39aa01e6d9.html",
-          "publishedAt": "2026-07-25T19:35:51.000Z",
-          "sentiment": -0.6808
+          "id": "be1b6d6e55733bd064373e78c1205becd5dbbb7d97c990208d8d73e8606a9b11",
+          "title": "Sanders stands by Platner endorsement, gives Troy Jackson ‘excellent’ chance",
+          "description": "Sen. Bernie Sanders (I-VT) stood by his prior endorsement of former Democratic Senate candidate Graham Platner on Sunday. In an interview with CBS News’s Face the Nation with Margaret Brennan, Sanders was confronted over his past endorsement of Platner, who dropped out of the race after being accused of rape by a former girlfriend. When [...] The post Sanders stands by Platner endorsement, gives Troy Jackson ‘excellent’ chance appeared first on CBNC .",
+          "sourceName": "Cbnc",
+          "url": "https://cbnc.com/sanders-stands-by-platner-endorsement-gives-troy-jackson-excellent-chance/",
+          "publishedAt": "2026-07-26T21:14:00.000Z",
+          "sentiment": 1
         },
         {
-          "id": "9ba2a7242441327fac0076fa52c8d1af3cc0189903cd463f38b30e789a5efe6d",
-          "title": "AP News Summary at 3:35 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Beloit Daily News",
-          "url": "https://www.beloitdailynews.com/news/national-news/ap-news-summary-at-3-35-p-m-edt/article_1e7dca63-b020-5d33-a4b0-3972ee5dce35.html",
-          "publishedAt": "2026-07-25T19:35:51.000Z",
-          "sentiment": -0.6808
-        },
-        {
-          "id": "506ddc56b8b99880b2b82d3a180877ffc99801b1dc09a558a2d737687ff3d308",
-          "title": "AP News Summary at 3:35 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Dailyadvance",
-          "url": "https://www.dailyadvance.com/news/national/ap-news-summary-at-3-35-p-m-edt/article_fc24b536-1645-50eb-b501-61c67738c5c6.html",
-          "publishedAt": "2026-07-25T19:35:51.000Z",
-          "sentiment": -0.6808
-        },
-        {
-          "id": "ec5d36768ec8d4948c8fe9e9d27cd190d193316014399590e0c04ae3c37975a6",
-          "title": "AP News Summary at 3:35 p.m. EDT",
-          "description": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "sourceName": "Nvdaily",
-          "url": "https://www.nvdaily.com/associated_press_national/ap-news-summary-at-3-35-p-m-edt/article_1d9457db-c0c0-53ff-9024-3588d7957ecb.html",
-          "publishedAt": "2026-07-25T19:35:51.000Z",
-          "sentiment": -0.6808
-        },
-        {
-          "id": "e344e10edfa742d4786757560b37fcded2b430299cd92f183b19f01f1187b421",
-          "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face U.S. Sen. Susan Collins",
-          "description": "BANGOR, Maine — Former state lawmaker and logger Troy Jackson secured the Democratic nomination for U.S. Senate in Maine on Saturday and will face longtime GOP Sen. Susan Collins in November in a race that could decide which party controls...",
-          "sourceName": "Telegraph Herald",
-          "url": "https://www.telegraphherald.com/news/national_world/article_98d90fd5-76bf-4fa9-9c6a-f5c5d53178c5.html",
-          "publishedAt": "2026-07-25T19:32:00.000Z",
-          "sentiment": 0.6597
-        },
-        {
-          "id": "d26df025b0bc416bbad6d561bce237596da6a00fbe6da23c20e8712925c6b1f4",
-          "title": "Maine Democrats pick Troy Jackson as their Senate nominee at an unusual party convention",
-          "description": "The selection of the former state Senate president to challenge Republican Sen. Susan Collins culminates an unusual contest to replace Graham Platner after h...",
-          "sourceName": "Yahoo!news",
-          "url": "https://sg.news.yahoo.com/maine-democrats-poised-pick-senate-090025947.html",
-          "publishedAt": "2026-07-25T19:27:35.000Z",
-          "sentiment": 0.4588
-        },
-        {
-          "id": "44303f7932ceede09bf3738516b379e1a6b4f082d7c0303f9f0412134574a8f7",
-          "title": "MIDTERMS 2026: Have Maine Dems found a 'refreshing' candidate who can BEAT Susan Collins?",
-          "description": "Troy Jackson has officially been nominated by the Democrats to take on Republican Susan Collins in the critical Maine Senate ...",
-          "sourceName": "Biztoc",
-          "url": "https://biztoc.com/x/f7e87ae8bb9dc446",
-          "publishedAt": "2026-07-25T19:16:59.000Z",
-          "sentiment": -0.3182
-        },
-        {
-          "id": "f455653d534bd12b5350df54ec03dd6852cb9f3324904b101dfb586c3adcd94e",
-          "title": "Maine Democrats nominate Troy Jackson to replace Platner in US Senate race",
-          "description": "Maine Democrats nominate Troy Jackson to replace Platner in US Senate race",
-          "sourceName": "Ary News",
-          "url": "https://arynews.tv/jackson-wins-democratic-nomination-for-senate",
-          "publishedAt": "2026-07-25T19:00:07.000Z",
+          "id": "3d58e5b3a8d68b1fc70084b16965174ba92af0fa3b0d4bc6e7e0d6dd05e1d1c0",
+          "title": "New footage shows Graham’s behind-the-scenes push for Iran war",
+          "description": "Never-before-seen documentary footage shows the late Sen. Lindsey Graham’s multi-pronged effort to support the US going to war with Iran, with calls to Prime Minister Benjamin Netanyahu and Democratic national security adviser Jake Sullivan.",
+          "sourceName": "Headtopics",
+          "url": "https://headtopics.com/news/new-footage-shows-graham-s-behind-the-scenes-push-for-iran-85973320",
+          "publishedAt": "2026-07-26T21:06:58.000Z",
           "sentiment": 0
         },
         {
-          "id": "70cd751201c155526e2918b962b49670fc877e1b14d700774f9db0a7f9bd9567",
-          "title": "Democrats select Troy Jackson to replace disgraced Graham Platner for Maine Senate race despite fears 'hot-headed' candidate could cause more trouble",
-          "description": "Sources accused Jackson of throwing a water bottle during a heated meeting to CNN and the Washington Post earlier this week.",
-          "sourceName": "Mail Online",
-          "url": "https://www.dailymail.com/news/article-16005039/troy-jackson-maine-senate-race-graham-platner.html",
-          "publishedAt": "2026-07-25T18:56:29.000Z",
-          "sentiment": -0.729
+          "id": "60178f55c1e2925dd4377ee30e4f552844ca5f28a78edd638d64448a50a41856",
+          "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins",
+          "description": "Jackson replaces Graham Platner, who won the Democratic primary in June but withdrew from the race earlier this month following an allegation of sexual assault that Platner has denied. The post Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins appeared first on Boston.com .",
+          "sourceName": "Boston",
+          "url": "https://www.boston.com/news/politics/2026/07/26/maine-democratic-delegates-choose-troy-jackson-as-new-nominee-to-face-us-sen-susan-collins/",
+          "publishedAt": "2026-07-26T20:17:43.000Z",
+          "sentiment": 0
         },
         {
-          "id": "a6f7e623472d7675d557b575590fc0be086a90a2a1a119da017c60af90d571d0",
-          "title": "Maine Democrats pick Troy Jackson to replace Platner in Senate race",
-          "description": "BANGOR, Maine >> Maine Democrats chose Troy Jackson, a progressive former state legislator, to replace Graham Platner as their Senate candidate at a convention today that followed weeks of internal turmoil in a key battleground state.",
-          "sourceName": "Hawaii News",
-          "url": "https://www.staradvertiser.com/2026/07/25/breaking-news/maine-democrats-pick-troy-jackson-to-replace-platner-in-senate-race/",
-          "publishedAt": "2026-07-25T18:50:00.000Z",
-          "sentiment": -0.6369
+          "id": "49888f232e7e2468a459b610bd3dacd4319f6f6547cf7ab3b6947eb9a8b00ac0",
+          "title": "Maine Democrats choose new nominee to face Susan Collins",
+          "description": "BANGOR, Maine — Former state lawmaker and logger Troy Jackson secured the Democratic nomination for U.S. Senate in Maine on Saturday and will face longtime GOP Sen. Susan Collins in November in a race that could decide which party controls the chamber.",
+          "sourceName": "Columbian",
+          "url": "https://www.columbian.com/news/2026/jul/26/maine-democrats-choose-new-nominee-to-face-susan-collins/",
+          "publishedAt": "2026-07-26T20:17:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "00ff231f3c5837032544f306628f8b7744a9ce31014f8098d35dcb3ccf68e6e5",
+          "title": "Sanders: I Don't Regret Supporting Graham Platner in Maine Senate Race",
+          "description": "Sunday on CBS's “Face the Nation,\" Sen. Bernie Sanders (I-VT) said he did not regret supporting former Maine Senate candidate Graham Platner (D) after he dropped out when a former girlfriend made accusations of sexual assault. The post Sanders: I Don’t Regret Supporting Graham Platner in Maine Senate Race appeared first on Breitbart .",
+          "sourceName": "Brietbart",
+          "url": "https://www.breitbart.com/clips/2026/07/26/sanders-i-dont-regret-supporting-graham-platner-in-maine-senate-race/",
+          "publishedAt": "2026-07-26T20:16:42.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8bc1d520771e41a7419e5c53c816fcb509ef9e26a5264d5e74d800a2c62b52c9",
+          "title": "Live updates: Sen. John Kennedy says US should not ‘cut and run’ from Iran; Cyclospora tests Trump admin",
+          "description": "Sen. John Kennedy (R-La.) on Sunday said President Trump likes the daily strikes on Iran, which paused going into the weekend after nearly two straight weeks of attacks on Iranian infrastructure. “I think we ought to continue the blockade and starve them out. I think we ought to bomb Pickaxe Mountain and try to reach what’s underneath it,” Kennedy...",
+          "sourceName": "Yahoo! News",
+          "url": "https://ca.news.yahoo.com/live-updates-maine-jackson-clinches-124844581.html",
+          "publishedAt": "2026-07-26T20:11:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "922eff6a248421db0b5bee2f8317dca7051dd7853b3b8199c21350fc77bfb96f",
+          "title": "Democrat makes age an issue in Massachusetts Senate race",
+          "description": "Rep. Seth Moulton (D-Mass.) is calling out Massachusetts incumbent candidate 80-year-old Sen. Ed Markey (D) ahead of their primary race. CNN’s Manu Raju reports on this new pattern emerging among younger candidates in the Democratic Party.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/democrat-makes-age-an-issue-in-massachusetts-senate-race-85972053",
+          "publishedAt": "2026-07-26T20:07:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c6a5b515695e1e37b5930a1a4712eca9ac15d41283a79220d4f0297e1001f957",
+          "title": "Cassidy on if Trump nominee will change CDC’s vaccine website",
+          "description": "Senator Bill Cassidy weighs in with CNN’s Dana Bash on the fact that the Center for Disease Control has yet to remove language from its website projecting uncertainty about a link between autism and vaccines following his endorsement of Dr. Erica Schwartz, Trump’s nominee for Director of the CDC.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/cassidy-on-if-trump-nominee-will-change-cdc-s-vaccine-85972160",
+          "publishedAt": "2026-07-26T20:07:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9c9093ab36fbd49e61d4d00b7e957e93320ee8c078675fd1a444a4f00e1ec433",
+          "title": "Resistance rising against the woke culture",
+          "description": "There has been a lot of pushback lately on a number of levels, which is encouraging in a society that in many ways seems to have gone off the rails.",
+          "sourceName": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/jul/26/resistance-rising-woke-culture/",
+          "publishedAt": "2026-07-26T19:10:15.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5e9753f5d66a87a3f369cdb3ffc893f3fe91c6e469abd1f5fdd97a0d62e00cdc",
+          "title": "This red state is strengthening its grip as America's next economic heavyweight",
+          "description": "IRS migration data reveal over $5 billion in wealth flowing into Texas as Dallas-Fort Worth, Houston and Austin fuel the state's population boom.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/this-red-state-is-strengthening-its-grip-as-america-s-next-85970600",
+          "publishedAt": "2026-07-26T18:36:43.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "762b37f856878fc0f9623d4dd112aa7d54367e87fba4f89b2f53d34b8dc87096",
+          "title": "Everyday Revolutionary War heroes take center stage in Trump's 'Spirit of '76' exhibit",
+          "description": "The Caesar Rodney statue and 22 other installations at Freedom Plaza honor common, everyday Revolutionary War heroes as part of America's 250th anniversary under President Trump.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/everyday-revolutionary-war-heroes-take-center-stage-in-85970155",
+          "publishedAt": "2026-07-26T18:06:53.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0e3aa81b9f37772e5b9014d27a0cf8e3e9fb8213204019d4961f1dc8390a4c44",
+          "title": "Democrats reset the Maine Senate race. Now comes the tricky part.",
+          "description": "Troy Jackson is the new Democratic nominee who will face Republican Susan Collins in the closely watched contest. Each candidate has about 100 days to make their case.",
+          "sourceName": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/07/26/nation/maine-senate-troy-jackson-susan-collins/",
+          "publishedAt": "2026-07-26T17:59:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2ea54c33a19faa4f2dc77a54eee87e5e62297deb5dd1934c2948532ed7912fba",
+          "title": "Sanders says polls show voters want change in midterm elections",
+          "description": "Senator Bernie Sanders said the major obstacle progressive candidates are facing in the midterm elections is massive spending in key races by the \"billionaire class.\"",
+          "sourceName": "Cbs News",
+          "url": "https://www.cbsnews.com/news/bernie-sanders-face-the-nation-2026-midterms-progressive-candidates/",
+          "publishedAt": "2026-07-26T17:43:17.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4650f88a9d2a5559686977181882bae0b44a099f7f07f6fbd2b630615e0892ba",
+          "title": "U.S. Democratic Senate candidate Troy Jackson has eyes on November and Sen. Susan Collins 100 days out from the election",
+          "description": "Jackson told NEWS CENTER Maine, \"Hopefully voters will know the difference when it comes down to the election that I'm fighting for them, and Susan Collins isn't.\"",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/local/us-democratic-senate-candidate-troy-jackson-has-eyes-on-november-and-sen-susan-collins-100-days-out-from-the-election/97-3390638b-3774-4096-8249-716b55a94e63",
+          "publishedAt": "2026-07-26T17:11:38.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c4860deb85508082736f150787359d74d8e76d6056c503acf818f356acd8a362",
+          "title": "How Republicans plan to conquer Troy Jackson",
+          "description": "Republicans have 100 days to sink the newly-minted Democratic Maine Senate nominee — and they're throwing everything they have at him.",
+          "sourceName": "Yahoo! News",
+          "url": "https://www.yahoo.com/news/politics/articles/republicans-plan-conquer-troy-jackson-171059048.html",
+          "publishedAt": "2026-07-26T17:10:59.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "df99d2953c995efe70c5422a2fc01376036fd3912e8764eb68d41bdda18bed5a",
+          "title": "How Republicans plan to conquer Troy Jackson - Politico",
+          "description": "How Republicans plan to conquer Troy Jackson Politico Democrats Reset the Maine Senate Race. Now Comes the Tricky Part. The New York Times Troy Jackson secures Democratic nomination for Maine Senate race ABC News - Breaking News, Latest News and Videos Live updates: Troy Jackson clinches Susan Collins match in midterms; Cyclospora outbreak tests Trump The Hill Opinion | Maine Democrats made the right choice with Troy Jackson MS NOW",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVdoSlRHaTJEei1iY1lvM1AtUWVaLWRhRkVBdVNkLV8xMVc5YW8xS1UxMHVpTjBWWG5tenpUNnVrQzZFbktuYl95cXh3WTdSZ0ItOERoekJ2X0RNdkRwVlhMS0VrM1Y4UWNqcjNmZ0JRZjNDRzhlSGdLMDk4YlZqbTVRRkp6TWx3bng0V0o4UQ?oc=5",
+          "publishedAt": "2026-07-26T17:10:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ef3f33818024ba5a5ecf851a7d968bebaa5917c3dd0af052dddc2e1594214e51",
+          "title": "Jeffries won’t commit to holding votes on abolishing ICE",
+          "description": "House Minority Leader Hakeem Jeffries (D) is not committing to holding votes on the progressive policy issues, such as abolishing ICE if Democrats wins back the majority this fall.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/jeffries-won-t-commit-to-holding-votes-on-abolishing-ice-85968509",
+          "publishedAt": "2026-07-26T17:07:21.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e9ad7b0a24579f3f13e5c012162d82e5e0460b01afa8e29e9467b14fa364168a",
+          "title": "Transcript: Vermont Sen. Bernie Sanders onFace the Nation with Margaret Brennan, July 26, 2026",
+          "description": "The following is the full transcription of an interview with Vermont Sen. Bernie Sanders, an Independent, a portion of which aired on \"Face the Nation with Margaret Brennan\" on July 26, 2026.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/transcript-vermont-sen-bernie-sanders-onface-the-nation-85968911",
+          "publishedAt": "2026-07-26T17:06:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "dde1aad25e476c7c1df25e69b418e64bb5cc2838ba14a55ec115c0f85b39ddc4",
+          "title": "Map shows where gas prices are over $4 only 100 days before midterms",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/map-shows-where-gas-prices-are-over-4-only-100-days-before-midterms-FDFB7013-62F6-4DEE-A584-F516256A50D6",
+          "publishedAt": "2026-07-26T17:00:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7d7599c2d4d6fdcfd4fc6524477862402cb1ec3702648e5df1ec45ef2b2ee6b4",
+          "title": "Map Shows Where Gas Prices Are Over $4 Only 100 Days Before Midterms",
+          "description": "The $4 figure is viewed as a psychologically important threshold that impacts consumer sentiment.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/map-shows-gas-prices-100-days-before-midterms-12245991",
+          "publishedAt": "2026-07-26T17:00:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ed23eec01adb20e9774823eb2f8f80a23c99c74f09c9555fcae9892f5f826185",
+          "title": "Transcript: Vermont Sen. Bernie Sanders on \"Face the Nation with Margaret Brennan,\" July 26, 2026",
+          "description": "The following is the full transcription of an interview with Vermont Sen. Bernie Sanders, an Independent, a portion of which aired on \"Face the Nation with Margaret Brennan\" on July 26, 2026.",
+          "sourceName": "Cbs News",
+          "url": "https://www.cbsnews.com/news/bernie-sanders-vermont-senator-face-the-nation-transcript-july-26-2026/",
+          "publishedAt": "2026-07-26T16:41:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e0d8aff6e77206220854ef0124eaf90704173f8c4f5afb4f2314e727a5ba634a",
+          "title": "Republicans Kick Off Maine Senate Ad Campaign, Tying New Candidate Jackson to Disgraced Nominee Platner",
+          "description": "Jackson and Platner co-endorsed each other when the former ran for governor and the latter locked up the Senate nomination.",
+          "sourceName": "The New York Sun",
+          "url": "https://www.nysun.com/article/republicans-kick-off-maine-senate-ad-campaign-tying-new-candidate-jackson-to-disgraced-nominee-platner",
+          "publishedAt": "2026-07-26T16:39:47.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "b5515c898f7c31d7e3aaddc330162db2f3be2fa05575ff33cb6e9235c8ff3e27",
+          "title": "Sanders says he does not regret supporting Graham Platner in Maine Senate race",
+          "description": "Sen. Bernie Sanders (I-Vt.) on Sunday said he did not regret supporting former Maine Senate candidate Graham Platner (D) after a former girlfriend's accusations of sexual assault came to light and led the progressive candidate to drop his bid. CBS News's Margaret Brennan asked Sanders about his support for Platner on Sunday's \"Face the Nation,\"...",
+          "sourceName": "The Hill",
+          "url": "https://thehill.com/homenews/campaign/5991024-sanders-defends-platner-support/",
+          "publishedAt": "2026-07-26T16:38:51.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "41cff292dfb4a00b1b2a077ef7b07b24bb1c7379a18b90650fb961e158067129",
+          "title": "Sanders says he does not regret supporting Graham Platner in Maine Senate race - The Hill",
+          "description": "Sanders says he does not regret supporting Graham Platner in Maine Senate race The Hill Sanders cheers on progressive candidates ahead of midterms, says polling shows voters \"tired of the status quo\" CBS News \"People are sick of Rahm Emanuel\": Sanders says progressive wins make Dem establishment \"nervous\" Salon.com Bernie Sanders Doesn’t Regret Supporting Accused Rapist Graham Platner The Daily Wire Sanders stands by Platner endorsement, gives Troy Jackson ‘excellent’ chance Washington Examiner",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmRfaExOV2lERVVNNm9WaC16QUJibWgwNzJuWXJmYW13a0xfa280WlJjQlFFSlRlZXN5NXg1RFV0SHlGZGVJUTMyWDFfZnM5VWN1cWI5LXItcENnY25lSkV1MVc3UVRERzROQTBUOGR3RzU3TFdCVXM4RGhFdnh6dEtnU1HSAYoBQVVfeXFMTS1oQjJkZ19WRGkzTVk2T1JxVDkxOGVabktybDZSYmtLemhnang3bVJ5aV9yNHRYTnlGbmN3akg4WW5PY0I4bmpXYzF5NTZ4UUdveGd3R1FFdy12dGlhQXM0M0Z3UU1HakhnVVRua29UV1NGa05ZSGMwYjlIOHpVQ0ZIdjNDcnQ5OU1R?oc=5",
+          "publishedAt": "2026-07-26T16:38:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e017f6bdc305687b673f42dd1dc101877019b943cf232159ddba86142b822ac5",
+          "title": "Democratic Party's Left-Wing Strengthens Through Victories of DSA-Backed Candidates",
+          "description": "The Democratic Party's left-wing is gaining momentum through victories of Democratic Socialists of America-backed cAndidates over establishment figures. The trend,most notably seen in Colorado, has left-wing supporters wondering if it's a lasting movement.",
+          "sourceName": "Headtopics",
+          "url": "https://headtopics.com/news/democratic-party-s-left-wing-strengthens-through-victories-85968193",
+          "publishedAt": "2026-07-26T16:36:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2c39f10037f9d8de001ad29fc28db5cf2af237ee96f006112f824f53bedff8dd",
+          "title": "How Republicans plan to conquer Troy - Politico",
+          "description": "How Republicans plan to conquer Troy Politico Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race The New York Times How Troy Jackson went from an anti-abortion Republican to the Democrats’ hope for defeating Susan Collins CNN Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race The Guardian How Republicans plan to conquer Troy Jackson Politico",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTdCWVpJSjVzU01yaUE2V1JOdnpZeHBiQjV5R1ZueWE2Y3VIV3JWQVVCcGN0aVBURUZjYUhubmstZXdtMzFOMnd1WFJVcDJMVDFZV2ozbFh1Y00yT0tWSEtocHA3OUFOdG4tQnlYOVAwSFdMbnhJdWd1QTk2MTNmRWhnMVZGY21TWnNCMktkWXZIdnVnV1JVcUItS19SUVhQX3JVYg?oc=5",
+          "publishedAt": "2026-07-26T16:31:33.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3a21c801153678a7d614c995eea4c92dcd0c5fad14b775163564ac20313b0249",
+          "title": "How Republicans plan to conquer Troy Jackson",
+          "description": "Republicans have 100 days to sink the newly-minted Democratic Maine Senate nominee — and they're throwing everything they have at him.",
+          "sourceName": "Politico",
+          "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
+          "publishedAt": "2026-07-26T16:10:59.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "b155510125514e0473a7dbe471017a99e34dd99258c98f4d480b174662c88240",
+          "title": "Fauci's newly released COVID diaries reveal bizarre fixation on fame as pandemic deaths mounted",
+          "description": "Anthony Fauci's private diary entries reveal he called himself the most famous person in the country while documenting rising COVID-19 death tolls.",
+          "sourceName": "Headtopics",
+          "url": "https://headtopics.com/news/fauci-s-newly-released-covid-diaries-reveal-bizarre-85967357",
+          "publishedAt": "2026-07-26T16:06:15.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "cea6eed5fdc359468ec082bc4d4dbfc9e11c2f0b9ff974a9f13aef3657324da0",
+          "title": "Mark Kelly: Democrats can ‘win in Maine’ with Troy Jackson, Platner ‘wasn’t vetted well enough’",
+          "description": "In an exclusive interview with Meet the Press, Sen. Mark Kelly (D-Ariz.) says he believes Troy Jackson is a “strong candidate” who can beat Republican Senator Susan Collins after Jackson replaced Graham Platner on the ballot.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/mark-kelly-democrats-can-win-in-maine-with-troy-jackson-85966084",
+          "publishedAt": "2026-07-26T15:07:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "8c46c8212cf80e30af0ac8b55a8a73be4b9101a0dcd0281c38b64fcfae85bb0c",
+          "title": "Can Democrats Flip the Senate? Chances 100 Days From Midterms",
+          "description": "Democrats eye Senate gains in key battlegrounds but holding Michigan could be crucial to winning a majority.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/can-democrats-flip-senate-chances-100-days-midterms-12245883",
+          "publishedAt": "2026-07-26T14:59:30.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8fc5ec4161fdf38122e25d9e51b4a618711fa934b1a9ab38d119d1372cad79d1",
+          "title": "Chinese Influence Operations in the Spotlight Amid Trump's Election Interference Claims",
+          "description": "Federal filings reveal Chinese government-linked entities spending tens of millions on U.S. lobbying and media as Trump accuses Beijing of election interference; the scope of influence extends beyond registered agents to include covert networks and nonprofit ties, sparking debate over transparency and national security.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/chinese-influence-operations-in-the-spotlight-amid-trump-s-85965366",
+          "publishedAt": "2026-07-26T14:36:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "385e52b076f9980edd0b546c42561b22e1719a4adc239b926d3d90ca226435ad",
+          "title": "Troy Jackson Shreds Susan Collins In Fiery Nomination Speech",
+          "description": "Troy Jackson gave a stemwinder after he secured the Democratic nomination on Saturday to run against Sen. Susan Collins (R-ME). If you liked ex-nominee Graham Platner’s populism, you’ve got to love Jackson’s, which comes without the baggage: Politico described him as a “progressive 5th generation logger” who has “had a long career in organizing progressive activists and ties to Sen. Bernie Sanders (I-Vt.), who had endorsed him in his gubernatorial race earlier this year.” Jackson’s speech focused on how working people are getting screwed by the ultra-wealthy, like Collins. He started with his own experiences being taken advantage of by logging companies. Later, he spoke of his realization that his struggles were part of a much bigger problem: \"The same thing that happened to us as loggers that I worked beside is happening all across the state and all across this country to working people. ... People are doing everything they can right and still cannot get ahead. They're working two or three jobs to survive.” He noted how the struggle to earn enough money to get by infects nearly every aspect of workers’ lives: from working so much they lose precious time with their families to skipping medications and checkups and “ praying to God that they don't get sick because they can't afford another damn bill .” “So, I am running to pass Medicare for all,” Jackson added. read more",
+          "sourceName": "Crooksandliars",
+          "url": "https://crooksandliars.com/2026/07/troy-jackson-shreds-susan-collins-fiery",
+          "publishedAt": "2026-07-26T14:31:49.000Z",
+          "sentiment": 1
         }
       ],
       "social": [
@@ -6574,69 +6069,24 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.4888888888888889,
-      "newsSentiment": 0,
+      "overallSentiment": -0.8222222222222223,
+      "newsSentiment": -1,
       "socialSentiment": -0.4666666666666666,
       "mentions": {
-        "news": 6,
+        "news": 1,
         "social": 3,
         "youtube": 1,
-        "total": 10
+        "total": 5
       },
       "news": [
         {
-          "id": "b16dc5c46ea3a5a74d7f81e3ab23a34aac83fabc149f3f25072ccb9ead8721f9",
-          "title": "Maine Democrats select Troy Jackson as Senate candidate",
-          "description": "IE 11 is not supported. For an optimal experience visit our site on another browser. Hundreds of thousands race to escape wildfires in France and Spain 02:04 Daredevils jump off Seattle’s Space Needle 01:17 Inside the battle for clean energy on Native American land 02:34 Anti-ICE demonstrations across the country 01:47 Now Playing Maine Democrats [...] The post Maine Democrats select Troy Jackson as Senate candidate appeared first on News Pub . The post Maine Democrats select Troy Jackson as Senate candidate appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/maine-democrats-select-troy-jackson-as-senate-candidate/",
-          "publishedAt": "2026-07-26T00:15:05.000Z",
+          "id": "c0d05ef3966a172283630f1c88f3aeeabbb9820cd3833271e67ef3600634bce3",
+          "title": "Film room: Taylor Sofilkanich adds to Duke's frontcourt with a strong presence in the paint",
+          "description": "With Duke basketball's offseason in full swing, the Blue Zone is here to break down film from the new additions to both the men's and women's teams. On the women's side, we've already looked at Aaliyah Crump, Sanai Green, Autumn Fleary and Bella Flemings. We wrap up the women’s roster with center Taylor Sofilkanich.",
+          "sourceName": "The Duke Chronicle",
+          "url": "https://dukechronicle.com/article/duke-womens-basketball-film-room-sofilkanich-lawson-roberson-wood-20260727",
+          "publishedAt": "2026-07-27T00:35:58.000Z",
           "sentiment": -1
-        },
-        {
-          "id": "4444b8a1a980d4e8c0c18ae9ad55770bac71d2dc8a3ef821908b4885af3087d0",
-          "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
-          "description": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations",
-          "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/troy-jackson-secures-democratic-nomination-154409400.html",
-          "publishedAt": "2026-07-25T15:44:09.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cbfcc18a7c78caa23706088d5364d1ac78f2d999af1d64f5bbdbf692919046f0",
-          "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
-          "description": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegations In a race defined by scandal, withdrawals and a frantic hunt for a replacement candidate, Maine Democrats hit reset on their chaotic Senate primary on Saturday as Troy Jackson officially secured the party’s nomination. He took the stage at the Cross Insurance Center in Bangor to rapturous applause, a standing ovation and Noah Kahan’s Northern Attitude blaring over the speakers. “This is the absolute honor of my life,” Jackson said. Continue reading...",
-          "sourceName": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat",
-          "publishedAt": "2026-07-25T15:44:09.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1ea008685def2563626505d5861e2097574ef8bf811bf7a52903e96a06c7d12b",
-          "title": "Nazi tattooed Graham Platner's behavior is turning voters OFF the Democratic Party",
-          "description": "One chaotic race for the US Senate could cost the Democrats the upper hand in the November midterm elections.",
-          "sourceName": "Mail Online",
-          "url": "https://www.dailymail.com/news/article-16000785/Nazi-tattooed-Graham-Platners-behavior-turning-voters-Democratic-Party.html",
-          "publishedAt": "2026-07-25T15:26:26.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5f860d8d21224b7378010ebbbb150362658ea569263c448736b0872a21062eb1",
-          "title": "Nazi-tattooed Platner's behavior is turning voters OFF Democrats",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/nazi-tattooed-platners-behavior-is-turning-voters-off-democrats-19F1AF2F-D69C-4684-BE5B-7DF7CD249EB7",
-          "publishedAt": "2026-07-25T15:26:25.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5290eed2668cba8658380e87893787740181b7e7b3fa5cf32d5291dbcbe9b342",
-          "title": "Maine Democrats pick Troy Jackson to replace Platner as Senate nominee",
-          "description": "Former Maine Senate President Troy Jackson greets delegates at the nominating convention in Bangor after becoming the new Democratic nominee to take on Republican Sen. Susan Collins.",
-          "sourceName": "Roll Call",
-          "url": "https://rollcall.com/2026/07/25/maine-democrats-pick-troy-jackson-to-replace-platner-as-senate-nominee/",
-          "publishedAt": "2026-07-25T13:41:30.000Z",
-          "sentiment": 1
         }
       ],
       "social": [
