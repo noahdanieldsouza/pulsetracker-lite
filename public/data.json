@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T13:21:11.396Z",
+  "lastUpdated": "2026-07-28T13:58:23.986Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -9,19 +9,37 @@
       "newsSentiment": 0,
       "socialSentiment": null,
       "mentions": {
-        "news": 1,
+        "news": 3,
         "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 3
       },
       "news": [
         {
-          "id": "dcc12788c79d41600d685d21c294bd421f979e03047d4e4d54c9dfd5bed31b4d",
-          "title": "Mark Kelly: Democrats can ‘win in Maine’ with Troy Jackson, Platner ‘wasn’t vetted well enough’",
-          "description": "In an exclusive interview with Meet the Press, Sen. Mark Kelly (D-Ariz.) says he believes Troy Jackson is a “strong candidate” who can beat Republican Senator Susan Collins after Jackson replaced Graham Platner on the ballot.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/mark-kelly-democrats-can-win-in-maine-with-troy-jackson-85966084",
-          "publishedAt": "2026-07-26T15:07:00.000Z",
+          "id": "5e011ecae3b6f81f6afc61dd25a1231f89f228d74d070d63b4726bb97250a59a",
+          "title": "Meet the Press NOW — July 27",
+          "description": "President Trump travels to Michigan ahead of the state’s primary to promote his administration’s economic agenda despite recent polls showing voter concerns about inflation. Former Democratic National Committee Chair Jaime Harrison discusses the leadership and financial troubles facing the DNC and how it could affect the party’s prospects in November. The U.S. pauses military strikes on Iran as the administration pursues a diplomatic path forward.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/meet-the-press/video/meet-the-press-now-july-27-267337797593",
+          "publishedAt": "2026-07-27T21:09:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9886f45635b38cf7b81547369eb54a530b5936102bec2f8bea945cea75cd5a95",
+          "title": "Democrats’ 2028 primary calendar ‘reflects diversity of the party,’ says former DNC chair",
+          "description": "With 99 days until the midterms, President Trump is in battleground Michigan to tout his economy agenda with affordability top of mind for voters. NBC News correspondents Garrett Haake and Ben Kamisar report on some of the internal turmoil facing the Republican and Democratic parties. Former DNC Chair Jaime Harrison analyzes the political landscape for Democrats heading into November.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/meet-the-press/video/democrats-2028-primary-calendar-reflects-diversity-of-the-party-says-former-dnc-chair-267336261684",
+          "publishedAt": "2026-07-27T20:52:12.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a7bbde0a86607b50bf8fa7377d9f59f91e706152e033c0ca640f469a04c35a78",
+          "title": "Too Dumb to Check: Did Maine Dems Anoint an Ineligible Jackson to Replace Platner?",
+          "description": "You'd think a party with as much experience at trashing its own primaries to have elites pick its nominees would...",
+          "sourceName": "Hotair",
+          "url": "https://hotair.com/ed-morrissey/2026/07/27/too-fun-to-check-did-maine-dems-anoint-an-ineligible-jackson-to-replace-platner-n3817363",
+          "publishedAt": "2026-07-27T17:50:44.000Z",
           "sentiment": 0
         }
       ],
@@ -33,15 +51,25 @@
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
       "overallSentiment": -1,
-      "newsSentiment": null,
+      "newsSentiment": -1,
       "socialSentiment": -1,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 1,
         "youtube": 1,
-        "total": 2
+        "total": 3
       },
-      "news": [],
+      "news": [
+        {
+          "id": "cfbd700d918b78b5288ab35070b572ade4c1bb26c16b760031bfd1b9577c7397",
+          "title": "Too Dumb to Check: Did Maine Dems Anoint an Ineligible Jackson to Replace Platner?",
+          "description": "You'd think a party with as much experience at trashing its own primaries to have elites pick its nominees would...",
+          "sourceName": "Hotair",
+          "url": "https://hotair.com/ed-morrissey/2026/07/27/too-fun-to-check-did-maine-dems-anoint-an-ineligible-jackson-to-replace-platner-n3817363",
+          "publishedAt": "2026-07-27T17:50:44.000Z",
+          "sentiment": -1
+        }
+      ],
       "social": [
         {
           "id": "ff79ef7f148a6c13114d4af1559c8b299fe0d3dbc89b21fa3a3d7cfb042da2e3",
@@ -69,789 +97,1176 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.21711314214235,
-      "newsSentiment": 0.08837209302325578,
+      "overallSentiment": 0.28356688891237586,
+      "newsSentiment": 0.2877333333333334,
       "socialSentiment": 0.25666812080536905,
       "mentions": {
-        "news": 86,
+        "news": 129,
         "social": 302,
         "youtube": 127,
-        "total": 515
+        "total": 558
       },
       "news": [
         {
-          "id": "c19fa79dfbda92ed7859a0bb9afdcf7b00da1d4fd3f383040d3c9bc78f84e637",
-          "title": "Bernie Sanders rejects regret over early Graham Platner support despite ‘warning signs’",
-          "description": "Bernie Sanders says he urged Graham Platner to withdraw after the sexual assault allegation surfaced but rejected any regret over his early endorsement.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/bernie-sanders-rejects-regret-over-early-graham-platner-85976846",
-          "publishedAt": "2026-07-27T01:36:58.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8fd0c2de8c468844fbc8d9ad714058405feacf796421d91d376f168f142d0bf7",
-          "title": "Bernie Sanders has no regrets for ignoring warning signs about disgraced pick Graham Platner",
-          "description": "Sen. Bernie Sanders insisted that he has no regrets about his initial stance standing by disgraced oyster farmer Graham Platner despite an avalanche of warning signs. Sanders (I-Vt.) had been among Platner’s earliest backers, catapulting him to prominence with his endorsement shortly after the oyster farmer jumped in the race for Maine’s Senate seat. “No, I don’t think so,” Sanders told CBS News’ “Face the Nation” on Sunday when asked about whether he had regrets for not abandoning Platner sooner. The self-described democratic socialist had stuck with Platner during a string of scandals, defending him after revelations emerged that he...",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-chat/4389471/posts",
-          "publishedAt": "2026-07-27T01:05:49.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7b80aee02aeb34a47881cc723d2e665bc44c22dd3bd20a136bb1274f0a404eec",
-          "title": "Bernie Sanders rejects regret over early Graham Platner support despite ‘warning signs’",
-          "description": "Bernie Sanders says he urged Graham Platner to withdraw after the sexual assault allegation surfaced but rejected any regret over his early endorsement.",
-          "sourceName": "Fox News",
-          "url": "https://www.foxnews.com/media/bernie-sanders-rejects-regret-early-graham-platner-support-despite-warning-signs",
-          "publishedAt": "2026-07-27T00:25:02.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8f41f0e9890627efd4fffb89c7f8ab5914f12efeade616ebfc1613ba00d63918",
-          "title": "Inside Fauci's private diary: What he wrote about Trump, TV personalities and celebrities",
-          "description": "Anthony Fauci's diary entries reveal candid opinions about Trump, Mark Meadows, Jake Tapper and celebrities he encountered during the COVID-19 pandemic.",
-          "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/inside-fauci-s-private-diary-what-he-wrote-about-trump-tv-85975951",
-          "publishedAt": "2026-07-27T00:07:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "42ad6b07097b80c4fc4f59cdb8f2503782d4aebd674f515a3fce195f866464ec",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Wskg",
-          "url": "https://www.wskg.org/npr-news/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "01046e0e471f8b57327256ce9179afb40932f4a8ed292a538c086f358e0e8efc",
-          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-          "sourceName": "Wrvo Public Media",
-          "url": "https://www.wrvo.org/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "110317ca5fcf047fbbf939a7a521d5f2df9eeeba65a3f92fd7efa8c1f314007d",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
-          "sourceName": "Wuga | University Of Georgia | Your Oasis For Idea",
-          "url": "https://www.wuga.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "27b8987dcd32e50f0fe542363ece56c8a40f4cb9ebc63bca6f7760baefda719f",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Michigan Public",
-          "url": "https://www.michiganpublic.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1b7661438085f80921925193e236e65d6f0ce12472c97aa1f87001214d13aae1",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Wuga | University Of Georgia | Your Oasis For Idea",
-          "url": "https://www.wuga.org/national-news/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cab676bef4dcd78492ff1e663bd474fb7d853a97677ae6589586e7ae184133ac",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Wamc Northeast Public Radio",
-          "url": "https://www.wamc.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e79b836ebf7ef49f80b44ebd9bb02b8c707518b9f39c196cadf3e2c896cacaa5",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Kyuk Public Radio",
-          "url": "https://www.kyuk.org/2026-07-26/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "50e74d4ad8b958d2673a7f0f32a1aaffeb987a2573623abca2832079fe603cdc",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": null,
-          "sourceName": "Connecticut Public",
-          "url": "https://www.ctpublic.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "21699c44b3ea169bd73d7a7bb8c78c19286721e3d19eab16735ba6b8addc09a5",
-          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-          "sourceName": "Wfdd Public Radio",
-          "url": "https://www.wfdd.org/world-news/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "fa98371486ade85a6fd515cab51c9aae72c6650f1100c1ba09042fca8c920f32",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Connecticut Public",
-          "url": "https://www.ctpublic.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "36ccc7816255d815f8c437d814338d2781ec883ba382f2f45177085bf8b645e8",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Wrvo Public Media",
-          "url": "https://www.wrvo.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7b6dbee387d4fa17680832136938ac5e7d1d6a118c7dbcb1d6c5947bc813903b",
-          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-          "sourceName": "Iowa Public Radio",
-          "url": "https://www.iowapublicradio.org/news-from-npr/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "81cec114a7b99f34ce68a02b136588f3ae688dd4dd7c775c70eca93e73433f5a",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Nevada Public Radio | Npr And Local News In Las Ve",
-          "url": "https://knpr.org/npr/2026-07-26/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "efc67475bbd7c3adc5c2a48dcf3a99b311261b66fe7e0b546e357365ea606a86",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Stlpr",
-          "url": "https://www.stlpr.org/npr/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "70cbc3e3bcf51f3fecfab8d075d5ff4ebdf7444c6351a826991d93bbe4c95e0a",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
-          "sourceName": "Wsiu Public Broadcasting",
-          "url": "https://www.wsiu.org/politics-elections/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "e361edbe0f60aab8dd9ad3309bb40345a868337999999a88d5a17bc38d8b1386",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
-          "sourceName": "Kyuk Public Radio",
-          "url": "https://www.kyuk.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "3b614da8ed3be5030e9b1cd32ba3dff72f33646ebe216593a6ddc6f63f1acb76",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Ideastream Public Media",
-          "url": "https://www.ideastream.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "570d9c11d859a2e00c9bf22c31d4357244edd2819e6443ea5ad2eeee1844eb98",
-          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-          "sourceName": "Ideastream Public Media",
-          "url": "https://www.ideastream.org/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a41ad6a7e9c9f2943e41245cd85a41eff72734ec3233ba29d6f9a8775c6e84df",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Wsiu Public Broadcasting",
-          "url": "https://www.wsiu.org/politics-elections/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6dd2b6b769e52ffc3812374ea959facddcd1da32a6ba11aa73b62bbbaf876ea2",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Wfdd Public Radio",
-          "url": "https://www.wfdd.org/national/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b82cf15b7856fae020f2fd9782c1df6a13f78ad0247c261ba9f610c93985f077",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "66f582f7e632643539227858baa2de480e2c9d4e4ad66fc197c0b7f7be5b3ac9",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/npr-news/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "324f26c387af13765a0ae7c512046d1eaa2f2d76dd1b66a2946f3dacd0ad9e24",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Wunc",
-          "url": "https://www.wunc.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4e80bf9390015104f88dd73417695662283d7d55d9bafcd023af95b05a830eaa",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
-          "sourceName": "Ideastream Public Media",
-          "url": "https://www.ideastream.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "71dfc9e1c1d124494afb8a28faa8397bb07cb9e7e87675579501a723ac4a93ef",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Kbia",
-          "url": "https://www.kbia.org/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1076077374233eeb5adb59f98f0f8767d8ec817bbe99bdb4b83d90653850ad6b",
-          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-          "sourceName": "Wlrn",
-          "url": "https://www.wlrn.org/npr-breaking-news/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a89461a9f6c9b875d96f8e86229c922f44199ee0a0b8fa4ded662982342873d1",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Wfae 90.7",
-          "url": "https://www.wfae.org/united-states-world/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "90e6bcee2ad7f4d067db377d5450ae542946b8d926eb7991b9e1f0c35bbb444a",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
-          "sourceName": "Nevada Public Radio | Npr And Local News In Las Ve",
-          "url": "https://knpr.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "52288e8a0ddecc6feb7f3af282d345bda817f6fec8928641601102af34ebdbee",
-          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-          "sourceName": "Wfae 90.7",
-          "url": "https://www.wfae.org/world/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e1919e3671ebd57325852fddb2306be844bffe4ff2044644ec22460e0172db23",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
-          "sourceName": "Wlrn",
-          "url": "https://www.wlrn.org/national-politics/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "e9701cc02dad8850ba673d27877a18d469bead2f1728a0eaee14bb458a5859eb",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
-          "sourceName": "Wfae 90.7",
-          "url": "https://www.wfae.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "4a79031759b2817639927c2c34707d7251f99a9e06fc3b2992ac755763f4a9a0",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Wlrn",
-          "url": "https://www.wlrn.org/national-politics/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "83d2983e3b5bfaacbb323916ea8c377153f9f7d8611e668fee76a18b0ff55062",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
-          "sourceName": "Wunc",
-          "url": "https://www.wunc.org/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "1e68a02d2f4bd29adb0416e6aa6be7f6f81901a115c8ce5c7c778e2940d0926e",
-          "title": "Maine Democrats pick Troy Jackson to replace Graham Platner in Senate race",
-          "description": "In Maine's U.S. Senate race, state Democrats have nominated Troy Jackson to replace the scandal-plagued candidate Graham Platner.",
-          "sourceName": "Wfdd Public Radio",
-          "url": "https://www.wfdd.org/politics-government/2026-07-27/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "cd082e1242d713da01d6f64143ddca10180c50c361616a14520bd97bd73c5fa2",
-          "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-          "description": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-          "sourceName": "Iowa Public Radio",
-          "url": "https://www.iowapublicradio.org/news-from-npr/2026-07-27/with-just-a-few-primary-elections-to-go-the-competitive-senate-map-keeps-shifting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "faffaf54b00af7bbcc1499346a3a73e192c6e5c6f99c10550f9409634023bfc2",
-          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-          "sourceName": "Nevada Public Radio | Npr And Local News In Las Ve",
-          "url": "https://knpr.org/npr/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "133394f5dddfa4551d01f6384a36c2948e5b0ff3b0b6c17cf282a566a52d943c",
-          "title": "U.S. Senate Race",
-          "description": "With Troy Jackson officially nominated to run against Senator Susan Collins, we discuss where the two candidates stand and what to expect in this closely watched race",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/show/maine-calling/2026-07-27/u-s-senate-race",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "f531883fc54c3e593c48a31827911febe245bdf0ec17f4c8b9f16d54f9785789",
-          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-          "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-          "sourceName": "Wsiu Public Broadcasting",
-          "url": "https://www.wsiu.org/2026-07-27/3-dead-in-mass-shooting-in-seattle-and-u-s-and-iran-pause-fighting",
-          "publishedAt": "2026-07-27T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "364a46d1965b490157591991fe7fa0e5d5700b750dec723e4e60dc3b53be4df3",
-          "title": "Margaret Brennan Confronts Bernie Sanders On Scandal-Plagued Graham Platner: ‘Do You Regret Not Acting Earlier?’",
-          "description": "Margaret Brennan confronted Bernie Sanders about not dropping his support of scandal-plagued U.S. Senate candidate Graham Platner (D) earlier than he did. The post Margaret Brennan Confronts Bernie Sanders On Scandal-Plagued Graham Platner: ‘Do You Regret Not Acting Earlier?’ first appeared on Mediaite .",
-          "sourceName": "Mediaite",
-          "url": "https://www.mediaite.com/media/news/margaret-brennan-confronts-bernie-sanders-on-scandal-plagued-graham-platner-do-you-regret-not-acting-earlier/",
-          "publishedAt": "2026-07-26T23:39:59.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9574142bc1e8c0166b8228bce0c4a51309e19f6630b9c4ac4c10c009cabfa48a",
-          "title": "Suspect killed after deadly Berlin terror attack",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/suspect-killed-after-deadly-berlin-terror-attack-DA6AFDC5-8DBA-4C65-B7DD-22472045EEF8",
-          "publishedAt": "2026-07-26T23:08:39.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9633881ba23b26e04185bd64cf18beda56cfafec7eaa2d41c1282d24ed1dae30",
-          "title": "Suspect killed after deadly Berlin terror attack",
-          "description": "Berlin police shot and killed 21-year-old Abdul Ballout after authorities say he rushed at officers with a stabbing weapon while they tried to arrest him today. Police say the suspect drove a white van into dozens of people as they walked through a park. Many of the victims were attending a large Pride event. NBC News’ Valerie Castro has the latest.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/suspect-killed-after-deadly-berlin-terror-attack-267289157744",
-          "publishedAt": "2026-07-26T23:08:39.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7d4aaeac50f2aa888593ddc50508a51d9200225691d454a84d34469977742bf5",
-          "title": "New diplomatic push to end war with Iran",
-          "description": "A new diplomatic push was underway to potentially end the war with Iran on Sunday, after a pause in fighting between the U.S. and Iran over the weekend. NBC News’ Richard Engel reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/new-diplomatic-push-to-end-war-with-iran-267287621965",
-          "publishedAt": "2026-07-26T23:07:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "dbe45926fcc4cba73e14eb777083a2bc0919c12f2ab38472e096edaaf72a6b26",
-          "title": "Urgent search for missing American in Caribbean",
-          "description": "An urgent search is ramping up to find an American woman who went missing in Grenada. Officials say Elizabeth Waddell has been missing since last week and was last seen at Grand Anse Beach. NBC News’ Priscilla Thompson reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/urgent-search-for-missing-american-in-caribbean-267288133631",
-          "publishedAt": "2026-07-26T23:01:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "17f3708a176aebaaa9aa42734a6285a102ced49372a648c8f19171a521a7c5d0",
-          "title": "Video helps free man from death row",
-          "description": "A Louisiana man was recently released after nearly three decades on death row for a murder multiple judges now agree never happened. Jimmie Duncan won his freedom with the help of a video that the jury did not see in his trial. NBC News’ Dan Slepian reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/video-helps-free-man-from-death-row-267287621910",
-          "publishedAt": "2026-07-26T22:59:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "13d7d25fed6470b6c695eeb8e5c6a8b5d6eb709cccec3cbac19b14ab60a36601",
-          "title": "Out-of-control wildfires burn in Europe as millions brace for severe weather in the U.S.",
-          "description": "Millions of people across the U.S. are on alert for severe storms on Sunday as crews in Europe rushed to put out wildfires that are burning out of control. NBC News’ Liz Kreutz reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/out-of-control-wildfires-burn-in-europe-as-millions-brace-for-severe-weather-in-the-u-s-267287621895",
-          "publishedAt": "2026-07-26T22:43:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ca106c4d21e3162dcecc5c1e38d3e76972c03667f4ef024c8105a7ad497ecf67",
-          "title": "Trump pushes elections bill",
-          "description": "With 100 days until the midterms, President Trump is putting new pressure on Senate Republicans to pass a bill that could have a sweeping impact on elections. NBC News’ Julie Tsirkin reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/nightly-news/video/trump-pushes-elections-bill-267288645651",
-          "publishedAt": "2026-07-26T22:42:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3f5d997ca2a66263942a9a54d41f4ac483287207c0a182725a4f917c265fa799",
-          "title": "Bernie Sanders has no regrets for ignoring warning signs about disgraced pick Graham Platner",
-          "description": "Sen. Bernie Sanders insisted that he has no regrets about not ditching disgraced oyster farmer Graham Platner earlier despite the avalanche of warning signs.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/bernie-sanders-has-no-regrets-for-ignoring-warning-signs-85974762",
-          "publishedAt": "2026-07-26T22:36:55.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "12abc337e558489160932472060812a3b0fc16f74aa7f2f676208d76102d98b9",
-          "title": "Bernie Sanders has no regrets for ignoring warning signs about disgraced pick Graham Platner",
-          "description": "Sen. Bernie Sanders insisted that he has no regrets about not ditching disgraced oyster farmer Graham Platner earlier despite the avalanche of warning signs.",
-          "sourceName": "New York Post",
-          "url": "https://nypost.com/2026/07/26/us-news/bernie-sanders-has-no-regrets-for-ignoring-warning-signs-about-disgraced-pick-graham-platner/",
-          "publishedAt": "2026-07-26T22:18:02.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1081f1c846532f686ceaf67e98c837fd446e18bc2fdfe4e4af43b9ccd7a2216f",
-          "title": "Bernie Sanders Defends Endorsement Record, Backs Progressive Candidates in Key Races",
-          "description": "Senator Bernie Sanders discusses his endorsement of a candidate who withdrew after rape allegations, defends his actions, and throws his suppOrt behind progressive contenders in Maine, Michigan, and Minnesota,emphasizing economic inequality and working-class advocacy.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/bernie-sanders-defends-endorsement-record-backs-85973705",
-          "publishedAt": "2026-07-26T21:36:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d5eeb28fccd785e3afa965894b39c30982547f29d8218384278b059b8dd35a17",
-          "title": "Sanders stands by Platner endorsement, gives Troy Jackson 'excellent' chance",
-          "description": "Troy Jackson is likely to replace Graham Platner as the Democratic nominee after rival candidates dropped out and his supporters swept delegate elections.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4663826/sanders-platner-endorsement-troy-jackson-maine/",
-          "publishedAt": "2026-07-26T21:14:46.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "be1b6d6e55733bd064373e78c1205becd5dbbb7d97c990208d8d73e8606a9b11",
-          "title": "Sanders stands by Platner endorsement, gives Troy Jackson ‘excellent’ chance",
-          "description": "Sen. Bernie Sanders (I-VT) stood by his prior endorsement of former Democratic Senate candidate Graham Platner on Sunday. In an interview with CBS News’s Face the Nation with Margaret Brennan, Sanders was confronted over his past endorsement of Platner, who dropped out of the race after being accused of rape by a former girlfriend. When [...] The post Sanders stands by Platner endorsement, gives Troy Jackson ‘excellent’ chance appeared first on CBNC .",
-          "sourceName": "Cbnc",
-          "url": "https://cbnc.com/sanders-stands-by-platner-endorsement-gives-troy-jackson-excellent-chance/",
-          "publishedAt": "2026-07-26T21:14:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "3d58e5b3a8d68b1fc70084b16965174ba92af0fa3b0d4bc6e7e0d6dd05e1d1c0",
-          "title": "New footage shows Graham’s behind-the-scenes push for Iran war",
-          "description": "Never-before-seen documentary footage shows the late Sen. Lindsey Graham’s multi-pronged effort to support the US going to war with Iran, with calls to Prime Minister Benjamin Netanyahu and Democratic national security adviser Jake Sullivan.",
-          "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/new-footage-shows-graham-s-behind-the-scenes-push-for-iran-85973320",
-          "publishedAt": "2026-07-26T21:06:58.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "60178f55c1e2925dd4377ee30e4f552844ca5f28a78edd638d64448a50a41856",
-          "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins",
-          "description": "Jackson replaces Graham Platner, who won the Democratic primary in June but withdrew from the race earlier this month following an allegation of sexual assault that Platner has denied. The post Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins appeared first on Boston.com .",
+          "id": "6963579e25930d843bb531bb77456e5cdf730b2bf7ca4a8d25737b1ba4f3c99e",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine’s US Senate race after last-minute nomination",
+          "description": "The last-minute scramble for a new candidate in a top-tier race was reminiscent of how Harris ascended to the Democratic presidential nomination two years ago. The post Kamala Harris endorses Democrat Troy Jackson, in Maine’s US Senate race after last-minute nomination appeared first on Boston.com .",
           "sourceName": "Boston",
-          "url": "https://www.boston.com/news/politics/2026/07/26/maine-democratic-delegates-choose-troy-jackson-as-new-nominee-to-face-us-sen-susan-collins/",
-          "publishedAt": "2026-07-26T20:17:43.000Z",
-          "sentiment": 0
+          "url": "https://www.boston.com/news/politics/2026/07/27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/",
+          "publishedAt": "2026-07-28T01:41:01.000Z",
+          "sentiment": 0.5859
         },
         {
-          "id": "49888f232e7e2468a459b610bd3dacd4319f6f6547cf7ab3b6947eb9a8b00ac0",
-          "title": "Maine Democrats choose new nominee to face Susan Collins",
-          "description": "BANGOR, Maine — Former state lawmaker and logger Troy Jackson secured the Democratic nomination for U.S. Senate in Maine on Saturday and will face longtime GOP Sen. Susan Collins in November in a race that could decide which party controls the chamber.",
-          "sourceName": "Columbian",
-          "url": "https://www.columbian.com/news/2026/jul/26/maine-democrats-choose-new-nominee-to-face-susan-collins/",
-          "publishedAt": "2026-07-26T20:17:41.000Z",
-          "sentiment": 0
+          "id": "0c32746d3adc1254ebf8a84f42a4b9249fcad1f2f18dd10c5f71d786c73a9cf3",
+          "title": "Kamala Harris endorses Democrat Troy Jackson in Maine’s US Senate race",
+          "description": "'I know what it is like to step up to the plate with a short runway to Election Day,' the former vice president said.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race/",
+          "publishedAt": "2026-07-28T01:09:37.000Z",
+          "sentiment": 0.5994
         },
         {
-          "id": "00ff231f3c5837032544f306628f8b7744a9ce31014f8098d35dcb3ccf68e6e5",
-          "title": "Sanders: I Don't Regret Supporting Graham Platner in Maine Senate Race",
-          "description": "Sunday on CBS's “Face the Nation,\" Sen. Bernie Sanders (I-VT) said he did not regret supporting former Maine Senate candidate Graham Platner (D) after he dropped out when a former girlfriend made accusations of sexual assault. The post Sanders: I Don’t Regret Supporting Graham Platner in Maine Senate Race appeared first on Breitbart .",
-          "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/clips/2026/07/26/sanders-i-dont-regret-supporting-graham-platner-in-maine-senate-race/",
-          "publishedAt": "2026-07-26T20:16:42.000Z",
-          "sentiment": 0
+          "id": "50d453b10081aec8745b8b2a21486d757db0c3285eb17770ddbbb78b73642205",
+          "title": "Kamala Harris endorses Democrat Troy Jackson in Maine’s US Senate race",
+          "description": "'I know what it is like to step up to the plate with a short runway to Election Day,' the former vice president said.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/07/27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race/",
+          "publishedAt": "2026-07-28T01:09:37.000Z",
+          "sentiment": 0.5994
         },
         {
-          "id": "8bc1d520771e41a7419e5c53c816fcb509ef9e26a5264d5e74d800a2c62b52c9",
-          "title": "Live updates: Sen. John Kennedy says US should not ‘cut and run’ from Iran; Cyclospora tests Trump admin",
-          "description": "Sen. John Kennedy (R-La.) on Sunday said President Trump likes the daily strikes on Iran, which paused going into the weekend after nearly two straight weeks of attacks on Iranian infrastructure. “I think we ought to continue the blockade and starve them out. I think we ought to bomb Pickaxe Mountain and try to reach what’s underneath it,” Kennedy...",
-          "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/live-updates-maine-jackson-clinches-124844581.html",
-          "publishedAt": "2026-07-26T20:11:46.000Z",
-          "sentiment": 0
+          "id": "e92dd1620671d1cdf67ea36030d5ecba0c128fc53f65e553c32c4ee6c026739f",
+          "title": "Kamala Harris endorses Democrat Troy Jackson in Maine’s US Senate race",
+          "description": "'I know what it is like to step up to the plate with a short runway to Election Day,' the former vice president said.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race/",
+          "publishedAt": "2026-07-28T01:09:37.000Z",
+          "sentiment": 0.5994
         },
         {
-          "id": "922eff6a248421db0b5bee2f8317dca7051dd7853b3b8199c21350fc77bfb96f",
-          "title": "Democrat makes age an issue in Massachusetts Senate race",
-          "description": "Rep. Seth Moulton (D-Mass.) is calling out Massachusetts incumbent candidate 80-year-old Sen. Ed Markey (D) ahead of their primary race. CNN’s Manu Raju reports on this new pattern emerging among younger candidates in the Democratic Party.",
+          "id": "8167d88ea8810d3e410a27a5c4805269f4186edf650eb2043315de62b5891391",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/democrat-makes-age-an-issue-in-massachusetts-senate-race-85972053",
-          "publishedAt": "2026-07-26T20:07:20.000Z",
+          "url": "https://us.headtopics.com/news/kamala-harris-endorses-democrat-troy-jackson-in-maine-s-us-86010061",
+          "publishedAt": "2026-07-28T00:36:43.000Z",
+          "sentiment": 0.5267
+        },
+        {
+          "id": "1453d698af65392b80bf7e0d3c356bc9c4a05d689314cc4728b2ce5a61b7b02f",
+          "title": "Sen. Collins and Troy Jackson talk November election",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news-center-maine-524552/4794974839093-sen-collins-and-troy-jackson-talk-november-election",
+          "publishedAt": "2026-07-28T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "c6a5b515695e1e37b5930a1a4712eca9ac15d41283a79220d4f0297e1001f957",
-          "title": "Cassidy on if Trump nominee will change CDC’s vaccine website",
-          "description": "Senator Bill Cassidy weighs in with CNN’s Dana Bash on the fact that the Center for Disease Control has yet to remove language from its website projecting uncertainty about a link between autism and vaccines following his endorsement of Dr. Erica Schwartz, Trump’s nominee for Director of the CDC.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/cassidy-on-if-trump-nominee-will-change-cdc-s-vaccine-85972160",
-          "publishedAt": "2026-07-26T20:07:20.000Z",
-          "sentiment": 0
+          "id": "85d9fdb5ee34b3d41813b32e7e792f82d33aa8d07d3be6901c467ab6de707498",
+          "title": "Troy Jackson is about to go under the national microscope. Here's a look at his past",
+          "description": "Troy Jackson has long pushed for the rights of the working class, but will now face heightened scrutiny from the national press and the Republican Party on his record and conduct in the Maine Legislature.",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/politics/2026-07-28/troy-jackson-is-about-to-go-under-the-national-microscope-heres-a-look-at-his-past",
+          "publishedAt": "2026-07-28T00:00:00.000Z",
+          "sentiment": 0.5499
         },
         {
-          "id": "9c9093ab36fbd49e61d4d00b7e957e93320ee8c078675fd1a444a4f00e1ec433",
-          "title": "Resistance rising against the woke culture",
-          "description": "There has been a lot of pushback lately on a number of levels, which is encouraging in a society that in many ways seems to have gone off the rails.",
-          "sourceName": "The Washington Times",
-          "url": "https://www.washingtontimes.com/news/2026/jul/26/resistance-rising-woke-culture/",
-          "publishedAt": "2026-07-26T19:10:15.000Z",
-          "sentiment": 0
+          "id": "105eac6491164b8f4b507efbfbc6d2d7ed384758c08eded3c4030aa66ac00f6b",
+          "title": "Kamala Harris endorses Troy Jackson in Maine’s US Senate race",
+          "description": "In a fundraising email Monday, Harris said she relates to the hurried nature of Jackson's candidacy and called on Democrats to support him.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/07/27/politics/elections/kamala-harris-endorses-troy-jackson/",
+          "publishedAt": "2026-07-27T23:55:22.000Z",
+          "sentiment": 0.6249
         },
         {
-          "id": "5e9753f5d66a87a3f369cdb3ffc893f3fe91c6e469abd1f5fdd97a0d62e00cdc",
-          "title": "This red state is strengthening its grip as America's next economic heavyweight",
-          "description": "IRS migration data reveal over $5 billion in wealth flowing into Texas as Dallas-Fort Worth, Houston and Austin fuel the state's population boom.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/this-red-state-is-strengthening-its-grip-as-america-s-next-85970600",
-          "publishedAt": "2026-07-26T18:36:43.000Z",
-          "sentiment": 0
+          "id": "6a1cb3b472efb7beab260e7b851b94971038c5438881e24da566e1abf8877a3c",
+          "title": "Devastating tornado in Wisconsin",
+          "description": "Video shows the destruction of houses and mangled vehicles on the highway in Wisconsin, where a brutal tornado hit today. In Illinois, downed trees crashed into multiple homes and cars. NBC News’ Maggie Vespa reports from the storm zone.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/devastating-tornado-in-wisconsin-267348037783",
+          "publishedAt": "2026-07-27T23:38:01.000Z",
+          "sentiment": -0.9201
         },
         {
-          "id": "762b37f856878fc0f9623d4dd112aa7d54367e87fba4f89b2f53d34b8dc87096",
-          "title": "Everyday Revolutionary War heroes take center stage in Trump's 'Spirit of '76' exhibit",
-          "description": "The Caesar Rodney statue and 22 other installations at Freedom Plaza honor common, everyday Revolutionary War heroes as part of America's 250th anniversary under President Trump.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/everyday-revolutionary-war-heroes-take-center-stage-in-85970155",
-          "publishedAt": "2026-07-26T18:06:53.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0e3aa81b9f37772e5b9014d27a0cf8e3e9fb8213204019d4961f1dc8390a4c44",
-          "title": "Democrats reset the Maine Senate race. Now comes the tricky part.",
-          "description": "Troy Jackson is the new Democratic nominee who will face Republican Susan Collins in the closely watched contest. Each candidate has about 100 days to make their case.",
+          "id": "1035a10c0787e607cc55e23b90d06b70506a7e867a010b0da253eb288ba26280",
+          "title": "Kamala Harris endorses Troy Jackson in Maine’s US Senate race",
+          "description": "Kamala Harris, who ran an abbreviated campaign for president in 2024, gave her support to Troy Jackson in Maine after he became the Democrats' new Senate nominee.",
           "sourceName": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/07/26/nation/maine-senate-troy-jackson-susan-collins/",
-          "publishedAt": "2026-07-26T17:59:01.000Z",
+          "url": "https://www.bostonglobe.com/2026/07/27/nation/kamala-harris-endorses-troy-jackson-maine-senate/",
+          "publishedAt": "2026-07-27T23:32:49.000Z",
+          "sentiment": 0.6249
+        },
+        {
+          "id": "692800b8d95bbc44f789cd68397ccdf828c43483753068077b859022f68c7cac",
+          "title": "Wife of Kansas City Chiefs offensive coordinator shot by son",
+          "description": "Mia Bieniemy, the wife of Eric Bieniemy, was shot more than once Sunday evening. According to the criminal complaint, the couple’s son shot her in the left forearm and shoulder. The Kansas City Chiefs head coach says she’s in stable condition. NBC News’ Shaquille Brewster has the story.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/wife-of-kansas-city-chiefs-offensive-coordinator-shot-by-son-267348549870",
+          "publishedAt": "2026-07-27T23:32:04.000Z",
+          "sentiment": -0.8225
+        },
+        {
+          "id": "9c5eabbe0c50bf3d3946c21b723fc5d319cd168ed79cbe34efd1f36a712e460d",
+          "title": "Manhunt for suspect in deadly shootout at Seattle food festival",
+          "description": "Police also arrested a 15-year-old who they said was one of the gunmen. NBC News’ Liz Kreutz reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/manhunt-for-suspect-in-deadly-shootout-at-seattle-food-festival-267345989963",
+          "publishedAt": "2026-07-27T23:28:05.000Z",
+          "sentiment": -0.2732
+        },
+        {
+          "id": "bc06db69ffc94206ee125e63c1b2f8466104971b1b5a72f8f20462aeded5639d",
+          "title": "Bryan Kohberger seeks to withdraw guilty plea",
+          "description": "In court documents, Bryan Kohberger, the man convicted for the murder of four University of Idaho students, is blaming his lawyers for pushing him into what he now says was a false confession. NBC News’ Stephanie Gosk reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/bryan-kohberger-seeks-to-withdraw-guilty-plea-267345989881",
+          "publishedAt": "2026-07-27T23:16:00.000Z",
+          "sentiment": -0.8934
+        },
+        {
+          "id": "bf6ff68b8a59bbc7727778322f0704b9747d809a06818a5e068ccc5dc75ec34c",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine’s US Senate race after last-minute nomination",
+          "description": "PORTLAND, Maine (AP) — Former Vice President Kamala Harris on Monday endorsed Maine’s Democratic U.S. Senate candidate, Troy Jackson, just two days after the state’s party used a hastily called nominating process to name him as the replacement candidate in a race seen as crucial for control of the chamber. Jackson secured the Democrats’ nomination...",
+          "sourceName": "Mymotherlode.com - The Mother Lode's Local News, S",
+          "url": "https://mymotherlode.com/news/national/general-election/11021781/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination.html",
+          "publishedAt": "2026-07-27T23:11:08.000Z",
+          "sentiment": 0.8316
+        },
+        {
+          "id": "f31aba34105ba96a39be9dd6e52b1678f2039f5f94a3484f1fba7428191d812e",
+          "title": "Arizona firefighter donates kidney to save husband, also a firefighter",
+          "description": "A pair of newlywed Arizona firefighters are on the mend after one donated a kidney to save the other. They say they hope it will inspire others to consider organ donation. NBC News' Emilie Ikeda reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/arizona-firefighter-donates-kidney-to-save-husband-also-a-firefighter-267346501836",
+          "publishedAt": "2026-07-27T23:08:09.000Z",
+          "sentiment": 0.9186
+        },
+        {
+          "id": "6c53dbafae26116365e49d37aaebc020d22289827f7658e510e6ff784ac1faea",
+          "title": "Secret Service agent accused of brutal hazing beatings",
+          "description": "A U.S. Secret Service agent has been arrested and is accused, with others, of unleashing brutal beatings with canes and paddles as part of hazing ritual. NBC News’ Kelly O’Donnell reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/secret-service-agent-accused-of-brutal-hazing-beatings-267344965680",
+          "publishedAt": "2026-07-27T22:59:01.000Z",
+          "sentiment": -0.9403
+        },
+        {
+          "id": "196f2ca42ae7f14efec0bb888d6d564b7bbf51f8270e5a0219a1f227043377f0",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "PORTLAND, Maine (AP) — Former Vice President Kamala Harris on Monday endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, just two days after the state's party used a hastily called nominating process to name him as the replacement candidate in a race seen as crucial for control of the chamber.",
+          "sourceName": "Local 10 News",
+          "url": "https://www.local10.com/news/politics/2026/07/27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/",
+          "publishedAt": "2026-07-27T22:49:58.000Z",
+          "sentiment": 0.7269
+        },
+        {
+          "id": "a0945705f24ec92c9b942d70e2b6659eb0b801d05657ee571cf020a24be78534",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine’s US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in a race that could determine which party controls the Senate. He will face longtime Republican Sen. Susan Collins in the fall. The Democrats held a special last-minute nominating convention for the post after primary winner Graham Platner withdrew from the race in the wake of sexual assault accusations that he has denied. The post Kamala Harris endorses Democrat Troy Jackson, in Maine’s US Senate race after last-minute nomination appeared first on KOB 4 .",
+          "sourceName": "Kob 4",
+          "url": "https://www.kob.com/ap-top-news/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/",
+          "publishedAt": "2026-07-27T22:48:14.000Z",
+          "sentiment": 0.8074
+        },
+        {
+          "id": "652ef43b0dd7be5f4dcfa733a488c5bc29d19dd0d84f3a73341cf58a290b5028",
+          "title": "Savannah Guthrie makes emotional new plea to mother's kidnapper",
+          "description": "It has been nearly six months since 84-year-old Nancy Guthrie was abducted from her home in Tucson. Law enforcement sources tell us there have been no significant developments. NBC News’ Erin McLaughlin reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/nightly-news/video/savannah-guthrie-makes-emotional-new-plea-to-mother-s-kidnapper-267345477696",
+          "publishedAt": "2026-07-27T22:45:39.000Z",
+          "sentiment": -0.4767
+        },
+        {
+          "id": "5d64af7bc76df1598067b7f8431b6bcd12d081e91dd03011b14067f7f5c7953b",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "Wpxi News",
+          "url": "https://www.wpxi.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.34
+        },
+        {
+          "id": "ff7aa138208c23d1785e07d9bafbaf140a2348e852d93f8944664fdc9d0e0558",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "Wsb-tv Channel 2 - Atlanta",
+          "url": "https://www.wsbtv.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.34
+        },
+        {
+          "id": "680f26747de07b8a13ae266ebcb7bd992bea883552cf5006c1ea30a86b4eba9b",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "Wdbo",
+          "url": "https://www.wdbo.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.34
+        },
+        {
+          "id": "c2f4620dd98786aa52dca1dbd97a1256473173081b1dbbf9869513c870ae72f3",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "Boston 25 News",
+          "url": "https://www.boston25news.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.34
+        },
+        {
+          "id": "e200b7fd4f81f9bb9b0cfc8f66f3ca3b7aa44d33a9ca4e24c86453cecda28b8e",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "Wsoc-tv",
+          "url": "https://www.wsoctv.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.34
+        },
+        {
+          "id": "4fe125b07519936ceaa5c3be790ff1ae15d3f62f31d260ec29e21c91925e7e78",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "Wokv Radio",
+          "url": "https://www.wokv.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.34
+        },
+        {
+          "id": "d90ea2f6c2027681397a783b479074519bbb8a82296d9aa139c4c1e6f709dc4b",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend",
+          "sourceName": "Whio News Center Seven",
+          "url": "https://www.whio.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "7111a8896e0b401386da437a7a1942ae59a0d94da9a7001bae41248a896fa8d4",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "960 The Ref",
+          "url": "https://www.960theref.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "035cc477f8ef17f33a1aebbee8c960259a04dcad81602bae6d32adc64ada2a87",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "Kiro 7 News",
+          "url": "https://www.kiro7.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "d09a094b08e0800e294cf1150c362d57c852a52a8f4184ebff75bca2fa735d92",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "Wftv",
+          "url": "https://www.wftv.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "9b413c7bce67c9459b8208bc6356094230a212def18803584d4cb01305136fa2",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend",
+          "sourceName": "Action News Jax",
+          "url": "https://www.actionnewsjax.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "f81d277f35842dca36083d7e918988c8ffaf4e86847875f073556266943178a8",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "Wgau Radio",
+          "url": "https://www.wgauradio.com/news/politics/kamala-harris/KNZGNSR7MUZY5A5NLQJXTVFIKM/",
+          "publishedAt": "2026-07-27T22:44:02.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "290d067d9b985a132733d4eb4ac9eb39bdcd657a3fca511651f38b83d5e095c4",
+          "title": "Maine Senate race takes shape as Jackson faces Collins with under 100 days to go",
+          "description": "Democrats nominate former state Senate president to challenge incumbent",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/07/27/maine-senate-race-takes-shape-jackson-faces-collins-with-under-100-days-go/",
+          "publishedAt": "2026-07-27T22:40:14.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "c4974e42e388f4f9615f885c44988583ce87b1caf3162331d2d46d2e03f58485",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine’s US Senate race after last-minute nomination",
+          "description": "PORTLAND, Maine (AP) — Former Vice President Kamala Harris on Monday endorsed Maine’s Democratic U.S. Senate candidate, Troy Jackson, just...",
+          "sourceName": "Wtop News",
+          "url": "https://wtop.com/national/2026/07/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/",
+          "publishedAt": "2026-07-27T22:39:45.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "b84a68e8486e848bec9f4d893300e2f77ba2283c7bf9e25be7225264f5113418",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a...",
+          "sourceName": "Ct Insider",
+          "url": "https://www.ctinsider.com/news/politics/article/kamala-harris-endorses-democrat-troy-jackson-in-22362656.php",
+          "publishedAt": "2026-07-27T22:39:21.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "abc23618240b5d7a40c7aa20d2e9299b8f1dd87d4b87b1a785fd4f961bd9e948",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a...",
+          "sourceName": "Greenwich Time",
+          "url": "https://www.greenwichtime.com/news/politics/article/kamala-harris-endorses-democrat-troy-jackson-in-22362656.php",
+          "publishedAt": "2026-07-27T22:39:21.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "9808bec293960b0d981fbbe87cfaefe0637396d775519f1da68720f8dc8aefd1",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a...",
+          "sourceName": "Beaumont Enterprise",
+          "url": "https://www.beaumontenterprise.com/news/politics/article/kamala-harris-endorses-democrat-troy-jackson-in-22362656.php",
+          "publishedAt": "2026-07-27T22:39:21.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "3e758edab29e56a4c86e38973b007bc5458664f2b388aa207f4013c55c605c86",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "Times Union",
+          "url": "https://www.timesunion.com/news/politics/article/kamala-harris-endorses-democrat-troy-jackson-in-22362656.php",
+          "publishedAt": "2026-07-27T22:39:21.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "ccc0f5f973a670b655eaefd9a5af0cef7e8d439d54982a73566b50d1a7cb7762",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a...",
+          "sourceName": "Plainview Daily Herald",
+          "url": "https://www.myplainview.com/news/politics/article/kamala-harris-endorses-democrat-troy-jackson-in-22362656.php",
+          "publishedAt": "2026-07-27T22:39:21.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "80a8994ef95d1b59e0fdfb9adc1beace63353d9953489a7d27b452db56d63a12",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": null,
+          "sourceName": "The Courier Of Montgomery County",
+          "url": "https://www.yourconroenews.com/news/politics/article/kamala-harris-endorses-democrat-troy-jackson-in-22362656.php",
+          "publishedAt": "2026-07-27T22:39:21.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "db2d79fd97ed218334a5acbba6c369c1f04db0478e1f86d4b6ccffc19e437c62",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a...",
+          "sourceName": "News Times",
+          "url": "https://www.newstimes.com/news/politics/article/kamala-harris-endorses-democrat-troy-jackson-in-22362656.php",
+          "publishedAt": "2026-07-27T22:39:21.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "3b3f98f930564826f1e09a6935996f1bde3299613083723e0386c88cbf67e60d",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a...",
+          "sourceName": "Houston Chronicle",
+          "url": "https://www.houstonchronicle.com/news/politics/article/kamala-harris-endorses-democrat-troy-jackson-in-22362656.php",
+          "publishedAt": "2026-07-27T22:39:21.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "4736afb61d431504d7be24bd72f64628fd7ff5cdf2179a9d98c03fd81fd6ee1c",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend.",
+          "sourceName": "Wsls",
+          "url": "https://www.wsls.com/news/politics/2026/07/27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/",
+          "publishedAt": "2026-07-27T22:39:18.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "52a3d5e073bbd35b72a0fc1c16de8f35914d0384e1a45a80e5bee2980efa272c",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend.",
+          "sourceName": "Wkmg",
+          "url": "https://www.clickorlando.com/news/politics/2026/07/27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/",
+          "publishedAt": "2026-07-27T22:39:11.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "b30575f55f1766787d4f31e027b16c77ebefbd7d45288ccb14372317c1041f65",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine’s US Senate race after last-minute nomination",
+          "description": "PORTLAND, Maine (AP) — Former Vice President Kamala Harris on Monday endorsed Maine’s Democratic U.S. Senate candidate, Troy Jackson, just two days after the state’s party used a hastily called nominating process to name him as the replacement candidate in a race seen as crucial for control of the chamber. Jackson secured the Democrats’ nomination [...]",
+          "sourceName": "Infonews.ca",
+          "url": "https://infonews.ca/news/7768170/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/",
+          "publishedAt": "2026-07-27T22:37:29.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "b0a52471f950b4a47d01999e730eb2ba6b0a462103bff3c4be812064b2d83ee3",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine’s US Senate race after last-minute nomination",
+          "description": "PORTLAND, Maine (AP) — Former Vice President Kamala Harris on Monday endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, just two days after the state's party used a hastily called nominating process to name him as the replacement candidate in a race seen as crucial for control of the chamber.",
+          "sourceName": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/07/27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination",
+          "publishedAt": "2026-07-27T22:37:29.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "e377f346919474109ca53a7c0bb0190ec73cc7cb99300dbf0494976cc763ebd7",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "PORTLAND, Maine (AP) — Former Vice President Kamala Harris on Monday endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, just two days after the state's party used a hastily called nominating process to name him as the replacement candidate in...",
+          "sourceName": "The Star",
+          "url": "https://www.thestar.com/news/world/united-states/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_8e36e856-0b24-5544-a5b4-859c3ae4c956.html",
+          "publishedAt": "2026-07-27T22:37:29.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "d7021d543ca698946627b68bf7c451f9a33f06cbcad5bc94cfbeebf29d6825a5",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend.",
+          "sourceName": "Newsday",
+          "url": "https://www.newsday.com/long-island/politics/maine-senate-kamala-harris-jackson-collins-p15301",
+          "publishedAt": "2026-07-27T22:37:20.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "832f7b9c848c41762ecb0efc131cac4ef43279fa1c653ab41fc55ae7b86010f1",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The...",
+          "sourceName": "12news",
+          "url": "https://www.12news.com/article/syndication/associatedpress/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/616-a077101c-be9f-460a-b75f-1c0768357ba0",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "322d62ccef84c81d510f7ca4c02f22a6f8276c20fd0c1568219f2a240cf9923d",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Oskaloosa",
+          "url": "https://www.oskaloosa.com/news/national_news/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_ad3df5d2-f8a3-5ce5-8088-85a1b8f2af1d.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "13358d2b2b9f280e39c1260e711db225773023ac10d69b21b48490b3844bcc46",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Caledonianrecord",
+          "url": "https://www.caledonianrecord.com/news/national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_9961f09d-089c-5a7e-84b6-886adda748ad.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "bf22195566c3e9742b0b74ea3c1974f10756ce6de9a14eeb8ffb4efd162a99a7",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend.",
+          "sourceName": "News4jax",
+          "url": "https://www.news4jax.com/news/politics/2026/07/27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "d6841b0a465935971766fe8c2dd9725c4a478c86232a2c38e4ee52bcedafb1eb",
+          "title": "Kamala Harris Endorses Democrat Troy Jackson, in Maine's US Senate Race After Last-Minute Nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend",
+          "sourceName": "Usnews",
+          "url": "https://www.usnews.com/news/politics/articles/2026-07-27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "5a0321793d9849034dad5c091b68b5a31faa3ae00bb5f5b575649fe0e5b363e7",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Palestineherald.com",
+          "url": "https://www.palestineherald.com/national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_eb9d5b09-c81d-5c70-9565-d5adda225196.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "16b86736d8885058591b3e1fcf8cd715a790f9d96b2e6046525a008d478ed5bd",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Swoknews",
+          "url": "https://www.swoknews.com/ap/national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_8eed9857-81fc-5858-a586-335d6e9b1176.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "f613379bb0c6299a1c10f06494da03d4cf29fb8c9853ed4d89b6473124e4a1dc",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Henryherald",
+          "url": "https://www.henryherald.com/news/world_nation/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_91b91006-18c3-5616-b8c5-aeded29fd299.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "b866b8f816b0d6c1065524a360ee5d418a495002485d88a0a728047d65ac3086",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Dnronline",
+          "url": "https://www.dnronline.com/associated_press/national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_ea32b48f-3321-563a-984b-ca639c319892.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "7ceaa2d430318c7f51796841ac22f6b62c43bdaea0626fbc3eb213f2b1f559b0",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The...",
+          "sourceName": "Kvue",
+          "url": "https://www.kvue.com/article/syndication/associatedpress/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/616-a077101c-be9f-460a-b75f-1c0768357ba0",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "9124aa34e6ae7ea58ac9b168e6cab6874d3096189b678b46fabb7512ba06efa9",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Jonesborosun.com",
+          "url": "https://www.jonesborosun.com/news/national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_58033399-bdf9-53b5-bdde-51af05704e09.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "86fc1d254ce05bff48534923263310eb60708b925a484d48199a3084ab596765",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend.",
+          "sourceName": "Clickondetroit",
+          "url": "https://www.clickondetroit.com/news/politics/2026/07/27/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "8f0793c3bc605c8eb3a50e5c9642dec0c1e8ccd0da26810f02b22b9fbf08a787",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Dailysentinel",
+          "url": "https://www.dailysentinel.com/anpa/us/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_e2c64c16-6cbb-5b37-b227-e2da2f12ad93.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "496875f70d356b63821c71bee3240fff771b6972854adecbb5d47afa7002b7f1",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "PORTLAND, Maine (AP) -- Former Vice President Kamala Harris on Monday endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, just two days after the state's party used a hastily called",
+          "sourceName": "The Daily Independent At Yourvalley.net",
+          "url": "https://www.yourvalley.net/stories/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute,707722",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "5b109ff1637bfe3260b4fd01f7a1ad8fb070fa9fabd8b83701af2cb80f36f5ce",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The...",
+          "sourceName": "Wfaa",
+          "url": "https://www.wfaa.com/article/syndication/associatedpress/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/616-a077101c-be9f-460a-b75f-1c0768357ba0",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "2807d446a4b69aa017c5f4202ced2449828dcce5c2791c7d6849c1111e67701f",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Nvdaily",
+          "url": "https://www.nvdaily.com/associated_press_national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_fa49773a-3aa0-5c9f-b2c8-be7a425ef9d1.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "2c9a7b0539160ab42a7afc33ef9a74333c51e1134ea827772f070e179bb665e3",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Killeen Daily Herald",
+          "url": "https://kdhnews.com/news/nation/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_af20fbfa-7e2b-5df8-ba3d-305319595ce7.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "9d5428e57a7efd123210a41cd688487c0edfecca807232fb4ed23bbb22c92449",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Dailygazette.com",
+          "url": "https://www.dailygazette.com/ap/national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_925f2721-023d-50dd-8dbe-51dc67f9238f.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "eb02b2b72a9d8e90811ba23ae16358e8a5765d748f92fd65d3d7ac9f3a795830",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Times Argus",
+          "url": "https://www.timesargus.com/news/national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_6e4003a0-78d2-599d-a341-132c155845b8.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "7700772220227acb12954b9e17294767a0cd4d7a7683ca80d68e2740a7472de1",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "PORTLAND, Maine (AP) — Former Vice President Kamala Harris on Monday endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, just two days after the state's party used a hastily called nominating process to name him as the replacement candidate in...",
+          "sourceName": "The Sun Chronicle",
+          "url": "https://www.thesunchronicle.com/news/state/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_a9f22a28-9baf-5826-b253-7e955d4a3fbe.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "f7384a3f957a788dca2f389be826f042c304759b041fc2eace48c9b2165e8ce4",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "PORTLAND, Maine (AP) — Former Vice President Kamala Harris on Monday endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, just two days after the state's party used a hastily called nominating process to name him as the replacement candidate in...",
+          "sourceName": "Woonsocketcall",
+          "url": "https://www.woonsocketcall.com/news/national_and_world_news/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_d5e9b51c-35bf-541f-bf70-9bc87a4aeea5.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "e34ff690371e65a93daf01b215a30e76879d3c8fedae9d23679c07e3728846c9",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Bozeman Daily Chronicle",
+          "url": "https://www.bozemandailychronicle.com/ap_news/politics/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_f3b0cc1d-c79d-5441-8385-9bdf712db35c.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "721b516a698dffbb14c999c8a04c2b62e8efdc05a467d92d24b90c4e5de15b68",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Marietta Daily Journal",
+          "url": "https://www.mdjonline.com/news/national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_a72dc599-0ef1-513b-bc17-70776cd46093.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "e4cb1298284262360eadb690d30bafbe001013a45d889bb50fa908b401701da2",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Eagletribune",
+          "url": "https://www.eagletribune.com/region/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_bdc0bb6d-27af-5328-b7d7-8bc7aa5e30f5.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "e1ad3675e131fccd24398d03eb412b996c720ba6d41e0bc40f6a2cc894d1fe2a",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Chronicle Online",
+          "url": "https://www.chronicleonline.com/news/national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_ef28f9cf-db77-5b5f-8144-971251b62bff.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "df8accdc30c67f8299bc0eb7c402a336634d62baf1edaf11d3180462bf4fc21e",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Winchesterstar",
+          "url": "https://www.winchesterstar.com/associated_press/washington/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_f953d2e0-be72-5318-9fba-3f1d09d6c1d2.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "4834ad0467b08ab2766c012c828d1f0f19de9d65396ce6a0e176d1119a42bef0",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The...",
+          "sourceName": "Kgw",
+          "url": "https://www.kgw.com/article/syndication/associatedpress/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/616-a077101c-be9f-460a-b75f-1c0768357ba0",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "03bd93e22dfcddd8fbc51f41bf05caf56847c06b1767f419b9612f8f112dfa4f",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Rutland Herald",
+          "url": "https://www.rutlandherald.com/ap/national/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/article_b9200550-83d8-596d-a14f-fabd8919e053.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "e8926409d13f4562203d354fb3d45b298056ab345bd172a6437c0dbef07ff067",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The endorsement came days after Jackson used a hastily called nominating process to become the Democrats’ candidate in...",
+          "sourceName": "Tdtnews.com",
+          "url": "https://www.tdtnews.com/news/nation_world/article_26c195ac-e2ec-5bae-af33-53aca267787c.html",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "d7b99c6512fd88d9ba95be311dc72e6ecc364540047f6616737c6359818840e8",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris on Monday endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, just two days after the state's party used a hastily called nominating process to name him as the replacement candidate in a race seen as crucial for control of the chamber.",
+          "sourceName": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/jul/27/kamala-harris-endorses-democrat-troy-jackson-maine-us-senate-race/",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "d4916e009fc6491adf2895eefca9c88e0eeecb8f42b1cd997d5a912687827911",
+          "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
+          "description": "Former Vice President Kamala Harris has endorsed Maine's Democratic U.S. Senate candidate, Troy Jackson, who became the party's nominee over the weekend. The...",
+          "sourceName": "Wthr",
+          "url": "https://www.wthr.com/article/syndication/associatedpress/kamala-harris-endorses-democrat-troy-jackson-in-maines-us-senate-race-after-last-minute-nomination/616-a077101c-be9f-460a-b75f-1c0768357ba0",
+          "publishedAt": "2026-07-27T22:36:55.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "2e9365a12e048f3872badb3e2d57d4d65cefdc4ada46171f791fe7f49300d6cb",
+          "title": "Senate control, Michigan primary top watch list with midterms less than 100 days away",
+          "description": "With under 100 days to go before the midterm elections arrive, political scientists clearly have their attention on the Senate. And chief among the races to watch is the one unfolding in Michigan.",
+          "sourceName": "Ktul",
+          "url": "https://ktul.com/news/nation-world/senate-control-michigan-primary-top-watch-list-with-midterms-less-than-100-days-away",
+          "publishedAt": "2026-07-27T22:22:51.000Z",
           "sentiment": 0
         },
         {
-          "id": "2ea54c33a19faa4f2dc77a54eee87e5e62297deb5dd1934c2948532ed7912fba",
-          "title": "Sanders says polls show voters want change in midterm elections",
-          "description": "Senator Bernie Sanders said the major obstacle progressive candidates are facing in the midterm elections is massive spending in key races by the \"billionaire class.\"",
-          "sourceName": "Cbs News",
-          "url": "https://www.cbsnews.com/news/bernie-sanders-face-the-nation-2026-midterms-progressive-candidates/",
-          "publishedAt": "2026-07-26T17:43:17.000Z",
+          "id": "a5d6168a072d5d31b6ba60e9f1648d05dfc24e22fb08883c7fb4b23fd30fe168",
+          "title": "Senate control, Michigan primary top watch list with midterms less than 100 days away",
+          "description": "With under 100 days to go before the midterm elections arrive, political scientists clearly have their attention on the Senate. And chief among the races to watch is the one unfolding in Michigan.",
+          "sourceName": "Kutv",
+          "url": "https://kutv.com/news/nation-world/senate-control-michigan-primary-top-watch-list-with-midterms-less-than-100-days-away",
+          "publishedAt": "2026-07-27T22:22:50.000Z",
           "sentiment": 0
         },
         {
-          "id": "4650f88a9d2a5559686977181882bae0b44a099f7f07f6fbd2b630615e0892ba",
-          "title": "U.S. Democratic Senate candidate Troy Jackson has eyes on November and Sen. Susan Collins 100 days out from the election",
-          "description": "Jackson told NEWS CENTER Maine, \"Hopefully voters will know the difference when it comes down to the election that I'm fighting for them, and Susan Collins isn't.\"",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/local/us-democratic-senate-candidate-troy-jackson-has-eyes-on-november-and-sen-susan-collins-100-days-out-from-the-election/97-3390638b-3774-4096-8249-716b55a94e63",
-          "publishedAt": "2026-07-26T17:11:38.000Z",
+          "id": "83f4c12d24828bb5d65143ac442404e1d3059e64f40bff179e745f26a77d3ed3",
+          "title": "Senate control, Michigan primary top watch list with midterms less than 100 days away",
+          "description": "With under 100 days to go before the midterm elections arrive, political scientists clearly have their attention on the Senate. And chief among the races to watch is the one unfolding in Michigan.",
+          "sourceName": "Wgxa",
+          "url": "https://wgxa.tv/news/nation-world/senate-control-michigan-primary-top-watch-list-with-midterms-less-than-100-days-away",
+          "publishedAt": "2026-07-27T22:22:50.000Z",
           "sentiment": 0
         },
         {
-          "id": "c4860deb85508082736f150787359d74d8e76d6056c503acf818f356acd8a362",
-          "title": "How Republicans plan to conquer Troy Jackson",
-          "description": "Republicans have 100 days to sink the newly-minted Democratic Maine Senate nominee — and they're throwing everything they have at him.",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/articles/republicans-plan-conquer-troy-jackson-171059048.html",
-          "publishedAt": "2026-07-26T17:10:59.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "df99d2953c995efe70c5422a2fc01376036fd3912e8764eb68d41bdda18bed5a",
-          "title": "How Republicans plan to conquer Troy Jackson - Politico",
-          "description": "How Republicans plan to conquer Troy Jackson Politico Democrats Reset the Maine Senate Race. Now Comes the Tricky Part. The New York Times Troy Jackson secures Democratic nomination for Maine Senate race ABC News - Breaking News, Latest News and Videos Live updates: Troy Jackson clinches Susan Collins match in midterms; Cyclospora outbreak tests Trump The Hill Opinion | Maine Democrats made the right choice with Troy Jackson MS NOW",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVdoSlRHaTJEei1iY1lvM1AtUWVaLWRhRkVBdVNkLV8xMVc5YW8xS1UxMHVpTjBWWG5tenpUNnVrQzZFbktuYl95cXh3WTdSZ0ItOERoekJ2X0RNdkRwVlhMS0VrM1Y4UWNqcjNmZ0JRZjNDRzhlSGdLMDk4YlZqbTVRRkp6TWx3bng0V0o4UQ?oc=5",
-          "publishedAt": "2026-07-26T17:10:00.000Z",
+          "id": "7b3f3158d3f2e0eba3b6b7070bc4b1363c6c029ec662e3177ef14b8fd0c7d090",
+          "title": "Senate control, Michigan primary top watch list with midterms less than 100 days away",
+          "description": "With under 100 days to go before the midterm elections arrive, political scientists clearly have their attention on the Senate. And chief among the races to watch is the one unfolding in Michigan.",
+          "sourceName": "Katv",
+          "url": "https://katv.com/news/nation-world/senate-control-michigan-primary-top-watch-list-with-midterms-less-than-100-days-away",
+          "publishedAt": "2026-07-27T22:22:37.000Z",
           "sentiment": 0
         },
         {
-          "id": "ef3f33818024ba5a5ecf851a7d968bebaa5917c3dd0af052dddc2e1594214e51",
-          "title": "Jeffries won’t commit to holding votes on abolishing ICE",
-          "description": "House Minority Leader Hakeem Jeffries (D) is not committing to holding votes on the progressive policy issues, such as abolishing ICE if Democrats wins back the majority this fall.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/jeffries-won-t-commit-to-holding-votes-on-abolishing-ice-85968509",
-          "publishedAt": "2026-07-26T17:07:21.000Z",
+          "id": "240d5c759abc732c0d2aeeb69af745af38552c32ed0165a197d12c60968f2424",
+          "title": "Senate control, Michigan primary top watch list with midterms less than 100 days away",
+          "description": "With under 100 days to go before the midterm elections arrive, political scientists clearly have their attention on the Senate. And chief among the races to watch is the one unfolding in Michigan.",
+          "sourceName": "Wtvc",
+          "url": "https://newschannel9.com/news/nation-world/senate-control-michigan-primary-top-watch-list-with-midterms-less-than-100-days-away",
+          "publishedAt": "2026-07-27T22:22:36.000Z",
           "sentiment": 0
         },
         {
-          "id": "e9ad7b0a24579f3f13e5c012162d82e5e0460b01afa8e29e9467b14fa364168a",
-          "title": "Transcript: Vermont Sen. Bernie Sanders onFace the Nation with Margaret Brennan, July 26, 2026",
-          "description": "The following is the full transcription of an interview with Vermont Sen. Bernie Sanders, an Independent, a portion of which aired on \"Face the Nation with Margaret Brennan\" on July 26, 2026.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/transcript-vermont-sen-bernie-sanders-onface-the-nation-85968911",
-          "publishedAt": "2026-07-26T17:06:37.000Z",
+          "id": "5f8c2886f76594a4ca4d36d4ea214e96dbff19244542f5b4edefdd7c7a651bb4",
+          "title": "Senate control, Michigan primary top watch list with midterms less than 100 days away",
+          "description": "With under 100 days to go before the midterm elections arrive, political scientists clearly have their attention on the Senate. And chief among the races to watch is the one unfolding in Michigan.",
+          "sourceName": "Ksnv",
+          "url": "https://news3lv.com/news/nation-world/senate-control-michigan-primary-top-watch-list-with-midterms-less-than-100-days-away",
+          "publishedAt": "2026-07-27T22:22:36.000Z",
           "sentiment": 0
         },
         {
-          "id": "dde1aad25e476c7c1df25e69b418e64bb5cc2838ba14a55ec115c0f85b39ddc4",
-          "title": "Map shows where gas prices are over $4 only 100 days before midterms",
+          "id": "eb8d891ca4211f7064c64e167621420b8d6d8bb6a7a54b1f9e0fb23cc9213c76",
+          "title": "Trump asks Supreme Court to let executive order on mail-in voting proceed",
+          "description": "Trump has asked the Supreme Court to allow him to implement his executive order that seeks to exert control over mail ballots submitted in state-run elections. NBC News' Garrett Haake reports.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/video/trump-asks-supreme-court-to-let-executive-order-on-mail-in-voting-proceed-267341893617",
+          "publishedAt": "2026-07-27T21:55:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e3e747725a5e14c26999a30e54ab0bd0ba66ce3275051082fca5298b2afe9196",
+          "title": "Broke Democrats look to snatch defeat from the jaws of victory in midterm elections",
           "description": null,
           "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/map-shows-where-gas-prices-are-over-4-only-100-days-before-midterms-FDFB7013-62F6-4DEE-A584-F516256A50D6",
-          "publishedAt": "2026-07-26T17:00:03.000Z",
+          "url": "https://www.bundle.app/en/breaking-news/broke-democrats-look-to-snatch-defeat-from-the-jaws-of-victory-in-midterm-elections-AA981AC0-6FD4-4545-AA6C-623F84FAA01C",
+          "publishedAt": "2026-07-27T21:42:55.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "cb43bad4d3e7dd36a507d55f21bcef093d81a4033492ddc8c1fa7be4cf352299",
+          "title": "Broke and broken Democrats are on course to snatch defeat from the jaws of victory in crucial midterm elections",
+          "description": "Just when they seemed poised to take back the House, Democrats are in the red on cash and facing an internal ideological fight, all with less than 100 days until November’s midterm elections, Eric Garcia writes",
+          "sourceName": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/democratic-national-committee-midterm-lead-b3022571.html",
+          "publishedAt": "2026-07-27T21:42:55.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "06ba70acef056da2ec7189ef04f5e68b40a8e2e50109b27ff5dc73aabf5e6803",
+          "title": "How Troy Jackson and Susan Collins are attacking one another in Maine’s U.S. Senate race",
+          "description": "Republicans opened by tying Troy Jackson to Graham Platner, both in personality and policy, while Democrats tie Susan Collins to President Donald Trump.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/27/how-troy-jackson-and-susan-collins-are-attacking-one-another-in-maines-u-s-senate-race/",
+          "publishedAt": "2026-07-27T21:30:24.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "fce9158dabadac669459abbed5bef526db4532e8270d8bf8ecc6a1c03d9e0367",
+          "title": "How Troy Jackson and Susan Collins are attacking one another in Maine’s U.S. Senate race",
+          "description": "Republicans opened by tying Troy Jackson to Graham Platner, both in personality and policy, while Democrats tie Susan Collins to President Donald Trump.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/07/27/how-troy-jackson-and-susan-collins-are-attacking-one-another-in-maines-u-s-senate-race/",
+          "publishedAt": "2026-07-27T21:30:24.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "80ea02603e69b3bba95f19cdfe3b69e10f4036fc67e7ad0f80682759781cbd33",
+          "title": "How Troy Jackson and Susan Collins are attacking one another in Maine’s U.S. Senate race",
+          "description": "Republicans opened by tying Troy Jackson to Graham Platner, both in personality and policy, while Democrats tie Susan Collins to President Donald Trump.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/27/how-troy-jackson-and-susan-collins-are-attacking-one-another-in-maines-u-s-senate-race/",
+          "publishedAt": "2026-07-27T21:30:24.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "a9f3bcff9f8caa335c2d0e4fd36e8e909cb0e6a82e5a0423cfc7ed26bfaf37af",
+          "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
+          "description": "Democrats have a new candidate for U.S. Senate in Maine: Troy Jackson. In one of the country's most closely-watched races, he'll have less than 100 days to make his case.",
+          "sourceName": "Wesa",
+          "url": "https://www.wesanews.org/national-international-news/2026-07-27/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
+          "publishedAt": "2026-07-27T21:29:27.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "b0af9191127c289664b9ad85f0b97a4411ce08248fbcc4ff96201867bdf15bb1",
+          "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
+          "description": "Democrats have a new candidate for U.S. Senate in Maine: Troy Jackson. In one of the country's most closely-watched races, he'll have less than 100 days to make his case.",
+          "sourceName": "Npr",
+          "url": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
+          "publishedAt": "2026-07-27T21:29:27.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "7c8d0cc72cbf92f15acf8102a4096b3b06e1a469a956043c949eb02c1304df3f",
+          "title": "Republicans shift attacks to Troy Jackson in fight to defend Susan Collins’ Senate seat",
+          "description": "Tying the Democrat with the scandal-plagued Graham Platner is just one line of attack Republicans are deploying.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/07/27/politics/elections/republicans-shift-attacks-to-troy-jackson/",
+          "publishedAt": "2026-07-27T21:18:20.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "6edf589dc35f1c21f2c2a47420a2d5e5da3d30e4b1e5f099f64f833eb63683aa",
+          "title": "Auchincloss was quick to break with Platner — but slower to break with Israel",
+          "description": "He took the heat from the progressive left, but what about the pro-Israel factions?",
+          "sourceName": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/07/27/opinion/jake-auchincloss-platner-israel/",
+          "publishedAt": "2026-07-27T21:08:05.000Z",
           "sentiment": 0
         },
         {
-          "id": "7d7599c2d4d6fdcfd4fc6524477862402cb1ec3702648e5df1ec45ef2b2ee6b4",
-          "title": "Map Shows Where Gas Prices Are Over $4 Only 100 Days Before Midterms",
-          "description": "The $4 figure is viewed as a psychologically important threshold that impacts consumer sentiment.",
-          "sourceName": "Newsweek",
-          "url": "https://www.newsweek.com/map-shows-gas-prices-100-days-before-midterms-12245991",
-          "publishedAt": "2026-07-26T17:00:03.000Z",
+          "id": "da93cdc307c36444f13e05b56e969756195423a26d9dd60aeda2e19be9877205",
+          "title": "Troy Jackson Raises $2 Million After Maine Senate Nomination",
+          "description": "Democratic Senate candidate Troy Jackson has been open about the fact that beating Collins in November will be an uphill battle-but he said Monday that $2 million that's poured in from small donors in recent days gave him hope about the",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/troy-jackson-raises-2-million-after-maine-senate-nomination-86007412",
+          "publishedAt": "2026-07-27T21:07:59.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "302d3b4f3f9af2e3fd9967bdd7d90d6ba099207bb5cb7f0bb7a78517ac4fdeb6",
+          "title": "Maine Democrats Have a New Working-Class Hero in Troy Jackson. Can He Deliver?",
+          "description": "Troy Jackson, a former logger, faces the tall task of taking down Susan Collins.",
+          "sourceName": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/27/us/politics/troy-jackson-maine-senate-democrats.html",
+          "publishedAt": "2026-07-27T21:01:44.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "4da0e2a73303da624a4b5ee19cd4e3c14140570bdc55cf130c6183a99223dd79",
+          "title": "Headline on Maine's New Senate Candidate Perfectly Sums Up 'No Kings' Dems Who Are Saving Democracy",
+          "description": "Here's a story that we can do with a simple shot and chaser. Maine's new Democrat Senate candidate will oppose Republican...",
+          "sourceName": "Twitchy",
+          "url": "https://twitchy.com/dougp/2026/07/27/headline-on-maines-new-senate-candidate-perfectly-sums-up-no-kings-dems-who-are-saving-democracy-n2430667",
+          "publishedAt": "2026-07-27T20:40:44.000Z",
+          "sentiment": 0.4
+        },
+        {
+          "id": "4fe5b773df05511550c1f9da87d8b805360a8ccb4dbc18537b6440804e670ebc",
+          "title": "Although the process wasn’t perfect, Troy Jackson’s the man | Letter",
+          "description": "Last week, I wrote an op-ed critical of how the Maine Democratic Party managed the process for election of delegates who would be responsible for selecting the Democratic nominee for U.S. Senate (“Troy Jackson’s pending victory feels more of a coronation,” July 23). What a difference a week makes. While a process that results in [...]",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/27/although-the-process-wasnt-perfect-troy-jacksons-the-man-letter/",
+          "publishedAt": "2026-07-27T20:09:40.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "dd0e6101db6424817cb7c7c30a883bce9623ade2f378f7fcba4524df149582cf",
+          "title": "Although the process wasn’t perfect, Troy Jackson’s the man | Letter",
+          "description": "Last week, I wrote an op-ed critical of how the Maine Democratic Party managed the process for election of delegates who would be responsible for selecting the Democratic nominee for U.S. Senate (“Troy Jackson’s pending victory feels more of a coronation,” July 23). What a difference a week makes. While a process that results in [...]",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/27/although-the-process-wasnt-perfect-troy-jacksons-the-man-letter/",
+          "publishedAt": "2026-07-27T20:09:40.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "c06bfa757b3440b16db6d2970f100f0d671620d4098f1cd374bd403fb6e4fb59",
+          "title": "Maine Democrats tap Jackson to challenge Collins",
+          "description": "(The Center Square) — Democrat Troy Jackson will face incumbent Republican Sen. Susan Collins in the midterm elections after securing the party’s nomination over the weekend. Jackson, an Allagash logger and former state Senate President, was chosen by the party Saturday to replace disgraced Senate candidate Graham Platner, who dropped out of the race two [...] The post Maine Democrats tap Jackson to challenge Collins appeared first on The Black Chronicle .",
+          "sourceName": "The Black Chronicle",
+          "url": "https://blackchronicle.com/northeast/maine/maine-democrats-tap-jackson-to-challenge-collins/",
+          "publishedAt": "2026-07-27T19:43:42.000Z",
+          "sentiment": 0.3
+        },
+        {
+          "id": "a4b5a74c000c1988310b49691619c8b99ef8703fdabae30e46d5ef748227d66e",
+          "title": "The AI Slop Will Continue Until Republicans' Poll Numbers Improve",
+          "description": "65% of Americans disapprove of how Trump is handling the economy. In the land of slop, he's always winning.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/the-ai-slop-will-continue-until-republicans-poll-numbers-86005220",
+          "publishedAt": "2026-07-27T19:37:16.000Z",
           "sentiment": 0
         },
         {
-          "id": "ed23eec01adb20e9774823eb2f8f80a23c99c74f09c9555fcae9892f5f826185",
-          "title": "Transcript: Vermont Sen. Bernie Sanders on \"Face the Nation with Margaret Brennan,\" July 26, 2026",
-          "description": "The following is the full transcription of an interview with Vermont Sen. Bernie Sanders, an Independent, a portion of which aired on \"Face the Nation with Margaret Brennan\" on July 26, 2026.",
-          "sourceName": "Cbs News",
-          "url": "https://www.cbsnews.com/news/bernie-sanders-vermont-senator-face-the-nation-transcript-july-26-2026/",
-          "publishedAt": "2026-07-26T16:41:00.000Z",
+          "id": "208b9a7f4337b06459bf7c7c49fa6f1688b8b9b14c4e4ae29347158a32f00599",
+          "title": "The AI Slop Will Continue Until Republicans’ Poll Numbers Improve",
+          "description": "65% of Americans disapprove of how Trump is handling the economy. In the land of slop, he's always winning.",
+          "sourceName": "Gizmodo",
+          "url": "https://gizmodo.com/the-ai-slop-will-continue-until-republicans-poll-numbers-improve-2000791354",
+          "publishedAt": "2026-07-27T19:20:24.000Z",
           "sentiment": 0
         },
         {
-          "id": "e0d8aff6e77206220854ef0124eaf90704173f8c4f5afb4f2314e727a5ba634a",
-          "title": "Republicans Kick Off Maine Senate Ad Campaign, Tying New Candidate Jackson to Disgraced Nominee Platner",
-          "description": "Jackson and Platner co-endorsed each other when the former ran for governor and the latter locked up the Senate nomination.",
-          "sourceName": "The New York Sun",
-          "url": "https://www.nysun.com/article/republicans-kick-off-maine-senate-ad-campaign-tying-new-candidate-jackson-to-disgraced-nominee-platner",
-          "publishedAt": "2026-07-26T16:39:47.000Z",
+          "id": "f925110afee48179e42b81927b5bf3f97e9497cde7100751f527270b8274ca63",
+          "title": "As Maine's Senate race begins, Jewish voters find themselves 'politically homeless'",
+          "description": "With Democrats eyeing a key Senate pickup in Maine, some Jewish voters say Israel has become a defining issue in the Collins-Jackson race, leaving them torn ahead of Election Day.",
+          "sourceName": "Jpost",
+          "url": "https://www.jpost.com/diaspora/article-903833",
+          "publishedAt": "2026-07-27T18:34:30.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "af03242f41192220cf1f32cd44bbe08f20a8e26d52735b1fdac237be45065ebe",
+          "title": "Too Dumb to Check: Did Maine Dems Anoint an Ineligible Jackson to Replace Platner?",
+          "description": "You'd think a party with as much experience at trashing its own primaries to have elites pick its nominees would...",
+          "sourceName": "Hotair",
+          "url": "https://hotair.com/ed-morrissey/2026/07/27/too-fun-to-check-did-maine-dems-anoint-an-ineligible-jackson-to-replace-platner-n3817363",
+          "publishedAt": "2026-07-27T17:50:44.000Z",
           "sentiment": -1
         },
         {
-          "id": "b5515c898f7c31d7e3aaddc330162db2f3be2fa05575ff33cb6e9235c8ff3e27",
-          "title": "Sanders says he does not regret supporting Graham Platner in Maine Senate race",
-          "description": "Sen. Bernie Sanders (I-Vt.) on Sunday said he did not regret supporting former Maine Senate candidate Graham Platner (D) after a former girlfriend's accusations of sexual assault came to light and led the progressive candidate to drop his bid. CBS News's Margaret Brennan asked Sanders about his support for Platner on Sunday's \"Face the Nation,\"...",
+          "id": "ccba1a0a756f39ffebfda9392355eed37feacbebdccd77854af5afd6b3c7ba56",
+          "title": "'No Tattoo, Same Crazy': Here's How Republicans Plan to Defeat Troy Jackson",
+          "description": "Now that Troy Jackson has cinched the Democrat nomination for the Maine Senate race, Republicans are already pushing a full...",
+          "sourceName": "Townhall",
+          "url": "https://townhall.com/tipsheet/jeff-charles/2026/07/27/heres-how-republicans-plan-to-defeat-troy-jackson-n2680182",
+          "publishedAt": "2026-07-27T17:30:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "2c22953fec10eca0e2c7b1a9458e029aad933340b0fe6d63a912f918ede12eb6",
+          "title": "Troy Jackson’s hometown of Allagash is split on his Senate run",
+          "description": "The largely conservative Aroostook County town was home to a wide range of feelings the day after Jackson secured the Democratic nomination.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/27/troy-jacksons-hometown-of-allagash-is-split-on-his-senate-run/",
+          "publishedAt": "2026-07-27T17:06:24.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "57c2c43c5568dc04a78d6bb282db3349e794b6ad8252b832f16ffb8737af0d1e",
+          "title": "Troy Jackson’s hometown of Allagash is split on his Senate run",
+          "description": "The largely conservative Aroostook County town was home to a wide range of feelings the day after Jackson secured the Democratic nomination.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/07/27/troy-jacksons-hometown-of-allagash-is-split-on-his-senate-run/",
+          "publishedAt": "2026-07-27T17:06:24.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6bc6e4a8d1e66316dca976905cd391a433afae757ac8de2b7c0f5d019b30dded",
+          "title": "Troy Jackson’s hometown of Allagash is split on his Senate run",
+          "description": "The largely conservative Aroostook County town was home to a wide range of feelings the day after Jackson secured the Democratic nomination.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/27/troy-jacksons-hometown-of-allagash-is-split-on-his-senate-run/",
+          "publishedAt": "2026-07-27T17:06:24.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "83cc56aca5e954385bb2e16d3f23de23ee941859f8aef3232c09382d279d1492",
+          "title": "By lying low, Paul LePage shocks us once again | Steve Collins",
+          "description": "After two tumultuous terms as governor, the 77-year-old congressional hopeful has so far run a sleepy, controversy-free campaign.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/27/by-lying-low-paul-lepage-shocks-us-once-again-steve-collins/",
+          "publishedAt": "2026-07-27T17:04:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a7a90915ac15775f34e135e31bd57dee745ce6aeceb238298ed6dd054f1c4fd2",
+          "title": "By lying low, Paul LePage shocks us once again | Steve Collins",
+          "description": "After two tumultuous terms as governor, the 77-year-old congressional hopeful has so far run a sleepy, controversy-free campaign.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/27/by-lying-low-paul-lepage-shocks-us-once-again-steve-collins/",
+          "publishedAt": "2026-07-27T17:04:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "225479b51ec9ad37dd2632bd5bd7ab708d352bd576ba66298cd9d4c5b6451bbc",
+          "title": "A Battle for the Future of the Democratic Party",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/a-battle-for-the-future-of-the-democratic-party-C8168016-29C7-47F3-A703-FAFE6EADCE25",
+          "publishedAt": "2026-07-27T17:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f7d3fb24bbce1b36a4da756675ea7fb988e7ce1b5fbc74a4b13fb6d4d02700e8",
+          "title": "A Battle for the Future of the Democratic Party",
+          "description": "What Michigan voters could tell us about the path forward for Democrats. Plus: A senator looks at Congress.",
+          "sourceName": "The Atlantic",
+          "url": "https://www.theatlantic.com/podcasts/2026/07/ra-michigan/688049/",
+          "publishedAt": "2026-07-27T17:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "eeed2f718552928aca215add37b661c2f4f071060b4225e52f35822d9079b20c",
+          "title": "Capitol Lens | Mall wonder",
+          "description": "The Capitol building, Washington Monument and part of the National Mall are seen from a plane as it approaches Ronald Reagan Washington National Airport on Sunday.",
+          "sourceName": "Roll Call",
+          "url": "https://rollcall.com/2026/07/27/capitol-lens-mall-wonder/",
+          "publishedAt": "2026-07-27T16:54:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "60ef73e6794e5a3f5b2b672b0280562be5863aada42793777bfa1332ba46517d",
+          "title": "Map Shows Democrats' Chances in Key Senate Races With 98 Days to Midterms",
+          "description": "Polls point to close races for Republican-held seats in states like Maine, North Carolina and Texas ahead of the midterms.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/map-shows-democrats-chances-in-key-senate-races-with-98-days-to-midterms-12249548",
+          "publishedAt": "2026-07-27T16:32:52.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9bcd54b87444d6e5490b0dcbf9311d2a0ff8f4f93af70732d2eb04eba8e58690",
+          "title": "Maine Democrats have a new Senate candidate, and he's hitting the ground running",
+          "description": "Former logger and state lawmaker Troy Jackson emerged this past weekend as the Democrat to replace Graham Platner and run against incumbent Sen. Susan Collins in November.",
+          "sourceName": "Wbur",
+          "url": "https://www.wbur.org/hereandnow/2026/07/27/maine-democrats-candidate",
+          "publishedAt": "2026-07-27T16:30:44.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "04e476ee34aceb666b5c15c4a835724623e7537b61bf4b7ef39208f598f7c563",
+          "title": "Rising: July 27, 2026",
+          "description": "Doctor Fauci's diary revealed: wet market not origins of COVID! Robby Soave | RISING OPINION: Robby Soave gives his radar on Sen. Rand Paul uncovering journal entries from Dr. Anthony Fauci from the start of the COVID pandemic. #RobbySoave #Fauci #COVID 'He's fomenting hate!': Netanyahu rails against Mamdani | RISING OPINION: Israeli Prime Minister Benjamin...",
           "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/campaign/5991024-sanders-defends-platner-support/",
-          "publishedAt": "2026-07-26T16:38:51.000Z",
+          "url": "https://thehill.com/hilltv/5987840-rising-july-27-2026/",
+          "publishedAt": "2026-07-27T16:17:31.000Z",
           "sentiment": 0
         },
         {
-          "id": "41cff292dfb4a00b1b2a077ef7b07b24bb1c7379a18b90650fb961e158067129",
-          "title": "Sanders says he does not regret supporting Graham Platner in Maine Senate race - The Hill",
-          "description": "Sanders says he does not regret supporting Graham Platner in Maine Senate race The Hill Sanders cheers on progressive candidates ahead of midterms, says polling shows voters \"tired of the status quo\" CBS News \"People are sick of Rahm Emanuel\": Sanders says progressive wins make Dem establishment \"nervous\" Salon.com Bernie Sanders Doesn’t Regret Supporting Accused Rapist Graham Platner The Daily Wire Sanders stands by Platner endorsement, gives Troy Jackson ‘excellent’ chance Washington Examiner",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmRfaExOV2lERVVNNm9WaC16QUJibWgwNzJuWXJmYW13a0xfa280WlJjQlFFSlRlZXN5NXg1RFV0SHlGZGVJUTMyWDFfZnM5VWN1cWI5LXItcENnY25lSkV1MVc3UVRERzROQTBUOGR3RzU3TFdCVXM4RGhFdnh6dEtnU1HSAYoBQVVfeXFMTS1oQjJkZ19WRGkzTVk2T1JxVDkxOGVabktybDZSYmtLemhnang3bVJ5aV9yNHRYTnlGbmN3akg4WW5PY0I4bmpXYzF5NTZ4UUdveGd3R1FFdy12dGlhQXM0M0Z3UU1HakhnVVRua29UV1NGa05ZSGMwYjlIOHpVQ0ZIdjNDcnQ5OU1R?oc=5",
-          "publishedAt": "2026-07-26T16:38:00.000Z",
+          "id": "f6644926ed1d39247fe7851f479743ba0ded35f9f97c452428e4c7ba4ba51264",
+          "title": "The TR Daily Briefs: Monday, July 27, 2026",
+          "description": "Tallahassee Reports Monday, July 27, 2026 Weather: Today, a 10 percent chance of showers and thunderstorms after 5pm with a high near 98. Tonight, a...",
+          "sourceName": "Tallahassee Reports",
+          "url": "https://tallahasseereports.com/2026/07/27/the-tr-daily-briefs-monday-july-27-2026/",
+          "publishedAt": "2026-07-27T16:16:18.000Z",
           "sentiment": 0
         },
         {
-          "id": "e017f6bdc305687b673f42dd1dc101877019b943cf232159ddba86142b822ac5",
-          "title": "Democratic Party's Left-Wing Strengthens Through Victories of DSA-Backed Candidates",
-          "description": "The Democratic Party's left-wing is gaining momentum through victories of Democratic Socialists of America-backed cAndidates over establishment figures. The trend,most notably seen in Colorado, has left-wing supporters wondering if it's a lasting movement.",
-          "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/democratic-party-s-left-wing-strengthens-through-victories-85968193",
-          "publishedAt": "2026-07-26T16:36:28.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2c39f10037f9d8de001ad29fc28db5cf2af237ee96f006112f824f53bedff8dd",
-          "title": "How Republicans plan to conquer Troy - Politico",
-          "description": "How Republicans plan to conquer Troy Politico Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race The New York Times How Troy Jackson went from an anti-abortion Republican to the Democrats’ hope for defeating Susan Collins CNN Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race The Guardian How Republicans plan to conquer Troy Jackson Politico",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTdCWVpJSjVzU01yaUE2V1JOdnpZeHBiQjV5R1ZueWE2Y3VIV3JWQVVCcGN0aVBURUZjYUhubmstZXdtMzFOMnd1WFJVcDJMVDFZV2ozbFh1Y00yT0tWSEtocHA3OUFOdG4tQnlYOVAwSFdMbnhJdWd1QTk2MTNmRWhnMVZGY21TWnNCMktkWXZIdnVnV1JVcUItS19SUVhQX3JVYg?oc=5",
-          "publishedAt": "2026-07-26T16:31:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3a21c801153678a7d614c995eea4c92dcd0c5fad14b775163564ac20313b0249",
-          "title": "How Republicans plan to conquer Troy Jackson",
-          "description": "Republicans have 100 days to sink the newly-minted Democratic Maine Senate nominee — and they're throwing everything they have at him.",
-          "sourceName": "Politico",
-          "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
-          "publishedAt": "2026-07-26T16:10:59.000Z",
+          "id": "150799f6d5e29c3c0699fbfce848b29ac5a9245969956dd816fe0152e59cc5cd",
+          "title": "Kamala 2.0? Coronation for Platner's Replacement Proves Dems Haven't Learned a Thing",
+          "description": "If history holds, it’s now time for Troy Jackson’s “Brat Summer.” You remember “Brat Summer.” That was the nickname given to Kamala Harris’ presidential campaign, begun in earnest almost two [...] The post Kamala 2.0? Coronation for Platner's Replacement Proves Dems Haven't Learned a Thing appeared first on The Western Journal .",
+          "sourceName": "The Western Journal",
+          "url": "https://www.westernjournal.com/kamala-2-0-coronation-platners-replacement-proves-dems-havent-learned-thing/",
+          "publishedAt": "2026-07-27T16:10:00.000Z",
           "sentiment": -1
         },
         {
-          "id": "b155510125514e0473a7dbe471017a99e34dd99258c98f4d480b174662c88240",
-          "title": "Fauci's newly released COVID diaries reveal bizarre fixation on fame as pandemic deaths mounted",
-          "description": "Anthony Fauci's private diary entries reveal he called himself the most famous person in the country while documenting rising COVID-19 death tolls.",
-          "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/fauci-s-newly-released-covid-diaries-reveal-bizarre-85967357",
-          "publishedAt": "2026-07-26T16:06:15.000Z",
+          "id": "5d011b5c7d6d05071ce4e03d08f36aea2e8094952abbc4518f17dbe8838643ff",
+          "title": "Monday’s Campaign Round-Up, 7.27.26: Troy Jackson gets nod in Maine, starts 99-day sprint",
+          "description": "Today’s installment of campaign-related news items from across the country. The post Monday’s Campaign Round-Up, 7.27.26: Troy Jackson gets nod in Maine, starts 99-day sprint appeared first on MS NOW .",
+          "sourceName": "Ms Now",
+          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/troy-jackson-maine-senate-collins-michigan-primaries",
+          "publishedAt": "2026-07-27T15:45:43.000Z",
           "sentiment": 0
         },
         {
-          "id": "cea6eed5fdc359468ec082bc4d4dbfc9e11c2f0b9ff974a9f13aef3657324da0",
-          "title": "Mark Kelly: Democrats can ‘win in Maine’ with Troy Jackson, Platner ‘wasn’t vetted well enough’",
-          "description": "In an exclusive interview with Meet the Press, Sen. Mark Kelly (D-Ariz.) says he believes Troy Jackson is a “strong candidate” who can beat Republican Senator Susan Collins after Jackson replaced Graham Platner on the ballot.",
+          "id": "db4caf6a7f1ea41d45bb9d37da146b60e2bde3a69bc7e5cb7da2026324d649ec",
+          "title": "Maine Democrat Troy Jackson Voted for Transgender Hormones for Minors Without Parental Consent",
+          "description": "Maine Democrat Senate nominee Troy Jackson voted for a law allowing qualifying 16- and 17-year-olds to receive transgender hormone therapy without parental consent.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/mark-kelly-democrats-can-win-in-maine-with-troy-jackson-85966084",
-          "publishedAt": "2026-07-26T15:07:00.000Z",
+          "url": "https://us.headtopics.com/news/maine-democrat-troy-jackson-voted-for-transgender-hormones-85997482",
+          "publishedAt": "2026-07-27T15:36:50.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "8a86cfaf4d6ce200e74d120ac3d3786682703a28df68428cc446dae23e82df1d",
+          "title": "Disgusted by Trump administration’s tactical Medicaid decision | Letter",
+          "description": "As a member of the faith community, I am appalled at the decision of the Trump administration to defer $1 billion of Medicaid payments to California and Minnesota. Will Maine be next? According to an Associated Press report that appeared in the July 22 Portland Press Herald, payments have been stopped to states where there [...]",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/27/disgusted-by-trump-administrations-tactical-medicaid-decision-letter/",
+          "publishedAt": "2026-07-27T15:17:35.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8bb362298eadd22a7578100b9ebd0a69bd07fe0bc5b3bf29b78af1c6d3f22799",
+          "title": "Disgusted by Trump administration’s tactical Medicaid decision | Letter",
+          "description": "As a member of the faith community, I am appalled at the decision of the Trump administration to defer $1 billion of Medicaid payments to California and Minnesota. Will Maine be next? According to an Associated Press report that appeared in the July 22 Portland Press Herald, payments have been stopped to states where there [...]",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/27/disgusted-by-trump-administrations-tactical-medicaid-decision-letter/",
+          "publishedAt": "2026-07-27T15:17:35.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5d2fbaeef857676ab87c524835de4bd551804f767798082037e79c0b0fd64f86",
+          "title": "Troy Jackson boasts $2 million fundraising haul in two days since selection",
+          "description": "Of the funds raked in by Jackson, more than 58,000 came from unique donors, which his campaign says represents his grassroots support.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4664177/troy-jackson-boasts-2-million-fundraising-two-days-since-selection-grassroots/",
+          "publishedAt": "2026-07-27T15:06:34.000Z",
           "sentiment": 1
         },
         {
-          "id": "8c46c8212cf80e30af0ac8b55a8a73be4b9101a0dcd0281c38b64fcfae85bb0c",
-          "title": "Can Democrats Flip the Senate? Chances 100 Days From Midterms",
-          "description": "Democrats eye Senate gains in key battlegrounds but holding Michigan could be crucial to winning a majority.",
-          "sourceName": "Newsweek",
-          "url": "https://www.newsweek.com/can-democrats-flip-senate-chances-100-days-midterms-12245883",
-          "publishedAt": "2026-07-26T14:59:30.000Z",
+          "id": "68c3a7b9d47f83a8dec0b65c5964680df3c80a79443d79fff60b44d52f107bbc",
+          "title": "Maine Democratic Senate nominee Troy Jackson raises eyebrows in the Jewish community",
+          "description": "Throughout his two-decade-long career as a state lawmaker in Maine, Troy Jackson built his political brand around labor and economic issues. The post Maine Democratic Senate nominee Troy Jackson raises eyebrows in the Jewish community appeared first on Baptist News Global .",
+          "sourceName": "Baptist News Global",
+          "url": "https://baptistnews.com/article/maine-democratic-senate-nominee-troy-jackson-raises-eyebrows-in-the-jewish-community/",
+          "publishedAt": "2026-07-27T15:05:29.000Z",
           "sentiment": 0
         },
         {
-          "id": "8fc5ec4161fdf38122e25d9e51b4a618711fa934b1a9ab38d119d1372cad79d1",
-          "title": "Chinese Influence Operations in the Spotlight Amid Trump's Election Interference Claims",
-          "description": "Federal filings reveal Chinese government-linked entities spending tens of millions on U.S. lobbying and media as Trump accuses Beijing of election interference; the scope of influence extends beyond registered agents to include covert networks and nonprofit ties, sparking debate over transparency and national security.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/chinese-influence-operations-in-the-spotlight-amid-trump-s-85965366",
-          "publishedAt": "2026-07-26T14:36:28.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "385e52b076f9980edd0b546c42561b22e1719a4adc239b926d3d90ca226435ad",
-          "title": "Troy Jackson Shreds Susan Collins In Fiery Nomination Speech",
-          "description": "Troy Jackson gave a stemwinder after he secured the Democratic nomination on Saturday to run against Sen. Susan Collins (R-ME). If you liked ex-nominee Graham Platner’s populism, you’ve got to love Jackson’s, which comes without the baggage: Politico described him as a “progressive 5th generation logger” who has “had a long career in organizing progressive activists and ties to Sen. Bernie Sanders (I-Vt.), who had endorsed him in his gubernatorial race earlier this year.” Jackson’s speech focused on how working people are getting screwed by the ultra-wealthy, like Collins. He started with his own experiences being taken advantage of by logging companies. Later, he spoke of his realization that his struggles were part of a much bigger problem: \"The same thing that happened to us as loggers that I worked beside is happening all across the state and all across this country to working people. ... People are doing everything they can right and still cannot get ahead. They're working two or three jobs to survive.” He noted how the struggle to earn enough money to get by infects nearly every aspect of workers’ lives: from working so much they lose precious time with their families to skipping medications and checkups and “ praying to God that they don't get sick because they can't afford another damn bill .” “So, I am running to pass Medicare for all,” Jackson added. read more",
-          "sourceName": "Crooksandliars",
-          "url": "https://crooksandliars.com/2026/07/troy-jackson-shreds-susan-collins-fiery",
-          "publishedAt": "2026-07-26T14:31:49.000Z",
+          "id": "1d73f36ea4bbae540c72f22c3ff0c253e5b371e544fe51746bec1a7edd96d782",
+          "title": "Troy Jackson has raised $2M for his US Senate bid",
+          "description": null,
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/07/27/politics/elections/maine-election-senate-troy-jackson-fundraising-2m/",
+          "publishedAt": "2026-07-27T14:44:43.000Z",
           "sentiment": 1
+        },
+        {
+          "id": "192dee5446a3d7bec34447597a3e4c168c6c76916e88b8da6b9ee4840583d8b8",
+          "title": "Maine Democrats tap Jackson to challenge Collins",
+          "description": "(The Center Square) — Democrat Troy Jackson will face incumbent Republican Sen. Susan Collins in the midterm elections after securing the party's nomination over the weekend.",
+          "sourceName": "Conwaydailysun",
+          "url": "https://www.conwaydailysun.com/news/state/maine-democrats-tap-jackson-to-challenge-collins/article_257a1853-71ca-509c-9cb1-2c9388d18c69.html",
+          "publishedAt": "2026-07-27T14:40:00.000Z",
+          "sentiment": 0.3818
+        },
+        {
+          "id": "85e4e4173d1854c9de5534149e591de0766b75bc82b5f202ef5f63544310decf",
+          "title": "International News Briefs for Monday, July 27, 2026",
+          "description": "We bring you some of the top international news stories compiled by Democracy Now on Monday, July 27, 2026. The post International News Briefs for Monday, July 27, 2026 appeared first on Havana Times .",
+          "sourceName": "Havana Times",
+          "url": "https://havanatimes.org/news/international-news-briefs-for-monday-july-27-2026/",
+          "publishedAt": "2026-07-27T14:36:16.000Z",
+          "sentiment": 0.2023
+        },
+        {
+          "id": "614784e51cc2782d6d9754a9e1b171d8bdae4dde32d5161be37f6eec899c66b8",
+          "title": "GOP rolls out Maine campaign strategy tying Troy Jackson to Platner",
+          "description": "The Republican Party is attempting to capitalize on Maine Democratic Senate nominee Troy Jackson's prior support for Graham Platner.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4664020/gop-maine-campaign-strategy-troy-jackson-platner/",
+          "publishedAt": "2026-07-27T14:25:32.000Z",
+          "sentiment": 0.6597
+        },
+        {
+          "id": "b3512775e0bd4b97dc7dd32f1bba412e86dc38c1f276b77143c14fad2d99c139",
+          "title": "Harvard tops nation in foreign cash haul as Cotton demands probe into China funding",
+          "description": "Harvard University tops all U.S. colleges with nearly $4.5 billion in foreign funding, and Sen. Tom Cotton wants the Education Department to investigate.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/harvard-tops-nation-in-foreign-cash-haul-as-cotton-demands-85995165",
+          "publishedAt": "2026-07-27T14:07:48.000Z",
+          "sentiment": 0.765
         }
       ],
       "social": [
@@ -4549,24 +4964,33 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.6666666666666666,
-      "newsSentiment": -1,
+      "overallSentiment": -0.3333333333333333,
+      "newsSentiment": 0,
       "socialSentiment": 0,
       "mentions": {
-        "news": 1,
+        "news": 2,
         "social": 1,
         "youtube": 1,
-        "total": 3
+        "total": 4
       },
       "news": [
         {
-          "id": "c0d05ef3966a172283630f1c88f3aeeabbb9820cd3833271e67ef3600634bce3",
-          "title": "Film room: Taylor Sofilkanich adds to Duke's frontcourt with a strong presence in the paint",
-          "description": "With Duke basketball's offseason in full swing, the Blue Zone is here to break down film from the new additions to both the men's and women's teams. On the women's side, we've already looked at Aaliyah Crump, Sanai Green, Autumn Fleary and Bella Flemings. We wrap up the women’s roster with center Taylor Sofilkanich.",
-          "sourceName": "The Duke Chronicle",
-          "url": "https://dukechronicle.com/article/duke-womens-basketball-film-room-sofilkanich-lawson-roberson-wood-20260727",
-          "publishedAt": "2026-07-27T00:35:58.000Z",
-          "sentiment": -1
+          "id": "c0f82b802308c40a2e4d1472d6e73a1a2c32de2d689c41e583ba509a1d396f22",
+          "title": "Although the process wasn’t perfect, Troy Jackson’s the man | Letter",
+          "description": "Last week, I wrote an op-ed critical of how the Maine Democratic Party managed the process for election of delegates who would be responsible for selecting the Democratic nominee for U.S. Senate (“Troy Jackson’s pending victory feels more of a coronation,” July 23). What a difference a week makes. While a process that results in [...]",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/27/although-the-process-wasnt-perfect-troy-jacksons-the-man-letter/",
+          "publishedAt": "2026-07-27T20:09:40.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7f5e774e3382bade6b9b2e0d843b014540a089abecba69fe0c3932850d95ed48",
+          "title": "Although the process wasn’t perfect, Troy Jackson’s the man | Letter",
+          "description": "Last week, I wrote an op-ed critical of how the Maine Democratic Party managed the process for election of delegates who would be responsible for selecting the Democratic nominee for U.S. Senate (“Troy Jackson’s pending victory feels more of a coronation,” July 23). What a difference a week makes. While a process that results in [...]",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/27/although-the-process-wasnt-perfect-troy-jacksons-the-man-letter/",
+          "publishedAt": "2026-07-27T20:09:40.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
