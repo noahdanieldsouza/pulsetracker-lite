@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T09:59:43.123Z",
+  "lastUpdated": "2026-07-29T12:07:02.936Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -103,14 +103,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.15046546922862714,
+      "overallSentiment": 0.15021728186343575,
       "newsSentiment": 0.2877333333333334,
-      "socialSentiment": 0.2172345029239766,
+      "socialSentiment": 0.21648994082840242,
       "mentions": {
         "news": 129,
-        "social": 176,
+        "social": 172,
         "youtube": 28,
-        "total": 333
+        "total": 329
       },
       "news": [
         {
@@ -1276,6 +1276,86 @@
         }
       ],
       "social": [
+        {
+          "id": "535f7692d8c6c50bfc4081b4bb611c0ba152ebe2a121575d01b8f80e3c2fed21",
+          "authorHandle": "free2b.bsky.social",
+          "postText": "www.wmtw.com/article/mill...",
+          "createdAt": "2026-07-29T11:54:27.176Z",
+          "uri": "at://did:plc:kvdudx2wzj63v62wgydziz2t/app.bsky.feed.post/3mrruj2pom226",
+          "sentiment": -0.2
+        },
+        {
+          "id": "9b5297b46b062512e44f0e786326f534f29855e0ec5fb59285525b5d7ce4fca2",
+          "authorHandle": "midnitreebandit.bsky.social",
+          "postText": "Anyone who plans to endorse a candidate, especially one with a profile like Sanders, should make sure the candidate they endorse doesn't have bad shit that will blow back on them. Troy Jackson is learning that now, as Pine Tree Results' first ad ties Troy and Platner together like they're best buds.",
+          "createdAt": "2026-07-29T11:54:16.030Z",
+          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mrruiq3iuc2z",
+          "sentiment": -0.7
+        },
+        {
+          "id": "6ec04232d2493731e95fbb1b7699c80321adf969e1e9d8e2d1ec2d3992628943",
+          "authorHandle": "free2b.bsky.social",
+          "postText": "Kamala Harris endorsed Troy Jackson today in the race to unseat Maine Sen. Susan Collins. But you know who declined to endorse him? Outgoing Maine Gov. Janet Mills.\nthehill.com/homenews/599...",
+          "createdAt": "2026-07-29T11:53:40.385Z",
+          "uri": "at://did:plc:kvdudx2wzj63v62wgydziz2t/app.bsky.feed.post/3mrruho3qbc26",
+          "sentiment": 0.3
+        },
+        {
+          "id": "216dc30cfc651bf43f2b723e76ae4a61168a69141af904ea1ee8df8dcf899268",
+          "authorHandle": "ayoobkk1984.bsky.social",
+          "postText": "Maine Dem in hot seat for championing popular vote despite clinching Senate bid without it\n\nMaine Democrats pick new candidate after primary shakeup Fox News correspondent Alexis McAdams reports from Bangor, Maine, on the Democratic Party's selection of Troy Jackson as their new Senate candidate.…",
+          "createdAt": "2026-07-29T11:21:21Z",
+          "uri": "at://did:plc:7bt3pwkn3fedmrmuoj2qbfqa/app.bsky.feed.post/3mrrsnwixay2y",
+          "sentiment": -0.4
+        },
+        {
+          "id": "4e3dcdbaac7dbc3c301b361d06060207a2f0a069d95f39c0521ea0638492e997",
+          "authorHandle": "brucedlittle.bsky.social",
+          "postText": "“Working people are not powerless. We’re only made to feel powerless when we stand alone, and that is what they’re trying to do: divide us. And that’s why I entered public life.” ~ Troy Jackson",
+          "createdAt": "2026-07-29T11:11:59.629Z",
+          "uri": "at://did:plc:2swttnibw2v44fsavbv5ly4n/app.bsky.feed.post/3mrrs556or22w",
+          "sentiment": 0.6
+        },
+        {
+          "id": "db36a309aa04f069b4bc697889961a5a636ae072d4dfb2a357eef27f1904e2c8",
+          "authorHandle": "floridasunjournal.bsky.social",
+          "postText": "Maine Democrat Jackson Faces Criticism for Championing Popular Vote While Clinching Senate Nomination Without Statewide Primary\n\nTroy Jackson, Maine's Democratic nominee for U.S. Senate, is drawing criticism for his apparent contradiction between past advocacy for the national popular vote and his…",
+          "createdAt": "2026-07-29T11:02:43Z",
+          "uri": "at://did:plc:ngzryh2wdytcp2pxrgwguuuw/app.bsky.feed.post/3mrrrmloamx2l",
+          "sentiment": -0.5
+        },
+        {
+          "id": "cd978df27537539bd3fb8ed27ee8d1248d9283a0e5c5aea56cf7b14f3cf4db92",
+          "authorHandle": "nypost.com",
+          "postText": "Maine Democratic Senate nominee Troy Jackson scrubs social media posts praising Graham Platner",
+          "createdAt": "2026-07-29T10:59:01.210284Z",
+          "uri": "at://did:plc:ck7aajho5ziqo6lrs64rm4oc/app.bsky.feed.post/3mrrrfx4kai2z",
+          "sentiment": -0.6
+        },
+        {
+          "id": "54e52124c87901714c65f83e33e38b5478026f51b73cee0079a400817a2442cb",
+          "authorHandle": "kenbazinet.bsky.social",
+          "postText": " “Working people are not powerless. We’re only made to feel powerless when we stand alone, and that is what they’re trying to do: divide us. And that’s why I entered public life,” said Troy Jackson, The Nation reported.",
+          "createdAt": "2026-07-29T10:37:05.180Z",
+          "uri": "at://did:plc:i4ip2h75ifija6zu7ib5tha5/app.bsky.feed.post/3mrrq6prbdk2x",
+          "sentiment": 0.6
+        },
+        {
+          "id": "2eb760de7c5a8c498f0215b3892fe270b74db2e9a862378ed8131a98671ea2dc",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "Donate to Troy Jackson\n\nsecure.actblue.com/donate/stp-m...",
+          "createdAt": "2026-07-29T10:22:08.598Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mrrpdypozk2y",
+          "sentiment": 0.8
+        },
+        {
+          "id": "30b37d0689f980761ea4450912aa58b2ea5aa8bf60dcbd74c8fa3b334ed947e2",
+          "authorHandle": "jkj193741.bsky.social",
+          "postText": "Check out this article from USA TODAY:\n\nWill Graham Platner supporters back Troy Jackson in Maine Senate race?\n\nwww.usatoday.com/story/news/p...",
+          "createdAt": "2026-07-29T10:20:25.376Z",
+          "uri": "at://did:plc:t3d66f5rdixo7qian5b3e6b5/app.bsky.feed.post/3mrrpawblcs2s",
+          "sentiment": 0
+        },
         {
           "id": "3cfb5053fcac02b1b9429d88460b0c88dc0cbc83e796afcdb481ed52c0740c7a",
           "authorHandle": "indivisiblebangor.org",
@@ -2571,118 +2651,6 @@
           "createdAt": "2026-07-28T12:09:11.647Z",
           "uri": "at://did:plc:wj2kpkj7nfak5zj63p4pfuvz/app.bsky.feed.post/3mrpeuiqtss23",
           "sentiment": 1
-        },
-        {
-          "id": "038df4a1247c159da8086ad3ae80194976ee5d3574706220a516ce45ad1ebb6a",
-          "authorHandle": "bsfavourite.bsky.social",
-          "postText": "GP: Graham Platner’s Socialist Replacement Has a Surprising Pro-Life REPUBLICAN Past (VIDEO) #GrahamPlatner",
-          "createdAt": "2026-07-28T11:57:29Z",
-          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mrpe7kx7bl2d",
-          "sentiment": -1
-        },
-        {
-          "id": "da9f70f869d02d93244031b75d6b990d10e26678f7ab86b91542bdb96304eafc",
-          "authorHandle": "jm256.bsky.social",
-          "postText": "Watched Troy Jackson, the Dem candidate for Senate in Maine, on @morningjoe-msnow.bsky.social.\n\nThis guy just doesn't have it. After watching this interview, I can only say . . . Of all the things Susan Collins has been \"concerned\" about, losing the '26 election probably isn't one of them.",
-          "createdAt": "2026-07-28T11:47:23.107Z",
-          "uri": "at://did:plc:bcj6fyy5rznn3uibbbgocnh7/app.bsky.feed.post/3mrpdnitfp22u",
-          "sentiment": -1
-        },
-        {
-          "id": "c03153cfd13eff07c034d05454757a6b4c14e89b8af64866cea25d4e215b487a",
-          "authorHandle": "jeffjarvis.bsky.social",
-          "postText": "And who does Morning Joe have on to discuss the DSA? A progressive Democrat? No, three conservatives: Jim VandeHei, Jonathan Martin, and Mark McKinnon. When Troy Jackson appears later, he dismisses the DSA fringe: not worth talking about.",
-          "createdAt": "2026-07-28T11:46:53.293Z",
-          "uri": "at://did:plc:6y2b4lqfw2j3oyycegx3ey7q/app.bsky.feed.post/3mrpdmmfkhk2p",
-          "sentiment": 0
-        },
-        {
-          "id": "481604237f339bbb11d20fc4d519c020c730f268306ba63a561926edaa3d8272",
-          "authorHandle": "mky603.bsky.social",
-          "postText": "Plain spoke Troy Jackson is for the people of Maine and all the rest of who have suffered under Trump's elitist policies.",
-          "createdAt": "2026-07-28T11:46:29.281Z",
-          "uri": "at://did:plc:ljtbr45j22grscmggg3kpg7i/app.bsky.feed.post/3mrpdlviqbc2p",
-          "sentiment": 1
-        },
-        {
-          "id": "9bbd2525e546106920df7d5bbdf5752e2790e09bd6fa98a3b574454167c2a815",
-          "authorHandle": "shopgirl2694.bsky.social",
-          "postText": "Ive listened to several interviews Troy Jackson now. He is not as articulate as Platner, BUT....He tells the truth. He is not a bullshitter at all. I donated to his campaign yesterday! @troyjackson207.bsky.social",
-          "createdAt": "2026-07-28T11:46:11.520Z",
-          "uri": "at://did:plc:xul7ssgjrn6fr4fgpaxvdfyp/app.bsky.feed.post/3mrpdlekqjc24",
-          "sentiment": 0.3802
-        },
-        {
-          "id": "4857c7bbb761b6379b48cfe88f68ab1e7a885e79dc57ad8e041028e56c1c3460",
-          "authorHandle": "mainepublic.org",
-          "postText": "Troy Jackson has long pushed for the rights of the working class, but will now face heightened scrutiny from the national press and the Republican Party on his record and conduct in the Maine Legislature.\n\nhttps://bit.ly/4bfZ8Sv",
-          "createdAt": "2026-07-28T11:34:46.023909326Z",
-          "uri": "at://did:plc:fhfcgh73g7y4wjk7tx647lnp/app.bsky.feed.post/3mrpcwwtpxp2p",
-          "sentiment": 0.5499
-        },
-        {
-          "id": "1b9ec8e26380409feed9c7f5efba60d002d0ff59ee8bd62ebc4654b980ab2dc6",
-          "authorHandle": "stpoet.bsky.social",
-          "postText": "youtube.com/watch?v=XWGg...",
-          "createdAt": "2026-07-28T11:33:01.648Z",
-          "uri": "at://did:plc:iegqvxom553xxmle2aqhldwk/app.bsky.feed.post/3mrpcttbq622y",
-          "sentiment": 0
-        },
-        {
-          "id": "ea8371dfaa4e32615ecfb0d074cc36e62c98fa57223f321f43551d01bd515f90",
-          "authorHandle": "hasidicyiddish.bsky.social",
-          "postText": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race | Maine | The Guardian\n\nwww.theguardian.com/us-news/2026...",
-          "createdAt": "2026-07-28T11:31:03.285Z",
-          "uri": "at://did:plc:764hmzpjlbi36cfuakpuncrc/app.bsky.feed.post/3mrpcqcfoa22h",
-          "sentiment": -0.2263
-        },
-        {
-          "id": "e83282fdefb1714a63371024c6f11ed20c9ccf9380257d5e1f917be3a48cecb4",
-          "authorHandle": "missourihashish.bsky.social",
-          "postText": "secure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-07-28T11:29:24.393Z",
-          "uri": "at://did:plc:cqg5uwflrfsabelsf4qoyjzg/app.bsky.feed.post/3mrpcne3n3c2t",
-          "sentiment": 0
-        },
-        {
-          "id": "7d669a04c49dfe1686d230ead1357525d52c544005ce7a7811c5e9a96f9bbc09",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "This post is not about whether or not KH would endorse Troy Jackson, but whether or not it *matters* to Maine voters that she does.\n\nAs for your question about a write in campaign, do an original post about it and I'll repost it.",
-          "createdAt": "2026-07-28T11:15:55.505Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mrpbvaocg22e",
-          "sentiment": 0.3546
-        },
-        {
-          "id": "04419ef521c5e03f9a4cc6d1710ac831d20e1904428de75a7a20d99ef3b1b28f",
-          "authorHandle": "theological.me.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-07-28T11:07:48.762Z",
-          "uri": "at://did:plc:3gskb7fhf54q7mamvxzfup7t/app.bsky.feed.post/3mrpbgqogbks2",
-          "sentiment": null
-        },
-        {
-          "id": "998f9e74b933b3b321ec67611988f82bbd721d6921d17a03ab3a478b0297d316",
-          "authorHandle": "wbur.org.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-07-28T10:41:03.000Z",
-          "uri": "at://did:plc:276ax7x753tqfyx7d34uheuj/app.bsky.feed.post/3mrpuxckvvgq2",
-          "sentiment": null
-        },
-        {
-          "id": "55057b770bf5b05c940d02b1dbf6c51f79c70d0ee1e620462ca53bc89fe4dba2",
-          "authorHandle": "rosellam.bsky.social",
-          "postText": "Troy Jackson, who will likely get the Dem nomination for a Maine US Senate seat and hopefully beat deadbeat Susan Collins, comes from Allagash, Aroostook County, where 22% of households speak French at home.",
-          "createdAt": "2026-07-28T10:34:45.821Z",
-          "uri": "at://did:plc:e7luzqvffshvn6vjf4v265rs/app.bsky.feed.post/3mrp7lnfojc2a",
-          "sentiment": 0.4019
-        },
-        {
-          "id": "d6f0817e4048125e153dfa165b3088c9c6440e5326ac89a630fb38d30e254dc2",
-          "authorHandle": "taltondrumbo.bsky.social",
-          "postText": "DONATE -> secure.actblue.com/directory/",
-          "createdAt": "2026-07-28T10:00:37.408Z",
-          "uri": "at://did:plc:mjyt4xbaut44t3mdclvwciv6/app.bsky.feed.post/3mrp5olvkpl2z",
-          "sentiment": 0
         }
       ],
       "youtube": [
