@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T17:32:22.716Z",
+  "lastUpdated": "2026-07-29T18:35:04.022Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -7,12 +7,12 @@
       "name": "Nirav Shah",
       "overallSentiment": 0,
       "newsSentiment": 0,
-      "socialSentiment": 0,
+      "socialSentiment": null,
       "mentions": {
         "news": 3,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 4
+        "total": 3
       },
       "news": [
         {
@@ -43,56 +43,38 @@
           "sentiment": 0
         }
       ],
-      "social": [
-        {
-          "id": "6de8835a0e237c60af05c527fd7b1d97d16bf196d0b232ada5e6f8dedff23441",
-          "authorHandle": "vizslamum65.bsky.social",
-          "postText": "These candidates both look very good for the Maine Senate race ... wish they had jointed the race at the beginning.  I think Jackson, in particular, would do well against Collins since he has the working class background  ... anyone else have any beta?   www.huffpost.com/entry/progre...",
-          "createdAt": "2026-07-28T17:53:20.076Z",
-          "uri": "at://did:plc:746ntqrwnak46b6ccwazmag4/app.bsky.feed.post/3mrpy3umubs2v",
-          "sentiment": 0
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": 0,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "8d6526ee0d403667cf01389e3e9bad72df1ab2a0d87e279f188534597d69655e",
-          "authorHandle": "nicokow.bsky.social",
-          "postText": "Hey-late reply but there was a photo with Mamdani and a Shenna Bellows sticker on his laptop. Thought she might be a Katz employer.",
-          "createdAt": "2026-07-28T18:05:20.398Z",
-          "uri": "at://did:plc:dt7corxpmlwcl2sq453rkuzf/app.bsky.feed.post/3mrpyrdldqc2z",
-          "sentiment": 0
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.14525844831591175,
+      "overallSentiment": 0.14685461360516797,
       "newsSentiment": 0.04878048780487806,
-      "socialSentiment": 0.21985200000000002,
+      "socialSentiment": 0.22464049586776866,
       "mentions": {
         "news": 41,
-        "social": 125,
+        "social": 121,
         "youtube": 35,
-        "total": 201
+        "total": 197
       },
       "news": [
         {
@@ -466,6 +448,54 @@
         }
       ],
       "social": [
+        {
+          "id": "fb058c30fa0ce4b028f2665ebbd6286be306e03e627ce90fdbf2ca5f2578f059",
+          "authorHandle": "gamesh-o-whost.bsky.social",
+          "postText": "IIRC failing to endorse the Democratic Party nominee is called \"ratfucking\" and goes against VBNMW.\n\nwww.wmtw.com/article/mill...",
+          "createdAt": "2026-07-29T18:33:05.592Z",
+          "uri": "at://did:plc:skckodrghr2p2nasspy2nsti/app.bsky.feed.post/3mrskrv3sq22r",
+          "sentiment": -0.5
+        },
+        {
+          "id": "dfdd77a15d6e934bd25ec3cffb3651436ec71f7677ad696356fabf7e4976b419",
+          "authorHandle": "jimmyleander.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-07-29T18:06:54.495Z",
+          "uri": "at://did:plc:dw2qe4dsqywyaa5tw7sewjae/app.bsky.feed.post/3mrsjd2rqcs2u",
+          "sentiment": 0
+        },
+        {
+          "id": "fd4e7c8536742fdb8bc5030bc97de44a34e9c47a6b3db17a4c43998ea761f145",
+          "authorHandle": "missourihashish.bsky.social",
+          "postText": "secure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-07-29T17:55:13.715Z",
+          "uri": "at://did:plc:cqg5uwflrfsabelsf4qoyjzg/app.bsky.feed.post/3mrsio6hluk2z",
+          "sentiment": 0
+        },
+        {
+          "id": "ea51867f63a8cacbe2d71f9243dba16dee3507504d422a2ccf8ea12ba6b60572",
+          "authorHandle": "climatedefender.bsky.social",
+          "postText": "Let’s support Troy Jackson so Susan Collins sees the door slam on her way out @actblueorg.bsky.social",
+          "createdAt": "2026-07-29T17:38:30.944Z",
+          "uri": "at://did:plc:w27cksmdgngeygwx4iwsm6q3/app.bsky.feed.post/3mrshqc5jbc2j",
+          "sentiment": 0.7
+        },
+        {
+          "id": "6bcbb93c737ad83a0bc745e32cdc114fb9c41bb652d17424a6981ca756549be9",
+          "authorHandle": "kittyvoltaire.bsky.social",
+          "postText": "Please donate to Dem Senate campaigns!\n\nTroy Jackson - Maine\nJosh Turek - Iowa\nMary Peltola - Alaska\nSherrod Brown - Ohio\nJames Talarico - Texas\nJon Ossoff - Georgia\n...and more, including House seats, Governor and state!\n\nWho else would you like to add?  LET’S GO!!!",
+          "createdAt": "2026-07-29T17:35:01.655Z",
+          "uri": "at://did:plc:spmo2tfhb6hnnfzvp4wozdjf/app.bsky.feed.post/3mrshk2kiis2f",
+          "sentiment": 0.8
+        },
+        {
+          "id": "d5e4f035ed5e18e002be77fa02798c70ff3cc20794683e29e0bb43fd93978446",
+          "authorHandle": "organizingpower.bsky.social",
+          "postText": "It’s been a week since Troy Jackson became the nominee and he’s already sent me 8 text messages",
+          "createdAt": "2026-07-29T17:32:28.933Z",
+          "uri": "at://did:plc:7kx2elacfnptr46bvyojd6dr/app.bsky.feed.post/3mrshfivrwc2k",
+          "sentiment": -0.3
+        },
         {
           "id": "64714c3643f06ccc3377b9d4258ff95fa27e7db18245e3e96ad33ae8c471eed0",
           "authorHandle": "rholt.bsky.social",
@@ -1384,86 +1414,6 @@
           "postText": "Collins (Me.) has a war chest of about $11 million.\nTroy Jackson has a war chest of about $1 million.\nWTF is wrong with the Ken Martin the head of the DNC?",
           "createdAt": "2026-07-28T18:36:43.310Z",
           "uri": "at://did:plc:xkzdhl6ejihlv4nzjvjgjeqh/app.bsky.feed.post/3mrq2jhbayc2x",
-          "sentiment": 0
-        },
-        {
-          "id": "9c093d9359e507b2043a0dedbaa925b67c06521402305f7f02d8f21685782296",
-          "authorHandle": "totoinkansas.bsky.social",
-          "postText": "Has Susan Collins jumped the shark--finally? www.dailykos.com/stories/2026...",
-          "createdAt": "2026-07-28T18:34:37.152Z",
-          "uri": "at://did:plc:ndar2cybhm7wlosf5a6akp66/app.bsky.feed.post/3mrq2foxas22o",
-          "sentiment": 0
-        },
-        {
-          "id": "1e81646fa666af30fe06ac47ae61fd5c497e94cffcd3bc153d3b23bb443b6e6e",
-          "authorHandle": "keepitbluedems.bsky.social",
-          "postText": "open.substack.com/pub/simonwdc...",
-          "createdAt": "2026-07-28T18:33:07.976Z",
-          "uri": "at://did:plc:2j2wpwfdjbho2fqlt4den7fy/app.bsky.feed.post/3mrq2czvsu22f",
-          "sentiment": 0
-        },
-        {
-          "id": "4336e6b9bfb3eeffd84c7433615ebbe7f7ed7062be8e8aae28ed0c0c5311ceba",
-          "authorHandle": "nationalreview.bsky.social",
-          "postText": "The Democrats have nominated a failed gubernatorial candidate and former state senator in a desperate bid to salvage their chances in Maine. \n\nhttps://www.nationalreview.com/2026/07/troy-jackson-is-just-as-radical-as-graham-platner/",
-          "createdAt": "2026-07-28T18:30:15.126872077Z",
-          "uri": "at://did:plc:wjta7o5uszx7zkukisqlknho/app.bsky.feed.post/3mrq25vfeka2j",
-          "sentiment": -1
-        },
-        {
-          "id": "c511ed7cbeed60c7c7dd46217cfc9413f776ce9ebec2dcae211c4cf5f7961a4e",
-          "authorHandle": "lseefeldt.bsky.social",
-          "postText": "Voters Blame Trump/Rs For Higher Costs, Senate Descends Into Trumpian Chaos, Kaitlin Collins Responds, Stop Todd Blanche!\nopen.substack.com/pub/simonwdc...",
-          "createdAt": "2026-07-28T18:29:45.580Z",
-          "uri": "at://did:plc:3tfasguqviifmu33522nizda/app.bsky.feed.post/3mrq24yv5js2z",
-          "sentiment": 0
-        },
-        {
-          "id": "7f062d5932a451ddefb33469d9556438564576dea8829d4f7237068e4be6163a",
-          "authorHandle": "poltergeist.elderscrolls.social",
-          "postText": "It feels so awesome to see the immediate and overwhelming statewide push for Troy Jackson, Maine is starving for populist leaders -- its funny and Lenincore as fuck that our Senator might just be some fuckin guy who has no campaign crushing dirt, HOMIE JUST CUTS WOOD AND LIKES UNIONS MAN",
-          "createdAt": "2026-07-28T18:15:41.603Z",
-          "uri": "at://did:plc:jtowlilfpbqoqffy32bzmtyy/app.bsky.feed.post/3mrpzdtz3722e",
-          "sentiment": 1
-        },
-        {
-          "id": "34f652e216cafc6d640c125eb8261c6705c8df1ea284da4d47f229cc3daec624",
-          "authorHandle": "bluephoenix718.bsky.social",
-          "postText": "Voters Blame Trump/Rs For Higher Costs, Senate Descends Into Trumpian Chaos, Kaitlin Collins Responds, Stop Todd Blanche!\nopen.substack.com/pub/simonwdc...",
-          "createdAt": "2026-07-28T18:01:01.710Z",
-          "uri": "at://did:plc:jfealdy6io35j7bdbd2snplr/app.bsky.feed.post/3mrpyjmusqc2u",
-          "sentiment": 0
-        },
-        {
-          "id": "74fb1a6d963d6247e918d9f8574b48a0747c3665a40c7ef41e8e2cd257f010ea",
-          "authorHandle": "vizslamum65.bsky.social",
-          "postText": "These candidates both look very good for the Maine Senate race ... wish they had jointed the race at the beginning.  I think Jackson, in particular, would do well against Collins since he has the working class background  ... anyone else have any beta?   www.huffpost.com/entry/progre...",
-          "createdAt": "2026-07-28T17:53:20.076Z",
-          "uri": "at://did:plc:746ntqrwnak46b6ccwazmag4/app.bsky.feed.post/3mrpy3umubs2v",
-          "sentiment": 1
-        },
-        {
-          "id": "dace7bf12b3d0ff9029cb1094e8c367ea15c1b5822871cf61ee128de9e945c7b",
-          "authorHandle": "gary9448.bsky.social",
-          "postText": "Voters Blame Trump/Rs For Higher Costs, Senate Descends Into Trumpian Chaos, Kaitlin Collins Responds, Stop Todd Blanche!\nopen.substack.com/pub/simonwdc...",
-          "createdAt": "2026-07-28T17:48:32.896Z",
-          "uri": "at://did:plc:5tz5g6nogkmxow37vgb7drt6/app.bsky.feed.post/3mrpxtcqu222x",
-          "sentiment": 0
-        },
-        {
-          "id": "170455f5db5c5dd88de2490341916f11ad80a718fd80bc03c05e16de7f8128a6",
-          "authorHandle": "cabinmedia.bsky.social",
-          "postText": "Troy Jackson was on msnow: accent varied, sprinkled with 'wicked' & speech a tad awkward; not the most articulate guy on the planet, but that's just fine - for a guy. But not for women, who are always attacked for their appearance, speech, clothing, expressions, body, etc. SEXISM",
-          "createdAt": "2026-07-28T17:47:08.716Z",
-          "uri": "at://did:plc:kkfgfeqmxrkrqgc72yofvfcx/app.bsky.feed.post/3mrpxqshtzs2u",
-          "sentiment": 0
-        },
-        {
-          "id": "1b466d3b54f51c82e232241c46f048628f7e571d4d9482a20ed2d57f36a3328e",
-          "authorHandle": "asfried.bsky.social",
-          "postText": "www.politico.com/news/2026/07...",
-          "createdAt": "2026-07-28T17:39:01.535Z",
-          "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3mrpxcbubdk2v",
           "sentiment": 0
         }
       ],
