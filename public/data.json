@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T06:00:56.264Z",
+  "lastUpdated": "2026-07-30T08:44:55.222Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -67,14 +67,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.16060020589166932,
+      "overallSentiment": 0.15967286101432446,
       "newsSentiment": 0.04878048780487806,
-      "socialSentiment": 0.26587727272727274,
+      "socialSentiment": 0.26309523809523816,
       "mentions": {
         "news": 41,
-        "social": 88,
+        "social": 85,
         "youtube": 35,
-        "total": 164
+        "total": 161
       },
       "news": [
         {
@@ -665,6 +665,14 @@
           "sentiment": 0
         },
         {
+          "id": "e7a60aa49672f03e700ff0a47982abfab3fa15b40a259329b2ec16f7ecaa70c5",
+          "authorHandle": "politicalwire.com.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-07-29T22:11:00.000Z",
+          "uri": "at://did:plc:ngywpvepg2jwzq5abtzp4qo2/app.bsky.feed.post/3mrtxk3pwzrh2",
+          "sentiment": null
+        },
+        {
           "id": "1d3869737c53915cead288ac283b6a06a9e6a7f97887dd6c99d3f0f588c2041e",
           "authorHandle": "sandance.bsky.social",
           "postText": "Mainers, please vote for Troy Jackson.\n\nThe entire country is counting on you to take the corrupt concerned (not) Susan Collins out of office forever.",
@@ -1119,38 +1127,6 @@
           "createdAt": "2026-07-29T09:31:50.525Z",
           "uri": "at://did:plc:c4o2vaalki2qgmekvrzmguix/app.bsky.feed.post/3mrrmk2hg4c24",
           "sentiment": 0.6
-        },
-        {
-          "id": "1a4524cdbacbb5ddf65f2730502e24aa3b90fa886e223ae601120f6789625070",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-07-29T08:43:38.119Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mrrjtu25vk2y",
-          "sentiment": 0
-        },
-        {
-          "id": "041c2755892c7c72f7b48d129d944d278f59e1d2529cbac66c8b207475081aaa",
-          "authorHandle": "returnedknyaz.bsky.social",
-          "postText": "Troy Jackson is not a very normie Dem and has already said he'd oppose Schumer as leader\n\nthis probably has something to do with Schumer choosing to recruit Mills, which is what led to Platner",
-          "createdAt": "2026-07-29T06:37:06.966Z",
-          "uri": "at://did:plc:nspmrirz2fcpxzn4cv5homlq/app.bsky.feed.post/3mrrcrmkmis24",
-          "sentiment": 0
-        },
-        {
-          "id": "c918c2e1ec10fbc02be10e10f00851f0ddfa2537ec386b762f51b1c5ee0908e8",
-          "authorHandle": "squamishchief.bsky.social",
-          "postText": "Troy Brosnan extends OG Canadian Open DH win streak to seven, Mille Johnset retains elite ladies' title",
-          "createdAt": "2026-07-29T06:15:39Z",
-          "uri": "at://did:plc:sarym5p7vrxzdq476oo72w7r/app.bsky.feed.post/3mrrblbadsz2m",
-          "sentiment": 0.6486
-        },
-        {
-          "id": "f2c4332e8a38ee1ed9089d6e31cc6dc3b77a60c247c851a815cf2318731d5378",
-          "authorHandle": "piquenews.bsky.social",
-          "postText": "Troy Brosnan extends OG Canadian Open DH win streak to seven, Mille Johnset retains elite ladies' title",
-          "createdAt": "2026-07-29T06:15:38Z",
-          "uri": "at://did:plc:nqvlaluxf557tez6mlwrnwuw/app.bsky.feed.post/3mrrbl7yezm2p",
-          "sentiment": 0.6486
         }
       ],
       "youtube": [
