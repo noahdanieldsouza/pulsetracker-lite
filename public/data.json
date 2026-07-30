@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T17:52:11.494Z",
+  "lastUpdated": "2026-07-30T19:17:51.710Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -56,14 +56,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.16423808250572955,
+      "overallSentiment": 0.162576097711812,
       "newsSentiment": 0.07272727272727274,
-      "socialSentiment": 0.2528441176470588,
+      "socialSentiment": 0.24785816326530608,
       "mentions": {
         "news": 22,
-        "social": 103,
+        "social": 99,
         "youtube": 35,
-        "total": 160
+        "total": 156
       },
       "news": [
         {
@@ -266,6 +266,46 @@
         }
       ],
       "social": [
+        {
+          "id": "72496094a02cde865e820f902b3b4665fc060a86578de345cf41bb00f90ff111",
+          "authorHandle": "patricculus.bsky.social",
+          "postText": "www.cnn.com/2026/07/30/p...\nThe nerve of some people!",
+          "createdAt": "2026-07-30T19:04:44.698Z",
+          "uri": "at://did:plc:tq4xaewvnslxslzuqxk7rvpx/app.bsky.feed.post/3mrv4zfoogk2c",
+          "sentiment": -1
+        },
+        {
+          "id": "271c41e9b2ca70cb7ab8c6d0e70744d8b9c880dd4042fa399621044b6b65c45b",
+          "authorHandle": "nerditry.bsky.social",
+          "postText": "Troy Jackson, especially his eyes, are giving me Russian Interior Minister sad vibes.",
+          "createdAt": "2026-07-30T19:02:42.218Z",
+          "uri": "at://did:plc:jcgsmdp3ljkdlwma6nxxj5xh/app.bsky.feed.post/3mrv4vqyxtq2i",
+          "sentiment": -1
+        },
+        {
+          "id": "72c75c3fd0c7b1ec9b1b7050a6ec33c056af36541ee19e569410c131d41a58e6",
+          "authorHandle": "murshedz.bsky.social",
+          "postText": "if anything this sounds like Troy Jackson is a modern senate candidate. pretty cool tbh",
+          "createdAt": "2026-07-30T19:02:30.613Z",
+          "uri": "at://did:plc:cf26plxwia7dxpm6plry3sj2/app.bsky.feed.post/3mrv4vfsp322r",
+          "sentiment": 1
+        },
+        {
+          "id": "4b10444b1e9585ee9d965a3303d639c44bdb6608cd7bf1706b88960aba6d605a",
+          "authorHandle": "casporleder.bsky.social",
+          "postText": "They believe it because often they see with their own eyes \n\nthehill.com/homenews/cam...",
+          "createdAt": "2026-07-30T18:38:36.583Z",
+          "uri": "at://did:plc:wvlqj5qp345rbfl35i3ezcbr/app.bsky.feed.post/3mrv3ko7l5k2n",
+          "sentiment": 0
+        },
+        {
+          "id": "1c1c05db9ac67970b21bcae1740e9cec7289b755b797978f0e1c9afb04b0824f",
+          "authorHandle": "casporleder.bsky.social",
+          "postText": "I don’t think the Schumer wing is united on fight, though\n\nthehill.com/homenews/cam...",
+          "createdAt": "2026-07-30T18:37:02.406Z",
+          "uri": "at://did:plc:wvlqj5qp345rbfl35i3ezcbr/app.bsky.feed.post/3mrv3hufjgc2n",
+          "sentiment": 0
+        },
         {
           "id": "d37c8b9ed0f5366412a5646bc2c141f1641facbbc4ed2c490b1c3784b4e7af7e",
           "authorHandle": "driver9.bsky.social",
@@ -1017,78 +1057,6 @@
           "createdAt": "2026-07-29T19:39:11.690Z",
           "uri": "at://did:plc:l3cg2vcomatzqpt666dv4dkw/app.bsky.feed.post/3mrsoi3hidc2v",
           "sentiment": -1
-        },
-        {
-          "id": "d4e1641fe60036aa9fee6f90ba96df580e93eaef7623565345e75e6ccc670dad",
-          "authorHandle": "bsfavourite.bsky.social",
-          "postText": "Maine Gov. Mills Stops Short of Troy Jackson Endorsement",
-          "createdAt": "2026-07-29T18:59:38Z",
-          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mrsmbehvxr2r",
-          "sentiment": 0
-        },
-        {
-          "id": "d5f056276ade543d8edab4c94946be2eb1802d6ce944cd4f66175ef7e04c2bed",
-          "authorHandle": "mainstream-media.bsky.social",
-          "postText": "Janet Mills keeps cool on endorsement of Troy Jackson\n\nhttps://www.washingtonexaminer.com/n...",
-          "createdAt": "2026-07-29T18:50:23.205985+00:00",
-          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mrslqsofys2f",
-          "sentiment": 0
-        },
-        {
-          "id": "06ae113073428c7668d5ab1d32dae9c16cdfca790a5c02ccb5a21816d22b760b",
-          "authorHandle": "memeorandum.com",
-          "postText": "Mills calls Collins 'vulnerable' but stops short of endorsing Troy Jackson (Francis Flisiuk/WMTW-TV)\n\nMain Link | memeorandum Permalink",
-          "createdAt": "2026-07-29T18:40:47Z",
-          "uri": "at://did:plc:yxwuluq3ksl4hur6mopcl5el/app.bsky.feed.post/3mrsl7ob5fu2t",
-          "sentiment": 0
-        },
-        {
-          "id": "ff94f214d62c7f0e5ef861f39aeda080c5bed47c0948e15d3f19c31e8e3d1f27",
-          "authorHandle": "mattmurph24.bsky.social",
-          "postText": "thehill.com/homenews/cam...",
-          "createdAt": "2026-07-29T18:37:51.821Z",
-          "uri": "at://did:plc:ddcmdof4k5iklckr2almtwkm/app.bsky.feed.post/3mrsl2g2tac2o",
-          "sentiment": 0
-        },
-        {
-          "id": "3dd47f6610981ce01d36eca3265d155c7f6f15dafe22550a743340ec4e735c95",
-          "authorHandle": "whyitmatters.bsky.social",
-          "postText": "@whitehouse.senate.gov \nI have long respected you and appreciate you sharing this. \nThank you my friend all the way from the great state of Maine. Hopefully home to our next Senator Troy Jackson!👏💙",
-          "createdAt": "2026-07-29T18:37:14.181Z",
-          "uri": "at://did:plc:dtuhhjiatp6fwhqonor3ywf6/app.bsky.feed.post/3mrskzc64h22p",
-          "sentiment": 1
-        },
-        {
-          "id": "600e2c3785c4e3bebeeac801eb736cb29ced3b3e137bcaf56ca90892102f638b",
-          "authorHandle": "breadpanes.bsky.social",
-          "postText": "What is she even playing at?",
-          "createdAt": "2026-07-29T18:35:22.823Z",
-          "uri": "at://did:plc:rwcp3k7z4yvhvkv2wn7l3xqd/app.bsky.feed.post/3mrskvxxres2b",
-          "sentiment": 0
-        },
-        {
-          "id": "fb058c30fa0ce4b028f2665ebbd6286be306e03e627ce90fdbf2ca5f2578f059",
-          "authorHandle": "gamesh-o-whost.bsky.social",
-          "postText": "IIRC failing to endorse the Democratic Party nominee is called \"ratfucking\" and goes against VBNMW.\n\nwww.wmtw.com/article/mill...",
-          "createdAt": "2026-07-29T18:33:05.592Z",
-          "uri": "at://did:plc:skckodrghr2p2nasspy2nsti/app.bsky.feed.post/3mrskrv3sq22r",
-          "sentiment": -0.5
-        },
-        {
-          "id": "dfdd77a15d6e934bd25ec3cffb3651436ec71f7677ad696356fabf7e4976b419",
-          "authorHandle": "jimmyleander.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-07-29T18:06:54.495Z",
-          "uri": "at://did:plc:dw2qe4dsqywyaa5tw7sewjae/app.bsky.feed.post/3mrsjd2rqcs2u",
-          "sentiment": 0
-        },
-        {
-          "id": "fd4e7c8536742fdb8bc5030bc97de44a34e9c47a6b3db17a4c43998ea761f145",
-          "authorHandle": "missourihashish.bsky.social",
-          "postText": "secure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-07-29T17:55:13.715Z",
-          "uri": "at://did:plc:cqg5uwflrfsabelsf4qoyjzg/app.bsky.feed.post/3mrsio6hluk2z",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -1448,17 +1416,26 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": null,
+      "overallSentiment": -0.1,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": -0.1,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "1f5d5254216244c943ca9ca57f97edb04933f12682fbd5c1dc78e30fa90c32d3",
+          "authorHandle": "socialitelife.bsky.social",
+          "postText": "In #CelebSnaps: Graham Campbell, Jordan Roth and Homer Gere at FX's 'The Shards' world premiere at the SVA Theatre in New York City on July 27, 2026. Plus pics of Trey Smith, Darren Criss, Igby Rigney, Evan Rachel Wood, Jordan Roth, Aaron Paul, & more! soc.life/5ZEkmX",
+          "createdAt": "2026-07-30T19:01:16.886Z",
+          "uri": "at://did:plc:bbrx7rwjqnd2mqf7oytru4pn/app.bsky.feed.post/3mrv4t7jsbt2u",
+          "sentiment": -0.1
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     }
