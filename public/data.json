@@ -1,48 +1,20 @@
 {
-  "lastUpdated": "2026-07-30T12:26:38.969Z",
+  "lastUpdated": "2026-07-30T13:51:04.282Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0,
-      "newsSentiment": 0,
+      "overallSentiment": null,
+      "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
-        "news": 3,
+        "news": 0,
         "social": 0,
         "youtube": 0,
-        "total": 3
+        "total": 0
       },
-      "news": [
-        {
-          "id": "7441718e104b0a5e83d670ec8dd18082749d21da4afcca2175d0b61db1645de6",
-          "title": "Meet the Press NOW — July 28",
-          "description": "A solemn day in Washington as President Trump and world leaders attend the late Senator Lindsey Graham’s funeral. Documentary filmmaker Alex Holder spent over four years with Senator Lindsey Graham right until his death and shares never-before-seen footage with Meet the Press NOW. In Michigan, Congresswoman Haley Stevens (D-Mich.) and Abdul El-Sayed (D) had their final debate last night in the closely watched race, with just one week to go before the primary.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/meet-the-press-now-july-28-267408965864",
-          "publishedAt": "2026-07-28T21:07:01.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "841b3afa098eab0bbd0836cfa58673bebfd2c737de2313499b2bc4136e348ad8",
-          "title": "‘I’m tired’: Lindsey Graham in never-before-seen video as he tried to secure deal to end Ukraine war",
-          "description": "Meet the Press moderator Kristen Welker sits down with documentary filmmaker Alex Holder who spent more four years following Senator Graham right until his death. Holder shares never-before-seen footage of Senator Graham raising concerns about “war fatigue” in Ukraine and a conversation between Lindsey and his sister Darline Graham about his entry into politics.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/-i-m-tired-lindsey-graham-in-never-before-seen-video-as-he-tried-to-secure-deal-to-end-ukraine-war-267409477647",
-          "publishedAt": "2026-07-28T20:59:53.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "fb1362a661d933df4c0484e89b7fe55eb2fba6a4580395ce39d46c82f6a70083",
-          "title": "Netanyahu & Zelenskyy attend Graham funeral as wars in Iran and Ukraine reach critical points",
-          "description": "President Trump, lawmakers, and world leaders attend Sen. Lindsey Graham’s funeral as policymakers try to navigate a path forward in the wars in Iran and Ukraine. NBC News correspondents Monica Alba, Matt Bradley, and Courtney Kube report on the latest developments. Elise Labott, host of the Cosmopolitics podcast, discusses where the U.S. stands in the Iran War as it enters its sixth month and the administration’s evolving relationship with Ukraine's President Zelenskyy.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/netanyahu-zelenskyy-attend-graham-funeral-as-wars-in-iran-and-ukraine-reach-critical-points-267407941854",
-          "publishedAt": "2026-07-28T20:50:59.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -67,383 +39,212 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.15201550522648083,
-      "newsSentiment": 0.04878048780487806,
+      "overallSentiment": 0.15999776686727904,
+      "newsSentiment": 0.07272727272727274,
       "socialSentiment": 0.24012317073170727,
       "mentions": {
-        "news": 41,
+        "news": 22,
         "social": 83,
         "youtube": 35,
-        "total": 159
+        "total": 140
       },
       "news": [
         {
-          "id": "3bf78b839a253b92e7d2e185b0b5f45a14ba9123d19480359be345e9c994e804",
-          "title": "As Senate race kicks off in Maine, some Jewish voters find themselves politically adrift",
-          "description": "Democrat Troy Jackson replaces disgraced anti-Israel candidate Graham Platner; while some blue-leaning Jews consider him a step up, his claims Israel committed genocide put many on the fence The post As Senate race kicks off in Maine, some Jewish voters find themselves politically adrift appeared first on The Times of Israel .",
-          "sourceName": "The Times Of Israel",
-          "url": "https://www.timesofisrael.com/as-senate-race-kicks-off-in-maine-some-jewish-voters-find-themselves-politically-adrift/",
-          "publishedAt": "2026-07-29T00:03:31.000Z",
-          "sentiment": -0.3
-        },
-        {
-          "id": "02224fa6cd33ba96a810ac502e9bb91de1d2d725ab613375bafc43cdaeb842e4",
-          "title": "Dr. Anthony Fauci's journal reveals how Trump and Biden handled Covid cases",
-          "description": "Dr. Anthony Fauci's journal entries, published this week by a Republican senator, offer new details about how the administrations of Presidents Donald Trump and Joe Biden handled their Covid cases. NBC News’ Monica Alba explains the journal revelations as Fauci is set to testify before a Senate committee.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/video/dr-anthony-fauci-s-journal-reveals-how-trump-and-biden-handled-covid-cases-267420229839",
-          "publishedAt": "2026-07-28T23:44:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "19897aa72500f9b6b1bc71d8c03eb09aeada018bf3fd7e4018dbe8fe025a3734",
-          "title": "SHRIBMAN: The partying on the left",
-          "description": "FRYEBURG, Maine – Meet the new boss, same as the old boss. Except this one has a bad temper.",
-          "sourceName": "Herald-zeitung",
-          "url": "https://herald-zeitung.com/opinion/shribman-the-partying-on-the-left/article_100d3efb-60b6-4895-a994-13d56d5f3a95.html",
-          "publishedAt": "2026-07-28T23:30:00.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "012b673a66881d50e7ca82e3a78d0d17f2372d731357d0be2a9e9f921367fc25",
-          "title": "Trump meets with Israeli Prime Minister Netanyahu and Ukrainian President Zelenskyy at the White House",
-          "description": "President Donald Trump held closed-door meetings with Israeli Prime Minister Benjamin Netanyahu and Ukrainian President Volodymyr Zelenskyy at the White House before the world leaders paid their respects to the late Sen. Lindsey Graham. NBC News' Garrett Haake reports.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/video/trump-meets-with-israel-s-netanyahu-and-ukraine-s-zelenskyy-at-the-white-house-267417669795",
-          "publishedAt": "2026-07-28T23:19:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a9f8bbceacc4b5c26c2a2ebad9565744d02cd86884755e4d21863676693f596a",
-          "title": "Trump meets with Israeli Prime Minister Netanyahu and Ukrainian President Zelenskyy at the White House",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/trump-meets-with-israeli-prime-minister-netanyahu-and-ukrainian-president-zelenskyy-at-the-white-house-3D023AFD-FB2A-4E2E-A7A1-27A1CC5E5B86",
-          "publishedAt": "2026-07-28T23:19:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "12ac08a8d3a75b798db202ec89a0cc5719359a9295e0e408bf5048277d9b48d0",
-          "title": "‘This is way bigger’: Troy Jackson recalls working on Bernie Sanders presidential campaign",
-          "description": "The Democratic U.S. Senate nominee made his remarks on MS Now’s \"Morning Joe.\"",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/28/politics/elections/troy-jackson-bernie-sanders-presidential-campaign/",
-          "publishedAt": "2026-07-28T23:07:48.000Z",
-          "sentiment": 0.2
-        },
-        {
-          "id": "9088f5c3a473f4381842db3bd3e1eee07f9b0cee94816c0ad05e2eaa1ed99093",
-          "title": "Fact Check: Ad Claims Maine Senate Candidate Troy Jackson Hit a Woman, but Evidence Shows He Threw a Bottle That Struck No One",
-          "description": "A Republican super PAC ad accuses Maine Democratic Senate candidate Troy Jackson of hitting a female colleague. However, multiple witnesses and news reports confirm that Jackson threw a water bottle during an argument in 2021, but it did not strike anyone. The claim originates from a deleted social media post that the posting group later said contained unverified allegations.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/fact-check-ad-claims-maine-senate-candidate-troy-jackson-86043726",
-          "publishedAt": "2026-07-28T23:07:10.000Z",
+          "id": "5762e1bce3c38fcab339b1372adfb293cb4824ad1c518682322c63f9f2708838",
+          "title": "Get the Facts: Attack ad claims Troy Jackson hit a female colleague, but PolitiFact rates it as false",
+          "description": "A political ad paid for by the Senate Leadership Fund, a PAC that aims to protect the Republican majority in the U.S. Senate, focuses on the alleged temper of Maine's new Democratic Senate candidate and references what is know as the \"water bottle incident.\"",
+          "sourceName": "Yahoo! News",
+          "url": "https://ca.news.yahoo.com/facts-attack-ad-claims-troy-004607094.html",
+          "publishedAt": "2026-07-30T00:46:07.000Z",
           "sentiment": 0.7
         },
         {
-          "id": "5fa2616b9a5db869f3dfcb94748642c854a3e8577356cb0ad90ddbde1899e747",
-          "title": "Olympic canoeist's lawyers accuse DOJ of misleading grand jury in Reflecting Pool case",
-          "description": "A key grand jury witness in a case against a former Olympic canoeist, who is accused of tampering with the Lincoln Memorial Reflecting Pool, testified that the area was already damaged and would have required repairs regardless, lawyers said in a court filing. David “Davey” Hearn pleaded not guilty after being accused of damaging the liner of the Reflecting Pool. NBC News' Ryan Reilly explains.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/video/olympic-canoeist-s-lawyers-accuse-doj-of-misleading-grand-jury-in-reflecting-pool-case-267415621527",
-          "publishedAt": "2026-07-28T22:43:27.000Z",
+          "id": "afa864fda669b0569e6206a4f21e8adb3f1354bb6a6bcc5d0e8e327862391243",
+          "title": "John Fetterman has a big choice to make",
+          "description": "The senator looks increasingly uncomfortable inside his party, which fits him today less like a well-worn hoodie than a rumpled suit.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/senate/4668588/john-fetterman-republican-democrat-party-swtich/",
+          "publishedAt": "2026-07-30T00:38:56.000Z",
           "sentiment": 0
         },
         {
-          "id": "4ce27a189a54fbdf71292989a00efa8f0bbbfb8170c96abcce669ce1ecd9e273",
-          "title": "Susan Collins Trailing Graham Planter Replacement In Tight Maine Senate Race: Poll",
-          "description": "Dr. Andrew Smith, the director of the University of New Hampshire Survey Center, joined \"Forbes Newsroom\" to discuss a recent poll on Maine's Senate race.",
-          "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/susan-collins-trailing-graham-planter-215528365.html",
-          "publishedAt": "2026-07-28T21:55:28.000Z",
-          "sentiment": 0.1
+          "id": "d717efbafdd77932e7a17f131ea5dcda8de4d00be49f41561ac93ba102b4c877",
+          "title": "Letter: Time for Democrats to rally behind Troy Jackson",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4799204917350-letter-time-for-democrats-to-rally-behind-troy-jackson",
+          "publishedAt": "2026-07-30T00:00:00.000Z",
+          "sentiment": 0.8
         },
         {
-          "id": "2dc88d130a718b3fcf84c55e033b8c928a15e2dad2cda0fd6b78aba51fdc78f8",
-          "title": "Democrats flood Troy Jackson with cash as he races to catch Susan Collins",
-          "description": "Jackson and his rapidly organized campaign is showing signs of momentum, with state and national Democrats rallying behind him to help blunt the wide fundraising gap.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/28/politics/elections/national-democrats-rally-troy-jackson-fundraising-n6hjn1me0n/",
-          "publishedAt": "2026-07-28T21:54:23.000Z",
+          "id": "394db81bbbf87ece3b72f1a926932cd82bc9292b8562965461413df4d1d4fba7",
+          "title": "Accusation arises that U.S. Senate candidate Troy Jackson is ineligible to run",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news-center-maine-524552/4798965558588-accusation-arises-that-u-s-senate-candidate-troy-jackson-is-ineligible-to-run",
+          "publishedAt": "2026-07-30T00:00:00.000Z",
+          "sentiment": -0.6
+        },
+        {
+          "id": "303af09661c0b76bfb643baa441207e3cf2a7fc8a2575e0d77896fd618a7f235",
+          "title": "Troy Jackson meets with Sen. Chuck Schumer",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4799073753495-troy-jackson-meets-with-sen-chuck-schumer",
+          "publishedAt": "2026-07-30T00:00:00.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "54d77b594cc15ffa03deb597f747686d113f67a3e606540970825159eeafa44e",
+          "title": "Schumer Says He and Troy Jackson Are 'Working Together' (Torrie Herrington/NOTUS)",
+          "description": "Torrie Herrington / NOTUS : Schumer Says He and Troy Jackson Are ‘Working Together’ — The Maine Senate candidate has said in past interviews that he would not support Schumer as leader next year. — Copy — Senate Minority Leader Chuck Schumer said he met with Democratic Maine Senate hopeful Troy Jackson Wednesday morning.",
+          "sourceName": "Memeorandum",
+          "url": "https://www.memeorandum.com/260729/p130",
+          "publishedAt": "2026-07-29T22:25:01.000Z",
           "sentiment": 0.6
         },
         {
-          "id": "6dfdfea3b50ff36714fa9b036a7ec73b6255542a10dfc42a029536af044b4a2a",
-          "title": "Troy Jackson says ‘I was wrong’ to oppose abortion more than a decade ago",
-          "description": "The Democratic nominee for U.S. Senate addressed his evolution on a top issue for his party in a national interview on Tuesday.",
+          "id": "1e8db75947f4db06d2f070567a2b0ed05750c9b6b641552092e5ae73db1681bf",
+          "title": "Schumer Says He and Troy Jackson Are ‘Working Together’",
+          "description": "“Senate Minority Leader Chuck Schumer said he met with Democratic Maine Senate hopeful Troy Jackson Wednesday morning,” NOTUS reports. Said Schumer: “We had a great meeting this morning. We’re working together to win the seat, beat Susan Collins and take back the Senate.”",
+          "sourceName": "Political Wire",
+          "url": "https://politicalwire.com/2026/07/29/schumer-says-he-and-troy-jackson-are-working-together/",
+          "publishedAt": "2026-07-29T22:11:00.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "1e41eb2a9873299870078075ac3c91151d2fa91dde18658e661bc9951b8c2ac9",
+          "title": "Susan Collins votes to confirm Donald Trump’s intelligence pick",
+          "description": "U.S. Attorney Jay Clayton was confirmed with only Republican votes despite concerns about his role in subpoenaing journalists to reveal confidential sources.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/28/troy-jackson-says-i-was-wrong-to-oppose-abortion-more-than-a-decade-ago/",
-          "publishedAt": "2026-07-28T20:41:43.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "4bed0763c1529ca72ec3e74359ed40cacda958ddba0f383d0988ad6a42e9e317",
-          "title": "Troy Jackson says ‘I was wrong’ to oppose abortion more than a decade ago",
-          "description": "Maine's Democratic nominee for U.S. Senate addressed his evolution on a top issue for his party in a national interview on Tuesday.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/07/28/troy-jackson-says-i-was-wrong-to-oppose-abortion-more-than-a-decade-ago/",
-          "publishedAt": "2026-07-28T20:41:43.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "bb2f6f47679e1c1e7e72d5d34eb890a610fb9913020e1b4e09fcac83d385d593",
-          "title": "Troy Jackson says ‘I was wrong’ to oppose abortion more than a decade ago",
-          "description": "The Democratic nominee for U.S. Senate addressed his evolution on a top issue for his party in a national interview on Tuesday.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/07/28/troy-jackson-says-i-was-wrong-to-oppose-abortion-more-than-a-decade-ago/",
-          "publishedAt": "2026-07-28T20:41:43.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "a2d94b3fff9eaef9d9acf121b19621de19317a2c1ac2759c905ec2689241ee5e",
-          "title": "Backlash At FIFA Plan To Sell Stake In World Cup",
-          "description": "The U.K.’s new prime minister said “the greatest competition in world sport” is “never anyone’s to sell.”",
-          "sourceName": "Yahoo! News",
-          "url": "https://sports.yahoo.com/articles/backlash-fifa-plan-sell-stake-200658907.html",
-          "publishedAt": "2026-07-28T20:06:58.000Z",
+          "url": "https://www.pressherald.com/2026/07/29/susan-collins-votes-to-confirm-donald-trumps-intelligence-pick/",
+          "publishedAt": "2026-07-29T20:43:10.000Z",
           "sentiment": 0
         },
         {
-          "id": "f976460b65a16486814d862614281e39eb3a99904cbb7a9e6a4c9da4abc3f7ab",
-          "title": "Maine Democrats’ New Nominee Posts $2 Million in First 2 Days as Collins Holds $11 Million",
-          "description": "Troy Jackson greets supporters after being selected by the Maine Democratic Party to be their choice as the U.S. Senate nominee to replace Graham Platner on the ballot in November, in Bangor, Maine, on July 25, 2026. (Joe Raedle/Getty Images)",
-          "sourceName": "The Epoch Times",
-          "url": "https://www.theepochtimes.com/us/maine-democrats-new-nominee-posts-2-million-in-first-2-days-as-collins-holds-11-million-6068248",
-          "publishedAt": "2026-07-28T20:04:08.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "b4fa5eaf289b02d7fa5e5c72ff312559a390ba7b7851ad790a3ccecdb36963a8",
-          "title": "Maine Democrats’ New Nominee Posts $2 Million in First 2 Days as Collins Holds $11 Million",
-          "description": "Troy Jackson greets supporters after being selected by the Maine Democratic Party to be their choice as the U.S. Senate nominee to replace Graham Platner on the ballot in November, in Bangor, Maine, on July 25, 2026. Joe Raedle/Getty Images Maine Democratic Senate nominee Troy Jackson raised $2 million in the two days after winning [...] The post Maine Democrats’ New Nominee Posts $2 Million in First 2 Days as Collins Holds $11 Million appeared first on CBNC .",
-          "sourceName": "Cbnc",
-          "url": "https://cbnc.com/maine-democrats-new-nominee-posts-2-million-in-first-2-days-as-collins-holds-11-million/",
-          "publishedAt": "2026-07-28T20:04:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "a3ea25b4d4e26c4bb59aaa11fdc792cebbdf8fad526c645f8944f0c235df497c",
-          "title": "Trump recalls rocky start to friendship with Lindsey Graham",
-          "description": "During his tribute to the late Sen. Lindsey Graham, President Donald Trump reflects on the rocky start to their friendship amid the Republican primaries for the 2016 presidential election.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/video/trump-recalls-rocky-start-to-friendship-with-lindsey-graham-267400773875",
-          "publishedAt": "2026-07-28T18:55:12.000Z",
+          "id": "f94eb28a122ad84b43d5d910cf55c56433c6d4f71d5202d5a0423bcb3696b691",
+          "title": "The False Moderates, Part One: Why Democrats Campaign as Centrists, Then Rule as Radicals",
+          "description": "In recent years, Democratic candidates have championed moderate policies to win elections, only to govern as socialists, with the most blatant example being Virginia Gov. Abigail Spanberger. Spanberger managed to [...] The post The False Moderates, Part One: Why Democrats Campaign as Centrists, Then Rule as Radicals appeared first on The Western Journal .",
+          "sourceName": "The Western Journal",
+          "url": "https://www.westernjournal.com/false-moderates-part-one-democrats-campaign-centrists-rule-radicals/",
+          "publishedAt": "2026-07-29T20:40:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "46bbcc6ae4289a7c7c464dac58e30f834379c160fcc314003fdd67236340e9b3",
-          "title": "Watch President Trump's full tribute to Sen. Lindsey Graham",
-          "description": "Watch President Trump's full tribute to Sen. Lindsey Graham during the funeral service at Washington National Cathedral. The president recalled their past working together and previous rivalry running against each other in 2016.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/video/watch-president-trump-s-full-tribute-to-sen-lindsey-graham-267401285762",
-          "publishedAt": "2026-07-28T18:43:51.000Z",
+          "id": "156228684932fd3cddc0d35de1469f11dc79457bf65541ec2371cceb48364f26",
+          "title": "Exclusive—Tayte Christensen: Sophie Cunningham Said What Democrats Won’t",
+          "description": "When it comes to saying what needs to be said, WNBA star Sophie Cunningham is doing just that in a way that Senate Democrats won’t. The post Exclusive—Tayte Christensen: Sophie Cunningham Said What Democrats Won’t appeared first on Breitbart .",
+          "sourceName": "Brietbart",
+          "url": "https://www.breitbart.com/sports/2026/07/29/exclusive-tayte-christensen-sophie-cunningham-said-what-democrats-wont/",
+          "publishedAt": "2026-07-29T19:50:40.000Z",
           "sentiment": 0
         },
         {
-          "id": "2a63491dba91ebef940a01b9e36c1f9d0b98bad45be76ab27f4902ab3f2ad49b",
-          "title": "Trump honors 'beloved friend' and 'respected statesman' Sen. Lindsey Graham",
-          "description": "President Trump began his tribute to Sen. Lindsey Graham by remembering him as a \"beloved friend\" and \"respected statesman\" who dutifully served his country.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/video/trump-honors-beloved-friend-and-respected-statesman-sen-lindsey-graham-267399749753",
-          "publishedAt": "2026-07-28T18:35:48.000Z",
+          "id": "ea77f5687291e639d7ffbdb0e15d1a077edd304c40cf28fe70a372b1b0e4d1f8",
+          "title": "Janet Mills keeps cool on endorsement of Troy Jackson",
+          "description": "Jackson, a fifth-generation logger and former Maine Senate president, became the Democratic nominee last weekend.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4667750/janet-mills-cool-endorsement-troy-jackson-prominent-democrat-supporters/",
+          "publishedAt": "2026-07-29T18:52:22.000Z",
+          "sentiment": 0.3
+        },
+        {
+          "id": "cec618583a2d78f47a8c4a4c225fa05ed0eeb6086928865780ccab4328f2759c",
+          "title": "Mills calls Collins 'vulnerable' but stops short of endorsing Troy Jackson (Francis Flisiuk/WMTW-TV)",
+          "description": "Francis Flisiuk / WMTW-TV : Mills calls Collins ‘vulnerable’ but stops short of endorsing Troy Jackson — Governor Janet Mills says she has not spoken with newly nominated Democratic candidate for Senate Troy Jackson and declined to endorse him but believes Republican Senator Susan Collins “should be defeated.”",
+          "sourceName": "Memeorandum",
+          "url": "https://www.memeorandum.com/260729/p83",
+          "publishedAt": "2026-07-29T18:40:01.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "f6270833061d355e0fdd3c8ea4a7e25d8bb03f198d0657f11c0b1292a186c249",
+          "title": "EXCLUSIVE: Resurfaced video shows James Talarico discussing ‘exciting’ opportunity to end ‘over-policing’",
+          "description": "Resurfaced video shows James Talarico calling efforts to end over-policing \"really exciting\" after 2020 Black Lives Matter riots in Austin, Texas.",
+          "sourceName": "Fox News",
+          "url": "https://www.foxnews.com/politics/exclusive-resurfaced-video-shows-james-talarico-discussing-exciting-opportunity-end-over-policing",
+          "publishedAt": "2026-07-29T18:01:53.000Z",
           "sentiment": 0
         },
         {
-          "id": "4ae34e297f6a298505f575859db4c65ca677709d6e0077c5b1293abd2dedb927",
-          "title": "Maine’s new Democratic Senate candidate says Collins is ‘in trouble’ ahead of midterms",
-          "description": "Troy Jackson, fresh off securing Maine’s Democratic nomination for the Senate, told MS NOW that voters in his state are “fed up” with Sen. Susan Collins. The post Maine’s new Democratic Senate candidate says Collins is ‘in trouble’ ahead of midterms appeared first on MS NOW .",
-          "sourceName": "Ms Now",
-          "url": "https://www.ms.now/news/maine-troy-jackson-senate-race-susan-collins-congress-midterms",
-          "publishedAt": "2026-07-28T18:35:02.000Z",
+          "id": "6f73eb1a2777c86d30926fb2bfb62b2d4173ccf32a34fd681b302dbbefda7a44",
+          "title": "EXCLUSIVE: Resurfaced video shows James Talarico discussing ‘exciting’ opportunity to end ‘over-policing’",
+          "description": "EXCLUSIVE: A resurfaced video shows that following the 2020 Black Lives Matter riots in the... The post EXCLUSIVE: Resurfaced video shows James Talarico discussing ‘exciting’ opportunity to end ‘over-policing’ appeared first on Democratic Accent .",
+          "sourceName": "Democratic Accent",
+          "url": "https://www.democraticaccent.com/exclusive-resurfaced-video-shows-james-talarico-discussing-exciting-opportunity-to-end-over-policing/",
+          "publishedAt": "2026-07-29T18:01:53.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "47984f7a19941f32fa7006730060379949e47c5ef08662af240d27eab94e5083",
+          "title": "Josh Turek's chances of beating GOP in Iowa as Obama issues endorsement",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/josh-tureks-chances-of-beating-gop-in-iowa-as-obama-issues-endorsement-B2DC4344-6583-4F65-9988-C674BD2EDDDB",
+          "publishedAt": "2026-07-29T17:46:38.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1d7946f33da93da4ea7e54cdaeda98e8657a5ee40d38423a8ed125419a44fc17",
+          "title": "Maine Gov. Mills Stops Short of Troy Jackson Endorsement",
+          "description": "Maine Gov. Janet Mills said Tuesday that Sen. Susan Collins, R-Maine, is vulnerable in her reelection bid and \"should be defeated\" but stopped short of endorsing Democrat Senate nominee Troy Jackson.",
+          "sourceName": "Newsmax.com",
+          "url": "https://www.newsmax.com/newsfront/maine-janet-mills-troy-jackson/2026/07/29/id/1264425",
+          "publishedAt": "2026-07-29T17:41:36.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "39c8254b444ba0457882c8439185adf0f340f56ee48d8f73ac4e2194f2f4f5b1",
+          "title": "Maine Senate candidate Troy Jackson deletes posts supporting Graham Platner",
+          "description": "Maine Democratic Senate nominee Troy Jackson has deleted multiple social media posts supporting his ill-fated predecessor, Graham Platner.",
+          "sourceName": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/jul/29/maine-senate-candidate-troy-jackson-deletes-posts-supporting-graham/",
+          "publishedAt": "2026-07-29T17:12:18.000Z",
+          "sentiment": -0.4
+        },
+        {
+          "id": "664ef7bb8173af68fd71afbcc1c72f684be84dd1a7b4743e839faa0dde3bd6ce",
+          "title": "Mills declines to endorse Jackson in Maine Senate race",
+          "description": "Maine Gov. Janet Mills (D) on Tuesday declined to endorse Troy Jackson, the state's Democratic nominee for Senate, months out from the general election. “We haven’t spoken, but clearly Susan Collins is vulnerable, and she should be — she should be defeated,” Mills said in an interview with WMTW News 8. Jackson earned the party...",
+          "sourceName": "The Hill",
+          "url": "https://thehill.com/homenews/campaign/5997136-mills-declines-jackson-endorsement-maine-senate-race/",
+          "publishedAt": "2026-07-29T16:43:31.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "35db6aaa9c071c8d8e5c3418818bfddf53316dee6e6bc42b50984f2e821b85fa",
+          "title": "Mills declines to endorse Jackson in Maine Senate race - The Hill",
+          "description": "Mills declines to endorse Jackson in Maine Senate race The Hill The Logger Who Could Unseat Susan Collins The Nation Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins AP News Susan Collins Trailing Graham Platner Replacement In Tight Maine Senate Race: Poll Forbes Maine Dem in hot seat for championing popular vote despite clinching Senate bid without it Fox News",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcG8zSEs1YWdhdUZvYm9YdXdxOEY2R2ViTnlJaEdqLXlSZnhQRHNXVFROclVMUDFHelBpSEpFaDZsUm9XVnF5Z3RFX3ZDalJhR2VjX0xMTXpObHVnZ1d4N3RfRmZjSW8wR3pqY0RWNU9mTW1MVE9PaE5SeFJRYnAyMVNxQ0tnZ0ZWdWV1dFlhYWlveWFNSWxTSjQ4V0VYSkVr0gGmAUFVX3lxTE1KWHRnQ2dsMG9LLXBpTDdwVDB1SnRWRFNtMV9jazhBY0ZHVWtGb0pYekNla2JWNW9zdF9QTVRtV1cyTURiRDhNOVlwbG5LNlR5ZGNNWEdOSlphZkhybkEwdXB3NDA3eEhPQjlrSExxVzFaNFpYRlhQdEFrMERWR2FIblB1bWlZNkQ2a2xCNnJNNXdJdFZPN3NfM24wZTFFOUcwakx1R2c?oc=5",
+          "publishedAt": "2026-07-29T16:43:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "89625ed450f874e9e83743f74e505d205e28e94b2fd6b9308a743b38a67300e7",
+          "title": "Maine Democratic Governor Refuses To Endorse Platner Replacement",
+          "description": "Maine Democratic Gov. Janet Mills on Tuesday refused to endorse Troy Jackson, the last-minute candidate party elites chose to replace accused rapist Graham Platner on the November ballot. In an interview with local outlet WMTW, Mills said she has not spoken with Jackson and stopped short of endorsing him, adding that she still wants to ...",
+          "sourceName": "The Daily Wire",
+          "url": "https://www.dailywire.com/news/maine-democratic-governor-refuses-to-endorse-platner-replacement",
+          "publishedAt": "2026-07-29T16:03:08.000Z",
+          "sentiment": -0.4
+        },
+        {
+          "id": "b8968b89932ad74ffdb0bbf5a002aeb6e157a027000253cd477a6de5950d2385",
+          "title": "Nearly 4 in 10 Mainers view socialism positively",
+          "description": "U.S. Sen. Susan Collins has tried to brand her new Democratic opponent, Troy Jackson, as a socialist and \"Bernie bro.\"",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/07/29/politics/elections/maine-election-poll-socialism/",
+          "publishedAt": "2026-07-29T15:29:30.000Z",
           "sentiment": 0.4
         },
         {
-          "id": "64f0cf8767ca7e48a25c29380a0ba85ef4e35c9d69fa67d836da839818d58396",
-          "title": "Maine Republican claims Troy Jackson is ineligible to run for US Senate",
-          "description": "Just two days after Maine Democrats chose Troy Jackson to challenge Senator Susan Collins, a Maine Republican is claiming Jackson is ineligible to run.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/maine-republican-claims-troy-jackson-is-ineligible-to-run-86036485",
-          "publishedAt": "2026-07-28T18:07:46.000Z",
-          "sentiment": -0.4
-        },
-        {
-          "id": "09f1f760192286aad7bf03a8b6da21335007b26068de0a95a1f9c53e3f20ab00",
-          "title": "President Trump to Eulogize Sen. Lindsey Graham at National Cathedral",
-          "description": "Sen. Lindsey Graham will be eulogized by President Trump at his funeral at the National Cathedral in Washington, D.C., attended by many members of Congress, Israeli Prime Minister Benjamin Netanyahu and Ukrainian President Volodymyr Zelenskyy.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/president-trump-to-eulogize-sen-lindsey-graham-at-national-86036835",
-          "publishedAt": "2026-07-28T18:07:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "89de616f47d49677ac91de6ff0cc98365d3a8cad4c6a7dc724ef4e2cea8d9cbe",
-          "title": "Maine Republican claims Troy Jackson is ineligible to run for US Senate",
-          "description": "Just two days after Maine Democrats chose Troy Jackson to challenge Senator Susan Collins, a Maine Republican is claiming Jackson is ineligible to run.",
-          "sourceName": "Ktul",
-          "url": "https://ktul.com/news/nation-world/maine-republican-claims-troy-jackson-is-ineligible-to-run-for-us-senate-senator-susan-collins-graham-platner",
-          "publishedAt": "2026-07-28T17:38:52.000Z",
-          "sentiment": -0.4
-        },
-        {
-          "id": "b44a44a16d158c73be8c3620c6854cea8c676c842c8c1b43b01d2e9a7390203f",
-          "title": "Maine Republican claims Troy Jackson is ineligible to run for US Senate",
-          "description": "Just two days after Maine Democrats chose Troy Jackson to challenge Senator Susan Collins, a Maine Republican is claiming Jackson is ineligible to run.",
-          "sourceName": "Wgxa",
-          "url": "https://wgxa.tv/news/nation-world/maine-republican-claims-troy-jackson-is-ineligible-to-run-for-us-senate-senator-susan-collins-graham-platner",
-          "publishedAt": "2026-07-28T17:38:52.000Z",
-          "sentiment": -0.4
-        },
-        {
-          "id": "09edb1c4890c36bc70c3bc7a1840a391f0f2c9362ad54ca549aaf31331ac3f10",
-          "title": "Maine Republican claims Troy Jackson is ineligible to run for US Senate",
-          "description": "Just two days after Maine Democrats chose Troy Jackson to challenge Senator Susan Collins, a Maine Republican is claiming Jackson is ineligible to run.",
-          "sourceName": "Kutv",
-          "url": "https://kutv.com/news/nation-world/maine-republican-claims-troy-jackson-is-ineligible-to-run-for-us-senate-senator-susan-collins-graham-platner",
-          "publishedAt": "2026-07-28T17:38:51.000Z",
-          "sentiment": -0.4
-        },
-        {
-          "id": "7a71e6896e9cd46e0ecfade31a79e3dbb75ad6d66c8ab9781cb7b1dcb3f5c2f3",
-          "title": "Maine Republican claims Troy Jackson is ineligible to run for US Senate",
-          "description": "Just two days after Maine Democrats chose Troy Jackson to challenge Senator Susan Collins, a Maine Republican is claiming Jackson is ineligible to run.",
-          "sourceName": "Ksnv",
-          "url": "https://news3lv.com/news/nation-world/maine-republican-claims-troy-jackson-is-ineligible-to-run-for-us-senate-senator-susan-collins-graham-platner",
-          "publishedAt": "2026-07-28T17:38:42.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "b5d8ac00156942173886a2afd3d9a56e11a5b93409c8eb33d3a7be7de7ec94d1",
-          "title": "Maine Republican claims Troy Jackson is ineligible to run for US Senate",
-          "description": "Just two days after Maine Democrats chose Troy Jackson to challenge Senator Susan Collins, a Maine Republican is claiming Jackson is ineligible to run.",
-          "sourceName": "Katv",
-          "url": "https://katv.com/news/nation-world/maine-republican-claims-troy-jackson-is-ineligible-to-run-for-us-senate-senator-susan-collins-graham-platner",
-          "publishedAt": "2026-07-28T17:38:41.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "efdfeed4431508ea1a3711e50caa737e1d071376ea48c060405dc88de8fef5bb",
-          "title": "Maine Republican claims Troy Jackson is ineligible to run for US Senate",
-          "description": "Just two days after Maine Democrats chose Troy Jackson to challenge Senator Susan Collins, a Maine Republican is claiming Jackson is ineligible to run.",
-          "sourceName": "Wtvc",
-          "url": "https://newschannel9.com/news/nation-world/maine-republican-claims-troy-jackson-is-ineligible-to-run-for-us-senate-senator-susan-collins-graham-platner",
-          "publishedAt": "2026-07-28T17:38:38.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "abf8ae8b2d6ad4bc10dcecc0372096f089a3164abdcd978c94b4b5c02d7f73ca",
-          "title": "Democrats Seeking Senate Seats Hope Voters Will Forget About Their Support for Anthony Fauci",
-          "description": "Anthony Fauci is set to testify before the Senate tomorrow about the federal government’s response to COVID-19, revisiting the outcomes...",
-          "sourceName": "Townhall",
-          "url": "https://townhall.com/columnists/tayte-christensen/2026/07/28/democrats-seeking-senate-seats-hope-voters-will-forget-about-their-support-for-anthony-fauci-n2680270",
-          "publishedAt": "2026-07-28T17:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "53059ef772c1e1e56c333979fe12821e3d94587cc580b4e18746a7518d337d0e",
-          "title": "Here’s what Trump’s “greatest” year looks like",
-          "description": "In today’s edition of The Tea, Spilled by Morning Joe: Trump’s comments in Michigan, the Supreme Court’s job approval rating at historic lows, and more. The post Here’s what Trump’s “greatest” year looks like appeared first on MS NOW .",
-          "sourceName": "Ms Now",
-          "url": "https://www.ms.now/news/news-analysis/heres-what-trumps-greatest-year-looks-like",
-          "publishedAt": "2026-07-28T16:22:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "326c6089ab43c450e7367b43175aa1e381a3535c302d55fb63c47af866c38680",
-          "title": "Kamala Harris backs US Senate candidate who replaced Graham Platner: 'I know what it is like'",
-          "description": "Former Vice President Kamala Harris declared her support for Maine Democratic U.S. Senate candidate Troy Jackson, drawing a parallel between his run and her 2024 presidential bid.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/kamala-harris-backs-us-senate-candidate-who-replaced-graham-86031572",
-          "publishedAt": "2026-07-28T16:07:05.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "f3628e9f0ce53d860f06c0acbf7a42d450cd06f513fea9522e3e30c22f2d4989",
-          "title": "Harris endorses Troy Jackson and compares nomination to her 2024 race(Kiss OF Death, JT)",
-          "description": "Former Vice President Kamala Harris compared Democratic Senate nominee Troy Jackson’s last-minute campaign in Maine to her own abbreviated 2024 presidential bid as she endorsed the former logger in his race to unseat Sen. Susan Collins (R-ME). Jackson officially secured the Democratic nomination Saturday, and he now has less than 100 days to mount a [...] The post Harris endorses Troy Jackson and compares nomination to her 2024 race(Kiss OF Death, JT) appeared first on CBNC .",
-          "sourceName": "Cbnc",
-          "url": "https://cbnc.com/harris-endorses-troy-jackson-and-compares-nomination-to-her-2024-race/",
-          "publishedAt": "2026-07-28T15:58:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "52ffbac202f23a5ab49af7372c2f1e5e3b8f61811ad73c2cd2b83e86ed6798e4",
-          "title": "Vance remembers Graham as someone who 'loved people from all walks of life'",
-          "description": "Vice President JD Vance spoke at the U.S. Capitol funeral service for Sen. Lindsey Graham, remembering their time working together in the Senate and as someone who 'loved people from all walks of life.'",
-          "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/vance-remembers-graham-as-someone-who-loved-people-from-86030140",
-          "publishedAt": "2026-07-28T15:37:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e0841da8a9ea58ac2302f529ec1d923b2733306741e1d7027a5cee294060df77",
-          "title": "Cal Thomas: Troy Jackson is Graham Platner lite",
-          "description": null,
-          "sourceName": "West Central Tribune",
-          "url": "https://www.wctrib.com/opinion/columns/cal-thomas-troy-jackson-is-graham-platner-lite",
-          "publishedAt": "2026-07-28T15:25:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "e54555db8074a8586943d2f7edb12e37b98f38e2686e4112ee141d2321e0960b",
-          "title": "DSCC puts $40 million into 10 key states ahead of midterm elections",
-          "description": "The Democratic Senatorial Campaign Committee is investing $40 million to boost the party's chances of flipping control of the Senate.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4665612/dscc-40-million-dollars-10-states-midterm-elections/",
-          "publishedAt": "2026-07-28T15:19:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e0ee0e4956df71a50a68cbe12ffaa776cb047d9ac560139fb6a9433382117ae7",
-          "title": "Vance remembers Graham as someone who 'loved people from all walks of life'",
-          "description": "Vice President JD Vance spoke at the U.S. Capitol funeral service for Sen. Lindsey Graham, remembering their time working together in the Senate and as someone who \"loved people from all walks of life.\"",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/video/vance-speaks-at-funeral-service-for-sen-lindsey-graham-267387461685",
-          "publishedAt": "2026-07-28T14:36:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9347fcf00a7e71c4c9092287f66124829af0df466c2c77b28e73922e678886b7",
-          "title": "Kamala Harris backs US Senate candidate who replaced Graham Platner: ‘I know what it is like’",
-          "description": "Former Vice President Kamala Harris backed Democratic Maine U.S. Senate candidate Troy Jackson. “I know... The post Kamala Harris backs US Senate candidate who replaced Graham Platner: ‘I know what it is like’ appeared first on Democratic Accent .",
-          "sourceName": "Democratic Accent",
-          "url": "https://www.democraticaccent.com/kamala-harris-backs-us-senate-candidate-who-replaced-graham-platner-i-know-what-it-is-like/",
-          "publishedAt": "2026-07-28T14:34:48.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "d2ca1d6a18c13dfad07bd797af168605e4947cb2c8be4367452471aab269927e",
-          "title": "Kamala Harris backs US Senate candidate who replaced Graham Platner: 'I know what it is like'",
-          "description": "Former Vice President Kamala Harris declared her support for Maine Democratic U.S. Senate candidate Troy Jackson, drawing a parallel between his run and her 2024 presidential bid.",
-          "sourceName": "Fox News",
-          "url": "https://www.foxnews.com/politics/kamala-harris-backs-us-senate-candidate-replaced-graham-platner-know-what-like",
-          "publishedAt": "2026-07-28T14:34:48.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "a29d4de391f148e7bc9e0bbc247c3d9f0c41a23b513cdfac307a3e4c7d64d878",
-          "title": "Matt Dunlap says he’d welcome DCCC support in battleground Maine district",
-          "description": "Maine state Auditor Matt Dunlap, the Democratic nominee for the state's 2nd District, attends the party's nominating convention in Bangor on Saturday. (Tom Williams/CQ Roll Call)",
-          "sourceName": "Roll Call",
-          "url": "https://rollcall.com/2026/07/28/matt-dunlap-says-hed-welcome-dccc-support-in-battleground-maine-district/",
-          "publishedAt": "2026-07-28T14:26:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "085b8e0388dc4984ee60745412d90cd39368e79d891e2b6d4da1212a19515af4",
-          "title": "Harris backs Troy Jackson in Maine Senate race",
-          "description": "Former Vice President Kamala Harris has endorsed former state Sen. Troy Jackson (D-Maine) in Maine’s Democratic U.S. Senate race following Jackson’s official replacement of Graham Platner on Saturday. Harris received the Democratic Presidential nomination in Aug. 2024 after former President Biden decided to end his bid for a second term. Jackson’s condensed campaign timeline, Harris...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/5993813-harris-endorses-jackson-maine/",
-          "publishedAt": "2026-07-28T14:15:47.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "6f8b86ee5a91e1f4739f28499a9b1f1c9bfee56a23b0b7fbf0f5621eb43d2300",
-          "title": "Maine Democrats Name Troy Jackson to Challenge Long‐Time Incumbent Susan Collins",
-          "description": "Maine Democrats have selected Troy Jackson as their new Senate candidate after former nominee Anthony Platner withdrew amid controversy. With less than 100 days to build a statewide campaign, Jackson faces the task of quickly consolidating the grassroots coalition that Platner had built while distancing himself from the scandals that derailed his predecessor's bid. The race for Collins's seat is seen as a key battleground for control of the Senate after the November midterms, with substantial outside spending already poured into both sides.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/maine-democrats-name-troy-jackson-to-challenge-long-time-86027001",
-          "publishedAt": "2026-07-28T14:08:13.000Z",
+          "id": "83116a44b548dddb09f08239e39ba2ec47d3c44f7d8042a154081f9176dc3c1e",
+          "title": "Wisconsin Socialist Gov Candidate's Campaign Denies She Wants to Abolish Senate, Despite Post From Campaign Acct Saying 'Abolish the Senate'",
+          "description": "Francesca Hong is the latest Democratic Socialists of America darling to shoot to a surprising lead in a Democratic primary, this one for Wisconsin governor. This has been a boon [...] The post Wisconsin Socialist Gov Candidate's Campaign Denies She Wants to Abolish Senate, Despite Post From Campaign Acct Saying 'Abolish the Senate' appeared first on The Western Journal .",
+          "sourceName": "The Western Journal",
+          "url": "https://www.westernjournal.com/wisconsin-socialist-gov-candidates-campaign-denies-wants-abolish-senate-despite-post-campaign-acct-saying-abolish-senate/",
+          "publishedAt": "2026-07-29T14:18:00.000Z",
           "sentiment": 0
         }
       ],
