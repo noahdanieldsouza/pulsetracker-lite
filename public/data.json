@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T20:47:13.877Z",
+  "lastUpdated": "2026-07-31T21:49:38.212Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11195305941744003,
+      "overallSentiment": 0.10384173282086284,
       "newsSentiment": -0.3142857142857143,
-      "socialSentiment": 0.059900990099009906,
+      "socialSentiment": 0.03556701030927835,
       "mentions": {
         "news": 35,
-        "social": 202,
+        "social": 194,
         "youtube": 41,
-        "total": 278
+        "total": 270
       },
       "news": [
         {
@@ -386,6 +386,70 @@
         }
       ],
       "social": [
+        {
+          "id": "5072b4cec4a60a9d813a5ff3caa123bb3c9a400726699f392ea91756a5d80250",
+          "authorHandle": "offalcute.bsky.social",
+          "postText": "Ms Rachel’s endorsements: \n\nAbdul El-Sayed - MI\nCori Bush - MO-01\nJustin J. Pearson - TN-09\nJarrett Keohokalole - HI-01\nPeggy Flanagan - MN\nВесса Balint - VT-AL\nWilliam Lawrence - MI-7\nElijah Manley - FL-20\nTroy Jackson - ME\nDonavan Mckinney - MI-13\nOliver Larkin - FL-25\nAngie Nixon - FL",
+          "createdAt": "2026-07-31T21:45:57.912Z",
+          "uri": "at://did:plc:kj5lenxhvsogg4jm37iyp4q7/app.bsky.feed.post/3mrxwimalfs23",
+          "sentiment": -0.3
+        },
+        {
+          "id": "6f440493ac73e19b4848e72fb527dcb7026bf18671cc9720dc10201a745076f2",
+          "authorHandle": "theoldprof.bsky.social",
+          "postText": "It's Troy Jackson. And he looks good in a suit, by the way.",
+          "createdAt": "2026-07-31T21:40:58.186Z",
+          "uri": "at://did:plc:yslzhqpmvu5eiwsrjubnbglr/app.bsky.feed.post/3mrxw7ofkdc2p",
+          "sentiment": 0.6
+        },
+        {
+          "id": "653fe9313fdd34e54a9f2ae29b7872b1e4a6d3b49191ed48c110346c12589f48",
+          "authorHandle": "midnitreebandit.bsky.social",
+          "postText": "Also, you're in Florida.  You know fuckall about what's happening in Maine, apparently, because Troy Jackson is the candidate now (and a far better one, who will probably lose anyway because of Platner and Fight Agency's fuckery).",
+          "createdAt": "2026-07-31T21:37:04.240Z",
+          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mrxvypc3gs2k",
+          "sentiment": 0.7
+        },
+        {
+          "id": "2fb56ebb647032b20a568ea1475902ddb30cc0c70f95870ed4a089f69220ea4c",
+          "authorHandle": "cmaurand.bsky.social",
+          "postText": "Troy Jackson",
+          "createdAt": "2026-07-31T21:23:10.058Z",
+          "uri": "at://did:plc:s5mvlqf6px7jgcszsek3h6jq/app.bsky.feed.post/3mrxv7tqvkk2u",
+          "sentiment": 0
+        },
+        {
+          "id": "7424dbbdb4351bdd08d215c10e3fed38c353c5f495ae6dd1800ed94524afbbef",
+          "authorHandle": "jeffrey-muller.bsky.social",
+          "postText": "nypost.com/2026/07/31/u...\nDemocrats need to get better at vetting candidates",
+          "createdAt": "2026-07-31T21:20:13.168Z",
+          "uri": "at://did:plc:tm2mx7mkj3fdi6c7furaxdgc/app.bsky.feed.post/3mrxv2l2mgs2h",
+          "sentiment": -0.4
+        },
+        {
+          "id": "d991addd96fee9ba137edc1cd97cecf80d3eaeb409723fbbb47e9571ec88afe9",
+          "authorHandle": "goldieaz.bsky.social",
+          "postText": "Troy Jackson whose long term partner is his 2nd cousin.\nThey have 2 adult sons together.\nThose far left white guys sure no how to pick candidates.\nbsky.app/profile/gold...",
+          "createdAt": "2026-07-31T21:14:33.055Z",
+          "uri": "at://did:plc:ybyscr5pdwxpqxfcrdzbcmsc/app.bsky.feed.post/3mrxuqgpgnk2a",
+          "sentiment": -0.7
+        },
+        {
+          "id": "153ef2dd98c00893e561d34362761c3cf8519d6c5702a26237168f6243e21635",
+          "authorHandle": "newzjunky.bsky.social",
+          "postText": "Maine Democratic Senate candidate Troy Jackson shares two kids with his longtime love — who also happens to be his second cousin, according to a report.\n\nReported by Stephanie Kaloi\nMEDIAITE",
+          "createdAt": "2026-07-31T21:14:31.586Z",
+          "uri": "at://did:plc:ijka245x7d5jvzyzj7agncun/app.bsky.feed.post/3mrxuqfcebc27",
+          "sentiment": 0
+        },
+        {
+          "id": "34032c4527585718160981733a24e52c4069688437f7b1866066a27e7001e526",
+          "authorHandle": "kheine.bsky.social",
+          "postText": "Umm, I believe his name Troy Jackson.",
+          "createdAt": "2026-07-31T21:01:05.626Z",
+          "uri": "at://did:plc:u4t3gqw257fkermstdlzpjp4/app.bsky.feed.post/3mrxtyeofxc2i",
+          "sentiment": 0.1
+        },
         {
           "id": "327d4f3720ef18a36c3213fab89c6dcfdbe27be7e24c666925968d454c3881f8",
           "authorHandle": "b-lus.bsky.social",
@@ -1873,134 +1937,6 @@
           "createdAt": "2026-07-30T21:49:48.612Z",
           "uri": "at://did:plc:5gsjldkwl4ev6qhdcmemmqqw/app.bsky.feed.post/3mrvgaks7fk2x",
           "sentiment": 0.7
-        },
-        {
-          "id": "95ebf233c3aec6c66854f581a0410690407cb21eecb66ed5fd6b685bc07b89bb",
-          "authorHandle": "simonwdc.skystack.xyz",
-          "postText": "Meet Troy Jackson, The Man Who Can Beat Susan Collins • Troy rallied the party behind him quickly and leads Susan Collins 49%-46% in first general election poll. ",
-          "createdAt": "2026-07-30T21:45:32.286Z",
-          "uri": "at://did:plc:ck5bkad7wlvlr2ppx2rr2ase/app.bsky.feed.post/3mrvmfbtx5c2u",
-          "sentiment": 0.7
-        },
-        {
-          "id": "d5ba5044d423c45a9f3ff40ea8bd8d7af28a8d8b9e7c1831bf07ddd8a0e9e029",
-          "authorHandle": "hopiumchronicles.com.web.brid.gy",
-          "postText": "\n\n[Audio] [Original post on hopiumchronicles.com]",
-          "createdAt": "2026-07-30T21:45:32.000Z",
-          "uri": "at://did:plc:2ltdqox75ohyp3w7iw2xu2k3/app.bsky.feed.post/3mrvgvyw6go42",
-          "sentiment": 0
-        },
-        {
-          "id": "81e97b114286c69c192fb3f1ab3f34011ffb4701d5dbacabb3d52db9f5a7752a",
-          "authorHandle": "exstarwarsfan.bsky.social",
-          "postText": "I believe the rape allegations and am glad he dropped out. I am glad the party abandoned him immediately and that his volunteer base was also fast to abandon him. I think Troy Jackson will be a good senator",
-          "createdAt": "2026-07-30T21:43:17.903Z",
-          "uri": "at://did:plc:ed5oqpalvgonzan7je3gtgkz/app.bsky.feed.post/3mrvfuw6nos2x",
-          "sentiment": 1
-        },
-        {
-          "id": "f22bb796260b97d404a16612c33eb953507ee36785b68b93aa309dec4108b0d0",
-          "authorHandle": "samd.bsky.social",
-          "postText": "thankfully the ME senate thing basically worked out with Troy Jackson but it’s kinda crazy how it feels like the senate primaries have either been fantastic or awful",
-          "createdAt": "2026-07-30T21:34:16.909Z",
-          "uri": "at://did:plc:gouysuoxatjdb5bjcqe4sfh7/app.bsky.feed.post/3mrvfesaw6222",
-          "sentiment": 0.5
-        },
-        {
-          "id": "6f328b7cfe894a2087dd7f0063177fbeb4fcfcbe25cde6e12e41a572f4caf5ae",
-          "authorHandle": "betsygarrold.bsky.social",
-          "postText": "@janetmillsforme.bsky.social needs to grow the heck up and endorse Troy Jackson...or maybe she thinks having Susan as our Senator is a good idea...what is wrong with this woman",
-          "createdAt": "2026-07-30T21:34:07.745Z",
-          "uri": "at://did:plc:b5vy67g5wvajpwexmhtbmrhr/app.bsky.feed.post/3mrvfejj5zc2i",
-          "sentiment": 0.5
-        },
-        {
-          "id": "471226ebe1ef36d8275ce460360edf7c98d4da88b5fd4486257ba270a714dfc5",
-          "authorHandle": "newsmax.com",
-          "postText": "Maine Sen. Nominee Jackson Faces Online Posts Scrutiny",
-          "createdAt": "2026-07-30T21:30:10Z",
-          "uri": "at://did:plc:flijdq6nzuscczuhvv2lt7bp/app.bsky.feed.post/3mrvf5gzka42z",
-          "sentiment": 0
-        },
-        {
-          "id": "002131cde97b780eb3f46c03e6dccbf1d185652c037480c4ce43b1018c67d28d",
-          "authorHandle": "bsfavourite.bsky.social",
-          "postText": "Maine Sen. Nominee Jackson Faces Online Posts Scrutiny",
-          "createdAt": "2026-07-30T21:27:09Z",
-          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mrvey2jky324",
-          "sentiment": 0
-        },
-        {
-          "id": "f64a1af86b991786d5f27540dce2f77a06ca5bb9d9e588faf9395b9507150a0a",
-          "authorHandle": "adamhotep.infosec.exchange.ap.brid.gy",
-          "postText": "I stand happily corrected: they nominated Troy Jackson, a progressive\nhttps://flipboard.com/@npr/all-things-considered-ji18657oz/-/a-NXebt7O9TeSfqf3hjMw9cA%3Aa%3A3195441-%2F0",
-          "createdAt": "2026-07-30T21:24:02.000Z",
-          "uri": "at://did:plc:gal6wqxyp3z7ggmgcs3mb76p/app.bsky.feed.post/3mrveskwy6ye2",
-          "sentiment": 0.5
-        },
-        {
-          "id": "eca33d3e822fb1414ff760f042ddd9acfa3aeb8e5d85b6841c1403421e0f9632",
-          "authorHandle": "blabalino.com",
-          "postText": "We seriously need this to work out but the people I know in Maine still have concerns.\ntime.com/article/2026...",
-          "createdAt": "2026-07-30T21:17:44.342Z",
-          "uri": "at://did:plc:zjcdv6sffcgm6fjdaowf2sel/app.bsky.feed.post/3mrveh7o3jk2t",
-          "sentiment": 0
-        },
-        {
-          "id": "a9f55dad79e283b3ccc050001359a3d3804d764d7c4607f44dd820cac368b2df",
-          "authorHandle": "meada.bsky.social",
-          "postText": "All the more motivation for Dems to rally around Roy Cooper (NC) Troy Jackson (Maine) Sherrod Brown (Ohio) Josh Turek (Iowa) and James Talarico (TX).  Vote blue no matter who.",
-          "createdAt": "2026-07-30T21:16:19.037Z",
-          "uri": "at://did:plc:qx5kal4h33sud3munpr4oqbu/app.bsky.feed.post/3mrveeocqv22r",
-          "sentiment": 0.5
-        },
-        {
-          "id": "4c5fb25aeaf115efbeeea0fc7922c88926acc26153a81a788a19a0c2a7eefc80",
-          "authorHandle": "nsignificannot.bsky.social",
-          "postText": "Good for Troy Jackson.",
-          "createdAt": "2026-07-30T21:11:08.721Z",
-          "uri": "at://did:plc:ipiewgi3ov2lr4yveax4ps2t/app.bsky.feed.post/3mrve3geovc2j",
-          "sentiment": 1
-        },
-        {
-          "id": "d6e37218af67a1e5040a5e57807675cbb52909b1edb0ee7e447fa8131f62e96c",
-          "authorHandle": "capitalistfool.bsky.social",
-          "postText": "www.jacksonformaine.com",
-          "createdAt": "2026-07-30T21:09:24.005Z",
-          "uri": "at://did:plc:iq4dgqv2ejszt3sxfnoljrvc/app.bsky.feed.post/3mrvdyciy7327",
-          "sentiment": 0
-        },
-        {
-          "id": "b49cd1ebd7abfe981b35f44812c03e6f9ad901b57ccc5ea3921c2f93ca3ca279",
-          "authorHandle": "capitalistfool.bsky.social",
-          "postText": "www.jacksonformaine.com",
-          "createdAt": "2026-07-30T21:09:11.454Z",
-          "uri": "at://did:plc:iq4dgqv2ejszt3sxfnoljrvc/app.bsky.feed.post/3mrvdxwjydl27",
-          "sentiment": 0
-        },
-        {
-          "id": "38c93eb7ef22d821978c751a872ad56a2d5c67a03f514da8741344960d06db8a",
-          "authorHandle": "meada.bsky.social",
-          "postText": "All the more motivation for Dems to rally around Roy Cooper (NC) Troy Jackson (Maine) Sherrod Brown (Ohio) Josh Turek (Iowa) and James Talarico (TX).  Vote blue no matter who.",
-          "createdAt": "2026-07-30T21:06:34.974Z",
-          "uri": "at://did:plc:qx5kal4h33sud3munpr4oqbu/app.bsky.feed.post/3mrvdtbckuc2r",
-          "sentiment": 0.5
-        },
-        {
-          "id": "b5a1c7a75e2268c98cb12f84e857e6f29e8eb397ba3e3b299f61d604736be8f7",
-          "authorHandle": "jasonbeets.newsie.social.ap.brid.gy",
-          "postText": "The Democratic Victory Fund is currently raising money for 4 US Senate candidates: Abdul El-Sayed in Michigan, Troy Jackson in Maine, James Talarico in Texas, and Josh Turek in Iowa.\n\n33/x\n\n#Senate #Michigan #Maine #Texas #Iowa #Democrats #Elections #Politics #USPol #News",
-          "createdAt": "2026-07-30T20:54:35.000Z",
-          "uri": "at://did:plc:ngfdhi777rqkkg6webs67jeq/app.bsky.feed.post/3mrvd657gkzt2",
-          "sentiment": 0.5
-        },
-        {
-          "id": "cc8944cd3e201b111596d7adcd3e3c5fc3a5acd81f96c010e6a3b6152c4bb512",
-          "authorHandle": "mattpb.bsky.social",
-          "postText": "...for the record, this is who Maine Dems ANGRILY DEMANDED stay out of the convention process that got Troy Jackson the nomination for Senate. \n\n...the same Troy Jackson Susan Collins is hanging Platner onto like an albatross with his own words in ads. :-| \n\n\"JACKSON STOOD BY PLATNER\", etc., etc.",
-          "createdAt": "2026-07-30T20:50:50.325Z",
-          "uri": "at://did:plc:dlfk422nufhdwikldgfgebmc/app.bsky.feed.post/3mrvcx4g72c2g",
-          "sentiment": -0.5
         }
       ],
       "youtube": [
