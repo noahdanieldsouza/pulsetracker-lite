@@ -1,20 +1,30 @@
 {
-  "lastUpdated": "2026-07-31T12:19:52.606Z",
+  "lastUpdated": "2026-07-31T13:56:44.503Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
-      "newsSentiment": null,
+      "overallSentiment": -1,
+      "newsSentiment": -1,
       "socialSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 0,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
-      "news": [],
+      "news": [
+        {
+          "id": "10064d5cfab3091a448ebab17f696db9b0952e3830e22524ad75388f2ae1e9c7",
+          "title": "Trump open to ‘punting’ Blanche’s AG nomination amid pushback from key GOP senators",
+          "description": "NBC News correspondents Monica Alba, Julie Tsirkin and Ryan Reilly discuss President Trump's clashes with Senate Republicans over passing the SAVE America Act and Todd Blanche's nomination to serve as Attorney General.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/meet-the-press/video/trump-open-to-punting-blanche-s-ag-nomination-amid-pushback-from-key-gop-senators-267540037784",
+          "publishedAt": "2026-07-30T20:27:22.000Z",
+          "sentiment": -1
+        }
+      ],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -22,16 +32,26 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.65,
-      "newsSentiment": null,
+      "overallSentiment": -0.325,
+      "newsSentiment": 0,
       "socialSentiment": -0.65,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 2,
         "youtube": 0,
-        "total": 2
+        "total": 3
       },
-      "news": [],
+      "news": [
+        {
+          "id": "eab3184421008c2d0ac0907eee110e6056e714027b423c20a0a45c93ca258d64",
+          "title": "Connecticut firefighters on vacation in Maine credited with saving two people from house fire",
+          "description": "SCARBOROUGH, Maine — Two Connecticut firefighters vacationing in Maine are being credited with saving two people from a house fire Tuesday afternoon, according to the Scarborough Fire Department. The firefighters were passing Sea Meadows Lane on their way to Old Orchard Beach around 12:25 p.m. on July 28 when they spotted smoke coming from a [...] The post Connecticut firefighters on vacation in Maine credited with saving two people from house fire appeared first on News Pub . The post Connecticut firefighters on vacation in Maine credited with saving two people from house fire appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/northeast/maine/connecticut-firefighters-on-vacation-in-maine-credited-with-saving-two-people-from-house-fire/",
+          "publishedAt": "2026-07-30T23:47:05.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [
         {
           "id": "427eb240c890fe83eb68e254f9b0c5f7c94e8a525dc95c4a4d48a615568a8161",
@@ -56,213 +76,330 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.13462337662337662,
-      "newsSentiment": 0.07272727272727274,
+      "overallSentiment": 0.005619047619047625,
+      "newsSentiment": -0.3142857142857143,
       "socialSentiment": 0.164,
       "mentions": {
-        "news": 22,
+        "news": 35,
         "social": 175,
         "youtube": 35,
-        "total": 232
+        "total": 245
       },
       "news": [
         {
-          "id": "5762e1bce3c38fcab339b1372adfb293cb4824ad1c518682322c63f9f2708838",
-          "title": "Get the Facts: Attack ad claims Troy Jackson hit a female colleague, but PolitiFact rates it as false",
-          "description": "A political ad paid for by the Senate Leadership Fund, a PAC that aims to protect the Republican majority in the U.S. Senate, focuses on the alleged temper of Maine's new Democratic Senate candidate and references what is know as the \"water bottle incident.\"",
-          "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/facts-attack-ad-claims-troy-004607094.html",
-          "publishedAt": "2026-07-30T00:46:07.000Z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "afa864fda669b0569e6206a4f21e8adb3f1354bb6a6bcc5d0e8e327862391243",
-          "title": "John Fetterman has a big choice to make",
-          "description": "The senator looks increasingly uncomfortable inside his party, which fits him today less like a well-worn hoodie than a rumpled suit.",
+          "id": "a3f5904c9c5f6fd111be5c82b6dd986db7779e1c7d1d7cc76fdee665f468baea",
+          "title": "Troy Jackson swapped out Senate campaign official also behind the super PAC backing Abdul el Sayed",
+          "description": "The now-former manager of Troy Jackson’s Senate campaign fund in Maine is also the treasurer of the PAC supporting Michigan Senate candidate Abdul el Sayed.",
           "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/senate/4668588/john-fetterman-republican-democrat-party-swtich/",
-          "publishedAt": "2026-07-30T00:38:56.000Z",
-          "sentiment": 0
+          "url": "https://www.washingtonexaminer.com/news/investigations/4669758/troy-jackson-swapped-out-campaign-official-super-pac-el-sayed/",
+          "publishedAt": "2026-07-31T01:51:43.000Z",
+          "sentiment": -1
         },
         {
-          "id": "d717efbafdd77932e7a17f131ea5dcda8de4d00be49f41561ac93ba102b4c877",
-          "title": "Letter: Time for Democrats to rally behind Troy Jackson",
+          "id": "9354a0e79c79ed277ec693fee4d1d4f3cc80fd3fe216e1c3f4da95795f58d777",
+          "title": "The Latest Troy Jackson Story Dropped. You Wouldn't Expect It...and Neither Would 23andMe.",
+          "description": "Is this an election-disqualifying story? No. There is no Nazi tattoo or any claim of sexual assault or misconduct. It’s...",
+          "sourceName": "Townhall",
+          "url": "https://townhall.com/news/mattvespa/2026/07/30/the-latest-troy-jackson-story-dropped-you-wouldnt-expect-itand-neither-would-23andme-n2680428",
+          "publishedAt": "2026-07-31T00:00:29.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "1a53a621185f4f1896ef6f7a8fc6b2d4b9afa4550907c2578f8f0051b4bc6f4e",
+          "title": "Letter: Support Troy Jackson for Medicare for all",
           "description": null,
           "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4799204917350-letter-time-for-democrats-to-rally-behind-troy-jackson",
-          "publishedAt": "2026-07-30T00:00:00.000Z",
-          "sentiment": 0.8
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4801285838043-letter-support-troy-jackson-for-medicare-for-all",
+          "publishedAt": "2026-07-31T00:00:00.000Z",
+          "sentiment": 1
         },
         {
-          "id": "394db81bbbf87ece3b72f1a926932cd82bc9292b8562965461413df4d1d4fba7",
-          "title": "Accusation arises that U.S. Senate candidate Troy Jackson is ineligible to run",
+          "id": "e7c17dbcee5e074f2091bd5839f3dd8db72a3f05153d8aaf4f09c1303dd7143a",
+          "title": "Report: Maine Democrat Troy Jackson, Longtime Partner Are Second Cousins with 2 Children",
           "description": null,
           "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news-center-maine-524552/4798965558588-accusation-arises-that-u-s-senate-candidate-troy-jackson-is-ineligible-to-run",
-          "publishedAt": "2026-07-30T00:00:00.000Z",
-          "sentiment": -0.6
+          "url": "https://www.newsbreak.com/news/4801153221224-report-maine-democrat-troy-jackson-longtime-partner-are-second-cousins-with-2-children",
+          "publishedAt": "2026-07-31T00:00:00.000Z",
+          "sentiment": -1
         },
         {
-          "id": "303af09661c0b76bfb643baa441207e3cf2a7fc8a2575e0d77896fd618a7f235",
-          "title": "Troy Jackson meets with Sen. Chuck Schumer",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4799073753495-troy-jackson-meets-with-sen-chuck-schumer",
-          "publishedAt": "2026-07-30T00:00:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "54d77b594cc15ffa03deb597f747686d113f67a3e606540970825159eeafa44e",
-          "title": "Schumer Says He and Troy Jackson Are 'Working Together' (Torrie Herrington/NOTUS)",
-          "description": "Torrie Herrington / NOTUS : Schumer Says He and Troy Jackson Are ‘Working Together’ — The Maine Senate candidate has said in past interviews that he would not support Schumer as leader next year. — Copy — Senate Minority Leader Chuck Schumer said he met with Democratic Maine Senate hopeful Troy Jackson Wednesday morning.",
-          "sourceName": "Memeorandum",
-          "url": "https://www.memeorandum.com/260729/p130",
-          "publishedAt": "2026-07-29T22:25:01.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "1e8db75947f4db06d2f070567a2b0ed05750c9b6b641552092e5ae73db1681bf",
-          "title": "Schumer Says He and Troy Jackson Are ‘Working Together’",
-          "description": "“Senate Minority Leader Chuck Schumer said he met with Democratic Maine Senate hopeful Troy Jackson Wednesday morning,” NOTUS reports. Said Schumer: “We had a great meeting this morning. We’re working together to win the seat, beat Susan Collins and take back the Senate.”",
-          "sourceName": "Political Wire",
-          "url": "https://politicalwire.com/2026/07/29/schumer-says-he-and-troy-jackson-are-working-together/",
-          "publishedAt": "2026-07-29T22:11:00.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "1e41eb2a9873299870078075ac3c91151d2fa91dde18658e661bc9951b8c2ac9",
-          "title": "Susan Collins votes to confirm Donald Trump’s intelligence pick",
-          "description": "U.S. Attorney Jay Clayton was confirmed with only Republican votes despite concerns about his role in subpoenaing journalists to reveal confidential sources.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/07/29/susan-collins-votes-to-confirm-donald-trumps-intelligence-pick/",
-          "publishedAt": "2026-07-29T20:43:10.000Z",
+          "id": "a488543c31f6d7e2e94569f7d3948c1894f4d3b16fddd1bb693db27c3a101a02",
+          "title": "Connecticut firefighters on vacation in Maine credited with saving two people from house fire",
+          "description": "SCARBOROUGH, Maine — Two Connecticut firefighters vacationing in Maine are being credited with saving two people from a house fire Tuesday afternoon, according to the Scarborough Fire Department. The firefighters were passing Sea Meadows Lane on their way to Old Orchard Beach around 12:25 p.m. on July 28 when they spotted smoke coming from a [...] The post Connecticut firefighters on vacation in Maine credited with saving two people from house fire appeared first on News Pub . The post Connecticut firefighters on vacation in Maine credited with saving two people from house fire appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/northeast/maine/connecticut-firefighters-on-vacation-in-maine-credited-with-saving-two-people-from-house-fire/",
+          "publishedAt": "2026-07-30T23:47:05.000Z",
           "sentiment": 0
         },
         {
-          "id": "f94eb28a122ad84b43d5d910cf55c56433c6d4f71d5202d5a0423bcb3696b691",
-          "title": "The False Moderates, Part One: Why Democrats Campaign as Centrists, Then Rule as Radicals",
-          "description": "In recent years, Democratic candidates have championed moderate policies to win elections, only to govern as socialists, with the most blatant example being Virginia Gov. Abigail Spanberger. Spanberger managed to [...] The post The False Moderates, Part One: Why Democrats Campaign as Centrists, Then Rule as Radicals appeared first on The Western Journal .",
-          "sourceName": "The Western Journal",
-          "url": "https://www.westernjournal.com/false-moderates-part-one-democrats-campaign-centrists-rule-radicals/",
-          "publishedAt": "2026-07-29T20:40:00.000Z",
-          "sentiment": 0
+          "id": "dd295519f25252a7a85645482de7532ac8d2e4842c9d69d6c72401fa0b59f5e4",
+          "title": "Maine Dems Swap Nazi Senate Candidate for Guy Who Fathered Kids With His Second Cousin",
+          "description": "Maine politics on the Democrat side of things is truly fascinating. To begin with, we had Graham Platner running for...",
+          "sourceName": "Twitchy",
+          "url": "https://twitchy.com/justmindy/2026/07/30/troy-jackson-married-to-second-cousin-n2430805",
+          "publishedAt": "2026-07-30T23:30:06.000Z",
+          "sentiment": -1
         },
         {
-          "id": "156228684932fd3cddc0d35de1469f11dc79457bf65541ec2371cceb48364f26",
-          "title": "Exclusive—Tayte Christensen: Sophie Cunningham Said What Democrats Won’t",
-          "description": "When it comes to saying what needs to be said, WNBA star Sophie Cunningham is doing just that in a way that Senate Democrats won’t. The post Exclusive—Tayte Christensen: Sophie Cunningham Said What Democrats Won’t appeared first on Breitbart .",
-          "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/sports/2026/07/29/exclusive-tayte-christensen-sophie-cunningham-said-what-democrats-wont/",
-          "publishedAt": "2026-07-29T19:50:40.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ea77f5687291e639d7ffbdb0e15d1a077edd304c40cf28fe70a372b1b0e4d1f8",
-          "title": "Janet Mills keeps cool on endorsement of Troy Jackson",
-          "description": "Jackson, a fifth-generation logger and former Maine Senate president, became the Democratic nominee last weekend.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4667750/janet-mills-cool-endorsement-troy-jackson-prominent-democrat-supporters/",
-          "publishedAt": "2026-07-29T18:52:22.000Z",
-          "sentiment": 0.3
-        },
-        {
-          "id": "cec618583a2d78f47a8c4a4c225fa05ed0eeb6086928865780ccab4328f2759c",
-          "title": "Mills calls Collins 'vulnerable' but stops short of endorsing Troy Jackson (Francis Flisiuk/WMTW-TV)",
-          "description": "Francis Flisiuk / WMTW-TV : Mills calls Collins ‘vulnerable’ but stops short of endorsing Troy Jackson — Governor Janet Mills says she has not spoken with newly nominated Democratic candidate for Senate Troy Jackson and declined to endorse him but believes Republican Senator Susan Collins “should be defeated.”",
-          "sourceName": "Memeorandum",
-          "url": "https://www.memeorandum.com/260729/p83",
-          "publishedAt": "2026-07-29T18:40:01.000Z",
-          "sentiment": -0.3
-        },
-        {
-          "id": "f6270833061d355e0fdd3c8ea4a7e25d8bb03f198d0657f11c0b1292a186c249",
-          "title": "EXCLUSIVE: Resurfaced video shows James Talarico discussing ‘exciting’ opportunity to end ‘over-policing’",
-          "description": "Resurfaced video shows James Talarico calling efforts to end over-policing \"really exciting\" after 2020 Black Lives Matter riots in Austin, Texas.",
+          "id": "6d75aad7cd3f2dd8a88d6eda36cf48b1a535eb7fa9e6ea901263ac293275d921",
+          "title": "Carville says one democratic socialist's 'lunacy of the highest level' policy could haunt swing state Dems",
+          "description": "James Carville warns that democratic socialist candidates in Michigan and Wisconsin primaries could taint the entire Democratic Party's image nationally.",
           "sourceName": "Fox News",
-          "url": "https://www.foxnews.com/politics/exclusive-resurfaced-video-shows-james-talarico-discussing-exciting-opportunity-end-over-policing",
-          "publishedAt": "2026-07-29T18:01:53.000Z",
+          "url": "https://www.foxnews.com/media/carville-democratic-socialist-lunacy-highest-level-policy-haunt-swing-state-dems",
+          "publishedAt": "2026-07-30T23:15:04.000Z",
           "sentiment": 0
         },
         {
-          "id": "6f73eb1a2777c86d30926fb2bfb62b2d4173ccf32a34fd681b302dbbefda7a44",
-          "title": "EXCLUSIVE: Resurfaced video shows James Talarico discussing ‘exciting’ opportunity to end ‘over-policing’",
-          "description": "EXCLUSIVE: A resurfaced video shows that following the 2020 Black Lives Matter riots in the... The post EXCLUSIVE: Resurfaced video shows James Talarico discussing ‘exciting’ opportunity to end ‘over-policing’ appeared first on Democratic Accent .",
-          "sourceName": "Democratic Accent",
-          "url": "https://www.democraticaccent.com/exclusive-resurfaced-video-shows-james-talarico-discussing-exciting-opportunity-to-end-over-policing/",
-          "publishedAt": "2026-07-29T18:01:53.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "47984f7a19941f32fa7006730060379949e47c5ef08662af240d27eab94e5083",
-          "title": "Josh Turek's chances of beating GOP in Iowa as Obama issues endorsement",
+          "id": "88dd45d6cff98d225083ae9c24675d3deed48dda9b41d29682e84328eedd5be2",
+          "title": "Resistance is rising against the woke culture * WorldNetDaily * by Robert Knight",
           "description": null,
           "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/josh-tureks-chances-of-beating-gop-in-iowa-as-obama-issues-endorsement-B2DC4344-6583-4F65-9988-C674BD2EDDDB",
-          "publishedAt": "2026-07-29T17:46:38.000Z",
+          "url": "https://www.bundle.app/en/breaking-news/resistance-is-rising-against-the-woke-culture-worldnetdaily-by-robert-knight-D42D1992-7F9D-4085-A21C-0A53ADD24C90",
+          "publishedAt": "2026-07-30T22:54:17.000Z",
           "sentiment": 0
         },
         {
-          "id": "1d7946f33da93da4ea7e54cdaeda98e8657a5ee40d38423a8ed125419a44fc17",
-          "title": "Maine Gov. Mills Stops Short of Troy Jackson Endorsement",
-          "description": "Maine Gov. Janet Mills said Tuesday that Sen. Susan Collins, R-Maine, is vulnerable in her reelection bid and \"should be defeated\" but stopped short of endorsing Democrat Senate nominee Troy Jackson.",
-          "sourceName": "Newsmax.com",
-          "url": "https://www.newsmax.com/newsfront/maine-janet-mills-troy-jackson/2026/07/29/id/1264425",
-          "publishedAt": "2026-07-29T17:41:36.000Z",
-          "sentiment": -0.3
+          "id": "8c4640ab37d72ddc23cb82bc95fda9e2b2bd79b1babdc457efe2295b28a0af15",
+          "title": "Resistance is rising against the woke culture",
+          "description": "'The Democrat Party is clearly lurching into full-tilt Graham Platner territory'",
+          "sourceName": "Worldnetdaily",
+          "url": "https://www.wnd.com/2026/07/resistance-is-rising-against-woke-culture/",
+          "publishedAt": "2026-07-30T22:54:17.000Z",
+          "sentiment": 0
         },
         {
-          "id": "39c8254b444ba0457882c8439185adf0f340f56ee48d8f73ac4e2194f2f4f5b1",
-          "title": "Maine Senate candidate Troy Jackson deletes posts supporting Graham Platner",
-          "description": "Maine Democratic Senate nominee Troy Jackson has deleted multiple social media posts supporting his ill-fated predecessor, Graham Platner.",
-          "sourceName": "The Washington Times",
-          "url": "https://www.washingtontimes.com/news/2026/jul/29/maine-senate-candidate-troy-jackson-deletes-posts-supporting-graham/",
-          "publishedAt": "2026-07-29T17:12:18.000Z",
-          "sentiment": -0.4
-        },
-        {
-          "id": "664ef7bb8173af68fd71afbcc1c72f684be84dd1a7b4743e839faa0dde3bd6ce",
-          "title": "Mills declines to endorse Jackson in Maine Senate race",
-          "description": "Maine Gov. Janet Mills (D) on Tuesday declined to endorse Troy Jackson, the state's Democratic nominee for Senate, months out from the general election. “We haven’t spoken, but clearly Susan Collins is vulnerable, and she should be — she should be defeated,” Mills said in an interview with WMTW News 8. Jackson earned the party...",
+          "id": "3adc17968081977a04a2dc2e55af4ab07fb7c7e2996cddf615f036b0a135ae6d",
+          "title": "Turek declines to say he'd back Schumer",
+          "description": "Iowa State Rep. Joshua Turek (D) declined to answer whether he would support Senate Minority Leader Chuck Schumer (D-N.Y.) to lead Democrats in the next Congress as midterms come closer. In an interview with former Press Secretary Jen Psaki on MS NOW, Turek did not answer whether he would support Schumer’s leadership and instead said...",
           "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/campaign/5997136-mills-declines-jackson-endorsement-maine-senate-race/",
-          "publishedAt": "2026-07-29T16:43:31.000Z",
-          "sentiment": -0.3
-        },
-        {
-          "id": "35db6aaa9c071c8d8e5c3418818bfddf53316dee6e6bc42b50984f2e821b85fa",
-          "title": "Mills declines to endorse Jackson in Maine Senate race - The Hill",
-          "description": "Mills declines to endorse Jackson in Maine Senate race The Hill The Logger Who Could Unseat Susan Collins The Nation Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins AP News Susan Collins Trailing Graham Platner Replacement In Tight Maine Senate Race: Poll Forbes Maine Dem in hot seat for championing popular vote despite clinching Senate bid without it Fox News",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcG8zSEs1YWdhdUZvYm9YdXdxOEY2R2ViTnlJaEdqLXlSZnhQRHNXVFROclVMUDFHelBpSEpFaDZsUm9XVnF5Z3RFX3ZDalJhR2VjX0xMTXpObHVnZ1d4N3RfRmZjSW8wR3pqY0RWNU9mTW1MVE9PaE5SeFJRYnAyMVNxQ0tnZ0ZWdWV1dFlhYWlveWFNSWxTSjQ4V0VYSkVr0gGmAUFVX3lxTE1KWHRnQ2dsMG9LLXBpTDdwVDB1SnRWRFNtMV9jazhBY0ZHVWtGb0pYekNla2JWNW9zdF9QTVRtV1cyTURiRDhNOVlwbG5LNlR5ZGNNWEdOSlphZkhybkEwdXB3NDA3eEhPQjlrSExxVzFaNFpYRlhQdEFrMERWR2FIblB1bWlZNkQ2a2xCNnJNNXdJdFZPN3NfM24wZTFFOUcwakx1R2c?oc=5",
-          "publishedAt": "2026-07-29T16:43:00.000Z",
+          "url": "https://thehill.com/homenews/6000956-iowa-senate-candidate-turek-schumer/",
+          "publishedAt": "2026-07-30T22:17:58.000Z",
           "sentiment": 0
         },
         {
-          "id": "89625ed450f874e9e83743f74e505d205e28e94b2fd6b9308a743b38a67300e7",
-          "title": "Maine Democratic Governor Refuses To Endorse Platner Replacement",
-          "description": "Maine Democratic Gov. Janet Mills on Tuesday refused to endorse Troy Jackson, the last-minute candidate party elites chose to replace accused rapist Graham Platner on the November ballot. In an interview with local outlet WMTW, Mills said she has not spoken with Jackson and stopped short of endorsing him, adding that she still wants to ...",
+          "id": "4014c4dee9da3f722ae79f9a5091f40607c8082a1d9beae135654f173bfa209e",
+          "title": "The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories",
+          "description": "By Gina Park, CNN 👋 Welcome to 5 Things PM! Sky-gazers are in for a real treat, especially those in the Southern Hemisphere. A double meteor shower is set to peak tonight. Here’s what else you might have missed during your busy day. 5 things 1️⃣ Price we pay The promise of longer-term gains often The post The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories appeared first on KESQ .",
+          "sourceName": "Kesq",
+          "url": "https://kesq.com/news/national-world/cnn-national/2026/07/30/the-costs-of-ai-feeling-crabby-double-meteor-shower-catch-up-on-the-days-stories/",
+          "publishedAt": "2026-07-30T20:58:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "263647bb37bb9bc7ca551b4058bbca1863a6631c577f7d110cce2204a24748e3",
+          "title": "The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories",
+          "description": "By Gina Park, CNN 👋 Welcome to 5 Things PM! Sky-gazers are in for a real treat, especially those in the Southern Hemisphere. A double meteor shower is set to peak tonight.Here’s what else you might have missed during your busy day.5 things1️⃣ Price we payThe promise of longer-term gains often is preceded by short- The post The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories appeared first on KVIA .",
+          "sourceName": "Kvia",
+          "url": "https://kvia.com/cnn-national/2026/07/30/the-costs-of-ai-feeling-crabby-double-meteor-shower-catch-up-on-the-days-stories/",
+          "publishedAt": "2026-07-30T20:58:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "80c0fccf68e6ee4623b2838e43aea4a8bc8252f474e073c8d03e13f07a553819",
+          "title": "The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories",
+          "description": "By Gina Park, CNN 👋 Welcome to 5 Things PM! Sky-gazers are in for a real treat, especially those in the Southern Hemisphere. A double meteor shower is set to peak tonight. Here’s what else you might have missed during your busy day. 5 things 1️⃣ Price we pay The promise of longer-term gains often The post The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories appeared first on News Channel 3-12 .",
+          "sourceName": "News Channel 3-12",
+          "url": "https://keyt.com/news/national-world/cnn-national/2026/07/30/the-costs-of-ai-feeling-crabby-double-meteor-shower-catch-up-on-the-days-stories/",
+          "publishedAt": "2026-07-30T20:58:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "11de86f7fd2a3e4c4b744555f5f6ce6516223a5f9b0801915425cf540aa9030a",
+          "title": "The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories",
+          "description": "By Gina Park, CNN 👋 Welcome to 5 Things PM! Sky-gazers are in for a real treat, especially those in the Southern Hemisphere. A double meteor shower is set to peak tonight. Here’s what else you might have missed during your busy day. 5 things 1️⃣ Price we pay The promise of longer-term gains often The post The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories appeared first on KRDO .",
+          "sourceName": "Krdo",
+          "url": "https://krdo.com/news/2026/07/30/the-costs-of-ai-feeling-crabby-double-meteor-shower-catch-up-on-the-days-stories/",
+          "publishedAt": "2026-07-30T20:58:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "83da006b00abccf2a3e54dbe54130c4b5ae084c0a89d674f625c3732e9110074",
+          "title": "The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories",
+          "description": "By Gina Park, CNN 👋 Welcome to 5 Things PM! Sky-gazers are in for a real treat, especially those in the Southern Hemisphere. A double meteor shower is set to peak tonight. Here’s what else you might have missed during your busy day. 5 things 1️⃣ Price we pay The promise of longer-term gains often The post The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories appeared first on ABC17NEWS .",
+          "sourceName": "Abc 17 News",
+          "url": "https://abc17news.com/news/national-world/cnn-national/2026/07/30/the-costs-of-ai-feeling-crabby-double-meteor-shower-catch-up-on-the-days-stories/",
+          "publishedAt": "2026-07-30T20:58:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2e839cd47ea0921548c8d7500c76f0b3d87c3d5f113df2fb43f07a877a0778dd",
+          "title": "The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories",
+          "description": "By Gina Park, CNN 👋 Welcome to 5 Things PM! Sky-gazers are in for a real treat, especially those in the Southern Hemisphere. A double meteor shower is set to peak tonight. Here’s what else you might have missed during your busy day. 5 things 1️⃣ Price we pay The promise of longer-term gains often The post The costs of AI, feeling crabby, double meteor shower: Catch up on the day’s stories appeared first on KTVZ .",
+          "sourceName": "Ktvz",
+          "url": "https://ktvz.com/news/national-world/cnn-national/2026/07/30/the-costs-of-ai-feeling-crabby-double-meteor-shower-catch-up-on-the-days-stories/",
+          "publishedAt": "2026-07-30T20:58:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f194e192d4d159a5b6b5d75e120d770d3f1d9ab5cb11b22602af800e4eb09f29",
+          "title": "Maine Sen. Nominee Jackson Faces Online Posts Scrutiny",
+          "description": "U.S. Senate nominee Troy Jackson, a former Democrat state senator from Maine, is facing renewed scrutiny after records linked him to an anonymous online account that repeatedly attacked then-Gov. Paul LePage during a bitter political feud more than a decade ago.",
+          "sourceName": "Newsmax.com",
+          "url": "https://www.newsmax.com/newsfront/maine-senate-midterms/2026/07/30/id/1264584",
+          "publishedAt": "2026-07-30T20:54:29.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "633efa94ee93231ff1e58ad524ed59315cd9101f09756773233b5628792660a4",
+          "title": "Troy Jackson is about to go under the national microscope. Here's a look at his past",
+          "description": "Troy Jackson is about to go under the national microscope. Here's a look at his past",
+          "sourceName": "Npr",
+          "url": "https://www.npr.org/2026/07/30/nx-s1-5911944/troy-jackson-is-about-to-go-under-the-national-microscope-heres-a-look-at-his-past",
+          "publishedAt": "2026-07-30T20:31:20.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "06970eb1202c216fa27ecbac5b19ed63973e3d008a8ef15391b0f1408caa189f",
+          "title": "Elon Musk Is Firing Up the Vote-Buying Machine Again",
+          "description": "America PAC will spend at least $100 million to elect Republicans. And probably much more.",
+          "sourceName": "Gizmodo",
+          "url": "https://gizmodo.com/elon-musk-money-midterms-republicans-2000793042",
+          "publishedAt": "2026-07-30T20:00:42.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "874b785a3c0574d698f16aa627d6868c7f29f65e53b24118d72f664b4343ad75",
+          "title": "Graham Platner’s Replacement Accused Of Having Kids With Cousin",
+          "description": "Democratic U.S. Senate candidate Troy Jackson has two children with his second cousin — longtime partner Lana Pelletier — according to genealogical records first reported by journalist Steve Robinson. Jackson, a former Maine Senate president, became the Democrats’ nominee after the party’s previous candidate, Graham Platner, withdrew from the race amid rape allegations, forcing Democrats ...",
           "sourceName": "The Daily Wire",
-          "url": "https://www.dailywire.com/news/maine-democratic-governor-refuses-to-endorse-platner-replacement",
-          "publishedAt": "2026-07-29T16:03:08.000Z",
-          "sentiment": -0.4
+          "url": "https://www.dailywire.com/news/graham-platners-replacement-accused-of-having-kids-with-cousin",
+          "publishedAt": "2026-07-30T19:55:51.000Z",
+          "sentiment": -1
         },
         {
-          "id": "b8968b89932ad74ffdb0bbf5a002aeb6e157a027000253cd477a6de5950d2385",
-          "title": "Nearly 4 in 10 Mainers view socialism positively",
-          "description": "U.S. Sen. Susan Collins has tried to brand her new Democratic opponent, Troy Jackson, as a socialist and \"Bernie bro.\"",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/07/29/politics/elections/maine-election-poll-socialism/",
-          "publishedAt": "2026-07-29T15:29:30.000Z",
-          "sentiment": 0.4
+          "id": "1f1971857941fbc989dd4bf80bdeb981163e52a30c60c9acfafd98d46e687c24",
+          "title": "Troy Jackson ran anonymous account to troll Republicans online (CNN)",
+          "description": "CNN : Troy Jackson ran anonymous account to troll Republicans online — In 2012, Troy Jackson had plenty to say about Maine politics. An outspoken Democratic state lawmaker, Jackson openly feuded with then-Republican Gov. Paul LePage. — But in private, Jackson also took shots at LePage anonymously.",
+          "sourceName": "Memeorandum",
+          "url": "https://www.memeorandum.com/260730/p120",
+          "publishedAt": "2026-07-30T19:40:01.000Z",
+          "sentiment": -1
         },
         {
-          "id": "83116a44b548dddb09f08239e39ba2ec47d3c44f7d8042a154081f9176dc3c1e",
-          "title": "Wisconsin Socialist Gov Candidate's Campaign Denies She Wants to Abolish Senate, Despite Post From Campaign Acct Saying 'Abolish the Senate'",
-          "description": "Francesca Hong is the latest Democratic Socialists of America darling to shoot to a surprising lead in a Democratic primary, this one for Wisconsin governor. This has been a boon [...] The post Wisconsin Socialist Gov Candidate's Campaign Denies She Wants to Abolish Senate, Despite Post From Campaign Acct Saying 'Abolish the Senate' appeared first on The Western Journal .",
-          "sourceName": "The Western Journal",
-          "url": "https://www.westernjournal.com/wisconsin-socialist-gov-candidates-campaign-denies-wants-abolish-senate-despite-post-campaign-acct-saying-abolish-senate/",
-          "publishedAt": "2026-07-29T14:18:00.000Z",
+          "id": "60420e6a262c7a7090532aaf3689009e8b6ccd59b2b2cf5f5bf2ce78808e9675",
+          "title": "Would a Janet Mills endorsement help Troy Jackson in the Maine Senate race?",
+          "description": "The governor suspended her own senate campaign in April and polling has shown her favorability rating underwater.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/30/would-a-janet-mills-endorsement-help-troy-jackson-in-the-maine-senate-race/",
+          "publishedAt": "2026-07-30T19:26:36.000Z",
           "sentiment": 0
+        },
+        {
+          "id": "dd7f63acf33a547331411c8b644f18454eb794313c473b1af8af44e32ebc4aed",
+          "title": "Would a Janet Mills endorsement help Troy Jackson in the Maine Senate race?",
+          "description": "The governor suspended her own senate campaign in April and polling has shown her favorability rating underwater.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/30/would-a-janet-mills-endorsement-help-troy-jackson-in-the-maine-senate-race/",
+          "publishedAt": "2026-07-30T19:26:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d8309b7ad31b022ecb68b6c830ef879e81a6fd34133d6714a9f12c8d614a3949",
+          "title": "Would a Janet Mills endorsement help Troy Jackson in the Maine Senate race?",
+          "description": "The governor suspended her own senate campaign in April and polling has shown her favorability rating underwater.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/07/30/would-a-janet-mills-endorsement-help-troy-jackson-in-the-maine-senate-race/",
+          "publishedAt": "2026-07-30T19:26:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e0643b83b10b36fc2aa6d14c218ce6b896f4850eab1925b981330496eea55cbe",
+          "title": "Is ‘abolish ICE’ a winner for Democrats?",
+          "description": "Is the slogan convincing voters that Democrats have a better approach to immigration?",
+          "sourceName": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/07/30/opinion/abolish-ice-slogan-democrats-immigration/",
+          "publishedAt": "2026-07-30T19:23:16.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "be9933a6d218a3b4d63957f07004e5ae69b2bb7f625e08ab2fc94530e5728b0b",
+          "title": "Federal judge blocks DOJ access to NJ voter rolls amid statewide controversy",
+          "description": "NEWYou can now listen to Fox News articles! A federal judge in New Jersey blocked the Justice Department from gaining access to the state’s unredacted voter rolls on Wednesday. District Judge Zahid Quraishi, a Biden appointee, ruled that handing over the rolls could give rise to privacy concerns for voters. The ruling is the latest [...] The post Federal judge blocks DOJ access to NJ voter rolls amid statewide controversy appeared first on News Pub . The post Federal judge blocks DOJ access to NJ voter rolls amid statewide controversy appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/politics/federal-judge-blocks-doj-access-to-nj-voter-rolls-amid-statewide-controversy/",
+          "publishedAt": "2026-07-30T18:53:06.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "184fed4d975b66d51f22b2b089646f9d2b9faf63dbf6f2ec201397617340c9c4",
+          "title": "Trump running out of options to fix inflation, economic woes before election, experts say",
+          "description": "WASHINGTON — With three months remaining until election day, there is now little the Trump administration can do to bring relief to Americans battered by years of stagnant wages and steep inflation before they hit the polls, experts say — complicating midterm campaigning for Republicans and sharpening the opportunity for Democrats to win back some control in [...] The post Trump running out of options to fix inflation, economic woes before election, experts say appeared first on News Pub . The post Trump running out of options to fix inflation, economic woes before election, experts say appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/politics/trump-running-out-of-options-to-fix-inflation-economic-woes-before-election-experts-say/",
+          "publishedAt": "2026-07-30T18:11:05.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "78a84d61bd1d72a9d74213e9e7a67b5e86a7832cb0d25f50fbe9a8a621ad06c2",
+          "title": "Jessica Tarlov Says Dems Need More Troy Jackson-Style Anonymous Account Trolling Energy (Really?)",
+          "description": "You would think the Maine Democrats and the DNC would be leery about another candidate who was using anonymous accounts...",
+          "sourceName": "Twitchy",
+          "url": "https://twitchy.com/dougp/2026/07/30/jessica-tarlov-troy-jackson-n2430788",
+          "publishedAt": "2026-07-30T17:54:57.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "2e5eaeffe4c517682edc61c70f84ff0b0c669a1d67d9e6b74a27f5d34c8aba9f",
+          "title": "‘Wow’: CNN’s Dana Bash Can’t Help But Chuckle at Percentage of Americans Who Want Most of Congress Replaced",
+          "description": "CNN's Dana Bash couldn't help but chuckle when reading that more than 50% of Americans believe they'd be better off if the majority of Congress was replaced. The post ‘Wow’: CNN’s Dana Bash Can’t Help But Chuckle at Percentage of Americans Who Want Most of Congress Replaced first appeared on Mediaite .",
+          "sourceName": "Mediaite",
+          "url": "https://www.mediaite.com/media/tv/wow-cnns-dana-bash-cant-help-but-chuckle-at-percentage-of-americans-who-want-most-of-congress-replaced/",
+          "publishedAt": "2026-07-30T17:31:11.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d12b13e21e995189128e16b2bf96cef14becc9fc89e42b53fc89908f2a67e15b",
+          "title": "Troy Jackson operated alias account that trolled former Maine governor: Report",
+          "description": "Jackson managed an alias account called \"Canadians for LePage\" while Paul LePage served as governor in 2012, according to a CNN report.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4669037/troy-jackson-alias-account-troll-paul-lepage-maine/",
+          "publishedAt": "2026-07-30T17:07:01.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "d8b47d2e30dedeed26794ee776e244fde68dcb8ae2125896b7fe89526d2a25dd",
+          "title": "Platner campaign was sabotaged by his own | Letter",
+          "description": "I'll be writing Platner in on the November ballot.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/07/30/platner-campaign-was-sabotaged-by-his-own-letter/",
+          "publishedAt": "2026-07-30T17:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8d5e802de626e1b36c7387acac492345b4a37ae25ff611ffed296abbcbddc11e",
+          "title": "Platner campaign was sabotaged by his own | Letter",
+          "description": "I'll be writing Platner in on the November ballot.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/07/30/platner-campaign-was-sabotaged-by-his-own-letter/",
+          "publishedAt": "2026-07-30T17:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "085772a2285eb9277e6032bda2f484904e060d38d920491c6121b3b2ddd358f8",
+          "title": "At the Races: Republicans on the ropes",
+          "description": "Welcome to At the Races! Each week we bring you news and analysis from the CQ Roll Call campaign team. Know someone who’d like to get this newsletter? They can subscribe here. By Mary Ellen McIntire and Daniela Altimari A handful of House Democrats and two House Republicans have lost their bids for renomination this year, and [...]",
+          "sourceName": "Roll Call",
+          "url": "https://rollcall.com/2026/07/30/at-the-races-republicans-on-the-ropes/",
+          "publishedAt": "2026-07-30T15:40:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "43e97dd90362bf4e3e2e4c92ff6fc9c24ddd05a60a95e637ab1307b6236f91f5",
+          "title": "Troy Jackson used to troll Republicans in the BDN comment section",
+          "description": "Troy Jackson posed as a Canadian logger who supported then-Gov. Paul LePage.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/07/30/politics/elections/maine-election-senate-troy-jackson-bdn-comment-section-trolling-canadians-for-lepage/",
+          "publishedAt": "2026-07-30T15:17:42.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "f4fa971b9a2e5add4a63f8c4db5349a79bbcecdaf264da21415753ea0a02be67",
+          "title": "Troy Jackson is Graham Platner lite",
+          "description": "Troy Jackson, the Maine Democratic Party prospective nominee for the Senate, is Graham Platner lite. Platner withdrew from the race to face incumbent Republican Susan Collins following allegations that he sexually assaulted two women, charges he has denied.",
+          "sourceName": "Norfolk Daily News",
+          "url": "https://norfolkdailynews.com/commentary/troy-jackson-is-graham-platner-lite/article_b3da7520-feb6-4fc9-8ded-75bb838c6744.html",
+          "publishedAt": "2026-07-30T14:45:00.000Z",
+          "sentiment": -1
         }
       ],
       "social": [
@@ -2024,16 +2161,26 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.26666666666666666,
-      "newsSentiment": null,
+      "overallSentiment": -0.18333333333333335,
+      "newsSentiment": -0.1,
       "socialSentiment": -0.26666666666666666,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 3,
         "youtube": 0,
-        "total": 3
+        "total": 4
       },
-      "news": [],
+      "news": [
+        {
+          "id": "dcb2645b453d105ae8c132fef46b60d0c2f7d96b821ef7f97c3a499152ca56c4",
+          "title": "Connecticut firefighters on vacation in Maine credited with saving two people from house fire",
+          "description": "SCARBOROUGH, Maine — Two Connecticut firefighters vacationing in Maine are being credited with saving two people from a house fire Tuesday afternoon, according to the Scarborough Fire Department. The firefighters were passing Sea Meadows Lane on their way to Old Orchard Beach around 12:25 p.m. on July 28 when they spotted smoke coming from a [...] The post Connecticut firefighters on vacation in Maine credited with saving two people from house fire appeared first on News Pub . The post Connecticut firefighters on vacation in Maine credited with saving two people from house fire appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/northeast/maine/connecticut-firefighters-on-vacation-in-maine-credited-with-saving-two-people-from-house-fire/",
+          "publishedAt": "2026-07-30T23:47:05.000Z",
+          "sentiment": -0.1
+        }
+      ],
       "social": [
         {
           "id": "6bf5951eba83797ab36c9fcd15038895d7ef77bf34e453d32377f0fb23591604",
