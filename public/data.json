@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T10:12:57.126Z",
+  "lastUpdated": "2026-07-31T12:19:52.606Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -56,9 +56,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1357473766233766,
+      "overallSentiment": 0.13462337662337662,
       "newsSentiment": 0.07272727272727274,
-      "socialSentiment": 0.16737199999999994,
+      "socialSentiment": 0.164,
       "mentions": {
         "news": 22,
         "social": 175,
@@ -266,6 +266,70 @@
         }
       ],
       "social": [
+        {
+          "id": "c64ccd5bf72c34ae915c91b13ee80a8ff14e1697a197a571086719ed5e94179f",
+          "authorHandle": "nypost.com",
+          "postText": "Maine Dem Senate candidate Troy Jackson fathered two kids with his second cousin: report",
+          "createdAt": "2026-07-31T12:17:29.527696Z",
+          "uri": "at://did:plc:ck7aajho5ziqo6lrs64rm4oc/app.bsky.feed.post/3mrwwq4a5wd2y",
+          "sentiment": -1
+        },
+        {
+          "id": "36ab9077d56cbe73e54321edf04c81b90cdc84b560750496a3ea3656b4968990",
+          "authorHandle": "startledsquirrel.bsky.social",
+          "postText": "If you’ve had enough of her garbage, Troy Jackson has an organizing meeting tonight you could attend. \n\nwww.mobilize.us/jacksonforma...",
+          "createdAt": "2026-07-31T12:17:17.216Z",
+          "uri": "at://did:plc:h7vbeln6osknacosx4hv6htx/app.bsky.feed.post/3mrwwpq7kak2x",
+          "sentiment": 1
+        },
+        {
+          "id": "37cd29fe6bdad398174d67b107c3be501fbe88e2f9a1e4aa0a390a6f58ab427a",
+          "authorHandle": "babyblue70.bsky.social",
+          "postText": "Maine’s New Democrat Senate candidate Troy Jackson is in a ROMANTIC RELATIONSHIP w/ his COUSIN & has 2 CHILDREN with her🤫\n\nTHIS is the guy the Democrat Party swapped Graham Platner out for😳",
+          "createdAt": "2026-07-31T12:16:03.083Z",
+          "uri": "at://did:plc:z5hqye47tfwdbvmbgon7genv/app.bsky.feed.post/3mrwwnjjaos2o",
+          "sentiment": -1
+        },
+        {
+          "id": "31d1dd9d24ff7d7ddf2f24867194f5998a6f85c79eeaca21e9e4120df5321e3b",
+          "authorHandle": "startledsquirrel.bsky.social",
+          "postText": "Jackson for Maine is having an organizing meeting tonight. We could sure use you there. Sign up on his sight.  \n\nwww.mobilize.us/jacksonforma...",
+          "createdAt": "2026-07-31T12:06:26.060Z",
+          "uri": "at://did:plc:h7vbeln6osknacosx4hv6htx/app.bsky.feed.post/3mrww4d7qrs2x",
+          "sentiment": 1
+        },
+        {
+          "id": "a9f015a280a49966eb326dabd527049b08ad2870e28133f5d115e587f8613fce",
+          "authorHandle": "bsfavourite.bsky.social",
+          "postText": "Watch: Troy Jackson Squirms When Asked for Date Night Advice After Kissin’ Cousins Bombshell #RedState",
+          "createdAt": "2026-07-31T11:48:41Z",
+          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mrwv4mmrwu2n",
+          "sentiment": -1
+        },
+        {
+          "id": "a3fd32aed4441a6cb41377ff11c4eaa870e50240282a8a9b667f62554ec99feb",
+          "authorHandle": "marcnormandin.bsky.social",
+          "postText": "lmao",
+          "createdAt": "2026-07-31T11:44:20.050Z",
+          "uri": "at://did:plc:j7mcwnkjecbncepgyah7g2yx/app.bsky.feed.post/3mrwuusnops2i",
+          "sentiment": 0
+        },
+        {
+          "id": "59567889bcda31245a23aa5cf4c2392344ae6009a88644156fae2c129f5cf8fe",
+          "authorHandle": "road2lexington.bsky.social",
+          "postText": "It'll probably be around a while and do well in heavily blue areas, but DSA isn't competitive enough to be a player in purple states or red states. Graham Platner, and now Troy Jackson, are tying to make it competitive in Maine but the acrimonious debate around Platner didn't help.",
+          "createdAt": "2026-07-31T11:30:09.105Z",
+          "uri": "at://did:plc:4q5pdx5g6wjyw4b5b6gysxlx/app.bsky.feed.post/3mrwu3h4f5c2h",
+          "sentiment": 0
+        },
+        {
+          "id": "36df2e6799d66b25116a00c9759884a1bbbde18d6b70aa612db1cd3e5a61973f",
+          "authorHandle": "mainstream-media.bsky.social",
+          "postText": "Troy Jackson swapped out Senate campaign official also behind the super PAC backing Abdul el Sayed\n\nhttps://www.washingtonexaminer.com/n...",
+          "createdAt": "2026-07-31T10:20:21.386839+00:00",
+          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mrwq6nhpkt2u",
+          "sentiment": -1
+        },
         {
           "id": "5611cc366b87aaa1bbe2110c32ef7d4e431227d1a9639c47b8736310763a3adf",
           "authorHandle": "officiallilsilver.bsky.social",
@@ -1601,70 +1665,6 @@
           "createdAt": "2026-07-30T12:30:42.615Z",
           "uri": "at://did:plc:blqiz2oshcyeeqptyh22kyle/app.bsky.feed.post/3mrugystjrk26",
           "sentiment": 1
-        },
-        {
-          "id": "1ad038b60ccda23fdf295ac5ff7e6dc15b18cdb7ccf4f8520c9713460b5d2548",
-          "authorHandle": "ebenmyrddin.bsky.social",
-          "postText": "The way centrist democrats whined (and still whine) about Bernie in 2016 who both endorsed and toured the country for Hillary, versus the way they behave when they show themselves to be the less electable candidate... it's really something.\n\nthehill.com/homenews/cam...",
-          "createdAt": "2026-07-30T12:05:40.406Z",
-          "uri": "at://did:plc:flxqgyetwcwg6asuhlcoc5m7/app.bsky.feed.post/3mrufm27rrk2f",
-          "sentiment": 0.0258
-        },
-        {
-          "id": "57bd1e941f6b4b752227c0b3ee6b8ccfa55aca919cd283b15eeee146fe9904bb",
-          "authorHandle": "voteinthemidterms.bsky.social",
-          "postText": "Vote for\nTROY JACKSON",
-          "createdAt": "2026-07-30T12:04:05.102Z",
-          "uri": "at://did:plc:67goi6ijk4cila6ok4esjan5/app.bsky.feed.post/3mrufj7ddhk2n",
-          "sentiment": 0
-        },
-        {
-          "id": "9e45ad4c60d6b773f5768a046476e02f5e2a50d1619f10c39015106e93d9b04f",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-07-30T12:01:13.954Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mrufe44brc2v",
-          "sentiment": -0.5766
-        },
-        {
-          "id": "46252c0b2ffd95978196b6e6f4e4203add709439ff35ce363202758e7f48ead4",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "My name is Troy Jackson, and I am officially the Democratic nominee for U.S. Senate to defeat Susan Collins in Maine.\n\nHere’s what you need to know about me: I’m a fifth-generation logger and fighter for workers’ rights from Allagash who proudly served 20 years in the Maine legislature.",
-          "createdAt": "2026-07-30T12:00:29.214Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mrufcrgwec2v",
-          "sentiment": 0.296
-        },
-        {
-          "id": "9c8722aa60aa2dee7ef424dab7b88ce6b8fc206a22af34ffea7ec0f218b1bf07",
-          "authorHandle": "travisklempan.bsky.social",
-          "postText": "From See En En dot com. This only improves his standing in my eyes. And these bozos having “for subscribers” only makes me roll those eyes harder.",
-          "createdAt": "2026-07-30T11:56:02.598Z",
-          "uri": "at://did:plc:xt52oii43fazra27u5ddvmjd/app.bsky.feed.post/3mruf2t6oyc2p",
-          "sentiment": 0.4215
-        },
-        {
-          "id": "e520369b943fa024e168cc03ab7f6fd799a30e0a7485e5abeb5a7a8be32cd903",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-07-30T11:52:30.024Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mrueuih7es2v",
-          "sentiment": -0.5766
-        },
-        {
-          "id": "c9f7008495bcf876146e17b9e97c8f2a115a0788218da492eb16d879cf6fc170",
-          "authorHandle": "blondeyankee.bsky.social",
-          "postText": "🔵￼Troy Jackson in Maine",
-          "createdAt": "2026-07-30T11:20:27.827Z",
-          "uri": "at://did:plc:zm64u4jfcq2kgg4gitbdpatk/app.bsky.feed.post/3mrud37cht223",
-          "sentiment": 0
-        },
-        {
-          "id": "267ee3206afc64e936a637a76fe2207aa35434dc4a6c787044565d64d1f8c7d8",
-          "authorHandle": "jackrunscode82.bsky.social",
-          "postText": "Troy Jackson tritt in die Fußstapfen von Platner, nachdem letzterer über seine Vergangenheit gestolpert ist. Ein weiteres Beispiel dafür, wie schnell politische Karrieren zerbrechen können, wenn die Schatten der Vergangenheit ans Licht gezerrt werden.",
-          "createdAt": "2026-07-30T10:43:07.589418+00:00",
-          "uri": "at://did:plc:2esoijljbjkhmoha447agnzk/app.bsky.feed.post/3mruaygwxix2y",
-          "sentiment": -1
         }
       ],
       "youtube": [
@@ -2024,17 +2024,25 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.05,
+      "overallSentiment": -0.26666666666666666,
       "newsSentiment": null,
-      "socialSentiment": -0.05,
+      "socialSentiment": -0.26666666666666666,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 3,
         "youtube": 0,
-        "total": 2
+        "total": 3
       },
       "news": [],
       "social": [
+        {
+          "id": "6bf5951eba83797ab36c9fcd15038895d7ef77bf34e453d32377f0fb23591604",
+          "authorHandle": "bangordailynews.bsky.social",
+          "postText": "Jordan Wood, who challenged Matt Dunlap in the primary but is supporting him now, has accused the party of “f—ing up another race in Maine.” www.bangordailynews.com/2026/07/31/p...",
+          "createdAt": "2026-07-31T11:09:20.291Z",
+          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mrwswapjqf23",
+          "sentiment": -0.7
+        },
         {
           "id": "692a1f9dc321a3a4733f0a9e3c7b9b73286ade99cc980a195770cb02ae646523",
           "authorHandle": "joeyjabroni.bsky.social",
