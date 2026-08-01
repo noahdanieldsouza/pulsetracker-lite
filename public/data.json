@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T09:25:26.123Z",
+  "lastUpdated": "2026-08-01T10:57:11.783Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.08472407084785137,
+      "overallSentiment": 0.08518053890824624,
       "newsSentiment": -0.3142857142857143,
-      "socialSentiment": -0.021785975609756095,
+      "socialSentiment": -0.020416571428571426,
       "mentions": {
         "news": 35,
-        "social": 165,
+        "social": 176,
         "youtube": 41,
-        "total": 241
+        "total": 252
       },
       "news": [
         {
@@ -386,6 +386,110 @@
         }
       ],
       "social": [
+        {
+          "id": "69a26b1b21684280e6d7691e7457999eda1da21e8f6e1378f8997838be5a502d",
+          "authorHandle": "moomomo42.bsky.social",
+          "postText": "www.theguardian.com/us-news/2026...",
+          "createdAt": "2026-08-01T10:50:29.286Z",
+          "uri": "at://did:plc:cl62lx6erufumuy6zi4awzhu/app.bsky.feed.post/3mrzcdgys6c25",
+          "sentiment": -1
+        },
+        {
+          "id": "d7508f0f468ed159d661966ecc1cd31c36f22cfe9a8fd5c0adee64c01d255437",
+          "authorHandle": "andrealani.bsky.social",
+          "postText": "This alone should boost Troy Jackson over the top.",
+          "createdAt": "2026-08-01T10:48:33.606Z",
+          "uri": "at://did:plc:vndrkzuamdyinpp6xzmkac7a/app.bsky.feed.post/3mrzc7yokfk2u",
+          "sentiment": 1
+        },
+        {
+          "id": "4eb93c4fcedab5945c74bc123ca5eb3bfa833a2aba3b4126298b8561f37589cb",
+          "authorHandle": "laciuraraffaele.bsky.social",
+          "postText": "A progressive lumberjack has fewer than 100 days to turn Maine’s Senate seat blue. Can he do it?\nwww.theguardian.com/us-news/2026...",
+          "createdAt": "2026-08-01T10:39:35.230Z",
+          "uri": "at://did:plc:izdo23j2fb75hmqqwetb7xcu/app.bsky.feed.post/3mrzbpxalmc26",
+          "sentiment": 0
+        },
+        {
+          "id": "c5a3dc201f505478f1be89175503b5fdd24a4895db91db3985abc6645983231e",
+          "authorHandle": "uspol.skyfleet.blue",
+          "postText": "A progressive lumberjack has fewer than 100 days to turn Maine’s Senate seat blue. Can he do it?",
+          "createdAt": "2026-08-01T10:36:17.520Z",
+          "uri": "at://did:plc:r73kjlwfdyge5x2laitip3pc/app.bsky.feed.post/3bu5rtqtql4ea",
+          "sentiment": 0
+        },
+        {
+          "id": "b0fe7755566073a9186e6e130652314ef3c8f1e990a2b5f68cb9d5b7349344b3",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "Meet Troy Jackson, The Man Who Can Beat Susan Collins\n\nwww.youtube.com/watch?v=Nhz0...",
+          "createdAt": "2026-08-01T10:31:42.182Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mrzbbu4coc2z",
+          "sentiment": 1
+        },
+        {
+          "id": "b92b812c8bcebfa5711334b1103bbfae603e77565e47204ccabc25884afb09a2",
+          "authorHandle": "portlandbriefly.bsky.social",
+          "postText": "Troy Jackson must quickly earn Maine voters’ trust and build a statewide coalition to win the US Senate seat against Susan Collins after Graham Platner’s scandal-driven exit.\n",
+          "createdAt": "2026-08-01T10:24:36.937Z",
+          "uri": "at://did:plc:cimtnpntuzrl5eknqgwqtks5/app.bsky.feed.post/3mrzav6mwvc2b",
+          "sentiment": 0
+        },
+        {
+          "id": "629ee7628fd9ab67cd8a7a9db6419a1287937b6793c99f68f14976ce6b6fc2bd",
+          "authorHandle": "guardian-uk-rss.bsky.social",
+          "postText": "A progressive lumberjack has fewer than 100 days to turn Maine’s Senate seat blue. Can he do it?",
+          "createdAt": "2026-08-01T10:24:31.890229Z",
+          "uri": "at://did:plc:hciqzcg2tksnxmhxn4vvvcss/app.bsky.feed.post/3mrzav34aga2g",
+          "sentiment": 0
+        },
+        {
+          "id": "775de7e70992a9cb4a7ac469d8ae02ac3d0f772591853030c50398422470f4f9",
+          "authorHandle": "ledonneessential.bsky.social",
+          "postText": "Musk is currently so despised he makes Susan Collins look like a beloved grandma passing out Werther's Originals, meaning Troy Jackson just got handed the easiest political win of his life.",
+          "createdAt": "2026-08-01T10:22:47.353Z",
+          "uri": "at://did:plc:l6cthzgu62l7lr4fzvhhge6i/app.bsky.feed.post/3mrzarw2npc2h",
+          "sentiment": 1
+        },
+        {
+          "id": "95637186bb53fa371d78628ca2a8cebabfae3246367539713fbf7d6596e64b20",
+          "authorHandle": "fightingliberal.bsky.social",
+          "postText": "A progressive lumberjack has fewer than 100 days to turn Maine’s Senate seat blue. Can he do it? ...",
+          "createdAt": "2026-08-01T10:21:56Z",
+          "uri": "at://did:plc:vaged6uocai4jrd2s5pd2ebo/app.bsky.feed.post/3mrzaqibmwq2l",
+          "sentiment": 0
+        },
+        {
+          "id": "28e639b24bebd4ea808232db6df12c80bc936d83426532394f959012e95dc99e",
+          "authorHandle": "news-flows-ir.bsky.social",
+          "postText": "A progressive lumberjack has fewer than 100 days to turn Maine’s Senate seat blue. Can he do it?\n\nTroy Jackson gained the Democratic nomination, but now he needs to consolidate support to take on Susan CollinsTroy Jackson is ready to move on.In fewer than 100 days, the new Democratic nominee...",
+          "createdAt": "2026-08-01T10:00:50.000000Z",
+          "uri": "at://did:plc:vzmnljt7otfbbgrmachtefxh/app.bsky.feed.post/3mrzaw4k2qk2p",
+          "sentiment": 0
+        },
+        {
+          "id": "97a7279fbe9185de49e0742adc744c8504fdaea9b76976934694f5b9cc88264a",
+          "authorHandle": "williamduguid1.bsky.social",
+          "postText": "'Is this simply bad luck, or have governments and central banks deliberately created an economy that keeps unemployment high, house prices out of reach, and opportunities increasingly scarce?'\nRichard Murphy",
+          "createdAt": "2026-08-01T10:00:00.000Z",
+          "uri": "at://did:plc:qfj6a2dg3uvs3ennlcqvqv3u/app.bsky.feed.post/3mrz7jd6ru52m",
+          "sentiment": -1
+        },
+        {
+          "id": "b4683d6f4199024ca0029dcfe0388a93729dbf1b35b9cdf19e858e2a8eb92da3",
+          "authorHandle": "mrl53.bsky.social",
+          "postText": "Have you read any news from Maine?\nTroy Jackson and the BDN letters?\n\nVetting.\n\nYou gotta look hard.\nThese days it should be easy.",
+          "createdAt": "2026-08-01T09:45:48.530Z",
+          "uri": "at://did:plc:wk2krd5ck53iqywfc3bdpzhc/app.bsky.feed.post/3mrz6przjfc27",
+          "sentiment": -1
+        },
+        {
+          "id": "17fbfd3e8eb3b1a54565684ea1abb121d052c71adfd3ad74f8c61bf7b8bda0a6",
+          "authorHandle": "bawava.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-01T09:28:29.589Z",
+          "uri": "at://did:plc:veb534unolmtovz6njou62bm/app.bsky.feed.post/3mrz5qt7kl22r",
+          "sentiment": -1
+        },
         {
           "id": "2a7a6a3b9819534e3ccd74643126408cf7dafadf1a22dcb692c2a7c7d34bd315",
           "authorHandle": "officiallilsilver.bsky.social",
@@ -1688,22 +1792,6 @@
           "postText": "It'll probably be around a while and do well in heavily blue areas, but DSA isn't competitive enough to be a player in purple states or red states. Graham Platner, and now Troy Jackson, are tying to make it competitive in Maine but the acrimonious debate around Platner didn't help.",
           "createdAt": "2026-07-31T11:30:09.105Z",
           "uri": "at://did:plc:4q5pdx5g6wjyw4b5b6gysxlx/app.bsky.feed.post/3mrwu3h4f5c2h",
-          "sentiment": 0
-        },
-        {
-          "id": "36df2e6799d66b25116a00c9759884a1bbbde18d6b70aa612db1cd3e5a61973f",
-          "authorHandle": "mainstream-media.bsky.social",
-          "postText": "Troy Jackson swapped out Senate campaign official also behind the super PAC backing Abdul el Sayed\n\nhttps://www.washingtonexaminer.com/n...",
-          "createdAt": "2026-07-31T10:20:21.386839+00:00",
-          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mrwq6nhpkt2u",
-          "sentiment": -1
-        },
-        {
-          "id": "5611cc366b87aaa1bbe2110c32ef7d4e431227d1a9639c47b8736310763a3adf",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "Last weekend, the Maine Democratic Party held its nominating convention, and delegates officially selected the party’s new nominee for U.S. Senate.\n\nTroy Jackson will now face Republican incumbent Susan Collins this November.",
-          "createdAt": "2026-07-31T10:07:19.446Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mrwphdofkc2p",
           "sentiment": 0
         }
       ],
