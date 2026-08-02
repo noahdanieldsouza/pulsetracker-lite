@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T08:42:52.689Z",
+  "lastUpdated": "2026-08-02T10:21:15.800Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -67,14 +67,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.01564152159896845,
+      "overallSentiment": 0.023283852313521397,
       "newsSentiment": -0.4772727272727273,
-      "socialSentiment": 0.2890909090909092,
+      "socialSentiment": 0.312017901234568,
       "mentions": {
         "news": 44,
-        "social": 165,
+        "social": 162,
         "youtube": 47,
-        "total": 256
+        "total": 253
       },
       "news": [
         {
@@ -475,6 +475,30 @@
         }
       ],
       "social": [
+        {
+          "id": "edcaadb31e1a8142802b949d76a33bab2e1e304119201aaa3f693a6fbea224ef",
+          "authorHandle": "pressherald.com",
+          "postText": "In Aroostook County, Senate contest of locals doubles as test of Trump’s base",
+          "createdAt": "2026-08-02T10:00:37+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3ms3pz7pymd2p",
+          "sentiment": 0
+        },
+        {
+          "id": "e70871e3ef7733e4d1a58d37e7d1603767f6ac8e84f4da35c9f10ffad518a0d2",
+          "authorHandle": "horseplaygirl.bsky.social",
+          "postText": "Collins is horrid.\n\nLet’s hope the people of Maine have finally realized it and will vote for Troy Jackson.",
+          "createdAt": "2026-08-02T08:47:09.027Z",
+          "uri": "at://did:plc:5tqyqa2wdclo6ivfidtxssav/app.bsky.feed.post/3ms3lvszlps2u",
+          "sentiment": -0.1531
+        },
+        {
+          "id": "28fed28369fa6e60fd50d37c97ba08c65b144286608a8dadb636e60c327ccdbf",
+          "authorHandle": "ianmac.bsky.social",
+          "postText": "www.theguardian.com/us-news/2026...",
+          "createdAt": "2026-08-02T08:46:09.268Z",
+          "uri": "at://did:plc:sgcqouwipc5auoqnd4b6gyyk/app.bsky.feed.post/3ms3ltzzvd22y",
+          "sentiment": 0
+        },
         {
           "id": "184df9674e2f38558950016b984f7cf0e75b1653abd68422f3448e6a004404db",
           "authorHandle": "stoicthinker2025.bsky.social",
@@ -1132,14 +1156,6 @@
           "sentiment": 1
         },
         {
-          "id": "fdc8e45354752374002b196a0b111a02c19ee073045e615f60b422963be37e81",
-          "authorHandle": "meowchacho.bsky.social",
-          "postText": "I think its a gift to Troy Jackson.",
-          "createdAt": "2026-08-01T18:20:19.706Z",
-          "uri": "at://did:plc:w3awyh3gh2sloeifumbjprcl/app.bsky.feed.post/3ms23ht327c2b",
-          "sentiment": 1
-        },
-        {
           "id": "bcec71357e68645eac038d6728bdfb264efa829328260f996be4d8b8845b0bd4",
           "authorHandle": "hydevoltyge.bsky.social",
           "postText": "I gotta hand it to Chuck Schumer for turning Senators Janet Mills and his Fourth Pick Haley Stevens (or quite possibly Susan Collins and Mike Rogers) into Senators Troy Jackson and Abdul El-Sayed. Generational upgrade, truly a beautiful thing.",
@@ -1754,46 +1770,6 @@
           "createdAt": "2026-08-01T10:21:56Z",
           "uri": "at://did:plc:vaged6uocai4jrd2s5pd2ebo/app.bsky.feed.post/3mrzaqibmwq2l",
           "sentiment": 0
-        },
-        {
-          "id": "28e639b24bebd4ea808232db6df12c80bc936d83426532394f959012e95dc99e",
-          "authorHandle": "news-flows-ir.bsky.social",
-          "postText": "A progressive lumberjack has fewer than 100 days to turn Maine’s Senate seat blue. Can he do it?\n\nTroy Jackson gained the Democratic nomination, but now he needs to consolidate support to take on Susan CollinsTroy Jackson is ready to move on.In fewer than 100 days, the new Democratic nominee...",
-          "createdAt": "2026-08-01T10:00:50.000000Z",
-          "uri": "at://did:plc:vzmnljt7otfbbgrmachtefxh/app.bsky.feed.post/3mrzaw4k2qk2p",
-          "sentiment": 0
-        },
-        {
-          "id": "97a7279fbe9185de49e0742adc744c8504fdaea9b76976934694f5b9cc88264a",
-          "authorHandle": "williamduguid1.bsky.social",
-          "postText": "'Is this simply bad luck, or have governments and central banks deliberately created an economy that keeps unemployment high, house prices out of reach, and opportunities increasingly scarce?'\nRichard Murphy",
-          "createdAt": "2026-08-01T10:00:00.000Z",
-          "uri": "at://did:plc:qfj6a2dg3uvs3ennlcqvqv3u/app.bsky.feed.post/3mrz7jd6ru52m",
-          "sentiment": -1
-        },
-        {
-          "id": "b4683d6f4199024ca0029dcfe0388a93729dbf1b35b9cdf19e858e2a8eb92da3",
-          "authorHandle": "mrl53.bsky.social",
-          "postText": "Have you read any news from Maine?\nTroy Jackson and the BDN letters?\n\nVetting.\n\nYou gotta look hard.\nThese days it should be easy.",
-          "createdAt": "2026-08-01T09:45:48.530Z",
-          "uri": "at://did:plc:wk2krd5ck53iqywfc3bdpzhc/app.bsky.feed.post/3mrz6przjfc27",
-          "sentiment": -1
-        },
-        {
-          "id": "17fbfd3e8eb3b1a54565684ea1abb121d052c71adfd3ad74f8c61bf7b8bda0a6",
-          "authorHandle": "bawava.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-01T09:28:29.589Z",
-          "uri": "at://did:plc:veb534unolmtovz6njou62bm/app.bsky.feed.post/3mrz5qt7kl22r",
-          "sentiment": -1
-        },
-        {
-          "id": "2a7a6a3b9819534e3ccd74643126408cf7dafadf1a22dcb692c2a7c7d34bd315",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-08-01T08:55:05.457Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mrz3v3wcg22z",
-          "sentiment": -1
         }
       ],
       "youtube": [
