@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T14:04:41.828Z",
+  "lastUpdated": "2026-08-03T14:31:37.178Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,26 +22,16 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0,
-      "newsSentiment": 0,
+      "overallSentiment": null,
+      "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
-      "news": [
-        {
-          "id": "a33e3a03b9e5ee6eab0a91b1e2284c2f60a55234a8099d1850502d617991bf75",
-          "title": "Obama Judge Blocks Trump Admin From Ending Temporary Protected Status for Somalis – DHS Responds",
-          "description": "A federal judge on Friday once again blocked the Trump Administration from terminating Temporary Protected Status (TPS) for Somalis. The termination was supposed to take effect on March 17, however, a federal judge previously halted the termination. On Friday, US District Judge Allison Burroughs, an Obama appointee, issued a new administrative stay after the plaintiffs filed an amended complaint and an emergency motion. There are more than 100,000 Somalis living in the US. An estimated 5,000 Somalis are eligible for Temporary Protected Status. The Justice Department responded to the judge’s order. “Judge Allison Burroughs just entered yet another order preventing...",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-news/4390189/posts",
-          "publishedAt": "2026-08-01T16:49:27.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -49,212 +39,158 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.022123711568237153,
-      "newsSentiment": -0.309090909090909,
+      "overallSentiment": 0.14598734793187348,
+      "newsSentiment": 0.0625,
       "socialSentiment": 0.05546204379562047,
       "mentions": {
-        "news": 22,
+        "news": 16,
         "social": 138,
         "youtube": 45,
-        "total": 205
+        "total": 199
       },
       "news": [
         {
-          "id": "3a761eef6348fb0029d585f042afd22f0728075b28bcfbc03a1c5b680faa7326",
-          "title": "Rally at Portland City Hall urges MaineHealth to keep Damariscotta labor and delivery open",
-          "description": "PORTLAND, Maine (WGME) — Efforts are underway to try to save a Midcoast Maine labor and delivery hospital. Nurses, doctors, community members, and state leaders rallied outside Portland City Hall Saturday morning. “I want to be very clear, we are asking as loudly as we can for MaineHealth board to not close labor and delivery [...] The post Rally at Portland City Hall urges MaineHealth to keep Damariscotta labor and delivery open appeared first on News Pub . The post Rally at Portland City Hall urges MaineHealth to keep Damariscotta labor and delivery open appeared first on News Pub .",
+          "id": "54453c1906074a87e011ef7b5f82c5cf79d505c1b5eeb9d9f510dba8b0164419",
+          "title": "Seattle Mariners Secure Walk-Off Victory Over Minnesota Twins",
+          "description": "Seattle Mariners' Colt Emerson hit a walk-off RBI single in the ninth inning to secure a 7-6 win over the Minnesota Twins, their second consecutive walk-off victory.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/seattle-mariners-secure-walk-off-victory-over-minnesota-86205353",
+          "publishedAt": "2026-08-03T01:06:23.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fc6ca57577c70cc42948cb3cb39828bccb9ae3e0a625f97ca6478062f095f48b",
+          "title": "Let’s do science: Share your wild turkey sightings",
+          "description": "MAINE—All good wildlife management starts with science, and all good science starts with data. That’s where you come in. Maine’s Wild Turkey August Production Survey invites community scientists to play a direct role in monitoring our state’s wild turkey population. Whether you enjoy watching wildlife from your window, spend time hiking, hunting, or exploring the [...] The post Let’s do science: Share your wild turkey sightings appeared first on News Pub . The post Let’s do science: Share your wild turkey sightings appeared first on News Pub .",
           "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/rally-at-portland-city-hall-urges-mainehealth-to-keep-damariscotta-labor-and-delivery-open/",
-          "publishedAt": "2026-08-02T00:13:06.000Z",
-          "sentiment": -0.1
-        },
-        {
-          "id": "e9aa0413013045e54051f01e18e3d1304d1ebaf5b0db1201333b3e5c42e92cb6",
-          "title": "Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports",
-          "description": "Newly nominated Democratic U.S. Senate candidate Troy Jackson is facing scrutiny following reports that he and his longtime partner are second cousins.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/democratic-maine-senate-candidate-fathered-2-sons-with-his-86177973",
-          "publishedAt": "2026-08-01T20:37:14.000Z",
-          "sentiment": -0.8
-        },
-        {
-          "id": "0f311ec723dc88a474b5d2b7a6671a4d564a5472b01057084c95d719b6f4021f",
-          "title": "Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports - KOMO",
-          "description": "Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports KOMO Opinion | Will Maine uproot Susan Collins? I went to a potato festival to find out. The Washington Post Upheaval in Maine and another 100-day campaign - can Democrats pull it off? The Guardian Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins NBC News Maine Dem Senate candidate Troy Jackson fathered two kids with his second cousin: report New York Post",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQaF9WTWtTQmoxNDczaUkzQ2tkOGk3V0RBOXluX3VXOWh5TjBjcEFQbUlyVXQ5b0RRaFhxalBtUGJSX0JoRFU1Y0VQd1J4b3M3VTdYOUMtTFJJamJuc1F3UkpwaTgtdm9qMnlwYmRNa01ETXpOOGF4LTdraTl4UFExd19yWFpWelBXeDlVMmY3NTdxczBZRGRmY2F0bmxVOE1Mcl9PZTk3UFUtX1NFeWRGaTYtR01HZTRHZTdzOHhQMERjR1B6SnFuSW9mcWxTX3lUaXFqMGZTRnZkMmJQMWd4cmR3cDBXTlNWZmRPSmM2NzVweXRORVVIUGpDTmYzbF9JSXBuaEpnTDBfdXNvTkMxVm9XUXM3RFZRRElnTGQtUE5tOWczWXp5MmYteG04LUl2SVgxeURWUXBZbVI0N0xteFV4ZmZ0c2RsSVcwanpvbUZaQQ?oc=5",
-          "publishedAt": "2026-08-01T20:17:00.000Z",
-          "sentiment": -0.8
-        },
-        {
-          "id": "7337e6259612d2ae86967e8d1aced5fa8943a328bea637e7905afffeda10bcf2",
-          "title": "Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports",
-          "description": "Newly nominated Democratic U.S. Senate candidate Troy Jackson is facing scrutiny following reports that he and his longtime partner are second cousins.",
-          "sourceName": "Kutv",
-          "url": "https://kutv.com/news/nation-world/democratic-maine-senate-candidate-fathered-2-sons-with-his-second-cousin-reports-democrats-republicans-general-election-vote-voting-lana-pelletier-gramham-platner-senator-susan-collins-politics",
-          "publishedAt": "2026-08-01T20:15:32.000Z",
-          "sentiment": -0.8
-        },
-        {
-          "id": "55431716d17a232bc423ee1dbaba181ee8523d75d9e8947c289d742397a6148d",
-          "title": "Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports",
-          "description": "Newly nominated Democratic U.S. Senate candidate Troy Jackson is facing scrutiny following reports that he and his longtime partner are second cousins.",
-          "sourceName": "Ktul",
-          "url": "https://ktul.com/news/nation-world/democratic-maine-senate-candidate-fathered-2-sons-with-his-second-cousin-reports-democrats-republicans-general-election-vote-voting-lana-pelletier-gramham-platner-senator-susan-collins-politics",
-          "publishedAt": "2026-08-01T20:15:32.000Z",
-          "sentiment": -0.8
-        },
-        {
-          "id": "ffc992ba664c984aff27d507af2e8d48170b897a6aba28f848d73a29502fd1c6",
-          "title": "Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports",
-          "description": "Newly nominated Democratic U.S. Senate candidate Troy Jackson is facing scrutiny following reports that he and his longtime partner are second cousins.",
-          "sourceName": "Wgxa",
-          "url": "https://wgxa.tv/news/nation-world/democratic-maine-senate-candidate-fathered-2-sons-with-his-second-cousin-reports-democrats-republicans-general-election-vote-voting-lana-pelletier-gramham-platner-senator-susan-collins-politics",
-          "publishedAt": "2026-08-01T20:15:31.000Z",
-          "sentiment": -0.8
-        },
-        {
-          "id": "7589b18e035f3c27dcbaa02feabe1789750bac34d7b0c45b604b82e7b5e3af2d",
-          "title": "Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports",
-          "description": "Newly nominated Democratic U.S. Senate candidate Troy Jackson is facing scrutiny following reports that he and his longtime partner are second cousins.",
-          "sourceName": "Wtvc",
-          "url": "https://newschannel9.com/news/nation-world/democratic-maine-senate-candidate-fathered-2-sons-with-his-second-cousin-reports-democrats-republicans-general-election-vote-voting-lana-pelletier-gramham-platner-senator-susan-collins-politics",
-          "publishedAt": "2026-08-01T20:15:31.000Z",
-          "sentiment": -0.8
-        },
-        {
-          "id": "1aa29df53141e0c3da6fcdac6217e9c819b84236168b2d6a3fbd1a0e5dfd88f9",
-          "title": "Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports",
-          "description": "Newly nominated Democratic U.S. Senate candidate Troy Jackson is facing scrutiny following reports that he and his longtime partner are second cousins.",
-          "sourceName": "Ksnv",
-          "url": "https://news3lv.com/news/nation-world/democratic-maine-senate-candidate-fathered-2-sons-with-his-second-cousin-reports-democrats-republicans-general-election-vote-voting-lana-pelletier-gramham-platner-senator-susan-collins-politics",
-          "publishedAt": "2026-08-01T20:15:30.000Z",
-          "sentiment": -0.8
-        },
-        {
-          "id": "fbbfaed37274ff0dc9805dc537e2c6cdce60c2c85e43dab87a861f4b88cda50d",
-          "title": "Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports",
-          "description": "Newly nominated Democratic U.S. Senate candidate Troy Jackson is facing scrutiny following reports that he and his longtime partner are second cousins.",
-          "sourceName": "Katv",
-          "url": "https://katv.com/news/nation-world/democratic-maine-senate-candidate-fathered-2-sons-with-his-second-cousin-reports-democrats-republicans-general-election-vote-voting-lana-pelletier-gramham-platner-senator-susan-collins-politics",
-          "publishedAt": "2026-08-01T20:15:27.000Z",
-          "sentiment": -0.8
-        },
-        {
-          "id": "67196236629ec9f1e3328df7255e56a5c473a65ec6dd07b0ee8e2de501b56560",
-          "title": "Susan Collins voted for a justice who overturned Roe. Now it haunts her on the campaign trail.",
-          "description": "Senator Susan Collins’ support for Brett Kavanaugh for US Supreme Court has become a major issue in her first reelection campaign since Roe v. Wade was overturned.",
-          "sourceName": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/08/01/nation/susan-collins-kavanaugh-roe-campaign/",
-          "publishedAt": "2026-08-01T19:42:00.000Z",
+          "url": "https://newspub.live/northeast/maine/lets-do-science-share-your-wild-turkey-sightings/",
+          "publishedAt": "2026-08-03T00:25:07.000Z",
           "sentiment": 0
         },
         {
-          "id": "877ec82a920ee87af38e78d05f3884f67d115f8320fc525b995cd0c668dd8301",
-          "title": "Upheaval in Maine and another 100-day campaign - can Democrats pull it off?",
-          "description": "Troy Jackson gained the party nomination for Senate, but now he needs to consolidate support to take on Susan Collins",
+          "id": "08954dcf6c3593086644ddabb8c92e74a9e2fffaa84dd641a25ff88dbd791e93",
+          "title": "SUV jumps curb, crashes into Sedro-Woolley liquor store; driver arrested for DUI",
+          "description": "A driver was arrested on suspicion of DUI after a vehicle jumped a curb and crashed into the front of a liquor store in Sedro-Woolley, causing significant damag",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/suv-jumps-curb-crashes-into-sedro-woolley-liquor-store-86203869",
+          "publishedAt": "2026-08-02T23:07:08.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d788ac211f32ffbdc1d4d5506ec5f8dc51c548e192acb275be40b50e19d1f86b",
+          "title": "Ms Rachel claims 'no one needs a billion dollars,' endorses Democratic progressives Abdul El-Sayed, Cori Bush",
+          "description": "Ms. Rachel endorsed Cori Bush, Abdul El-Sayed and 10 other progressive candidates, telling her 5 million followers she backs those who protect kids.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/ms-rachel-claims-no-one-needs-a-billion-dollars-endorses-86202615",
+          "publishedAt": "2026-08-02T21:36:29.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8b139f96a70a9e8f74182247c871e1835e4654938ce3e3273cdf670d1f89713d",
+          "title": "Sanders backs Troy Jackson in Maine Senate race: ‘Strong platform’",
+          "description": "Sen. Bernie Sanders (I-Vt.) on Sunday backed new Maine Senate Democratic nominee Troy Jackson, and said he will officially endorse the former state Senate president if Jackson “asks” him. “You want a working-class voice in Washington, D.C., Troy is certainly that voice. I have seen his platform. It is a strong platform, standing up for...",
+          "sourceName": "The Hill",
+          "url": "https://thehill.com/homenews/campaign/6004642-sanders-backs-maine-jackson/",
+          "publishedAt": "2026-08-02T21:19:30.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "b731d7192f94b5f87e74509938bcb1062e823e1cae91cc551b9bf2d7f351f185",
+          "title": "Gov. Ferguson to visit Spokane as wildfires burn hundreds of homes, force 5K+ evacuations",
+          "description": "Gov. Bob Ferguson was en route to Spokane on Sunday morning to meet with first responders and monitor a goriwung wildfire crisis after declaring a statewide eme",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/gov-ferguson-to-visit-spokane-as-wildfires-burn-hundreds-86202158",
+          "publishedAt": "2026-08-02T20:36:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0015f5284f34fc3d28d4b7f4e050342114fe6735f0ce32ce4560b9fb57c9b3e4",
+          "title": "Washington's primary election day is Tuesday, here's what to know",
+          "description": "In just two days, Washingtonians will weigh in on the state's primary election. Cities and counties all have varying issues, but there are some statewide reces",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/washington-s-primary-election-day-is-tuesday-here-s-what-86202165",
+          "publishedAt": "2026-08-02T20:36:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5e1cce0e83c3a7219ac944fb808486729efc7cc3b0d853ca0338e23216732340",
+          "title": "LINK train derails at CID station; 1 and 2 Lines partially suspended",
+          "description": "Sound Transit is working to restore full light-rail service after an out-of-service train derailed late Satueday night near the International District/Chinatown",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/link-train-derails-at-cid-station-1-and-2-lines-partially-86202154",
+          "publishedAt": "2026-08-02T20:36:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6efde88d5ef0732ff4ce38ad9fd6c5a63f0ca23fa0e2978271dc4d49b68ff462",
+          "title": "Ms Rachel claims ‘no one needs a billion dollars,’ endorses Democratic progressives Abdul El-Sayed, Cori Bush",
+          "description": "Popular children’s YouTube educator Ms. Rachel backed a dozen progressive Democratic candidates on Friday, including... The post Ms Rachel claims ‘no one needs a billion dollars,’ endorses Democratic progressives Abdul El-Sayed, Cori Bush appeared first on Democratic Accent .",
+          "sourceName": "Democratic Accent",
+          "url": "https://www.democraticaccent.com/ms-rachel-claims-no-one-needs-a-billion-dollars-endorses-democratic-progressives-abdul-el-sayed-cori-bush/",
+          "publishedAt": "2026-08-02T18:49:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8032a32b0c9b743f07c7d14b9365ec115faa18063863ad454aa60ac764bb6c62",
+          "title": "Ms Rachel claims 'no one needs a billion dollars,' endorses Democratic progressives Abdul El-Sayed, Cori Bush",
+          "description": "Ms. Rachel endorsed Cori Bush, Abdul El-Sayed and 10 other progressive candidates, telling her five million followers she backs those who protect kids.",
+          "sourceName": "Fox News",
+          "url": "https://www.foxnews.com/media/ms-rachel-claims-no-one-needs-billion-dollars-endorses-democratic-progressives-abdul-el-sayed-cori-bush",
+          "publishedAt": "2026-08-02T18:49:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "cd265772d2b183bbf9804a838f536fbdce8ede5fdcd38bc0f9f21ceb3961dd4c",
+          "title": "Ms Rachel claims 'no one needs a billion dollars,' endorses Democratic progressives Abdul El-Sayed, Cori Bush",
+          "description": "Ms. Rachel endorsed Cori Bush, Abdul El-Sayed and 10 other progressive candidates, telling her 5 million followers she backs those who protect kids.",
           "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/progressive-lumberjack-fewer-100-days-100050013.html",
-          "publishedAt": "2026-08-01T18:22:37.000Z",
-          "sentiment": 0.1
-        },
-        {
-          "id": "e3f20921e764b747a7021636be4de7b5d2068bb42b694acd83eee433af745f5f",
-          "title": "Take a stand, Maine: Bring back Platner | Letter",
-          "description": "“They don’t know Maine,” Graham Platner said during one of his campaign rallies, and I instantly wanted to get this printed on a T-shirt. As it turns out, “they,” meaning national Democrats, don’t really don’t know Maine. After Platner was accused of sexual assault, the Democratic Senatorial Campaign Committee flatly refused to further finance his [...]",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/01/take-a-stand-maine-bring-back-platner-letter/",
-          "publishedAt": "2026-08-01T18:22:19.000Z",
+          "url": "https://www.yahoo.com/news/politics/articles/ms-rachel-claims-no-one-184920871.html",
+          "publishedAt": "2026-08-02T18:49:20.000Z",
           "sentiment": 0
         },
         {
-          "id": "7a0db4b2592f26cbd2ccc1dc7b7726d7f669d9726de7ac07bb9fc37c99465142",
-          "title": "Take a stand, Maine: Bring back Platner | Letter",
-          "description": "“They don’t know Maine,” Graham Platner said during one of his campaign rallies, and I instantly wanted to get this printed on a T-shirt. As it turns out, “they,” meaning national Democrats, don’t really don’t know Maine. After Platner was accused of sexual assault, the Democratic Senatorial Campaign Committee flatly refused to further finance his [...]",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/01/take-a-stand-maine-bring-back-platner-letter/",
-          "publishedAt": "2026-08-01T18:22:19.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "457bdd5d3db6ee5e16d55f20160b9a0a88e14a740ef51ffe505d5bf295824b97",
-          "title": "Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins",
-          "description": "The seven-figure ad campaign highlights the Democrat’s background as a labor organizer and attacks GOP Sen. Susan Collins. It’s slated to begin running next week.",
+          "id": "8845afc600cd1d12ed3e13d61900c7c0c1e4d6038cc2b3c6a9609a51e0319497",
+          "title": "Argument between Walmart customers leads to shooting, employee injured: police",
+          "description": "An argument between customers at Walmart led to a shooting that left an employee suffering from a gunshot wound.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/troy-jackson-launches-his-first-general-election-ad-in-86175448",
-          "publishedAt": "2026-08-01T18:06:32.000Z",
-          "sentiment": 0.2
+          "url": "https://us.headtopics.com/news/argument-between-walmart-customers-leads-to-shooting-86199509",
+          "publishedAt": "2026-08-02T17:37:33.000Z",
+          "sentiment": 0
         },
         {
-          "id": "def71b563d14f08adcfa284ccd50a3b60279b1f7fa5cfe79fc16d54ee23bcb14",
-          "title": "Troy Jackson Launches His First Senate Race Ad",
-          "description": "“Maine’s Democratic Senate nominee Troy Jackson is launching his first general election ad, highlighting his own background as a labor organizer and going after Republican Sen. Susan Collins,” NBC News reports. “The 30-second spot, narrated by Jackson, is backed by a seven-figure buy slated to begin airing statewide next week.”",
-          "sourceName": "Political Wire",
-          "url": "https://politicalwire.com/2026/08/01/troy-jackson-launches-his-first-senate-race-ad/",
-          "publishedAt": "2026-08-01T17:53:58.000Z",
-          "sentiment": 0.2
-        },
-        {
-          "id": "2f2001b925f8655a90953f597d551117e850c3b379d52846d00a74c49261c38a",
-          "title": "Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins (Sahil Kapur/NBC News)",
-          "description": "Sahil Kapur / NBC News : Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins — The seven-figure ad campaign highlights the Democrat's background as a labor organizer and attacks incumbent Maine GOP Sen. Susan Collins. It's slated to begin running next week.",
-          "sourceName": "Memeorandum",
-          "url": "https://www.memeorandum.com/260801/p39",
-          "publishedAt": "2026-08-01T17:50:00.000Z",
-          "sentiment": 0.2
-        },
-        {
-          "id": "b834fed0653a29e6c16c820f083ff876bb0605b19d2526768481668c457d320c",
-          "title": "Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins - NBC News",
-          "description": "Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins NBC News Opinion | Will Maine uproot Susan Collins? I went to a potato festival to find out. The Washington Post A progressive lumberjack has fewer than 100 days to turn Maine’s Senate seat blue. Can he do it? The Guardian Maine Democrats Have a New Working-Class Hero in Troy Jackson. Can He Deliver? The New York Times Maine Secretary of State Office declines comment on Jackson eligibility WGME",
+          "id": "9b12e560b7c06bbfd3d8b3ce0438ca7bd1a7772a57f50afdb094587b49a58ea4",
+          "title": "‘No deal is just fine,’ Sen. John N. Kennedy says on Iran peace talks - Politico",
+          "description": "‘No deal is just fine,’ Sen. John N. Kennedy says on Iran peace talks Politico Sen. Kennedy says Trump likes daily strikes on Iran: ‘Sometimes you have to kill a few chickens to scare the monkeys’ The Hill Louisiana’s Bill Cassidy, John Kennedy call for more information on Iran conflict NOLA.com Live updates: Troy Jackson clinches Susan Collins match in midterms; Cyclospora outbreak tests Trump The Hill GOP Sen. John Kennedy says U.S. has ‘lost perspective’ on war with Iran: Full interview Yahoo",
           "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenp6cWFLNTFFOXozd0VXR1g5S21HSWRoWFRxejVyVG1SZWlkNjMxQ1hPcDA0VWZTa0RCNnZQVGx0Z05JazVXT3VzdWk0MzdTcElPVTVnNTNzWUZKSkhOOTRGMk5aYW5SaWd4NDk4QXZBZzNPQWQwamdsOWVDcEcycXNfS2VBeU1LbDdacWJ6alQ5b0JReFI1Um1HNFVBTVhZWHZRcWxUUWEyQW1QSXhOSU5teGFZektSSGswbWYwMmxlbTd5?oc=5",
-          "publishedAt": "2026-08-01T17:17:30.000Z",
-          "sentiment": 0.2
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGFsZkFpZVdHcDIwQXAwdHhTVDNITHEzNjE5Q3d3c1dhRTUxQzRqQ2tBVmtDajlDWkphN3RaTzhCaWdTUHFIdzNyekhyTV9lV0tvcks0alNVMjIxd0NTWE93ei1UTnltdDFxMkpmbUhvSU9icW5OdEh3NVl3NXgxMW1WVkE5dw?oc=5",
+          "publishedAt": "2026-08-02T17:08:00.000Z",
+          "sentiment": 1
         },
         {
-          "id": "acf33ab63fdc36a57a9b73c75a680a8b654dfaead3f4e94be4af8358c695acb2",
-          "title": "Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins",
-          "description": "Maine’s Democratic Senate nominee Troy Jackson is launching his first general election ad, highlighting his own background as a labor organizer and going after Republican Sen.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/politics/2028-election/troy-jackson-launches-general-election-ad-maine-senate-susan-collins-rcna590380",
-          "publishedAt": "2026-08-01T17:17:30.000Z",
-          "sentiment": 0.2
-        },
-        {
-          "id": "f8fcf143f947f00c74c79ca0c906bfb153e7bc80989fb083190767b6ef322afb",
-          "title": "Boy spent 100 hours reading to shelter animals",
-          "description": "For the last two years, 11-year-old Nehemiah Turner has spent a couple days a week reading to cats and dogs at an animal shelter where he recently surpassed 100 hours of reading.",
+          "id": "26f828bab330af8aecc29688075d3ceb2f417c72017421b6347a129e3d194b68",
+          "title": "FAA installs new tower simulator at Paine Field, aiming to cut controller training by 30%",
+          "description": "Air traffic controllers at Seattle Paine Field International Airport have received a new Tower Simulation System designed to improve training as part of the Fed",
           "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/boy-spent-100-hours-reading-to-shelter-animals-86170544",
-          "publishedAt": "2026-08-01T15:06:02.000Z",
+          "url": "https://us.headtopics.com/news/faa-installs-new-tower-simulator-at-paine-field-aiming-to-86198759",
+          "publishedAt": "2026-08-02T17:07:14.000Z",
           "sentiment": 0
         },
         {
-          "id": "d9cc6c7a8c1798937692a66197427fcac8969f7e6ce6dff30055327352a5c341",
-          "title": "X Having Fun With Kissin’ Cousins AKA Maine Democrat Senate Candidate Who Has Two Kids By Common Blood (Second cousin)",
-          "description": "Poor Troy Jackson. He can’t buy a serious ticket to a U.S. Senate seat without first enduring a ribald ribbing on social media. X users were having more fun laughing over Troy’s marital partnership with his second cousin than attendees at an American Legion bean supper in Allagash, Maine pop. 240. After Maine Wire chief editor Steve Robinson reported that the former state senate president is attached to his second cousin, with whom he has two kids, all bets were off for X users. “His favorite dating app is 23AndMe,” PoliMath joked on X. “Sydney Sweeney eat your heart out,”...",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-news/4390179/posts",
-          "publishedAt": "2026-08-01T15:05:48.000Z",
-          "sentiment": -0.7
+          "id": "a549576a7742acab7e26833675b15661986ac66fc849819661c5659e60030bb5",
+          "title": "Maine’s Democratic Senate candidate touts his rural appeal. His hometown has mixed feelings. - The Washington Post",
+          "description": "Maine’s Democratic Senate candidate touts his rural appeal. His hometown has mixed feelings. The Washington Post Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins NBC News Upheaval in Maine and another 100-day campaign - can Democrats pull it off? The Guardian Maine Dem Senate candidate Troy Jackson fathered two kids with his second cousin: report New York Post Maine Secretary of State Office declines comment on Jackson eligibility WGME",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRkgtMktWT005bnAxVm5kOUVWQTVBNTlLZ0V1U1lTYnpkemlURlByOTFFTWpOWXpudkdsdkhxZ0RPY2tKSDdsajhUZnhWSG9zeHBxRENyWkhzRC1EdVNpNUg5TngwZnl3MmFNc3FtdTdEQlhCTW5hS2h2Q0JJZ1dGNFYyZXFiNlI3WWtqSGQxRFk4SWo3THNkWW0xS25ZUGNJejR5bnlQVGwyY2h1LUVnMHQ3dTd0RmRjS0FGV1N5UU5uSlp1LWFyQzJaZ19OTkZIR0s5Y2lkdWcxQ0R0?oc=5",
+          "publishedAt": "2026-08-02T15:47:23.000Z",
+          "sentiment": -1
         },
         {
-          "id": "53e2e1959eb31b1c30bdec77b6f5ec1596d6055dbd3a4ed83b81ac2476704d25",
-          "title": "'Like Graham Platner But Worse': GOP Group Vows $42M Campaign Against Last-Minute Replacement Democrat",
-          "description": "A Republican group has vowed to spend at least $42 million against the new nominee to be one of Maine’s Democratic senators, Troy Jackson, the Daily Caller News Foundation has [...] The post 'Like Graham Platner But Worse': GOP Group Vows $42M Campaign Against Last-Minute Replacement Democrat appeared first on The Western Journal .",
-          "sourceName": "The Western Journal",
-          "url": "https://www.westernjournal.com/like-graham-platner-worse-gop-group-vows-42m-campaign-last-minute-replacement-democrat/",
-          "publishedAt": "2026-08-01T14:30:00.000Z",
-          "sentiment": -0.7
-        },
-        {
-          "id": "b6584953037044b0c90cbcf623398e31fb1a271be24a01e6eec51919a10da58d",
-          "title": "Elon Musk Set to Pour $100M Into Collins' Race: Report",
-          "description": "Elon Musk is poised to become a major player in this fall's Senate map, with Maine's Susan Collins at the center of his plans. Sources tell the New York Times that Musk has authorized his America PAC to deploy $100 million to $120 million to aid Collins and GOP candidates...",
-          "sourceName": "Newser",
-          "url": "https://www.newser.com/story/393901/elon-musk-set-to-pour-100m-into-collins-race-report.html",
-          "publishedAt": "2026-08-01T13:50:00.000Z",
+          "id": "e1f3dddc0dab883195fd0021afbca48ad5f588368bd9e1e091ffa21542da8c62",
+          "title": "Virginia patrol sergeant fired, accused by FBI of paying for child porn material online",
+          "description": "A former Stafford County sheriff's sergeant has been fired after the FBI accused him of getting child sexual abuse material through an online account.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/virginia-patrol-sergeant-fired-accused-by-fbi-of-paying-86197124",
+          "publishedAt": "2026-08-02T15:36:23.000Z",
           "sentiment": 0
         }
       ],
