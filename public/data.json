@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T21:20:07.347Z",
+  "lastUpdated": "2026-08-03T22:29:59.129Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3230555555555556,
+      "overallSentiment": 0.3314285714285714,
       "newsSentiment": 0.0625,
-      "socialSentiment": 0.35666666666666663,
+      "socialSentiment": 0.3817857142857141,
       "mentions": {
         "news": 16,
-        "social": 135,
+        "social": 140,
         "youtube": 16,
-        "total": 167
+        "total": 172
       },
       "news": [
         {
@@ -196,6 +196,102 @@
       ],
       "social": [
         {
+          "id": "0d02220511206309331ba8ab296645ecf4a391df9ad33620c9cf2fc1f096eeb7",
+          "authorHandle": "sheckydoskie.bsky.social",
+          "postText": "www.dailykos.com/stories/2026...",
+          "createdAt": "2026-08-03T22:27:01.165Z",
+          "uri": "at://did:plc:zdabh5o4mwptivjbyaqzg54z/app.bsky.feed.post/3ms7k6rr7z22m",
+          "sentiment": 0
+        },
+        {
+          "id": "0feca2a98c312fe665d58b96767bac6c6571ac44e1f2f3758a4e77c21a8504ad",
+          "authorHandle": "hooverstreetrag.org",
+          "postText": "OK, so...\nMontero\nFramber\nTroy Melton\nJackson Jobe return from IL\nBullpen Chaos",
+          "createdAt": "2026-08-03T22:24:57.604Z",
+          "uri": "at://did:plc:y3caxnlaf3dzjx6u7e7a7y67/app.bsky.feed.post/3ms7k33wgxs2k",
+          "sentiment": 0
+        },
+        {
+          "id": "e825e54ed8b6fc6a77dbb5bbfc29719653149bca7ad0e450fc716e9960af20e8",
+          "authorHandle": "kjc7177.bsky.social",
+          "postText": "'You Don't Get to Buy the Government That You Want,' Troy Jackson Tells Elon Musk www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-03T22:21:56.817Z",
+          "uri": "at://did:plc:sxyjqtjtra5bboqzsxcpyh47/app.bsky.feed.post/3ms7jvpjd4k2m",
+          "sentiment": 1
+        },
+        {
+          "id": "c248c917ca13f2b39d0b9da4d6bc21afb8dd2d28319fd7b273b4f79174e39ba6",
+          "authorHandle": "indivisiblesville.bsky.social",
+          "postText": "The primary was an Odyssey, but the Maine Dems have returned to Troy. Troy Jackson: a 5th-generation logger, who has worked as a union organizer and president of the Maine Senate. We will be working with @swingbluealliance.org to send in person canvassers to Maine. Sign up here:",
+          "createdAt": "2026-08-03T22:20:11.587Z",
+          "uri": "at://did:plc:pbvno5xhazv6nqfvhbxgis2s/app.bsky.feed.post/3ms7jsl5whs2e",
+          "sentiment": 1
+        },
+        {
+          "id": "90754cdca0d4775be282de150aaaa21e5992a77f6ca5bcf88e53ec12c33d988d",
+          "authorHandle": "rayhether.bsky.social",
+          "postText": "Maine Democrat rips Musk using 'dirty money' to boost Susan Collins www.dailykos.com/stories/2026...",
+          "createdAt": "2026-08-03T22:18:37.031Z",
+          "uri": "at://did:plc:awja7lo7gd4kg5htprel4i37/app.bsky.feed.post/3ms7jpqybnk2l",
+          "sentiment": 1
+        },
+        {
+          "id": "e1b248eb8d7d43b6deb14937cbb58f6b8df3013f1c5a8e69eb2fbfacb9d96319",
+          "authorHandle": "katwalably.bsky.social",
+          "postText": "youtube.com/watch?v=RG9U...",
+          "createdAt": "2026-08-03T22:18:36.510Z",
+          "uri": "at://did:plc:vs3kdkoqu4tznuvirws7smpf/app.bsky.feed.post/3ms7jpqiftk26",
+          "sentiment": 0
+        },
+        {
+          "id": "03b7cd6f04bffc9e340688d250faa9693c5a15d6ea8a3c7eeee8ef9a2a71294d",
+          "authorHandle": "breynold55.bsky.social",
+          "postText": "www.dailykos.com/stories/2026...",
+          "createdAt": "2026-08-03T22:10:51.512Z",
+          "uri": "at://did:plc:us36cbcxqrx37fwccg5sttkp/app.bsky.feed.post/3ms7jbuzras2j",
+          "sentiment": 0
+        },
+        {
+          "id": "0da8f1f02da2ab339e86006abdc1f6d603c246148a3b581d0d4927768ac83834",
+          "authorHandle": "us-political-news.bsky.social",
+          "postText": "Maine Democrat rips Musk using ‘dirty money’ to boost Susan Collins",
+          "createdAt": "2026-08-03T22:02:15Z",
+          "uri": "at://did:plc:fck7wsgqbs6yrpaw6nirucek/app.bsky.feed.post/3ms7isn2oc72j",
+          "sentiment": 1
+        },
+        {
+          "id": "4864b0160f90e5007b0e895baf4eb0709cf2864284078ec485705a13e80fe2ae",
+          "authorHandle": "dharmalee3.bsky.social",
+          "postText": "'You Don't Get to Buy the Government That You Want,' Troy Jackson Tells Elon Musk www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-03T21:58:03.941Z",
+          "uri": "at://did:plc:y3wyn2keqln5hdywt7btznbj/app.bsky.feed.post/3ms7ikyzf6c2e",
+          "sentiment": 1
+        },
+        {
+          "id": "d26f22a4cc779e68175c30d77467d64cea9e6dbf328c2b03918a7a95a5ff351b",
+          "authorHandle": "collinswatch.bsky.social",
+          "postText": "Whole race in a nut shell:\n\nSusan Collins is a product of the ownership class and a member of the ownership class focused on advancing ownership class interests and Troy Jackson is a product of the working class and a member of the working class eager to advance working class interests. #MEpolitics",
+          "createdAt": "2026-08-03T21:40:31.417Z",
+          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3ms7hlnavpc2z",
+          "sentiment": 1
+        },
+        {
+          "id": "bd4623ec90e112af5a206f60f2f3d5d1b6ecde1f07695cdffcd2de7f7725e510",
+          "authorHandle": "marnidarr.bsky.social",
+          "postText": "Keep your blood money out of Michigan, too, ya POS!\n'You Don't Get to Buy the Government That You Want,' Troy Jackson Tells Elon Musk www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-03T21:40:04.624Z",
+          "uri": "at://did:plc:d4xis7llv75hvdx6n35qvzfa/app.bsky.feed.post/3ms7hktpao22w",
+          "sentiment": 1
+        },
+        {
+          "id": "a074bbe88a5e586f5b5c39d8d71c77d90192592de5157e74119665c10e225bc3",
+          "authorHandle": "xineweb.bsky.social",
+          "postText": "Calling it a suggestion was your opportunity to drop it. Now that you say I imagined it, I am attaching your post with the language highlighted. You said “Schumer …. now wont endorse Troy Jackson”. Your statement is wrong.",
+          "createdAt": "2026-08-03T21:38:12.653Z",
+          "uri": "at://did:plc:4p3aqvz6rbyi6yig4x4t7ua3/app.bsky.feed.post/3ms7hhiwbvc22",
+          "sentiment": 0
+        },
+        {
           "id": "b19b8566b40235487b3d3c7e5651176c46c722d024be5210c24ea4d2dac553ea",
           "authorHandle": "susanpatrick1.bsky.social",
           "postText": "👏👏🔥\n'You Don't Get to Buy the Government That You Want,' Troy Jackson Tells Elon Musk www.commondreams.org/news/troy-ja...",
@@ -338,14 +434,6 @@
           "createdAt": "2026-08-03T18:52:23.159Z",
           "uri": "at://did:plc:syp5sbeldusi3ugjcrqziee3/app.bsky.feed.post/3ms766ydy222k",
           "sentiment": 0.7
-        },
-        {
-          "id": "1061f03c2a6e4d0aa9797b09ca88e590c6d148cbf467339aaeb9eacf5676d7f0",
-          "authorHandle": "ghostfacekahlua.bsky.social",
-          "postText": "SinclairMedia just posted this on the Facebook feeds of its 178 television stations. They’ve pictured current Senate Democratic candidate Troy Jackson even though the article is actually about the man he replaced Graham Platner.",
-          "createdAt": "2026-08-03T18:49:19.693Z",
-          "uri": "at://did:plc:bwi4vkfuagpu6b7jhozz4d2s/app.bsky.feed.post/3ms75zjet6s26",
-          "sentiment": -0.3
         },
         {
           "id": "2e1240ecbc18aca145a06e7902f2ae895af4ec7deb8900337dc0c09c337f8efc",
@@ -1226,54 +1314,6 @@
           "createdAt": "2026-08-02T23:12:39.388Z",
           "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3ms54bhogv22n",
           "sentiment": 0.6
-        },
-        {
-          "id": "55a606922e39a22310084899fb9ef263bc7ceb4380bd192a01e06faf78084494",
-          "authorHandle": "babyblue70.bsky.social",
-          "postText": "And then there’s  Troy Jackson. His temper precedes him😤\nAbout 5 yrs. ago, Jackson threw a plastic water bottle at fellow Democratic State Senator Heather Sanborn during a private caucus meeting.💦",
-          "createdAt": "2026-08-02T22:24:51.856Z",
-          "uri": "at://did:plc:z5hqye47tfwdbvmbgon7genv/app.bsky.feed.post/3ms4zlyygl22i",
-          "sentiment": -1
-        },
-        {
-          "id": "1e84ccf336f0406f8549da1e6759e64d474d810de9112ba86aae37ce4132bb37",
-          "authorHandle": "paulusg.bsky.social",
-          "postText": "Sanders backs Troy Jackson in Maine Senate race: ‘Strong platform’ thehill.com/homenews/cam...",
-          "createdAt": "2026-08-02T21:57:47.315Z",
-          "uri": "at://did:plc:tuxwe4zpahsqzhqh7vwivq5x/app.bsky.feed.post/3ms4y3lpats2h",
-          "sentiment": 1
-        },
-        {
-          "id": "42cfc05b422319f9d7328da9ea322f9112b405f55ace6376abff5f4eaaefa243",
-          "authorHandle": "paulusg.bsky.social",
-          "postText": "Sanders backs Troy Jackson in Maine Senate race: ‘Strong platform’ thehill.com/homenews/cam...",
-          "createdAt": "2026-08-02T21:50:15.175Z",
-          "uri": "at://did:plc:tuxwe4zpahsqzhqh7vwivq5x/app.bsky.feed.post/3ms4xo4izus2o",
-          "sentiment": 1
-        },
-        {
-          "id": "55887680e23534e4e45fd79bf3e262db1e66f1515becbb07fa7aa8c3715fc354",
-          "authorHandle": "petrovdempski.bsky.social",
-          "postText": "www.theguardian.com/us-news/2026...",
-          "createdAt": "2026-08-02T21:49:16.839Z",
-          "uri": "at://did:plc:j22a6b57hcrkrmjgsihslkwe/app.bsky.feed.post/3ms4xmeuq5k26",
-          "sentiment": 0
-        },
-        {
-          "id": "aa7fec5cc8b1fdfdb72a297d30e91a98b69cdfecd08400a9be78001ac4ea6017",
-          "authorHandle": "fogbaby.bsky.social",
-          "postText": "And this photo helps Sen. Susan Collins take credit for it as she struggles to fend off her Dem opponent, Troy Jackson, in Maine’s upcoming midterm election.",
-          "createdAt": "2026-08-02T21:23:08.854Z",
-          "uri": "at://did:plc:3jz4itvyprjys2ssbtkg7mtd/app.bsky.feed.post/3ms4w5njmsc2m",
-          "sentiment": 0
-        },
-        {
-          "id": "34316c5552ce86ee1658d1a606dfe9336b4d776eb1ce16c2828dbfc43fb80c3c",
-          "authorHandle": "realtuckfrumper.bsky.social",
-          "postText": "Sanders backs Troy Jackson in Maine Senate race: 'Strong platform' #TheHill",
-          "createdAt": "2026-08-02T21:22:12.000Z",
-          "uri": "at://did:plc:wjatbj4hiinxfqaeixaw2bcp/app.bsky.feed.post/3ms4w3ynev22p",
-          "sentiment": 1
         }
       ],
       "youtube": [
@@ -1443,17 +1483,41 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.05,
+      "overallSentiment": 0.2,
       "newsSentiment": null,
-      "socialSentiment": -0.05,
+      "socialSentiment": 0.2,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 5,
         "youtube": 0,
-        "total": 2
+        "total": 5
       },
       "news": [],
       "social": [
+        {
+          "id": "b7fcb8c49c710aa1182f5892ab8ab2fb17c5fbd0b7b0f20babb683d7e21c877c",
+          "authorHandle": "cuuixsilver.bsky.social",
+          "postText": "Jordan Wood is on target with this.",
+          "createdAt": "2026-08-03T22:29:27.670Z",
+          "uri": "at://did:plc:5jgll5u3wgxxtqkk62o2exxx/app.bsky.feed.post/3ms7kd5i7cc2v",
+          "sentiment": 0.7
+        },
+        {
+          "id": "214b95c7fbad2fd28aac110749771bf79cedfe2dbaa43c2cdfaf20a28f3563d1",
+          "authorHandle": "dalepoak.bsky.social",
+          "postText": "Jordan Wood is a bit confused because the Judiciary Committee vote is tomorrow. Collins is not on Judiciary. \n\nBut the full Senate vote could be later this week, so, yes, CONTACT COLLINS AND ASK HER TO VOTE NO ON CONFIRMATION. \n\nwww.collins.senate.gov/contact/emai...",
+          "createdAt": "2026-08-03T22:26:21.315Z",
+          "uri": "at://did:plc:xkjgyy4iuyalmdq24yiny64v/app.bsky.feed.post/3ms7k5lr4xs2b",
+          "sentiment": -0.4
+        },
+        {
+          "id": "b72b9282ce087ea55c610be4e883c4074413291ae816135fc14dbf2c3a5d3be4",
+          "authorHandle": "pinetreeactivism.org",
+          "postText": "Kudos to Jordan Wood for keeping the messaging alive that Susan Collins needs to know from ALL of us that we do NOT want her to vote to confirm Todd Blanche for US Att'y General, head of the DOJ.\n\n#TellSusanNO",
+          "createdAt": "2026-08-03T22:14:22.045Z",
+          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3ms7ji5spv22y",
+          "sentiment": 0.8
+        },
         {
           "id": "c66a05732ef9ca0fb15efac34b79febdf71503bb166109ff05f7cbd89f4ce266",
           "authorHandle": "drew-journalist93.bsky.social",
