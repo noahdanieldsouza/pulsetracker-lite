@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T13:58:32.487Z",
+  "lastUpdated": "2026-08-04T14:02:46.844Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,159 +39,168 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.33727168949771696,
-      "newsSentiment": 0.0625,
+      "overallSentiment": 0.26741874832124635,
+      "newsSentiment": -0.14705882352941177,
       "socialSentiment": 0.39931506849315074,
       "mentions": {
-        "news": 16,
+        "news": 17,
         "social": 146,
         "youtube": 16,
-        "total": 178
+        "total": 179
       },
       "news": [
         {
-          "id": "54453c1906074a87e011ef7b5f82c5cf79d505c1b5eeb9d9f510dba8b0164419",
-          "title": "Seattle Mariners Secure Walk-Off Victory Over Minnesota Twins",
-          "description": "Seattle Mariners' Colt Emerson hit a walk-off RBI single in the ninth inning to secure a 7-6 win over the Minnesota Twins, their second consecutive walk-off victory.",
+          "id": "2576a98897e953d0e13009a3b0721ec9ccf7f38645b4313c22cc9e713a2a4edd",
+          "title": "Report: Elon Musk to spend millions backing Susan Collins' reelection",
+          "description": "The New York Times reports that the world's wealthiest person is planning to spend up to $120 million backing Republicans in several key races, including the U.S. Senate contest in Maine.",
+          "sourceName": "Nhpr",
+          "url": "https://www.nhpr.org/politics/2026-08-03/report-elon-musk-to-spend-millions-backing-susan-collins-reelection",
+          "publishedAt": "2026-08-03T20:58:59.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "172e40b5e200a4209e6a56ee158f8f566d8d8b891ec75acb48eba2a1a2513fea",
+          "title": "Susan Collins hasn’t decided whether to confirm Todd Blanche as AG",
+          "description": "The Republican senator from Maine did vote with her party to confirm him as deputy attorney general last year.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/03/politics/washington/susan-collins-todd-blanche-confirmation/",
+          "publishedAt": "2026-08-03T20:49:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "84a5f0ce4b99a691595c4a701a0d4e728588dfddc3c684b8a782bf68edb1a9ce",
+          "title": "Troy Jackson’s first campaign ad highlights Maine logging roots",
+          "description": "The spot comes with just over 90 days to go before the Nov. 3 election.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/08/03/troy-jacksons-first-campaign-ad-highlights-maine-logging-roots/",
+          "publishedAt": "2026-08-03T19:08:09.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "f060fb8d2221eb6d365f09d11a68343dc4f636fa2930b3e27f81f47c145dab77",
+          "title": "Troy Jackson’s first campaign ad highlights Maine logging roots",
+          "description": "The spot comes with just over 90 days to go before the Nov. 3 election.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/08/03/troy-jacksons-first-campaign-ad-highlights-maine-logging-roots/",
+          "publishedAt": "2026-08-03T19:08:09.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "d3bff3e4c6b9de5444346b846ad1aba18b6a71f16778bdc3adb9f288cc730ed8",
+          "title": "Troy Jackson’s first campaign ad highlights Maine logging roots",
+          "description": "The spot comes with just over 90 days to go before the Nov. 3 election.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/08/03/troy-jacksons-first-campaign-ad-highlights-maine-logging-roots/",
+          "publishedAt": "2026-08-03T19:08:09.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "eb474d50f07d3339d202460623b82034aa44fa559407ede3267f956d4aea0a45",
+          "title": "Maine Jewish leaders push back on Gaza genocide accusation against Israel",
+          "description": "Many Democratic politicians, including Senate nominee Troy Jackson, say Israel has perpetrated a genocide of Palestinians.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/08/03/maine-jewish-leaders-push-back-on-gaza-genocide-accusation-against-israel/",
+          "publishedAt": "2026-08-03T18:38:52.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "fa8bb255997230544f0bdc6e7cb697d90b31b6ff65e3f76d8c1f3f084d847f04",
+          "title": "SEC Should Withdraw Proposal Limiting Investor Access to Essential Climate-Related Information",
+          "description": "More than 35 groups today called on the U.S. Securities and Exchange Commission (SEC) to withdraw its proposal to rescind its 2024 climate disclosure rule. The 2024 rule, which is currently stayed in litigation, requires large public companies to disclose climate-related financial risk information t...",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/seattle-mariners-secure-walk-off-victory-over-minnesota-86205353",
-          "publishedAt": "2026-08-03T01:06:23.000Z",
+          "url": "https://us.headtopics.com/news/sec-should-withdraw-proposal-limiting-investor-access-to-86234325",
+          "publishedAt": "2026-08-03T18:37:11.000Z",
           "sentiment": 0
         },
         {
-          "id": "fc6ca57577c70cc42948cb3cb39828bccb9ae3e0a625f97ca6478062f095f48b",
-          "title": "Let’s do science: Share your wild turkey sightings",
-          "description": "MAINE—All good wildlife management starts with science, and all good science starts with data. That’s where you come in. Maine’s Wild Turkey August Production Survey invites community scientists to play a direct role in monitoring our state’s wild turkey population. Whether you enjoy watching wildlife from your window, spend time hiking, hunting, or exploring the [...] The post Let’s do science: Share your wild turkey sightings appeared first on News Pub . The post Let’s do science: Share your wild turkey sightings appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/lets-do-science-share-your-wild-turkey-sightings/",
-          "publishedAt": "2026-08-03T00:25:07.000Z",
+          "id": "d42d9fb0d7692302b4460fef51885b9d30fa87412da695dfc3efb920104ec9a2",
+          "title": "You can now request a Maine absentee ballot for the general election",
+          "description": "You can contact your city or town clerk or use the form on the Maine Secretary of State website.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/08/03/you-can-now-request-maine-absentee-ballot-general-election/",
+          "publishedAt": "2026-08-03T18:22:35.000Z",
           "sentiment": 0
         },
         {
-          "id": "08954dcf6c3593086644ddabb8c92e74a9e2fffaa84dd641a25ff88dbd791e93",
-          "title": "SUV jumps curb, crashes into Sedro-Woolley liquor store; driver arrested for DUI",
-          "description": "A driver was arrested on suspicion of DUI after a vehicle jumped a curb and crashed into the front of a liquor store in Sedro-Woolley, causing significant damag",
+          "id": "0f176ce94275b52c1db2805e9fb9502b87cf87e1ebf0331e7320edf643ad0870",
+          "title": "Report: Elon Musk to spend millions backing Susan Collins' reelection",
+          "description": "The New York Times reports that the world's wealthiest person is planning to spend up to $120 million backing Republicans in several key races, including the U.S. Senate contest in Maine.",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/news/2026-08-03/report-elon-musk-to-spend-millions-backing-collins-reelection",
+          "publishedAt": "2026-08-03T16:34:58.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "bf14b63a6faf1afaf569eb04e32036d288c7be03ebcc122cb25e8673b868a4e4",
+          "title": "Monday’s Campaign Round-Up, 8.3.26: Candidates scramble ahead of primaries in 5 states",
+          "description": "Today’s installment of campaign-related news items from across the country. The post Monday’s Campaign Round-Up, 8.3.26: Candidates scramble ahead of primaries in 5 states appeared first on MS NOW .",
+          "sourceName": "Ms Now",
+          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/campaign-primaries-kansas-michigan-missouri-virginia-washington",
+          "publishedAt": "2026-08-03T16:17:16.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "66a5c1db1f95185b4c0cc98a118eb865f09f61c79890fc2d73ff9c8eeec7b6f4",
+          "title": "Big Oil Giant BP Banks Blockbuster Profits as Climate Disasters Strike Across the Globe",
+          "description": "As communities across the world endure record-breaking heatwaves, wildfires and rising living costs, the world’s biggest oil and gas companies have confirmed another blockbuster quarter of profits. The Make Polluters Pay coalition says the timing exposes the true cost of delaying the end of the foss...",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/suv-jumps-curb-crashes-into-sedro-woolley-liquor-store-86203869",
-          "publishedAt": "2026-08-02T23:07:08.000Z",
+          "url": "https://us.headtopics.com/news/big-oil-giant-bp-banks-blockbuster-profits-as-climate-86229395",
+          "publishedAt": "2026-08-03T16:07:13.000Z",
           "sentiment": 0
         },
         {
-          "id": "d788ac211f32ffbdc1d4d5506ec5f8dc51c548e192acb275be40b50e19d1f86b",
-          "title": "Ms Rachel claims 'no one needs a billion dollars,' endorses Democratic progressives Abdul El-Sayed, Cori Bush",
-          "description": "Ms. Rachel endorsed Cori Bush, Abdul El-Sayed and 10 other progressive candidates, telling her 5 million followers she backs those who protect kids.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/ms-rachel-claims-no-one-needs-a-billion-dollars-endorses-86202615",
-          "publishedAt": "2026-08-02T21:36:29.000Z",
-          "sentiment": 0
+          "id": "d3ce21ac0c908335f4500b7dc552fbc83a17b68dfb9a451075ae954861c48c73",
+          "title": "Troy Jackson, Maine Democratic Senate candidate, lashes out at reporting on his cousin romance",
+          "description": "Troy Jackson, the Democratic Senate nominee in Maine, is firing back at scrutiny of his romantic partnership with his second cousin.",
+          "sourceName": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/aug/3/troy-jackson-maine-democratic-senate-candidate-lashes-reporting/",
+          "publishedAt": "2026-08-03T15:53:25.000Z",
+          "sentiment": -0.4
         },
         {
-          "id": "8b139f96a70a9e8f74182247c871e1835e4654938ce3e3273cdf670d1f89713d",
-          "title": "Sanders backs Troy Jackson in Maine Senate race: ‘Strong platform’",
-          "description": "Sen. Bernie Sanders (I-Vt.) on Sunday backed new Maine Senate Democratic nominee Troy Jackson, and said he will officially endorse the former state Senate president if Jackson “asks” him. “You want a working-class voice in Washington, D.C., Troy is certainly that voice. I have seen his platform. It is a strong platform, standing up for...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/campaign/6004642-sanders-backs-maine-jackson/",
-          "publishedAt": "2026-08-02T21:19:30.000Z",
-          "sentiment": 1
+          "id": "4d8f6c7396535c93c34b5a15ab96798da4a979c2473690618e4d02fdff99af1a",
+          "title": "2026-08-03T15:05:11+00:00",
+          "description": "At issue is whether Democrats are running the risk of nominating someone who is significantly weaker in a general election.",
+          "sourceName": "Los Angeles Daily News",
+          "url": "https://www.dailynews.com/2026/08/03/the-stakes-are-rising-for-democrats-in-two-key-races/",
+          "publishedAt": "2026-08-03T15:05:11.000Z",
+          "sentiment": -0.3
         },
         {
-          "id": "b731d7192f94b5f87e74509938bcb1062e823e1cae91cc551b9bf2d7f351f185",
-          "title": "Gov. Ferguson to visit Spokane as wildfires burn hundreds of homes, force 5K+ evacuations",
-          "description": "Gov. Bob Ferguson was en route to Spokane on Sunday morning to meet with first responders and monitor a goriwung wildfire crisis after declaring a statewide eme",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/gov-ferguson-to-visit-spokane-as-wildfires-burn-hundreds-86202158",
-          "publishedAt": "2026-08-02T20:36:59.000Z",
-          "sentiment": 0
+          "id": "766a833ae6101f1bcdb84e3319d979c8c75c1edbbb50dd0bf95abd6f76f4db6f",
+          "title": "The stakes are rising for Democrats in two key races",
+          "description": "At issue is whether Democrats are running the risk of nominating someone who is significantly weaker in a general election.",
+          "sourceName": "San Bernardino Sun",
+          "url": "https://www.sbsun.com/2026/08/03/the-stakes-are-rising-for-democrats-in-two-key-races/",
+          "publishedAt": "2026-08-03T15:05:00.000Z",
+          "sentiment": -0.3
         },
         {
-          "id": "0015f5284f34fc3d28d4b7f4e050342114fe6735f0ce32ce4560b9fb57c9b3e4",
-          "title": "Washington's primary election day is Tuesday, here's what to know",
-          "description": "In just two days, Washingtonians will weigh in on the state's primary election. Cities and counties all have varying issues, but there are some statewide reces",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/washington-s-primary-election-day-is-tuesday-here-s-what-86202165",
-          "publishedAt": "2026-08-02T20:36:59.000Z",
-          "sentiment": 0
+          "id": "7a61c727fb69851290a39f8ba31dc4119480cbf3fcb9fc11ec18509f30957a2a",
+          "title": "The stakes are rising for Democrats in two key races",
+          "description": "At issue is whether Democrats are running the risk of nominating someone who is significantly weaker in a general election.",
+          "sourceName": "Inland Valley Daily Bulletin",
+          "url": "https://www.dailybulletin.com/2026/08/03/the-stakes-are-rising-for-democrats-in-two-key-races/",
+          "publishedAt": "2026-08-03T15:05:00.000Z",
+          "sentiment": -0.3
         },
         {
-          "id": "5e1cce0e83c3a7219ac944fb808486729efc7cc3b0d853ca0338e23216732340",
-          "title": "LINK train derails at CID station; 1 and 2 Lines partially suspended",
-          "description": "Sound Transit is working to restore full light-rail service after an out-of-service train derailed late Satueday night near the International District/Chinatown",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/link-train-derails-at-cid-station-1-and-2-lines-partially-86202154",
-          "publishedAt": "2026-08-02T20:36:59.000Z",
-          "sentiment": 0
+          "id": "20fd29025f808d70bb24b304318f7061770b7853430afd81218ffdca71039467",
+          "title": "The stakes are rising for Democrats in two key races",
+          "description": "At issue is whether Democrats are running the risk of nominating someone who is significantly weaker in a general election.",
+          "sourceName": "Redlands Daily Facts",
+          "url": "https://www.redlandsdailyfacts.com/2026/08/03/the-stakes-are-rising-for-democrats-in-two-key-races/",
+          "publishedAt": "2026-08-03T15:05:00.000Z",
+          "sentiment": -0.3
         },
         {
-          "id": "6efde88d5ef0732ff4ce38ad9fd6c5a63f0ca23fa0e2978271dc4d49b68ff462",
-          "title": "Ms Rachel claims ‘no one needs a billion dollars,’ endorses Democratic progressives Abdul El-Sayed, Cori Bush",
-          "description": "Popular children’s YouTube educator Ms. Rachel backed a dozen progressive Democratic candidates on Friday, including... The post Ms Rachel claims ‘no one needs a billion dollars,’ endorses Democratic progressives Abdul El-Sayed, Cori Bush appeared first on Democratic Accent .",
-          "sourceName": "Democratic Accent",
-          "url": "https://www.democraticaccent.com/ms-rachel-claims-no-one-needs-a-billion-dollars-endorses-democratic-progressives-abdul-el-sayed-cori-bush/",
-          "publishedAt": "2026-08-02T18:49:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8032a32b0c9b743f07c7d14b9365ec115faa18063863ad454aa60ac764bb6c62",
-          "title": "Ms Rachel claims 'no one needs a billion dollars,' endorses Democratic progressives Abdul El-Sayed, Cori Bush",
-          "description": "Ms. Rachel endorsed Cori Bush, Abdul El-Sayed and 10 other progressive candidates, telling her five million followers she backs those who protect kids.",
-          "sourceName": "Fox News",
-          "url": "https://www.foxnews.com/media/ms-rachel-claims-no-one-needs-billion-dollars-endorses-democratic-progressives-abdul-el-sayed-cori-bush",
-          "publishedAt": "2026-08-02T18:49:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cd265772d2b183bbf9804a838f536fbdce8ede5fdcd38bc0f9f21ceb3961dd4c",
-          "title": "Ms Rachel claims 'no one needs a billion dollars,' endorses Democratic progressives Abdul El-Sayed, Cori Bush",
-          "description": "Ms. Rachel endorsed Cori Bush, Abdul El-Sayed and 10 other progressive candidates, telling her 5 million followers she backs those who protect kids.",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/articles/ms-rachel-claims-no-one-184920871.html",
-          "publishedAt": "2026-08-02T18:49:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8845afc600cd1d12ed3e13d61900c7c0c1e4d6038cc2b3c6a9609a51e0319497",
-          "title": "Argument between Walmart customers leads to shooting, employee injured: police",
-          "description": "An argument between customers at Walmart led to a shooting that left an employee suffering from a gunshot wound.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/argument-between-walmart-customers-leads-to-shooting-86199509",
-          "publishedAt": "2026-08-02T17:37:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9b12e560b7c06bbfd3d8b3ce0438ca7bd1a7772a57f50afdb094587b49a58ea4",
-          "title": "‘No deal is just fine,’ Sen. John N. Kennedy says on Iran peace talks - Politico",
-          "description": "‘No deal is just fine,’ Sen. John N. Kennedy says on Iran peace talks Politico Sen. Kennedy says Trump likes daily strikes on Iran: ‘Sometimes you have to kill a few chickens to scare the monkeys’ The Hill Louisiana’s Bill Cassidy, John Kennedy call for more information on Iran conflict NOLA.com Live updates: Troy Jackson clinches Susan Collins match in midterms; Cyclospora outbreak tests Trump The Hill GOP Sen. John Kennedy says U.S. has ‘lost perspective’ on war with Iran: Full interview Yahoo",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGFsZkFpZVdHcDIwQXAwdHhTVDNITHEzNjE5Q3d3c1dhRTUxQzRqQ2tBVmtDajlDWkphN3RaTzhCaWdTUHFIdzNyekhyTV9lV0tvcks0alNVMjIxd0NTWE93ei1UTnltdDFxMkpmbUhvSU9icW5OdEh3NVl3NXgxMW1WVkE5dw?oc=5",
-          "publishedAt": "2026-08-02T17:08:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "26f828bab330af8aecc29688075d3ceb2f417c72017421b6347a129e3d194b68",
-          "title": "FAA installs new tower simulator at Paine Field, aiming to cut controller training by 30%",
-          "description": "Air traffic controllers at Seattle Paine Field International Airport have received a new Tower Simulation System designed to improve training as part of the Fed",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/faa-installs-new-tower-simulator-at-paine-field-aiming-to-86198759",
-          "publishedAt": "2026-08-02T17:07:14.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a549576a7742acab7e26833675b15661986ac66fc849819661c5659e60030bb5",
-          "title": "Maine’s Democratic Senate candidate touts his rural appeal. His hometown has mixed feelings. - The Washington Post",
-          "description": "Maine’s Democratic Senate candidate touts his rural appeal. His hometown has mixed feelings. The Washington Post Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins NBC News Upheaval in Maine and another 100-day campaign - can Democrats pull it off? The Guardian Maine Dem Senate candidate Troy Jackson fathered two kids with his second cousin: report New York Post Maine Secretary of State Office declines comment on Jackson eligibility WGME",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRkgtMktWT005bnAxVm5kOUVWQTVBNTlLZ0V1U1lTYnpkemlURlByOTFFTWpOWXpudkdsdkhxZ0RPY2tKSDdsajhUZnhWSG9zeHBxRENyWkhzRC1EdVNpNUg5TngwZnl3MmFNc3FtdTdEQlhCTW5hS2h2Q0JJZ1dGNFYyZXFiNlI3WWtqSGQxRFk4SWo3THNkWW0xS25ZUGNJejR5bnlQVGwyY2h1LUVnMHQ3dTd0RmRjS0FGV1N5UU5uSlp1LWFyQzJaZ19OTkZIR0s5Y2lkdWcxQ0R0?oc=5",
-          "publishedAt": "2026-08-02T15:47:23.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "e1f3dddc0dab883195fd0021afbca48ad5f588368bd9e1e091ffa21542da8c62",
-          "title": "Virginia patrol sergeant fired, accused by FBI of paying for child porn material online",
-          "description": "A former Stafford County sheriff's sergeant has been fired after the FBI accused him of getting child sexual abuse material through an online account.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/virginia-patrol-sergeant-fired-accused-by-fbi-of-paying-86197124",
-          "publishedAt": "2026-08-02T15:36:23.000Z",
-          "sentiment": 0
+          "id": "cd49ba9a8bb4066a507d2e5da3d41cbf09768315da1c4e39acbcb4efd5891548",
+          "title": "The Democratic Party's Got a Vetting Problem, and It's Impacting Us All",
+          "description": "The Nazi rapist. The guy married to his cousin. The chick on lithium, institutionalized with bipolar disorder. How are Democrats picking...",
+          "sourceName": "Townhall",
+          "url": "https://townhall.com/news/amy-curtis/2026/08/03/mon-vip-dems-vetting-n2680518",
+          "publishedAt": "2026-08-03T14:30:00.000Z",
+          "sentiment": -0.5
         }
       ],
       "social": [
