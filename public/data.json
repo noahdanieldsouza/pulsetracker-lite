@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T21:36:45.907Z",
+  "lastUpdated": "2026-08-05T22:39:47.949Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -76,14 +76,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.37472406181015455,
+      "overallSentiment": 0.3659909909909909,
       "newsSentiment": 0.3,
-      "socialSentiment": 0.37417218543046354,
+      "socialSentiment": 0.3479729729729729,
       "mentions": {
         "news": 10,
-        "social": 151,
+        "social": 148,
         "youtube": 20,
-        "total": 181
+        "total": 178
       },
       "news": [
         {
@@ -178,6 +178,62 @@
         }
       ],
       "social": [
+        {
+          "id": "fdb2c51f255c1912274f1cba517e9287fb9fc13808601195de3d37b1282710ca",
+          "authorHandle": "royfdonovan.bsky.social",
+          "postText": "Troy Jackson: No federal or foreign policy experience. Entire career is Maine state legislature and logging. Lost governor primary (3rd place) before being appointed Senate nominee. Never worked in DC. No national security, military, or diplomatic background.",
+          "createdAt": "2026-08-05T22:27:01.861Z",
+          "uri": "at://did:plc:bmbtzi3e7vxu3qha6jkoccio/app.bsky.feed.post/3msel4ndxp22b",
+          "sentiment": -1
+        },
+        {
+          "id": "f523143715996e810be9b700ab0a3f59ad92ec17d3e4b7adf2475a58bd10e12f",
+          "authorHandle": "peggystuart.bsky.social",
+          "postText": "“This is not working” isn’t a complaint anymore, it’s a rallying cry, and Troy Jackson is turning it into a movement in Maine. Universal healthcare, affordable childcare, reproductive freedom, working people demanding all of it at once. We have 90 days to help make it real. \n#BlueWaveIn90Days",
+          "createdAt": "2026-08-05T22:25:44.522Z",
+          "uri": "at://did:plc:7fo4kehjjc7fbnan4dkyqrty/app.bsky.feed.post/3msel2dlreo2v",
+          "sentiment": 1
+        },
+        {
+          "id": "160445ee43de919c78d489f64ca0f517e384ddda93fef966ab5fc0408441d937",
+          "authorHandle": "midnitreebandit.bsky.social",
+          "postText": "Kinda like how Susan Collins' PAC are making sure everyone remembers how tight Platner and Troy Jackson were during the primary.",
+          "createdAt": "2026-08-05T22:17:24.801Z",
+          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mseklgzik22m",
+          "sentiment": -1
+        },
+        {
+          "id": "b2a7198fbc10cb17c3bffd4cc1d3cbc27482061e502dd739100885b2734d0df3",
+          "authorHandle": "betsy-cazden.bsky.social",
+          "postText": "It looks (from a distance) like Troy Jackson has mended fences with Bellows and others who bid in for the quickie primary. Several have endorsed him (not Mills, last I checked). He's also campaigning with Hannah Pingree and Matt Duncan -- all good signs.",
+          "createdAt": "2026-08-05T22:11:07.866Z",
+          "uri": "at://did:plc:26mvqmmodxg37uxp7uhpbn5m/app.bsky.feed.post/3mseka7kdxc24",
+          "sentiment": 0.5
+        },
+        {
+          "id": "77d354e468cfa9310f3ba172e3ed293000dc39d63b392540726892ebeb38376d",
+          "authorHandle": "dharmalee3.bsky.social",
+          "postText": "“This is not working” isn’t a complaint anymore, it’s a rallying cry, and Troy Jackson is turning it into a movement. Universal healthcare, affordable childcare, reproductive freedom, working people demanding all of it at once. Ninety days to help make it real.\n #BlueWaveIn90Days",
+          "createdAt": "2026-08-05T22:00:59.936Z",
+          "uri": "at://did:plc:y3wyn2keqln5hdywt7btznbj/app.bsky.feed.post/3msejo3rscs27",
+          "sentiment": 1
+        },
+        {
+          "id": "6617a925c7f793e0f82dfa0eb3c4d9b7b645b01b00de385eda6bd1b01e193e1f",
+          "authorHandle": "dirigoblue.bsky.social",
+          "postText": "More of this Hello Troy Jackson #MeSen #MePolitics",
+          "createdAt": "2026-08-05T21:54:52.877Z",
+          "uri": "at://did:plc:emynwtwnfwmol6mxg344f5rm/app.bsky.feed.post/3msejd5q47k2b",
+          "sentiment": 0
+        },
+        {
+          "id": "7534bcd7d28a7cb08416421d4470f5e3c8d10cf37e9ee643dfe4ca96e44da06d",
+          "authorHandle": "solnegawatt.bsky.social",
+          "postText": "“This is not working” isn’t a complaint anymore, it’s a rallying cry, and Troy Jackson is turning it into a movement. Universal healthcare, affordable childcare, reproductive freedom, working people demanding all of it at once. Ninety days to help make it real.\n #BlueWaveIn90Days",
+          "createdAt": "2026-08-05T21:46:55.390Z",
+          "uri": "at://did:plc:i5yuxqhohbxf6y7feowcwsxg/app.bsky.feed.post/3mseiuwecec2z",
+          "sentiment": 1
+        },
         {
           "id": "eba25784512f4fe6dc2a7ce71ed275b692e65519b5a4766111a01c06819aba3d",
           "authorHandle": "negdiscountrt.bsky.social",
@@ -1305,86 +1361,6 @@
           "createdAt": "2026-08-04T22:47:40.089Z",
           "uri": "at://did:plc:misdl6fbmmqcsidw6vtnxnx3/app.bsky.feed.post/3msc3smqxpc2i",
           "sentiment": 0.7
-        },
-        {
-          "id": "70f9093e837be7b145c3f34cd500d47620e8c58be5e3d96c90334257cce688db",
-          "authorHandle": "darjeelingltd.bsky.social",
-          "postText": "It won’t work. That Kavanaugh vote is going to haunt her forever. \n\nIn fact, Troy Jackson should just air her speech defending Kavanaugh as his only election ad until November.",
-          "createdAt": "2026-08-04T22:38:58.699Z",
-          "uri": "at://did:plc:m6m3gadyjdclag3wgsu3agrl/app.bsky.feed.post/3msc3d3jesk2b",
-          "sentiment": 0.7
-        },
-        {
-          "id": "8ad6df1537c2eefb8f3f2f9d1c29fe807bef3662f7f634301047fce8f68d99d7",
-          "authorHandle": "christinens.bsky.social",
-          "postText": "I hope Troy Jackson is making this argument against her. She does performative voting to stay in power and gives the GOP the gavel",
-          "createdAt": "2026-08-04T22:38:43.509Z",
-          "uri": "at://did:plc:e3eok3g5qza43u7zuv4cqfmf/app.bsky.feed.post/3msc3cmztsc2s",
-          "sentiment": 0.7
-        },
-        {
-          "id": "00e6557bb1eb912974890d60e863d23eb34523d64b3aac8026422fda50d971fd",
-          "authorHandle": "vichyregime2.bsky.social",
-          "postText": "Now isn't that convenient. After Troy Jackson pointed out she votes with Trump ninety six percent of the time she comes out against Todd Blanche. Of course now that Cornyn and Thillis capitulated they let her take an entirely performative no vote www.msn.com/en-us/news/p...",
-          "createdAt": "2026-08-04T22:34:38.233Z",
-          "uri": "at://did:plc:4a6onroxd32n4vkmhnn4hod2/app.bsky.feed.post/3msc33d4ofs2d",
-          "sentiment": 0.8
-        },
-        {
-          "id": "0b898f604ae3e11d4200059dc8e3941b90e7cfff73a68207a55797f44e79b4ca",
-          "authorHandle": "lm100.bsky.social",
-          "postText": "www.jacksonformaine.com/take-action",
-          "createdAt": "2026-08-04T22:27:03.936Z",
-          "uri": "at://did:plc:d2hnvs33rlpvu4zhdym7yhim/app.bsky.feed.post/3msc2nrul222t",
-          "sentiment": 0.2
-        },
-        {
-          "id": "13bf412309ff1c1c37af14a1a2c3c4c8f25eb59fdab159ba7c9dc9edd8861dcb",
-          "authorHandle": "lm100.bsky.social",
-          "postText": "ACTION to replace her with Democrat Troy Jackson. Donate! Volunteer!  www.jacksonformaine.com/take-action",
-          "createdAt": "2026-08-04T22:22:24.720Z",
-          "uri": "at://did:plc:d2hnvs33rlpvu4zhdym7yhim/app.bsky.feed.post/3msc2fhlk6s2t",
-          "sentiment": 0.9
-        },
-        {
-          "id": "b0e8bdd7c96eb4cfa5966004adb3e15029b0f50655241f4461463a87b0ecb71d",
-          "authorHandle": "violetsneeded.bsky.social",
-          "postText": "Troy Jackson, don't fail us now",
-          "createdAt": "2026-08-04T22:21:26.453Z",
-          "uri": "at://did:plc:2rtqger57xrjd2yarnzboxmq/app.bsky.feed.post/3msc2dpzet22b",
-          "sentiment": 0.6
-        },
-        {
-          "id": "ffa8a3ce5c705483d72e6f4836a6a3a84971967e57497efce890dc0876e68847",
-          "authorHandle": "davidwave4.bsky.social",
-          "postText": "I cannot wait to have Abdul El-Sayed, Troy Jackson, and Sherrod Brown in the Senate. The populist left faction of the Senate Dem caucus is growing!",
-          "createdAt": "2026-08-04T22:02:31.916Z",
-          "uri": "at://did:plc:6rbbsdjugz5q7qvdeqx2b36x/app.bsky.feed.post/3msbzbw22js2v",
-          "sentiment": 0.8
-        },
-        {
-          "id": "15e24972f29a1fcfad3a37359552c5ffc720d16876d674ba68cc54ff4b2f548a",
-          "authorHandle": "grandmamiz.bsky.social",
-          "postText": "Maine Democrat rips Musk using 'dirty money' to boost Susan Collins www.dailykos.com/stories/2026...",
-          "createdAt": "2026-08-04T22:01:15.276Z",
-          "uri": "at://did:plc:crg743xhhcpvqmslwwaqegmy/app.bsky.feed.post/3msbz7mx6rs2m",
-          "sentiment": 0.7
-        },
-        {
-          "id": "18f42b7f2dcfa087216422bf01c29ed3959a4b2a6145cd6dbefbb2fb3304fa78",
-          "authorHandle": "asfried.bsky.social",
-          "postText": "But it was great to see this in the article: \n\nTroy Jackson wants “a lasting peace in which Israelis and Palestinians can live in security and dignity.” \n\n#mepolitics",
-          "createdAt": "2026-08-04T21:57:43.759Z",
-          "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3msbyzdab6223",
-          "sentiment": 0.6
-        },
-        {
-          "id": "b5f6d261d6c7b6f538e54e927cd4349266a495835a51e2bdd153b195b1312e4d",
-          "authorHandle": "runcodecook.bsky.social",
-          "postText": "Good news for Troy Jackson",
-          "createdAt": "2026-08-04T21:55:25.752Z",
-          "uri": "at://did:plc:fpkterfxyvngs6ensdetny6w/app.bsky.feed.post/3msbyv7mkqs22",
-          "sentiment": 0.5
         }
       ],
       "youtube": [
