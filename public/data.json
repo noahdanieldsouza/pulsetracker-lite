@@ -1,20 +1,57 @@
 {
-  "lastUpdated": "2026-08-05T13:18:20.883Z",
+  "lastUpdated": "2026-08-05T14:00:18.545Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
-      "newsSentiment": null,
+      "overallSentiment": 0,
+      "newsSentiment": 0,
       "socialSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 4,
         "social": 0,
         "youtube": 0,
-        "total": 0
+        "total": 4
       },
-      "news": [],
+      "news": [
+        {
+          "id": "e2b4546396ce5514b724c690981602cc3e4ea54077067752e4f68a240d6ed9d9",
+          "title": "Darktrace Among First Cybersecurity Companies Selected to Integrate Risk Signals into Microsoft",
+          "description": "Darktrace / SECURE AI will bring its organization-specific behavioral risk signals into Microsoft Agent 365, helping customers identify anomalous or suspicious agent behavior that may indicate compromise, misconfiguration, or unexpected Cambridge, UK, Aug. 04, 2026 (GLOBE NEWSWIRE) -- Darktrace, a global leader in behavioral security, today announced that it is among the first cybersecurity companies selected by Microsoft to contribute organization-specific behavioral risk signals to the Microsoft Agent 365 portal. Through a new integration, Darktrace / SECURE AITM will derive these signals from each customer’s Unique Behavioral Profile and surface them directly within Agent 365, helping customers understand which agents exist, what they are permitted to do, and whether their actual behavior is consistent with how that organization normally operates. As organizations deploy AI agents across business applications and workflows, those agents are gaining access to data, systems and tools and taking action on behalf of users. Their identities and permissions determine what they are allowed to do, but security teams also need to understand how they behave. Microsoft Agent 365 provides a centralized way to manage and secure AI agents. Through the integration, Darktrace / SECURE AI will bring organization-specific, behavior-based agent risk signals into Agent 365 that reflect how each organization’s agents normally operate and where their behavior deviates from expectations. Customers will be able to view Darktrace-reported risk signals alongside Microsoft signals in a single interface. Darktrace / SECURE AI is part of the Darktrace Behavioral Defense Platform, which provides unified visibility, continuous behavioral monitoring and autonomous response across AI, people and infrastructure. Powered by Darktrace’s Adaptive AITM, it learns how an organization operates and helps identify agent activity that may indicate compromise, manipulation, misconfiguration, or drift from intended behavior. The integration will enable customers to: View Darktrace-reported risk signals alongside Microsoft signalsIdentify AI agents that may require attention more quicklyAdd behavioral insight to their view of agent risk \"As AI adoption accelerates across the enterprise, agents are taking on more responsibility, accessing more sensitive data and acting across more systems,” said Ed Jennings, President and CEO of Darktrace. \"That makes it critical for security teams to understand not only which agents exist and what permissions they have, but how they actually behave over time. By bringing unique behavioral risk signals from Darktrace / SECURE AI into Microsoft Agent 365, customers can more easily identify agents that may require attention and investigate the deeper context behind the risk. This helps close the gap between what an agent is allowed to do and what it is actually doing, giving organizations greater confidence to scale AI adoption securely.” Darktrace monitors how agents operate over time and how their actions connect to people, data and infrastructure, helping security teams identify unexpected interactions, behavioral changes and activity outside an agent’s intended purpose. \"Microsoft is committed to delivering the industry’s most trusted and comprehensive AI governance and security experience as part of the Agent 365 promise. Through integrations with our security ecosystem partners, we enable customers to maximize the value of their existing security investments while gaining a unified, end-to-end view of risk signals across their agent ecosystem,” said Nirav Shah, CVP, Agent 365 and Agent Cloud, Microsoft. Additional Resources: For more information, check out the Darktrace blog and the Microsoft Agent 365 blog.About Darktrace Darktrace secures the modern enterprise by protecting AI, people, and infrastructure with behavioral security. Founded in 2013, Darktrace uses Adaptive AI to understand what is normal for an organization and detect known, unknown and novel threats and respond autonomously in real time. The Darktrace Behavioral Defense Platform delivers unified visibility, continuous behavioral monitoring, and autonomous response across the enterprise. Darktrace protects nearly 10,000 customers across major industries globally, helping organizations defend AI-powered threats across AI and agents, email and collaboration tools, and hybrid networks, while enabling them to innovate with AI securely. Contact Info Darktrace Media Relations media@darktrace.com +1 929-316-4384",
+          "sourceName": "The Manila Times",
+          "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/darktrace-among-first-cybersecurity-companies-selected-to-integrate-risk-signals-into-microsoft/2398317",
+          "publishedAt": "2026-08-04T16:27:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2e4e6546da59d17ad57d5d0fac422b6e21c4f1fcf42d601717bade181b29598f",
+          "title": "Darktrace Among First Cybersecurity Companies Selected to Integrate Risk Signals into Microsoft",
+          "description": "Cambridge, UK, Aug. 04, 2026 (GLOBE NEWSWIRE) -- Darktrace, a global leader in behavioral security, today announced that it is among the first cybersecurity companies selected by Microsoft to contribute organization-specific behavioral risk signals to the Microsoft Agent 365 portal....",
+          "sourceName": "Postregister",
+          "url": "https://www.postregister.com/businessreport/technology/darktrace-among-first-cybersecurity-companies-selected-to-integrate-risk-signals-into-microsoft/article_9aa9c492-c0f8-55e5-8f98-33fe3e719f9b.html",
+          "publishedAt": "2026-08-04T16:10:49.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "890b8f0c8caf3c781266fb4ba8602f8ca7438daf3cc2c638f715509c5dac50e5",
+          "title": "Darktrace Among First Cybersecurity Companies Selected to Integrate Risk Signals into Microsoft",
+          "description": "Darktrace / SECURE AI will bring its organization-specific behavioral risk signals into Microsoft Agent 365, helping customers identify anomalous or suspicious agent behavior that may indicate compromise, misconfiguration, or unexpected",
+          "sourceName": "Financialcontent",
+          "url": "https://www.financialcontent.com/article/gnwcq-2026-8-4-darktrace-among-first-cybersecurity-companies-selected-to-integrate-risk-signals-into-microsoft",
+          "publishedAt": "2026-08-04T16:07:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9d6e057c4fd3ec61a554c375897f7e325f17925de23a6cafcb1f434c007ad657",
+          "title": "Darktrace Among First Cybersecurity Companies Selected to Integrate Risk Signals into Microsoft",
+          "description": "Darktrace / SECURE AI will bring its organization-specific behavioral risk signals into Microsoft Agent 365, helping customers identify anomalous or suspicious agent behavior that may indicate compromise, misconfiguration, or unexpected Darktrace / SECURE AI will bring its organization-specific behavioral risk signals into Microsoft Agent 365, helping customers identify anomalous or suspicious agent behavior that may indicate compromise, misconfiguration, or unexpected",
+          "sourceName": "Globenewswire_fr",
+          "url": "https://www.globenewswire.com/fr/news-release/2026/08/04/3338640/0/en/Darktrace-Among-First-Cybersecurity-Companies-Selected-to-Integrate-Risk-Signals-into-Microsoft.html",
+          "publishedAt": "2026-08-04T16:07:00.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -39,168 +76,105 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2227545624310331,
-      "newsSentiment": -0.14705882352941177,
+      "overallSentiment": 0.3717741702741703,
+      "newsSentiment": 0.3,
       "socialSentiment": 0.3380952380952383,
       "mentions": {
-        "news": 17,
+        "news": 10,
         "social": 147,
         "youtube": 55,
-        "total": 219
+        "total": 212
       },
       "news": [
         {
-          "id": "2576a98897e953d0e13009a3b0721ec9ccf7f38645b4313c22cc9e713a2a4edd",
-          "title": "Report: Elon Musk to spend millions backing Susan Collins' reelection",
-          "description": "The New York Times reports that the world's wealthiest person is planning to spend up to $120 million backing Republicans in several key races, including the U.S. Senate contest in Maine.",
-          "sourceName": "Nhpr",
-          "url": "https://www.nhpr.org/politics/2026-08-03/report-elon-musk-to-spend-millions-backing-susan-collins-reelection",
-          "publishedAt": "2026-08-03T20:58:59.000Z",
-          "sentiment": -0.2
+          "id": "48e1462eb7ba6e3ef1917137cca6e61101ef28ed79dd6f9a43fe7bb4cd4df3d5",
+          "title": "Susan Collins says she is a ‘no’ vote on Todd Blanche’s nomination for attorney general",
+          "description": "The Republican from Maine said in a statement that Blanche is a “capable lawyer” but the that Justice Department “has become increasingly political.”",
+          "sourceName": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/08/04/nation/todd-blanche-confirmation-senate-collins/",
+          "publishedAt": "2026-08-05T01:07:10.000Z",
+          "sentiment": 0
         },
         {
-          "id": "172e40b5e200a4209e6a56ee158f8f566d8d8b891ec75acb48eba2a1a2513fea",
-          "title": "Susan Collins hasn’t decided whether to confirm Todd Blanche as AG",
-          "description": "The Republican senator from Maine did vote with her party to confirm him as deputy attorney general last year.",
+          "id": "c9891a471f61c1fe2fe6cc5b082f30c1de4a91c4ec18471650bc5f3a61baf2db",
+          "title": "GOP Sen. Collins said she'll vote 'no' on Todd Blanche's AG nomination",
+          "description": "There are other Republican senators who have concerns about the AG nominee.",
+          "sourceName": "Yahoo! News",
+          "url": "https://ca.news.yahoo.com/senate-judiciary-committee-advances-todd-150559844.html",
+          "publishedAt": "2026-08-04T23:36:08.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ccaef4acb707e88d100cea610fd3e8d8b90e0d68be3df805288483e96d03f652",
+          "title": "Susan Collins a ‘no’ on Todd Blanche for attorney general",
+          "description": "The Senate Judiciary Committee voted 12-10 along party lines in support of the nomination of President Donald Trump’s former personal attorney.",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/08/03/politics/washington/susan-collins-todd-blanche-confirmation/",
-          "publishedAt": "2026-08-03T20:49:50.000Z",
+          "url": "https://www.bangordailynews.com/2026/08/04/politics/washington/susan-collins-opposes-todd-blanche-attorney-general/",
+          "publishedAt": "2026-08-04T22:05:15.000Z",
           "sentiment": 0
         },
         {
-          "id": "84a5f0ce4b99a691595c4a701a0d4e728588dfddc3c684b8a782bf68edb1a9ce",
-          "title": "Troy Jackson’s first campaign ad highlights Maine logging roots",
-          "description": "The spot comes with just over 90 days to go before the Nov. 3 election.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/03/troy-jacksons-first-campaign-ad-highlights-maine-logging-roots/",
-          "publishedAt": "2026-08-03T19:08:09.000Z",
-          "sentiment": 0.1
-        },
-        {
-          "id": "f060fb8d2221eb6d365f09d11a68343dc4f636fa2930b3e27f81f47c145dab77",
-          "title": "Troy Jackson’s first campaign ad highlights Maine logging roots",
-          "description": "The spot comes with just over 90 days to go before the Nov. 3 election.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/08/03/troy-jacksons-first-campaign-ad-highlights-maine-logging-roots/",
-          "publishedAt": "2026-08-03T19:08:09.000Z",
-          "sentiment": 0.1
-        },
-        {
-          "id": "d3bff3e4c6b9de5444346b846ad1aba18b6a71f16778bdc3adb9f288cc730ed8",
-          "title": "Troy Jackson’s first campaign ad highlights Maine logging roots",
-          "description": "The spot comes with just over 90 days to go before the Nov. 3 election.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/03/troy-jacksons-first-campaign-ad-highlights-maine-logging-roots/",
-          "publishedAt": "2026-08-03T19:08:09.000Z",
-          "sentiment": 0.1
-        },
-        {
-          "id": "eb474d50f07d3339d202460623b82034aa44fa559407ede3267f956d4aea0a45",
-          "title": "Maine Jewish leaders push back on Gaza genocide accusation against Israel",
-          "description": "Many Democratic politicians, including Senate nominee Troy Jackson, say Israel has perpetrated a genocide of Palestinians.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/03/maine-jewish-leaders-push-back-on-gaza-genocide-accusation-against-israel/",
-          "publishedAt": "2026-08-03T18:38:52.000Z",
-          "sentiment": -0.3
-        },
-        {
-          "id": "fa8bb255997230544f0bdc6e7cb697d90b31b6ff65e3f76d8c1f3f084d847f04",
-          "title": "SEC Should Withdraw Proposal Limiting Investor Access to Essential Climate-Related Information",
-          "description": "More than 35 groups today called on the U.S. Securities and Exchange Commission (SEC) to withdraw its proposal to rescind its 2024 climate disclosure rule. The 2024 rule, which is currently stayed in litigation, requires large public companies to disclose climate-related financial risk information t...",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/sec-should-withdraw-proposal-limiting-investor-access-to-86234325",
-          "publishedAt": "2026-08-03T18:37:11.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d42d9fb0d7692302b4460fef51885b9d30fa87412da695dfc3efb920104ec9a2",
-          "title": "You can now request a Maine absentee ballot for the general election",
-          "description": "You can contact your city or town clerk or use the form on the Maine Secretary of State website.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/08/03/you-can-now-request-maine-absentee-ballot-general-election/",
-          "publishedAt": "2026-08-03T18:22:35.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0f176ce94275b52c1db2805e9fb9502b87cf87e1ebf0331e7320edf643ad0870",
-          "title": "Report: Elon Musk to spend millions backing Susan Collins' reelection",
-          "description": "The New York Times reports that the world's wealthiest person is planning to spend up to $120 million backing Republicans in several key races, including the U.S. Senate contest in Maine.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/news/2026-08-03/report-elon-musk-to-spend-millions-backing-collins-reelection",
-          "publishedAt": "2026-08-03T16:34:58.000Z",
-          "sentiment": -0.2
-        },
-        {
-          "id": "bf14b63a6faf1afaf569eb04e32036d288c7be03ebcc122cb25e8673b868a4e4",
-          "title": "Monday’s Campaign Round-Up, 8.3.26: Candidates scramble ahead of primaries in 5 states",
-          "description": "Today’s installment of campaign-related news items from across the country. The post Monday’s Campaign Round-Up, 8.3.26: Candidates scramble ahead of primaries in 5 states appeared first on MS NOW .",
-          "sourceName": "Ms Now",
-          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/campaign-primaries-kansas-michigan-missouri-virginia-washington",
-          "publishedAt": "2026-08-03T16:17:16.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "66a5c1db1f95185b4c0cc98a118eb865f09f61c79890fc2d73ff9c8eeec7b6f4",
-          "title": "Big Oil Giant BP Banks Blockbuster Profits as Climate Disasters Strike Across the Globe",
-          "description": "As communities across the world endure record-breaking heatwaves, wildfires and rising living costs, the world’s biggest oil and gas companies have confirmed another blockbuster quarter of profits. The Make Polluters Pay coalition says the timing exposes the true cost of delaying the end of the foss...",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/big-oil-giant-bp-banks-blockbuster-profits-as-climate-86229395",
-          "publishedAt": "2026-08-03T16:07:13.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d3ce21ac0c908335f4500b7dc552fbc83a17b68dfb9a451075ae954861c48c73",
-          "title": "Troy Jackson, Maine Democratic Senate candidate, lashes out at reporting on his cousin romance",
-          "description": "Troy Jackson, the Democratic Senate nominee in Maine, is firing back at scrutiny of his romantic partnership with his second cousin.",
-          "sourceName": "The Washington Times",
-          "url": "https://www.washingtontimes.com/news/2026/aug/3/troy-jackson-maine-democratic-senate-candidate-lashes-reporting/",
-          "publishedAt": "2026-08-03T15:53:25.000Z",
-          "sentiment": -0.4
-        },
-        {
-          "id": "4d8f6c7396535c93c34b5a15ab96798da4a979c2473690618e4d02fdff99af1a",
-          "title": "2026-08-03T15:05:11+00:00",
-          "description": "At issue is whether Democrats are running the risk of nominating someone who is significantly weaker in a general election.",
-          "sourceName": "Los Angeles Daily News",
-          "url": "https://www.dailynews.com/2026/08/03/the-stakes-are-rising-for-democrats-in-two-key-races/",
-          "publishedAt": "2026-08-03T15:05:11.000Z",
-          "sentiment": -0.3
-        },
-        {
-          "id": "766a833ae6101f1bcdb84e3319d979c8c75c1edbbb50dd0bf95abd6f76f4db6f",
-          "title": "The stakes are rising for Democrats in two key races",
-          "description": "At issue is whether Democrats are running the risk of nominating someone who is significantly weaker in a general election.",
-          "sourceName": "San Bernardino Sun",
-          "url": "https://www.sbsun.com/2026/08/03/the-stakes-are-rising-for-democrats-in-two-key-races/",
-          "publishedAt": "2026-08-03T15:05:00.000Z",
-          "sentiment": -0.3
-        },
-        {
-          "id": "7a61c727fb69851290a39f8ba31dc4119480cbf3fcb9fc11ec18509f30957a2a",
-          "title": "The stakes are rising for Democrats in two key races",
-          "description": "At issue is whether Democrats are running the risk of nominating someone who is significantly weaker in a general election.",
-          "sourceName": "Inland Valley Daily Bulletin",
-          "url": "https://www.dailybulletin.com/2026/08/03/the-stakes-are-rising-for-democrats-in-two-key-races/",
-          "publishedAt": "2026-08-03T15:05:00.000Z",
-          "sentiment": -0.3
-        },
-        {
-          "id": "20fd29025f808d70bb24b304318f7061770b7853430afd81218ffdca71039467",
-          "title": "The stakes are rising for Democrats in two key races",
-          "description": "At issue is whether Democrats are running the risk of nominating someone who is significantly weaker in a general election.",
-          "sourceName": "Redlands Daily Facts",
-          "url": "https://www.redlandsdailyfacts.com/2026/08/03/the-stakes-are-rising-for-democrats-in-two-key-races/",
-          "publishedAt": "2026-08-03T15:05:00.000Z",
-          "sentiment": -0.3
-        },
-        {
-          "id": "cd49ba9a8bb4066a507d2e5da3d41cbf09768315da1c4e39acbcb4efd5891548",
-          "title": "The Democratic Party's Got a Vetting Problem, and It's Impacting Us All",
-          "description": "The Nazi rapist. The guy married to his cousin. The chick on lithium, institutionalized with bipolar disorder. How are Democrats picking...",
+          "id": "d1f1e91b47d45734e8f70611bb6307695fda2201dc7500ef0e0d7b59ea0b1f66",
+          "title": "A Key Senator Just Came Out Against Todd Blanche's Confirmation",
+          "description": "Sen. Susan Collins (R-ME) plans to vote against Acting Attorney General Todd Blanche’s confirmation.Her decision comes as Blanche’s nomination cleared...",
           "sourceName": "Townhall",
-          "url": "https://townhall.com/news/amy-curtis/2026/08/03/mon-vip-dems-vetting-n2680518",
-          "publishedAt": "2026-08-03T14:30:00.000Z",
-          "sentiment": -0.5
+          "url": "https://townhall.com/news/cameron-arcand/2026/08/04/a-key-senator-just-came-out-against-todd-blanches-confirmation-n2680676",
+          "publishedAt": "2026-08-04T21:48:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7e47aa67ad04753debc508a628c84673521d4eb0f53de6be7c8164a41989c909",
+          "title": "Susan Collins opposes Todd Blanche for attorney general",
+          "description": "Sen. Susan Collins (R-Maine) said Tuesday she will vote against Todd Blanche's nomination for attorney general . Why it matters: Collins' vote won't sink Blanche's nomination on its own . But it makes every remaining undecided Republican that much more important. With Sen. Mitch McConnell (R-Ky.) still absent from the Senate, Blanche, who is serving in an acting capacity, can afford to lose only two GOP votes, assuming all Democrats oppose him. \"While I believe Mr. Blanche is a capable lawyer, the Department of Justice has become increasingly political,\" Collins said in a statement . \"Mr. Blanche has taken several actions that have further eroded the Department's independence, and that is the basis for my vote to oppose his confirmation.\" Zoom in: Blanche appeared to have cleared his biggest hurdle Tuesday morning when the Senate Judiciary Committee advanced his nomination. Sens. John Cornyn (R-Texas) and Thom Tillis (R-N.C.) dropped their opposition after reaching a written agreement with Blanche that President Trump's proposed $1.8 billion anti-weaponization fund would be terminated. They also say Blanche agreed to narrow the scope of the IRS settlement's audit protections for Trump. Sen. John Curtis (R-Utah), who had previously indicated he had concerns about voting for Blanche, said Tuesday that he would also support him. \"I've been pleased with his receptivity and understanding of the issues raised by my colleagues and me,\" Curtis said on X. That leaves two known unknowns among Republicans: Sens. Bill Cassidy (R-La.) and Lisa Murkowski (R-Alaska). Neither has said how they will vote. Sen. John Fetterman (D-Pa.), who sometimes supports Trump's nominees, said in early June, \"I don't believe that's someone that I could support.\" Zoom out: Collins is the only Republican senator seeking reelection in a state that President Trump lost. The chair of the Appropriations Committee is running for a sixth term by emphasizing her ability to deliver for Maine. She now faces former Maine Senate President Troy Jackson after Democrats' original nominee, Graham Platner, withdrew following allegations of sexual assault. During Trump's second term, Collins has broken with the president on several high-profile occasions. She was one of three Republicans to vote against his signature legislative package, the One Big Beautiful Bill. She also opposed a spending rescissions package and Pete Hegseth's nomination as secretary of defense. But she supported Robert F. Kennedy Jr.'s nomination to lead the Department of Health and Human Services.",
+          "sourceName": "Axios",
+          "url": "https://www.axios.com/2026/08/04/todd-blanche-attorney-general-senate-republicans-susan-collins",
+          "publishedAt": "2026-08-04T21:39:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3fd8aefc81090f8fe3a05b323631f8ec429a063f35ff5cab3775b8fe1014843d",
+          "title": "'You Don't Get to Buy the Government That You Want,' Troy Jackson Tells Elon Musk",
+          "description": "Musk reportedly plans to spend at least $100 million to help Sen. Susan Collins and other vulnerable Republicans across the United States.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/you-don-t-get-to-buy-the-government-that-you-want-troy-86276825",
+          "publishedAt": "2026-08-04T21:08:19.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "a53af71aec70f915571fb857297378fb3ce779fdf032930d22bad58b3282e5fd",
+          "title": "Republicans Have 99 Problems In Ohio, And Only One Is That Dirty Accused Wife-Beater",
+          "description": "Sherrod Brown is winning and did y'all realize Vivek Ramaswamy is Republicans' great hope in the governor's race? Hahahahahahahaha.",
+          "sourceName": "Wonkette",
+          "url": "https://www.wonkette.com/p/republicans-have-99-problems-in-ohio",
+          "publishedAt": "2026-08-04T20:20:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ef9092e722f9d2100eb7a03904a74d79e4050e7699a6659ce3d2b63a6e1e9cb0",
+          "title": "For actually delivering for Maine, Susan Collins gets my vote | Letter",
+          "description": "I’ve worked at Bath Iron Works for over 38 years, and I can tell others what every shipbuilder I know actually wants: a fair contract and enough work to keep building ships well into the future. I’m a proud union member, and I respect Troy Jackson for standing with us back in 2020 when we [...]",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/08/04/for-actually-delivering-for-maine-susan-collins-gets-my-vote-letter/",
+          "publishedAt": "2026-08-04T19:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "6ab10a0dde07985e32c6d780171c903248210ada62290c06b2776f58985ec129",
+          "title": "For actually delivering for Maine, Susan Collins gets my vote | Letter",
+          "description": "I’ve worked at Bath Iron Works for over 38 years, and I can tell others what every shipbuilder I know actually wants: a fair contract and enough work to keep building ships well into the future. I’m a proud union member, and I respect Troy Jackson for standing with us back in 2020 when we [...]",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/08/04/for-actually-delivering-for-maine-susan-collins-gets-my-vote-letter/",
+          "publishedAt": "2026-08-04T19:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "3325d9e5677063472be9c601a5905358f26340b9cf5d88cbc88754f87c8036ac",
+          "title": "Elon Musk to spend millions backing Susan Collins’ reelection",
+          "description": "His spending would add to the cluster of well-heeled groups that have already spent big to boost the Republican.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/04/politics/elections/maine-election-senate-susan-collins-elon-musk/",
+          "publishedAt": "2026-08-04T15:34:25.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
