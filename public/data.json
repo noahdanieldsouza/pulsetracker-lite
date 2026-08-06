@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T10:01:21.580Z",
+  "lastUpdated": "2026-08-06T12:13:42.389Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -76,14 +76,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3177902621722846,
+      "overallSentiment": 0.3162745098039215,
       "newsSentiment": 0.3,
-      "socialSentiment": 0.20337078651685392,
+      "socialSentiment": 0.19882352941176468,
       "mentions": {
         "news": 10,
-        "social": 89,
+        "social": 85,
         "youtube": 20,
-        "total": 119
+        "total": 115
       },
       "news": [
         {
@@ -178,6 +178,38 @@
         }
       ],
       "social": [
+        {
+          "id": "b25ff8ca8d48b8c41889cd0ebaeac3fbc4ae84522c140132508006ab5449c563",
+          "authorHandle": "polltracker.bsky.social",
+          "postText": "Maine Senate poll (Hart Research/Dem internal)\n\n🔵 Troy Jackson 49%\n🔴 Susan Collins 45%\n\n7/27-8/1\n\ndrive.google.com/file/d/1c_Oz...",
+          "createdAt": "2026-08-06T11:58:08.938Z",
+          "uri": "at://did:plc:m4vee7k6yhxwn3dru6vxs53q/app.bsky.feed.post/3msfygzvdzs2m",
+          "sentiment": 0.7
+        },
+        {
+          "id": "6125bce48bf2c380fe1c18854dc0a78b83cd374f55a521716f0377ec0fc2c3d3",
+          "authorHandle": "bluevirginia.bsky.social",
+          "postText": "This seems to be about right. Here in Virginia, Tim Kaine and Mark Warner are similar to Josh Turek or maybe Roy Cooper? Same with Shannon Taylor, Elaine Luria and Tom Perriello?     bluevirginia.us/2026/08/thur...",
+          "createdAt": "2026-08-06T11:44:24.049Z",
+          "uri": "at://did:plc:mlan7kocyn37uzb25btjt2cc/app.bsky.feed.post/3msfxoh7pfc26",
+          "sentiment": 0
+        },
+        {
+          "id": "753c4116ea674fc91cc5929a6fa37e06450d8052229df4a182a61fad5b158336",
+          "authorHandle": "plunderdog903.bsky.social",
+          "postText": "I see Susan Collins's Billionaires still think they are running against Graham Platner.  He is mentioned more times in their new ad than Troy Jackson is.",
+          "createdAt": "2026-08-06T11:25:01.631Z",
+          "uri": "at://did:plc:hg32xmsscppdr6aji5ti563s/app.bsky.feed.post/3msfwlsnilk2r",
+          "sentiment": -0.3
+        },
+        {
+          "id": "6246eb6a220b80e38b7c666d18b9e6eb69bfb966c7d9540cc28a7387871b6486",
+          "authorHandle": "slavuji.bsky.social",
+          "postText": "lots of people know a lot about troy Jackson.\n\nI don't think \"dude\" is the right term to describe.",
+          "createdAt": "2026-08-06T10:14:27.986Z",
+          "uri": "at://did:plc:jbkuhpkq36jizlz32vk3y262/app.bsky.feed.post/3msfsnn4vnc2w",
+          "sentiment": 0.4
+        },
         {
           "id": "2dd0f4167509611df29c5a95677b1e9ac25c545a0163408f3371d7384450c8a4",
           "authorHandle": "jben1990.bsky.social",
@@ -825,70 +857,6 @@
           "createdAt": "2026-08-05T12:17:48.748Z",
           "uri": "at://did:plc:xqa6a3lnl53nqm3lktqyvnd4/app.bsky.feed.post/3msdj3blkac23",
           "sentiment": -0.5
-        },
-        {
-          "id": "1c6d9739e9916f6c0d35726d401ab87eb6df9cf5ad5d1c6da2584f2c1a4992a6",
-          "authorHandle": "collinswatch.bsky.social",
-          "postText": "\"Bye bye Susan Collins\" #MEpolitics",
-          "createdAt": "2026-08-05T12:11:02.503Z",
-          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3msdip65zjs2u",
-          "sentiment": 0
-        },
-        {
-          "id": "883bb0164b145790af22988289256a90176ae70f975262bf372cbf641965ee1e",
-          "authorHandle": "alansmithee1956.bsky.social",
-          "postText": "I really hope Troy Jackson doesn’t have any major skeletons in his closet. It’s imperative that she is out of the Senate.",
-          "createdAt": "2026-08-05T12:10:29.568Z",
-          "uri": "at://did:plc:pcpmo7lfsgthnw2r65zxvmua/app.bsky.feed.post/3msdio6qsk223",
-          "sentiment": 0.5
-        },
-        {
-          "id": "46e13be1c513d851b3a3375e38a9546a1d8d72d6782e8d3f6ab5afe47c82055c",
-          "authorHandle": "moonhowler.bsky.social",
-          "postText": "Troy Jackson with the funniest oppo research imaginable",
-          "createdAt": "2026-08-05T11:17:55.870Z",
-          "uri": "at://did:plc:mw5sk6bgmad5df2pa27xxvos/app.bsky.feed.post/3msdfq75kec27",
-          "sentiment": 0.7
-        },
-        {
-          "id": "da77c09660c8cadf9f082c54d5e170cc11b4159c0619db0c77be0a3a45c64563",
-          "authorHandle": "44lights.bsky.social",
-          "postText": "Platner is not running.\n\nDropped out a month ago.\n\nTroy Jackson is the Democrat nominee in Maine.",
-          "createdAt": "2026-08-05T10:58:09.941Z",
-          "uri": "at://did:plc:kzh2jqtkw5pt7e77ojorryie/app.bsky.feed.post/3msdemu5ul22g",
-          "sentiment": 0
-        },
-        {
-          "id": "9edcfd9f8408e34643dfeb93502911ae8dfcfb01ba58ae1b0964fd32fc7a7ceb",
-          "authorHandle": "44lights.bsky.social",
-          "postText": "Platner isn’t running.\n\nHe dropped out a month ago.\n\nTroy Jackson is the Democrat nominee in Maine.",
-          "createdAt": "2026-08-05T10:57:01.016Z",
-          "uri": "at://did:plc:kzh2jqtkw5pt7e77ojorryie/app.bsky.feed.post/3msdeksggys2g",
-          "sentiment": 0
-        },
-        {
-          "id": "92e82cd0ae741da722ab8da5f0ee2044d60f85c317eed4b40c0fcd9c983ae5c4",
-          "authorHandle": "startledsquirrel.bsky.social",
-          "postText": "She’s such a fraud. We have to elect Troy Jackson if America has any hope.",
-          "createdAt": "2026-08-05T10:55:13.446Z",
-          "uri": "at://did:plc:h7vbeln6osknacosx4hv6htx/app.bsky.feed.post/3msdehlto6c2h",
-          "sentiment": 1
-        },
-        {
-          "id": "e3d32aeec9d8894e6a858c98f38a032d0711d52d6c1b6997ef8897d7e99930ed",
-          "authorHandle": "drawstickpeople.bsky.social",
-          "postText": "I said i hope Platner lost & i feel the same about his replacement Troy Jackson & definitely the terrorist apologist, El-Sayed",
-          "createdAt": "2026-08-05T10:42:54.721Z",
-          "uri": "at://did:plc:tuhlyhkol7yxkh5q3mykjqe4/app.bsky.feed.post/3msddrldrus2z",
-          "sentiment": -1
-        },
-        {
-          "id": "22a48f96378679c52fe36237a384488d241f693b271da65b15f5c2f28b0f02e1",
-          "authorHandle": "megardener.bsky.social",
-          "postText": "Mainers know her game. She’s finished. Troy Jackson will be in her seat soon.",
-          "createdAt": "2026-08-05T10:07:03.360Z",
-          "uri": "at://did:plc:txurzzfy6s4wt5embpppnbxf/app.bsky.feed.post/3msdbrhnbk22a",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
@@ -1098,14 +1066,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.21666666666666667,
+      "overallSentiment": -0.3,
       "newsSentiment": null,
-      "socialSentiment": -0.3333333333333333,
+      "socialSentiment": -0.5,
       "mentions": {
         "news": 0,
-        "social": 3,
+        "social": 2,
         "youtube": 1,
-        "total": 4
+        "total": 3
       },
       "news": [],
       "social": [
@@ -1123,14 +1091,6 @@
           "postText": "www.tiktok.com/t/ZTAsLxJ8S/",
           "createdAt": "2026-08-05T19:31:45.878Z",
           "uri": "at://did:plc:eshm3ejvwf6h7hcbuvo2uw7m/app.bsky.feed.post/3msebdajn2c2h",
-          "sentiment": 0
-        },
-        {
-          "id": "52887344e1bdcadf834b6d303d72fd785870a5053cb77f5b4ef1af2a118c3a00",
-          "authorHandle": "enocktheyellow.bsky.social",
-          "postText": "It was a fine, warm day in May, 1812. The world was groaning under the yoke of Napoleon’s tyranny. \n\n-- Clara Mundt (Luisa Mühlbach) transl. by F. Jordan, Napoleon and Blücher (1867, 1898, 1907) [Belle Waterbury Wood Collection #97]",
-          "createdAt": "2026-08-05T11:19:34.388Z",
-          "uri": "at://did:plc:6fs6a45caj464xz3uyni76hw/app.bsky.feed.post/3msdft54c6k2b",
           "sentiment": 0
         }
       ],
