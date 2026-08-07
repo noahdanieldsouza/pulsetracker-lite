@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T07:45:07.535Z",
+  "lastUpdated": "2026-08-07T08:40:48.974Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2764848484848485,
+      "overallSentiment": 0.2645021645021645,
       "newsSentiment": 0.045454545454545456,
-      "socialSentiment": 0.3839999999999999,
+      "socialSentiment": 0.34805194805194795,
       "mentions": {
         "news": 11,
-        "social": 75,
+        "social": 77,
         "youtube": 15,
-        "total": 101
+        "total": 103
       },
       "news": [
         {
@@ -169,6 +169,22 @@
         }
       ],
       "social": [
+        {
+          "id": "b6fac5e16f3c88d573eb2a1da20480242c3bf91d9a0afecdaf1216c9217f671c",
+          "authorHandle": "dutchbellbeaker.bsky.social",
+          "postText": "www.newsweek.com/troy-jackson...",
+          "createdAt": "2026-08-07T08:27:44.633Z",
+          "uri": "at://did:plc:qjx6rjadxt5gktrxdbzru2vv/app.bsky.feed.post/3msi55puu7c2h",
+          "sentiment": -1
+        },
+        {
+          "id": "f2259e500eebfbc241ff8a0f4b83dbd63fc746b1ffcbf0eb8fa77c92972f4341",
+          "authorHandle": "solonishere.bsky.social",
+          "postText": "Troy Jackson should be all over this calling out Susan Collins’ enabling ass for this latest Republican assault on people simply trying to work and live in peace. Hang every ICE abuse around Collins neck…..",
+          "createdAt": "2026-08-07T07:57:34.389Z",
+          "uri": "at://did:plc:b4st4c7733aa3dkdxjorsn67/app.bsky.feed.post/3msi3hrikt22r",
+          "sentiment": -1
+        },
         {
           "id": "1d2f296257a837b97def5fa263794a2fc738ab75c65389b5b8990364995436ab",
           "authorHandle": "migas7.bsky.social",
