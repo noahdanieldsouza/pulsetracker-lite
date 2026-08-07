@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T05:07:04.517Z",
+  "lastUpdated": "2026-08-07T06:15:52.985Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2759110088224012,
+      "overallSentiment": 0.274980574980575,
       "newsSentiment": 0.045454545454545456,
-      "socialSentiment": 0.38227848101265816,
+      "socialSentiment": 0.3794871794871794,
       "mentions": {
         "news": 11,
-        "social": 79,
+        "social": 78,
         "youtube": 15,
-        "total": 105
+        "total": 104
       },
       "news": [
         {
@@ -169,6 +169,14 @@
         }
       ],
       "social": [
+        {
+          "id": "1d2f296257a837b97def5fa263794a2fc738ab75c65389b5b8990364995436ab",
+          "authorHandle": "migas7.bsky.social",
+          "postText": "Maine - vote out the useless Collins and make Musk's money go to waste. A Hart Research poll published Thursday found that incumbent Sen. Susan Collins trails Democratic challenger Troy Jackson by 4 points among likely Maine voters.",
+          "createdAt": "2026-08-07T05:22:36.532Z",
+          "uri": "at://did:plc:i4dxcnmfqjupktepdxislau4/app.bsky.feed.post/3mshssoeids2a",
+          "sentiment": 1
+        },
         {
           "id": "2cd3badf538825f5e7571d2978148da5419cfd264fedb0b2e99f408828ca45ae",
           "authorHandle": "kindnessgal.bsky.social",
@@ -784,22 +792,6 @@
           "createdAt": "2026-08-06T06:38:47.746Z",
           "uri": "at://did:plc:vsb3gigr4gprslsh2bqwfod3/app.bsky.feed.post/3msfglyg4xs2o",
           "sentiment": 0.8
-        },
-        {
-          "id": "6575a596e7be3bb96300ba69d55d12fcbaa4e2a1adc656b7079d117c06a1d133",
-          "authorHandle": "laurashamas.bsky.social",
-          "postText": "I’ve finished my 200 #Postcardstovoters in Ohio to mail out in October (via Postcards to Swing States). Now I’m writing cards for Troy Jackson in Maine through @activateamerica.bsky.social",
-          "createdAt": "2026-08-06T05:46:22.213Z",
-          "uri": "at://did:plc:obxn2vmehyodq2ehkuozaiio/app.bsky.feed.post/3msfdoak4vk2p",
-          "sentiment": 0.7
-        },
-        {
-          "id": "590801ee6ed0c31dbc5a89d6fa081e405b18e1c99203e76e3da97bba611f7444",
-          "authorHandle": "ducati5.bsky.social",
-          "postText": "Vote Troy Jackson:  @troyjackson207.bsky.social \n\nwww.jacksonformaine.com",
-          "createdAt": "2026-08-06T05:07:50.093Z",
-          "uri": "at://did:plc:wkgpqmu3hb66ndi42fj22w6c/app.bsky.feed.post/3msfbjdjrb22j",
-          "sentiment": 0.9
         }
       ],
       "youtube": [
