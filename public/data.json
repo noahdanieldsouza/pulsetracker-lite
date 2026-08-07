@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T03:17:56.103Z",
+  "lastUpdated": "2026-08-07T05:07:04.517Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.27968142968142967,
+      "overallSentiment": 0.2759110088224012,
       "newsSentiment": 0.045454545454545456,
-      "socialSentiment": 0.39358974358974347,
+      "socialSentiment": 0.38227848101265816,
       "mentions": {
         "news": 11,
-        "social": 78,
+        "social": 79,
         "youtube": 15,
-        "total": 104
+        "total": 105
       },
       "news": [
         {
@@ -169,6 +169,22 @@
         }
       ],
       "social": [
+        {
+          "id": "2cd3badf538825f5e7571d2978148da5419cfd264fedb0b2e99f408828ca45ae",
+          "authorHandle": "kindnessgal.bsky.social",
+          "postText": "www.newsweek.com/troy-jackson...",
+          "createdAt": "2026-08-07T04:40:37.957Z",
+          "uri": "at://did:plc:apaurrcrryujoitgfp4yqwbt/app.bsky.feed.post/3mshqhmhpgc24",
+          "sentiment": -0.7
+        },
+        {
+          "id": "4fa669cfb558804b0f1d4bd79ae2b8174176cd91075e31d6f41c8795ba540b3d",
+          "authorHandle": "hydevoltyge.bsky.social",
+          "postText": "So I'm assuming you've read the whole voter guide for Maine where a candidate they actually endorsed is Troy Jackson? The ONLY one in any race, in fact. As opposed to what you can clearly read does not say \"endorse.\" In fact, I see a big paragraph of things they don't like about him in that image.",
+          "createdAt": "2026-08-07T03:20:06.612Z",
+          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mshlxmwq3s2k",
+          "sentiment": -0.8
+        },
         {
           "id": "0f294dfeb6ce7b38e78d6bca54ab6203e3b9460e4530861ed3ab90065b2e4095",
           "authorHandle": "dann1960.bsky.social",
@@ -784,14 +800,6 @@
           "createdAt": "2026-08-06T05:07:50.093Z",
           "uri": "at://did:plc:wkgpqmu3hb66ndi42fj22w6c/app.bsky.feed.post/3msfbjdjrb22j",
           "sentiment": 0.9
-        },
-        {
-          "id": "d9013ef74502827eaa37b86e22d9f23a6931021c1810b2e69bc10d41138d7fe4",
-          "authorHandle": "joenezee.bsky.social",
-          "postText": "Troy Jackson man boobs, rival Trump man boobs 2026.",
-          "createdAt": "2026-08-06T03:34:25.332Z",
-          "uri": "at://did:plc:dmtxvda5s3ljsxzxmu5jvlsx/app.bsky.feed.post/3msf4ccfzts22",
-          "sentiment": -1
         }
       ],
       "youtube": [
@@ -951,17 +959,33 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.07500000000000001,
+      "overallSentiment": -0.1625,
       "newsSentiment": null,
-      "socialSentiment": 0.35,
+      "socialSentiment": 0.175,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 4,
         "youtube": 1,
-        "total": 3
+        "total": 5
       },
       "news": [],
       "social": [
+        {
+          "id": "c0d92cbc10a1b0e71b860b7fe3e8a24018a6c92c63582c15396ea2a14c3b8b00",
+          "authorHandle": "scottdhendricks.bsky.social",
+          "postText": "“To say it simply, let us become capable of containing the whole God, thus wholly becoming whole Gods by grace to such an extent that we are regarded as another him in all things—excepting essential identity with him.”\n\nMaximus Confessor, Epistle 1 (trans. Jordan Daniel Wood)",
+          "createdAt": "2026-08-07T03:19:21.761Z",
+          "uri": "at://did:plc:64f7vvwuxubd64kvtg6eqn2g/app.bsky.feed.post/3mshlwcb6tc2y",
+          "sentiment": 0
+        },
+        {
+          "id": "d44a469d5919efb2e1bfd85e581479a7a960ed272876eac0910e7777e97d129b",
+          "authorHandle": "scottdhendricks.bsky.social",
+          "postText": "ICYMI — \nsubstack.com/@jordandanie...\n\n#thenGodwillbeallinall\n#theosisforbreakfastlunchanddinner",
+          "createdAt": "2026-08-07T03:17:44.446Z",
+          "uri": "at://did:plc:64f7vvwuxubd64kvtg6eqn2g/app.bsky.feed.post/3mshltfebzc2y",
+          "sentiment": 0
+        },
         {
           "id": "76943bb851bb5fdab07a101e4f9b1a18b741955deee94d16fe563e4ec8fcf389",
           "authorHandle": "zaswadosaze.bsky.social",
