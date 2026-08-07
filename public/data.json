@@ -1,30 +1,21 @@
 {
-  "lastUpdated": "2026-08-07T14:41:20.865Z",
+  "lastUpdated": "2026-08-07T15:38:52.061Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.2,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": -0.2,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "52d62aedafeadfcbe1a8439c14b172acd0cfa6454fd5752680dd6de718297a13",
-          "authorHandle": "martin-fernwood.bsky.social",
-          "postText": "No. If Platner had dropped out before the primary, we would have Nirav Shah as the senate candidate because Troy would have been busy with his gubernatorial run",
-          "createdAt": "2026-08-06T15:29:08.982Z",
-          "uri": "at://did:plc:gdptgcx7fdloef4fdqht4ocp/app.bsky.feed.post/3msgeadh7bk24",
-          "sentiment": -0.2
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
@@ -48,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2827822916666667,
+      "overallSentiment": 0.2621505747126437,
       "newsSentiment": 0.05999999999999999,
-      "socialSentiment": 0.318346875,
+      "socialSentiment": 0.25645172413793105,
       "mentions": {
         "news": 30,
-        "social": 64,
+        "social": 58,
         "youtube": 5,
-        "total": 99
+        "total": 93
       },
       "news": [
         {
@@ -330,6 +321,38 @@
         }
       ],
       "social": [
+        {
+          "id": "96cb08a763dbb3c4a2910f1ba1bfe0fbd091af6ad248be149f75e053baf14454",
+          "authorHandle": "3fecta.bsky.social",
+          "postText": "I would love for Troy Jackson in the debates mention these meaningless bits of \"courage\". So, you after all your years there could not convince Cassidy, Cornyn or anybody else to vote with you? What does that say about your skills as a legislator?",
+          "createdAt": "2026-08-07T15:30:31.342Z",
+          "uri": "at://did:plc:muszorqdtqpoxyuqmqc4dz7d/app.bsky.feed.post/3msiurphdyc26",
+          "sentiment": -1
+        },
+        {
+          "id": "a4b14436c8997cc94bff13f724601fefbe0ac740667b4ea7ddf404d17ce05755",
+          "authorHandle": "newfmom29.bsky.social",
+          "postText": "Collins is F’d in Maine. She will lose her seat in Nov. \nThey are trying HARD to pin some controversy on Platner’s replacement: Troy Jackson. The best they can come up with is “they know each other”. 🤣🤣🤣🤣",
+          "createdAt": "2026-08-07T15:28:23.654Z",
+          "uri": "at://did:plc:zlhnwxyuu7vjzio6if2dgvdp/app.bsky.feed.post/3msiunvomoc2f",
+          "sentiment": 1
+        },
+        {
+          "id": "6e3f2aaf2e85dde8e8f2018c074119b58f058a9839be2958b6581ba1d9b0b1a8",
+          "authorHandle": "concerned2.bsky.social",
+          "postText": "Still VOTE OUT Susan Collins \n\nVOTE for Troy Jackson 💪🔵💪",
+          "createdAt": "2026-08-07T15:00:52.037Z",
+          "uri": "at://did:plc:ljftynwi6mxf36zergsw5k4y/app.bsky.feed.post/3msit4olcgc2q",
+          "sentiment": 1
+        },
+        {
+          "id": "b624c5ead4df91e64f2373a205e6b6fe83e4f5604663eac5519800491d2fdac7",
+          "authorHandle": "freeimamoglunow.eurosky.social",
+          "postText": "Namen, die Donald Trump bis zum 03.11.26 häufig erwähnen sollte:\n\n1. Abdul El-Sayed\n2. James Talarico\n3. Jon Osborn\n4. Josh Turek\n5. Troy Jackson\n6. Seth Bodnar\n7. Mary Peltola\n8. Peggy Flanagan\n9. Sherrod Brown\n10. Roy Cooper\n11. Jon Ossoff\n\nVielleicht geht dann sogar was bei\n11. Annie Andrews\n🤣🤣🤣",
+          "createdAt": "2026-08-07T14:56:57.947Z",
+          "uri": "at://did:plc:wrjwa2csqu2w7rw43hohuka5/app.bsky.feed.post/3msisvpdfwk2j",
+          "sentiment": -1
+        },
         {
           "id": "545fe0bb23af66d548c5e3da76495f3b4964a21b2795db1d627b1cd80e4055c7",
           "authorHandle": "midnitreebandit.bsky.social",
@@ -761,86 +784,6 @@
           "createdAt": "2026-08-06T15:53:47.880Z",
           "uri": "at://did:plc:cphgfu544qoxz4mzia2iqmyz/app.bsky.feed.post/3msgfmftmlc2o",
           "sentiment": 0.5
-        },
-        {
-          "id": "35e193636b013617a3b75f6f484a9bd68786a4026fc08ea5035df408d97b6642",
-          "authorHandle": "eliza7777777thstar.bsky.social",
-          "postText": "Thoughts?\n\nPersonally, if she thinks this is the chess move, I’m going to trust her judgment.\n\nI don’t have to like it. I doubt she does, either.",
-          "createdAt": "2026-08-06T15:33:54.396Z",
-          "uri": "at://did:plc:bxkm7xo2yw5z4eaapbq5xjkb/app.bsky.feed.post/3msgeitnftk27",
-          "sentiment": 0
-        },
-        {
-          "id": "a548cfb4bf4cc5fae9958aa8121e9016f97bcbea3d33eda101a930abcec00d54",
-          "authorHandle": "therreport.bsky.social",
-          "postText": "Senate Majority PAC poll — the spending arm of Senate Democratic Leader Chuck Schumer (D-ME) — shows Troy Jackson (D) with a slight lead over Sen. Susan Collins (R), 49% to 45% with 6% undecided senatemajority.com/wp-content/u...",
-          "createdAt": "2026-08-06T15:29:48.904Z",
-          "uri": "at://did:plc:zi5voo76a2o2zg53laksb7fq/app.bsky.feed.post/3msgebjjims2a",
-          "sentiment": 0.7
-        },
-        {
-          "id": "aae258aa47e2e8b532cbc746c1a0efd78baf636d9e8bece1b3e4f1ac7b27d4e6",
-          "authorHandle": "edengk.bsky.social",
-          "postText": "TODD AND TRUMP ARE SCUM",
-          "createdAt": "2026-08-06T15:20:51.217Z",
-          "uri": "at://did:plc:4xtbdet5keuguykxvcuil4z7/app.bsky.feed.post/3msgdriqmnc2c",
-          "sentiment": 0
-        },
-        {
-          "id": "659a7bf11a7fb860e191a8e24548fd1dffa314f0229d63f98cb5eb5e3aa16d7a",
-          "authorHandle": "edengk.bsky.social",
-          "postText": "DEFUND WELFARE LEECH ELON!!!!!!!!\n\nTRUMP AND ELON HAVE STOLEN BILLIONS \n\nELON AUDITED NOTHING!!!\n\nELON GTFOH!!!!!!!!!!",
-          "createdAt": "2026-08-06T15:16:31.723Z",
-          "uri": "at://did:plc:4xtbdet5keuguykxvcuil4z7/app.bsky.feed.post/3msgdjrbhkk24",
-          "sentiment": 0
-        },
-        {
-          "id": "356fc4530f1c2b7478de9ea1ed8becbddef38417c0d76a092e47fe93e5a68be4",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "=======================\nORGANIZED PEOPLE CAN BEAT\nORGANIZED MONEY\n=======================\n\nOrganize for Troy Jackson. \nSupport Troy Jackson. \nElect Troy Jackson.\n\nMainers, let's make it happen.\n\n#JACKSONforMAINE #MEpolitics #VOTEherOUT",
-          "createdAt": "2026-08-06T15:11:36.435Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3msgdaxnzds2b",
-          "sentiment": 0.9
-        },
-        {
-          "id": "73a14ed150d51aac4129ef17ddca9c846a2735786462112595c2d9c9292def85",
-          "authorHandle": "jordanwood.bsky.social",
-          "postText": "Susan Collins is very concerned 👀\n\n🟦Troy Jackson 49%\n🟥Susan Collins 45%\n\nHart Research | 7/27-8/1 | 802 LV",
-          "createdAt": "2026-08-06T15:08:42.054Z",
-          "uri": "at://did:plc:zrryxs7fcutu5p2ng3ltomwy/app.bsky.feed.post/3msgd3redfk2o",
-          "sentiment": 0.7
-        },
-        {
-          "id": "e73d4a9ccf6d7168aedeca5e9dcfc76a8a6e65a341328a16c46baf671431a929",
-          "authorHandle": "troyjackson207.bsky.social",
-          "postText": "A third straight poll shows us what we already know. No amount of billionaire money can overcome an organized movement of working Mainers fighting for an economy that works for us. Susan Collins should be very concerned.",
-          "createdAt": "2026-08-06T15:03:28.397Z",
-          "uri": "at://did:plc:nti5xzs56xrwkpzjzsmxewdz/app.bsky.feed.post/3msgcsgabqc2u",
-          "sentiment": 0.8
-        },
-        {
-          "id": "31fc453f8ea74e1be40e48e36a9b406f74c4f202888a7a3e78f05c4df3fdb47a",
-          "authorHandle": "pollbot.bsky.social",
-          "postText": "2026 Maine US Senate\nJul 27 - Aug 1, 2026\n\nTroy Jackson 49%\nSusan Collins 45%\n\nHart Research Associates\n802 LV\n\nView Poll",
-          "createdAt": "2026-08-06T14:45:25.436Z",
-          "uri": "at://did:plc:3dobmrc6cl62xehkuscyv36p/app.bsky.feed.post/3msgbs5td6j2e",
-          "sentiment": 0.7
-        },
-        {
-          "id": "ee8505017efa4ea5804cf8c081689d863e53d0a609dc58b699dc1487ca4333f6",
-          "authorHandle": "majoritypac.bsky.social",
-          "postText": "Meanwhile, Troy Jackson enters the race with a strong personal image:\n\nFavorable 47%\nUnfavorable 35%\n\nAnd 55% of Maine voters say Jackson’s background and core message appeal to them.\n\nThe contrast with Collins could not be clearer.",
-          "createdAt": "2026-08-06T14:43:23.215Z",
-          "uri": "at://did:plc:5nkfrqfbvpoveapc6mx5vwrf/app.bsky.feed.post/3msgboivjss2m",
-          "sentiment": 0.9
-        },
-        {
-          "id": "edd59af55ad747f539f57e85c2a408033e2bc2877131294b693ae1c9b17926ab",
-          "authorHandle": "majoritypac.bsky.social",
-          "postText": "Susan Collins’ standing with Maine voters has only gotten worse:\n\nApprove 46%\nDisapprove 52%\n\nIn summer 2020, Collins averaged an even 48% approve and 48% disapprove.\n\nNow, she is underwater and trailing Troy Jackson.",
-          "createdAt": "2026-08-06T14:43:23.214Z",
-          "uri": "at://did:plc:5nkfrqfbvpoveapc6mx5vwrf/app.bsky.feed.post/3msgboivitk2m",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
