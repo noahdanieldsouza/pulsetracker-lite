@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T09:43:41.506Z",
+  "lastUpdated": "2026-08-07T10:37:22.518Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2623376623376623,
+      "overallSentiment": 0.25977519936204146,
       "newsSentiment": 0.045454545454545456,
-      "socialSentiment": 0.34155844155844145,
+      "socialSentiment": 0.3338710526315789,
       "mentions": {
         "news": 11,
-        "social": 77,
+        "social": 76,
         "youtube": 15,
-        "total": 103
+        "total": 102
       },
       "news": [
         {
@@ -169,6 +169,14 @@
         }
       ],
       "social": [
+        {
+          "id": "c36d1b6c2a642633318514d3f32b320e9b08d5fb548d99d691948f425505695d",
+          "authorHandle": "drawstickpeople.bsky.social",
+          "postText": "Off the top of my tired head?\n\nMamdani & El-Sayed\n\nAnd DSA endorsed Troy Jackson",
+          "createdAt": "2026-08-07T10:12:23.626Z",
+          "uri": "at://did:plc:tuhlyhkol7yxkh5q3mykjqe4/app.bsky.feed.post/3msicytyidc2x",
+          "sentiment": -0.0258
+        },
         {
           "id": "b4bafddf8f1f52f289b22a2d400cc1804a1f4a2da3dae0aa9ebed2ae2029f036",
           "authorHandle": "officiallilsilver.bsky.social",
@@ -768,22 +776,6 @@
           "createdAt": "2026-08-06T11:25:01.631Z",
           "uri": "at://did:plc:hg32xmsscppdr6aji5ti563s/app.bsky.feed.post/3msfwlsnilk2r",
           "sentiment": -0.3
-        },
-        {
-          "id": "6246eb6a220b80e38b7c666d18b9e6eb69bfb966c7d9540cc28a7387871b6486",
-          "authorHandle": "slavuji.bsky.social",
-          "postText": "lots of people know a lot about troy Jackson.\n\nI don't think \"dude\" is the right term to describe.",
-          "createdAt": "2026-08-06T10:14:27.986Z",
-          "uri": "at://did:plc:jbkuhpkq36jizlz32vk3y262/app.bsky.feed.post/3msfsnn4vnc2w",
-          "sentiment": 0.4
-        },
-        {
-          "id": "2dd0f4167509611df29c5a95677b1e9ac25c545a0163408f3371d7384450c8a4",
-          "authorHandle": "jben1990.bsky.social",
-          "postText": "I don't, in fact, think that's a particularly fair description of Warren or Troy Jackson. (Or for that matter Gallego, who's an idiot but not a wrecker.) I agree with you about Katz.",
-          "createdAt": "2026-08-06T09:49:27.387Z",
-          "uri": "at://did:plc:4hydd4djyicrfqwn3ghbbtdg/app.bsky.feed.post/3msfraw2cv222",
-          "sentiment": 0.5
         }
       ],
       "youtube": [
