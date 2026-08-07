@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T11:28:58.772Z",
+  "lastUpdated": "2026-08-07T12:10:43.079Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.262592404040404,
+      "overallSentiment": 0.2624067783094099,
       "newsSentiment": 0.045454545454545456,
-      "socialSentiment": 0.3423226666666666,
+      "socialSentiment": 0.3417657894736842,
       "mentions": {
         "news": 11,
-        "social": 75,
+        "social": 76,
         "youtube": 15,
-        "total": 101
+        "total": 102
       },
       "news": [
         {
@@ -169,6 +169,30 @@
         }
       ],
       "social": [
+        {
+          "id": "41b34c2d4319ed6a5f041008ce637bf2d72994bb6d6fc62040b383d279ffe70c",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-07T11:45:24.311Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3msii765hzk26",
+          "sentiment": 0
+        },
+        {
+          "id": "478c8475f74130a172637a64c052f198469ce4ee7551d12ec1e7d49223f74e42",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "was I just on your TV?\n\nIt’s Troy Jackson, and I just shared some big news on MS NOW: A new poll has me up 4 points against Susan Collins.",
+          "createdAt": "2026-08-07T11:44:54.418Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3msii6bn7nc26",
+          "sentiment": 1
+        },
+        {
+          "id": "d88447836f4618bffb99c61aff0797d8fd436539f0eda1f222fb9e801fe9f8b6",
+          "authorHandle": "snikpoh.bsky.social",
+          "postText": "Sigh.  Right in plain English:  www.jacksonformaine.com/about",
+          "createdAt": "2026-08-07T11:40:36.070Z",
+          "uri": "at://did:plc:lh7uqxgv6glly3ujhix4qxeb/app.bsky.feed.post/3msihwlb2oc2l",
+          "sentiment": 0
+        },
         {
           "id": "c36d1b6c2a642633318514d3f32b320e9b08d5fb548d99d691948f425505695d",
           "authorHandle": "drawstickpeople.bsky.social",
@@ -752,22 +776,6 @@
           "createdAt": "2026-08-06T12:15:09Z",
           "uri": "at://did:plc:q7iggtywwxvr7hr7axinzt6q/app.bsky.feed.post/3msfzfgro3v2r",
           "sentiment": -0.3
-        },
-        {
-          "id": "b25ff8ca8d48b8c41889cd0ebaeac3fbc4ae84522c140132508006ab5449c563",
-          "authorHandle": "polltracker.bsky.social",
-          "postText": "Maine Senate poll (Hart Research/Dem internal)\n\n🔵 Troy Jackson 49%\n🔴 Susan Collins 45%\n\n7/27-8/1\n\ndrive.google.com/file/d/1c_Oz...",
-          "createdAt": "2026-08-06T11:58:08.938Z",
-          "uri": "at://did:plc:m4vee7k6yhxwn3dru6vxs53q/app.bsky.feed.post/3msfygzvdzs2m",
-          "sentiment": 0.7
-        },
-        {
-          "id": "6125bce48bf2c380fe1c18854dc0a78b83cd374f55a521716f0377ec0fc2c3d3",
-          "authorHandle": "bluevirginia.bsky.social",
-          "postText": "This seems to be about right. Here in Virginia, Tim Kaine and Mark Warner are similar to Josh Turek or maybe Roy Cooper? Same with Shannon Taylor, Elaine Luria and Tom Perriello?     bluevirginia.us/2026/08/thur...",
-          "createdAt": "2026-08-06T11:44:24.049Z",
-          "uri": "at://did:plc:mlan7kocyn37uzb25btjt2cc/app.bsky.feed.post/3msfxoh7pfc26",
-          "sentiment": 0
         }
       ],
       "youtube": [
