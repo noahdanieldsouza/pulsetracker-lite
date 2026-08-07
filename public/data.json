@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T20:05:23.257Z",
+  "lastUpdated": "2026-08-07T20:53:49.233Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.25525402298850575,
+      "overallSentiment": 0.26832896174863385,
       "newsSentiment": 0.05999999999999999,
-      "socialSentiment": 0.2357620689655172,
+      "socialSentiment": 0.27498688524590154,
       "mentions": {
         "news": 30,
-        "social": 58,
+        "social": 61,
         "youtube": 5,
-        "total": 93
+        "total": 96
       },
       "news": [
         {
@@ -321,6 +321,70 @@
         }
       ],
       "social": [
+        {
+          "id": "d18faa0860355fe6ea0ae4533a51cd2e8359248d2dd698118d752f7be5ff181c",
+          "authorHandle": "tickedoff.bsky.social",
+          "postText": "Troy Jackson is a decent* man, who knows Maine and will work for his constituents (unclear if Collins knows the word, never mind the concept). \n\n*decency is the premium brand",
+          "createdAt": "2026-08-07T20:51:03.258Z",
+          "uri": "at://did:plc:jcfccyxextlf4zsiqj57e2xu/app.bsky.feed.post/3msjgouguwk2w",
+          "sentiment": 0.8
+        },
+        {
+          "id": "4945f5b3ce20341ee283c0c40b71cc5761fb9eac01e462c57dcd2ccf82b57651",
+          "authorHandle": "bunkunin.bsky.social",
+          "postText": "‘Mainers Aren’t Stupid’: Troy Jackson Says Voters See Through Susan Collins’ Charade \nwww.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-07T20:45:45.676Z",
+          "uri": "at://did:plc:olngegflgjr5us2ype26qkrr/app.bsky.feed.post/3msjgffkzbs2a",
+          "sentiment": 0.7
+        },
+        {
+          "id": "47128b21e224825d23806c6c1a3eccb9739c5f8ff508008d225984a7167a0dd6",
+          "authorHandle": "watson6728.bsky.social",
+          "postText": "Her opponent Troy Jackson said it best. Susan Collins shows up when you don’t need her.",
+          "createdAt": "2026-08-07T20:45:05.814Z",
+          "uri": "at://did:plc:ck6spn4febpwt7l6imra4llu/app.bsky.feed.post/3msjge7kjkc2e",
+          "sentiment": 0.8
+        },
+        {
+          "id": "3013ab1e39ade5b027a221325c74bd9efa2b91192cc92064ba285a40b2e4c144",
+          "authorHandle": "us-headlines.bsky.social",
+          "postText": "📰 Common Dreams\n'Mainers Aren't Stupid': Troy Jackson Says Voters See Through Susan Collins' Charade\n\n⟶ Common Dreams | headline in context",
+          "createdAt": "2026-08-07T20:40:36.686Z",
+          "uri": "at://did:plc:cvgjuh3a42ina33yol2znsnq/app.bsky.feed.post/3msjg46wkgf2v",
+          "sentiment": 0.7
+        },
+        {
+          "id": "3b02d05ae2cd240b64adfe44364d69ec8b7d75dc8b07e720151410cf98c77736",
+          "authorHandle": "commondreams.org",
+          "postText": "'Mainers Aren't Stupid': Troy Jackson Says Voters See Through Susan Collins Charade",
+          "createdAt": "2026-08-07T20:38:54.609328Z",
+          "uri": "at://did:plc:tiriierad73thyvjczaphg6v/app.bsky.feed.post/3msjfz6x4al2g",
+          "sentiment": 0.7
+        },
+        {
+          "id": "0796aa758acbe6c074efdc7b8f16e853c6bd9302fe6e8bb24712cf3d873c07ac",
+          "authorHandle": "samfisher90.bsky.social",
+          "postText": "Women in Maine may choose the victor in this year's Senate race",
+          "createdAt": "2026-08-07T20:33:33Z",
+          "uri": "at://did:plc:ddo2sqibuwq4kqufq37ktwxj/app.bsky.feed.post/3msjfpl5fsv2v",
+          "sentiment": 0
+        },
+        {
+          "id": "2ee8019869a460e857301dc02120717c852b7a91b395f2db65b7563257d319dc",
+          "authorHandle": "chistery1.bsky.social",
+          "postText": "Same now for loony twat Bonnie Russell who for some weird reason is obsessed with tearing down Troy Jackson, & will never let a little thing like reality obstruct her quest for greatness. Self-proclaimed pantsuit warrior whom i had to block-slime factor was through the roof. 🪱🪱🪱🪱🪱🪱🤥🤥",
+          "createdAt": "2026-08-07T20:17:59.458Z",
+          "uri": "at://did:plc:s44oq6r4ki4ymxbwue2mqqh2/app.bsky.feed.post/3msjetqk4ak26",
+          "sentiment": 0.9
+        },
+        {
+          "id": "b20d5ae5e96647bfb19fc2bd50bbdbd2c0089460ae8fb699b3c1381a7b502ec4",
+          "authorHandle": "kateberger.bsky.social",
+          "postText": "secure.actblue.com/donate/loc_t...\n\nJust a buck, if  all of us chip in we may still have a chance to make this happen in Maine",
+          "createdAt": "2026-08-07T20:06:44.935Z",
+          "uri": "at://did:plc:5w7wo3fwwyjmbhgyoqdvw2qw/app.bsky.feed.post/3msje7nbbfk2m",
+          "sentiment": 0.8
+        },
         {
           "id": "f54007d12738e08b21f0020aea14885a8a725658b2ad7ea2b11e8ad75a94ea05",
           "authorHandle": "eliemar.bsky.social",
@@ -744,46 +808,6 @@
           "createdAt": "2026-08-06T20:58:43.536Z",
           "uri": "at://did:plc:s44oq6r4ki4ymxbwue2mqqh2/app.bsky.feed.post/3msgwnnwt322e",
           "sentiment": 0
-        },
-        {
-          "id": "bbccc4e50df1a0e2c56a27c7c9f13b431b7216403edcfa2cd69115dd0e263f35",
-          "authorHandle": "betsy-cazden.bsky.social",
-          "postText": "I read this as \"one tiny group of 1990s Dem consultants fear they're losing relevancy, and have declared themselves the \"Moderate\" alternative.\" It's not a civil war, much as they may fantasize about that.\n\nIt took Schumer about 30 secs post-primary to endorse El-Sayed and Troy Jackson.",
-          "createdAt": "2026-08-06T20:28:19.565Z",
-          "uri": "at://did:plc:26mvqmmodxg37uxp7uhpbn5m/app.bsky.feed.post/3msguxchij226",
-          "sentiment": 0.65
-        },
-        {
-          "id": "0feb0a082d6691b93b308f999751b2cda9509940564f35a33cf1a90315f9052a",
-          "authorHandle": "petewest.bsky.social",
-          "postText": "TROY JACKSON FOR U.S. SENATE (Maine)\nThe only choice that makes sense for ALL OF MAINE\n\n✅ #Vote4TroyJacksonForUSSenate_fromMaine\nNOVEMBER 3, 2026",
-          "createdAt": "2026-08-06T20:27:10.205Z",
-          "uri": "at://did:plc:u6rhqvc5ov4phn7ltnjypnvh/app.bsky.feed.post/3msguvact4c2f",
-          "sentiment": 0.9
-        },
-        {
-          "id": "6d06fe8c0504b817ed18813b728214137dd6e29f22b4eab70305fa1370bf1c7d",
-          "authorHandle": "mst-rex.bsky.social",
-          "postText": "I'm attending Maine Coordinated Campaign's event, “Statewide Volunteer Kickoff Call on Tuesday!” - sign up now to join me!  www.mobilize.us/mainecoordin...",
-          "createdAt": "2026-08-06T20:24:33.347Z",
-          "uri": "at://did:plc:bu3j3hznhpuqboj3hw72e243/app.bsky.feed.post/3msguqkpvhs23",
-          "sentiment": 0
-        },
-        {
-          "id": "9786db47fcf9442e73c6699d7312162776feae6bb4b7d85d727703aa97060a8a",
-          "authorHandle": "iamlandon.bsky.social",
-          "postText": "Troy Jackson is beating Susan Collins three polls in a row",
-          "createdAt": "2026-08-06T20:18:20.404Z",
-          "uri": "at://did:plc:knpnxw767palhv4sosth7t4z/app.bsky.feed.post/3msgufh3brs22",
-          "sentiment": 0.75
-        },
-        {
-          "id": "298f9994ddbdc9bdc1b13b3a46464aee19a95622fc205e4f6bb8b0e4d4ca2d24",
-          "authorHandle": "gentlem.bsky.social",
-          "postText": "www.jacksonformaine.com\n@troyjackson207.bsky.social \n#JacksonForMaine",
-          "createdAt": "2026-08-06T20:08:51.060Z",
-          "uri": "at://did:plc:yto72hgvetlbftg2v76q3qq3/app.bsky.feed.post/3msgtui3mcc2z",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -843,14 +867,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.08000000000000002,
+      "overallSentiment": -0.08750000000000001,
       "newsSentiment": -0.1,
-      "socialSentiment": -0.06000000000000001,
+      "socialSentiment": -0.07500000000000001,
       "mentions": {
         "news": 1,
-        "social": 5,
+        "social": 4,
         "youtube": 0,
-        "total": 6
+        "total": 5
       },
       "news": [
         {
@@ -895,14 +919,6 @@
           "createdAt": "2026-08-06T22:43:30.204Z",
           "uri": "at://did:plc:6qy77x4m7s5iiquvzlnyri4y/app.bsky.feed.post/3msh4izet7225",
           "sentiment": 0.7
-        },
-        {
-          "id": "ef559b98efe18102c67ae553a9400dab4fc94c0e033b350cd82d08d2390c4423",
-          "authorHandle": "murraystein.bsky.social",
-          "postText": "www.instagram.com/p/DbqZsigOMZp/",
-          "createdAt": "2026-08-06T20:14:10.398Z",
-          "uri": "at://did:plc:peuqqab2347gsol5quh4mmzr/app.bsky.feed.post/3msgu5ymxuc2b",
-          "sentiment": 0
         }
       ],
       "youtube": [],
