@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T13:48:31.844Z",
+  "lastUpdated": "2026-08-07T14:41:20.865Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2904361111111111,
+      "overallSentiment": 0.2827822916666667,
       "newsSentiment": 0.05999999999999999,
-      "socialSentiment": 0.3413083333333333,
+      "socialSentiment": 0.318346875,
       "mentions": {
         "news": 30,
-        "social": 72,
+        "social": 64,
         "youtube": 5,
-        "total": 107
+        "total": 99
       },
       "news": [
         {
@@ -330,6 +330,14 @@
         }
       ],
       "social": [
+        {
+          "id": "545fe0bb23af66d548c5e3da76495f3b4964a21b2795db1d627b1cd80e4055c7",
+          "authorHandle": "midnitreebandit.bsky.social",
+          "postText": "Note: Platner's replacement, Troy Jackson, is a true working class hero, a labor activist going back almost 30 years.  But he is also a Sanders bro. He was a Sanders delegate for Maine in 2016, and was the guy who brought Platner to the stage with Bernie 11 days after he entered the Senate race.",
+          "createdAt": "2026-08-07T13:55:48.527Z",
+          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3msipidvmws2d",
+          "sentiment": 0.6
+        },
         {
           "id": "41b34c2d4319ed6a5f041008ce637bf2d72994bb6d6fc62040b383d279ffe70c",
           "authorHandle": "officiallilsilver.bsky.social",
@@ -833,78 +841,6 @@
           "createdAt": "2026-08-06T14:43:23.214Z",
           "uri": "at://did:plc:5nkfrqfbvpoveapc6mx5vwrf/app.bsky.feed.post/3msgboivitk2m",
           "sentiment": 0.8
-        },
-        {
-          "id": "01927a253596b5d70afd424e99b9d1790cde87f3f38d74009542239b6398553e",
-          "authorHandle": "dewforpolitics.bsky.social",
-          "postText": "A new Maine Senate poll showed Democrat Troy Jackson leading Sen. Susan Collins 49%-45%, expanding to 52%-44% after both sides’ negatives, with Collins at -6 net job approval and Jackson at +12 net favorability.",
-          "createdAt": "2026-08-06T14:40:34.959Z",
-          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3msgbjigco22k",
-          "sentiment": 0.7
-        },
-        {
-          "id": "d95382d8b0906ef6df153142e7f7d903dd1c90156ef17d11fc52242c43c7a6bc",
-          "authorHandle": "wu4america.bsky.social",
-          "postText": "I’m genuinely not gonna believe that Susan Collins lost until Troy Jackson has his hand on a Bible next to JD Vance.",
-          "createdAt": "2026-08-06T14:39:02.667Z",
-          "uri": "at://did:plc:sv6wpqjumnor45vw5uj3qu5k/app.bsky.feed.post/3msgbgqfpsk2i",
-          "sentiment": 0.6
-        },
-        {
-          "id": "4baf36f477c9bd95b6e58ebde96ebf2de91790958a3a328fd1557317906b9b76",
-          "authorHandle": "usapolling.bsky.social",
-          "postText": "Maine - Senate Polling:\n\n🔵 Troy Jackson: 49%\n🔴 Susan Collins: 45%\n\nHart Research / August 1, 2026\n\nRead it here: unitedstatespolling.com/p/new-poll-s...",
-          "createdAt": "2026-08-06T14:36:26.618Z",
-          "uri": "at://did:plc:4bwzn4ayvrvtiukfuwnz2i65/app.bsky.feed.post/3msgbc3lj6k2a",
-          "sentiment": 0.7
-        },
-        {
-          "id": "fe162f3d6f3a5b292eb652412c6944c0f6272c97303a785e1d64e31169c571dc",
-          "authorHandle": "laurennfrench.bsky.social",
-          "postText": "Troy Jackson is popular in Maine - 47% favorable, 35% unfavorable, net +12. More than half of Maine voters say his story and his message speak to them directly. This isn't just anti-Collins energy. People are choosing Troy.",
-          "createdAt": "2026-08-06T14:36:16.327Z",
-          "uri": "at://did:plc:veivzorojl6zwkglozf7d3iv/app.bsky.feed.post/3msgbbrvjb224",
-          "sentiment": 0.8
-        },
-        {
-          "id": "9a2ca9b6287b1895fa69a2a8ab12bfdd2837319f8b15d953506a4d2eb48603c7",
-          "authorHandle": "laurennfrench.bsky.social",
-          "postText": "HUGE news out of Maine: Troy Jackson is beating Susan Collins 49-45 in the newest poll of the Senate race. Collins was tied at this point in 2020. Even worse for Collins is that she's underwater on her job approval: 46% approve, 52% disapprove.",
-          "createdAt": "2026-08-06T14:36:16.326Z",
-          "uri": "at://did:plc:veivzorojl6zwkglozf7d3iv/app.bsky.feed.post/3msgbbrrhes24",
-          "sentiment": 0.7
-        },
-        {
-          "id": "f88f6b0189befbca40a6f6de0d822769411154c8dd8e6d850a69cd7bd152c4d9",
-          "authorHandle": "usapolling.bsky.social",
-          "postText": "Maine - \"Which would you prefer to have, a Democratic Senate majority to keep a check on Trump or a Republican majority to advance Trump's agenda?\"\n\n🔵 Democratic Majority: 54%\n🔴 Republican Majority: 36%\n\nHart Research / August 1, 2026\n\nRead it here: unitedstatespolling.com/p/new-poll-s...",
-          "createdAt": "2026-08-06T14:36:01.831Z",
-          "uri": "at://did:plc:4bwzn4ayvrvtiukfuwnz2i65/app.bsky.feed.post/3msgbbdx4422a",
-          "sentiment": 0
-        },
-        {
-          "id": "46544f3ac7aafd2a6d040d4d3efbd7bc1851e628b25cc3b7afbef0b2f98fc95f",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "================\nMAINE SENATE RACE \n================\n\nLatest poll shows:\nTROY JACKSON – 49% \nSUSAN COLLINS – 45%\n\n\"At a similar point in the 2020 election, Susan Collins and Sarah Gideon were tied in our polling.\"\n\nPartisan poll by Hart Research (801 people, 7/27-8/1)\n\n#MEpolitics #JACKSONforMAINE",
-          "createdAt": "2026-08-06T14:27:58.429Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3msgaswwrv22b",
-          "sentiment": 0.7
-        },
-        {
-          "id": "522ef40908c8df8d8bd32e675a95cc4dea2b5491c69e32ce2c9da0d43ccf5440",
-          "authorHandle": "politicalwire.com",
-          "postText": "Troy Jackson Hold Small Lead Over Susan Collins\r\nhttps://politicalwire.com/2026/08/06/troy-jackson-hold-small-lead-over-susan-collins/",
-          "createdAt": "2026-08-06T13:49:05+00:00",
-          "uri": "at://did:plc:vaams3fhnnnivk3hzxct7nki/app.bsky.feed.post/3msg6nghtax2s",
-          "sentiment": 0.6
-        },
-        {
-          "id": "2729832c013ff8bed5fa4702953916120f8427e6d40c13d03a3a3c415124857a",
-          "authorHandle": "politicalwire.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-08-06T13:43:19.000Z",
-          "uri": "at://did:plc:ngywpvepg2jwzq5abtzp4qo2/app.bsky.feed.post/3msg6xxl7muz2",
-          "sentiment": 0
         }
       ],
       "youtube": [
