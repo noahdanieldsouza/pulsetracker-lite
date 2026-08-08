@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T15:40:17.863Z",
+  "lastUpdated": "2026-08-08T16:01:58.670Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11053852769177845,
+      "overallSentiment": 0.11103956272774596,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.36985087719298243,
+      "socialSentiment": 0.3713539823008849,
       "mentions": {
         "news": 34,
-        "social": 116,
+        "social": 115,
         "youtube": 7,
-        "total": 157
+        "total": 156
       },
       "news": [
         {
@@ -357,6 +357,14 @@
         }
       ],
       "social": [
+        {
+          "id": "5a456d9b0c36b8af6f6d40080727f2fc320d392291cb22c008c9c6cc4359abe0",
+          "authorHandle": "butchsullins.bsky.social",
+          "postText": " Jonathan Larsen TFN: Martha Previte and Jim Earl have struck again, fictionally ambushing Sen. Susan Collins (R-ME) with a gotcha question about her Democratic rival, former state Sen. Pres. Troy Jackson.",
+          "createdAt": "2026-08-08T15:54:02.381Z",
+          "uri": "at://did:plc:2rlom2mvhjemynggycrotwpy/app.bsky.feed.post/3mslgkolmqc2q",
+          "sentiment": -0.2
+        },
         {
           "id": "1ef200c45b65ec63db8376a2c38c9f06f25a945192f36709824520165946d01e",
           "authorHandle": "galenstone.bsky.social",
@@ -1268,22 +1276,6 @@
           "createdAt": "2026-08-07T16:30:02.308Z",
           "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3msiy44ylhs2g",
           "sentiment": -1
-        },
-        {
-          "id": "506dc16be835ac7eb51785307b1ea2b65e75c8f21921e5123e8a1e88c8d3a1d0",
-          "authorHandle": "redsimba.bsky.social",
-          "postText": "Like I said, Susan Collins only votes with Dems when her vote doesn’t matter. I hope Maine replaces her with Troy Jackson.",
-          "createdAt": "2026-08-07T15:47:31.502Z",
-          "uri": "at://did:plc:swi5ygc2xaxknpeadp5hod7l/app.bsky.feed.post/3msivq4e7ws22",
-          "sentiment": 1
-        },
-        {
-          "id": "b984c03c3e97a7e8d6e0bab2c6b2712a2c0297cb91ab4cc40ea7bab9e1ab4243",
-          "authorHandle": "chrisswartout.bsky.social",
-          "postText": "Exactly this.  Troy Jackson has been given another talking point.",
-          "createdAt": "2026-08-07T15:47:16.778Z",
-          "uri": "at://did:plc:trflneaok3qt6ufz2stcjwgk/app.bsky.feed.post/3msivpoct3c2t",
-          "sentiment": -1
         }
       ],
       "youtube": [
@@ -1368,12 +1360,20 @@
       "socialSentiment": -1,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 2,
         "youtube": 0,
-        "total": 1
+        "total": 2
       },
       "news": [],
       "social": [
+        {
+          "id": "6811dbbf64d59634a7c560aa0f9aec0f722693311bf778c5ac2c82db92d1a1b5",
+          "authorHandle": "tombowenjourno.bsky.social",
+          "postText": "90+4' CROSSBAR! A ball in sees Jordan Cullinane-Liburd's header crash against the bar!\n\nBoreham Wood 3-2 Tamworth",
+          "createdAt": "2026-08-08T15:53:50.854Z",
+          "uri": "at://did:plc:h4h4dts6mjquvwxbv33yivfg/app.bsky.feed.post/3mslgkdltvk2a",
+          "sentiment": -1
+        },
         {
           "id": "f9680fabba667e66910031c6a202b2c9dbe44d82c2422824e2a4315b77cadf57",
           "authorHandle": "doopy12.bsky.social",
