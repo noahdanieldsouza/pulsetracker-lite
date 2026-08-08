@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T10:47:02.278Z",
+  "lastUpdated": "2026-08-08T11:12:52.672Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2958267973856209,
+      "overallSentiment": 0.29790614886731387,
       "newsSentiment": 0.05999999999999999,
-      "socialSentiment": 0.35748039215686267,
+      "socialSentiment": 0.3637184466019417,
       "mentions": {
         "news": 30,
-        "social": 104,
+        "social": 105,
         "youtube": 5,
-        "total": 139
+        "total": 140
       },
       "news": [
         {
@@ -321,6 +321,14 @@
         }
       ],
       "social": [
+        {
+          "id": "0a7a380f040c39ec1515fb0fe295c8c17936890426804ff10b5ceb04f9fae901",
+          "authorHandle": "pressherald.com",
+          "postText": "A vote for Troy Jackson will help restore American democracy | Opinion",
+          "createdAt": "2026-08-08T11:00:46+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mskw6cen2u2n",
+          "sentiment": 1
+        },
         {
           "id": "40867e5c5e265e997066e062e66a0c0fc59b60c9a86825581ce23d8eba1764fc",
           "authorHandle": "edengk.bsky.social",
