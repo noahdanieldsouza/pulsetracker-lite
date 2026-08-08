@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T10:05:40.430Z",
+  "lastUpdated": "2026-08-08T10:47:02.278Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.29901045751633987,
+      "overallSentiment": 0.2958267973856209,
       "newsSentiment": 0.05999999999999999,
-      "socialSentiment": 0.3670313725490196,
+      "socialSentiment": 0.35748039215686267,
       "mentions": {
         "news": 30,
         "social": 104,
@@ -321,6 +321,14 @@
         }
       ],
       "social": [
+        {
+          "id": "40867e5c5e265e997066e062e66a0c0fc59b60c9a86825581ce23d8eba1764fc",
+          "authorHandle": "edengk.bsky.social",
+          "postText": "STOP GENOCIDE \n\nTRUMP AND ELON HAVE STOLEN BILLIONS",
+          "createdAt": "2026-08-08T10:13:10.556Z",
+          "uri": "at://did:plc:4xtbdet5keuguykxvcuil4z7/app.bsky.feed.post/3msktj67hf22b",
+          "sentiment": -1
+        },
         {
           "id": "9cca5871c414ca6c9b8023616234a84f9215af30c3548666db025eb4d779e7ea",
           "authorHandle": "edengk.bsky.social",
@@ -1144,14 +1152,6 @@
           "createdAt": "2026-08-07T11:40:36.070Z",
           "uri": "at://did:plc:lh7uqxgv6glly3ujhix4qxeb/app.bsky.feed.post/3msihwlb2oc2l",
           "sentiment": 0
-        },
-        {
-          "id": "c36d1b6c2a642633318514d3f32b320e9b08d5fb548d99d691948f425505695d",
-          "authorHandle": "drawstickpeople.bsky.social",
-          "postText": "Off the top of my tired head?\n\nMamdani & El-Sayed\n\nAnd DSA endorsed Troy Jackson",
-          "createdAt": "2026-08-07T10:12:23.626Z",
-          "uri": "at://did:plc:tuhlyhkol7yxkh5q3mykjqe4/app.bsky.feed.post/3msicytyidc2x",
-          "sentiment": -0.0258
         }
       ],
       "youtube": [
