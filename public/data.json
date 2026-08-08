@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T13:59:09.175Z",
+  "lastUpdated": "2026-08-08T14:36:44.183Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11738761801016702,
+      "overallSentiment": 0.10976383053221288,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.3903981481481481,
+      "socialSentiment": 0.3675267857142857,
       "mentions": {
         "news": 34,
-        "social": 110,
+        "social": 114,
         "youtube": 7,
-        "total": 151
+        "total": 155
       },
       "news": [
         {
@@ -357,6 +357,38 @@
         }
       ],
       "social": [
+        {
+          "id": "1a45f56d5679dcbe96b39edf55c74831939327affd17e178c39a4713b897a244",
+          "authorHandle": "mainerbeanman.bsky.social",
+          "postText": "'Mainers Aren't Stupid': Troy Jackson Says Voters See Through Susan Collins' Charade www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-08T14:30:25.328Z",
+          "uri": "at://did:plc:n4rik26ucmyeliy6e65pfuxy/app.bsky.feed.post/3mslbv5xbws2f",
+          "sentiment": -1
+        },
+        {
+          "id": "47ca26c2ab1ecebf8c8c156ff7474a99aa770b193a02a3b112b2ab58233d6a2f",
+          "authorHandle": "collinswatch.bsky.social",
+          "postText": "This is an improvement over the Gideon campaign which was reluctant to call out Susan Collins as a liar and con artist.\n\nIf you don't tell voters the truth about this a) you forego a compelling, persuasive argument against Collins and b) you lose a chance to connect candidly with folks. #MEpolitics",
+          "createdAt": "2026-08-08T14:30:06.541Z",
+          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3mslbum27322v",
+          "sentiment": -1
+        },
+        {
+          "id": "005fc8f5b1015c316d646f023df749dc021a3bfb31c64a9100e884771e5e8afd",
+          "authorHandle": "brentavision.bsky.social",
+          "postText": "Now say it in Troy Jackson accent!",
+          "createdAt": "2026-08-08T14:09:26.004Z",
+          "uri": "at://did:plc:4td3zuicydl46auknxbu4nlb/app.bsky.feed.post/3mslapmxsd226",
+          "sentiment": 0
+        },
+        {
+          "id": "2dbbd0512428f3ab84a417cef57d13133b08de3cd4a11f8df3c0c88f7aff4eb1",
+          "authorHandle": "ocanannain.bsky.social",
+          "postText": "Susan Collins may not be able to rely on her usual cabal of blue voters in her fight to defend her seat from Democratic candidate Troy Jackson\nwww.rawstory.com/gop-senate-m...",
+          "createdAt": "2026-08-08T14:02:47.191Z",
+          "uri": "at://did:plc:q6x6qsiuu4yax77igfiix7ng/app.bsky.feed.post/3msladqmxjk2d",
+          "sentiment": 1
+        },
         {
           "id": "5e25f214e03490ffe516788f587f8a847329ad05963cde8fb4fe0bf7057c35df",
           "authorHandle": "ocanannain.bsky.social",
