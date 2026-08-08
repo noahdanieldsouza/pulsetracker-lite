@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T17:48:50.164Z",
+  "lastUpdated": "2026-08-08T18:15:25.903Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1210094239246086,
+      "overallSentiment": 0.11658563112745098,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.4012635658914729,
+      "socialSentiment": 0.38799218750000003,
       "mentions": {
         "news": 34,
-        "social": 131,
+        "social": 130,
         "youtube": 7,
-        "total": 172
+        "total": 171
       },
       "news": [
         {
@@ -366,6 +366,22 @@
         }
       ],
       "social": [
+        {
+          "id": "be1ab51a8bd5e639cf7046b86db91754b71522eebe5bcb0e82751b8a6d50bf62",
+          "authorHandle": "jackiejkfl.bsky.social",
+          "postText": "apnews.com/article/main... Troy Jackson went from Maine logger to the Democratic nominee for Senate against Susan Collins",
+          "createdAt": "2026-08-08T18:02:30.188Z",
+          "uri": "at://did:plc:e7ds7yse5txkiw4owase7xvc/app.bsky.feed.post/3mslnqfd7z22x",
+          "sentiment": 0
+        },
+        {
+          "id": "af19b10ee4d5ab2b436c1d00f1d887ac52f16f821283953cdae4d984aa0da093",
+          "authorHandle": "mistergarrett.bsky.social",
+          "postText": "www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-08T17:44:55.315Z",
+          "uri": "at://did:plc:naxdrv3pwmxbkmr2pergwida/app.bsky.feed.post/3mslmqxczmk2a",
+          "sentiment": 0
+        },
         {
           "id": "6dc5bfaba9f6c1fcba0d2ef9fe40f23fe167726fc3f2bc038df9a7ed7ebc6078",
           "authorHandle": "ritesofzhou.bsky.social",
@@ -1389,30 +1405,6 @@
           "createdAt": "2026-08-07T18:22:01.143Z",
           "uri": "at://did:plc:zrryxs7fcutu5p2ng3ltomwy/app.bsky.feed.post/3msj6eel5rk22",
           "sentiment": 0.8
-        },
-        {
-          "id": "d58ab9a8313678b0d8f2f3f99f3619d7e979936d6c60384c28f40e798d714f10",
-          "authorHandle": "everystate.org",
-          "postText": "Troy Jackson has a message for Elon Musk: “You don’t get to buy the government you want.”\n\nMusk has already lost his brief status as the world’s first trillionaire. This year, let’s make sure his campaign spending becomes another wasted investment.",
-          "createdAt": "2026-08-07T18:03:20.422Z",
-          "uri": "at://did:plc:rpyvbql3f2uobqdcej25ufhb/app.bsky.feed.post/3msj5cxrink2j",
-          "sentiment": 0.7
-        },
-        {
-          "id": "c58489a4706b590180411335e440924d21845b17bcc7b56bd414096a5376a43a",
-          "authorHandle": "maryburns.bsky.social",
-          "postText": "Troy Jackson was talking about this exact Collins’ history of voting when it doesn’t matter.",
-          "createdAt": "2026-08-07T17:55:00.756Z",
-          "uri": "at://did:plc:4dijxzu2lhwzf7ovuhadmoxz/app.bsky.feed.post/3msj4u3auls2i",
-          "sentiment": 0.5
-        },
-        {
-          "id": "98cd0524bd97a00b6696734a95ccd58348c1bdd6800c2e373ca4b445953c746c",
-          "authorHandle": "mainebogboy.bsky.social",
-          "postText": "You’re absolutely right Linda. I know this is the case with Collins who votes 90+ % of the time with trump. I so hope Troy Jackson wins! Jim from Maine",
-          "createdAt": "2026-08-07T17:51:26.151Z",
-          "uri": "at://did:plc:ww23u2sqyo2pbc6r33u6btio/app.bsky.feed.post/3msj4nolnfk2f",
-          "sentiment": 0.9
         }
       ],
       "youtube": [
