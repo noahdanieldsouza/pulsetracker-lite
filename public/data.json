@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T14:36:44.183Z",
+  "lastUpdated": "2026-08-08T15:01:23.113Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.10976383053221288,
+      "overallSentiment": 0.1108675145733969,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.3675267857142857,
+      "socialSentiment": 0.3708378378378378,
       "mentions": {
         "news": 34,
-        "social": 114,
+        "social": 113,
         "youtube": 7,
-        "total": 155
+        "total": 154
       },
       "news": [
         {
@@ -357,6 +357,14 @@
         }
       ],
       "social": [
+        {
+          "id": "cff1b7039f4dc37b5d993d315e7b4a063c2c1ac9dca0b5de71aeefa52933de1c",
+          "authorHandle": "dc2daylight.bsky.social",
+          "postText": "www.aol.com/articles/tro...",
+          "createdAt": "2026-08-08T14:42:48.721Z",
+          "uri": "at://did:plc:rheeyyoqtdxr6dgokt2se7mm/app.bsky.feed.post/3mslclcvto22x",
+          "sentiment": 0
+        },
         {
           "id": "1a45f56d5679dcbe96b39edf55c74831939327affd17e178c39a4713b897a244",
           "authorHandle": "mainerbeanman.bsky.social",
@@ -1252,22 +1260,6 @@
           "createdAt": "2026-08-07T15:28:23.654Z",
           "uri": "at://did:plc:zlhnwxyuu7vjzio6if2dgvdp/app.bsky.feed.post/3msiunvomoc2f",
           "sentiment": 1
-        },
-        {
-          "id": "6e3f2aaf2e85dde8e8f2018c074119b58f058a9839be2958b6581ba1d9b0b1a8",
-          "authorHandle": "concerned2.bsky.social",
-          "postText": "Still VOTE OUT Susan Collins \n\nVOTE for Troy Jackson 💪🔵💪",
-          "createdAt": "2026-08-07T15:00:52.037Z",
-          "uri": "at://did:plc:ljftynwi6mxf36zergsw5k4y/app.bsky.feed.post/3msit4olcgc2q",
-          "sentiment": 1
-        },
-        {
-          "id": "b624c5ead4df91e64f2373a205e6b6fe83e4f5604663eac5519800491d2fdac7",
-          "authorHandle": "freeimamoglunow.eurosky.social",
-          "postText": "Namen, die Donald Trump bis zum 03.11.26 häufig erwähnen sollte:\n\n1. Abdul El-Sayed\n2. James Talarico\n3. Jon Osborn\n4. Josh Turek\n5. Troy Jackson\n6. Seth Bodnar\n7. Mary Peltola\n8. Peggy Flanagan\n9. Sherrod Brown\n10. Roy Cooper\n11. Jon Ossoff\n\nVielleicht geht dann sogar was bei\n11. Annie Andrews\n🤣🤣🤣",
-          "createdAt": "2026-08-07T14:56:57.947Z",
-          "uri": "at://did:plc:wrjwa2csqu2w7rw43hohuka5/app.bsky.feed.post/3msisvpdfwk2j",
-          "sentiment": -1
         }
       ],
       "youtube": [
