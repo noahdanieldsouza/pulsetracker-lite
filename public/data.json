@@ -1,21 +1,30 @@
 {
-  "lastUpdated": "2026-08-08T17:16:29.875Z",
+  "lastUpdated": "2026-08-08T17:48:50.164Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
+      "overallSentiment": -0.1,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": -0.1,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "a5660a133e145c6b819e3b687bc5ea11d42d4477c3adb006561dcf2f73e99710",
+          "authorHandle": "ritesofzhou.bsky.social",
+          "postText": "Nirav Shah? Probably several state legislators?",
+          "createdAt": "2026-08-08T17:37:20.700Z",
+          "uri": "at://did:plc:mbmhdhcavklqljy2tnsodmd7/app.bsky.feed.post/3mslmdfrcn223",
+          "sentiment": -0.1
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
@@ -39,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11810939931528168,
+      "overallSentiment": 0.1210094239246086,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.3925634920634921,
+      "socialSentiment": 0.4012635658914729,
       "mentions": {
         "news": 34,
-        "social": 128,
+        "social": 131,
         "youtube": 7,
-        "total": 169
+        "total": 172
       },
       "news": [
         {
@@ -357,6 +366,46 @@
         }
       ],
       "social": [
+        {
+          "id": "6dc5bfaba9f6c1fcba0d2ef9fe40f23fe167726fc3f2bc038df9a7ed7ebc6078",
+          "authorHandle": "ritesofzhou.bsky.social",
+          "postText": "Oh fuck, Moraff wanted Troy Jackson??",
+          "createdAt": "2026-08-08T17:41:54.209Z",
+          "uri": "at://did:plc:mbmhdhcavklqljy2tnsodmd7/app.bsky.feed.post/3mslmlkm4c223",
+          "sentiment": -1
+        },
+        {
+          "id": "8f5ae913b2c9df385d4ed2ba7aef4b2c864241830dcca254ee9efdd5e9ef5b06",
+          "authorHandle": "attil22.bsky.social",
+          "postText": "Troy Jackson (D): 49%\nSusan Collins (R): 45%\n\nI'm asking you to chip in $10 to defeat Susan. >> tj4uss.com/080722/jmfMf6\n\nTroy Jackson",
+          "createdAt": "2026-08-08T17:40:59.378Z",
+          "uri": "at://did:plc:svfqlhwucf3grzhzbz5cmfsr/app.bsky.feed.post/3mslmjwctek2b",
+          "sentiment": 0
+        },
+        {
+          "id": "162ef3b96700f33813aa84d80fdb69859ce35a706df5f66177b82a22b4bf89f0",
+          "authorHandle": "hydevoltyge.bsky.social",
+          "postText": "Shah wouldn't be able with his baggage from Illinois, you need a lot of juice and enthusiasm to topple someone with the level of institutional support Mills had gotten. I think Troy Jackson might be the only answer.",
+          "createdAt": "2026-08-08T17:38:38.329Z",
+          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mslmfpsda22c",
+          "sentiment": 1
+        },
+        {
+          "id": "f04adfeda09fb6d96c8eec5770dfd98c486d03658e592ae6578e1be930b75ba0",
+          "authorHandle": "concerned2.bsky.social",
+          "postText": "VOTE out Susan Collins \n\nVOTE for Troy Jackson 💪🔵💪",
+          "createdAt": "2026-08-08T17:36:08.248Z",
+          "uri": "at://did:plc:ljftynwi6mxf36zergsw5k4y/app.bsky.feed.post/3mslmbao7qs24",
+          "sentiment": 1
+        },
+        {
+          "id": "d4a8f2b27387ac32956e2a7ce0154e1326b8ad80ab047330432b08ac2ee52611",
+          "authorHandle": "bowreader.bsky.social",
+          "postText": "Well, $u$an Collin$ was one of them, so that and trying to fool Mainers into thinking she does not support the supporters of pdfiles. Because she's up for re-election in November.\nWE ARE NOT FOOLED, $u$an!\nPlease support Troy Jackson to TAKE HER DOWN once and for all!",
+          "createdAt": "2026-08-08T17:29:40.840Z",
+          "uri": "at://did:plc:jejhq4yenlxe6mjn2i6yjy2x/app.bsky.feed.post/3msllvp7im22w",
+          "sentiment": 1
+        },
         {
           "id": "5fea3e67ee8134449b65b61dce453d94b38462b8431aee920549bb7380384049",
           "authorHandle": "tommytwopence.bsky.social",
@@ -1364,22 +1413,6 @@
           "createdAt": "2026-08-07T17:51:26.151Z",
           "uri": "at://did:plc:ww23u2sqyo2pbc6r33u6btio/app.bsky.feed.post/3msj4nolnfk2f",
           "sentiment": 0.9
-        },
-        {
-          "id": "e29c70a7829a27cb953d222310285faf8fe4e1201896de605db43302514002b5",
-          "authorHandle": "hancockcountydems.bsky.social",
-          "postText": "www.goiam.org/news/iam-uni...",
-          "createdAt": "2026-08-07T17:38:44.424Z",
-          "uri": "at://did:plc:7expgbr42k6s436jjvpmr7al/app.bsky.feed.post/3msj3wy5me22q",
-          "sentiment": 0
-        },
-        {
-          "id": "0aaede0373755adeedd413b697acd8f438af123c5684c656e76c788ad7774b01",
-          "authorHandle": "ems1944.bsky.social",
-          "postText": "1) Astonishing how the same Kabuki gets pulled regularly by Murkowski and Collins. Sen. Cassidy's already announced he'll vote for Blanche, so Murkowski and Collins have been given permission to vote a meaningless \"no.\"\n\nCollins will use this vote in her struggle against Troy Jackson.",
-          "createdAt": "2026-08-07T17:30:53.530Z",
-          "uri": "at://did:plc:xbwqlyzkizurbljyvqcqv2ho/app.bsky.feed.post/3msj3ix32wk2a",
-          "sentiment": -0.3
         }
       ],
       "youtube": [
