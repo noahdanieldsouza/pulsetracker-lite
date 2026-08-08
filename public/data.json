@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T05:29:29.226Z",
+  "lastUpdated": "2026-08-08T06:08:31.326Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.29027375886524825,
+      "overallSentiment": 0.29258666666666666,
       "newsSentiment": 0.05999999999999999,
-      "socialSentiment": 0.3408212765957447,
+      "socialSentiment": 0.34775999999999996,
       "mentions": {
         "news": 30,
-        "social": 96,
+        "social": 97,
         "youtube": 5,
-        "total": 131
+        "total": 132
       },
       "news": [
         {
@@ -321,6 +321,14 @@
         }
       ],
       "social": [
+        {
+          "id": "c0876026a9af6e29dfe4a9635b0a1c45d66aea2723fdf8c5fda032de28843b69",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN TO FUND OUR FIRST TV AD\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-08T05:29:11.615Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mskdnem7lk2m",
+          "sentiment": 1
+        },
         {
           "id": "40079565c4923fcdc21c734c481afbec2eaa1a2a5e9f1205e5d9d323a3163b1f",
           "authorHandle": "facefactsnotlies.bsky.social",
