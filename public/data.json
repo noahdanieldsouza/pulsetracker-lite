@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T19:01:18.382Z",
+  "lastUpdated": "2026-08-08T19:39:22.973Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11235010398098637,
+      "overallSentiment": 0.11065765885301493,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.3752856060606061,
+      "socialSentiment": 0.3702082706766918,
       "mentions": {
         "news": 34,
-        "social": 134,
+        "social": 135,
         "youtube": 7,
-        "total": 175
+        "total": 176
       },
       "news": [
         {
@@ -366,6 +366,22 @@
         }
       ],
       "social": [
+        {
+          "id": "be01c7f04290a5efc834a1114a3397182624fd68846955b61e116c3e037e6f4e",
+          "authorHandle": "drsportsball.bsky.social",
+          "postText": "She has all but ensured Troy Jackson will take her job.",
+          "createdAt": "2026-08-08T19:07:50.012Z",
+          "uri": "at://did:plc:coylwpprzucahal3bsbcl6wk/app.bsky.feed.post/3mslrf7kq5s23",
+          "sentiment": -0.3
+        },
+        {
+          "id": "96ca987cef50abef7dd14ea8649c06d364afa71a8669b6ad3adaf3b180b43898",
+          "authorHandle": "concerned2.bsky.social",
+          "postText": "VOTE Susan Collins OUT \n\nVOTE for Troy Jackson 💪🔵💪",
+          "createdAt": "2026-08-08T19:07:13.081Z",
+          "uri": "at://did:plc:ljftynwi6mxf36zergsw5k4y/app.bsky.feed.post/3mslre4doq224",
+          "sentiment": 0.8
+        },
         {
           "id": "8113ac40b55dfdb1da76dfa9195ea25bf22f92223e94c16e87bba23faf56f3cd",
           "authorHandle": "betsy-cazden.bsky.social",
@@ -1429,14 +1445,6 @@
           "createdAt": "2026-08-07T19:49:37.394Z",
           "uri": "at://did:plc:uqrfc7gu5tptozetpvustimk/app.bsky.feed.post/3msjdazd7fc2w",
           "sentiment": 1
-        },
-        {
-          "id": "dc53ac86f13e01b8bbf8b558ec903770ca77fc97f1ffd5078f8ff3b590aeeaac",
-          "authorHandle": "startledsquirrel.bsky.social",
-          "postText": "She violates her oath of Office weekly. \nIn better news, Troy Jackson has canvases out of Scarborough this weekend. Come join us and we’ll teach you how to do it. That’s the only way we get Susan Collins out of office. Come be uncomfortable with us.",
-          "createdAt": "2026-08-07T19:32:27.816Z",
-          "uri": "at://did:plc:h7vbeln6osknacosx4hv6htx/app.bsky.feed.post/3msjccdgz422f",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
