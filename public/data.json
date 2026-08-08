@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T13:26:36.300Z",
+  "lastUpdated": "2026-08-08T13:59:09.175Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11677033405954973,
+      "overallSentiment": 0.11738761801016702,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.3885462962962962,
+      "socialSentiment": 0.3903981481481481,
       "mentions": {
         "news": 34,
         "social": 110,
@@ -357,6 +357,14 @@
         }
       ],
       "social": [
+        {
+          "id": "5e25f214e03490ffe516788f587f8a847329ad05963cde8fb4fe0bf7057c35df",
+          "authorHandle": "ocanannain.bsky.social",
+          "postText": "‘Mainers Aren’t Stupid’: Troy Jackson Says Voters See Through Susan Collins’ Charade\n\n“Susan has voted with Trump 96% of the time. The other 4%? She waits until her vote won’t change the outcome.”",
+          "createdAt": "2026-08-08T13:15:21.841Z",
+          "uri": "at://did:plc:q6x6qsiuu4yax77igfiix7ng/app.bsky.feed.post/3msl5ox3sfc2y",
+          "sentiment": 0.8
+        },
         {
           "id": "3edfb9e78b1005f0dab7c55eebcfa2c2ab73c97759f9c5878e1cbe18a07188bd",
           "authorHandle": "wombatsecho.bsky.social",
@@ -1228,14 +1236,6 @@
           "createdAt": "2026-08-07T14:56:57.947Z",
           "uri": "at://did:plc:wrjwa2csqu2w7rw43hohuka5/app.bsky.feed.post/3msisvpdfwk2j",
           "sentiment": -1
-        },
-        {
-          "id": "545fe0bb23af66d548c5e3da76495f3b4964a21b2795db1d627b1cd80e4055c7",
-          "authorHandle": "midnitreebandit.bsky.social",
-          "postText": "Note: Platner's replacement, Troy Jackson, is a true working class hero, a labor activist going back almost 30 years.  But he is also a Sanders bro. He was a Sanders delegate for Maine in 2016, and was the guy who brought Platner to the stage with Bernie 11 days after he entered the Senate race.",
-          "createdAt": "2026-08-07T13:55:48.527Z",
-          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3msipidvmws2d",
-          "sentiment": 0.6
         }
       ],
       "youtube": [
