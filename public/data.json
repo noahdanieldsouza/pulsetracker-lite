@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T11:12:52.672Z",
+  "lastUpdated": "2026-08-08T11:45:55.849Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.29790614886731387,
+      "overallSentiment": 0.29909477124183004,
       "newsSentiment": 0.05999999999999999,
-      "socialSentiment": 0.3637184466019417,
+      "socialSentiment": 0.3672843137254901,
       "mentions": {
         "news": 30,
-        "social": 105,
+        "social": 104,
         "youtube": 5,
-        "total": 140
+        "total": 139
       },
       "news": [
         {
@@ -321,6 +321,22 @@
         }
       ],
       "social": [
+        {
+          "id": "4ce25a20a5c7ab6f429176006b6e220a499754fe1e52c619c13bee934037f2e4",
+          "authorHandle": "bruxa.online",
+          "postText": "the NYT loves Susan Collins so much they want you to believe in 2026 that voting to end the filibuster of a bill is materially different than voting for the bill itself\n\nthey don't even use the word filibuster, obscuring the truth by repeatedly referring to it as a \"procedural vote\"",
+          "createdAt": "2026-08-08T11:41:12.748Z",
+          "uri": "at://did:plc:auimpg4xsvar2jdkray2o67g/app.bsky.feed.post/3mskyglpaws2t",
+          "sentiment": 0
+        },
+        {
+          "id": "2110d0c88ce3c01d4b3218b0832b0c7867f9717a772b51072ba9338782aa08a2",
+          "authorHandle": "lctbo.bsky.social",
+          "postText": "Troy Jackson is a really decent person he is being framed in attack ads here as the worst. I met him many times working for a pro cannabis med legalization group. Maine is really a small state we know our reps,once upon a time Collins was a decent person too. Now she whores for $$ and power.",
+          "createdAt": "2026-08-08T11:36:12.399Z",
+          "uri": "at://did:plc:cekwekvjfq4a5r6krtrtjluq/app.bsky.feed.post/3msky5nb7hk2e",
+          "sentiment": 1
+        },
         {
           "id": "0a7a380f040c39ec1515fb0fe295c8c17936890426804ff10b5ceb04f9fae901",
           "authorHandle": "pressherald.com",
@@ -1136,30 +1152,6 @@
           "createdAt": "2026-08-07T13:55:48.527Z",
           "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3msipidvmws2d",
           "sentiment": 0.6
-        },
-        {
-          "id": "41b34c2d4319ed6a5f041008ce637bf2d72994bb6d6fc62040b383d279ffe70c",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-08-07T11:45:24.311Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3msii765hzk26",
-          "sentiment": 0
-        },
-        {
-          "id": "478c8475f74130a172637a64c052f198469ce4ee7551d12ec1e7d49223f74e42",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "was I just on your TV?\n\nIt’s Troy Jackson, and I just shared some big news on MS NOW: A new poll has me up 4 points against Susan Collins.",
-          "createdAt": "2026-08-07T11:44:54.418Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3msii6bn7nc26",
-          "sentiment": 1
-        },
-        {
-          "id": "d88447836f4618bffb99c61aff0797d8fd436539f0eda1f222fb9e801fe9f8b6",
-          "authorHandle": "snikpoh.bsky.social",
-          "postText": "Sigh.  Right in plain English:  www.jacksonformaine.com/about",
-          "createdAt": "2026-08-07T11:40:36.070Z",
-          "uri": "at://did:plc:lh7uqxgv6glly3ujhix4qxeb/app.bsky.feed.post/3msihwlb2oc2l",
-          "sentiment": 0
         }
       ],
       "youtube": [
