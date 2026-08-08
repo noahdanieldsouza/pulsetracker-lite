@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T22:49:46.538Z",
+  "lastUpdated": "2026-08-08T23:13:38.503Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.095402818627451,
+      "overallSentiment": 0.09115702317290553,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.32444375000000003,
+      "socialSentiment": 0.31170636363636367,
       "mentions": {
         "news": 34,
-        "social": 114,
+        "social": 112,
         "youtube": 7,
-        "total": 155
+        "total": 153
       },
       "news": [
         {
@@ -366,6 +366,14 @@
         }
       ],
       "social": [
+        {
+          "id": "4357cd02c8ab24c8fe5959dcd6882a0c297b43016ec824c6e13362b7d8fac39e",
+          "authorHandle": "zimba7768.bsky.social",
+          "postText": "Maine's Troy Jackson, once a logger, has emerged as the Democratic Senate nominee challenging incumbent Susan Collins.\n\nRead full article",
+          "createdAt": "2026-08-08T23:00:12.378713+00:00",
+          "uri": "at://did:plc:5vw6ugbarfd5nzarheltm3g6/app.bsky.feed.post/3msm6eq2zlu2w",
+          "sentiment": 0
+        },
         {
           "id": "57e70b44d13c9a1d66a2e5d14c5a107882bb3a8966264e576dc53570a8a6c09d",
           "authorHandle": "pinetreeactivism.org",
@@ -1253,30 +1261,6 @@
           "createdAt": "2026-08-07T23:22:07.146Z",
           "uri": "at://did:plc:de4ihco6izh7rhiicv7uasgm/app.bsky.feed.post/3msjp4ygs2k2u",
           "sentiment": 0.9
-        },
-        {
-          "id": "c580fa93b512e12fbc8425a76b3d519d62437cbf785dd2c10ba0e6ccec6e86cf",
-          "authorHandle": "fightinglikehell.bsky.social",
-          "postText": "dailycallernewsfoundation.org/2026/07/25/t...\n\nJust a few groups that are attacking Troy Jackson. I am so tired of watching local TV with continuous political negativity from Susan Collin and the Super PAC I turn it off. it’s quite frustrating to hear it continuously. ￼",
-          "createdAt": "2026-08-07T23:07:14.093Z",
-          "uri": "at://did:plc:aszxenzl7rjxsduufkekeqnm/app.bsky.feed.post/3msjoceqxyc2i",
-          "sentiment": 0.75
-        },
-        {
-          "id": "ea712d51fa3f49a8d46695f4f3a7f7ad01a7215213fcf8132736190f4cc77dd4",
-          "authorHandle": "bunkunin.bsky.social",
-          "postText": "‘We Must Pass Medicare for All,’ Says Troy Jackson as 12th Maine Maternity Unit Closes in 11 Years www.commondreams.org/news/maine-h... #M4All",
-          "createdAt": "2026-08-07T23:06:34.638Z",
-          "uri": "at://did:plc:olngegflgjr5us2ype26qkrr/app.bsky.feed.post/3msjob74uqc26",
-          "sentiment": 0.6
-        },
-        {
-          "id": "0b60307038f867e5dca9d83f75cd5b474dc5238d37ce87d4ad9970df6fe89619",
-          "authorHandle": "eacanning.bsky.social",
-          "postText": "'Mainers Aren't Stupid': Troy Jackson Says Voters See Through Susan Collins' Charade www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-07T22:53:26.458Z",
-          "uri": "at://did:plc:hoxqjarxr4j5lppo6os2a6gl/app.bsky.feed.post/3msjnjphjpc2q",
-          "sentiment": 0.7
         }
       ],
       "youtube": [
