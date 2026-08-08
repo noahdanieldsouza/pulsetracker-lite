@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T08:54:50.198Z",
+  "lastUpdated": "2026-08-08T09:32:14.263Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.29645733333333335,
+      "overallSentiment": 0.29620453074433656,
       "newsSentiment": 0.05999999999999999,
-      "socialSentiment": 0.35937199999999997,
+      "socialSentiment": 0.3586135922330097,
       "mentions": {
         "news": 30,
-        "social": 102,
+        "social": 105,
         "youtube": 5,
-        "total": 137
+        "total": 140
       },
       "news": [
         {
@@ -321,6 +321,30 @@
         }
       ],
       "social": [
+        {
+          "id": "9cca5871c414ca6c9b8023616234a84f9215af30c3548666db025eb4d779e7ea",
+          "authorHandle": "edengk.bsky.social",
+          "postText": "BLUE TSUNAMIS LOOM \n\nVOTE OR DIE",
+          "createdAt": "2026-08-08T09:30:58.316Z",
+          "uri": "at://did:plc:4xtbdet5keuguykxvcuil4z7/app.bsky.feed.post/3mskr5pblrs2h",
+          "sentiment": -1
+        },
+        {
+          "id": "1b9927650248756d26b7f4bbdd1944b4510d2a09c0ce8f94faec7b91215a8348",
+          "authorHandle": "jorinyc.bsky.social",
+          "postText": "'Mainers Aren't Stupid': Troy Jackson Says Voters See Through Susan Collins' Charade www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-08T09:21:27.238Z",
+          "uri": "at://did:plc:gm2nlujgwecuohgx4bo66ykc/app.bsky.feed.post/3mskqmonpfk2f",
+          "sentiment": 1
+        },
+        {
+          "id": "76ae5dc0a6a9ed6c25a8adc3a19021fcd871d161608c3b46c584a898a44bb6da",
+          "authorHandle": "jorinyc.bsky.social",
+          "postText": "'We Must Pass Medicare for All,' Says Troy Jackson as 12th Maine Maternity Unit Closes in 11 Years www.commondreams.org/news/maine-h...",
+          "createdAt": "2026-08-08T09:20:56.975Z",
+          "uri": "at://did:plc:gm2nlujgwecuohgx4bo66ykc/app.bsky.feed.post/3mskqlrs4pk26",
+          "sentiment": 1
+        },
         {
           "id": "73786883ff8cd638f1ccf0f929732b20444b6157bb19ff1c8a9a64c00edbc7bb",
           "authorHandle": "eliemar.bsky.social",
