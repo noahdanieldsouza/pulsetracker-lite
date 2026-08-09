@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T23:47:19.984Z",
+  "lastUpdated": "2026-08-09T00:35:49.033Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.08340633053221291,
+      "overallSentiment": 0.07959077497665733,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.2884542857142858,
+      "socialSentiment": 0.27700761904761906,
       "mentions": {
         "news": 34,
-        "social": 107,
+        "social": 106,
         "youtube": 7,
-        "total": 148
+        "total": 147
       },
       "news": [
         {
@@ -366,6 +366,30 @@
         }
       ],
       "social": [
+        {
+          "id": "9b0b4469e887fe87b3e4ad1bef4039e868b73ce64c5d48d2e55cad46a5e21519",
+          "authorHandle": "jerrywayne.bsky.social",
+          "postText": "apnews.com/article/main...",
+          "createdAt": "2026-08-09T02:17:02.940Z",
+          "uri": "at://did:plc:f6hvl66ry2ofkydic7465ei6/app.bsky.feed.post/3msmjephpvs2w",
+          "sentiment": 0
+        },
+        {
+          "id": "e815e0b9c305c10883cb3ce5816349dbe397ce24a2fd0d9af0cad2c7be7c7193",
+          "authorHandle": "davetheduck67.bsky.social",
+          "postText": "tbf they werent platner like yeh not the best but average senate dem at a minimum\nhonestly letting maine dems chose again i think is a no after this like theyall seriouslly went for troy jackson... which was platners pick like um why??? obviously hes the one guy you dont want",
+          "createdAt": "2026-08-09T00:12:09.293Z",
+          "uri": "at://did:plc:vodktmxmxyzdfnwn4k2sydim/app.bsky.feed.post/3msmcfexrb22d",
+          "sentiment": -0.8
+        },
+        {
+          "id": "59e18a2a1a0fd9b536dde3fa12b8cbc089d2bc75506f59c3f4c13c7f57ba6c2d",
+          "authorHandle": "joelpatt.bsky.social",
+          "postText": "Glad Troy Jackson is the nominee for Senate",
+          "createdAt": "2026-08-09T00:00:26.741Z",
+          "uri": "at://did:plc:lgcpk4tgmb4lpgoslpmmvzt7/app.bsky.feed.post/3msmbqgxld22t",
+          "sentiment": 0.7
+        },
         {
           "id": "f8d0fafccf0ab69c12f353eda02b2a246d29bd6e581b0c55b8652f86766b652a",
           "authorHandle": "vixki11.bsky.social",
@@ -1189,38 +1213,6 @@
           "createdAt": "2026-08-08T01:33:03.008Z",
           "uri": "at://did:plc:lyh7r42heepdlh5ujutmvcz2/app.bsky.feed.post/3msjwh4eoc22y",
           "sentiment": 0
-        },
-        {
-          "id": "8f319449fc837c5ade03e11d9b87853bd17857a3956694f17dc94456c7c04aca",
-          "authorHandle": "crw.nws-bot.us",
-          "postText": "Special Weather Statement issued August 7 at 8:24PM EDT by NWS Charleston WV\r\nAdditional Details Here.",
-          "createdAt": "2026-08-08T00:30:28+00:00",
-          "uri": "at://did:plc:ts4essuu7ue534di54sz62ne/app.bsky.feed.post/3msjsx7vrum2s",
-          "sentiment": 0.4019
-        },
-        {
-          "id": "e7f4ad6ae2617e7bf745576a588e66813c33700c480ca79ddf672bd72d632385",
-          "authorHandle": "weldonmoore.bsky.social",
-          "postText": "www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-08T00:27:04.584Z",
-          "uri": "at://did:plc:vcpqarbsul5zaws6gzu3qyw2/app.bsky.feed.post/3msjsr5d4us2s",
-          "sentiment": 0
-        },
-        {
-          "id": "1b6c14b9ce753f7eb2461de079e9d56f1f0d6be7d91b184681890392e0ebc9f9",
-          "authorHandle": "socrates17.bsky.social",
-          "postText": "",
-          "createdAt": "2026-08-08T00:03:51.386Z",
-          "uri": "at://did:plc:wfbqju4m5o7hxaknhadpl3ev/app.bsky.feed.post/3msjrhmo4wk2g",
-          "sentiment": null
-        },
-        {
-          "id": "6a32e11bcc790632bc344e56df98117bb6aa2718663c4c06e841e7276eb47dd8",
-          "authorHandle": "skippyoz.bsky.social",
-          "postText": "'Mainers Aren't Stupid': Troy Jackson Says Voters See Through Susan Collins' Charade www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-07T23:59:54.136Z",
-          "uri": "at://did:plc:ncgbf3r75fomh3lenvzyb42w/app.bsky.feed.post/3msjrakfvgk2o",
-          "sentiment": 0.7
         }
       ],
       "youtube": [
