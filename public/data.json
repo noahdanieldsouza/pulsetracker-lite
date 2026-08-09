@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T11:23:42.121Z",
+  "lastUpdated": "2026-08-09T11:54:00.470Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.07049505347593583,
+      "overallSentiment": 0.07049288645690835,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.24972045454545458,
+      "socialSentiment": 0.2497139534883721,
       "mentions": {
         "news": 34,
-        "social": 90,
+        "social": 88,
         "youtube": 7,
-        "total": 131
+        "total": 129
       },
       "news": [
         {
@@ -366,6 +366,14 @@
         }
       ],
       "social": [
+        {
+          "id": "f5f488aecf9bd45b17d0ce8912836e8546f9572c4857b7a69e9d7b83737de00a",
+          "authorHandle": "catmcfeline.bsky.social",
+          "postText": "We can. If we vote for it.\n\nVote #TroyJackson. Now is our time.\n\n#mepolitics\n\nyoutu.be/Tu7SmVMphIA?...",
+          "createdAt": "2026-08-09T11:34:18.293Z",
+          "uri": "at://did:plc:syp5sbeldusi3ugjcrqziee3/app.bsky.feed.post/3msnij5vpt22u",
+          "sentiment": 1
+        },
         {
           "id": "a070d05513b3db54838783761b94ae0d34e979a947501422ad0d6d40b51e4f5f",
           "authorHandle": "leverageonheroes.bsky.social",
@@ -1060,30 +1068,6 @@
           "postText": "RE: https://mastodon.social/@RonSupportsYou/117059845056053742\n\nTroy Jackson (the Democrat campaigning against Collins):\n\"Susan Collins has voted with Trump 96% of the time. The other 4%? She waits until her vote won’t change the outcome. Mainers aren’t stupid. We deserve a fighter who will […]",
           "createdAt": "2026-08-08T12:22:56.000Z",
           "uri": "at://did:plc:gf24kgy6n56bjmkidjgiimnj/app.bsky.feed.post/3msl2rg3xlvw2",
-          "sentiment": 1
-        },
-        {
-          "id": "ebc429c680feda1d681446f4bdca350bc23cb3c99b783cac15d25105b6ebde01",
-          "authorHandle": "jillpiggott.bsky.social",
-          "postText": "ME may lean D, but it's not a \"likely\" win, as you have it. Collins has a multi-million funding advantage & media here is often protective of her. Polls are putting Jackson a few points ahead, but she's won from behind before. BIG thanks to anyone who can pitch in a few $. www.jacksonformaine.com",
-          "createdAt": "2026-08-08T11:48:23.747Z",
-          "uri": "at://did:plc:qoewv4sal6ftjn3gwcrzyn4g/app.bsky.feed.post/3mskytgq7hs2h",
-          "sentiment": 0.5
-        },
-        {
-          "id": "4ce25a20a5c7ab6f429176006b6e220a499754fe1e52c619c13bee934037f2e4",
-          "authorHandle": "bruxa.online",
-          "postText": "the NYT loves Susan Collins so much they want you to believe in 2026 that voting to end the filibuster of a bill is materially different than voting for the bill itself\n\nthey don't even use the word filibuster, obscuring the truth by repeatedly referring to it as a \"procedural vote\"",
-          "createdAt": "2026-08-08T11:41:12.748Z",
-          "uri": "at://did:plc:auimpg4xsvar2jdkray2o67g/app.bsky.feed.post/3mskyglpaws2t",
-          "sentiment": 0
-        },
-        {
-          "id": "2110d0c88ce3c01d4b3218b0832b0c7867f9717a772b51072ba9338782aa08a2",
-          "authorHandle": "lctbo.bsky.social",
-          "postText": "Troy Jackson is a really decent person he is being framed in attack ads here as the worst. I met him many times working for a pro cannabis med legalization group. Maine is really a small state we know our reps,once upon a time Collins was a decent person too. Now she whores for $$ and power.",
-          "createdAt": "2026-08-08T11:36:12.399Z",
-          "uri": "at://did:plc:cekwekvjfq4a5r6krtrtjluq/app.bsky.feed.post/3msky5nb7hk2e",
           "sentiment": 1
         }
       ],
