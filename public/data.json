@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T19:44:37.048Z",
+  "lastUpdated": "2026-08-09T20:11:58.722Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.2588532473544974,
+      "overallSentiment": -0.25523105769230775,
       "newsSentiment": 0.07660374999999997,
-      "socialSentiment": 0.1468365079365079,
+      "socialSentiment": 0.1577030769230769,
       "mentions": {
         "news": 80,
-        "social": 65,
+        "social": 67,
         "youtube": 5,
-        "total": 150
+        "total": 152
       },
       "news": [
         {
@@ -771,6 +771,22 @@
         }
       ],
       "social": [
+        {
+          "id": "9d8e39aa124cb895595ee159259d08eeb34c64aa7f3a4491fb140c490bdc32c6",
+          "authorHandle": "debbie156.bsky.social",
+          "postText": "#Maine \nYou deserve a senator who answers to you, not a billionaire trying to buy the government. Elon Musk is spending $120 million to keep Susan Collins in office-because he knows she'll protect his interests, not yours. Troy Jackson won't take that money. Support him.\n#Pinks #ProudBlue #OneV1",
+          "createdAt": "2026-08-09T20:09:23.797Z",
+          "uri": "at://did:plc:fsa4ortdhosoqvrjo4jwome5/app.bsky.feed.post/3msofc7ov2c2s",
+          "sentiment": 1
+        },
+        {
+          "id": "2710acee20638d207fce6d77770ffb45d975e7bb1b817591251d0e5204c5a653",
+          "authorHandle": "ushouseequality.bsky.social",
+          "postText": "I really like how it highlights accounts that aren't interested in unity. Stevens, right on board but others we'll see... ie \"still harping on about Platner instead of attacking Collins and supporting Troy Jackson\"",
+          "createdAt": "2026-08-09T19:59:12.527Z",
+          "uri": "at://did:plc:7p4jgxtpaa2aimdicg7tzvqx/app.bsky.feed.post/3msoepyqfos2z",
+          "sentiment": 0
+        },
         {
           "id": "e348a37e4925a73ac31531010cb366f78da155ab99c337a8a6f6c8aec055d3d4",
           "authorHandle": "nhliving.bsky.social",
