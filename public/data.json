@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T05:15:29.525Z",
+  "lastUpdated": "2026-08-09T06:00:22.080Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.0817878768711786,
+      "overallSentiment": 0.07955453964194374,
       "newsSentiment": -0.03823529411764706,
-      "socialSentiment": 0.28359892473118287,
+      "socialSentiment": 0.2768989130434783,
       "mentions": {
         "news": 34,
-        "social": 93,
+        "social": 92,
         "youtube": 7,
-        "total": 134
+        "total": 133
       },
       "news": [
         {
@@ -366,6 +366,14 @@
         }
       ],
       "social": [
+        {
+          "id": "8f65e42838b6d507cf85d1092dbacfbd9c1e0833db75ac6c12a87593616aa5b5",
+          "authorHandle": "tomrom1.bsky.social",
+          "postText": "apnews.com/article/main... Troy Jackson went from Maine logger to the Democratic nominee for Senate against Susan Collins\n💙 🏳️‍🌈 #SundayService #FBR #FBPE #Resistance #StrongerTogether #KindnessMatters #Motivation #Bluecrew",
+          "createdAt": "2026-08-09T05:17:35.352Z",
+          "uri": "at://did:plc:c4ib4ecvm67qgcqirubstmfj/app.bsky.feed.post/3msmthk2pas2b",
+          "sentiment": 0.7
+        },
         {
           "id": "5a02e7c67ec0902d3d5b1fde2f6570bab7c093365f39ff58a05a194cecbc7ea0",
           "authorHandle": "puppydelay.bsky.social",
@@ -1092,22 +1100,6 @@
           "postText": "‘Mainers Aren’t Stupid’: Troy Jackson Says Voters See Through Susan Collins’ Charade\n\n“Susan has voted with Trump 96% of the time. The other 4%? She waits until her vote won’t change the outcome.”\nwww.commondreams.org/news/troy-ja...",
           "createdAt": "2026-08-08T06:24:35.545Z",
           "uri": "at://did:plc:y52hu7mf3jodfkwjsp56s2bg/app.bsky.feed.post/3mskgqgkjxc2l",
-          "sentiment": 0.6
-        },
-        {
-          "id": "c0876026a9af6e29dfe4a9635b0a1c45d66aea2723fdf8c5fda032de28843b69",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN TO FUND OUR FIRST TV AD\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-08-08T05:29:11.615Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mskdnem7lk2m",
-          "sentiment": 1
-        },
-        {
-          "id": "40079565c4923fcdc21c734c481afbec2eaa1a2a5e9f1205e5d9d323a3163b1f",
-          "authorHandle": "facefactsnotlies.bsky.social",
-          "postText": "Troy Jackson (D): 49% \nSusan Collins (R): 45% \n\nI'm asking you to chip in just $1 to defeat Susan. >> troy.demsgive.io/x62NP-ry\n\nTroy Jackson",
-          "createdAt": "2026-08-08T05:28:10.436Z",
-          "uri": "at://did:plc:37vhyvbe4v3mnq5x57n4h3wm/app.bsky.feed.post/3mskdlkbagc2n",
           "sentiment": 0.6
         }
       ],
