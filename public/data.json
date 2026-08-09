@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T17:44:18.815Z",
+  "lastUpdated": "2026-08-09T18:15:51.691Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.25081149509803924,
+      "overallSentiment": -0.24688992647058824,
       "newsSentiment": 0.07660374999999997,
-      "socialSentiment": 0.17096176470588234,
+      "socialSentiment": 0.1827264705882353,
       "mentions": {
         "news": 80,
         "social": 70,
@@ -772,6 +772,22 @@
       ],
       "social": [
         {
+          "id": "6a43acdfc57de10c682478f529de515cbeffb5e694de9c87b9bd9393d6c43e98",
+          "authorHandle": "jillpiggott.bsky.social",
+          "postText": "Newest poll in the ME Senate race shows Jackson up 49 to 45 with a MOE of 3.5%. He's been up in all 3 polls since he became the nominee. Collins was tied w/ her opponent in the same poll at the same time last cycle. It's a tight, but winnable race. www.newsweek.com/troy-jackson...",
+          "createdAt": "2026-08-09T18:00:31.095Z",
+          "uri": "at://did:plc:qoewv4sal6ftjn3gwcrzyn4g/app.bsky.feed.post/3mso63r7o5s2i",
+          "sentiment": 0.5
+        },
+        {
+          "id": "8c172e3be366dfc90428ec08a07256d52e3cc35551d331c3d009dcc3d35cdf8a",
+          "authorHandle": "veronicanyce.bsky.social",
+          "postText": "There are more than a few Senate seats Dems have a chance of flipping:\nPolls show\nALASKA- Mary Peltola tied with Stevens\nIOWA- Josh Turek tied with Hinson\nMAINE- Troy Jackson leading\nN. CAROLINA- Roy Cooper leading\nOHIO- Sherrod Brown slight lead\nS. CAROLINA- Annie Andrews (awaiting opponent)\n1/2",
+          "createdAt": "2026-08-09T17:55:03.634Z",
+          "uri": "at://did:plc:txyg4ghsbtp2ihaxznd43vxr/app.bsky.feed.post/3mso5rywkuc2x",
+          "sentiment": 0.3
+        },
+        {
           "id": "098be22ceb955c21495529338569bdd36baf19a0410495decd0a4ac8a4410990",
           "authorHandle": "startledsquirrel.bsky.social",
           "postText": "Tired of being grateful when the Senate doesn’t vote to take another step towards killing us all. PS spent the day canvassing for Troy Jackson because Susan Collins cannot be allowed to hold Power because she keeps using it for evil.",
@@ -1313,22 +1329,6 @@
           "postText": "apnews.com/article/main...",
           "createdAt": "2026-08-08T18:34:55.196Z",
           "uri": "at://did:plc:qypyl4ygr6vmf5qcyrgj6e5w/app.bsky.feed.post/3mslpkea5v22v",
-          "sentiment": 0
-        },
-        {
-          "id": "be1ab51a8bd5e639cf7046b86db91754b71522eebe5bcb0e82751b8a6d50bf62",
-          "authorHandle": "jackiejkfl.bsky.social",
-          "postText": "apnews.com/article/main... Troy Jackson went from Maine logger to the Democratic nominee for Senate against Susan Collins",
-          "createdAt": "2026-08-08T18:02:30.188Z",
-          "uri": "at://did:plc:e7ds7yse5txkiw4owase7xvc/app.bsky.feed.post/3mslnqfd7z22x",
-          "sentiment": 0
-        },
-        {
-          "id": "af19b10ee4d5ab2b436c1d00f1d887ac52f16f821283953cdae4d984aa0da093",
-          "authorHandle": "mistergarrett.bsky.social",
-          "postText": "www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-08T17:44:55.315Z",
-          "uri": "at://did:plc:naxdrv3pwmxbkmr2pergwida/app.bsky.feed.post/3mslmqxczmk2a",
           "sentiment": 0
         }
       ],
