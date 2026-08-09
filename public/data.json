@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T15:26:46.731Z",
+  "lastUpdated": "2026-08-09T15:56:59.150Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.22209751543209877,
+      "overallSentiment": -0.22852625000000001,
       "newsSentiment": 0.07660374999999997,
-      "socialSentiment": 0.25710370370370367,
+      "socialSentiment": 0.23781750000000001,
       "mentions": {
         "news": 80,
-        "social": 83,
+        "social": 82,
         "youtube": 5,
-        "total": 168
+        "total": 167
       },
       "news": [
         {
@@ -781,6 +781,22 @@
       ],
       "social": [
         {
+          "id": "40e5eef56139d3e2447d8b14f672475642423c0b101026c45e117c7fc37ad04c",
+          "authorHandle": "bluelion70.bsky.social",
+          "postText": "I’ve started getting them from Troy Jackson :/",
+          "createdAt": "2026-08-09T15:41:20.454Z",
+          "uri": "at://did:plc:vsh5d4ifukj2woh24nz7focm/app.bsky.feed.post/3msnwcvg6gc24",
+          "sentiment": -1
+        },
+        {
+          "id": "06cd9d020417b1758632b1a0a6fbd7f75ab883307102e399aaaf726759694f1c",
+          "authorHandle": "smhebe.bsky.social",
+          "postText": "I'm attending Maine Coordinated Campaign's event, “Statewide Volunteer Kickoff Call on Tuesday!” - sign up now to join me!  www.mobilize.us/mainecoordin...",
+          "createdAt": "2026-08-09T15:28:25.883Z",
+          "uri": "at://did:plc:s44izrmi56kodyqwseufgdpx/app.bsky.feed.post/3msnvlsq7f22e",
+          "sentiment": 0
+        },
+        {
           "id": "fc6c2957013846fc3eb96c1a13cb0f4469e9c911b270d9469dc59ae8cf68dfd3",
           "authorHandle": "neilyoungsaveus.bsky.social",
           "postText": "LOL. Well no one else knew who Haley Stevens was. Never heard of her. Also, once again to you talking heads, TROY JACKSON IS ALSO RUNNING ON #M4A! Pie in the sky for desperate, disillusioned, decimated gop. Dems will pick up 7 seats minimum. @meetthepress.com",
@@ -1419,30 +1435,6 @@
           "createdAt": "2026-08-08T16:07:56.324Z",
           "uri": "at://did:plc:xvssv72hs7jkr7zn5m5sz4so/app.bsky.feed.post/3mslhdjvk722h",
           "sentiment": 0
-        },
-        {
-          "id": "5a456d9b0c36b8af6f6d40080727f2fc320d392291cb22c008c9c6cc4359abe0",
-          "authorHandle": "butchsullins.bsky.social",
-          "postText": " Jonathan Larsen TFN: Martha Previte and Jim Earl have struck again, fictionally ambushing Sen. Susan Collins (R-ME) with a gotcha question about her Democratic rival, former state Sen. Pres. Troy Jackson.",
-          "createdAt": "2026-08-08T15:54:02.381Z",
-          "uri": "at://did:plc:2rlom2mvhjemynggycrotwpy/app.bsky.feed.post/3mslgkolmqc2q",
-          "sentiment": -0.2
-        },
-        {
-          "id": "1ef200c45b65ec63db8376a2c38c9f06f25a945192f36709824520165946d01e",
-          "authorHandle": "galenstone.bsky.social",
-          "postText": "Fuck YES",
-          "createdAt": "2026-08-08T15:33:23.212Z",
-          "uri": "at://did:plc:7euwurnrt4cnlapptx7xiiyn/app.bsky.feed.post/3mslffqt6r22n",
-          "sentiment": 0
-        },
-        {
-          "id": "b9dd050d90d086e2f7db22ff558f5054b7f1eca008f373ff1ce870041e219640",
-          "authorHandle": "galenstone.bsky.social",
-          "postText": "Exactly. The bitch only opposes when her vote does not matter. Same with Murkowski's shitty ass.\nVote both of the hags OUT in 26, and 28.\n@troyjackson207.bsky.social",
-          "createdAt": "2026-08-08T15:30:54.333Z",
-          "uri": "at://did:plc:7euwurnrt4cnlapptx7xiiyn/app.bsky.feed.post/3mslfbcts3k2n",
-          "sentiment": 1
         }
       ],
       "youtube": [
@@ -1502,26 +1494,17 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.6666666666666666,
+      "overallSentiment": -0.3333333333333333,
       "newsSentiment": null,
-      "socialSentiment": -1,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 3,
-        "total": 4
+        "total": 3
       },
       "news": [],
-      "social": [
-        {
-          "id": "6811dbbf64d59634a7c560aa0f9aec0f722693311bf778c5ac2c82db92d1a1b5",
-          "authorHandle": "tombowenjourno.bsky.social",
-          "postText": "90+4' CROSSBAR! A ball in sees Jordan Cullinane-Liburd's header crash against the bar!\n\nBoreham Wood 3-2 Tamworth",
-          "createdAt": "2026-08-08T15:53:50.854Z",
-          "uri": "at://did:plc:h4h4dts6mjquvwxbv33yivfg/app.bsky.feed.post/3mslgkdltvk2a",
-          "sentiment": -1
-        }
-      ],
+      "social": [],
       "youtube": [
         {
           "id": "934b22a7b34b65e727691321b45be53cee3f02c504541fe6bdf2351fb032bd72",
