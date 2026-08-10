@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T22:31:50.401Z",
+  "lastUpdated": "2026-08-10T23:11:52.982Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.27057724014336915,
+      "overallSentiment": 0.2701236111111111,
       "newsSentiment": 0.2787888888888889,
-      "socialSentiment": 0.26236559139784943,
+      "socialSentiment": 0.2614583333333333,
       "mentions": {
         "news": 9,
-        "social": 93,
+        "social": 96,
         "youtube": 0,
-        "total": 102
+        "total": 105
       },
       "news": [
         {
@@ -132,6 +132,30 @@
         }
       ],
       "social": [
+        {
+          "id": "b341b8b58f51af6fdf5f271ebb37653f1aeee7d54deb2137b8d6cd1ffcf3cbd1",
+          "authorHandle": "thefinaldispatch.bsky.social",
+          "postText": "🏛️ In a competitive Maine Senate race, women voters could be the deciders\n\nhttps://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters\n— NPR Politics",
+          "createdAt": "2026-08-10T23:00:15.167Z",
+          "uri": "at://did:plc:7m5pap5siaikvtrqbcgfcfru/app.bsky.feed.post/3msr7cnonip22",
+          "sentiment": 0
+        },
+        {
+          "id": "d7f1bc1b20e3c44a5bf5231dd428ed64f402634f79371ecfd299f15cc12a6795",
+          "authorHandle": "tmgibs.bsky.social",
+          "postText": "Collins faces voters for the first time since Roe v. Wade was overturned, with Democrats targeting her 2018 vote to confirm Justice Brett Kavanaugh\n\nIt’s hard for Collins to run on her record on the economy since she votes Trump over 90% of the time.",
+          "createdAt": "2026-08-10T22:51:24.555Z",
+          "uri": "at://did:plc:sfvq3qvjxslnword3upehbdb/app.bsky.feed.post/3msr6stllsk2b",
+          "sentiment": 0
+        },
+        {
+          "id": "13f80bccd5f97d7c3c5d23a3eadff42960deb54796ea4560d449c4a07f84e57f",
+          "authorHandle": "btfglonzo.bsky.social",
+          "postText": "I’m just saying that the OP you quoted, \n\n”Susan Collins helped Trump slash Medicaid to the tune of $990 billion.”\n—Troy Jackson\n\nThis is true. Here's why Qiu gets it wrong:”\n\nis correct, and it’s misleading to say “Here’s why Qiu gets it wrong“ is misleading.\n\nMaybe I misunderstood something.",
+          "createdAt": "2026-08-10T22:43:42.482Z",
+          "uri": "at://did:plc:jgabz74czwt5fkwitxchzzse/app.bsky.feed.post/3msr6f2wcls2j",
+          "sentiment": 0.7
+        },
         {
           "id": "c5c56ef6e9210cf0de65e29d898d16238c5b8b75baa5d570bd5f740912f21926",
           "authorHandle": "gilmored85.bsky.social",
