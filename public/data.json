@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T19:32:43.584Z",
+  "lastUpdated": "2026-08-10T20:19:01.599Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2825762626262627,
+      "overallSentiment": 0.27689444444444444,
       "newsSentiment": 0.2787888888888889,
-      "socialSentiment": 0.2863636363636364,
+      "socialSentiment": 0.27499999999999997,
       "mentions": {
         "news": 9,
         "social": 88,
@@ -132,6 +132,22 @@
         }
       ],
       "social": [
+        {
+          "id": "71fc37eb66d4a0fe09eca95088ba22f725c5f8628bc776c5465c876e78a89ff9",
+          "authorHandle": "signalpac.bsky.social",
+          "postText": "A $1,862,012 PAC filing just surfaced in FEC data — the spend happened 6 days ago. PINE TREE RESULTS PAC went oppose JACKSON, TROY DALE in the ME Senate (2026). \nsubstack.com/@signalpac/n...",
+          "createdAt": "2026-08-10T20:02:39.275Z",
+          "uri": "at://did:plc:iawmwlepkffkzjj53zjzm3rm/app.bsky.feed.post/3msqvf3elzs2v",
+          "sentiment": -1
+        },
+        {
+          "id": "22e21845fd6c9f1e9aadb675a1665c405710a87f812a402194754b61237ef8f7",
+          "authorHandle": "mainstream-media.bsky.social",
+          "postText": "Dark money PAC deploys $1.5 million ad campaign to support Troy Jackson\n\nhttps://www.washingtonexaminer.com/n...",
+          "createdAt": "2026-08-10T19:40:21.011479+00:00",
+          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3msqu574okh2w",
+          "sentiment": 1
+        },
         {
           "id": "e3687b5d37d63664c5c7ce6d0397cf155965dc770c327c7b2a9a4b388698d922",
           "authorHandle": "michaeljjohnson.bsky.social",
@@ -819,22 +835,6 @@
           "createdAt": "2026-08-09T20:21:08.615Z",
           "uri": "at://did:plc:vyduffthzs62k26adogav76l/app.bsky.feed.post/3msofx7u7us2x",
           "sentiment": -1
-        },
-        {
-          "id": "9d8e39aa124cb895595ee159259d08eeb34c64aa7f3a4491fb140c490bdc32c6",
-          "authorHandle": "debbie156.bsky.social",
-          "postText": "#Maine \nYou deserve a senator who answers to you, not a billionaire trying to buy the government. Elon Musk is spending $120 million to keep Susan Collins in office-because he knows she'll protect his interests, not yours. Troy Jackson won't take that money. Support him.\n#Pinks #ProudBlue #OneV1",
-          "createdAt": "2026-08-09T20:09:23.797Z",
-          "uri": "at://did:plc:fsa4ortdhosoqvrjo4jwome5/app.bsky.feed.post/3msofc7ov2c2s",
-          "sentiment": 1
-        },
-        {
-          "id": "2710acee20638d207fce6d77770ffb45d975e7bb1b817591251d0e5204c5a653",
-          "authorHandle": "ushouseequality.bsky.social",
-          "postText": "I really like how it highlights accounts that aren't interested in unity. Stevens, right on board but others we'll see... ie \"still harping on about Platner instead of attacking Collins and supporting Troy Jackson\"",
-          "createdAt": "2026-08-09T19:59:12.527Z",
-          "uri": "at://did:plc:7p4jgxtpaa2aimdicg7tzvqx/app.bsky.feed.post/3msoepyqfos2z",
-          "sentiment": 0
         }
       ],
       "youtube": [],
