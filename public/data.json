@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T05:55:53.848Z",
+  "lastUpdated": "2026-08-10T07:25:35.674Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.2229731547619048,
+      "overallSentiment": -0.22212214181286552,
       "newsSentiment": 0.07660374999999997,
-      "socialSentiment": 0.25447678571428567,
+      "socialSentiment": 0.2570298245614035,
       "mentions": {
         "news": 80,
-        "social": 58,
+        "social": 59,
         "youtube": 5,
-        "total": 143
+        "total": 144
       },
       "news": [
         {
@@ -771,6 +771,14 @@
         }
       ],
       "social": [
+        {
+          "id": "3fb2a59116e5295b0274969ecd43ee1dd33b9ec2fe722919ad3e5a4c4c5f9b90",
+          "authorHandle": "bluestatedon.bsky.social",
+          "postText": "Maybe Troy Jackson is smart enough to seize the opportunity and go on the attack.",
+          "createdAt": "2026-08-10T06:05:02.242Z",
+          "uri": "at://did:plc:djjkquvilpie6rkvhsmu2z7o/app.bsky.feed.post/3mspglcjoak2v",
+          "sentiment": 0.4
+        },
         {
           "id": "9c3790c875e7f818f9fbf4427c652d7dee75a0ab90673358d03290e750792d02",
           "authorHandle": "papaesoco.bsky.social",
