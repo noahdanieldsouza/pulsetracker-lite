@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T11:28:03.748Z",
+  "lastUpdated": "2026-08-10T12:08:57.056Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.20971131830601095,
+      "overallSentiment": -0.21505681451612904,
       "newsSentiment": 0.07660374999999997,
-      "socialSentiment": 0.2942622950819672,
+      "socialSentiment": 0.2782258064516129,
       "mentions": {
         "news": 80,
-        "social": 61,
+        "social": 62,
         "youtube": 5,
-        "total": 146
+        "total": 147
       },
       "news": [
         {
@@ -772,6 +772,22 @@
       ],
       "social": [
         {
+          "id": "469f2b0fb58e93cc906aadcfb490529803633901e8ea7682684892bb7a21441e",
+          "authorHandle": "lboogiethe305.bsky.social",
+          "postText": "www.npr.org/2026/08/10/n...",
+          "createdAt": "2026-08-10T11:36:54.644Z",
+          "uri": "at://did:plc:vtcxnsimcz2bginrew557quo/app.bsky.feed.post/3mspz4qhwds2i",
+          "sentiment": 0
+        },
+        {
+          "id": "0d9360956cd09ca62c127a325b0e68148e6551410b3375d946c291ad557f40fb",
+          "authorHandle": "willrobinson1776.bsky.social",
+          "postText": "We’ve seen how “wobbly” primary polling has been around the country - but after all the drama, general-election polling in Maine shows Troy Jackson maintains a narrow lead over Susan Collins. The Democrats’ path to taking back the Senate runs through Maine.\n\nwgme.com/news/local/t...",
+          "createdAt": "2026-08-10T11:29:35.072Z",
+          "uri": "at://did:plc:a4z3jyqhwliamo4vrmvody2e/app.bsky.feed.post/3mspypnbbs227",
+          "sentiment": 0.3
+        },
+        {
           "id": "9250b200cce6ebaa48b37007f11700ef6b473b223335a16dabdc3da29095f2d0",
           "authorHandle": "deanakclark.bsky.social",
           "postText": "Troy Jackson, owned by big oil!\n\nfreebeacon.substack.com/p/troy-jacks...",
@@ -1250,14 +1266,6 @@
           "createdAt": "2026-08-09T12:22:19+00:00",
           "uri": "at://did:plc:d33nllryum5jlnpygzieh5bv/app.bsky.feed.post/3msnl72va6o2i",
           "sentiment": -1
-        },
-        {
-          "id": "f5f488aecf9bd45b17d0ce8912836e8546f9572c4857b7a69e9d7b83737de00a",
-          "authorHandle": "catmcfeline.bsky.social",
-          "postText": "We can. If we vote for it.\n\nVote #TroyJackson. Now is our time.\n\n#mepolitics\n\nyoutu.be/Tu7SmVMphIA?...",
-          "createdAt": "2026-08-09T11:34:18.293Z",
-          "uri": "at://did:plc:syp5sbeldusi3ugjcrqziee3/app.bsky.feed.post/3msnij5vpt22u",
-          "sentiment": 1
         }
       ],
       "youtube": [
