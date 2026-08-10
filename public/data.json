@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T14:44:47.019Z",
+  "lastUpdated": "2026-08-10T15:41:45.881Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2763347429519072,
+      "overallSentiment": 0.27200314009661836,
       "newsSentiment": 0.2787888888888889,
-      "socialSentiment": 0.2738805970149254,
+      "socialSentiment": 0.2652173913043478,
       "mentions": {
         "news": 9,
-        "social": 67,
+        "social": 69,
         "youtube": 0,
-        "total": 76
+        "total": 78
       },
       "news": [
         {
@@ -132,6 +132,54 @@
         }
       ],
       "social": [
+        {
+          "id": "8b91ea74c176519c76120a1607b2ddc93e1a2de21a8880fef0281ded0d6ce3db",
+          "authorHandle": "damnewsen.bsky.social",
+          "postText": "In a competitive Maine Senate race, women voters could be the deciders #damnews #dam",
+          "createdAt": "2026-08-10T15:37:11Z",
+          "uri": "at://did:plc:kdt2tozqawqcbp26x4ebw6fs/app.bsky.feed.post/3msqgkg3vdz2c",
+          "sentiment": 0
+        },
+        {
+          "id": "72e99910113d29b422cd2380e1cf1841effdd33cdcefe92ea3c89c286981d481",
+          "authorHandle": "whyitallsucks.bsky.social",
+          "postText": "A new poll shows Democrat Troy Jackson leading Sen. Susan Collins 49%-46% in Maine's Senate race, with women voters seen as decisive. Jackson launched a seven-figure ad attacking Collins' 2018 Kavanaugh vote as Democrats target Maine to help flip the Senate.",
+          "createdAt": "2026-08-10T15:12:00.212692+00:00",
+          "uri": "at://did:plc:6boobqaws7aamwlc5xvcqhqb/app.bsky.feed.post/3msqf5ed2v42j",
+          "sentiment": 0.7
+        },
+        {
+          "id": "bfecc65c044c05b6c1223c42488fcfd000b900ce8c0a6e80fb8b1dc5d6d41680",
+          "authorHandle": "drugcounselor.bsky.social",
+          "postText": "www.npr.org/2026/08/10/n...\nJackson entered politics as an abortion rights opponent, but shifted left over time and voted to expand access in recent years, post-Roe.\n\n\"I'm rock solid on this now, and Susan has been the opposite,\" Jackson said in an interview with Maine Public Radio last month.",
+          "createdAt": "2026-08-10T15:09:02.783Z",
+          "uri": "at://did:plc:evumehcgruvva4ts5rk3woov/app.bsky.feed.post/3msqey2xvlk2n",
+          "sentiment": 0.6
+        },
+        {
+          "id": "730cda5d30a75810bb90b27e699fb129ac3d64952d7d92e771ad7705340381e7",
+          "authorHandle": "barnraiser.bsky.social",
+          "postText": "At their Democratic convention, Maine delegates reckon with a recent ICE murder and the state’s reliance on immigrant labor. Will Troy Jackson, their nominee for Senate to replace Graham Platner, follow suit? barnraisingmedia.com/2026-electio...",
+          "createdAt": "2026-08-10T15:00:11.802Z",
+          "uri": "at://did:plc:gammkewduiwnmehllodgepyu/app.bsky.feed.post/3msqeibjuuk2n",
+          "sentiment": 0
+        },
+        {
+          "id": "cf0c963ca24e674cd3770fd67f69938d97fd1068d8f2bafdad227d7dbf417206",
+          "authorHandle": "pablodiabolo.bsky.social",
+          "postText": "Er unterstützt Troy Jackson in Maine, hat 2018 Gillum und Sayed (!) in ihren Gouverneurs-Vorwahlkämpfen unterstützt. Ausrede.",
+          "createdAt": "2026-08-10T14:53:03.655Z",
+          "uri": "at://did:plc:dgjiuw2xwx4a5fd55xgxilne/app.bsky.feed.post/3msqe3ibn5k27",
+          "sentiment": -0.8
+        },
+        {
+          "id": "066335a4791ac0cfbc2c62917e37efbe7f4c054e425c54cc04996f848471f93c",
+          "authorHandle": "willgarcia820.bsky.social",
+          "postText": "www.commondreams.org/news/maine-h...",
+          "createdAt": "2026-08-10T14:52:58.378Z",
+          "uri": "at://did:plc:3dautbfhwajzixhaa2wij7px/app.bsky.feed.post/3msqe3daltc2q",
+          "sentiment": 0
+        },
         {
           "id": "1747909f67824835ece4c9b412a82433b43500d03f9f28ca3eeba012ec63dd7d",
           "authorHandle": "nbcboston.com",
@@ -635,38 +683,6 @@
           "createdAt": "2026-08-09T16:03:39.563Z",
           "uri": "at://did:plc:ckoq6xe4caadxsy2hnli7enw/app.bsky.feed.post/3msnxksikzs2b",
           "sentiment": 0.8
-        },
-        {
-          "id": "40e5eef56139d3e2447d8b14f672475642423c0b101026c45e117c7fc37ad04c",
-          "authorHandle": "bluelion70.bsky.social",
-          "postText": "I’ve started getting them from Troy Jackson :/",
-          "createdAt": "2026-08-09T15:41:20.454Z",
-          "uri": "at://did:plc:vsh5d4ifukj2woh24nz7focm/app.bsky.feed.post/3msnwcvg6gc24",
-          "sentiment": -1
-        },
-        {
-          "id": "06cd9d020417b1758632b1a0a6fbd7f75ab883307102e399aaaf726759694f1c",
-          "authorHandle": "smhebe.bsky.social",
-          "postText": "I'm attending Maine Coordinated Campaign's event, “Statewide Volunteer Kickoff Call on Tuesday!” - sign up now to join me!  www.mobilize.us/mainecoordin...",
-          "createdAt": "2026-08-09T15:28:25.883Z",
-          "uri": "at://did:plc:s44izrmi56kodyqwseufgdpx/app.bsky.feed.post/3msnvlsq7f22e",
-          "sentiment": 0
-        },
-        {
-          "id": "fc6c2957013846fc3eb96c1a13cb0f4469e9c911b270d9469dc59ae8cf68dfd3",
-          "authorHandle": "neilyoungsaveus.bsky.social",
-          "postText": "LOL. Well no one else knew who Haley Stevens was. Never heard of her. Also, once again to you talking heads, TROY JACKSON IS ALSO RUNNING ON #M4A! Pie in the sky for desperate, disillusioned, decimated gop. Dems will pick up 7 seats minimum. @meetthepress.com",
-          "createdAt": "2026-08-09T15:01:13.408Z",
-          "uri": "at://did:plc:og46clqofrjfac3ccq43te35/app.bsky.feed.post/3msnu35uxks27",
-          "sentiment": 0.7
-        },
-        {
-          "id": "b0239562b272023a1bbedb0e8961cc439f620ab83683857b62abf1cb0214ee4c",
-          "authorHandle": "scrimmins.bsky.social",
-          "postText": "TROY JACKSON is also a thoughtful quality politician who has served Maine well, including expanding Medicaid , protecting reproductive rights, and all the other things you mentioned while he was in Maine ‘s Legislature.",
-          "createdAt": "2026-08-09T14:47:13.705Z",
-          "uri": "at://did:plc:qzz33oljgvgvkw7cgdwmdxd4/app.bsky.feed.post/3msntc53c3c2j",
-          "sentiment": 0.85
         }
       ],
       "youtube": [],
