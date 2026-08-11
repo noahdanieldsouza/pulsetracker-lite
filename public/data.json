@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T19:41:17.745Z",
+  "lastUpdated": "2026-08-11T20:26:22.937Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.12533333333333332,
+      "overallSentiment": 0.1390909090909091,
       "newsSentiment": 0.059999999999999984,
-      "socialSentiment": 0.19066666666666665,
+      "socialSentiment": 0.2181818181818182,
       "mentions": {
         "news": 10,
-        "social": 75,
+        "social": 77,
         "youtube": 0,
-        "total": 85
+        "total": 87
       },
       "news": [
         {
@@ -141,6 +141,30 @@
         }
       ],
       "social": [
+        {
+          "id": "0b99bc8f949e281f63807bcdf262b4a6ef1df4c1f10a53a92f9092e584e69353",
+          "authorHandle": "jordanwood.bsky.social",
+          "postText": "Nate Silver’s forecast gives Troy Jackson a 69% chance of beating Susan Collins.\n\nA logger from Allagash. Against a senator who has been in Washington since 1997. Maine is ready. Retire her.",
+          "createdAt": "2026-08-11T20:15:37.073Z",
+          "uri": "at://did:plc:zrryxs7fcutu5p2ng3ltomwy/app.bsky.feed.post/3mstgl6lxd224",
+          "sentiment": 0.7
+        },
+        {
+          "id": "93d7de5d7585b327114d3e24cadebf0aa39978824ffa5b00ebf692b39171e925",
+          "authorHandle": "swonder.bsky.social",
+          "postText": "open.substack.com/pub/simonwdc...",
+          "createdAt": "2026-08-11T20:15:18.266Z",
+          "uri": "at://did:plc:gah53sed4iuwuxcyt2dzcbi4/app.bsky.feed.post/3mstgkmnw6k2h",
+          "sentiment": 0
+        },
+        {
+          "id": "9a40c2ae9037a55420ff696692ca02fe357d01a797ecd1271eba0d065adb0b07",
+          "authorHandle": "jordanwood.bsky.social",
+          "postText": "🚨BREAKING: Nate Silver’s new forecast just predicted Troy Jackson is on the verge of destroying Susan Collins. \n\n🟦 Troy Jackson: 69%\n🟥 Susan Collins: 31%",
+          "createdAt": "2026-08-11T19:59:40.778Z",
+          "uri": "at://did:plc:zrryxs7fcutu5p2ng3ltomwy/app.bsky.feed.post/3mstfoom3js24",
+          "sentiment": 0.8
+        },
         {
           "id": "64c784cce7218c674b92e80e04b46304696a718348ebd7f9e1447dfa9c844f89",
           "authorHandle": "gjw6.bsky.social",
@@ -732,14 +756,6 @@
           "createdAt": "2026-08-10T20:26:22.398Z",
           "uri": "at://did:plc:3tfasguqviifmu33522nizda/app.bsky.feed.post/3msqwpiktmc2c",
           "sentiment": 0
-        },
-        {
-          "id": "71fc37eb66d4a0fe09eca95088ba22f725c5f8628bc776c5465c876e78a89ff9",
-          "authorHandle": "signalpac.bsky.social",
-          "postText": "A $1,862,012 PAC filing just surfaced in FEC data — the spend happened 6 days ago. PINE TREE RESULTS PAC went oppose JACKSON, TROY DALE in the ME Senate (2026). \nsubstack.com/@signalpac/n...",
-          "createdAt": "2026-08-10T20:02:39.275Z",
-          "uri": "at://did:plc:iawmwlepkffkzjj53zjzm3rm/app.bsky.feed.post/3msqvf3elzs2v",
-          "sentiment": -1
         }
       ],
       "youtube": [],
