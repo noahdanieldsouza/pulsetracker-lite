@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T23:52:16.300Z",
+  "lastUpdated": "2026-08-11T01:16:54.973Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2661271177117712,
+      "overallSentiment": 0.2673356209150327,
       "newsSentiment": 0.2787888888888889,
-      "socialSentiment": 0.25346534653465347,
+      "socialSentiment": 0.25588235294117645,
       "mentions": {
         "news": 9,
-        "social": 101,
+        "social": 102,
         "youtube": 0,
-        "total": 110
+        "total": 111
       },
       "news": [
         {
@@ -132,6 +132,30 @@
         }
       ],
       "social": [
+        {
+          "id": "8d58d4a445137d28d4cda0b198c2a387fc7acf8555f0858dd86079fe0714b93c",
+          "authorHandle": "some-people-usa.bsky.social",
+          "postText": "“It’s past time that we fix our broken, profit-centered healthcare system that leaves many of us struggling to get care, and most of us struggling to pay for it when we do,” said the US Senate candidate.",
+          "createdAt": "2026-08-11T01:09:57.268Z",
+          "uri": "at://did:plc:myb6e7tolmf4wayqshi53zio/app.bsky.feed.post/3msrgkl7il22u",
+          "sentiment": 0.7
+        },
+        {
+          "id": "6228b08d9a4b99bd532b319bc8d9271c59c26d7e4b6ea517f40ec78d35c41e9c",
+          "authorHandle": "mainewomenforward.bsky.social",
+          "postText": "www.npr.org/2026/08/10/n...",
+          "createdAt": "2026-08-11T00:09:46.414Z",
+          "uri": "at://did:plc:2ff543gpjcs565cqlxpd3hlc/app.bsky.feed.post/3msrd6xmwyc2d",
+          "sentiment": 0
+        },
+        {
+          "id": "64d654a4bc28eea106b3d7ef80b01c1f3d67194578a17483b59c50c0945e8421",
+          "authorHandle": "slvrbld47.bsky.social",
+          "postText": "'We Must Pass Medicare for All,' Says Troy Jackson as 12th Maine Maternity Unit Closes in 11 Years www.commondreams.org/news/maine-h...",
+          "createdAt": "2026-08-11T00:03:47.617Z",
+          "uri": "at://did:plc:5hwoigzdnuc3of5vl67sr33e/app.bsky.feed.post/3msrcubhebc2f",
+          "sentiment": 0.8
+        },
         {
           "id": "004802c38b1a9186c8b8d62267628ea7db7432403d54053610375c47edd510d3",
           "authorHandle": "sushynes.bsky.social",
@@ -923,22 +947,6 @@
           "createdAt": "2026-08-10T02:46:33.719Z",
           "uri": "at://did:plc:3s52uzpjh236okih4cogzcov/app.bsky.feed.post/3msp3ifoebl2r",
           "sentiment": 0
-        },
-        {
-          "id": "91624fbaeb4f1273ae1c194e20a04e891f0ccaf09c174a354032f4ba1ca1f9d7",
-          "authorHandle": "flingjore.com",
-          "postText": "Staring down state troopers at the Quebec border, a young Troy Jackson uses his truck to blockade Canadian logging operations. Decades later, the defiant fifth-generation lumberjack channels that labor activism into a high-stakes campaign to unseat five-term Republican Senator Susan Collins.",
-          "createdAt": "2026-08-10T01:12:57.992Z",
-          "uri": "at://did:plc:4ohgm56lvrcj6p7kjgxz5wey/app.bsky.feed.post/3msowb2dxi42o",
-          "sentiment": 1
-        },
-        {
-          "id": "e9be42d1dd08b8a149378cfdcf3355c8dfd846d9142c7762c2947e027655acd8",
-          "authorHandle": "mountaingirl254.bsky.social",
-          "postText": "Certain Troy Jackson supporters did the same and it was insane to me. I mean she won Maine in a landslide first off",
-          "createdAt": "2026-08-10T00:40:45.103Z",
-          "uri": "at://did:plc:pqs7zfzfku3c5qyu3k4lel4c/app.bsky.feed.post/3msouhgquxk23",
-          "sentiment": 0
         }
       ],
       "youtube": [],
@@ -947,17 +955,26 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.1,
+      "overallSentiment": -0.55,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": -1,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 1,
-        "total": 1
+        "total": 2
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "5e63720a0b7e566bacb6017f88044bbcfaa2f756fdf8ce2e52632365b7223da1",
+          "authorHandle": "pierredelecto.bsky.social",
+          "postText": "I don't think I would've been scared of this fella. He reminds me of my best friend at the time, a boy called Jordan who had two holes in his cheek from his brother using a wood stapler on him while he was asleep. He couldn't eat soup.",
+          "createdAt": "2026-08-11T00:30:58.563Z",
+          "uri": "at://did:plc:5k2n45l2fuzylgket4hz4v5w/app.bsky.feed.post/3msreeuttyk2u",
+          "sentiment": -1
+        }
+      ],
       "youtube": [
         {
           "id": "379e44e390bdd355e9571471f22e42550ae58920f2690eed83983b297462d9f6",
