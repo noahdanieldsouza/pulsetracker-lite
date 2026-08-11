@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T08:48:17.741Z",
+  "lastUpdated": "2026-08-11T09:44:56.400Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2602277777777778,
+      "overallSentiment": 0.26368015873015876,
       "newsSentiment": 0.2787888888888889,
-      "socialSentiment": 0.24166666666666667,
+      "socialSentiment": 0.24857142857142858,
       "mentions": {
         "news": 9,
-        "social": 108,
+        "social": 105,
         "youtube": 0,
-        "total": 117
+        "total": 114
       },
       "news": [
         {
@@ -132,6 +132,14 @@
         }
       ],
       "social": [
+        {
+          "id": "d4dffab915fd1c7d621007b5aee46c5f466d6149759d8f207f40550efd7eb71e",
+          "authorHandle": "sooriclover.bsky.social",
+          "postText": "Troy Jackson needs people to give him money.",
+          "createdAt": "2026-08-11T09:19:45.744Z",
+          "uri": "at://did:plc:wtx3czhxtae54ijxfw5irvkh/app.bsky.feed.post/3mssbwgal6s2z",
+          "sentiment": -0.3
+        },
         {
           "id": "c66497d498a3336d38b32c9420f95d2067ae062ed965f4ed54149345b303aea8",
           "authorHandle": "barnraiser.bsky.social",
@@ -962,38 +970,6 @@
           "postText": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women. n.pr/4wKodxq",
           "createdAt": "2026-08-10T09:49:00.667222Z",
           "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3mspt3shgfe2s",
-          "sentiment": 0
-        },
-        {
-          "id": "762e00ebdcff0d24c48ad818581c78d9a44fc14dec2bb41a1e932ba9e6d61a2f",
-          "authorHandle": "gene47.bsky.social",
-          "postText": "Recently in Maine and while watching the Red Sox game on TV, at every break was a commercial telling us how great Susan Collins is and how bad Troy Jackson is. \nOne allegation was that he is a \"bully?\nBoth were filled with half truths, which appeal to the Fox News \"low information\" Voters.",
-          "createdAt": "2026-08-10T09:42:25.609Z",
-          "uri": "at://did:plc:xkzdhl6ejihlv4nzjvjgjeqh/app.bsky.feed.post/3mspspznme225",
-          "sentiment": -0.3
-        },
-        {
-          "id": "7c01fc00ee8db0a1c9c7ac807f1d8fa84c9c75e90bdd470641dcb4e7eee45fe0",
-          "authorHandle": "fightingliberal.bsky.social",
-          "postText": "In a competitive Maine Senate race, women voters could be the deciders The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women. ...",
-          "createdAt": "2026-08-10T09:29:41Z",
-          "uri": "at://did:plc:vaged6uocai4jrd2s5pd2ebo/app.bsky.feed.post/3msprzdqfax2k",
-          "sentiment": 0
-        },
-        {
-          "id": "8d9690c988450118895d6a9fb906959b681049ef580d11948ab9d284120850ee",
-          "authorHandle": "whitehousewatchdog.bsky.social",
-          "postText": "The Senate race between Susan Collins and Troy Jackson underscores the pivotal role Maine women voters will play in determining the outcome.",
-          "createdAt": "2026-08-10T09:16:07.128Z",
-          "uri": "at://did:plc:chkh3qo3cdvmsycdvtoirih6/app.bsky.feed.post/3msprayg3qb2f",
-          "sentiment": 0
-        },
-        {
-          "id": "649e40f3c5b76eda4e59411bfb3d2c1dd542678dae9d5037f3f38614dcea5b56",
-          "authorHandle": "samfisher90.bsky.social",
-          "postText": "In a competitive Maine Senate race, women voters could be the deciders",
-          "createdAt": "2026-08-10T09:12:00Z",
-          "uri": "at://did:plc:ddo2sqibuwq4kqufq37ktwxj/app.bsky.feed.post/3mspqznphqb2n",
           "sentiment": 0
         }
       ],
