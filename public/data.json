@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T13:37:35.976Z",
+  "lastUpdated": "2026-08-11T13:52:46.717Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -988,14 +988,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.05,
+      "overallSentiment": 0,
       "newsSentiment": 0,
       "socialSentiment": null,
       "mentions": {
         "news": 1,
         "social": 0,
-        "youtube": 1,
-        "total": 2
+        "youtube": 0,
+        "total": 1
       },
       "news": [
         {
@@ -1009,19 +1009,8 @@
         }
       ],
       "social": [],
-      "youtube": [
-        {
-          "id": "379e44e390bdd355e9571471f22e42550ae58920f2690eed83983b297462d9f6",
-          "authorName": "@Meli-b6e5v",
-          "commentText": "Jordan ❤❤<br>Of all the songs this is my least favorite.",
-          "publishedAt": "2026-08-09T14:17:14Z",
-          "videoId": "d-KYK3_C3Ms",
-          "videoTitle": "Jordan Knight - Danny Wood - Cover Girl - Vegas Residency 2026",
-          "commentId": "Ugy0tN04nYTC_d939pV4AaABAg",
-          "sentiment": -0.1
-        }
-      ],
-      "youtubeSentiment": -0.1
+      "youtube": [],
+      "youtubeSentiment": null
     }
   ]
 }
