@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T11:25:41.325Z",
+  "lastUpdated": "2026-08-11T12:07:36.907Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.25262973856209153,
+      "overallSentiment": 0.2461905609492988,
       "newsSentiment": 0.2787888888888889,
-      "socialSentiment": 0.22647058823529412,
+      "socialSentiment": 0.21359223300970873,
       "mentions": {
         "news": 9,
-        "social": 102,
+        "social": 103,
         "youtube": 0,
-        "total": 111
+        "total": 112
       },
       "news": [
         {
@@ -132,6 +132,30 @@
         }
       ],
       "social": [
+        {
+          "id": "80007201c3c0664d100d52ee94d81266cf183de5c4f093d2d17c1dfe2315d68b",
+          "authorHandle": "indivmidmaine.bsky.social",
+          "postText": "www.mobilize.us/mainecoordin...\n\nThis evening!",
+          "createdAt": "2026-08-11T11:58:06.408Z",
+          "uri": "at://did:plc:rokdgpbsyht6ariljokb6hhh/app.bsky.feed.post/3msskrkrtes2k",
+          "sentiment": -0.2
+        },
+        {
+          "id": "737d2789897edc5e28b613d1d9eb37fe4ffeb40230c54bc4e1e629cc2268de95",
+          "authorHandle": "noisyfearless.bsky.social",
+          "postText": "www.mobilize.us/mainecoordin...\n\nThis evening!",
+          "createdAt": "2026-08-11T11:57:40.744Z",
+          "uri": "at://did:plc:kvln4ybh6wgfdsvcglyfvn5p/app.bsky.feed.post/3msskqscnu22k",
+          "sentiment": -0.2
+        },
+        {
+          "id": "34fe2c6750b04f09ff884c97a1a7e841157dae4634c3e481880ae1706ac25983",
+          "authorHandle": "bangordailynews.bsky.social",
+          "postText": "He has dropped much of the anti-oligarchy rhetoric that defined Graham Platner’s campaign. www.bangordailynews.com/2026/08/11/p...",
+          "createdAt": "2026-08-11T11:31:58.208Z",
+          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mssjctnikq2v",
+          "sentiment": -0.4
+        },
         {
           "id": "357b942a689f9c5211e84404f3ae52fc4e7debaebc8e1f3a8a783958f831054c",
           "authorHandle": "jolocktov.bsky.social",
@@ -931,22 +955,6 @@
           "createdAt": "2026-08-10T12:33:28.731Z",
           "uri": "at://did:plc:tkg654uabqjjhl3eisuj4cli/app.bsky.feed.post/3msq4bvdedk2g",
           "sentiment": 0
-        },
-        {
-          "id": "469f2b0fb58e93cc906aadcfb490529803633901e8ea7682684892bb7a21441e",
-          "authorHandle": "lboogiethe305.bsky.social",
-          "postText": "www.npr.org/2026/08/10/n...",
-          "createdAt": "2026-08-10T11:36:54.644Z",
-          "uri": "at://did:plc:vtcxnsimcz2bginrew557quo/app.bsky.feed.post/3mspz4qhwds2i",
-          "sentiment": 0
-        },
-        {
-          "id": "0d9360956cd09ca62c127a325b0e68148e6551410b3375d946c291ad557f40fb",
-          "authorHandle": "willrobinson1776.bsky.social",
-          "postText": "We’ve seen how “wobbly” primary polling has been around the country - but after all the drama, general-election polling in Maine shows Troy Jackson maintains a narrow lead over Susan Collins. The Democrats’ path to taking back the Senate runs through Maine.\n\nwgme.com/news/local/t...",
-          "createdAt": "2026-08-10T11:29:35.072Z",
-          "uri": "at://did:plc:a4z3jyqhwliamo4vrmvody2e/app.bsky.feed.post/3mspypnbbs227",
-          "sentiment": 0.3
         }
       ],
       "youtube": [],
