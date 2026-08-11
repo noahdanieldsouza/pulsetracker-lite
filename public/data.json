@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T12:07:36.907Z",
+  "lastUpdated": "2026-08-11T12:55:50.199Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,96 +39,105 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2461905609492988,
-      "newsSentiment": 0.2787888888888889,
+      "overallSentiment": 0.13679611650485435,
+      "newsSentiment": 0.059999999999999984,
       "socialSentiment": 0.21359223300970873,
       "mentions": {
-        "news": 9,
+        "news": 10,
         "social": 103,
         "youtube": 0,
-        "total": 112
+        "total": 113
       },
       "news": [
         {
-          "id": "ce2ee5d57d5f9714d49846c60af566dde11281df32fcfc141e12d43522f7cde7",
-          "title": "Maine Democratic Senate Candidate Troy Jackson Shares 2 Children With His Second Cousin",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/upolitics-311253526/4819853490303-maine-democratic-senate-candidate-troy-jackson-shares-2-children-with-his-second-cousin",
-          "publishedAt": "2026-08-10T00:00:00.000Z",
-          "sentiment": 0.296
+          "id": "7df959c8e4dd383ae6cda095fad35c933ce944203ea8cd9e900f3e9ed9915d29",
+          "title": "Dark money PAC deploys $1.5 million ad campaign to support Troy Jackson",
+          "description": "A pop-up super PAC with financial ties to a dark money behemoth has spent more than $1 million supporting Maine Senate candidate Troy Jackson.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4681450/dark-money-pac-deploys-ad-campaign-support-troy-jackson/",
+          "publishedAt": "2026-08-10T19:43:43.000Z",
+          "sentiment": 0.7
         },
         {
-          "id": "9e87316b4a7b0fcc14f1e9307ebfde248590d60c317c7014c97fd2aec6923aca",
-          "title": "RNC chair says Talarico’s GOP crossover hopes are a ‘pipe dream’: ‘Nobody is going to follow him’",
-          "description": "NEWYou can now listen to Fox News articles! Texas Democratic Senate nominee James Talarico needs to flip some Republican voters this November to win in the largest red state in the U.S., but his opponents are calling out claims of Republicans backing him as inauthentic, if not fraudulent. “Any chance that Talarico has building any [...] The post RNC chair says Talarico’s GOP crossover hopes are a ‘pipe dream’: ‘Nobody is going to follow him’ appeared first on News Pub . The post RNC chair says Talarico’s GOP crossover hopes are a ‘pipe dream’: ‘Nobody is going to follow him’ appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/politics/rnc-chair-says-talaricos-gop-crossover-hopes-are-a-pipe-dream-nobody-is-going-to-follow-him/",
-          "publishedAt": "2026-08-09T21:07:06.000Z",
-          "sentiment": 0.9256
-        },
-        {
-          "id": "e6309728ae84e5be6b79a0ed020f26b0f75e313c8b50b494909e3876f051ce2d",
-          "title": "For L.A. college students, the GOP’s $20-burrito debate is about more than lunch",
-          "description": "A slew of online discourse unfolded last week after Turning Point USA spokesman Andrew Kolvet shared that a college-aged member of the conservative nonprofit told him, “A burrito shouldn’t cost $20.” “Yeah, a lot of this is a hangover from COVID and Biden-era inflation, but the lived experience is the same: It just feels like [...] The post For L.A. college students, the GOP’s $20-burrito debate is about more than lunch appeared first on News Pub . The post For L.A. college students, the GOP’s $20-burrito debate is about more than lunch appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/politics/for-l-a-college-students-the-gops-20-burrito-debate-is-about-more-than-lunch/",
-          "publishedAt": "2026-08-09T20:25:06.000Z",
-          "sentiment": 0.6059
-        },
-        {
-          "id": "6bdb38f6e253db2e79bcbb0f47c729623a895e6596682fb7fde6902fda9a858a",
-          "title": "DAVID MARCUS: Don't blame conservatives. It was the left that canceled Hasan Piker",
-          "description": "Hasan Piker's University of Washington speaking event was canceled, yet Democratic allies like Abdul El-Sayed remain oddly silent on the censorship.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/david-marcus-don-t-blame-conservatives-it-was-the-left-86442546",
-          "publishedAt": "2026-08-09T17:37:07.000Z",
-          "sentiment": 0.5478
-        },
-        {
-          "id": "7211762d6bd46493397ae849dbacaa25f816f5ea1db7906d13d9eb0562bb96a0",
-          "title": "Trump's immigration crackdown looms over Minnesota's bruising Senate primary",
-          "description": "Months later, confrontations between immigration agents and protestors in Minneapolis remain the backdrop to Minnesota's Democratic primary for U.S. Senate on Tuesday, which features establishment-backed U.S. Rep. Angie Craig and the more progressive Lt. Gov. Peggy Flanagan.",
-          "sourceName": "Pbs",
-          "url": "https://www.pbs.org/newshour/politics/trumps-immigration-crackdown-looms-over-minnesotas-bruising-senate-primary",
-          "publishedAt": "2026-08-09T17:18:47.000Z",
-          "sentiment": -0.4767
-        },
-        {
-          "id": "57a44ad60c9fdcb7c8dfbd38bae0d97f9efec1c410cbfbb600f132881a174d00",
-          "title": "DAVID MARCUS: Don't blame conservatives. It was the left that canceled Hasan Piker",
-          "description": "Hasan Piker's University of Washington speaking event was canceled, yet Democratic allies like Abdul El-Sayed remain oddly silent on the censorship.",
-          "sourceName": "Fox News",
-          "url": "https://www.foxnews.com/opinion/david-marcus-dont-blame-conservatives-left-canceled-hasan-piker",
-          "publishedAt": "2026-08-09T15:54:07.000Z",
-          "sentiment": 0.5478
-        },
-        {
-          "id": "7e70902ed2daba046d5bdc2f8a2400c8fa35bc682a6bf9f81c1a9d2fe016f2b9",
-          "title": "DAVID MARCUS: Don’t blame conservatives. It was the left that canceled Hasan Piker",
-          "description": "The American left just got a taste of its own politically correct cancellation medicine as... The post DAVID MARCUS: Don’t blame conservatives. It was the left that canceled Hasan Piker appeared first on Democratic Accent .",
-          "sourceName": "Democratic Accent",
-          "url": "https://www.democraticaccent.com/david-marcus-dont-blame-conservatives-it-was-the-left-that-canceled-hasan-piker/",
-          "publishedAt": "2026-08-09T15:54:07.000Z",
-          "sentiment": -0.5859
-        },
-        {
-          "id": "faa2f4bb5ae44ec32e183816758edf6e3f14e48092fe8b210b23b416690e7268",
-          "title": "Democrats back Maine nominee Troy Jackson after report claims he ‘fathered children with cousin’; watch",
-          "description": "Democratic senators continue to back Maine Senate nominee Troy Jackson after a report alleged he fathered two children with his second cousin. The post Democrats back Maine nominee Troy Jackson after report claims he ‘fathered children with cousin’; watch appeared first on News24 .",
-          "sourceName": "News 24",
-          "url": "https://news24online.com/world/democrats-back-maine-nominee-troy-jackson-after-report-claims-he-fathered-children-with-cousin-watch/901782/",
-          "publishedAt": "2026-08-09T14:09:22.000Z",
+          "id": "28812072db92ec4f706ab946e62ddcff478d12e2ae02c1065f27538c52f97289",
+          "title": "Who will control the US Senate in 2026? Nine races to watch",
+          "description": "Nine US Senate races are emerging as critical contests for party control. Democrats see an opening as President Trump's approval ratings weaken significantly. North Carolina, Maine, Michigan, and Ohio offer the clearest paths to a Democratic majority. Alaska, Iowa, and Texas could become essential if the party loses ground elsewhere. These contests will shape the chamber's composition for the upcoming legislative session.",
+          "sourceName": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/who-will-control-the-us-senate-in-2026-nine-races-to-watch/articleshow/133124723.cms",
+          "publishedAt": "2026-08-10T17:32:01.000Z",
           "sentiment": 0
         },
         {
-          "id": "9beb679809a56d1555d62c21a1fd5ec0a2a604d29b698f9d844335c6358badcd",
-          "title": "Rescuing a candlepin bowling alley helps bolster a Maine community",
-          "description": "Before streaming, smartphones, and social media, bowling leagues used to bring people together. And in New England, it was candlepin bowling. Alleys stretched from Massachusetts all the way into Canada’s Maritime Provinces. But it never really caught on anywhere else. But in Ellsworth, Maine, Autumn Mowery is fighting to keep the candlepin flame flickering. [...] The post Rescuing a candlepin bowling alley helps bolster a Maine community appeared first on News Pub . The post Rescuing a candlepin bowling alley helps bolster a Maine community appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/rescuing-a-candlepin-bowling-alley-helps-bolster-a-maine-community/",
-          "publishedAt": "2026-08-09T13:55:06.000Z",
-          "sentiment": 0.6486
+          "id": "64f3a2de6ac39ba58881d01882db5dc436193ee7db3ebc96d7e6e31b0d1e4d8d",
+          "title": "Maine Democrats let me down | Letter",
+          "description": "The actions of the state and national party pushed me out.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/08/10/maine-democrats-let-me-down-letter/",
+          "publishedAt": "2026-08-10T16:00:00.000Z",
+          "sentiment": -0.5
+        },
+        {
+          "id": "6625620176c79cc50a1a2f44e1521c496e8e888d5c967542a4fe64947ad88452",
+          "title": "Maine Democrats let me down | Letter",
+          "description": "The actions of the state and national party pushed me out.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/08/10/maine-democrats-let-me-down-letter/",
+          "publishedAt": "2026-08-10T16:00:00.000Z",
+          "sentiment": -0.5
+        },
+        {
+          "id": "4d83b80b2c08f171d4072b9cb3b667cb52d541e9179dcfaf2afb0a64f123071d",
+          "title": "In Maine, the new politics meets the old",
+          "description": "Replacing the old politics is the new politics whose maxim is: “All Politics Is National.”",
+          "sourceName": "The Hill",
+          "url": "https://thehill.com/opinion/campaign/6017837-maine-senate-collins-jackson/",
+          "publishedAt": "2026-08-10T15:30:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "53b1672d1cb9699826620340de5e9c622cb3d1e77ea11592ccdbcf130b9eaec8",
+          "title": "‘It’s a Shame That He’s Not Still Around’: James Carville Says Platner May Have Been ‘Most Talented’ Dem Since Obama",
+          "description": "Platner withdrew from the Maine Senate race as political and financial support for his candidacy collapsed following a series of allegations, which he denied. The post ‘It’s a Shame That He’s Not Still Around’: James Carville Says Platner May Have Been ‘Most Talented’ Dem Since Obama first appeared on Mediaite .",
+          "sourceName": "Mediaite",
+          "url": "https://www.mediaite.com/media/tv/its-a-shame-that-hes-not-still-around-james-carville-says-platner-may-have-been-most-talented-dem-since-obama/",
+          "publishedAt": "2026-08-10T14:43:38.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "ae9e7f2188c5b41af8d9cb110ca9081f5f3c36e4186dc96c31e04e8dc4158928",
+          "title": "David M. Drucker: You can’t beat Susan Collins on working-class vibes alone",
+          "description": "Let’s give credit where it’s due to Democrats hoping to unseat Republican Senator Susan Collins in Maine: Troy Jackson is certainly an improvement over Graham Platner",
+          "sourceName": "Standardspeaker",
+          "url": "https://www.standardspeaker.com/2026/08/10/david-m-drucker-you-cant-beat-susan-collins-on-working-class-vibes-alone/",
+          "publishedAt": "2026-08-10T13:44:01.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "118081809acd24d356a52d81b7cbd114cb6c7b7916bebf608532e26668a67fb1",
+          "title": "David M. Drucker: You can’t beat Susan Collins on working-class vibes alone",
+          "description": "Let’s give credit where it’s due to Democrats hoping to unseat Republican Senator Susan Collins in Maine: Troy Jackson is certainly an improvement over Graham Platner",
+          "sourceName": "Scranton Times-tribune",
+          "url": "https://www.thetimes-tribune.com/2026/08/10/david-m-drucker-you-cant-beat-susan-collins-on-working-class-vibes-alone/",
+          "publishedAt": "2026-08-10T13:44:01.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "136018dfbc189e001c9c1f30d1193218f0d7e4d824a0c6305215bd6f645b27f2",
+          "title": "Full Broadcast - August 10 at 9:23 AM ET",
+          "description": "A weekday morning wrap-up of both national and local news stories.",
+          "sourceName": "Wbur",
+          "url": "https://www.wbur.org/radio/programs/morningedition",
+          "publishedAt": "2026-08-10T13:23:10.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1d32a2c803e3242a4345bf226a70795f8445cdcc5e0b9c1206bb3930af702d1f",
+          "title": "Another Prominent Socialist Refuses to Endorse Francesca Hong",
+          "description": "The other day, we told you how Bernie Sanders, the grandfather of American socialism, refused to endorse Francesca Hong, the...",
+          "sourceName": "Townhall",
+          "url": "https://townhall.com/news/amy-curtis/2026/08/10/aoc-declines-to-endorse-hong-n2680969",
+          "publishedAt": "2026-08-10T13:00:17.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
@@ -963,16 +972,26 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.1,
-      "newsSentiment": null,
+      "overallSentiment": -0.05,
+      "newsSentiment": 0,
       "socialSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 0,
         "youtube": 1,
-        "total": 1
+        "total": 2
       },
-      "news": [],
+      "news": [
+        {
+          "id": "ff9c75f180dc2eaa0fd772418002473e56933d7f30bf64d72edcbaec799e7455",
+          "title": "Georgia Tech Defensive Ends Coach Kyle Pope",
+          "description": "All that Georgia Tech defensive ends coach said to the media on Monday",
+          "sourceName": "Si",
+          "url": "https://www.si.com/college/georgiatech/football/everything-from-defensive-ends-coach-kyle-pope-after-monday-fall-camp-practice-01kzpwrqwnw9",
+          "publishedAt": "2026-08-10T23:15:00.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [],
       "youtube": [
         {
