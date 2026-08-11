@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T07:52:09.135Z",
+  "lastUpdated": "2026-08-11T08:48:17.741Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2629793501048218,
+      "overallSentiment": 0.2602277777777778,
       "newsSentiment": 0.2787888888888889,
-      "socialSentiment": 0.24716981132075472,
+      "socialSentiment": 0.24166666666666667,
       "mentions": {
         "news": 9,
-        "social": 106,
+        "social": 108,
         "youtube": 0,
-        "total": 115
+        "total": 117
       },
       "news": [
         {
@@ -132,6 +132,14 @@
         }
       ],
       "social": [
+        {
+          "id": "c66497d498a3336d38b32c9420f95d2067ae062ed965f4ed54149345b303aea8",
+          "authorHandle": "barnraiser.bsky.social",
+          "postText": "At their Democratic convention, delegates acknowledge the state’s reliance on low-paid immigrants\n\nbarnraisingmedia.com/2026-electio...",
+          "createdAt": "2026-08-11T08:09:00.754Z",
+          "uri": "at://did:plc:gammkewduiwnmehllodgepyu/app.bsky.feed.post/3mss5xwkdwd27",
+          "sentiment": -0.1
+        },
         {
           "id": "370c12e5dc0136bf50466d38c2dcfdc0906a8ff3254c3db477ef4d4e3327a2be",
           "authorHandle": "jasonbeets.newsie.social.ap.brid.gy",
@@ -403,6 +411,14 @@
           "createdAt": "2026-08-10T21:25:38.118Z",
           "uri": "at://did:plc:ck5bkad7wlvlr2ppx2rr2ase/app.bsky.feed.post/3msrbhvwre22u",
           "sentiment": 1
+        },
+        {
+          "id": "587492afa5a9ec82212d6ed0e19d02e34208ea2c4003d58c5c0bf89f13d63480",
+          "authorHandle": "hopiumchronicles.com.web.brid.gy",
+          "postText": "\n\n[Audio] [Original post on hopiumchronicles.com]",
+          "createdAt": "2026-08-10T21:25:38.000Z",
+          "uri": "at://did:plc:2ltdqox75ohyp3w7iw2xu2k3/app.bsky.feed.post/3mss7tu63bwx2",
+          "sentiment": 0
         },
         {
           "id": "9f9f1e6af1389494c46e59b6cec8c8c6f1a042c613b851cd58a715157970e509",
