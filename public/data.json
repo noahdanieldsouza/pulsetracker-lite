@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T09:44:56.400Z",
+  "lastUpdated": "2026-08-11T10:36:10.767Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.26368015873015876,
+      "overallSentiment": 0.25307368972746336,
       "newsSentiment": 0.2787888888888889,
-      "socialSentiment": 0.24857142857142858,
+      "socialSentiment": 0.22735849056603774,
       "mentions": {
         "news": 9,
-        "social": 105,
+        "social": 106,
         "youtube": 0,
-        "total": 114
+        "total": 115
       },
       "news": [
         {
@@ -132,6 +132,30 @@
         }
       ],
       "social": [
+        {
+          "id": "2d951ed1e1ee81445232e26beacfad2d57b065b142e67719885f8de79c10a82b",
+          "authorHandle": "torinoentertainer.bsky.social",
+          "postText": "Troy Jackson is married to his second cousin\nWho was the first cousin he was married to?",
+          "createdAt": "2026-08-11T10:23:36.343Z",
+          "uri": "at://did:plc:zzpecqo6e3t72ezdzmospwjr/app.bsky.feed.post/3mssfilf6jk2i",
+          "sentiment": -1
+        },
+        {
+          "id": "b8e45c60bbeb6a734266b4177293e5d29309400e9944387c088c80d077eec352",
+          "authorHandle": "anna26458.bsky.social",
+          "postText": "www.theguardian.com/us-news/2026...",
+          "createdAt": "2026-08-11T10:08:51.908Z",
+          "uri": "at://did:plc:ru55eyk6bq5uyrq7ggvckgs2/app.bsky.feed.post/3msseo7wfh22x",
+          "sentiment": 0
+        },
+        {
+          "id": "76718eb397c1702a6de8c8ef092f7e3db1602f13b26e7de0d9912c19e2957704",
+          "authorHandle": "pdhue.bsky.social",
+          "postText": "There are more, they are running under the banner of the Democratic Party, but are endorsed by Sanders, AOC, and some by DSA.\n\nTroy Jackson (MA)\nChris Rabb (PA)\nMelat Kiros (CO)\nCori Bush (MO) lost primary\nOliver Larkin (FL)\n\nDefunding the police is not the most concerning platform goal of the DSA.",
+          "createdAt": "2026-08-11T10:01:51.970Z",
+          "uri": "at://did:plc:4uvni34naonpmw2w2m34hbso/app.bsky.feed.post/3mssebpgurc24",
+          "sentiment": 0
+        },
         {
           "id": "d4dffab915fd1c7d621007b5aee46c5f466d6149759d8f207f40550efd7eb71e",
           "authorHandle": "sooriclover.bsky.social",
@@ -955,22 +979,6 @@
           "createdAt": "2026-08-10T10:36:45.849Z",
           "uri": "at://did:plc:6beixtejxa5rthmzv4quuwv7/app.bsky.feed.post/3mspvr6ucgk2h",
           "sentiment": 1
-        },
-        {
-          "id": "796b44199d0d560d023ebbf1d7072e3835869070916d388facb30f4d8e088046",
-          "authorHandle": "backyardpolitics.bsky.social",
-          "postText": "Susan Collins will vote for a Senate Majority leader who will fight against abortion, gut child care, defund SNAP, eliminate parental leave, and take health care away.\n\nTroy Jackson will do the opposite. \n\nIf ME women are voting women's interests, they're voting for Jackson.",
-          "createdAt": "2026-08-10T10:31:02.455Z",
-          "uri": "at://did:plc:6beixtejxa5rthmzv4quuwv7/app.bsky.feed.post/3mspvgxeork2h",
-          "sentiment": 1
-        },
-        {
-          "id": "9b406278c88a3dc227f6583390a0d491aca6ab57e659753ea2b4611ee4e9a541",
-          "authorHandle": "npr.org",
-          "postText": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women. n.pr/4wKodxq",
-          "createdAt": "2026-08-10T09:49:00.667222Z",
-          "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3mspt3shgfe2s",
-          "sentiment": 0
         }
       ],
       "youtube": [],
