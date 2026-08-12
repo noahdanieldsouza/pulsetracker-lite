@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T18:34:01.690Z",
+  "lastUpdated": "2026-08-12T19:44:06.661Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.07435897435897436,
+      "overallSentiment": 0.07402777777777779,
       "newsSentiment": 0.08333333333333333,
-      "socialSentiment": 0.13974358974358975,
+      "socialSentiment": 0.13875,
       "mentions": {
         "news": 12,
-        "social": 39,
+        "social": 40,
         "youtube": 1,
-        "total": 52
+        "total": 53
       },
       "news": [
         {
@@ -159,6 +159,38 @@
         }
       ],
       "social": [
+        {
+          "id": "a11fccc727183089d90a67259432e65f96d5ce89ce88d92b5e7d873a942de036",
+          "authorHandle": "resistancer.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-12T19:24:26.007Z",
+          "uri": "at://did:plc:zt7elt2uynmxqy7nediqi5c4/app.bsky.feed.post/3msvu6lb7gk2o",
+          "sentiment": 0
+        },
+        {
+          "id": "59798cc97bb3a7c1edddb72edf11e9da7444518252dcbf99779ce622e9eec35a",
+          "authorHandle": "marthastoryfoisy.bsky.social",
+          "postText": "Attend this Jackson for Maine's event, “Gorham Town Hall with Troy Jackson | Solidarity Forever Tour” - sign up now to join me!  www.mobilize.us/jacksonforma...",
+          "createdAt": "2026-08-12T19:17:01.439Z",
+          "uri": "at://did:plc:tinlrolgqokcgyhxrvbvwdh5/app.bsky.feed.post/3msvtrdby2s2x",
+          "sentiment": 1
+        },
+        {
+          "id": "1f1463040eb6acb159f6f65fadbef41f5760700834b963147479cdc1c8562c9b",
+          "authorHandle": "marthastoryfoisy.bsky.social",
+          "postText": "Jackson for Maine's event, “Lewiston Town Hall with Troy Jackson | Solidarity Forever Tour” - sign up now to join me!  www.mobilize.us/jacksonforma...",
+          "createdAt": "2026-08-12T19:14:19.893Z",
+          "uri": "at://did:plc:tinlrolgqokcgyhxrvbvwdh5/app.bsky.feed.post/3msvtmj7ycc2c",
+          "sentiment": 1
+        },
+        {
+          "id": "0de20a61d2f72e334b1ed1dcd836e000ff29fd58d6bda17fab89b08d05fd4f38",
+          "authorHandle": "joemygod.bsky.social",
+          "postText": "",
+          "createdAt": "2026-08-12T18:57:17.506Z",
+          "uri": "at://did:plc:p6aunumlgdhzsajylailxkvp/app.bsky.feed.post/3msvso276jc26",
+          "sentiment": 0
+        },
         {
           "id": "292ebfbff84c8f93df5bfa69de2e4d192d5cc0f1cf2a4927ae659f1b360ef097",
           "authorHandle": "memeorandum.com",
@@ -446,30 +478,6 @@
           "createdAt": "2026-08-11T19:59:40.778Z",
           "uri": "at://did:plc:zrryxs7fcutu5p2ng3ltomwy/app.bsky.feed.post/3mstfoom3js24",
           "sentiment": 0.8
-        },
-        {
-          "id": "64c784cce7218c674b92e80e04b46304696a718348ebd7f9e1447dfa9c844f89",
-          "authorHandle": "gjw6.bsky.social",
-          "postText": "I'm attending Maine Coordinated Campaign's event, “Statewide Volunteer Kickoff Call on Tuesday! w/ Troy Jackson” - sign up now to join me!  www.mobilize.us/mainecoordin...",
-          "createdAt": "2026-08-11T19:40:15.852Z",
-          "uri": "at://did:plc:xzzawykll3k3m4jfehqb4ejs/app.bsky.feed.post/3mstelxndj22b",
-          "sentiment": 0.7
-        },
-        {
-          "id": "d42dd710026ece9938e0c51e65f6a64192f39bd5440e8463866d923334b103fa",
-          "authorHandle": "gary9448.bsky.social",
-          "postText": "More Bad Trump Polling, $100k for Troy Jackson, And A New Conversation With Stuart Stevens\nopen.substack.com/pub/simonwdc...",
-          "createdAt": "2026-08-11T19:37:55.882Z",
-          "uri": "at://did:plc:5tz5g6nogkmxow37vgb7drt6/app.bsky.feed.post/3mstehs5szs2r",
-          "sentiment": 0.6
-        },
-        {
-          "id": "755d9c1b4b42d041bdd631c11f3cd41d43cbc80d243d81488bfa319c2e37637f",
-          "authorHandle": "nerdbro3000.bsky.social",
-          "postText": "One of several key races that could benefit from more donations - also Talarico, Ossoff, Troy Jackson… 👍",
-          "createdAt": "2026-08-11T18:47:09.380Z",
-          "uri": "at://did:plc:jhdpyhaszdh4ejdgclcpumya/app.bsky.feed.post/3mstbmyrwh22f",
-          "sentiment": 0.6
         }
       ],
       "youtube": [
