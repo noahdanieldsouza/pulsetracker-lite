@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T08:05:19.226Z",
+  "lastUpdated": "2026-08-12T09:21:03.075Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.060999999999999985,
+      "overallSentiment": 0.06499999999999997,
       "newsSentiment": 0.059999999999999984,
-      "socialSentiment": 0.061999999999999986,
+      "socialSentiment": 0.06999999999999998,
       "mentions": {
         "news": 10,
         "social": 50,
@@ -141,6 +141,22 @@
         }
       ],
       "social": [
+        {
+          "id": "b36e4f448bc40201badb17625f9d8a0fbfafe2c3470b34a2fce34054daa7042f",
+          "authorHandle": "nicolependexter.bsky.social",
+          "postText": "Troy Jackson is running for U.S. Senate to secure universal healthcare, drug coverage, and nursing home funding, while stopping ICE. He refuses to sell out to Elon Musk or trade vital public services for wealthy tax cuts. app.sosha.ai/s/vZqWXJIC",
+          "createdAt": "2026-08-12T09:04:28.842Z",
+          "uri": "at://did:plc:v2wswgiuzl64raubxmns3rso/app.bsky.feed.post/3msurjzbq2k23",
+          "sentiment": 1
+        },
+        {
+          "id": "cfc17776ccecc19211d2a71d003de8273394e877321c36bfee05ad2a41e174ee",
+          "authorHandle": "onlymerri.bsky.social",
+          "postText": "Conservative groups launch ad deluge in Maine - Semafor\n\napple.news/A1SJMlpDJTVy...",
+          "createdAt": "2026-08-12T08:38:21.792Z",
+          "uri": "at://did:plc:y54mscfrtkrutzquyoxgowhy/app.bsky.feed.post/3msuq3ct4ss2k",
+          "sentiment": -1
+        },
         {
           "id": "0af7188012d2006376ed80feda6b87dd9cfd397bb28302b911f48e3d837d72ce",
           "authorHandle": "officiallilsilver.bsky.social",
@@ -524,22 +540,6 @@
           "createdAt": "2026-08-11T10:01:51.970Z",
           "uri": "at://did:plc:4uvni34naonpmw2w2m34hbso/app.bsky.feed.post/3mssebpgurc24",
           "sentiment": 0
-        },
-        {
-          "id": "d4dffab915fd1c7d621007b5aee46c5f466d6149759d8f207f40550efd7eb71e",
-          "authorHandle": "sooriclover.bsky.social",
-          "postText": "Troy Jackson needs people to give him money.",
-          "createdAt": "2026-08-11T09:19:45.744Z",
-          "uri": "at://did:plc:wtx3czhxtae54ijxfw5irvkh/app.bsky.feed.post/3mssbwgal6s2z",
-          "sentiment": -0.3
-        },
-        {
-          "id": "c66497d498a3336d38b32c9420f95d2067ae062ed965f4ed54149345b303aea8",
-          "authorHandle": "barnraiser.bsky.social",
-          "postText": "At their Democratic convention, delegates acknowledge the state’s reliance on low-paid immigrants\n\nbarnraisingmedia.com/2026-electio...",
-          "createdAt": "2026-08-11T08:09:00.754Z",
-          "uri": "at://did:plc:gammkewduiwnmehllodgepyu/app.bsky.feed.post/3mss5xwkdwd27",
-          "sentiment": -0.1
         }
       ],
       "youtube": [],
