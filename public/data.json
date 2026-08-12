@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T16:39:55.323Z",
+  "lastUpdated": "2026-08-12T17:39:05.271Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.05716374269005847,
+      "overallSentiment": 0.05726495726495726,
       "newsSentiment": 0.08333333333333333,
-      "socialSentiment": 0.0881578947368421,
+      "socialSentiment": 0.08846153846153847,
       "mentions": {
         "news": 12,
-        "social": 38,
+        "social": 39,
         "youtube": 1,
-        "total": 51
+        "total": 52
       },
       "news": [
         {
@@ -159,6 +159,38 @@
         }
       ],
       "social": [
+        {
+          "id": "e51268ad7968ee994afbaf8747ac1000acffdc17281c112158a79dd47d30a3fb",
+          "authorHandle": "nypost.com",
+          "postText": "Maine Senate swap-in Troy Jackson once joked 'I would've ran as a communist'",
+          "createdAt": "2026-08-12T17:24:14.994004Z",
+          "uri": "at://did:plc:ck7aajho5ziqo6lrs64rm4oc/app.bsky.feed.post/3msvnholexw2s",
+          "sentiment": 0.6
+        },
+        {
+          "id": "51f617899b567c34e1a4c662a88ed5e352127a983dccf863a2d411d5914cc727",
+          "authorHandle": "antifamanchin.bsky.social",
+          "postText": "I’m not gonna complain about it because Troy Jackson is great but after the past two weeks I do wonder if Janet Mills would have won",
+          "createdAt": "2026-08-12T17:14:15.804Z",
+          "uri": "at://did:plc:dtn3tkhxj7zzftab7bu6elxf/app.bsky.feed.post/3msvmvsum5s27",
+          "sentiment": 0.8
+        },
+        {
+          "id": "6f482d39f34399309ab8984a1fc6fc041742401dace4dbbdeb4e60cc6611e7cd",
+          "authorHandle": "semafor.com",
+          "postText": "🟡 NEW: Conservative groups are launching an ad deluge in Maine, with the Senate Leadership Fund kicking off a $42 million fall campaign to help reelect Sen. Susan Collins. \n\nwww.semafor.com/article/08/1...",
+          "createdAt": "2026-08-12T17:03:07.530Z",
+          "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3msvmbwgbvp25",
+          "sentiment": 0
+        },
+        {
+          "id": "55100ae4319b8318b34a86fb0e48b6425a6d0883aeb0915d0eb5b5bbb531b69e",
+          "authorHandle": "joss17.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-12T16:59:16.243Z",
+          "uri": "at://did:plc:plbe64qk3vk7ihy3z2pivshc/app.bsky.feed.post/3msvm2yy6mk2x",
+          "sentiment": 0
+        },
         {
           "id": "781d83ee0306c57cc2fed0f033d499f068e5fca1d49e08d45367260e106a59bb",
           "authorHandle": "hamiltwan.bsky.social",
@@ -437,30 +469,6 @@
           "postText": "substack.com/@troyjackson...",
           "createdAt": "2026-08-11T17:42:40.817Z",
           "uri": "at://did:plc:yq5symmidwqg3g7nesqcar7h/app.bsky.feed.post/3mst5zpgqvc2v",
-          "sentiment": 0
-        },
-        {
-          "id": "d392260e3d987f8deae7035ad75806f277ef1036a2e8c17c099f3bf2505a3391",
-          "authorHandle": "nroy55.bsky.social",
-          "postText": "I'm attending Maine Coordinated Campaign's event, “Statewide Volunteer Kickoff Call on Tuesday! w/ Troy Jackson” - sign up now to join me!  www.mobilize.us/mainecoordin...",
-          "createdAt": "2026-08-11T17:18:43.753Z",
-          "uri": "at://did:plc:jwvyte7p2i6m76ph5nlhyopo/app.bsky.feed.post/3mst4oux4z22b",
-          "sentiment": 0.7
-        },
-        {
-          "id": "44a3391f4ad6d475b9e7f6610672e7863e5399c8cfcf1752afcb600282fb572b",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "More Bad Trump Polling, $100k for Troy Jackson, And A New Conversation With Stuart Stevens\nopen.substack.com/pub/simonwdc...",
-          "createdAt": "2026-08-11T17:06:53.231Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mst3zpdmws2k",
-          "sentiment": 0.6
-        },
-        {
-          "id": "be91def8cb6569bc66178b724c28cf29a5aa066abe06f697b7bc8be610998caa",
-          "authorHandle": "reiht-aug.bsky.social",
-          "postText": "open.substack.com/pub/simonwdc...",
-          "createdAt": "2026-08-11T17:04:32.063Z",
-          "uri": "at://did:plc:43fq4byfrx4ywgtzid3rjr5e/app.bsky.feed.post/3mst3vipilk24",
           "sentiment": 0
         }
       ],
