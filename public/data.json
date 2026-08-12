@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T22:05:12.941Z",
+  "lastUpdated": "2026-08-12T22:56:03.664Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.07919621749408984,
+      "overallSentiment": 0.0682559829059829,
       "newsSentiment": 0.08333333333333333,
-      "socialSentiment": 0.15425531914893617,
+      "socialSentiment": 0.12143461538461538,
       "mentions": {
         "news": 12,
-        "social": 47,
+        "social": 53,
         "youtube": 1,
-        "total": 60
+        "total": 66
       },
       "news": [
         {
@@ -169,12 +169,60 @@
       ],
       "social": [
         {
+          "id": "1fc664311a732ffa2ebae7f93113c22e109fba8131f9b5de136df12888634f69",
+          "authorHandle": "bradporcellato.bsky.social",
+          "postText": "Troy Jackson leads Susan Collins by two points in the latest poll, and Maine voters worry more about her Trump ties than Jackon's progressive links.\nhttps://www.foxnews.com/politics/fox-news-poll-new-matchup-same-result-maine-senate-race-stays-locked",
+          "createdAt": "2026-08-12T22:47:30.016924Z",
+          "uri": "at://did:plc:drwh37ctfbbgpduog3dnkphr/app.bsky.feed.post/3msw7jqifbf23",
+          "sentiment": -0.4404
+        },
+        {
+          "id": "831734af0981ef422a2483d0213ae29c01e4fcaeb8bbf7f571930e177369b457",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-12T22:41:12.699Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3msw76gyr5s2h",
+          "sentiment": 0
+        },
+        {
+          "id": "6db0c0b5f4297b9fe184838c834d9bc302b0a9558ddee363c0ed44b84f60399b",
+          "authorHandle": "ericmgarcia.bsky.social",
+          "postText": "🚨🚨🚨 NEW FOX NEWS POLL SHOWS A DEAD HEAT BETWEEN TROY JACKSON AND SUSAN COLLINS! \n\n-Jackson 48%\n-Susan Collins 46%\n\n#MESen \nwww.foxnews.com/politics/fox...",
+          "createdAt": "2026-08-12T22:15:37.911Z",
+          "uri": "at://did:plc:e7gbntp2tzobn7cfi37viei3/app.bsky.feed.post/3msw5qpcrq22g",
+          "sentiment": -0.745
+        },
+        {
+          "id": "f23e804c1ccc50da7ceb5ee21f9d7c7b4133dbb7dc0ae5cb3c7083ed4bafc45a",
+          "authorHandle": "andromeda8.bsky.social",
+          "postText": "Here is the new Fox News poll for the Maine Senate race.\n\nThis is an improvement from their June poll with Platner - but not much of a lead for Troy Jackson.\n\nFox News is an A rated pollster.",
+          "createdAt": "2026-08-12T22:13:56.100Z",
+          "uri": "at://did:plc:ekrgqjcvdx6pewrx6am6am67/app.bsky.feed.post/3msw5no7qwc27",
+          "sentiment": 0.25
+        },
+        {
+          "id": "ed0eabe0fababb9c9b0993a94e1aef25975f1aaf602d360522770a884d73f508",
+          "authorHandle": "american-news-day.bsky.social",
+          "postText": "Fox News Poll: New matchup, same result — Maine Senate race stays locked\n\nhttps://fascinating.news/r/vnM6FP8J",
+          "createdAt": "2026-08-12T22:12:05.695Z",
+          "uri": "at://did:plc:m5rp3imz6rydf5ev4qmkmlaw/app.bsky.feed.post/3msw5kf5ck32j",
+          "sentiment": 0
+        },
+        {
           "id": "333bde195172a8daa258765c2b5960ae326d90a06211294fb84b245740e2ea9a",
           "authorHandle": "bangordailynews.bsky.social",
           "postText": "The U.S. Senate candidate's partner of 40 years, Lana Pelletier, now denies telling police that Jackson pushed her after a fight.",
           "createdAt": "2026-08-12T22:04:17.949Z",
           "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3msw54heuix2m",
           "sentiment": -1
+        },
+        {
+          "id": "13b6f2deb001aa75280347c609fc1d3d0eaf66d3ec90fb3631f3cd0841db1ebc",
+          "authorHandle": "foxnews.com.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-08-12T22:00:02.000Z",
+          "uri": "at://did:plc:6pwit4ctv4egvys3qyqmgbi6/app.bsky.feed.post/3msw5mjtkluv2",
+          "sentiment": null
         },
         {
           "id": "4e320ed02a04fd0a0125e055ce917d61b902f56bd7e1e135070abe5b819be6f5",
