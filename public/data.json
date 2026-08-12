@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T13:00:36.985Z",
+  "lastUpdated": "2026-08-12T13:41:44.467Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.09166666666666667,
+      "overallSentiment": 0.11729166666666668,
       "newsSentiment": 0.08333333333333333,
-      "socialSentiment": 0.10000000000000003,
+      "socialSentiment": 0.15125000000000002,
       "mentions": {
         "news": 12,
-        "social": 46,
+        "social": 40,
         "youtube": 0,
-        "total": 58
+        "total": 52
       },
       "news": [
         {
@@ -159,6 +159,30 @@
         }
       ],
       "social": [
+        {
+          "id": "60d79d113103f000554535c35dd510a2f544e5b18e47bad98bfea4827957c29d",
+          "authorHandle": "jonfromca.bsky.social",
+          "postText": "Governor David Crowley meeting Governor Xavier Becerra and Senator Troy Jackson next year",
+          "createdAt": "2026-08-12T13:17:55.427Z",
+          "uri": "at://did:plc:dxm7vuwhlsp7gl2bxyra5kve/app.bsky.feed.post/3msv7p7fxnk2d",
+          "sentiment": 0
+        },
+        {
+          "id": "78ab23b0ec4beecb1ba6b417e4b536a68599cf8b2e4463589d67be933ca3680a",
+          "authorHandle": "sqgs.bsky.social",
+          "postText": "Susan Collins always a trumper…\n\nsubstack.com/@troyjackson...",
+          "createdAt": "2026-08-12T12:51:20.063Z",
+          "uri": "at://did:plc:kglqa67l2c56jkilnrtbxag7/app.bsky.feed.post/3msv67nxb222f",
+          "sentiment": 0
+        },
+        {
+          "id": "70111747fb5ea5756c4df17f98ab920b536157b7e8a77b9ddb761d8208e0acef",
+          "authorHandle": "eoinhiggins.bsky.social",
+          "postText": "This isn't extremely complicated, Bernie only endorsed Troy Jackson for governor all cycle, it wasn't likely he'd do a last minute one for Hong",
+          "createdAt": "2026-08-12T12:29:14.909Z",
+          "uri": "at://did:plc:au53gk265ykqxctmavcoljrn/app.bsky.feed.post/3msv4y66qec2a",
+          "sentiment": 0.25
+        },
         {
           "id": "cf930a27a7948a4c5c52a75bc2ac0ba7f78ae744e0981caea6f8b6c531232f1b",
           "authorHandle": "haselizs.bsky.social",
@@ -454,78 +478,6 @@
           "createdAt": "2026-08-11T14:40:54.317Z",
           "uri": "at://did:plc:wni6ivtdfiquawirzxzqqpdr/app.bsky.feed.post/3msstuo6ryc2k",
           "sentiment": 1
-        },
-        {
-          "id": "826c60274593051e1229538a53ec8041a277a4ee10f6a6b2025c599677c3d00a",
-          "authorHandle": "hopiumchronicles.com.web.brid.gy",
-          "postText": "\n\n[Audio] [Original post on hopiumchronicles.com]",
-          "createdAt": "2026-08-11T13:30:51.000Z",
-          "uri": "at://did:plc:2ltdqox75ohyp3w7iw2xu2k3/app.bsky.feed.post/3mstmyneghdv2",
-          "sentiment": 0
-        },
-        {
-          "id": "bc465fcf55cf3b02347bd8508b9ae3ee5d32efcd7e0ec16e584ae9ba7b182cf5",
-          "authorHandle": "swa-demo.bsky.social",
-          "postText": "Severe Thunderstorm Near De Graff Moving E At 50 MPH. 60 MPH Wind Gusts. Expect Damage to Trees & Power Lines. Locations Impacted Include Troy, Sidney, Piqua, Anna, Jackson Center, Pleasant Hill, Botkins, Fletcher, Port Jefferson, Casstown, Ludlow Falls, Montra, Haven... #ohwx Details",
-          "createdAt": "2026-08-11T13:08:57.149317+00:00",
-          "uri": "at://did:plc:emcaizmvtsp3c5kf76wrvv6a/app.bsky.feed.post/3mssoqanljh2u",
-          "sentiment": -0.1
-        },
-        {
-          "id": "f6f2d4ac906ed2ff93a676052a6d9974b11b622608e92be3b8cbb082266f8eba",
-          "authorHandle": "swa-demo.bsky.social",
-          "postText": "Severe Thunderstorm Near Sidney Moving E At 35 MPH. 60 MPH Wind Gusts. Expect Damage to Trees & Power Lines. Locations Impacted Include Troy, Sidney, Piqua, Covington, Anna, Jackson Center, Pleasant Hill, Botkins, New Knoxville, Hardin, Laura, Fletcher, Port Jefferson... #ohwx Details",
-          "createdAt": "2026-08-11T13:02:05.041153+00:00",
-          "uri": "at://did:plc:emcaizmvtsp3c5kf76wrvv6a/app.bsky.feed.post/3mssodxn3mh2a",
-          "sentiment": -0.1
-        },
-        {
-          "id": "cbab3aa3c82d5cad5b20c3bc7b6961b417fa7bdf515008c4a5557dc898af7d46",
-          "authorHandle": "day.nws-bot.us",
-          "postText": "🚨 Severe Thunderstorm Warning issued August 11 at 8:34AM EDT until August 11 at 9:15AM EDT by NWS Wilmington OH 🚨\r\nAdditional Details Here.",
-          "createdAt": "2026-08-11T12:45:15+00:00",
-          "uri": "at://did:plc:6hy5c6cmkh433z5pczhpn2bx/app.bsky.feed.post/3mssnfuw2sh2x",
-          "sentiment": -0.1
-        },
-        {
-          "id": "7e9c99b835edf609f93b4fe920137214138380e3dde5222d9e35cffca8176f2f",
-          "authorHandle": "trialrun2024.bsky.social",
-          "postText": "If you live in or near MAINE please donate some time to elect Troy Jackson.",
-          "createdAt": "2026-08-11T12:43:45.539Z",
-          "uri": "at://did:plc:dtrw4kjivanjau43hne3nbk7/app.bsky.feed.post/3mssnd6zixs2f",
-          "sentiment": 0.8
-        },
-        {
-          "id": "bae7e97b45f3729059f75de01446a04f5885e944626b880572b7e278f0db7847",
-          "authorHandle": "swa-demo.bsky.social",
-          "postText": "Severe Thunderstorm Over Fort Loramie Moving E At 45 MPH. 60 MPH Wind Gusts. Expect Damage to Trees & Power Lines. Locations Impacted Include Troy, Sidney, Piqua, New Bremen, Minster, Covington, Newport, Bradford, Anna, Fort Loramie, Jackson Center, Pleasant Hill, Botk... #ohwx Details",
-          "createdAt": "2026-08-11T12:35:45.942987+00:00",
-          "uri": "at://did:plc:emcaizmvtsp3c5kf76wrvv6a/app.bsky.feed.post/3mssmuvoom42m",
-          "sentiment": -0.1
-        },
-        {
-          "id": "e846221f1f8f25c98e09c9040d07156f3fac61f3daaf78f533dd35831455d415",
-          "authorHandle": "partyglouberman.bsky.social",
-          "postText": "Troy Jackson has an ad out blaming \"foreign labor\" for some bullshit and man it fucking sucks up here",
-          "createdAt": "2026-08-11T12:28:48.019Z",
-          "uri": "at://did:plc:z6iu2q5ujuepk2xn2f6ygtyu/app.bsky.feed.post/3mssmih3dmk2b",
-          "sentiment": -0.9
-        },
-        {
-          "id": "4b460599e199aa3a68fcf0279bdea9ae2959923dc111c0b1a3421656142d8513",
-          "authorHandle": "jsignals1.bsky.social",
-          "postText": "Communist Party Writer Co-Hosts Campaign Event For Democrat Senate Hopeful  www.dailywire.com/news/communi...",
-          "createdAt": "2026-08-11T12:23:05.755Z",
-          "uri": "at://did:plc:flr7aa7xo2ilrxm4aftxddg7/app.bsky.feed.post/3mssm6apcn22s",
-          "sentiment": -0.7
-        },
-        {
-          "id": "c54bd591226330dfc3bd66601b966c21d94d298d7e265b05d84cee8a7adce077",
-          "authorHandle": "teamrogers.bsky.social",
-          "postText": "open.substack.com/pub/troyjack...",
-          "createdAt": "2026-08-11T12:14:29.068Z",
-          "uri": "at://did:plc:pkxey5un6idnniobmdqfbdfr/app.bsky.feed.post/3msslotwabs26",
-          "sentiment": 0
         }
       ],
       "youtube": [],
