@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T10:33:53.222Z",
+  "lastUpdated": "2026-08-12T11:25:52.196Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.07399999999999998,
+      "overallSentiment": 0.07183673469387755,
       "newsSentiment": 0.059999999999999984,
-      "socialSentiment": 0.088,
+      "socialSentiment": 0.0836734693877551,
       "mentions": {
         "news": 10,
-        "social": 50,
+        "social": 49,
         "youtube": 0,
-        "total": 60
+        "total": 59
       },
       "news": [
         {
@@ -141,6 +141,14 @@
         }
       ],
       "social": [
+        {
+          "id": "76f6cda18fc7afc3210fd5f875e5dbf14701c67c226e9efe670af15fd780d332",
+          "authorHandle": "rbloodworth78.bsky.social",
+          "postText": "You know who’s breathing the loudest sigh of relief after last night’s results?  Troy Jackson, Peggy Flanagan and Abdul El-Sayed.  Wisconsin Dems did you guys a massive favor.  The GOP would have used Francesca Hong as a cudgel with which they would have beaten you to death.",
+          "createdAt": "2026-08-12T11:06:02.641Z",
+          "uri": "at://did:plc:yegozyrwpdugpajngljoylbz/app.bsky.feed.post/3msuydf6tmk2a",
+          "sentiment": -0.3
+        },
         {
           "id": "8f91235b275e1b8f7477ff8b661db00f00434b40df2baa25e1448fba1830e2cf",
           "authorHandle": "pressherald.com",
@@ -524,22 +532,6 @@
           "createdAt": "2026-08-11T11:31:58.208Z",
           "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mssjctnikq2v",
           "sentiment": -0.4
-        },
-        {
-          "id": "357b942a689f9c5211e84404f3ae52fc4e7debaebc8e1f3a8a783958f831054c",
-          "authorHandle": "jolocktov.bsky.social",
-          "postText": "Mainers for Troy Jackson are using this wonderful photo as their banner on the FB page!\nwww.facebook.com/share/g/1C8J...",
-          "createdAt": "2026-08-11T11:16:13.603Z",
-          "uri": "at://did:plc:ytx3sd2jjiunjc4bumx3b7m5/app.bsky.feed.post/3mssigofa5k2c",
-          "sentiment": 1
-        },
-        {
-          "id": "ec0522cc4a23b1c1494157032aef049569c9fc9933720d148c0ca99e009db6dc",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "☀️, high 84º, gusts to 20mph\n===============\nMAINE RESISTANCE\nTUES, AUG 11, 2026\n===============\n\n☎️ MAINE ICE WATCH HOTLINE: 207-544-9989 ☎️\n\n#ORGANIZE #RESIST #OPPOSE\n   #NonViolenceIsPower\n      #EveryEffortCounts\n         #GetInvolved\n           #VOTE ✨\n\np4/4 – SHARE/REPOST!\n#MEpolitics",
-          "createdAt": "2026-08-11T11:08:31.971Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3msshyw5ofc27",
-          "sentiment": -1
         }
       ],
       "youtube": [],
