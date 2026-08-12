@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T11:25:52.196Z",
+  "lastUpdated": "2026-08-12T12:07:34.105Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.07183673469387755,
+      "overallSentiment": 0.08000000000000002,
       "newsSentiment": 0.059999999999999984,
-      "socialSentiment": 0.0836734693877551,
+      "socialSentiment": 0.10000000000000003,
       "mentions": {
         "news": 10,
-        "social": 49,
+        "social": 46,
         "youtube": 0,
-        "total": 59
+        "total": 56
       },
       "news": [
         {
@@ -141,6 +141,14 @@
         }
       ],
       "social": [
+        {
+          "id": "cf930a27a7948a4c5c52a75bc2ac0ba7f78ae744e0981caea6f8b6c531232f1b",
+          "authorHandle": "haselizs.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-12T12:05:20.778Z",
+          "uri": "at://did:plc:c3ye2accs53wv6qn2wb4dyav/app.bsky.feed.post/3msv3ngiitc2n",
+          "sentiment": 0
+        },
         {
           "id": "76f6cda18fc7afc3210fd5f875e5dbf14701c67c226e9efe670af15fd780d332",
           "authorHandle": "rbloodworth78.bsky.social",
@@ -500,38 +508,6 @@
           "createdAt": "2026-08-11T12:14:29.068Z",
           "uri": "at://did:plc:pkxey5un6idnniobmdqfbdfr/app.bsky.feed.post/3msslotwabs26",
           "sentiment": 0
-        },
-        {
-          "id": "e2ad2e374822719af34f3d0d362580521d715ef005fb9d0e2ec51d6437d99ed1",
-          "authorHandle": "mainewomenforward.bsky.social",
-          "postText": "maineaflcio.org/news/unions-...",
-          "createdAt": "2026-08-11T12:07:11.426Z",
-          "uri": "at://did:plc:2ff543gpjcs565cqlxpd3hlc/app.bsky.feed.post/3msslbskiik2b",
-          "sentiment": 0.3
-        },
-        {
-          "id": "80007201c3c0664d100d52ee94d81266cf183de5c4f093d2d17c1dfe2315d68b",
-          "authorHandle": "indivmidmaine.bsky.social",
-          "postText": "www.mobilize.us/mainecoordin...\n\nThis evening!",
-          "createdAt": "2026-08-11T11:58:06.408Z",
-          "uri": "at://did:plc:rokdgpbsyht6ariljokb6hhh/app.bsky.feed.post/3msskrkrtes2k",
-          "sentiment": -0.2
-        },
-        {
-          "id": "737d2789897edc5e28b613d1d9eb37fe4ffeb40230c54bc4e1e629cc2268de95",
-          "authorHandle": "noisyfearless.bsky.social",
-          "postText": "www.mobilize.us/mainecoordin...\n\nThis evening!",
-          "createdAt": "2026-08-11T11:57:40.744Z",
-          "uri": "at://did:plc:kvln4ybh6wgfdsvcglyfvn5p/app.bsky.feed.post/3msskqscnu22k",
-          "sentiment": -0.2
-        },
-        {
-          "id": "34fe2c6750b04f09ff884c97a1a7e841157dae4634c3e481880ae1706ac25983",
-          "authorHandle": "bangordailynews.bsky.social",
-          "postText": "He has dropped much of the anti-oligarchy rhetoric that defined Graham Platner’s campaign. www.bangordailynews.com/2026/08/11/p...",
-          "createdAt": "2026-08-11T11:31:58.208Z",
-          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mssjctnikq2v",
-          "sentiment": -0.4
         }
       ],
       "youtube": [],
