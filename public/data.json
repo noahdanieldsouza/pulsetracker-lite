@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T13:41:44.467Z",
+  "lastUpdated": "2026-08-12T13:55:53.028Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11729166666666668,
+      "overallSentiment": 0.07819444444444446,
       "newsSentiment": 0.08333333333333333,
       "socialSentiment": 0.15125000000000002,
       "mentions": {
         "news": 12,
         "social": 40,
-        "youtube": 0,
-        "total": 52
+        "youtube": 1,
+        "total": 53
       },
       "news": [
         {
@@ -480,8 +480,19 @@
           "sentiment": 1
         }
       ],
-      "youtube": [],
-      "youtubeSentiment": null
+      "youtube": [
+        {
+          "id": "5cfd00bc95a2f91cdf1de24526668095e3d2245b9a2c86d4fe9ace0de4a165f1",
+          "authorName": "@mikewashko46",
+          "commentText": "Most people don&#39;t realize this is Mark Jackson&#39;s brother...",
+          "publishedAt": "2026-08-11T23:07:10Z",
+          "videoId": "cebfJCZHWjw",
+          "videoTitle": "Troy &quot;Escalade&quot; Jackson🏀💋",
+          "commentId": "Ugx-owcYnxtEGnJMxh54AaABAg",
+          "sentiment": 0
+        }
+      ],
+      "youtubeSentiment": 0
     },
     {
       "id": "jordan-wood",
