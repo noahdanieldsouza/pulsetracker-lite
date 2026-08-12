@@ -1,21 +1,30 @@
 {
-  "lastUpdated": "2026-08-12T20:24:51.979Z",
+  "lastUpdated": "2026-08-12T21:12:25.153Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
+      "overallSentiment": -0.1,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": -0.1,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "25f7913697662f2ce578d9708ca6defa380c8669fd3093dd07f64799ddcaa6f1",
+          "authorHandle": "quant-hub.bsky.social",
+          "postText": "🚨 $STE\nShah Nirav R (Insider) reported special transactions (Non-P/S).",
+          "createdAt": "2026-08-12T20:55:35.058062+00:00",
+          "uri": "at://did:plc:ngdd6z6ozqhwlbeckdzwirp7/app.bsky.feed.post/3msvzblf77527",
+          "sentiment": -0.1
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
@@ -39,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.06944444444444443,
+      "overallSentiment": 0.06847545219638242,
       "newsSentiment": 0.08333333333333333,
-      "socialSentiment": 0.125,
+      "socialSentiment": 0.12209302325581395,
       "mentions": {
         "news": 12,
-        "social": 42,
+        "social": 43,
         "youtube": 1,
-        "total": 55
+        "total": 56
       },
       "news": [
         {
@@ -159,6 +168,22 @@
         }
       ],
       "social": [
+        {
+          "id": "669249aa5543876e8255dc55aa96e9d709954bf9d5704bd0ed4a4992316227e2",
+          "authorHandle": "steveportigal.bsky.social",
+          "postText": "Now in addition to spamming us with endless texts and emails now D campaigns are adding us to their substacks. Thanks for nothing Troy Jackson. Marked as spam.",
+          "createdAt": "2026-08-12T20:37:15.902Z",
+          "uri": "at://did:plc:cmdjmhhbzxvx6la7l6yfd63s/app.bsky.feed.post/3msvyaspr2s23",
+          "sentiment": -1
+        },
+        {
+          "id": "fbad8cda0a218cb9637947f1004aefda66a71f5401a2d6aa070322005dc6ea18",
+          "authorHandle": "pinetreeactivism.org",
+          "postText": "Interesting LTE – one with which I suspect a lot of Mainers agree, tho might not say. \n\nAn awful lot of mixed feelings out there, though I believe everyone can agree we need to rally together, elect Troy Jackson to the U.S. Senate and unseat Susan Collins.\n\n#MEpolitics #JACKSONforMAINE #NoMoreSusan",
+          "createdAt": "2026-08-12T20:32:27.776Z",
+          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3msvxy7ws2s26",
+          "sentiment": 1
+        },
         {
           "id": "cde37571b25d151fbf0d1219695fc24b246edf3facd27bfaa98b80eb2cfd8b99",
           "authorHandle": "fightinglikehell.bsky.social",
@@ -486,14 +511,6 @@
           "createdAt": "2026-08-11T21:43:12.095Z",
           "uri": "at://did:plc:gni4ubjp6zzn7r7qipplpjvz/app.bsky.feed.post/3mstlhs6hrc2r",
           "sentiment": -1
-        },
-        {
-          "id": "4c395da34dc39ddd503109e5fc7758172136c6b52d1cb08dea575e5afe0633a2",
-          "authorHandle": "the-jaguarr.bsky.social",
-          "postText": "\"I have concerns!\", she moaned. \n\nfox23maine.com/news/local/t...",
-          "createdAt": "2026-08-11T20:48:39.274Z",
-          "uri": "at://did:plc:4pmyhambyaieahbidqtzqqye/app.bsky.feed.post/3mstigaxslc23",
-          "sentiment": 0
         }
       ],
       "youtube": [
