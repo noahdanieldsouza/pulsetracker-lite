@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T09:21:03.075Z",
+  "lastUpdated": "2026-08-12T10:33:53.222Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.06499999999999997,
+      "overallSentiment": 0.07399999999999998,
       "newsSentiment": 0.059999999999999984,
-      "socialSentiment": 0.06999999999999998,
+      "socialSentiment": 0.088,
       "mentions": {
         "news": 10,
         "social": 50,
@@ -141,6 +141,30 @@
         }
       ],
       "social": [
+        {
+          "id": "8f91235b275e1b8f7477ff8b661db00f00434b40df2baa25e1448fba1830e2cf",
+          "authorHandle": "pressherald.com",
+          "postText": "Troy Jackson once blockaded Canadians. How does it shape his Trump-era politics?",
+          "createdAt": "2026-08-12T10:00:51+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3msuuoswmri24",
+          "sentiment": -0.3
+        },
+        {
+          "id": "1e009f8e7034bba0abbe7fad77711f9d39b0c2946803cccc1e8937d777870318",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-12T09:49:48.758Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3msuu336xzk2n",
+          "sentiment": 0
+        },
+        {
+          "id": "7d6ad084ef9c0c798742d176166eccac3db15856a266467ae53938dd71a624c7",
+          "authorHandle": "godofindifference.bsky.social",
+          "postText": "“In the race for Senate, another new poll finds Democrat Troy Jackson is holding the slight lead against Senator Susan Collins.”",
+          "createdAt": "2026-08-12T09:42:25.135Z",
+          "uri": "at://did:plc:dm3xiu72nnregfgy2jqwv53i/app.bsky.feed.post/3msutnu4ogs2c",
+          "sentiment": 0.2
+        },
         {
           "id": "b36e4f448bc40201badb17625f9d8a0fbfafe2c3470b34a2fce34054daa7042f",
           "authorHandle": "nicolependexter.bsky.social",
@@ -516,30 +540,6 @@
           "createdAt": "2026-08-11T11:08:31.971Z",
           "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3msshyw5ofc27",
           "sentiment": -1
-        },
-        {
-          "id": "2d951ed1e1ee81445232e26beacfad2d57b065b142e67719885f8de79c10a82b",
-          "authorHandle": "torinoentertainer.bsky.social",
-          "postText": "Troy Jackson is married to his second cousin\nWho was the first cousin he was married to?",
-          "createdAt": "2026-08-11T10:23:36.343Z",
-          "uri": "at://did:plc:zzpecqo6e3t72ezdzmospwjr/app.bsky.feed.post/3mssfilf6jk2i",
-          "sentiment": -1
-        },
-        {
-          "id": "b8e45c60bbeb6a734266b4177293e5d29309400e9944387c088c80d077eec352",
-          "authorHandle": "anna26458.bsky.social",
-          "postText": "www.theguardian.com/us-news/2026...",
-          "createdAt": "2026-08-11T10:08:51.908Z",
-          "uri": "at://did:plc:ru55eyk6bq5uyrq7ggvckgs2/app.bsky.feed.post/3msseo7wfh22x",
-          "sentiment": 0
-        },
-        {
-          "id": "76718eb397c1702a6de8c8ef092f7e3db1602f13b26e7de0d9912c19e2957704",
-          "authorHandle": "pdhue.bsky.social",
-          "postText": "There are more, they are running under the banner of the Democratic Party, but are endorsed by Sanders, AOC, and some by DSA.\n\nTroy Jackson (MA)\nChris Rabb (PA)\nMelat Kiros (CO)\nCori Bush (MO) lost primary\nOliver Larkin (FL)\n\nDefunding the police is not the most concerning platform goal of the DSA.",
-          "createdAt": "2026-08-11T10:01:51.970Z",
-          "uri": "at://did:plc:4uvni34naonpmw2w2m34hbso/app.bsky.feed.post/3mssebpgurc24",
-          "sentiment": 0
         }
       ],
       "youtube": [],
