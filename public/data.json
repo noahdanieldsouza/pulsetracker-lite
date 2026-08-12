@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T23:53:57.297Z",
+  "lastUpdated": "2026-08-12T01:24:51.767Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.10181818181818181,
+      "overallSentiment": 0.08614035087719299,
       "newsSentiment": 0.059999999999999984,
-      "socialSentiment": 0.14363636363636365,
+      "socialSentiment": 0.11228070175438598,
       "mentions": {
         "news": 10,
-        "social": 55,
+        "social": 57,
         "youtube": 0,
-        "total": 65
+        "total": 67
       },
       "news": [
         {
@@ -141,6 +141,46 @@
         }
       ],
       "social": [
+        {
+          "id": "bb0be554bc579e49f3f137d61364035411ea4f414ff4ba8055b6c38f563c77ea",
+          "authorHandle": "kindnessgal.bsky.social",
+          "postText": "fox23maine.com/news/local/t...\n\nGood News 4 U 🎆\ngoodnews4u.app",
+          "createdAt": "2026-08-12T01:17:37.336Z",
+          "uri": "at://did:plc:apaurrcrryujoitgfp4yqwbt/app.bsky.feed.post/3mstxh7gfq22e",
+          "sentiment": 0
+        },
+        {
+          "id": "966cf93e0e3fe51aa268aa61cdd5bfba4d87ef5c0c2a30d95dca5c85d80d034f",
+          "authorHandle": "noraglass.bsky.social",
+          "postText": "Any Mainers who want to work to get the word out about Troy Jackson can sign up here:",
+          "createdAt": "2026-08-12T01:07:25.161Z",
+          "uri": "at://did:plc:xmmkgmw6rx7kpy4veyiv53yy/app.bsky.feed.post/3mstwuxp3h22i",
+          "sentiment": 0
+        },
+        {
+          "id": "27cdb7ad363a5d7994fbf2f15dba6a03901efa5b8cbdcba5e24ae5f7de529163",
+          "authorHandle": "dixitinsipiens.bsky.social",
+          "postText": "lmao",
+          "createdAt": "2026-08-12T00:54:09.573Z",
+          "uri": "at://did:plc:uvoenafwplcmnwjvub373eyq/app.bsky.feed.post/3mstw5auv6c2e",
+          "sentiment": 0
+        },
+        {
+          "id": "c9401318ad50759541c6c8303c806282812dd0f46d04acb0c5f137ba2b33b865",
+          "authorHandle": "insidepoliticalmoney.com",
+          "postText": "Can Troy Jackson activate small donors to offset heavy GOP spending?\n\n@thegarance.bsky.social Reports: tinyurl.com/sm3u938m\n\n#InsidePoliticalMoney #PoliticalMoney",
+          "createdAt": "2026-08-12T00:33:45.602505+00:00",
+          "uri": "at://did:plc:4622nvjc47b5tue46o3enhjw/app.bsky.feed.post/3mstuyroqd32z",
+          "sentiment": 0
+        },
+        {
+          "id": "9b10578bac65db86ec73ddaed4f38c036637c70527206afe2698cebcfdebe291",
+          "authorHandle": "sushynes.bsky.social",
+          "postText": "open.substack.com/pub/simonwdc...",
+          "createdAt": "2026-08-12T00:03:15.427Z",
+          "uri": "at://did:plc:zzg4ild44mbudxkttgck2vm6/app.bsky.feed.post/3msttca7psk2v",
+          "sentiment": 0
+        },
         {
           "id": "ea560fe7e216e74f566a9cdddf03d41765211c96ce424283ce04796663b3d3ab",
           "authorHandle": "kaymac1953.bsky.social",
@@ -556,30 +596,6 @@
           "createdAt": "2026-08-11T01:52:45.486Z",
           "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3msrix4hbxk2m",
           "sentiment": 0
-        },
-        {
-          "id": "8d58d4a445137d28d4cda0b198c2a387fc7acf8555f0858dd86079fe0714b93c",
-          "authorHandle": "some-people-usa.bsky.social",
-          "postText": "“It’s past time that we fix our broken, profit-centered healthcare system that leaves many of us struggling to get care, and most of us struggling to pay for it when we do,” said the US Senate candidate.",
-          "createdAt": "2026-08-11T01:09:57.268Z",
-          "uri": "at://did:plc:myb6e7tolmf4wayqshi53zio/app.bsky.feed.post/3msrgkl7il22u",
-          "sentiment": 0.7
-        },
-        {
-          "id": "6228b08d9a4b99bd532b319bc8d9271c59c26d7e4b6ea517f40ec78d35c41e9c",
-          "authorHandle": "mainewomenforward.bsky.social",
-          "postText": "www.npr.org/2026/08/10/n...",
-          "createdAt": "2026-08-11T00:09:46.414Z",
-          "uri": "at://did:plc:2ff543gpjcs565cqlxpd3hlc/app.bsky.feed.post/3msrd6xmwyc2d",
-          "sentiment": 0
-        },
-        {
-          "id": "64d654a4bc28eea106b3d7ef80b01c1f3d67194578a17483b59c50c0945e8421",
-          "authorHandle": "slvrbld47.bsky.social",
-          "postText": "'We Must Pass Medicare for All,' Says Troy Jackson as 12th Maine Maternity Unit Closes in 11 Years www.commondreams.org/news/maine-h...",
-          "createdAt": "2026-08-11T00:03:47.617Z",
-          "uri": "at://did:plc:5hwoigzdnuc3of5vl67sr33e/app.bsky.feed.post/3msrcubhebc2f",
-          "sentiment": 0.8
         }
       ],
       "youtube": [],
