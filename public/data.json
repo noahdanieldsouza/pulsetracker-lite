@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T05:10:51.981Z",
+  "lastUpdated": "2026-08-13T06:48:02.805Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.089944901065449,
+      "overallSentiment": 0.08685255255255254,
       "newsSentiment": 0.08333333333333333,
-      "socialSentiment": 0.18650136986301366,
+      "socialSentiment": 0.1772243243243243,
       "mentions": {
         "news": 12,
-        "social": 74,
+        "social": 75,
         "youtube": 1,
-        "total": 87
+        "total": 88
       },
       "news": [
         {
@@ -168,6 +168,22 @@
         }
       ],
       "social": [
+        {
+          "id": "cae7956b6d1fb17fa1affdafd76341154649abaa9829ab261cde76be8d6c5efc",
+          "authorHandle": "mj-slenderman.bsky.social",
+          "postText": "the thing I love about Troy Jackson is how his mouth just shuts every once in a while like a normal person",
+          "createdAt": "2026-08-13T06:05:16.407Z",
+          "uri": "at://did:plc:nskcoqgqtkgmpnqaluykgjo3/app.bsky.feed.post/3mswxyig7as2k",
+          "sentiment": -1
+        },
+        {
+          "id": "97c7b793f4624960e061991b16d9399ec1d392855c98527b2bf3cc20eafbc8e9",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-13T05:36:55.268Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mswwfs3jps2u",
+          "sentiment": 0
+        },
         {
           "id": "850a7bf0c613dfd066a39b1c47d5ca8666ff29df76580f552f6b03850eb9bb67",
           "authorHandle": "fightinglikehell.bsky.social",
@@ -751,14 +767,6 @@
           "createdAt": "2026-08-12T08:38:21.792Z",
           "uri": "at://did:plc:y54mscfrtkrutzquyoxgowhy/app.bsky.feed.post/3msuq3ct4ss2k",
           "sentiment": -1
-        },
-        {
-          "id": "0af7188012d2006376ed80feda6b87dd9cfd397bb28302b911f48e3d837d72ce",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-08-12T05:40:46.686Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3msug5rd3uc2w",
-          "sentiment": -0.5
         }
       ],
       "youtube": [
