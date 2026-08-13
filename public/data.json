@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T03:16:20.806Z",
+  "lastUpdated": "2026-08-13T05:10:51.981Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.09360930930930929,
+      "overallSentiment": 0.089944901065449,
       "newsSentiment": 0.08333333333333333,
-      "socialSentiment": 0.19749459459459456,
+      "socialSentiment": 0.18650136986301366,
       "mentions": {
         "news": 12,
-        "social": 75,
+        "social": 74,
         "youtube": 1,
-        "total": 88
+        "total": 87
       },
       "news": [
         {
@@ -168,6 +168,22 @@
         }
       ],
       "social": [
+        {
+          "id": "850a7bf0c613dfd066a39b1c47d5ca8666ff29df76580f552f6b03850eb9bb67",
+          "authorHandle": "fightinglikehell.bsky.social",
+          "postText": "Let’s make sure Troy Jackson wins, get out there and vote in November. ￼\n￼",
+          "createdAt": "2026-08-13T03:56:56.347Z",
+          "uri": "at://did:plc:aszxenzl7rjxsduufkekeqnm/app.bsky.feed.post/3mswqsz2ygk2i",
+          "sentiment": 1
+        },
+        {
+          "id": "6a9c0ddd2f7efd6c8ef1163deda2316d47d5d2fa095fba49278b86b4968e09f3",
+          "authorHandle": "clearlyashley.bsky.social",
+          "postText": "Graham Platner would’ve been Bernie’s colleague in the Senate, representing a state that borders his. the endorsement made sense. \n\nFran Hong was running for Governor. the only gubernatorial nominee Bernie has endorsed this year is, wait for it.. Troy Jackson, also of Maine. see the pattern?",
+          "createdAt": "2026-08-13T03:43:27.897Z",
+          "uri": "at://did:plc:zjkfkzunzinds2ozg6uidsiv/app.bsky.feed.post/3mswq2w32i22s",
+          "sentiment": -1
+        },
         {
           "id": "63bf8111d399cff303411da41eb5395a4b62f6f612d5b084d18e2fb8b0504c75",
           "authorHandle": "joenezee.bsky.social",
@@ -743,30 +759,6 @@
           "createdAt": "2026-08-12T05:40:46.686Z",
           "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3msug5rd3uc2w",
           "sentiment": -0.5
-        },
-        {
-          "id": "207c3707ea4fe7020b19d063ed43f73271ba698e2ffd282b4ba8b258479e54d2",
-          "authorHandle": "djsoke.bsky.social",
-          "postText": "If Crowley does end up winning, this year will have some nominees with the most bizarre paths to a nomination I’ve ever seen between him and Troy Jackson",
-          "createdAt": "2026-08-12T04:19:15.841Z",
-          "uri": "at://did:plc:zuddhk7vlinxj3374rzcv7p5/app.bsky.feed.post/3msublz2iwc2m",
-          "sentiment": 0
-        },
-        {
-          "id": "631d83a2cb51bdd38991c1b7e4b9fd091d91f1ff2f02381af51d3be4ea00f10a",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-08-12T03:50:12.439Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3msu7y2fwzk2w",
-          "sentiment": 0
-        },
-        {
-          "id": "c576d124a30d486eda903d5df0995ccf34fd9a1f9799bb60d632687a36c73b83",
-          "authorHandle": "leftleaningloon.bsky.social",
-          "postText": "When they all get to the Senate, I'm gonn need Peggy, Abdul, and Troy Jackson to form their own squad, a sort of, they wouldnt be buds except for their progressive politics sort of vibe as they push for single payer healthcare",
-          "createdAt": "2026-08-12T03:43:16.299Z",
-          "uri": "at://did:plc:uorvpvopjsakawmkolqoovhx/app.bsky.feed.post/3msu7lnkeck2r",
-          "sentiment": 1
         }
       ],
       "youtube": [
@@ -786,26 +778,17 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.1,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": -0.1,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "5dc0bd08d6d5aa11b22034500ae6084dc0369330eb31bd73a8e35469633b572d",
-          "authorHandle": "bleedingcool.com",
-          "postText": "In honor of its 30th anniversary, The Daily Show released audition tapes for Jordan Klepper, Desi Lydic, Ronny Chieng, Michael Kosta, Josh Johnson, John Oliver, Samantha Bee, Jessica Williams, Roy Wood Jr., Michael Che, and more. / #TDS #TheDailyShow",
-          "createdAt": "2026-08-12T03:41:35Z",
-          "uri": "at://did:plc:jl5mqn5eis5rhwu7yobkhh23/app.bsky.feed.post/3msu7inncb32w",
-          "sentiment": -0.1
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     }
