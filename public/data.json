@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T11:24:46.884Z",
+  "lastUpdated": "2026-08-13T12:07:54.025Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.09633759512937595,
+      "overallSentiment": 0.09360930930930932,
       "newsSentiment": 0.08333333333333333,
-      "socialSentiment": 0.20567945205479451,
+      "socialSentiment": 0.19749459459459462,
       "mentions": {
         "news": 12,
-        "social": 74,
+        "social": 75,
         "youtube": 1,
-        "total": 87
+        "total": 88
       },
       "news": [
         {
@@ -168,6 +168,22 @@
         }
       ],
       "social": [
+        {
+          "id": "a9a1dedb9035eecff6e219d0725c15137451e18dc2bf4f55ddfe3a194fdd1aeb",
+          "authorHandle": "swingbluealliance.org",
+          "postText": "Time to recall Susan Collins.\n\nJoin us every weekend to knock doors for Troy Jackson. \nwww.mobilize.us/swingblueall...",
+          "createdAt": "2026-08-13T11:58:33.321Z",
+          "uri": "at://did:plc:6qxyqlq2v74brgadtmr5ngri/app.bsky.feed.post/3msxlq7fmu22d",
+          "sentiment": -0.7
+        },
+        {
+          "id": "1655dae7d80b37e778168544c68fc5208b5b361f82d9de03b00e744007c89937",
+          "authorHandle": "gilmored85.bsky.social",
+          "postText": "100% and its also why we're getting such weaksauce follow-ups like \"AES doesnt like fireworks!\" and \"Troy Jackson threw a water bottle once!\" They were really set on running a news campaign against candidates that arent in the general now & theyre trying to salvage that plan w backups",
+          "createdAt": "2026-08-13T11:38:01.378Z",
+          "uri": "at://did:plc:tt2mid3wiy3eldzfi3cltyeh/app.bsky.feed.post/3msxkliiqbc2c",
+          "sentiment": 0.3
+        },
         {
           "id": "1311b317e08d774f957fdec9e489c3bc068948d7c2c413b8c71ba63ef6c4f71e",
           "authorHandle": "kossuth45.bsky.social",
@@ -751,14 +767,6 @@
           "createdAt": "2026-08-12T12:29:14.909Z",
           "uri": "at://did:plc:au53gk265ykqxctmavcoljrn/app.bsky.feed.post/3msv4y66qec2a",
           "sentiment": 0.25
-        },
-        {
-          "id": "cf930a27a7948a4c5c52a75bc2ac0ba7f78ae744e0981caea6f8b6c531232f1b",
-          "authorHandle": "haselizs.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-12T12:05:20.778Z",
-          "uri": "at://did:plc:c3ye2accs53wv6qn2wb4dyav/app.bsky.feed.post/3msv3ngiitc2n",
-          "sentiment": 0
         }
       ],
       "youtube": [
