@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T08:07:41.388Z",
+  "lastUpdated": "2026-08-13T09:22:30.216Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.08685255255255254,
+      "overallSentiment": 0.08309558599695586,
       "newsSentiment": 0.08333333333333333,
-      "socialSentiment": 0.1772243243243243,
+      "socialSentiment": 0.16595342465753424,
       "mentions": {
         "news": 12,
-        "social": 75,
+        "social": 74,
         "youtube": 1,
-        "total": 88
+        "total": 87
       },
       "news": [
         {
@@ -168,6 +168,14 @@
         }
       ],
       "social": [
+        {
+          "id": "8ef90bf4eed3f571011005735c5861fa12a78db2bdc7ce3d044eee916dd1cca9",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-13T08:48:56.780Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3msxb55u6bs2u",
+          "sentiment": -1
+        },
         {
           "id": "cae7956b6d1fb17fa1affdafd76341154649abaa9829ab261cde76be8d6c5efc",
           "authorHandle": "mj-slenderman.bsky.social",
@@ -751,22 +759,6 @@
           "createdAt": "2026-08-12T09:42:25.135Z",
           "uri": "at://did:plc:dm3xiu72nnregfgy2jqwv53i/app.bsky.feed.post/3msutnu4ogs2c",
           "sentiment": 0.2
-        },
-        {
-          "id": "b36e4f448bc40201badb17625f9d8a0fbfafe2c3470b34a2fce34054daa7042f",
-          "authorHandle": "nicolependexter.bsky.social",
-          "postText": "Troy Jackson is running for U.S. Senate to secure universal healthcare, drug coverage, and nursing home funding, while stopping ICE. He refuses to sell out to Elon Musk or trade vital public services for wealthy tax cuts. app.sosha.ai/s/vZqWXJIC",
-          "createdAt": "2026-08-12T09:04:28.842Z",
-          "uri": "at://did:plc:v2wswgiuzl64raubxmns3rso/app.bsky.feed.post/3msurjzbq2k23",
-          "sentiment": 1
-        },
-        {
-          "id": "cfc17776ccecc19211d2a71d003de8273394e877321c36bfee05ad2a41e174ee",
-          "authorHandle": "onlymerri.bsky.social",
-          "postText": "Conservative groups launch ad deluge in Maine - Semafor\n\napple.news/A1SJMlpDJTVy...",
-          "createdAt": "2026-08-12T08:38:21.792Z",
-          "uri": "at://did:plc:y54mscfrtkrutzquyoxgowhy/app.bsky.feed.post/3msuq3ct4ss2k",
-          "sentiment": -1
         }
       ],
       "youtube": [
