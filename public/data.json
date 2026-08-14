@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T06:38:38.934Z",
+  "lastUpdated": "2026-08-14T08:00:51.756Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2273857928725185,
+      "overallSentiment": 0.22831179005092048,
       "newsSentiment": -0.10810810810810811,
-      "socialSentiment": 0.1902654867256637,
+      "socialSentiment": 0.1930434782608696,
       "mentions": {
         "news": 37,
-        "social": 113,
+        "social": 115,
         "youtube": 5,
-        "total": 155
+        "total": 157
       },
       "news": [
         {
@@ -384,6 +384,22 @@
         }
       ],
       "social": [
+        {
+          "id": "e9b205a1cf5719926f0d310be1ff834bbfa9d2e17f64af85ce41eccd1aa1c28d",
+          "authorHandle": "edengk.bsky.social",
+          "postText": "ELON GTFOH!!!!!!!!\n\nTAX BILLIONAIRES!!!",
+          "createdAt": "2026-08-14T07:58:41.630Z",
+          "uri": "at://did:plc:4xtbdet5keuguykxvcuil4z7/app.bsky.feed.post/3mszos7tutk2n",
+          "sentiment": 0
+        },
+        {
+          "id": "68d2c13400a43f5b7f9f8cf397abfedf9d276d85d0e5759c75456ea817628a58",
+          "authorHandle": "jimswanson.bsky.social",
+          "postText": "‘I Gotta Go’: Hannity Ends Interview After De Blasio Rebuts Attack on Democratic Candidate\n\nHannity moved to end his interview with former NYC Mayor Bill de Blasio after he rejected the host’s attack on Maine Democratic Senate candidate Troy Jackson, interrupting, “I gotta go.”\n\ntinyurl.com/bOgMf2",
+          "createdAt": "2026-08-14T07:32:15.943Z",
+          "uri": "at://did:plc:aqkhgtacyqtfdeonzytkmonx/app.bsky.feed.post/3mszncxmkes2w",
+          "sentiment": 0.7
+        },
         {
           "id": "7630cdf6477cc2e5ab763fc942e8c2b08256ce9105d2ff80bd81d5e0b8639e81",
           "authorHandle": "officiallilsilver.bsky.social",
