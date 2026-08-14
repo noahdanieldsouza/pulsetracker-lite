@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T23:01:48.772Z",
+  "lastUpdated": "2026-08-14T23:32:14.189Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.13542208906230646,
+      "overallSentiment": -0.13483888685388687,
       "newsSentiment": -0.3226826923076923,
-      "socialSentiment": 0.177527536231884,
+      "socialSentiment": 0.1792771428571428,
       "mentions": {
         "news": 104,
-        "social": 70,
+        "social": 71,
         "youtube": 18,
-        "total": 192
+        "total": 193
       },
       "news": [
         {
@@ -997,6 +997,38 @@
       ],
       "social": [
         {
+          "id": "125f082170e326816c05b745819ba10d7e64bc90f226953e0e14760d04316180",
+          "authorHandle": "crooksandliars.bsky.social",
+          "postText": "",
+          "createdAt": "2026-08-14T23:29:06Z",
+          "uri": "at://did:plc:ehwxw3pmjqekxu5rnb3frknp/app.bsky.feed.post/3mt3crwejt52s",
+          "sentiment": 0
+        },
+        {
+          "id": "78644df398e0fbd5d248007a1cc941f33325cfb9413af9a75549e13ff4ab3a87",
+          "authorHandle": "crooksandliars.bsky.social",
+          "postText": "",
+          "createdAt": "2026-08-14T23:24:24Z",
+          "uri": "at://did:plc:ehwxw3pmjqekxu5rnb3frknp/app.bsky.feed.post/3mt3cjjzjpo26",
+          "sentiment": 0
+        },
+        {
+          "id": "d2b502b67a427ceb85ed7229862aeb7d9f7eedde988c00e661f5445b121afbf2",
+          "authorHandle": "millie29.bsky.social",
+          "postText": "Troy Jackson, 6 more months 🙏🏻",
+          "createdAt": "2026-08-14T23:22:26.009Z",
+          "uri": "at://did:plc:33av7m55lyyj2hihvb7yr2lv/app.bsky.feed.post/3mt3cfynny22r",
+          "sentiment": 1
+        },
+        {
+          "id": "c57fd79174c1571febd7ef06d8fc47d4140fcfebbdff88a5359ebb1ccd35cbbb",
+          "authorHandle": "capitolhillaccess.bsky.social",
+          "postText": "SLF PAC spends $17,880 to OPPOSE Josh Turek (Sen IA Sen)(D)\n\n#IASen,\n\n$1,503,546 to OPPOSE Troy Jackson (Sen ME Sen)(D),\n\n$1,897,235 to OPPOSE Abdul El-sayed (Sen MI Sen)(D),\n\nand $2,665,230 to OPPOSE Roy Cooper (Sen NC Sen)(D).\r\n\r\n2026 Cycle FEC Data:...",
+          "createdAt": "2026-08-14T23:06:34.675Z",
+          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mt3bjpkrdt2c",
+          "sentiment": -1
+        },
+        {
           "id": "f0bfa40328db6a0eacba6f8b967c3ec693027d51262ab84b4a8f8e5ea1aa48f6",
           "authorHandle": "b693.bsky.social",
           "postText": "substack.com/@troyjackson...",
@@ -1530,30 +1562,6 @@
           "postText": "The Susan Collins attack ads charge her opponent Troy Jackson with all kinds of nasty things, including mortgage fraud. The Bangor Daily News investigated and found one criminal charge against him, a simple assault when he was 19. He paid $50 in restitution. #Maine",
           "createdAt": "2026-08-13T23:46:17.934Z",
           "uri": "at://did:plc:35ikw24omeygjw4etf6cebcz/app.bsky.feed.post/3msytbqru6s2q",
-          "sentiment": -1
-        },
-        {
-          "id": "9d695435e012e0d8f058a16aa5b92bad6194702a9af14620e5a7d899095b9e03",
-          "authorHandle": "vdbrito.bsky.social",
-          "postText": "www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-13T23:26:30.175Z",
-          "uri": "at://did:plc:uvwbw3u6tij4ir3e23t6fyvt/app.bsky.feed.post/3msys6e2bdk2g",
-          "sentiment": 0
-        },
-        {
-          "id": "63503b6a3819a313ebd88720bca7f7ac1e5dd264b6fb42e47b31b0a99111e71a",
-          "authorHandle": "plaintanjane.bsky.social",
-          "postText": "“State Rep. Marc Malon, D-Biddeford, weaved into a social media post Thursday a plug for Jackson and a critique of Collins' record while saying a \"rump band of rogue idiots in Hancock County [invited] a disgraced ex-politician to speak.\"",
-          "createdAt": "2026-08-13T23:19:11.824Z",
-          "uri": "at://did:plc:epx5kbkcyr53y5egrh7hitld/app.bsky.feed.post/3msyrrbz3ys2o",
-          "sentiment": 0.7
-        },
-        {
-          "id": "5f5604b8d4c02d972e13f564e6df4310f2969029726f3c00788349a175d3c0af",
-          "authorHandle": "plaintanjane.bsky.social",
-          "postText": "“the announcement caught the campaign of the new nominee, former Maine Senate President Troy Jackson, by surprise.\n\n\"I don't know what they were thinking,”\nformer Maine Democratic Party Vice Chair Peggy Schaffer said. \"He's not an elected official, not a union member, and he's an accused rapist.\"",
-          "createdAt": "2026-08-13T23:13:28.473Z",
-          "uri": "at://did:plc:epx5kbkcyr53y5egrh7hitld/app.bsky.feed.post/3msyrh2l25k2o",
           "sentiment": -1
         }
       ],
