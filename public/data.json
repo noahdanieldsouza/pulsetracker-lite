@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T21:30:25.812Z",
+  "lastUpdated": "2026-08-14T21:54:26.062Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,31 +22,40 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": null,
+      "overallSentiment": 0.8,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": 0.8,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "a11d23806dc832675d02ebb3023c95d11fe8189558445701ac53fe72bd12730e",
+          "authorHandle": "indivmidmaine.bsky.social",
+          "postText": "www.mobilize.us/indivisiblem...\n\nIf you are in the Waterville area on Sept. 19, please consider joining us for our Indivisible Mid Maine membership meeting, where our wonderful Maine Secretary of State, Shenna Bellows, will be our Very Special guest speaker! ❤️",
+          "createdAt": "2026-08-14T21:42:20.755Z",
+          "uri": "at://did:plc:rokdgpbsyht6ariljokb6hhh/app.bsky.feed.post/3mt34szlu4k2s",
+          "sentiment": 0.8
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.11245793447293446,
+      "overallSentiment": -0.1305911711879103,
       "newsSentiment": -0.3226826923076923,
-      "socialSentiment": 0.24641999999999997,
+      "socialSentiment": 0.19202028985507247,
       "mentions": {
         "news": 104,
-        "social": 71,
+        "social": 70,
         "youtube": 18,
-        "total": 193
+        "total": 192
       },
       "news": [
         {
@@ -988,6 +997,22 @@
       ],
       "social": [
         {
+          "id": "81c1623fbb20cea39da5a5d72c81dc832508f680b5eb9e5eb1677252d969c173",
+          "authorHandle": "andromeda8.bsky.social",
+          "postText": "Here are the favorables of the Democratic Senate candidates.\n\nIt's for \"All Voters\" - not just registered or likely voters. \n\nOh boy - look at Troy Jackson and El-Sayed. Especially El-Sayed. You can't win a general election with those unfavorables that also includes independents.",
+          "createdAt": "2026-08-14T21:43:36.212Z",
+          "uri": "at://did:plc:ekrgqjcvdx6pewrx6am6am67/app.bsky.feed.post/3mt34vbkqis22",
+          "sentiment": -1
+        },
+        {
+          "id": "09afe0d07951e3cbddf483337cddd36943d1ce926e4824663b6a06cf8f64542d",
+          "authorHandle": "sethmoulton.bsky.social",
+          "postText": "Chip in directly to these four critical campaigns today:\n* Jon Ossoff (GA): secure.actblue.com/donate/ms_hp... \n* Troy Jackson (ME): secure.actblue.com/donate/loc_t... \n* James Talarico (TX): secure.actblue.com/donate/jt-tx... \n* Roy Cooper (NC): secure.actblue.com/donate/cvf_web",
+          "createdAt": "2026-08-14T21:35:02.592Z",
+          "uri": "at://did:plc:iudave7o5abb2nxlo4ambbp7/app.bsky.feed.post/3mt34fyhfq22y",
+          "sentiment": 0
+        },
+        {
           "id": "859b1caaef322ac80accfdbb0d1735d327f7484969c9939e814a3854612e622d",
           "authorHandle": "hancockcountydems.bsky.social",
           "postText": "2/3\nThe Maine Democratic Party’s Coordinated Campaign is 𝗵𝗶𝗿𝗶𝗻𝗴 𝗙𝗶𝗲𝗹𝗱 𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿𝘀 to build relationships in communities across the state, organize volunteers, talk directly with voters, and help elect Troy Jackson, Hannah Pingree, and Democrats up and down the ballot.",
@@ -1529,30 +1554,6 @@
           "postText": "Troy Jackson Slams 'Failed Trillionaire Elon Musk' as Billionaires Dump Millions Into Maine US Senate Race www.commondreams.org/news/troy-ja...",
           "createdAt": "2026-08-13T21:56:51.000Z",
           "uri": "at://did:plc:xr6k4ic7dnyjabthigkp2z3h/app.bsky.feed.post/3msyn622vq22c",
-          "sentiment": 1
-        },
-        {
-          "id": "9f35d19c1d662a6d76fd0e75fd5346c204d689ed22be7a5deee788b321f83f17",
-          "authorHandle": "dharmalee3.bsky.social",
-          "postText": "Troy Jackson Slams 'Failed Trillionaire Elon Musk' as Billionaires Dump Millions Into Maine US Senate Race www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-13T21:52:39.958Z",
-          "uri": "at://did:plc:y3wyn2keqln5hdywt7btznbj/app.bsky.feed.post/3msymwknpjk25",
-          "sentiment": 1
-        },
-        {
-          "id": "3f6fb671f3ab596f99020d2785ce9f9c535200fa59fd4aada7f724c3961c65ed",
-          "authorHandle": "damop.bsky.social",
-          "postText": "This is what Susan Collins voted for!\n\nLet’s go, Mainers! Stand up for your families, your communities, and your own interests. Vote with purpose. Vote with conviction. Vote Troy Jackson! 💙\n@democrats.org @democrats.senate.gov @housedemocrats.bsky.social  @troyjackson207.bsky.social",
-          "createdAt": "2026-08-13T21:49:08.796Z",
-          "uri": "at://did:plc:v4c4uuueipj63vdxmlhhezz6/app.bsky.feed.post/3msymqbbnks2e",
-          "sentiment": 1
-        },
-        {
-          "id": "0b7d5af7920458d1b8e65ae87fe99c099b8fc2b93088cdf4129c318e62b88694",
-          "authorHandle": "tuckerinmaine.bsky.social",
-          "postText": "I am so tired of this performative nonsense while people are being killed in the streets. She needs to go. Support Troy Jackson if you can and help end this ridiculous chokehold on Maine, and the nation's politics.",
-          "createdAt": "2026-08-13T21:43:49.776Z",
-          "uri": "at://did:plc:5yst2fnopfji75glotsxoniy/app.bsky.feed.post/3msymgqzto22l",
           "sentiment": 1
         }
       ],
