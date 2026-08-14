@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T21:54:26.062Z",
+  "lastUpdated": "2026-08-14T22:17:03.931Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1305911711879103,
+      "overallSentiment": -0.14435577761018936,
       "newsSentiment": -0.3226826923076923,
-      "socialSentiment": 0.19202028985507247,
+      "socialSentiment": 0.1507264705882353,
       "mentions": {
         "news": 104,
-        "social": 70,
+        "social": 69,
         "youtube": 18,
-        "total": 192
+        "total": 191
       },
       "news": [
         {
@@ -997,6 +997,22 @@
       ],
       "social": [
         {
+          "id": "9080f979d04f5031da393d2fc0e6aa9e4b67e08c3e945adb75899da87c87a9fc",
+          "authorHandle": "libraryghost.bsky.social",
+          "postText": "\"Okay, but did you know that Troy Jackson has a potty mouth?\" 😤",
+          "createdAt": "2026-08-14T22:13:08.883Z",
+          "uri": "at://did:plc:emhey7q6do25t2dm76u3bm5y/app.bsky.feed.post/3mt36k44amk2x",
+          "sentiment": -1
+        },
+        {
+          "id": "6dd59cf4cd710709f9d2f2966dd0e1bf3b046acb712ae56da61df0eedd56d461",
+          "authorHandle": "andrewbare.bsky.social",
+          "postText": "The more Dems can make this a battle between Generic Democrat vs. Generic Republican, instead of Susan Collins vs. Troy Jackson, the better.",
+          "createdAt": "2026-08-14T22:08:03.959Z",
+          "uri": "at://did:plc:masprvtuheldxavmdqemhuoi/app.bsky.feed.post/3mt36azcpbk2t",
+          "sentiment": 0
+        },
+        {
           "id": "81c1623fbb20cea39da5a5d72c81dc832508f680b5eb9e5eb1677252d969c173",
           "authorHandle": "andromeda8.bsky.social",
           "postText": "Here are the favorables of the Democratic Senate candidates.\n\nIt's for \"All Voters\" - not just registered or likely voters. \n\nOh boy - look at Troy Jackson and El-Sayed. Especially El-Sayed. You can't win a general election with those unfavorables that also includes independents.",
@@ -1530,30 +1546,6 @@
           "postText": "Troy Jackson Slams 'Failed Trillionaire Elon Musk' as Billionaires Dump Millions Into Maine US Senate Race www.commondreams.org/news/troy-ja...",
           "createdAt": "2026-08-13T22:27:08.923Z",
           "uri": "at://did:plc:sxyjqtjtra5bboqzsxcpyh47/app.bsky.feed.post/3msyou7ri6k2x",
-          "sentiment": 1
-        },
-        {
-          "id": "f2bc99f1fe1aa8b534739968d5d0740dcbb48ad500109fdfbb5c7dc8c50beb65",
-          "authorHandle": "ferold.bsky.social",
-          "postText": "8-13-26",
-          "createdAt": "2026-08-13T22:06:55.466Z",
-          "uri": "at://did:plc:zxpllvm7x2oi2z4zvud4pbna/app.bsky.feed.post/3msynq2jqkk22",
-          "sentiment": 0
-        },
-        {
-          "id": "e1d385b30c5a004c13d9bd521cebcf5efc30c983d218adba119a1eb1f64735a5",
-          "authorHandle": "eacanning.bsky.social",
-          "postText": "Troy Jackson Slams 'Failed Trillionaire Elon Musk' as Billionaires Dump Millions Into Maine US Senate Race www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-13T22:00:31.848Z",
-          "uri": "at://did:plc:hoxqjarxr4j5lppo6os2a6gl/app.bsky.feed.post/3msynemonm22d",
-          "sentiment": 1
-        },
-        {
-          "id": "5c1d3ebcf0b70f40e8634b99cd4d729c3d139111147745817bd2ad5e4a78c5c0",
-          "authorHandle": "jrtomlin.bsky.social",
-          "postText": "Troy Jackson Slams 'Failed Trillionaire Elon Musk' as Billionaires Dump Millions Into Maine US Senate Race www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-13T21:56:51.000Z",
-          "uri": "at://did:plc:xr6k4ic7dnyjabthigkp2z3h/app.bsky.feed.post/3msyn622vq22c",
           "sentiment": 1
         }
       ],
