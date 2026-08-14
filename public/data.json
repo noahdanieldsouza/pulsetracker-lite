@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T23:32:14.189Z",
+  "lastUpdated": "2026-08-14T23:55:39.269Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.13483888685388687,
+      "overallSentiment": -0.1281793070219541,
       "newsSentiment": -0.3226826923076923,
-      "socialSentiment": 0.1792771428571428,
+      "socialSentiment": 0.19925588235294112,
       "mentions": {
         "news": 104,
-        "social": 71,
+        "social": 69,
         "youtube": 18,
-        "total": 193
+        "total": 191
       },
       "news": [
         {
@@ -997,6 +997,14 @@
       ],
       "social": [
         {
+          "id": "59b0750c180f39bec155741ad56657c8a51b2b4a01200deadfb61e32fae0e71d",
+          "authorHandle": "vtboomer.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-14T23:48:29.636Z",
+          "uri": "at://did:plc:p6jenpfq2d2cn2kvb4lmpsgk/app.bsky.feed.post/3mt3dultrhs24",
+          "sentiment": 0
+        },
+        {
           "id": "125f082170e326816c05b745819ba10d7e64bc90f226953e0e14760d04316180",
           "authorHandle": "crooksandliars.bsky.social",
           "postText": "",
@@ -1539,30 +1547,6 @@
           "createdAt": "2026-08-14T00:01:37.153Z",
           "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3msyu55grkc2s",
           "sentiment": 1
-        },
-        {
-          "id": "17a24c4996957b99d02d7fe53d0e14411f1e67da262c600828bfa0e914f23c84",
-          "authorHandle": "1roscoe.bsky.social",
-          "postText": "Troy Jackson Slams 'Failed Trillionaire Elon Musk' as Billionaires Dump Millions Into Maine US Senate Race www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-13T23:54:37.301Z",
-          "uri": "at://did:plc:njysczus2xxh3hfxeoh7hsun/app.bsky.feed.post/3msytqmzbd22p",
-          "sentiment": -1
-        },
-        {
-          "id": "2a09c2b59ce93e01eda4468a8720b9a9ef155dd979d9fc658cc1a466eacab3e3",
-          "authorHandle": "chathamharrison.bsky.social",
-          "postText": "Between the ones who positioned themselves too far to the right & the ones who declined to run altogether because they didn't think it'd be a friendly cycle, tons of missed opportunities. We got really lucky with Troy Jackson but you can't rely on luck",
-          "createdAt": "2026-08-13T23:48:38.558Z",
-          "uri": "at://did:plc:hyszri36usuuawks7s5viu5p/app.bsky.feed.post/3msytfwvcec2x",
-          "sentiment": 1
-        },
-        {
-          "id": "ec0c429a6fb19bfdb1e1271a69e2d6086b09e48f2de7c3ffc8c7ccbcf4a63946",
-          "authorHandle": "minuteman04.bsky.social",
-          "postText": "The Susan Collins attack ads charge her opponent Troy Jackson with all kinds of nasty things, including mortgage fraud. The Bangor Daily News investigated and found one criminal charge against him, a simple assault when he was 19. He paid $50 in restitution. #Maine",
-          "createdAt": "2026-08-13T23:46:17.934Z",
-          "uri": "at://did:plc:35ikw24omeygjw4etf6cebcz/app.bsky.feed.post/3msytbqru6s2q",
-          "sentiment": -1
         }
       ],
       "youtube": [
