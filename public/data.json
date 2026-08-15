@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T14:25:11.836Z",
+  "lastUpdated": "2026-08-15T14:46:56.134Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.18833612379502787,
+      "overallSentiment": -0.1837237037037037,
       "newsSentiment": -0.285,
-      "socialSentiment": -0.018897260273972608,
+      "socialSentiment": -0.005060000000000006,
       "mentions": {
         "news": 20,
-        "social": 75,
+        "social": 77,
         "youtube": 18,
-        "total": 113
+        "total": 115
       },
       "news": [
         {
@@ -240,6 +240,30 @@
         }
       ],
       "social": [
+        {
+          "id": "b3d53fbbe7bf7283f3b7134219ae0b7bb17aeda503ab52c5bc382798b6dfb469",
+          "authorHandle": "iwantmycountry26.bsky.social",
+          "postText": "substack.com/@troyjackson....  Vote Troy Jackson MAINE US Senate.  ❤️🤍💙🇺🇸",
+          "createdAt": "2026-08-15T14:33:12.874Z",
+          "uri": "at://did:plc:u6wpahdxudi2unba3go2nbsv/app.bsky.feed.post/3mt4vclxn3c2a",
+          "sentiment": 1
+        },
+        {
+          "id": "a15081e2bb768bcd4dc9eb8430fb8de4aae72d1dde8c134a923ef47964094b2d",
+          "authorHandle": "focusamerica.it",
+          "postText": "In Maine il candidato democratico Troy Jackson è avanti nei sondaggi",
+          "createdAt": "2026-08-15T14:30:42.679Z",
+          "uri": "at://did:plc:duuff6utifrw3ttmyv37ayzg/app.bsky.feed.post/3mt4v64xoyr2m",
+          "sentiment": 0
+        },
+        {
+          "id": "f93ba8f4ed19fb081ae6e8c04b16a0adfb287e5d7eccdf282e3846a0823207a1",
+          "authorHandle": "index.focusamerica.it.ap.brid.gy",
+          "postText": "Nel sondaggio di Fox News il democratico Troy Jackson è avanti 48 a 46. Il 55% degli elettori teme che la senatrice voti troppo spesso con il presidente, il 43% che lo sfidante sia troppo a sinistra.",
+          "createdAt": "2026-08-15T14:30:33.000Z",
+          "uri": "at://did:plc:4vo5n46sq5gnxtcbavk5o5mu/app.bsky.feed.post/3mt4v5xpxo3e2",
+          "sentiment": 0
+        },
         {
           "id": "34253e5f9554da1bc0aaed073859a233d39a123af783d42441c0154275bfc029",
           "authorHandle": "american-citizen25.bsky.social",
@@ -830,14 +854,6 @@
           "postText": "www.commondreams.org/news/troy-ja...",
           "createdAt": "2026-08-14T14:55:34.573Z",
           "uri": "at://did:plc:hqp4sby2esq5iaz54ddid2gj/app.bsky.feed.post/3mt2g3o2cyc2n",
-          "sentiment": 0
-        },
-        {
-          "id": "c0a53198d2403aa97bd4fccfb57d4727417c73a8ce157cdbcc98ffd0db22b440",
-          "authorHandle": "nexivtac18.bsky.social",
-          "postText": "l.smartnews.com/p-8iE2C6OI/O...",
-          "createdAt": "2026-08-14T14:45:50.680Z",
-          "uri": "at://did:plc:4ukemvcskueceqf4zlaixb5h/app.bsky.feed.post/3mt2fkb7bys2a",
           "sentiment": 0
         }
       ],
