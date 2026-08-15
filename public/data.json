@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T15:32:06.814Z",
+  "lastUpdated": "2026-08-15T15:52:57.212Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.17531406406406402,
+      "overallSentiment": -0.1794037037037037,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.02016891891891892,
+      "socialSentiment": 0.007899999999999987,
       "mentions": {
         "news": 20,
-        "social": 77,
+        "social": 78,
         "youtube": 18,
-        "total": 115
+        "total": 116
       },
       "news": [
         {
@@ -240,6 +240,22 @@
         }
       ],
       "social": [
+        {
+          "id": "57e4a5550c32b2dc2c7e428d97eb1b277b7eb0824ba881970432622ee8367ea4",
+          "authorHandle": "crkrjx.bsky.social",
+          "postText": "Maine \nTroy Jackson just became the Democratic candidate less than three weeks ago and has the lead — up 48% to 46% in the Fox News poll released this week. That’s a 5-point shift toward Democrats since June.",
+          "createdAt": "2026-08-15T15:51:23.879Z",
+          "uri": "at://did:plc:gzbfstetnmajkcyjffsngduk/app.bsky.feed.post/3mt4zofnrms2u",
+          "sentiment": -0.1
+        },
+        {
+          "id": "e362995c668b52f7cb663c3cb567b342b10db8fac150dae9aadae2e894ccaa98",
+          "authorHandle": "demokick.bsky.social",
+          "postText": "Jasmine Crockett, Janet Mills, and Haley Stevens will all be vindicated after James Talarico, Abdul El-Sayed, and Troy Jackson all lose their elections this November.",
+          "createdAt": "2026-08-15T15:46:57.234Z",
+          "uri": "at://did:plc:cx6obvri7p32ytme6eqa6zfr/app.bsky.feed.post/3mt4zghef5c2h",
+          "sentiment": -0.8
+        },
         {
           "id": "fc5f1d0ede16b0ea32d7990d9ce881e5d08cf0ea0642b86072c9a06eb97bd783",
           "authorHandle": "jillpiggott.bsky.social",
@@ -847,14 +863,6 @@
           "createdAt": "2026-08-14T16:06:20.793Z",
           "uri": "at://did:plc:d6jgogtbueqtyuuo547iouhv/app.bsky.feed.post/3mt2k27kna22w",
           "sentiment": 0.8
-        },
-        {
-          "id": "7fb4af306bd1d778d409270e96545a5029dd5516dde2c24104b04adf674881ed",
-          "authorHandle": "funpotatomail.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-14T15:32:21.685Z",
-          "uri": "at://did:plc:x6lhillc32kh4l272hd4eib7/app.bsky.feed.post/3mt2i5gvzsc2v",
-          "sentiment": 0
         }
       ],
       "youtube": [
