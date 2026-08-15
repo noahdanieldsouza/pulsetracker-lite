@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T19:53:54.595Z",
+  "lastUpdated": "2026-08-15T20:16:13.348Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1786324537037037,
+      "overallSentiment": -0.17058541102077687,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.010213750000000008,
+      "socialSentiment": 0.03435487804878048,
       "mentions": {
         "news": 20,
-        "social": 82,
+        "social": 84,
         "youtube": 18,
-        "total": 120
+        "total": 122
       },
       "news": [
         {
@@ -240,6 +240,22 @@
         }
       ],
       "social": [
+        {
+          "id": "2576a2e4b13dd769c50c95156d008dbbbc9718ee5d895e556d9bcf885b5aa497",
+          "authorHandle": "sumoh7.bsky.social",
+          "postText": "Elon Musk thinks he can buy our elections. \n\nThat's why he's spending hundreds of millions of dollars to try to stop Troy Jackson. \n\nBe he's forgotten, that we, the people. have the true power.  #BlueWaveIn80Days",
+          "createdAt": "2026-08-15T20:13:32.234Z",
+          "uri": "at://did:plc:2nfexzpaqiyscshuda2gyqzf/app.bsky.feed.post/3mt5id5f2dc2j",
+          "sentiment": 1
+        },
+        {
+          "id": "e4c415fe46042948b9ebdc28e6a179d83c1f6d853a4359ff58200e920bbe0263",
+          "authorHandle": "startledsquirrel.bsky.social",
+          "postText": "I spent the day canvassing for Troy Jackson and Hannah Pingree. Check the Maine Dems site for one near you tomorrow. She only loses IF WE ORGANIZE!",
+          "createdAt": "2026-08-15T20:09:41.019Z",
+          "uri": "at://did:plc:h7vbeln6osknacosx4hv6htx/app.bsky.feed.post/3mt5i4auwgk2t",
+          "sentiment": 1
+        },
         {
           "id": "3bd4e6857f4b374b6a536001f9eea4ac27e1e74990f83dad06621ef675f0d84c",
           "authorHandle": "chistery1.bsky.social",
