@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T15:01:35.894Z",
+  "lastUpdated": "2026-08-15T15:32:06.814Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.18374649649649646,
+      "overallSentiment": -0.17531406406406402,
       "newsSentiment": -0.285,
-      "socialSentiment": -0.005128378378378385,
+      "socialSentiment": 0.02016891891891892,
       "mentions": {
         "news": 20,
-        "social": 76,
+        "social": 77,
         "youtube": 18,
-        "total": 114
+        "total": 115
       },
       "news": [
         {
@@ -241,6 +241,14 @@
       ],
       "social": [
         {
+          "id": "fc5f1d0ede16b0ea32d7990d9ce881e5d08cf0ea0642b86072c9a06eb97bd783",
+          "authorHandle": "jillpiggott.bsky.social",
+          "postText": "Non-Mainers: Please help us flip the Senate & retire Susan Collins. We are way behind in cash, but a few points ahead in every poll. Thanks to everyone who can help. www.jacksonformaine.com",
+          "createdAt": "2026-08-15T15:12:04.011Z",
+          "uri": "at://did:plc:qoewv4sal6ftjn3gwcrzyn4g/app.bsky.feed.post/3mt4xi34dz22s",
+          "sentiment": 0.872
+        },
+        {
           "id": "b3d53fbbe7bf7283f3b7134219ae0b7bb17aeda503ab52c5bc382798b6dfb469",
           "authorHandle": "iwantmycountry26.bsky.social",
           "postText": "substack.com/@troyjackson....  Vote Troy Jackson MAINE US Senate.  ❤️🤍💙🇺🇸",
@@ -263,6 +271,14 @@
           "createdAt": "2026-08-15T14:30:33.000Z",
           "uri": "at://did:plc:4vo5n46sq5gnxtcbavk5o5mu/app.bsky.feed.post/3mt4v5xpxo3e2",
           "sentiment": 0
+        },
+        {
+          "id": "b98fea770d3e5d4f8dffde2fe791b0883938f67f0a0e2fd02334bb9308800172",
+          "authorHandle": "focusamerica.it.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-08-15T14:30:33.000Z",
+          "uri": "at://did:plc:4bgzk3dw3aorzqxmiiisckaz/app.bsky.feed.post/3mt4yhloj72e2",
+          "sentiment": null
         },
         {
           "id": "34253e5f9554da1bc0aaed073859a233d39a123af783d42441c0154275bfc029",
@@ -839,14 +855,6 @@
           "createdAt": "2026-08-14T15:32:21.685Z",
           "uri": "at://did:plc:x6lhillc32kh4l272hd4eib7/app.bsky.feed.post/3mt2i5gvzsc2v",
           "sentiment": 0
-        },
-        {
-          "id": "fdc827f74da15c9613e8b3b3b1b0a07c2de4b5a20e9b9fc31b2b6cbf808509ff",
-          "authorHandle": "bsfavourite.bsky.social",
-          "postText": "Police Report: Maine Democrat Troy Jackson Punched Man, Allegedly Pushed Partner Who Is His Second Cousin",
-          "createdAt": "2026-08-14T15:18:51Z",
-          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mt2hfcoxyz2a",
-          "sentiment": -1
         }
       ],
       "youtube": [
