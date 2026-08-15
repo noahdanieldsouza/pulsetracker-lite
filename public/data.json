@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T17:02:17.742Z",
+  "lastUpdated": "2026-08-15T17:31:17.965Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1796550194931774,
+      "overallSentiment": -0.17968595478595475,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.007146052631578935,
+      "socialSentiment": 0.007053246753246741,
       "mentions": {
         "news": 20,
-        "social": 78,
+        "social": 79,
         "youtube": 18,
-        "total": 116
+        "total": 117
       },
       "news": [
         {
@@ -240,6 +240,14 @@
         }
       ],
       "social": [
+        {
+          "id": "4a3d6d8373afc7c4d48cde2725206edcde4036d3876c0266ca3799f9a640374b",
+          "authorHandle": "warpfactor10.bsky.social",
+          "postText": "vote blue, maine\n\nwww.jacksonformaine.com",
+          "createdAt": "2026-08-15T17:21:37.413Z",
+          "uri": "at://did:plc:h53qow4nx4y2ckrl6lm72amu/app.bsky.feed.post/3mt56pqfox225",
+          "sentiment": 0
+        },
         {
           "id": "36015864426b3c19f569e5b098103ac8b7d42a4f265ff7c8fc0ad95c1b0b08c6",
           "authorHandle": "jpylko.bsky.social",
