@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T17:31:17.965Z",
+  "lastUpdated": "2026-08-15T17:53:28.831Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.17968595478595475,
+      "overallSentiment": -0.17073437037037034,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.007053246753246741,
+      "socialSentiment": 0.03390799999999999,
       "mentions": {
         "news": 20,
-        "social": 79,
+        "social": 77,
         "youtube": 18,
-        "total": 117
+        "total": 115
       },
       "news": [
         {
@@ -855,22 +855,6 @@
           "createdAt": "2026-08-14T18:06:47.893Z",
           "uri": "at://did:plc:7fo4kehjjc7fbnan4dkyqrty/app.bsky.feed.post/3mt2qrlujtk2s",
           "sentiment": 0
-        },
-        {
-          "id": "a0fffe47afeee1a1f8b42c5d0ed75ffc853b0febacd8a261be9467654215d9ca",
-          "authorHandle": "meganahn.bsky.social",
-          "postText": "I guess she was “concerned” about her stock portfolio more than she was concerned about a lot of other things  \nsubstack.com/@troyjackson...",
-          "createdAt": "2026-08-14T17:52:25.713Z",
-          "uri": "at://did:plc:yrez4mfnoy26e3os7rdy5ra5/app.bsky.feed.post/3mt2pxvmqcc2u",
-          "sentiment": -1
-        },
-        {
-          "id": "64d0c85b1d826c9e7a5852aade059b7341fa4ffeaa9db0261d75c346b95c6138",
-          "authorHandle": "holdmybooks.bsky.social",
-          "postText": "Remember there were certain people pushing for Jackson after Platner dropped.\n\nAnd all of you should be banned from politics.",
-          "createdAt": "2026-08-14T17:41:59.956Z",
-          "uri": "at://did:plc:mnmzpxebkmcg6rjchfgitc6c/app.bsky.feed.post/3mt2pfatyls2e",
-          "sentiment": -1
         }
       ],
       "youtube": [
