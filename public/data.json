@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T07:25:49.628Z",
+  "lastUpdated": "2026-08-15T07:51:38.642Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,9 +48,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14092440506116977,
+      "overallSentiment": -0.1453361697670521,
       "newsSentiment": -0.3226826923076923,
-      "socialSentiment": 0.16102058823529408,
+      "socialSentiment": 0.14778529411764704,
       "mentions": {
         "news": 104,
         "social": 69,
@@ -997,6 +997,14 @@
       ],
       "social": [
         {
+          "id": "230444644cc3b7495b0bcdbd5ba0b828b397fd2ee758d97c3880399c29146ec6",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN TO FUND OUR NEW TV AD\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-15T07:47:32.900Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mt46n7kl7s2e",
+          "sentiment": -0.2
+        },
+        {
           "id": "d7c68885fafa29611f8cb89b499b74069950dd4791e83d9f8e060437ced43f2c",
           "authorHandle": "nypost.com",
           "postText": "Susan Collins drops brutal reminder of Maine Dem rival rocked by assault accusations",
@@ -1539,14 +1547,6 @@
           "createdAt": "2026-08-14T07:58:41.630Z",
           "uri": "at://did:plc:4xtbdet5keuguykxvcuil4z7/app.bsky.feed.post/3mszos7tutk2n",
           "sentiment": 0
-        },
-        {
-          "id": "68d2c13400a43f5b7f9f8cf397abfedf9d276d85d0e5759c75456ea817628a58",
-          "authorHandle": "jimswanson.bsky.social",
-          "postText": "‘I Gotta Go’: Hannity Ends Interview After De Blasio Rebuts Attack on Democratic Candidate\n\nHannity moved to end his interview with former NYC Mayor Bill de Blasio after he rejected the host’s attack on Maine Democratic Senate candidate Troy Jackson, interrupting, “I gotta go.”\n\ntinyurl.com/bOgMf2",
-          "createdAt": "2026-08-14T07:32:15.943Z",
-          "uri": "at://did:plc:aqkhgtacyqtfdeonzytkmonx/app.bsky.feed.post/3mszncxmkes2w",
-          "sentiment": 0.7
         }
       ],
       "youtube": [
