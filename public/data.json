@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T15:52:57.212Z",
+  "lastUpdated": "2026-08-15T16:17:44.061Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1794037037037037,
+      "overallSentiment": -0.18297172172172171,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.007899999999999987,
+      "socialSentiment": -0.002804054054054068,
       "mentions": {
         "news": 20,
-        "social": 78,
+        "social": 76,
         "youtube": 18,
-        "total": 116
+        "total": 114
       },
       "news": [
         {
@@ -847,22 +847,6 @@
           "createdAt": "2026-08-14T16:26:02.210Z",
           "uri": "at://did:plc:m5rp3imz6rydf5ev4qmkmlaw/app.bsky.feed.post/3mt2l5ghsr422",
           "sentiment": -0.7506
-        },
-        {
-          "id": "b3d76feab748b1072750c83405dec6fe16f0063ea8cee86c0e935bd9794bd694",
-          "authorHandle": "foxnews.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-08-14T16:06:38.000Z",
-          "uri": "at://did:plc:6pwit4ctv4egvys3qyqmgbi6/app.bsky.feed.post/3mt2kiffbotr2",
-          "sentiment": null
-        },
-        {
-          "id": "59dad2450e6d4efb763e4137dcb342b8526f4bca6e2174d1b1c8bf6319f45007",
-          "authorHandle": "reanderthal.bsky.social",
-          "postText": "I did not rank Platner first or second, and I was very relieved when he dropped out and by the overwhelming selection of my second-favorite replacement candidate, Troy Jackson.\n\nBut the point still stands that Mills lost and lost badly.",
-          "createdAt": "2026-08-14T16:06:20.793Z",
-          "uri": "at://did:plc:d6jgogtbueqtyuuo547iouhv/app.bsky.feed.post/3mt2k27kna22w",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
