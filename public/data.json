@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T22:41:12.912Z",
+  "lastUpdated": "2026-08-15T23:00:45.511Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14166068044788974,
+      "overallSentiment": -0.15224948683623382,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.12112906976744185,
+      "socialSentiment": 0.08936265060240964,
       "mentions": {
         "news": 20,
-        "social": 89,
+        "social": 86,
         "youtube": 18,
-        "total": 127
+        "total": 124
       },
       "news": [
         {
@@ -231,6 +231,14 @@
         }
       ],
       "social": [
+        {
+          "id": "965326072bdebbb0b67fb360cb8d65657a4e93fcccb0038d509d973e18249485",
+          "authorHandle": "rnbsnmba.bsky.social",
+          "postText": "www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-15T22:43:37.608Z",
+          "uri": "at://did:plc:lfgisxjtgg5pwhaic7hmmoxf/app.bsky.feed.post/3mt5qpjlknc2f",
+          "sentiment": 0
+        },
         {
           "id": "803554d5ec60b43eab823b95965eb009bbf6e1bf678b016924b759d57f8400da",
           "authorHandle": "justthenews77.bsky.social",
@@ -721,7 +729,7 @@
         },
         {
           "id": "0ada4849a7d566a26ec16a749054998cf34ec48b6d64a7601de214d0ddf253b9",
-          "authorHandle": "some-news.bsky.social",
+          "authorHandle": "handle.invalid",
           "postText": "Democratic U.S. Senate nominee Troy Jackson and Republican Sen. Susan Collins are sharpening their contrasts on the campaign trail across Maine.",
           "createdAt": "2026-08-15T03:45:44.723535+00:00",
           "uri": "at://did:plc:dtg2oeh4jj3lmbcxyxl6nm34/app.bsky.feed.post/3mt3r4tl3s62z",
@@ -825,7 +833,7 @@
         },
         {
           "id": "511d025403e4a482b9334b598ee7777bf499eb2b3bbc820856a7c06f47430d72",
-          "authorHandle": "some-news.bsky.social",
+          "authorHandle": "handle.invalid",
           "postText": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women.",
           "createdAt": "2026-08-15T01:04:23.827782+00:00",
           "uri": "at://did:plc:dtg2oeh4jj3lmbcxyxl6nm34/app.bsky.feed.post/3mt3i4d5f242k",
@@ -910,38 +918,6 @@
           "createdAt": "2026-08-14T23:06:34.675Z",
           "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mt3bjpkrdt2c",
           "sentiment": -1
-        },
-        {
-          "id": "f0bfa40328db6a0eacba6f8b967c3ec693027d51262ab84b4a8f8e5ea1aa48f6",
-          "authorHandle": "b693.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-14T23:00:40.654Z",
-          "uri": "at://did:plc:zftktmqebrts4wd4rpojasfn/app.bsky.feed.post/3mt3b73rg7k2z",
-          "sentiment": 0
-        },
-        {
-          "id": "8b1b884b4d097f6788b577b13501b963051f109721aadd61b5e906d2cf6fad98",
-          "authorHandle": "sylviaannechols.bsky.social",
-          "postText": "Elon Musk Is TERRIFIED Of Democrat Troy Jackson\n\nyoutu.be/pbi00RQrfTA?...",
-          "createdAt": "2026-08-14T22:53:41.475Z",
-          "uri": "at://did:plc:usn2kuyv7tzkuj7dp4rbktey/app.bsky.feed.post/3mt3aslz4p22u",
-          "sentiment": 1
-        },
-        {
-          "id": "545cb729415b43bb749a43b43af1495d9581286d6c431b0994c18d027f9a5149",
-          "authorHandle": "mlamb.bsky.social",
-          "postText": "Senator Troy Jackson sounds good. Make it happen Maine.",
-          "createdAt": "2026-08-14T22:49:29.132Z",
-          "uri": "at://did:plc:plyuhhsw5a3ukmeqo2dkjxb2/app.bsky.feed.post/3mt3al3ecw22k",
-          "sentiment": 1
-        },
-        {
-          "id": "e5033699c99ede8d5d2dbe650bde2e420fa10d16fa76bd3559dbcb7f453f69ef",
-          "authorHandle": "cottonjenny.bsky.social",
-          "postText": "Elon Musk Is TERRIFIED Of Troy Jackson - YouTube www.youtube.com/watch?v=pbi0...",
-          "createdAt": "2026-08-14T22:46:48.456Z",
-          "uri": "at://did:plc:57sjh5fdtvvupcpl32lxnapx/app.bsky.feed.post/3mt3agc4qu22f",
-          "sentiment": 1
         }
       ],
       "youtube": [
