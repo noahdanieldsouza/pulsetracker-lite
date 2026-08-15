@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T19:18:15.763Z",
+  "lastUpdated": "2026-08-15T19:39:17.856Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1731924482924483,
+      "overallSentiment": -0.17416745370370368,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.026533766233766232,
+      "socialSentiment": 0.023608750000000005,
       "mentions": {
         "news": 20,
-        "social": 79,
+        "social": 82,
         "youtube": 18,
-        "total": 117
+        "total": 120
       },
       "news": [
         {
@@ -240,6 +240,30 @@
         }
       ],
       "social": [
+        {
+          "id": "ebffe24ec0fdf8cf6b25c8ced34c2172fb52a517055e1f6f9ee97f2731784d79",
+          "authorHandle": "theupsidedem.bsky.social",
+          "postText": "Elon Musk thinks he can buy our elections. \n\nThat's why he's spending hundreds of millions of dollars to try to stop Troy Jackson. \n\nBe he's forgotten, that we, the people. have the true power.  #BlueWaveIn80Days",
+          "createdAt": "2026-08-15T19:34:52.570Z",
+          "uri": "at://did:plc:3vbyeh5pstubaueurrk4ajlf/app.bsky.feed.post/3mt5g5z6kgk2z",
+          "sentiment": -0.0772
+        },
+        {
+          "id": "4750d3c97e96db89353b6062ecfa9961459b0611eb8c0286c75c1ee55918c0bc",
+          "authorHandle": "howsthepriceofeggs.bsky.social",
+          "postText": "Elon Musk thinks he can buy our elections. \n\nThat's why he's spending hundreds of millions of dollars to try to stop Troy Jackson. \n\nBut he's forgotten, that we, the people. have the true power.  #BlueWaveIn80Days\n#Fu€kMusk",
+          "createdAt": "2026-08-15T19:34:20.983Z",
+          "uri": "at://did:plc:evomncwgtl6oopbz3szkp52l/app.bsky.feed.post/3mt5g532lqs2w",
+          "sentiment": -0.0772
+        },
+        {
+          "id": "7a3f698166b6ef0a20b994d5b80801ef5fae0c17ab2ff314c430df558a387772",
+          "authorHandle": "genuinefacts.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-15T19:32:43.565Z",
+          "uri": "at://did:plc:mlagmvu3s742qtdgsi5qzmev/app.bsky.feed.post/3mt5g265nxk24",
+          "sentiment": 0
+        },
         {
           "id": "d2114015ec9c3e6e13cb37a164594c75272c87185a51f4507d6cc9a2785993df",
           "authorHandle": "dewforpolitics.bsky.social",
