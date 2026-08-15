@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T13:40:09.605Z",
+  "lastUpdated": "2026-08-15T13:58:09.847Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,9 +48,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.17442905581637977,
+      "overallSentiment": -0.17912389149713093,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.022823943661971834,
+      "socialSentiment": 0.008739436619718313,
       "mentions": {
         "news": 20,
         "social": 73,
@@ -240,6 +240,14 @@
         }
       ],
       "social": [
+        {
+          "id": "a9225266264687662e4b3883a8de1c01afc27a30efdb187e0e037609eee75e6b",
+          "authorHandle": "rood1girl.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-15T13:51:09.684Z",
+          "uri": "at://did:plc:c2ltrhqocybkqstoqjzk2mvw/app.bsky.feed.post/3mt4sxfnyds27",
+          "sentiment": 0
+        },
         {
           "id": "e0684fc1109c04dc5171f67544b2585b5fc3694244340aabe735b88d0e520f7d",
           "authorHandle": "worldnewsguru.bsky.social",
@@ -815,14 +823,6 @@
           "createdAt": "2026-08-14T14:45:50.680Z",
           "uri": "at://did:plc:4ukemvcskueceqf4zlaixb5h/app.bsky.feed.post/3mt2fkb7bys2a",
           "sentiment": 0
-        },
-        {
-          "id": "3bcbad1aa37e71541b8fe0f311912a7683ca56f61fd80e8e15d25a509ac9dc8a",
-          "authorHandle": "voteinthemidterms.bsky.social",
-          "postText": "SUPPORT\n\nTROY \nJACKSON",
-          "createdAt": "2026-08-14T13:41:21.700Z",
-          "uri": "at://did:plc:67goi6ijk4cila6ok4esjan5/app.bsky.feed.post/3mt2bwxhg722i",
-          "sentiment": 1
         }
       ],
       "youtube": [
