@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T13:58:09.847Z",
+  "lastUpdated": "2026-08-15T14:25:11.836Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.17912389149713093,
+      "overallSentiment": -0.18833612379502787,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.008739436619718313,
+      "socialSentiment": -0.018897260273972608,
       "mentions": {
         "news": 20,
-        "social": 73,
+        "social": 75,
         "youtube": 18,
-        "total": 111
+        "total": 113
       },
       "news": [
         {
@@ -240,6 +240,22 @@
         }
       ],
       "social": [
+        {
+          "id": "34253e5f9554da1bc0aaed073859a233d39a123af783d42441c0154275bfc029",
+          "authorHandle": "american-citizen25.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-15T14:16:52.199Z",
+          "uri": "at://did:plc:oht6t5nhc45clguizdkalf5q/app.bsky.feed.post/3mt4ufepum22b",
+          "sentiment": -1
+        },
+        {
+          "id": "56a8cca159835669a938a7e0ef7b51589c002807874865531fee9129278e5db5",
+          "authorHandle": "gaylekate.bsky.social",
+          "postText": "Susan Collins criticized Dem nominee Troy Jackson after 1988 police report resurfaced accusing him of assaulting man & pushing partner n Fort Kent, Maine\n\nBOY OH BOY THIS IS SOME DESPERATION: YOUR BOY HAS SA'D DOZENS, MAYBE 100S OF WOMEN. \n\n1988? THAT ALL YA GOT?\n\nground.news/article/susa...",
+          "createdAt": "2026-08-15T14:00:38.379Z",
+          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mt4tidz6kk2i",
+          "sentiment": -1
+        },
         {
           "id": "a9225266264687662e4b3883a8de1c01afc27a30efdb187e0e037609eee75e6b",
           "authorHandle": "rood1girl.bsky.social",
