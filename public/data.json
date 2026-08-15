@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T03:50:22.948Z",
+  "lastUpdated": "2026-08-15T04:24:01.333Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14094770616243218,
+      "overallSentiment": -0.13716820474320474,
       "newsSentiment": -0.3226826923076923,
-      "socialSentiment": 0.16095068493150683,
+      "socialSentiment": 0.17228918918918917,
       "mentions": {
         "news": 104,
-        "social": 74,
+        "social": 75,
         "youtube": 18,
-        "total": 196
+        "total": 197
       },
       "news": [
         {
@@ -996,6 +996,14 @@
         }
       ],
       "social": [
+        {
+          "id": "8e3ecf2d8399920502529f541b8fdddedf02a1a810b972775e0228d43ab9496c",
+          "authorHandle": "proudsocialistd.bsky.social",
+          "postText": "I really hope Troy Jackson kicks her ass in the polls.",
+          "createdAt": "2026-08-15T04:03:59.290Z",
+          "uri": "at://did:plc:vjj57wykm4z3bdjiq6ogoufp/app.bsky.feed.post/3mt3s5hdopc2b",
+          "sentiment": 1
+        },
         {
           "id": "0ada4849a7d566a26ec16a749054998cf34ec48b6d64a7601de214d0ddf253b9",
           "authorHandle": "some-news.bsky.social",
