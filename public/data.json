@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T19:39:17.856Z",
+  "lastUpdated": "2026-08-15T19:53:54.595Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,9 +48,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.17416745370370368,
+      "overallSentiment": -0.1786324537037037,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.023608750000000005,
+      "socialSentiment": 0.010213750000000008,
       "mentions": {
         "news": 20,
         "social": 82,
@@ -240,6 +240,14 @@
         }
       ],
       "social": [
+        {
+          "id": "3bd4e6857f4b374b6a536001f9eea4ac27e1e74990f83dad06621ef675f0d84c",
+          "authorHandle": "chistery1.bsky.social",
+          "postText": "i know. At intersection of inertia, entitled & lazy\nIt’s so hard to find. Especially the invitation to contact Mr. Troy Jackson on the page below \nwww.jacksonformaine.com/priorities",
+          "createdAt": "2026-08-15T19:42:55.307Z",
+          "uri": "at://did:plc:s44oq6r4ki4ymxbwue2mqqh2/app.bsky.feed.post/3mt5gmfko622i",
+          "sentiment": -0.2716
+        },
         {
           "id": "ebffe24ec0fdf8cf6b25c8ced34c2172fb52a517055e1f6f9ee97f2731784d79",
           "authorHandle": "theupsidedem.bsky.social",
@@ -887,14 +895,6 @@
           "createdAt": "2026-08-14T20:43:24.139Z",
           "uri": "at://did:plc:dgtobzn7c2qiye22witgushu/app.bsky.feed.post/3mt2zjmt6ds2u",
           "sentiment": 1
-        },
-        {
-          "id": "a475340109c6bbe06ddf2016a59323a7f761c1e83bc5919ea5ba5b15cb9dfc7f",
-          "authorHandle": "scottcuddy.bsky.social",
-          "postText": "Oh heaven forbid! He punched a man when he was 19 years old?! Almost FORTY YEARS AGO!?\n\nWhat this tells me is that the GOP has no way to beat his policies, record, or ethics. This is the lamest attack I've ever seen.\n\nshare.google/X4KNIewbb5zD...",
-          "createdAt": "2026-08-14T19:47:05.266Z",
-          "uri": "at://did:plc:y3vcp36iw4pn6vmvdqsbebu4/app.bsky.feed.post/3mt2wewhuvc2r",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
