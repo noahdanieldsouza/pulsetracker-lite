@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T21:01:30.185Z",
+  "lastUpdated": "2026-08-15T21:31:10.228Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1556774074074074,
+      "overallSentiment": -0.15230407000406998,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.07907888888888889,
+      "socialSentiment": 0.08919890109890109,
       "mentions": {
         "news": 20,
-        "social": 92,
+        "social": 93,
         "youtube": 18,
-        "total": 130
+        "total": 131
       },
       "news": [
         {
@@ -240,6 +240,22 @@
         }
       ],
       "social": [
+        {
+          "id": "0abc9bbeaa1980f99b058b9e2734ab8d379048be51000f281cb41e8cc324d07d",
+          "authorHandle": "thilde1.bsky.social",
+          "postText": "Vote for Troy Jackson ...",
+          "createdAt": "2026-08-15T21:26:39.702Z",
+          "uri": "at://did:plc:4i5bcax22aaqcjpxwvoupvfz/app.bsky.feed.post/3mt5mfvmnj225",
+          "sentiment": 1
+        },
+        {
+          "id": "39f50197eae8cfa412f5991427e8022727fe90117fbcb3448fe184e0b577ab90",
+          "authorHandle": "jamesxmyall.bsky.social",
+          "postText": "Troy Jackson has a plan to keep Social Security benefits whole after 2032. Susan Collins doesn't #mepolitics",
+          "createdAt": "2026-08-15T21:08:42.578Z",
+          "uri": "at://did:plc:tkej25vxsow55o6s4v42lhyd/app.bsky.feed.post/3mt5lfser4k2m",
+          "sentiment": 1
+        },
         {
           "id": "db66710b21fd341ed749384c8b7a7fe01febc60f540eca5f1aa189a52d101eb7",
           "authorHandle": "rozkl.bsky.social",
@@ -967,14 +983,6 @@
           "createdAt": "2026-08-14T21:35:02.592Z",
           "uri": "at://did:plc:iudave7o5abb2nxlo4ambbp7/app.bsky.feed.post/3mt34fyhfq22y",
           "sentiment": 0
-        },
-        {
-          "id": "859b1caaef322ac80accfdbb0d1735d327f7484969c9939e814a3854612e622d",
-          "authorHandle": "hancockcountydems.bsky.social",
-          "postText": "2/3\nThe Maine Democratic Party’s Coordinated Campaign is 𝗵𝗶𝗿𝗶𝗻𝗴 𝗙𝗶𝗲𝗹𝗱 𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿𝘀 to build relationships in communities across the state, organize volunteers, talk directly with voters, and help elect Troy Jackson, Hannah Pingree, and Democrats up and down the ballot.",
-          "createdAt": "2026-08-14T21:02:38.204Z",
-          "uri": "at://did:plc:7expgbr42k6s436jjvpmr7al/app.bsky.feed.post/3mt32lzgjus2r",
-          "sentiment": 1
         }
       ],
       "youtube": [
