@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T12:30:03.707Z",
+  "lastUpdated": "2026-08-15T13:07:55.084Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14860879629629628,
+      "overallSentiment": -0.15819913749365802,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.10028472222222223,
+      "socialSentiment": 0.07151369863013698,
       "mentions": {
         "news": 20,
-        "social": 74,
+        "social": 75,
         "youtube": 18,
-        "total": 112
+        "total": 113
       },
       "news": [
         {
@@ -240,6 +240,22 @@
         }
       ],
       "social": [
+        {
+          "id": "5bb55674cd836f28d35bde86c73c6e609149d17ca007b7c0587a596736903c8c",
+          "authorHandle": "smulford.bsky.social",
+          "postText": "ground.news/article/susa...",
+          "createdAt": "2026-08-15T12:44:28.536Z",
+          "uri": "at://did:plc:fhzgmucj7jmlmtubiyczdv6h/app.bsky.feed.post/3mt4pa5unas23",
+          "sentiment": -1
+        },
+        {
+          "id": "2996f78a275f08f505d41902628b3cc7726814717869045b2c6265c23daa37ad",
+          "authorHandle": "bsfavourite.bsky.social",
+          "postText": "GP: NEW ALLEGATION ROCKS MAINE SENATE RACE: Local Man Says He Saw Far-Left Democrat Troy Jackson Slap Longtime Partner with Open Hand — Comes After 1988 Police Report of Jackson Punching a Man #MainePolitics",
+          "createdAt": "2026-08-15T12:40:01Z",
+          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mt4oy7fel32u",
+          "sentiment": -1
+        },
         {
           "id": "d5228d5d5889354c089bd8e4ec196b53f17348eea4127fbf040826f4d2a6f96d",
           "authorHandle": "free-parking.bsky.social",
@@ -823,14 +839,6 @@
           "createdAt": "2026-08-14T13:21:44.055Z",
           "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3mt2atuela22s",
           "sentiment": 1
-        },
-        {
-          "id": "208f1eb9253c70e333f24a13bf05f1d67e93fd72e53531241cf5202c7f4bb0da",
-          "authorHandle": "cdl6229.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-14T12:38:02.731Z",
-          "uri": "at://did:plc:2vpfx7upbzftyzywtsx4pfwh/app.bsky.feed.post/3mt26fqi2kk2i",
-          "sentiment": 0
         }
       ],
       "youtube": [
