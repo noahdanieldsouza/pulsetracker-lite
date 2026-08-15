@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T21:31:10.228Z",
+  "lastUpdated": "2026-08-15T21:52:49.216Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,35 +22,26 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.8,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": 0.8,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "a11d23806dc832675d02ebb3023c95d11fe8189558445701ac53fe72bd12730e",
-          "authorHandle": "indivmidmaine.bsky.social",
-          "postText": "www.mobilize.us/indivisiblem...\n\nIf you are in the Waterville area on Sept. 19, please consider joining us for our Indivisible Mid Maine membership meeting, where our wonderful Maine Secretary of State, Shenna Bellows, will be our Very Special guest speaker! ❤️",
-          "createdAt": "2026-08-14T21:42:20.755Z",
-          "uri": "at://did:plc:rokdgpbsyht6ariljokb6hhh/app.bsky.feed.post/3mt34szlu4k2s",
-          "sentiment": 0.8
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.15230407000406998,
+      "overallSentiment": -0.14571066341066338,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.08919890109890109,
+      "socialSentiment": 0.10897912087912087,
       "mentions": {
         "news": 20,
         "social": 93,
@@ -240,6 +231,22 @@
         }
       ],
       "social": [
+        {
+          "id": "5e0efc8e68102bf7cc15351d42dcbeccab14aeebd9402b6fd7eaca80bfc7a6de",
+          "authorHandle": "craigcrawford.com",
+          "postText": "BILLIONAIRE PLAY ACTING: www.youtube.com/watch?v=CM68...\n\nVivek Ramaswamy parades some guy as his lifelong barber for a slick ad. They've clearly had no contact for years.",
+          "createdAt": "2026-08-15T21:49:53.007Z",
+          "uri": "at://did:plc:qhrqvrpra6bvbsnpqoyenuej/app.bsky.feed.post/3mt5npgppqo2f",
+          "sentiment": -0.1
+        },
+        {
+          "id": "b51e6860803e912728f2d86c59447dc1f9711864ee58831cda4e023975d8bebc",
+          "authorHandle": "concerned2.bsky.social",
+          "postText": "VOTE for Troy Jackson \n💪🔵💪",
+          "createdAt": "2026-08-15T21:45:30.826Z",
+          "uri": "at://did:plc:ljftynwi6mxf36zergsw5k4y/app.bsky.feed.post/3mt5nhmd5ck2c",
+          "sentiment": 0.9
+        },
         {
           "id": "0abc9bbeaa1980f99b058b9e2734ab8d379048be51000f281cb41e8cc324d07d",
           "authorHandle": "thilde1.bsky.social",
@@ -966,22 +973,6 @@
           "postText": "The more Dems can make this a battle between Generic Democrat vs. Generic Republican, instead of Susan Collins vs. Troy Jackson, the better.",
           "createdAt": "2026-08-14T22:08:03.959Z",
           "uri": "at://did:plc:masprvtuheldxavmdqemhuoi/app.bsky.feed.post/3mt36azcpbk2t",
-          "sentiment": 0
-        },
-        {
-          "id": "81c1623fbb20cea39da5a5d72c81dc832508f680b5eb9e5eb1677252d969c173",
-          "authorHandle": "andromeda8.bsky.social",
-          "postText": "Here are the favorables of the Democratic Senate candidates.\n\nIt's for \"All Voters\" - not just registered or likely voters. \n\nOh boy - look at Troy Jackson and El-Sayed. Especially El-Sayed. You can't win a general election with those unfavorables that also includes independents.",
-          "createdAt": "2026-08-14T21:43:36.212Z",
-          "uri": "at://did:plc:ekrgqjcvdx6pewrx6am6am67/app.bsky.feed.post/3mt34vbkqis22",
-          "sentiment": -1
-        },
-        {
-          "id": "09afe0d07951e3cbddf483337cddd36943d1ce926e4824663b6a06cf8f64542d",
-          "authorHandle": "sethmoulton.bsky.social",
-          "postText": "Chip in directly to these four critical campaigns today:\n* Jon Ossoff (GA): secure.actblue.com/donate/ms_hp... \n* Troy Jackson (ME): secure.actblue.com/donate/loc_t... \n* James Talarico (TX): secure.actblue.com/donate/jt-tx... \n* Roy Cooper (NC): secure.actblue.com/donate/cvf_web",
-          "createdAt": "2026-08-14T21:35:02.592Z",
-          "uri": "at://did:plc:iudave7o5abb2nxlo4ambbp7/app.bsky.feed.post/3mt34fyhfq22y",
           "sentiment": 0
         }
       ],
