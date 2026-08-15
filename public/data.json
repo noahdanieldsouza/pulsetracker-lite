@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T06:54:30.300Z",
+  "lastUpdated": "2026-08-15T07:25:49.628Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1361432081047753,
+      "overallSentiment": -0.14092440506116977,
       "newsSentiment": -0.3226826923076923,
-      "socialSentiment": 0.17536417910447757,
+      "socialSentiment": 0.16102058823529408,
       "mentions": {
         "news": 104,
-        "social": 68,
+        "social": 69,
         "youtube": 18,
-        "total": 190
+        "total": 191
       },
       "news": [
         {
@@ -996,6 +996,14 @@
         }
       ],
       "social": [
+        {
+          "id": "d7c68885fafa29611f8cb89b499b74069950dd4791e83d9f8e060437ced43f2c",
+          "authorHandle": "nypost.com",
+          "postText": "Susan Collins drops brutal reminder of Maine Dem rival rocked by assault accusations",
+          "createdAt": "2026-08-15T07:01:24.530941Z",
+          "uri": "at://did:plc:ck7aajho5ziqo6lrs64rm4oc/app.bsky.feed.post/3mt442pidqu2b",
+          "sentiment": -0.8
+        },
         {
           "id": "8e3ecf2d8399920502529f541b8fdddedf02a1a810b972775e0228d43ab9496c",
           "authorHandle": "proudsocialistd.bsky.social",
