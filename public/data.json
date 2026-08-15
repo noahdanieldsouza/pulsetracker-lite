@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T13:07:55.084Z",
+  "lastUpdated": "2026-08-15T13:40:09.605Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.15819913749365802,
+      "overallSentiment": -0.17442905581637977,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.07151369863013698,
+      "socialSentiment": 0.022823943661971834,
       "mentions": {
         "news": 20,
-        "social": 75,
+        "social": 73,
         "youtube": 18,
-        "total": 113
+        "total": 111
       },
       "news": [
         {
@@ -240,6 +240,14 @@
         }
       ],
       "social": [
+        {
+          "id": "e0684fc1109c04dc5171f67544b2585b5fc3694244340aabe735b88d0e520f7d",
+          "authorHandle": "worldnewsguru.bsky.social",
+          "postText": "Top Dem operative brushes off latest scandal plaguing Maine Senate candidate as 'salacious gossip'",
+          "createdAt": "2026-08-15T13:15:01.750Z",
+          "uri": "at://did:plc:sk44rhbmaca3ltsa4c6v6da2/app.bsky.feed.post/3mt4qwtck622q",
+          "sentiment": -0.6
+        },
         {
           "id": "5bb55674cd836f28d35bde86c73c6e609149d17ca007b7c0587a596736903c8c",
           "authorHandle": "smulford.bsky.social",
@@ -814,30 +822,6 @@
           "postText": "SUPPORT\n\nTROY \nJACKSON",
           "createdAt": "2026-08-14T13:41:21.700Z",
           "uri": "at://did:plc:67goi6ijk4cila6ok4esjan5/app.bsky.feed.post/3mt2bwxhg722i",
-          "sentiment": 1
-        },
-        {
-          "id": "e5d8d7c52489caca63dee2194e6a2acfcc0fa9370b0b507c15afba98a8969e50",
-          "authorHandle": "celiebug.bsky.social",
-          "postText": "youtube.com/watch?v=4qxM...\nVote Troy Jackson. He is for the people not for the party. Stand strong, stay smart, stay safe, and let's most of all stay united.￼",
-          "createdAt": "2026-08-14T13:36:41.258Z",
-          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3mt2bolyzzs2s",
-          "sentiment": 1
-        },
-        {
-          "id": "1595ec37d5b881520a7784b68c5833c9105b2abcc4d66365dc2b6a5971aa7a32",
-          "authorHandle": "celiebug.bsky.social",
-          "postText": "Vote Troy Jackson.He is for the people.He has always been for the people.He worked with Graham Platner until he understood the issue.Troy Jackson has many of the same ideals as we the people. He will take a different route than Mrs. Collins. Mr.Troy Jackson-vote blue-smart,safe,United w the People.",
-          "createdAt": "2026-08-14T13:31:33.699Z",
-          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3mt2bfgpcbs2s",
-          "sentiment": 1
-        },
-        {
-          "id": "820c1b21d9cc3be5be1f3a19c1ba4769ab47e2cb454e0cb378198d611b7b0262",
-          "authorHandle": "celiebug.bsky.social",
-          "postText": "When something isn't working, when someone isn't working out, it's necessary to replace them. It isn't always easy. We have to put our faith in people who tell us they are who they are. Troy Jackson fought hard for Graham Platner's same ideals. He should take the mantle. We need to trust him. ￼",
-          "createdAt": "2026-08-14T13:21:44.055Z",
-          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3mt2atuela22s",
           "sentiment": 1
         }
       ],
