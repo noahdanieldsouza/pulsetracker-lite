@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T11:36:35.193Z",
+  "lastUpdated": "2026-08-15T11:52:48.939Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1608138548709444,
+      "overallSentiment": -0.1647420521199933,
       "newsSentiment": -0.3226826923076923,
-      "socialSentiment": 0.10135223880597015,
+      "socialSentiment": 0.08956764705882352,
       "mentions": {
         "news": 104,
-        "social": 68,
+        "social": 69,
         "youtube": 18,
-        "total": 190
+        "total": 191
       },
       "news": [
         {
@@ -996,6 +996,14 @@
         }
       ],
       "social": [
+        {
+          "id": "a1d59f9b78efe1376ceca7c64386da5366b11089b8406e72bb5037aec9f31d27",
+          "authorHandle": "bradporcellato.bsky.social",
+          "postText": "Donna Brazile declined to comment on the report that Maine Senate nominee Troy Jackson fathered children with his second cousin, calling it gossip.\nhttps://www.foxnews.com/politics/top-dem-operative-brushes-off-latest-scandal-plaguing-maine-senate-candidate-salacious-gossip",
+          "createdAt": "2026-08-15T11:48:23.371096Z",
+          "uri": "at://did:plc:drwh37ctfbbgpduog3dnkphr/app.bsky.feed.post/3mt4m3vuz3z2j",
+          "sentiment": -0.7
+        },
         {
           "id": "3ff6d30557b128f9c5b25c8dd5a90befa2a8a12163fbea472e9c93e3e4474262",
           "authorHandle": "catmcfeline.bsky.social",
