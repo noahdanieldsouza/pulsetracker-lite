@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T21:52:49.216Z",
+  "lastUpdated": "2026-08-15T22:15:27.299Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14571066341066338,
+      "overallSentiment": -0.1411490220557636,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.10897912087912087,
+      "socialSentiment": 0.12266404494382022,
       "mentions": {
         "news": 20,
-        "social": 93,
+        "social": 92,
         "youtube": 18,
-        "total": 131
+        "total": 130
       },
       "news": [
         {
@@ -231,6 +231,14 @@
         }
       ],
       "social": [
+        {
+          "id": "50ad603274bf5da1c29518d3dc3314915267445d61f8bc31937b699be1120594",
+          "authorHandle": "us-med.bsky.social",
+          "postText": "",
+          "createdAt": "2026-08-15T21:56:05+00:00",
+          "uri": "at://did:plc:mrvbh3rnv4jmde3ijv4hj4mh/app.bsky.feed.post/3mt5o2p4cps2s",
+          "sentiment": null
+        },
         {
           "id": "5e0efc8e68102bf7cc15351d42dcbeccab14aeebd9402b6fd7eaca80bfc7a6de",
           "authorHandle": "craigcrawford.com",
@@ -958,22 +966,6 @@
           "createdAt": "2026-08-14T22:29:00.918Z",
           "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mt37gi22cc26",
           "sentiment": 0.7
-        },
-        {
-          "id": "9080f979d04f5031da393d2fc0e6aa9e4b67e08c3e945adb75899da87c87a9fc",
-          "authorHandle": "libraryghost.bsky.social",
-          "postText": "\"Okay, but did you know that Troy Jackson has a potty mouth?\" 😤",
-          "createdAt": "2026-08-14T22:13:08.883Z",
-          "uri": "at://did:plc:emhey7q6do25t2dm76u3bm5y/app.bsky.feed.post/3mt36k44amk2x",
-          "sentiment": -1
-        },
-        {
-          "id": "6dd59cf4cd710709f9d2f2966dd0e1bf3b046acb712ae56da61df0eedd56d461",
-          "authorHandle": "andrewbare.bsky.social",
-          "postText": "The more Dems can make this a battle between Generic Democrat vs. Generic Republican, instead of Susan Collins vs. Troy Jackson, the better.",
-          "createdAt": "2026-08-14T22:08:03.959Z",
-          "uri": "at://did:plc:masprvtuheldxavmdqemhuoi/app.bsky.feed.post/3mt36azcpbk2t",
-          "sentiment": 0
         }
       ],
       "youtube": [
