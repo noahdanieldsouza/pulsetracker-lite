@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T16:17:44.061Z",
+  "lastUpdated": "2026-08-15T16:45:00.722Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.18297172172172171,
+      "overallSentiment": -0.1796550194931774,
       "newsSentiment": -0.285,
-      "socialSentiment": -0.002804054054054068,
+      "socialSentiment": 0.007146052631578935,
       "mentions": {
         "news": 20,
-        "social": 76,
+        "social": 78,
         "youtube": 18,
-        "total": 114
+        "total": 116
       },
       "news": [
         {
@@ -240,6 +240,38 @@
         }
       ],
       "social": [
+        {
+          "id": "7985a3e5ebc5a64c1fe402796047fc761eb8984bfe2222994ed3113151f5be7d",
+          "authorHandle": "craigcrawford.com",
+          "postText": "IMMIGRANTS DO THE WORK → www.youtube.com/watch?v=CM68...\n\nTrump's wives prove one absolute truth. Immigrants take the jobs Americans absolutely refuse.\n\n🍽️ From today's Digital Diner menu",
+          "createdAt": "2026-08-15T16:25:19.920Z",
+          "uri": "at://did:plc:qhrqvrpra6bvbsnpqoyenuej/app.bsky.feed.post/3mt53l3sxd72i",
+          "sentiment": 0
+        },
+        {
+          "id": "e941bff18d3562599945d9602eda99649e63fcec6ea0d21d4b61ecffab1a1457",
+          "authorHandle": "iwantmycountry26.bsky.social",
+          "postText": "substack.com/@troyjackson....",
+          "createdAt": "2026-08-15T16:20:53.785Z",
+          "uri": "at://did:plc:u6wpahdxudi2unba3go2nbsv/app.bsky.feed.post/3mt53d5kyi22e",
+          "sentiment": 0
+        },
+        {
+          "id": "ca11e1c5ee5f9e8ee7eecb9a32ee47e0ad47d53900c990cd6eed5ffa4eb0c6bd",
+          "authorHandle": "katmar75.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-15T16:19:38.723Z",
+          "uri": "at://did:plc:757mcnwzrlo3vd5rluspq534/app.bsky.feed.post/3mt53avygms2b",
+          "sentiment": 0
+        },
+        {
+          "id": "c73e53c57ea63005a24a80649b3c633638bf627eaf68467b8066b77475cf21f3",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "Use this link to split a donation between their campaigns:\n\nact.alex-padilla.com/go/Senate-Ma...",
+          "createdAt": "2026-08-15T16:18:13.614Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mt536esyhk2v",
+          "sentiment": 0
+        },
         {
           "id": "57e4a5550c32b2dc2c7e428d97eb1b277b7eb0824ba881970432622ee8367ea4",
           "authorHandle": "crkrjx.bsky.social",
@@ -831,22 +863,6 @@
           "createdAt": "2026-08-14T16:49:17.325Z",
           "uri": "at://did:plc:qq6tpffju3hto3n3p4hrfekm/app.bsky.feed.post/3mt2mgyq5r22y",
           "sentiment": 0
-        },
-        {
-          "id": "ad928f065b380f93a47b5b219352f66ed6b588c8c44d5f110877b2feda98d7b6",
-          "authorHandle": "jpylko.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-14T16:27:22.787Z",
-          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mt2l7t3o7s2z",
-          "sentiment": 0
-        },
-        {
-          "id": "d3a8b6a0fc82e8c38fc8b35ace843e092831d54a2f58c4877d247be74505a91e",
-          "authorHandle": "american-news-day.bsky.social",
-          "postText": "Susan Collins drops brutal reminder of Dem rival rocked by accusations\n\nhttps://fascinating.news/r/OAFk3wpb",
-          "createdAt": "2026-08-14T16:26:02.210Z",
-          "uri": "at://did:plc:m5rp3imz6rydf5ev4qmkmlaw/app.bsky.feed.post/3mt2l5ghsr422",
-          "sentiment": -0.7506
         }
       ],
       "youtube": [
