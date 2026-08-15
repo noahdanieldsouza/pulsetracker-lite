@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T20:42:17.906Z",
+  "lastUpdated": "2026-08-15T21:01:30.185Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.16025014565126924,
+      "overallSentiment": -0.1556774074074074,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.06536067415730337,
+      "socialSentiment": 0.07907888888888889,
       "mentions": {
         "news": 20,
-        "social": 91,
+        "social": 92,
         "youtube": 18,
-        "total": 129
+        "total": 130
       },
       "news": [
         {
@@ -240,6 +240,30 @@
         }
       ],
       "social": [
+        {
+          "id": "db66710b21fd341ed749384c8b7a7fe01febc60f540eca5f1aa189a52d101eb7",
+          "authorHandle": "rozkl.bsky.social",
+          "postText": "Let’s bottom line this…Collins is ‘hiring’ supporters to travel around Maine with her. Says all you need to know to vote for Troy Jackson.",
+          "createdAt": "2026-08-15T20:58:43.730Z",
+          "uri": "at://did:plc:2wmyo7m47aza2yojqjjrtvbe/app.bsky.feed.post/3mt5ktxbdnc2r",
+          "sentiment": 0.7
+        },
+        {
+          "id": "61b55290edd0892ac7c7961f4e184b95381ecbb315333630eb457c6718960d3e",
+          "authorHandle": "vtboomer.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-15T20:57:23.250Z",
+          "uri": "at://did:plc:p6jenpfq2d2cn2kvb4lmpsgk/app.bsky.feed.post/3mt5krkjbvc2q",
+          "sentiment": 0
+        },
+        {
+          "id": "4eab5249c47ffe3058c1ae4614f6ee918e4e875f3433365c31d49b452d5322e1",
+          "authorHandle": "dkon.bsky.social",
+          "postText": "Here’s another that shows the MSM asking tough questions about the new electric gloves she help fund for ICE and giving Jackson a lot of air time too.\n\nm.youtube.com/watch?v=CBqr...",
+          "createdAt": "2026-08-15T20:53:38.817Z",
+          "uri": "at://did:plc:cxaljivhov2e3iuglswftzvr/app.bsky.feed.post/3mt5kkui5222n",
+          "sentiment": 0.6
+        },
         {
           "id": "cf68897d7bf53e7dc5b81d3b408f473c2a8273ac8e611b643917aae6b9fc4f9c",
           "authorHandle": "iwantmycountry26.bsky.social",
@@ -950,22 +974,6 @@
           "postText": "2/3\nThe Maine Democratic Party’s Coordinated Campaign is 𝗵𝗶𝗿𝗶𝗻𝗴 𝗙𝗶𝗲𝗹𝗱 𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿𝘀 to build relationships in communities across the state, organize volunteers, talk directly with voters, and help elect Troy Jackson, Hannah Pingree, and Democrats up and down the ballot.",
           "createdAt": "2026-08-14T21:02:38.204Z",
           "uri": "at://did:plc:7expgbr42k6s436jjvpmr7al/app.bsky.feed.post/3mt32lzgjus2r",
-          "sentiment": 1
-        },
-        {
-          "id": "40e2af039667ff4d165a879a7566a64ffc72017284aeaf56ded4cd17ab0812af",
-          "authorHandle": "mainstream-media.bsky.social",
-          "postText": "Susan Collins says Troy Jackson ‘struggles to control his temper’ after resurfaced police report\n\nhttps://www.washingtonexaminer.com/n...",
-          "createdAt": "2026-08-14T20:50:21.925747+00:00",
-          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mt2zw3c7yl2z",
-          "sentiment": -1
-        },
-        {
-          "id": "fde37bdbc8cd4eabff5e385b48aee61df895d531d4b7677437c670162dfadbd3",
-          "authorHandle": "hammie777.bsky.social",
-          "postText": "Well, get ready, here comes the well financed GOP political garbage truck. Scraping the bottom of the barrel to make her opponent look scary by bringing up a 40 year fistfight at 19 yo and its yuge $50 fine. She's just trying to divert attention from her almost 30 years of ineptitude.",
-          "createdAt": "2026-08-14T20:43:24.139Z",
-          "uri": "at://did:plc:dgtobzn7c2qiye22witgushu/app.bsky.feed.post/3mt2zjmt6ds2u",
           "sentiment": 1
         }
       ],
