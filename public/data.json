@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T03:06:50.056Z",
+  "lastUpdated": "2026-08-15T03:50:22.948Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1441312678062678,
+      "overallSentiment": -0.14094770616243218,
       "newsSentiment": -0.3226826923076923,
-      "socialSentiment": 0.15139999999999998,
+      "socialSentiment": 0.16095068493150683,
       "mentions": {
         "news": 104,
-        "social": 72,
+        "social": 74,
         "youtube": 18,
-        "total": 194
+        "total": 196
       },
       "news": [
         {
@@ -997,6 +997,30 @@
       ],
       "social": [
         {
+          "id": "0ada4849a7d566a26ec16a749054998cf34ec48b6d64a7601de214d0ddf253b9",
+          "authorHandle": "some-news.bsky.social",
+          "postText": "Democratic U.S. Senate nominee Troy Jackson and Republican Sen. Susan Collins are sharpening their contrasts on the campaign trail across Maine.",
+          "createdAt": "2026-08-15T03:45:44.723535+00:00",
+          "uri": "at://did:plc:dtg2oeh4jj3lmbcxyxl6nm34/app.bsky.feed.post/3mt3r4tl3s62z",
+          "sentiment": 0
+        },
+        {
+          "id": "c564e01a873fe85cefc4ff2bba016339e7b4924c0539ae1323430294d6fd6aff",
+          "authorHandle": "charleskeener.bsky.social",
+          "postText": "www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-15T03:23:04.145Z",
+          "uri": "at://did:plc:4llyqwdqnd6t7ncyvvjzeih7/app.bsky.feed.post/3mt3pubwm6226",
+          "sentiment": 0
+        },
+        {
+          "id": "bb8cdaf4fb668a73986d6541e95f1b526b983ff732b5825988f54e9266ced8fb",
+          "authorHandle": "melindameyer.bsky.social",
+          "postText": "www.yahoo.com/news/politic...\nYou had to go back 38 years to find \"dirt\" on  Troy Jackson when you just approved ICE funding buy taser gloves to use on Americas population. Oh, great job Sue you got us.",
+          "createdAt": "2026-08-15T03:18:54.123Z",
+          "uri": "at://did:plc:l5pf6qjpoe2keax4u3xvtfc7/app.bsky.feed.post/3mt3pmtj4mc2p",
+          "sentiment": 1
+        },
+        {
           "id": "3ede3bd763288a582a48d3b813cf42d703634e1acd9edf3b1f5158dcfdff5719",
           "authorHandle": "socrates17.bsky.social",
           "postText": "",
@@ -1562,14 +1586,6 @@
           "postText": "Wow the Collins campaign is really scraping the bottom of the barrel for oppo.\n\nMust be hard after the human oppo tornado quit the race.\n\nwww.bangordailynews.com/2026/08/12/m...",
           "createdAt": "2026-08-14T04:43:19.280Z",
           "uri": "at://did:plc:xhwt4hrnyv3k3efdfjxqunmo/app.bsky.feed.post/3mszduuk4gs2w",
-          "sentiment": 0
-        },
-        {
-          "id": "e777f1e1aa69c916ff595fbe9a6470016cbd0d2dfe4faad2846de02d0cba7236",
-          "authorHandle": "ononebete.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-14T03:40:11.010Z",
-          "uri": "at://did:plc:can5m4as4kykhthfkddfrp7h/app.bsky.feed.post/3mszadxrfwc27",
           "sentiment": 0
         }
       ],
