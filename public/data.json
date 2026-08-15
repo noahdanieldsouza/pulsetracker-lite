@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T18:55:10.718Z",
+  "lastUpdated": "2026-08-15T19:18:15.763Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.17962325925925926,
+      "overallSentiment": -0.1731924482924483,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.007241333333333324,
+      "socialSentiment": 0.026533766233766232,
       "mentions": {
         "news": 20,
-        "social": 77,
+        "social": 79,
         "youtube": 18,
-        "total": 115
+        "total": 117
       },
       "news": [
         {
@@ -240,6 +240,22 @@
         }
       ],
       "social": [
+        {
+          "id": "d2114015ec9c3e6e13cb37a164594c75272c87185a51f4507d6cc9a2785993df",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "Troy Jackson slammed Susan Collins over Roe, ICE, rural hospitals, gas prices, Big Pharma, & Medicaid cuts.",
+          "createdAt": "2026-08-15T19:09:32.352Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mt5eqpf6k22y",
+          "sentiment": 0.6
+        },
+        {
+          "id": "35c99fba87298aad7b30401025a2b3d2545d8f274f4ec10548926988464271bf",
+          "authorHandle": "colleenshelley.bsky.social",
+          "postText": "Anyone who is bagging on Troy Jackson for Senator of Maine look in the mirror see what I see you as…snobs who can't see the Maine forest Bellwether.This guy is the real deal.All on board we can't be precious about this election in the Fall. \nWake up time to get on board 🚂",
+          "createdAt": "2026-08-15T18:59:04.391Z",
+          "uri": "at://did:plc:gshnkguyore2goidogm4oqd7/app.bsky.feed.post/3mt5e5yjee226",
+          "sentiment": 0.9
+        },
         {
           "id": "4de125e42794a04a59aaa5866a4e04bcfe735c8ded99044ccfe5529e10b7462d",
           "authorHandle": "1republic14star.bsky.social",
