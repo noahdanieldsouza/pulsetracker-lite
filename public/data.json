@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T15:40:02.533Z",
+  "lastUpdated": "2026-08-16T15:56:32.715Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1484777777777778,
+      "overallSentiment": -0.1421431261770245,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.22123333333333334,
+      "socialSentiment": 0.24023728813559325,
       "mentions": {
         "news": 5,
-        "social": 63,
+        "social": 62,
         "youtube": 15,
-        "total": 83
+        "total": 82
       },
       "news": [
         {
@@ -96,6 +96,14 @@
         }
       ],
       "social": [
+        {
+          "id": "b4cb965f2a47e5f81a43769d1b682793817ccca723589c735edc77d039a46dc8",
+          "authorHandle": "jpylko.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-16T15:47:58.768Z",
+          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mt7jx7iyws2b",
+          "sentiment": 0
+        },
         {
           "id": "a5942690ca2422d83cc338cdf4794d0f0abc8108264ab253c3272506f2195f8a",
           "authorHandle": "joyfulbaking22.bsky.social",
@@ -583,22 +591,6 @@
           "createdAt": "2026-08-15T16:18:13.614Z",
           "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mt536esyhk2v",
           "sentiment": 0
-        },
-        {
-          "id": "57e4a5550c32b2dc2c7e428d97eb1b277b7eb0824ba881970432622ee8367ea4",
-          "authorHandle": "crkrjx.bsky.social",
-          "postText": "Maine \nTroy Jackson just became the Democratic candidate less than three weeks ago and has the lead — up 48% to 46% in the Fox News poll released this week. That’s a 5-point shift toward Democrats since June.",
-          "createdAt": "2026-08-15T15:51:23.879Z",
-          "uri": "at://did:plc:gzbfstetnmajkcyjffsngduk/app.bsky.feed.post/3mt4zofnrms2u",
-          "sentiment": -0.1
-        },
-        {
-          "id": "e362995c668b52f7cb663c3cb567b342b10db8fac150dae9aadae2e894ccaa98",
-          "authorHandle": "demokick.bsky.social",
-          "postText": "Jasmine Crockett, Janet Mills, and Haley Stevens will all be vindicated after James Talarico, Abdul El-Sayed, and Troy Jackson all lose their elections this November.",
-          "createdAt": "2026-08-15T15:46:57.234Z",
-          "uri": "at://did:plc:cx6obvri7p32ytme6eqa6zfr/app.bsky.feed.post/3mt4zghef5c2h",
-          "sentiment": -0.8
         }
       ],
       "youtube": [
