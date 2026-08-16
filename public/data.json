@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T03:26:29.834Z",
+  "lastUpdated": "2026-08-16T04:07:49.403Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1422329274479959,
+      "overallSentiment": -0.14111168492436096,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.11941232876712332,
+      "socialSentiment": 0.1227760563380282,
       "mentions": {
         "news": 20,
-        "social": 76,
+        "social": 74,
         "youtube": 18,
-        "total": 114
+        "total": 112
       },
       "news": [
         {
@@ -231,6 +231,14 @@
         }
       ],
       "social": [
+        {
+          "id": "b60964d7a52f55d7cc7163da4c2a263022ea43c053ef50a3fc7856af9f082aca",
+          "authorHandle": "bindergirl.bsky.social",
+          "postText": "And Susan Collins literally has to bring people to her rallies so she has “supporters” to talk to\n\nMaine needs a change!\n\nVote for Troy Jackson!",
+          "createdAt": "2026-08-16T03:51:12.764Z",
+          "uri": "at://did:plc:mkjsthhf4wqfb5rfjgjexugw/app.bsky.feed.post/3mt6bvjrw5s2t",
+          "sentiment": 1
+        },
         {
           "id": "2b7ed261c066e29d7e53e352f0967d5a30a8b8e1e60d12fa2aa579795b2f4ec5",
           "authorHandle": "eliemar.bsky.social",
@@ -814,30 +822,6 @@
           "createdAt": "2026-08-15T07:01:24.530941Z",
           "uri": "at://did:plc:ck7aajho5ziqo6lrs64rm4oc/app.bsky.feed.post/3mt442pidqu2b",
           "sentiment": -0.8
-        },
-        {
-          "id": "8e3ecf2d8399920502529f541b8fdddedf02a1a810b972775e0228d43ab9496c",
-          "authorHandle": "proudsocialistd.bsky.social",
-          "postText": "I really hope Troy Jackson kicks her ass in the polls.",
-          "createdAt": "2026-08-15T04:03:59.290Z",
-          "uri": "at://did:plc:vjj57wykm4z3bdjiq6ogoufp/app.bsky.feed.post/3mt3s5hdopc2b",
-          "sentiment": 1
-        },
-        {
-          "id": "46c37b1d0f25cbf1de24be546d08bc7184165178a0285a9c0c03df5df08b37fe",
-          "authorHandle": "theamericanconservative.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-08-15T04:03:00.000Z",
-          "uri": "at://did:plc:qtctfx72eav5xuwyp56f6qw6/app.bsky.feed.post/3mt62n6lun6o2",
-          "sentiment": 0
-        },
-        {
-          "id": "0ada4849a7d566a26ec16a749054998cf34ec48b6d64a7601de214d0ddf253b9",
-          "authorHandle": "some-news.bsky.social",
-          "postText": "Democratic U.S. Senate nominee Troy Jackson and Republican Sen. Susan Collins are sharpening their contrasts on the campaign trail across Maine.",
-          "createdAt": "2026-08-15T03:45:44.723535+00:00",
-          "uri": "at://did:plc:dtg2oeh4jj3lmbcxyxl6nm34/app.bsky.feed.post/3mt3r4tl3s62z",
-          "sentiment": 0
         }
       ],
       "youtube": [
