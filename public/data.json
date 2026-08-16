@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T23:18:31.428Z",
+  "lastUpdated": "2026-08-16T23:38:47.380Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,9 +48,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14695340501792117,
+      "overallSentiment": -0.14157706093189965,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.22580645161290322,
+      "socialSentiment": 0.24193548387096775,
       "mentions": {
         "news": 5,
         "social": 33,
@@ -105,6 +105,14 @@
         }
       ],
       "social": [
+        {
+          "id": "bf897ed625801def942a76aebdee766d1377a51ce4b2a4cdcbadd1db4f9d3ddb",
+          "authorHandle": "cokie-o.bsky.social",
+          "postText": "andyobrien.substack.com/p/thousands-...",
+          "createdAt": "2026-08-16T23:24:07.101Z",
+          "uri": "at://did:plc:bgwc2ufpbdgpcprff62z2ylz/app.bsky.feed.post/3mtadgtybmc2w",
+          "sentiment": 0
+        },
         {
           "id": "ed18f43e34ecbf684768d532515d4da77f0d218517f0f3ce4550f40b4d7d4d5e",
           "authorHandle": "booktweeting.bsky.social",
@@ -360,14 +368,6 @@
           "createdAt": "2026-08-15T23:47:50.282Z",
           "uri": "at://did:plc:ewxtynqjxpaqzqgcjvciaxg3/app.bsky.feed.post/3mt5ucdrlrs2r",
           "sentiment": 0
-        },
-        {
-          "id": "8bcfef247f1bc3605db551acf9629c6f0538b623a440ca0df65315bf8ab65b55",
-          "authorHandle": "minuteman04.bsky.social",
-          "postText": "Troy Jackson needs to point out that Susan Collins hasn't held a town hall meeting with actual constituents in this century. @collinswatch.bsky.social #Maine",
-          "createdAt": "2026-08-15T23:21:20.967Z",
-          "uri": "at://did:plc:35ikw24omeygjw4etf6cebcz/app.bsky.feed.post/3mt5ssy3ke22q",
-          "sentiment": -0.5
         }
       ],
       "youtube": [
