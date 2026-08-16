@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T04:07:49.403Z",
+  "lastUpdated": "2026-08-16T04:47:33.293Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14111168492436096,
+      "overallSentiment": -0.14168009259259257,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.1227760563380282,
+      "socialSentiment": 0.12107083333333336,
       "mentions": {
         "news": 20,
-        "social": 74,
+        "social": 75,
         "youtube": 18,
-        "total": 112
+        "total": 113
       },
       "news": [
         {
@@ -231,6 +231,14 @@
         }
       ],
       "social": [
+        {
+          "id": "d25e7d90027711c3e7251ab4b608c6ad67fba55d5b2738d219e4ec434700dd82",
+          "authorHandle": "margaretforsyth.bsky.social",
+          "postText": "substack.com/home/post/p-...",
+          "createdAt": "2026-08-16T04:46:47.461Z",
+          "uri": "at://did:plc:qgimsdoqyxdklecbembcwvc5/app.bsky.feed.post/3mt6eyvyy2k2n",
+          "sentiment": 0
+        },
         {
           "id": "b60964d7a52f55d7cc7163da4c2a263022ea43c053ef50a3fc7856af9f082aca",
           "authorHandle": "bindergirl.bsky.social",
@@ -1011,14 +1019,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.05,
+      "overallSentiment": 0,
       "newsSentiment": 0,
-      "socialSentiment": -0.1,
+      "socialSentiment": 0,
       "mentions": {
         "news": 1,
-        "social": 2,
+        "social": 1,
         "youtube": 0,
-        "total": 3
+        "total": 2
       },
       "news": [
         {
@@ -1039,14 +1047,6 @@
           "createdAt": "2026-08-15T18:00:27.403Z",
           "uri": "at://did:plc:ucxmi6byjhses3puctxkqbhn/app.bsky.feed.post/3mt5av6kgdh2h",
           "sentiment": 0
-        },
-        {
-          "id": "cdf717ca6f01b802719cd97a15d7ff0a44b3a8ca60e5fa1fa2e16ebbba4ebb78",
-          "authorHandle": "thatericalper.com",
-          "postText": "Jordan Davis is back with “Mess,” a new single about knowing someone can wreck your peace and still letting them back in anyway, written with Jacob Davis, Travis Wood and Paul DiGiovanni. zurl.co/5V2Ic",
-          "createdAt": "2026-08-15T04:40:00.299Z",
-          "uri": "at://did:plc:vax23oilyd4ui2kmqkzupio5/app.bsky.feed.post/3mt3u5v42il2i",
-          "sentiment": -0.2
         }
       ],
       "youtube": [],
