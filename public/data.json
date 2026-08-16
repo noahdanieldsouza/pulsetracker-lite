@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T21:00:16.996Z",
+  "lastUpdated": "2026-08-16T21:30:49.772Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,31 +22,40 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": null,
+      "overallSentiment": 0,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": 0,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "c60b9277f71b697c61f235be0f0c350bf7cad4a7b0c56e465cf14b841e462ba5",
+          "authorHandle": "mayap.bsky.social",
+          "postText": "I'm attending Indivisible Mid Maine's event, “September 19 IMM Membership Meeting: Very Special Guest Speaker!” - sign up now to join m www.mobilize.us/indivisiblem...",
+          "createdAt": "2026-08-16T21:20:26.014Z",
+          "uri": "at://did:plc:hnfowwvpyij7hs6suugu7ua7/app.bsky.feed.post/3mta4joopcs22",
+          "sentiment": 0
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14024024024024023,
+      "overallSentiment": -0.1546031746031746,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.245945945945946,
+      "socialSentiment": 0.20285714285714287,
       "mentions": {
         "news": 5,
-        "social": 40,
+        "social": 38,
         "youtube": 15,
-        "total": 60
+        "total": 58
       },
       "news": [
         {
@@ -399,22 +408,6 @@
           "createdAt": "2026-08-15T21:45:30.826Z",
           "uri": "at://did:plc:ljftynwi6mxf36zergsw5k4y/app.bsky.feed.post/3mt5nhmd5ck2c",
           "sentiment": 0.9
-        },
-        {
-          "id": "0abc9bbeaa1980f99b058b9e2734ab8d379048be51000f281cb41e8cc324d07d",
-          "authorHandle": "thilde1.bsky.social",
-          "postText": "Vote for Troy Jackson ...",
-          "createdAt": "2026-08-15T21:26:39.702Z",
-          "uri": "at://did:plc:4i5bcax22aaqcjpxwvoupvfz/app.bsky.feed.post/3mt5mfvmnj225",
-          "sentiment": 1
-        },
-        {
-          "id": "39f50197eae8cfa412f5991427e8022727fe90117fbcb3448fe184e0b577ab90",
-          "authorHandle": "jamesxmyall.bsky.social",
-          "postText": "Troy Jackson has a plan to keep Social Security benefits whole after 2032. Susan Collins doesn't #mepolitics",
-          "createdAt": "2026-08-15T21:08:42.578Z",
-          "uri": "at://did:plc:tkej25vxsow55o6s4v42lhyd/app.bsky.feed.post/3mt5lfser4k2m",
-          "sentiment": 1
         }
       ],
       "youtube": [
