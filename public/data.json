@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T10:55:47.968Z",
+  "lastUpdated": "2026-08-16T11:16:49.451Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.13142882447665052,
+      "overallSentiment": -0.1338442834138486,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.15182463768115945,
+      "socialSentiment": 0.14457826086956524,
       "mentions": {
         "news": 20,
-        "social": 74,
+        "social": 73,
         "youtube": 18,
-        "total": 112
+        "total": 111
       },
       "news": [
         {
@@ -231,6 +231,14 @@
         }
       ],
       "social": [
+        {
+          "id": "eef6941519d312ded8d4468af495242425513eafbbbf5537a8ff4562cb76cfe4",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-16T11:09:51.577Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mt72fvedy22u",
+          "sentiment": -1
+        },
         {
           "id": "1151f9623659b5ff8ab4e34e412cb04ae92c255be125bdf147c626f8b2307c63",
           "authorHandle": "ajr68.bsky.social",
@@ -806,22 +814,6 @@
           "createdAt": "2026-08-15T11:27:19.420Z",
           "uri": "at://did:plc:syp5sbeldusi3ugjcrqziee3/app.bsky.feed.post/3mt4kw77c4c2o",
           "sentiment": -1
-        },
-        {
-          "id": "b7d35e1fc062922f9eb029a2a506f4488df708ec8459d2265ae6061fe06f28c5",
-          "authorHandle": "american-news-day.bsky.social",
-          "postText": "Top Dem operative brushes off latest scandal plaguing Maine Senate candidate as 'salacious gossip'\n\nhttps://fascinating.news/r/iHb1wAav",
-          "createdAt": "2026-08-15T11:10:05.738Z",
-          "uri": "at://did:plc:m5rp3imz6rydf5ev4qmkmlaw/app.bsky.feed.post/3mt4jxfo54422",
-          "sentiment": -0.5
-        },
-        {
-          "id": "db71ee849e91e21a993f4668918e996e7a746c1d2cfcaaf4d26e3bdc43f727ee",
-          "authorHandle": "foxnews.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-08-15T11:00:46.000Z",
-          "uri": "at://did:plc:6pwit4ctv4egvys3qyqmgbi6/app.bsky.feed.post/3mt4nljfhetu2",
-          "sentiment": null
         }
       ],
       "youtube": [
