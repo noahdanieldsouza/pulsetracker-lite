@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T17:31:19.698Z",
+  "lastUpdated": "2026-08-16T17:52:11.019Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.13207676767676768,
+      "overallSentiment": -0.13428174603174603,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.27043636363636364,
+      "socialSentiment": 0.2638214285714286,
       "mentions": {
         "news": 5,
-        "social": 58,
+        "social": 59,
         "youtube": 15,
-        "total": 78
+        "total": 79
       },
       "news": [
         {
@@ -96,6 +96,14 @@
         }
       ],
       "social": [
+        {
+          "id": "6540b8874d698ef3fe8b5b92fd439e1b12e8f98a4a4899af1fe08195471b3199",
+          "authorHandle": "6iccom.bsky.social",
+          "postText": "A powerful voting bloc in Maine may decide the outcome of the Senate race between Susan Collins and Troy Jackson.\n#world",
+          "createdAt": "2026-08-16T17:45:45.145Z",
+          "uri": "at://did:plc:aorjxo7zm7zxvszulmfgyw7s/app.bsky.feed.post/3mt7qju3og72n",
+          "sentiment": -0.1
+        },
         {
           "id": "e4d39c683a624c44e903cd90d463e93eff77622a1eee25bb9b24c4ce660ddd50",
           "authorHandle": "cmf406.bsky.social",
