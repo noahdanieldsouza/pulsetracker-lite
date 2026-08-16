@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T17:52:11.019Z",
+  "lastUpdated": "2026-08-16T18:20:38.613Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.13428174603174603,
+      "overallSentiment": -0.13874343434343434,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.2638214285714286,
+      "socialSentiment": 0.2504363636363637,
       "mentions": {
         "news": 5,
-        "social": 59,
+        "social": 58,
         "youtube": 15,
-        "total": 79
+        "total": 78
       },
       "news": [
         {
@@ -559,14 +559,6 @@
           "createdAt": "2026-08-15T18:31:09.807Z",
           "uri": "at://did:plc:e6w4tri2jynofj5svyhfxqn3/app.bsky.feed.post/3mt5cm3j3gs24",
           "sentiment": -1
-        },
-        {
-          "id": "6f2235249981256c720788ccc0cee21f387fad935a336a0d6dcb1777d1094aa2",
-          "authorHandle": "laureldavilacpa.bsky.social",
-          "postText": "Elon Musk thinks he can buy our elections. \n\nThat's why he's spending hundreds of millions of dollars to try to stop Troy Jackson. \n\nBe he's forgotten, that we, the people. have the true power.  #BlueWaveIn80Days",
-          "createdAt": "2026-08-15T18:09:57.881Z",
-          "uri": "at://did:plc:42pvyi3byizpsp5phecxmbyv/app.bsky.feed.post/3mt5bg6ixa22h",
-          "sentiment": 1
         }
       ],
       "youtube": [
@@ -726,26 +718,17 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": 0,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "0bd36736c9f0008a75552393b7db6a2f0a47a941288315e78d99423e04d0eea4",
-          "authorHandle": "chop-pubs.bsky.social",
-          "postText": "Jordan I Wood, Alisa J Stephens-Shields, Dawei Xie, Dean J Karavite, Jeritt G Thayer, Robert W Grundmeier, Christopher P Bonafide, Alexander G Fiks, Tyra C Bryant-Stephens, Laura M Huertas, and Chén C Kenyon",
-          "createdAt": "2026-08-15T18:00:27.403Z",
-          "uri": "at://did:plc:ucxmi6byjhses3puctxkqbhn/app.bsky.feed.post/3mt5av6kgdh2h",
-          "sentiment": 0
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     }
