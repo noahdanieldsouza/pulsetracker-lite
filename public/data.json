@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T14:02:17.018Z",
+  "lastUpdated": "2026-08-16T14:34:44.897Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14208465608465606,
+      "overallSentiment": -0.14363333333333334,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.24041269841269844,
+      "socialSentiment": 0.23576666666666668,
       "mentions": {
         "news": 5,
-        "social": 67,
+        "social": 63,
         "youtube": 15,
-        "total": 87
+        "total": 83
       },
       "news": [
         {
@@ -96,6 +96,14 @@
         }
       ],
       "social": [
+        {
+          "id": "bb64ae4d1963fa1af98ebab277925bb3ea815931f7db177cdc905340dec6e3e5",
+          "authorHandle": "austinmaine.bsky.social",
+          "postText": "When I watch streaming lately, the commercial breaks show 4 ads. 99% of the time lately, 2 are attack ads against Troy Jackson and the other 2 are attack ads against Susan Collins. The same 4 ads over and over. Election Day can't get here soon enough...\n\n#Maine #politics #ElectionDay",
+          "createdAt": "2026-08-16T14:22:10.332Z",
+          "uri": "at://did:plc:ekkminfdc3dsujukcpgsf45m/app.bsky.feed.post/3mt7f5rm2qs2e",
+          "sentiment": -1
+        },
         {
           "id": "06627eae0e7576805b52a4b8881a11846383ae7ad38d76570d5869d6bd3384e7",
           "authorHandle": "capitalistfool.bsky.social",
@@ -591,46 +599,6 @@
           "createdAt": "2026-08-15T15:12:04.011Z",
           "uri": "at://did:plc:qoewv4sal6ftjn3gwcrzyn4g/app.bsky.feed.post/3mt4xi34dz22s",
           "sentiment": 0.872
-        },
-        {
-          "id": "b3d53fbbe7bf7283f3b7134219ae0b7bb17aeda503ab52c5bc382798b6dfb469",
-          "authorHandle": "iwantmycountry26.bsky.social",
-          "postText": "substack.com/@troyjackson....  Vote Troy Jackson MAINE US Senate.  ❤️🤍💙🇺🇸",
-          "createdAt": "2026-08-15T14:33:12.874Z",
-          "uri": "at://did:plc:u6wpahdxudi2unba3go2nbsv/app.bsky.feed.post/3mt4vclxn3c2a",
-          "sentiment": 1
-        },
-        {
-          "id": "a15081e2bb768bcd4dc9eb8430fb8de4aae72d1dde8c134a923ef47964094b2d",
-          "authorHandle": "focusamerica.it",
-          "postText": "In Maine il candidato democratico Troy Jackson è avanti nei sondaggi",
-          "createdAt": "2026-08-15T14:30:42.679Z",
-          "uri": "at://did:plc:duuff6utifrw3ttmyv37ayzg/app.bsky.feed.post/3mt4v64xoyr2m",
-          "sentiment": 0
-        },
-        {
-          "id": "f93ba8f4ed19fb081ae6e8c04b16a0adfb287e5d7eccdf282e3846a0823207a1",
-          "authorHandle": "index.focusamerica.it.ap.brid.gy",
-          "postText": "Nel sondaggio di Fox News il democratico Troy Jackson è avanti 48 a 46. Il 55% degli elettori teme che la senatrice voti troppo spesso con il presidente, il 43% che lo sfidante sia troppo a sinistra.",
-          "createdAt": "2026-08-15T14:30:33.000Z",
-          "uri": "at://did:plc:4vo5n46sq5gnxtcbavk5o5mu/app.bsky.feed.post/3mt4v5xpxo3e2",
-          "sentiment": 0
-        },
-        {
-          "id": "b98fea770d3e5d4f8dffde2fe791b0883938f67f0a0e2fd02334bb9308800172",
-          "authorHandle": "focusamerica.it.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-08-15T14:30:33.000Z",
-          "uri": "at://did:plc:4bgzk3dw3aorzqxmiiisckaz/app.bsky.feed.post/3mt4yhloj72e2",
-          "sentiment": null
-        },
-        {
-          "id": "34253e5f9554da1bc0aaed073859a233d39a123af783d42441c0154275bfc029",
-          "authorHandle": "american-citizen25.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-15T14:16:52.199Z",
-          "uri": "at://did:plc:oht6t5nhc45clguizdkalf5q/app.bsky.feed.post/3mt4ufepum22b",
-          "sentiment": -1
         }
       ],
       "youtube": [
