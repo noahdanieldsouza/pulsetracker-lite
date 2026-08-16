@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T00:59:10.453Z",
+  "lastUpdated": "2026-08-16T02:22:43.486Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14196578703703702,
+      "overallSentiment": -0.1481901072124756,
       "newsSentiment": -0.285,
-      "socialSentiment": 0.12021375000000001,
+      "socialSentiment": 0.10154078947368422,
       "mentions": {
         "news": 20,
-        "social": 83,
+        "social": 79,
         "youtube": 18,
-        "total": 121
+        "total": 117
       },
       "news": [
         {
@@ -231,6 +231,22 @@
         }
       ],
       "social": [
+        {
+          "id": "07a61c63a5eff86d0af2216dbd1ff461614ec4765f775b4f8a9c40e9ae69457d",
+          "authorHandle": "mashedparsnip.bsky.social",
+          "postText": "Mainers, vote for Troy Jackson! Let’s go!",
+          "createdAt": "2026-08-16T02:15:34.730Z",
+          "uri": "at://did:plc:cmqgxgm5zdptyvr7pozdznjs/app.bsky.feed.post/3mt64kjl76s2b",
+          "sentiment": 1
+        },
+        {
+          "id": "afddc529197f1531e75b5497c93cb6005bbc3836cae44197c462043f5b164b39",
+          "authorHandle": "dkon.bsky.social",
+          "postText": "The OP says the entire crowd was on the bus, which wasn’t true. However, my biggest issue is the vilifying of the media when they actually covered it very fairly, including giving Troy Jackson a lot of screen time. I very much dislike the MSM being used as a convenient punching bag.",
+          "createdAt": "2026-08-16T01:16:02.254Z",
+          "uri": "at://did:plc:cxaljivhov2e3iuglswftzvr/app.bsky.feed.post/3mt5za2lpac2a",
+          "sentiment": -0.5
+        },
         {
           "id": "7bfd8852a4c6d26cb4fbb0251794bc2f5f03614fbddcabd0cee81f249cdb9b14",
           "authorHandle": "mainestay.bsky.social",
@@ -784,6 +800,14 @@
           "sentiment": 1
         },
         {
+          "id": "46c37b1d0f25cbf1de24be546d08bc7184165178a0285a9c0c03df5df08b37fe",
+          "authorHandle": "theamericanconservative.com.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-08-15T04:03:00.000Z",
+          "uri": "at://did:plc:qtctfx72eav5xuwyp56f6qw6/app.bsky.feed.post/3mt62n6lun6o2",
+          "sentiment": 0
+        },
+        {
           "id": "0ada4849a7d566a26ec16a749054998cf34ec48b6d64a7601de214d0ddf253b9",
           "authorHandle": "some-news.bsky.social",
           "postText": "Democratic U.S. Senate nominee Troy Jackson and Republican Sen. Susan Collins are sharpening their contrasts on the campaign trail across Maine.",
@@ -838,62 +862,6 @@
           "createdAt": "2026-08-15T02:47:23.815Z",
           "uri": "at://did:plc:gnmvwraq2ktahom4kyqmzhcw/app.bsky.feed.post/3mt3nuiqw5k2t",
           "sentiment": 1
-        },
-        {
-          "id": "63b04290e0248ffc7aa4f06acaa14c56f6112b3c636f44bec311be86cb782f68",
-          "authorHandle": "snacks59.bsky.social",
-          "postText": "flip.it/wWOKJO",
-          "createdAt": "2026-08-15T02:19:29.195Z",
-          "uri": "at://did:plc:jnol3pfd6jw3gx6jr2o7qtzw/app.bsky.feed.post/3mt3mclpl2k2g",
-          "sentiment": 0
-        },
-        {
-          "id": "05f3ac35a0c231b8d19870f5743cd4b998b18319aa2c3a2a9ae9261226ef3a9b",
-          "authorHandle": "derekbshelby.bsky.social",
-          "postText": "Troy Jackson Slams 'Failed Trillionaire Elon Musk' as Billionaires Dump Millions Into Maine US Senate Race www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-15T02:09:29.726Z",
-          "uri": "at://did:plc:4dyns4mqtqs6hmxkaxx6ktr2/app.bsky.feed.post/3mt3lqpzb3k2c",
-          "sentiment": 0.8
-        },
-        {
-          "id": "bd0a359cd230a76ccda69d8458ec520818d0366c683f1bbf8fe867a72e436f53",
-          "authorHandle": "beshearstan.bsky.social",
-          "postText": "Troy Jackson winning big (above 50% and no RCV needed) would be great also",
-          "createdAt": "2026-08-15T01:29:33.180Z",
-          "uri": "at://did:plc:r2wew37repqtwhf63wysczrn/app.bsky.feed.post/3mt3jjcih5s2c",
-          "sentiment": 0.7
-        },
-        {
-          "id": "6fa09ad8dddb6b3d5a3314937cc66ca4317a52685a3bc6147e3ab44ff0f7d0e3",
-          "authorHandle": "ononebete.bsky.social",
-          "postText": "substack.com/@joekatz9207...",
-          "createdAt": "2026-08-15T01:27:45.761Z",
-          "uri": "at://did:plc:can5m4as4kykhthfkddfrp7h/app.bsky.feed.post/3mt3jg42bs226",
-          "sentiment": 0
-        },
-        {
-          "id": "99583f39ca7500e7de923c02a82f87b1cde003e3e338c70af5cc55567300ea67",
-          "authorHandle": "el-gran-rosamondo.bsky.social",
-          "postText": "I’m so fucking tired of her being ”very concerned” that I’m giving Troy Jackson a nice big monthly donation.  You should too.",
-          "createdAt": "2026-08-15T01:18:05.590Z",
-          "uri": "at://did:plc:edvur2bbjrsmfn6jmpkyoy3x/app.bsky.feed.post/3mt3iusqvjk2l",
-          "sentiment": 0.9
-        },
-        {
-          "id": "1eb884a15f0ad32c17387aad1d023f92c82f675f2e543f9550e87f8548bf5282",
-          "authorHandle": "oprev7.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-15T01:17:24.481Z",
-          "uri": "at://did:plc:lcydfn4klubqjpgmhltgtd2z/app.bsky.feed.post/3mt3itlkdzc23",
-          "sentiment": 0
-        },
-        {
-          "id": "511d025403e4a482b9334b598ee7777bf499eb2b3bbc820856a7c06f47430d72",
-          "authorHandle": "some-news.bsky.social",
-          "postText": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women.",
-          "createdAt": "2026-08-15T01:04:23.827782+00:00",
-          "uri": "at://did:plc:dtg2oeh4jj3lmbcxyxl6nm34/app.bsky.feed.post/3mt3i4d5f242k",
-          "sentiment": 0
         }
       ],
       "youtube": [
