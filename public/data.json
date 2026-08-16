@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T14:34:44.897Z",
+  "lastUpdated": "2026-08-16T14:55:08.852Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14363333333333334,
+      "overallSentiment": -0.1449216757741348,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.23576666666666668,
+      "socialSentiment": 0.2319016393442623,
       "mentions": {
         "news": 5,
-        "social": 63,
+        "social": 64,
         "youtube": 15,
-        "total": 83
+        "total": 84
       },
       "news": [
         {
@@ -96,6 +96,14 @@
         }
       ],
       "social": [
+        {
+          "id": "a5942690ca2422d83cc338cdf4794d0f0abc8108264ab253c3272506f2195f8a",
+          "authorHandle": "joyfulbaking22.bsky.social",
+          "postText": "New polling? Troy Jackson is running for Senate in Maine, not Graham Platner.",
+          "createdAt": "2026-08-16T14:46:34.544Z",
+          "uri": "at://did:plc:wujnmm7iqemibyvsr6a7qxnr/app.bsky.feed.post/3mt7gjfxkt22c",
+          "sentiment": 0
+        },
         {
           "id": "bb64ae4d1963fa1af98ebab277925bb3ea815931f7db177cdc905340dec6e3e5",
           "authorHandle": "austinmaine.bsky.social",
