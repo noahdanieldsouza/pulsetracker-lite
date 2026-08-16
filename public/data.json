@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T15:56:32.715Z",
+  "lastUpdated": "2026-08-16T16:22:16.352Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.1421431261770245,
+      "overallSentiment": -0.13673946360153258,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.24023728813559325,
+      "socialSentiment": 0.256448275862069,
       "mentions": {
         "news": 5,
-        "social": 62,
+        "social": 61,
         "youtube": 15,
-        "total": 82
+        "total": 81
       },
       "news": [
         {
@@ -96,6 +96,22 @@
         }
       ],
       "social": [
+        {
+          "id": "e4d39c683a624c44e903cd90d463e93eff77622a1eee25bb9b24c4ce660ddd50",
+          "authorHandle": "cmf406.bsky.social",
+          "postText": "Interesting that we're not seeing all the white Pod-save fanboys writing a million stories about Troy Jackson, actual working class candidate, actual socialist, the way we did about their bartender friend, the brocialist. \nwww.jacksonformaine.com",
+          "createdAt": "2026-08-16T16:21:53.435Z",
+          "uri": "at://did:plc:yghrgm6g2kvzxfvkpntgtejp/app.bsky.feed.post/3mt7lttw5fs2h",
+          "sentiment": 0.7
+        },
+        {
+          "id": "14d2f73b262d0620d5c6ec13c67e501e8875b53b53a7c64b53f96178d10271c2",
+          "authorHandle": "jpylko.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-16T15:56:40.334Z",
+          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mt7kgqvxpk2b",
+          "sentiment": 0
+        },
         {
           "id": "b4cb965f2a47e5f81a43769d1b682793817ccca723589c735edc77d039a46dc8",
           "authorHandle": "jpylko.bsky.social",
@@ -566,30 +582,6 @@
           "postText": "IMMIGRANTS DO THE WORK → www.youtube.com/watch?v=CM68...\n\nTrump's wives prove one absolute truth. Immigrants take the jobs Americans absolutely refuse.\n\n🍽️ From today's Digital Diner menu",
           "createdAt": "2026-08-15T16:25:19.920Z",
           "uri": "at://did:plc:qhrqvrpra6bvbsnpqoyenuej/app.bsky.feed.post/3mt53l3sxd72i",
-          "sentiment": 0
-        },
-        {
-          "id": "e941bff18d3562599945d9602eda99649e63fcec6ea0d21d4b61ecffab1a1457",
-          "authorHandle": "iwantmycountry26.bsky.social",
-          "postText": "substack.com/@troyjackson....",
-          "createdAt": "2026-08-15T16:20:53.785Z",
-          "uri": "at://did:plc:u6wpahdxudi2unba3go2nbsv/app.bsky.feed.post/3mt53d5kyi22e",
-          "sentiment": 0
-        },
-        {
-          "id": "ca11e1c5ee5f9e8ee7eecb9a32ee47e0ad47d53900c990cd6eed5ffa4eb0c6bd",
-          "authorHandle": "katmar75.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-15T16:19:38.723Z",
-          "uri": "at://did:plc:757mcnwzrlo3vd5rluspq534/app.bsky.feed.post/3mt53avygms2b",
-          "sentiment": 0
-        },
-        {
-          "id": "c73e53c57ea63005a24a80649b3c633638bf627eaf68467b8066b77475cf21f3",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "Use this link to split a donation between their campaigns:\n\nact.alex-padilla.com/go/Senate-Ma...",
-          "createdAt": "2026-08-15T16:18:13.614Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mt536esyhk2v",
           "sentiment": 0
         }
       ],
