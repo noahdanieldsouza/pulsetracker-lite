@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T13:10:17.360Z",
+  "lastUpdated": "2026-08-16T13:46:31.246Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.15275555555555556,
+      "overallSentiment": -0.14967863247863247,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.20840000000000003,
+      "socialSentiment": 0.21763076923076924,
       "mentions": {
         "news": 5,
         "social": 69,
@@ -96,6 +96,14 @@
         }
       ],
       "social": [
+        {
+          "id": "06627eae0e7576805b52a4b8881a11846383ae7ad38d76570d5869d6bd3384e7",
+          "authorHandle": "capitalistfool.bsky.social",
+          "postText": "You can donate to Troy's Senate campaign here:\nwww.jacksonformaine.com",
+          "createdAt": "2026-08-16T13:41:05.775Z",
+          "uri": "at://did:plc:iq4dgqv2ejszt3sxfnoljrvc/app.bsky.feed.post/3mt7cud6xg22f",
+          "sentiment": 0
+        },
         {
           "id": "985cc4efee592692ddbf90c8f95d875c20a304a742fafd8864e89e50552b128b",
           "authorHandle": "sdemetri.bsky.social",
@@ -639,14 +647,6 @@
           "createdAt": "2026-08-15T13:51:09.684Z",
           "uri": "at://did:plc:c2ltrhqocybkqstoqjzk2mvw/app.bsky.feed.post/3mt4sxfnyds27",
           "sentiment": 0
-        },
-        {
-          "id": "e0684fc1109c04dc5171f67544b2585b5fc3694244340aabe735b88d0e520f7d",
-          "authorHandle": "worldnewsguru.bsky.social",
-          "postText": "Top Dem operative brushes off latest scandal plaguing Maine Senate candidate as 'salacious gossip'",
-          "createdAt": "2026-08-15T13:15:01.750Z",
-          "uri": "at://did:plc:sk44rhbmaca3ltsa4c6v6da2/app.bsky.feed.post/3mt4qwtck622q",
-          "sentiment": -0.6
         }
       ],
       "youtube": [
