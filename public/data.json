@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T18:01:56.625Z",
+  "lastUpdated": "2026-08-17T18:53:54.865Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.23470833333333332,
+      "overallSentiment": 0.2394047619047619,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.004125000000000009,
+      "socialSentiment": 0.018214285714285728,
       "mentions": {
         "news": 1,
-        "social": 40,
+        "social": 42,
         "youtube": 1,
-        "total": 42
+        "total": 44
       },
       "news": [
         {
@@ -79,6 +79,22 @@
         }
       ],
       "social": [
+        {
+          "id": "1d07daa6d90995f4427c89f132944c9831dd4ed2bb57be24a1562f50c8daf553",
+          "authorHandle": "protecttruth.bsky.social",
+          "postText": "If we are lucky, Flanagan or Troy Jackson or El Sayed will come in and shake up the whole house of cards. That system is fragile: it relies on handwringing about how nothing can be done [and they need to just keep raising money the same old way and not explaining what is wrong and who is at fault]",
+          "createdAt": "2026-08-17T18:41:49.553Z",
+          "uri": "at://did:plc:vklsm2d67fx7pirahnp2qd2m/app.bsky.feed.post/3mtce4yk3fc22",
+          "sentiment": 0.6
+        },
+        {
+          "id": "25aa69173eae824f7942212a9a0f326cc89ad3d65eacd18e7b37b4420fcfeb34",
+          "authorHandle": "packfanbud.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-17T18:09:55.867Z",
+          "uri": "at://did:plc:yq5symmidwqg3g7nesqcar7h/app.bsky.feed.post/3mtccdxizfs2k",
+          "sentiment": 0
+        },
         {
           "id": "5c1bcce881d75a73370e3e3c528db1d808c9c22f61c8c4fa9373a34ced757bc8",
           "authorHandle": "theupsidedem.bsky.social",
