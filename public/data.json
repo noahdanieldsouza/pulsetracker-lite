@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T21:09:07.427Z",
+  "lastUpdated": "2026-08-17T21:37:46.565Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -24,12 +24,12 @@
       "name": "Shenna Bellows",
       "overallSentiment": 0,
       "newsSentiment": 0,
-      "socialSentiment": 0,
+      "socialSentiment": null,
       "mentions": {
         "news": 1,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 2
+        "total": 1
       },
       "news": [
         {
@@ -42,30 +42,21 @@
           "sentiment": 0
         }
       ],
-      "social": [
-        {
-          "id": "c60b9277f71b697c61f235be0f0c350bf7cad4a7b0c56e465cf14b841e462ba5",
-          "authorHandle": "mayap.bsky.social",
-          "postText": "I'm attending Indivisible Mid Maine's event, “September 19 IMM Membership Meeting: Very Special Guest Speaker!” - sign up now to join m www.mobilize.us/indivisiblem...",
-          "createdAt": "2026-08-16T21:20:26.014Z",
-          "uri": "at://did:plc:hnfowwvpyij7hs6suugu7ua7/app.bsky.feed.post/3mta4joopcs22",
-          "sentiment": 0
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.24088652482269501,
+      "overallSentiment": 0.25009803921568624,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.022659574468085086,
+      "socialSentiment": 0.0502941176470588,
       "mentions": {
         "news": 1,
-        "social": 47,
+        "social": 51,
         "youtube": 1,
-        "total": 49
+        "total": 53
       },
       "news": [
         {
@@ -79,6 +70,38 @@
         }
       ],
       "social": [
+        {
+          "id": "efb2d54bf401164ff209a85522f191f33eb119ec48e901c5173546d415277fbf",
+          "authorHandle": "smhebe.bsky.social",
+          "postText": "Pounding pavement and knocking doors in Washington County, Maine. Troy Jackson (Senate); Hannah Pingree (Governor); Matt Dunlap (Maine's Second Congressional District).\nLet's Goooo!! 💙",
+          "createdAt": "2026-08-17T21:31:16.563Z",
+          "uri": "at://did:plc:s44izrmi56kodyqwseufgdpx/app.bsky.feed.post/3mtcnlykm3s25",
+          "sentiment": 0.7
+        },
+        {
+          "id": "fe4d6693fbab11753c1588ea16a34757770981738a0be565ce578b4b98ff457a",
+          "authorHandle": "thatproviso.bsky.social",
+          "postText": "Troy Jackson once blockaded Canadians. How does it shape his Trump-era politics? www.pressherald.com/2026/08/12/t...",
+          "createdAt": "2026-08-17T21:19:05.222Z",
+          "uri": "at://did:plc:bns72e4q4kjm5d6e5dktgyhk/app.bsky.feed.post/3mtcmw73tvk25",
+          "sentiment": -0.3
+        },
+        {
+          "id": "90879d867e08b06f56e669b8c312278328ca4e8917a16d8a13b09b6998b93813",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-17T21:11:59.894Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtcmjjhtkc2w",
+          "sentiment": 0.5
+        },
+        {
+          "id": "ddb977b67e553e919dd8dc3eab9ab3bfdc2882ac5f864b3ce076ef0c4ef9cbca",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "It’s Troy Jackson. I’ve got news for you.\n\nBefore I dig into things, here’s a spoiler: we’re making serious gains on Susan Collins, and none of it would be possible without your support.",
+          "createdAt": "2026-08-17T21:11:35.596Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtcmiscczs2w",
+          "sentiment": 0.6
+        },
         {
           "id": "dbff489132a90eaa35eceed52d05976f9e355be9eb695b1bda9ee998e92ef75f",
           "authorHandle": "dewforpolitics.bsky.social",
