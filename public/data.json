@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T14:13:36.815Z",
+  "lastUpdated": "2026-08-17T14:47:18.528Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2351851851851852,
+      "overallSentiment": 0.22882882882882885,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.005555555555555567,
+      "socialSentiment": -0.013513513513513495,
       "mentions": {
         "news": 1,
-        "social": 36,
+        "social": 37,
         "youtube": 1,
-        "total": 38
+        "total": 39
       },
       "news": [
         {
@@ -79,6 +79,30 @@
         }
       ],
       "social": [
+        {
+          "id": "454f6c1961e6b03b02f90a2b4ee513f6f93255a13087d349c70bf81159ad98ca",
+          "authorHandle": "gaylekate.bsky.social",
+          "postText": "And Troy Jackson is the real deal, I think.\n\nyoutu.be/cs9MJJdw3NQ?...",
+          "createdAt": "2026-08-17T14:46:39.849Z",
+          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mtbwyii3lc2r",
+          "sentiment": -0.8
+        },
+        {
+          "id": "6c4a0fbacb05ad9ee1e4a5b6ec9a63df68670a35e61510ac8cab7987af9686d1",
+          "authorHandle": "solosojourner.bsky.social",
+          "postText": "Maine’s 2026 U.S. Senate race between Troy Jackson (D) and Susan Collins (R) is a true toss‑up, with polling showing an almost perfectly even split. Now the media is going to turn its attention to Ohio.\n\nPlease stop helping Republicans. You don’t have your finger on the pulse of the electorate.",
+          "createdAt": "2026-08-17T14:42:49.844Z",
+          "uri": "at://did:plc:ebqsso3qdpegwv5j7iirymia/app.bsky.feed.post/3mtbwrn4vd22j",
+          "sentiment": 0
+        },
+        {
+          "id": "a19cb25a4cbe65e0a66ac9917c943985b68277105c1f2ed1d9cbe628c4fb3ec1",
+          "authorHandle": "mccarthyrocks.bsky.social",
+          "postText": "Police Report: Maine Democrat Troy Jackson Punched Man, Allegedly Pushed Partner Who Is His Second Cousin. Yet another in a long line of wacko democrats. \nwww.breitbart.com/politics/202...",
+          "createdAt": "2026-08-17T14:18:15.328Z",
+          "uri": "at://did:plc:qjzrmpzoq5t3arfpmiveduq6/app.bsky.feed.post/3mtbvfowac227",
+          "sentiment": -0.9
+        },
         {
           "id": "ba5a8f6b7c610786b4002fc7471369f0e8a1db4f7ed0a457d37db9908d8f945c",
           "authorHandle": "backyarddinosaurs.bsky.social",
@@ -350,22 +374,6 @@
           "createdAt": "2026-08-16T15:47:58.768Z",
           "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mt7jx7iyws2b",
           "sentiment": 0
-        },
-        {
-          "id": "a5942690ca2422d83cc338cdf4794d0f0abc8108264ab253c3272506f2195f8a",
-          "authorHandle": "joyfulbaking22.bsky.social",
-          "postText": "New polling? Troy Jackson is running for Senate in Maine, not Graham Platner.",
-          "createdAt": "2026-08-16T14:46:34.544Z",
-          "uri": "at://did:plc:wujnmm7iqemibyvsr6a7qxnr/app.bsky.feed.post/3mt7gjfxkt22c",
-          "sentiment": 0
-        },
-        {
-          "id": "bb64ae4d1963fa1af98ebab277925bb3ea815931f7db177cdc905340dec6e3e5",
-          "authorHandle": "austinmaine.bsky.social",
-          "postText": "When I watch streaming lately, the commercial breaks show 4 ads. 99% of the time lately, 2 are attack ads against Troy Jackson and the other 2 are attack ads against Susan Collins. The same 4 ads over and over. Election Day can't get here soon enough...\n\n#Maine #politics #ElectionDay",
-          "createdAt": "2026-08-16T14:22:10.332Z",
-          "uri": "at://did:plc:ekkminfdc3dsujukcpgsf45m/app.bsky.feed.post/3mt7f5rm2qs2e",
-          "sentiment": -1
         }
       ],
       "youtube": [
