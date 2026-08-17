@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T16:00:59.526Z",
+  "lastUpdated": "2026-08-17T16:39:59.279Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,9 +58,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.24414529914529914,
+      "overallSentiment": 0.23132478632478634,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.032435897435897434,
+      "socialSentiment": -0.006025641025641012,
       "mentions": {
         "news": 1,
         "social": 39,
@@ -79,6 +79,14 @@
         }
       ],
       "social": [
+        {
+          "id": "30848175e7d24df263f97bc52d3712f76da4475660c86e9de5b4408d849e1b47",
+          "authorHandle": "pressherald.com",
+          "postText": "Genocide canard is a smokescreen for antisemitism | Opinion",
+          "createdAt": "2026-08-17T16:15:25+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtc3x74vgd2n",
+          "sentiment": -0.8
+        },
         {
           "id": "283108e60250a2e6c596321541656aeacaabaddbade3ae5ff1930774b5e72172",
           "authorHandle": "mialong.bsky.social",
@@ -382,14 +390,6 @@
           "createdAt": "2026-08-16T17:45:45.145Z",
           "uri": "at://did:plc:aorjxo7zm7zxvszulmfgyw7s/app.bsky.feed.post/3mt7qju3og72n",
           "sentiment": -0.1
-        },
-        {
-          "id": "e4d39c683a624c44e903cd90d463e93eff77622a1eee25bb9b24c4ce660ddd50",
-          "authorHandle": "cmf406.bsky.social",
-          "postText": "Interesting that we're not seeing all the white Pod-save fanboys writing a million stories about Troy Jackson, actual working class candidate, actual socialist, the way we did about their bartender friend, the brocialist. \nwww.jacksonformaine.com",
-          "createdAt": "2026-08-16T16:21:53.435Z",
-          "uri": "at://did:plc:yghrgm6g2kvzxfvkpntgtejp/app.bsky.feed.post/3mt7lttw5fs2h",
-          "sentiment": 0.7
         }
       ],
       "youtube": [
