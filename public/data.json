@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T12:36:17.610Z",
+  "lastUpdated": "2026-08-17T13:02:23.088Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.19138888888888891,
+      "overallSentiment": -0.20906906906906908,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.012500000000000016,
+      "socialSentiment": -0.04054054054054052,
       "mentions": {
         "news": 1,
-        "social": 40,
+        "social": 37,
         "youtube": 15,
-        "total": 56
+        "total": 53
       },
       "news": [
         {
@@ -374,30 +374,6 @@
           "createdAt": "2026-08-16T13:05:37.092Z",
           "uri": "at://did:plc:ibh7ronyrjhp33hhv7nebel5/app.bsky.feed.post/3mt7auv526225",
           "sentiment": -1
-        },
-        {
-          "id": "20bb2073a09f6596f74994d83238c0f263d6fb9bd811b5235f16530ad3dd1944",
-          "authorHandle": "hancockcountydems.bsky.social",
-          "postText": "substack.com/@andyobrien/...",
-          "createdAt": "2026-08-16T12:58:24.401Z",
-          "uri": "at://did:plc:7expgbr42k6s436jjvpmr7al/app.bsky.feed.post/3mt7ahyhync2e",
-          "sentiment": 0
-        },
-        {
-          "id": "a67f2b090b0e79bba0158fef12d7581500602d9273e31a4bcaadc1264fa33617",
-          "authorHandle": "betsy-cazden.bsky.social",
-          "postText": "You and Troy Jackson should pair up on this, because rural Maine is facing the same issue. Maybe Josh Turek in IA as well, and Peggy Flanagan in MN. Do some joint ads, and link it directly to the Medicaid and ACA cuts your opponents voted for.",
-          "createdAt": "2026-08-16T12:37:49.172Z",
-          "uri": "at://did:plc:26mvqmmodxg37uxp7uhpbn5m/app.bsky.feed.post/3mt77d6hrds2u",
-          "sentiment": 1
-        },
-        {
-          "id": "98aa7b1469466018fc5ca3cf90e1e221534b2e1cd0ddcce0c92d7c2543eefca6",
-          "authorHandle": "marthastoryfoisy.bsky.social",
-          "postText": "Jackson for Maine's event, “Portland Meet & Greet with Troy Jackson” - sign up now to join me!  www.mobilize.us/jacksonforma...",
-          "createdAt": "2026-08-16T12:35:37.107Z",
-          "uri": "at://did:plc:tinlrolgqokcgyhxrvbvwdh5/app.bsky.feed.post/3mt777ajhmk2k",
-          "sentiment": 1
         }
       ],
       "youtube": [
@@ -557,17 +533,34 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": null,
+      "overallSentiment": -1,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": -1,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 2,
         "youtube": 0,
-        "total": 0
+        "total": 2
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "511786e61400431a557c46714d0636fbeb3e8f1fa41f3d9b265a9d6aefcd1f71",
+          "authorHandle": "scarymrolmecman.bsky.social",
+          "postText": "Still thinking about the chutzpah of Jordan Wood to run for office instead of packing his shit up and getting out of town before he gets run out on a rail.",
+          "createdAt": "2026-08-17T12:51:06.702Z",
+          "uri": "at://did:plc:lzxf47asxna5hk644g36oabj/app.bsky.feed.post/3mtbqjujb6s2n",
+          "sentiment": -1
+        },
+        {
+          "id": "8c0e6698bffd850aa1dd8badd28bea2dc775a07eb72b5a8ffa4ad22f890b12d5",
+          "authorHandle": "loblolly298.bsky.social",
+          "postText": "Jordan Wood is the primo grifterino. Losing is the new winning with them. He doesn’t care if he loses primaries for the next 20 years. He’ll rake in the cash no matter what happens. \n\nThey truly are Trumpers if not in policy, but in philosophy. Bilk ‘em til they die and then bilk their survivors.",
+          "createdAt": "2026-08-17T12:25:59.357Z",
+          "uri": "at://did:plc:h3mufjwp7uj6llylee4q6pli/app.bsky.feed.post/3mtbp4wypmc2y",
+          "sentiment": -1
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     }
