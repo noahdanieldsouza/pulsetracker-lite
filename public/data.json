@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T11:11:36.941Z",
+  "lastUpdated": "2026-08-17T11:43:27.350Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.20906432748538015,
+      "overallSentiment": -0.21805555555555556,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.03947368421052633,
+      "socialSentiment": 0.012500000000000016,
       "mentions": {
         "news": 5,
-        "social": 38,
+        "social": 40,
         "youtube": 15,
-        "total": 58
+        "total": 60
       },
       "news": [
         {
@@ -105,6 +105,22 @@
         }
       ],
       "social": [
+        {
+          "id": "36e640c5c9d633e51d5d1a1ca26f9864fbb0b8831143dd5f45985be02ec54e18",
+          "authorHandle": "universeguy.bsky.social",
+          "postText": "Gaslighting Maine voters!\n\nVote for Troy Jackson!",
+          "createdAt": "2026-08-17T11:39:00.143Z",
+          "uri": "at://did:plc:mws335x7ferl44i4eshhxkxq/app.bsky.feed.post/3mtbmiwf3xk2h",
+          "sentiment": -1
+        },
+        {
+          "id": "dc3b89d2217746e0031dbac4d52af7c1ac531c4c77201802d6fab252f59fd02b",
+          "authorHandle": "deanakclark.bsky.social",
+          "postText": "freebeacon.com/democrats/wi...",
+          "createdAt": "2026-08-17T11:23:37.979Z",
+          "uri": "at://did:plc:xobytlqeovnuckif4fep7tiq/app.bsky.feed.post/3mtblngww5s2o",
+          "sentiment": 0
+        },
         {
           "id": "c00227fe7e8e9fd7e9cd604c8404acc8838fda1b43e13878d2ddf77cd6702055",
           "authorHandle": "deanakclark.bsky.social",
