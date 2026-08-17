@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T20:46:06.591Z",
+  "lastUpdated": "2026-08-17T21:09:07.427Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2539236111111111,
+      "overallSentiment": 0.24088652482269501,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.06177083333333334,
+      "socialSentiment": 0.022659574468085086,
       "mentions": {
         "news": 1,
-        "social": 48,
+        "social": 47,
         "youtube": 1,
-        "total": 50
+        "total": 49
       },
       "news": [
         {
@@ -79,6 +79,14 @@
         }
       ],
       "social": [
+        {
+          "id": "dbff489132a90eaa35eceed52d05976f9e355be9eb695b1bda9ee998e92ef75f",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "Troy Jackson says Susan Collins opposed ICE body cameras and backed $70B more for immigration enforcement, while DHS considers electric-shock gloves.",
+          "createdAt": "2026-08-17T20:54:57.982Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mtcll2vmks2r",
+          "sentiment": -0.2
+        },
         {
           "id": "01a5a524e4ed8dab6b5786d05493ff0c5bb4893b4c14bc52e502cb8153ddfc9c",
           "authorHandle": "wordsfinallyspoken.bsky.social",
@@ -446,22 +454,6 @@
           "createdAt": "2026-08-16T21:52:19.730Z",
           "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mta6cpqmnc2p",
           "sentiment": 0.6
-        },
-        {
-          "id": "5e2a96fe516595e6ea93ea86406959ff1c98d4ef57773d62ba1a6727af5c8051",
-          "authorHandle": "blueheartedly1.bsky.social",
-          "postText": "Susan Collins has stood with Donald Trump, a convicted felon, a pedophile and a rapist.  \nTroy Jackson is Maine's democratic choice to defeat her, and polls show him sitting in her seat!",
-          "createdAt": "2026-08-16T20:56:37.778Z",
-          "uri": "at://did:plc:gtvctdk42imc65vk7un7iccc/app.bsky.feed.post/3mta374mfls2e",
-          "sentiment": 0.8
-        },
-        {
-          "id": "55c6fa0f1b5209c79e7ed70211675e10f923eab40c771ac1f52c422bf9f69b01",
-          "authorHandle": "livkalearns.bsky.social",
-          "postText": "Say hello to Lea Luna, founding member of the Midcoast chapter of “Pets for Troy Jackson” 🐈‍⬛🐾🐕\n\n#Maine #MidcoastMaine #MEPolitics",
-          "createdAt": "2026-08-16T20:48:18.311Z",
-          "uri": "at://did:plc:i6sgmljen565zw4ic24tkmty/app.bsky.feed.post/3mta2qac3os23",
-          "sentiment": 0.9
         }
       ],
       "youtube": [
