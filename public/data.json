@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T21:37:46.565Z",
+  "lastUpdated": "2026-08-17T21:57:24.392Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.25009803921568624,
+      "overallSentiment": 0.24643333333333337,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.0502941176470588,
+      "socialSentiment": 0.03929999999999999,
       "mentions": {
         "news": 1,
-        "social": 51,
+        "social": 50,
         "youtube": 1,
-        "total": 53
+        "total": 52
       },
       "news": [
         {
@@ -70,6 +70,14 @@
         }
       ],
       "social": [
+        {
+          "id": "ce90e2b16e36e4d67a19194713415b444c412f9716b193157a5bd66924666652",
+          "authorHandle": "hydevoltyge.bsky.social",
+          "postText": "Sometimes perceived moderation based on cultural aesthetics works for the better\n\nTroy Jackson gets to say 'Solidarity Forever' constantly and I love that",
+          "createdAt": "2026-08-17T21:47:54.006Z",
+          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mtcojps5jk2q",
+          "sentiment": 0.7
+        },
         {
           "id": "efb2d54bf401164ff209a85522f191f33eb119ec48e901c5173546d415277fbf",
           "authorHandle": "smhebe.bsky.social",
@@ -461,22 +469,6 @@
           "createdAt": "2026-08-16T23:24:07.101Z",
           "uri": "at://did:plc:bgwc2ufpbdgpcprff62z2ylz/app.bsky.feed.post/3mtadgtybmc2w",
           "sentiment": 0
-        },
-        {
-          "id": "ed18f43e34ecbf684768d532515d4da77f0d218517f0f3ce4550f40b4d7d4d5e",
-          "authorHandle": "booktweeting.bsky.social",
-          "postText": "we have Troy Jackson instead now, and he seems pretty solid\n\nhow's Max Miller working out for the Republican'ts again?",
-          "createdAt": "2026-08-16T21:53:46.748Z",
-          "uri": "at://did:plc:4ypydtsxlmkfyoyoxb26o4wd/app.bsky.feed.post/3mta6fcq75s2r",
-          "sentiment": 0.7
-        },
-        {
-          "id": "2b24490e1a6a9269643c6a8e56339cbe65935c72c008c31527f1b7a0513adf56",
-          "authorHandle": "gaylekate.bsky.social",
-          "postText": "2/2\n\nJames Talarico & Troy Jackson are having nothing to do w halfwits like DSA Fatty. El-Sayed is ditching Piker's crew. These folks are progressives, not Leftists\n\nSo perhaps you might want to consider a more nuanced understanding of the discourse",
-          "createdAt": "2026-08-16T21:52:19.730Z",
-          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mta6cpqmnc2p",
-          "sentiment": 0.6
         }
       ],
       "youtube": [
