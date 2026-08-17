@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T05:30:33.136Z",
+  "lastUpdated": "2026-08-17T06:03:14.516Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.19069069069069067,
+      "overallSentiment": -0.2094017094017094,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.0945945945945946,
+      "socialSentiment": 0.038461538461538464,
       "mentions": {
         "news": 5,
-        "social": 37,
+        "social": 39,
         "youtube": 15,
-        "total": 57
+        "total": 59
       },
       "news": [
         {
@@ -105,6 +105,22 @@
         }
       ],
       "social": [
+        {
+          "id": "bfb623d92dece4b67ea8c2f8bac4abc9bc5aee98c63733cf5b28debc29912882",
+          "authorHandle": "candylovely.bsky.social",
+          "postText": "www.baltimoresun.com/2026/08/03/r...",
+          "createdAt": "2026-08-17T05:58:11.725Z",
+          "uri": "at://did:plc:ezconqince3oolbmsz4wvy2j/app.bsky.feed.post/3mtazhjaxpk2r",
+          "sentiment": -1
+        },
+        {
+          "id": "e38232b1028ccf492cfb87a0010611f3254324fb93ed6a4cdc2f0a13bc0cdd75",
+          "authorHandle": "candylovely.bsky.social",
+          "postText": "#TroyJackson\n\nWhat the fuck\" \nwhat the fuck\nwhat the fuck. \n\nI posted last year the DSA candidate will destroy the Democratic Party and must not be allowed to run as Democrats.\n\nwww.yahoo.com/news/politic...",
+          "createdAt": "2026-08-17T05:56:58.818Z",
+          "uri": "at://did:plc:ezconqince3oolbmsz4wvy2j/app.bsky.feed.post/3mtazfdpyik2r",
+          "sentiment": -1
+        },
         {
           "id": "e09e421a91d875a254e3697ca05cf8a48f49fac2c62960a9c8c480a31efb5956",
           "authorHandle": "celiebug.bsky.social",
