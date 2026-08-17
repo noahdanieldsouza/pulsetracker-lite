@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T15:10:50.314Z",
+  "lastUpdated": "2026-08-17T15:43:15.447Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2355982905982906,
+      "overallSentiment": 0.2436178861788618,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.006794871794871804,
+      "socialSentiment": 0.030853658536585362,
       "mentions": {
         "news": 1,
-        "social": 39,
+        "social": 41,
         "youtube": 1,
-        "total": 41
+        "total": 43
       },
       "news": [
         {
@@ -79,6 +79,22 @@
         }
       ],
       "social": [
+        {
+          "id": "283108e60250a2e6c596321541656aeacaabaddbade3ae5ff1930774b5e72172",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-17T15:38:16.198Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtbzurf5vk2m",
+          "sentiment": 0
+        },
+        {
+          "id": "684565112ee7b61c38c2c736beabc7d00f8a5d7f070ded659037624b339aac1a",
+          "authorHandle": "marthastoryfoisy.bsky.social",
+          "postText": "I'm attending Jackson for Maine's event, “Belfast Garden Party with Troy Jackson!” - sign up now to join me!  www.mobilize.us/jacksonforma...",
+          "createdAt": "2026-08-17T15:11:16.520Z",
+          "uri": "at://did:plc:tinlrolgqokcgyhxrvbvwdh5/app.bsky.feed.post/3mtbyeiqi4s2a",
+          "sentiment": 1
+        },
         {
           "id": "6c729d8de8b3f39ab647f7e5abf85528734fa426a4bbe84bd2f1c8ae355e235b",
           "authorHandle": "libertyshimmer.bsky.social",
@@ -409,17 +425,25 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.25,
+      "overallSentiment": -0.08333333333333331,
       "newsSentiment": null,
-      "socialSentiment": -1,
+      "socialSentiment": -0.6666666666666666,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 3,
         "youtube": 6,
-        "total": 8
+        "total": 9
       },
       "news": [],
       "social": [
+        {
+          "id": "6ca178a512a89d87ae699fbf88c9712a58d4a3331c1231cb40481150e526e4fa",
+          "authorHandle": "razzball.bsky.social",
+          "postText": "Top 30 players on the our Player Rater (razzball.com/playerrater/) and their respective March ADP\n\nTop-50 ADP: 11\nADP 51-200: 14\nADP 201+: 5 (Walker, Dingler, Vargas, Varland, Hicks)\n\nWalker, Varland, and Hicks were all outside the Top-350 ADP. source: @ericcrossmlb.bsky.social",
+          "createdAt": "2026-08-17T15:42:27.463Z",
+          "uri": "at://did:plc:6guagmhjwdanmotimn45j3pq/app.bsky.feed.post/3mtc24az6u22z",
+          "sentiment": 0
+        },
         {
           "id": "511786e61400431a557c46714d0636fbeb3e8f1fa41f3d9b265a9d6aefcd1f71",
           "authorHandle": "scarymrolmecman.bsky.social",
