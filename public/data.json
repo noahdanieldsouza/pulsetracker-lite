@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T00:57:22.572Z",
+  "lastUpdated": "2026-08-17T02:19:16.307Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.14050179211469535,
+      "overallSentiment": -0.15444444444444447,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.2451612903225807,
+      "socialSentiment": 0.2033333333333333,
       "mentions": {
         "news": 5,
-        "social": 33,
+        "social": 32,
         "youtube": 15,
-        "total": 53
+        "total": 52
       },
       "news": [
         {
@@ -105,6 +105,14 @@
         }
       ],
       "social": [
+        {
+          "id": "f2dbf75e5776385f7c04d95fdc42b07c5c37fc53448d162dc740f947ce481037",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-17T01:30:20.888Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtakikvvy22w",
+          "sentiment": -1
+        },
         {
           "id": "4be264ebf228cba9f51e21f6b12c275c6ae9948e9961bb5241ad03a470db6820",
           "authorHandle": "ajr68.bsky.social",
@@ -352,22 +360,6 @@
           "createdAt": "2026-08-16T02:55:09.942Z",
           "uri": "at://did:plc:ss26nipr2thvdhqbfkadzvlc/app.bsky.feed.post/3mt66rcqrbk2z",
           "sentiment": 1
-        },
-        {
-          "id": "07a61c63a5eff86d0af2216dbd1ff461614ec4765f775b4f8a9c40e9ae69457d",
-          "authorHandle": "mashedparsnip.bsky.social",
-          "postText": "Mainers, vote for Troy Jackson! Let’s go!",
-          "createdAt": "2026-08-16T02:15:34.730Z",
-          "uri": "at://did:plc:cmqgxgm5zdptyvr7pozdznjs/app.bsky.feed.post/3mt64kjl76s2b",
-          "sentiment": 1
-        },
-        {
-          "id": "afddc529197f1531e75b5497c93cb6005bbc3836cae44197c462043f5b164b39",
-          "authorHandle": "dkon.bsky.social",
-          "postText": "The OP says the entire crowd was on the bus, which wasn’t true. However, my biggest issue is the vilifying of the media when they actually covered it very fairly, including giving Troy Jackson a lot of screen time. I very much dislike the MSM being used as a convenient punching bag.",
-          "createdAt": "2026-08-16T01:16:02.254Z",
-          "uri": "at://did:plc:cxaljivhov2e3iuglswftzvr/app.bsky.feed.post/3mt5za2lpac2a",
-          "sentiment": -0.5
         }
       ],
       "youtube": [
