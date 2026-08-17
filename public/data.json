@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T13:20:59.919Z",
+  "lastUpdated": "2026-08-17T13:49:45.547Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.21981981981981982,
+      "overallSentiment": 0.2351851851851852,
       "newsSentiment": -0.3,
-      "socialSentiment": -0.04054054054054052,
+      "socialSentiment": 0.005555555555555567,
       "mentions": {
         "news": 1,
-        "social": 37,
+        "social": 36,
         "youtube": 1,
-        "total": 39
+        "total": 38
       },
       "news": [
         {
@@ -79,6 +79,14 @@
         }
       ],
       "social": [
+        {
+          "id": "ba5a8f6b7c610786b4002fc7471369f0e8a1db4f7ed0a457d37db9908d8f945c",
+          "authorHandle": "backyarddinosaurs.bsky.social",
+          "postText": "I truly hope the attack ads on Troy Jackson aren't swaying anyone. They are astoundingly low effort.  Like, it's embarrassingly bad. The best they can do is the \"keep it in the family\" line which you /know/ isn't about his son.\nOh. And Maine Wire for the sources? Hilarious #mepolitics #maine",
+          "createdAt": "2026-08-17T13:05:37.091Z",
+          "uri": "at://did:plc:gs6hfx43ywrge7kfnmfjazcq/app.bsky.feed.post/3mtbrdslfhs2p",
+          "sentiment": 0.7
+        },
         {
           "id": "36e640c5c9d633e51d5d1a1ca26f9864fbb0b8831143dd5f45985be02ec54e18",
           "authorHandle": "universeguy.bsky.social",
@@ -357,22 +365,6 @@
           "postText": "When I watch streaming lately, the commercial breaks show 4 ads. 99% of the time lately, 2 are attack ads against Troy Jackson and the other 2 are attack ads against Susan Collins. The same 4 ads over and over. Election Day can't get here soon enough...\n\n#Maine #politics #ElectionDay",
           "createdAt": "2026-08-16T14:22:10.332Z",
           "uri": "at://did:plc:ekkminfdc3dsujukcpgsf45m/app.bsky.feed.post/3mt7f5rm2qs2e",
-          "sentiment": -1
-        },
-        {
-          "id": "06627eae0e7576805b52a4b8881a11846383ae7ad38d76570d5869d6bd3384e7",
-          "authorHandle": "capitalistfool.bsky.social",
-          "postText": "You can donate to Troy's Senate campaign here:\nwww.jacksonformaine.com",
-          "createdAt": "2026-08-16T13:41:05.775Z",
-          "uri": "at://did:plc:iq4dgqv2ejszt3sxfnoljrvc/app.bsky.feed.post/3mt7cud6xg22f",
-          "sentiment": 0
-        },
-        {
-          "id": "985cc4efee592692ddbf90c8f95d875c20a304a742fafd8864e89e50552b128b",
-          "authorHandle": "sdemetri.bsky.social",
-          "postText": "Collins commits daily violence against common decency enabling the worst offenses by the criminal idiot president b/ Troy Jackson punched someone 40 yrs ago and he’s who’s unfit to serve as senator. Republicans are such insulting jokes of a party.",
-          "createdAt": "2026-08-16T13:05:37.092Z",
-          "uri": "at://did:plc:ibh7ronyrjhp33hhv7nebel5/app.bsky.feed.post/3mt7auv526225",
           "sentiment": -1
         }
       ],
