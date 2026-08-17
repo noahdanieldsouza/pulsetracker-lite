@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T23:04:03.151Z",
+  "lastUpdated": "2026-08-17T23:32:54.181Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,9 +49,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.24422839506172841,
+      "overallSentiment": 0.2405246913580247,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.03268518518518517,
+      "socialSentiment": 0.021574074074074065,
       "mentions": {
         "news": 1,
         "social": 54,
@@ -70,6 +70,14 @@
         }
       ],
       "social": [
+        {
+          "id": "05312f2fee6b091a4459619c3700ae182587a729cbc37aad2025ec185eb8ccf9",
+          "authorHandle": "miri100.bsky.social",
+          "postText": "Vote Troy Jackson Maine!lets  get rid of deplorable Susan Collins",
+          "createdAt": "2026-08-17T23:20:17.329Z",
+          "uri": "at://did:plc:paibcibiabs2rezrk5vikuy6/app.bsky.feed.post/3mtctowd2sc2i",
+          "sentiment": -0.6
+        },
         {
           "id": "c3b668a2ad87db43f6a9a717978d95d47cd5381c9116646cb025fc5662acbd6d",
           "authorHandle": "elprecintomx.bsky.social",
@@ -493,14 +501,6 @@
           "createdAt": "2026-08-17T00:11:45.313Z",
           "uri": "at://did:plc:p2ygpwluon3vrk5yecjq7wc5/app.bsky.feed.post/3mtag3zrxc225",
           "sentiment": 0.5
-        },
-        {
-          "id": "bf897ed625801def942a76aebdee766d1377a51ce4b2a4cdcbadd1db4f9d3ddb",
-          "authorHandle": "cokie-o.bsky.social",
-          "postText": "andyobrien.substack.com/p/thousands-...",
-          "createdAt": "2026-08-16T23:24:07.101Z",
-          "uri": "at://did:plc:bgwc2ufpbdgpcprff62z2ylz/app.bsky.feed.post/3mtadgtybmc2w",
-          "sentiment": 0
         }
       ],
       "youtube": [
