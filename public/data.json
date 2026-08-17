@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T12:01:17.605Z",
+  "lastUpdated": "2026-08-17T12:36:17.610Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -23,15 +23,25 @@
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
       "overallSentiment": 0,
-      "newsSentiment": null,
+      "newsSentiment": 0,
       "socialSentiment": 0,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 1,
         "youtube": 0,
-        "total": 1
+        "total": 2
       },
-      "news": [],
+      "news": [
+        {
+          "id": "3096febe5c0f89a9ba134f50ab812dc3bedbf963ef27713d53345cf1efe8b127",
+          "title": "Ballot Language Wars Reshape Major Referendums Before a Single Vote Is Cast",
+          "description": "Democrat state officials across the country have altered referendum language, which critics allege is aimed at manipulating the outcome of ballot measures this fall. After California Attorney General Rob Bonta altered the language of California’s voter ID measure, Proposition 39, the Yes on 39 campaign alleged in court the alteration was misleading. A Sacramento judge...",
+          "sourceName": "The Daily Signal",
+          "url": "https://www.dailysignal.com/2026/08/16/ballot-language-wars-reshape-major-referendums-before-a-single-vote-is-cast/",
+          "publishedAt": "2026-08-16T14:00:00.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [
         {
           "id": "c60b9277f71b697c61f235be0f0c350bf7cad4a7b0c56e465cf14b841e462ba5",
@@ -48,60 +58,24 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.21805555555555556,
-      "newsSentiment": -0.38,
+      "overallSentiment": -0.19138888888888891,
+      "newsSentiment": -0.3,
       "socialSentiment": 0.012500000000000016,
       "mentions": {
-        "news": 5,
+        "news": 1,
         "social": 40,
         "youtube": 15,
-        "total": 60
+        "total": 56
       },
       "news": [
         {
-          "id": "ddadb637222b067a78fd2c704dc888a0245a2b81b0b3291be81e966139d5e1ef",
-          "title": "Does anyone want to win the midterm elections?",
-          "description": "There is a case to be made that both parties are doing everything they can to blow their advantages.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/magazine-features/4685808/does-anyone-want-to-win-midterm-elections/",
-          "publishedAt": "2026-08-15T16:34:44.000Z",
-          "sentiment": -0.1
-        },
-        {
-          "id": "f4099585aaaf53ecbb71f0b5572b05e752f71f3ad550977669f3a1da97193aac",
-          "title": "The top 10 House and Senate races to watch that will determine whether Republicans or Democrats take control in November",
-          "description": "Check out the 10 US Senate and US House Seats most likely to determine control of Congress in November.",
-          "sourceName": "Mail Online",
-          "url": "https://www.dailymail.com/news/article-16041949/top-house-senate-races-determine-power-midterm-elections.html",
-          "publishedAt": "2026-08-15T16:16:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "055e077e922677db90827d3bbf87bb89adc86d76b4b02ac2629758de24ecd409",
-          "title": "The big midterm question",
-          "description": "As we approach Labor Day — the unofficial start of the general-election season — campaigns are obsessed with money.",
-          "sourceName": "Norfolk Daily News",
-          "url": "https://norfolkdailynews.com/commentary/the-big-midterm-question/article_955940e7-ef7c-4bea-a571-6d09fc115825.html",
-          "publishedAt": "2026-08-15T15:30:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c6bab8d27d6cad49dc8f60144551d61e241bdcaaa5e8d9b454f87b79a2df2243",
-          "title": "NEW ALLEGATION ROCKS MAINE SENATE RACE: Local Man Says He Saw Far-Left Democrat Troy Jackson Slap Longtime Partner with Open Hand — Comes After 1988 Police Report of Jackson Punching a Man",
-          "description": "Maine US Senate candidate Troy Jackson Maine’s far-left Democratic U.S. Senate nominee Troy Jackson is facing explosive new allegations of domestic violence just weeks after Democrats scrambled to install him as their candidate against Republican Sen. Susan Collins. Kim McBreairty, an Allagash man who has known Jackson for decades, told The Maine Wire he personally witnessed the progressive logger open-hand slap his longtime partner, Lana Pelletier, outside a pub in neighboring St. Francis years ago. Kim McBreairty said he was approaching the entrance one evening when he saw Jackson standing with Pelletier. “He just open-hand slapped her beside the head,”...",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-bloggers/4391908/posts",
-          "publishedAt": "2026-08-15T13:54:46.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "54f181e1d751eb763866302b45cf2111d774b2f935270cf6bb9cc4ada92d4098",
-          "title": "He's Baaaack: Platner Returns to Political Spotlight as His Replacement Deals with a Domestic Violence Allegation of His Own",
-          "description": "For those of you up in Maine, I bring unfortunate news: It seems that, even after all he’s been through, there is no one to keep Graham Platner from pursuing [...] The post He's Baaaack: Platner Returns to Political Spotlight as His Replacement Deals with a Domestic Violence Allegation of His Own appeared first on The Western Journal .",
-          "sourceName": "The Western Journal",
-          "url": "https://www.westernjournal.com/baaaack-platner-returns-political-spotlight-replacement-deals-domestic-violence-allegation/",
-          "publishedAt": "2026-08-15T13:26:00.000Z",
-          "sentiment": -0.8
+          "id": "9ebd12e30578e04c931f3db1dda80147689205a0eca4cf18d9de48d27c1bf571",
+          "title": "Far Left's Primary Wins Rattle Mainstream Democrats",
+          "description": "A wave of insurgent, left-wing Democrats has captured high-profile Senate primaries in Michigan and Minnesota and came within 1 percentage point of winning a gubernatorial nomination in Wisconsin, forcing the party establishment to rally behind nominees it spent tens of...",
+          "sourceName": "Newsmax.com",
+          "url": "https://www.newsmax.com/newsfront/abdul-el-sayed-peggyflanagan-troyjackson/2026/08/16/id/1266251",
+          "publishedAt": "2026-08-16T12:46:49.000Z",
+          "sentiment": -0.3
         }
       ],
       "social": [
