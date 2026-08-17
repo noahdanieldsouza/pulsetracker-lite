@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T03:15:47.686Z",
+  "lastUpdated": "2026-08-17T04:05:40.341Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,9 +48,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.18659003831417623,
+      "overallSentiment": -0.19003831417624525,
       "newsSentiment": -0.38,
-      "socialSentiment": 0.10689655172413792,
+      "socialSentiment": 0.09655172413793103,
       "mentions": {
         "news": 5,
         "social": 31,
@@ -105,6 +105,14 @@
         }
       ],
       "social": [
+        {
+          "id": "3088df4ecf77dd0927836781db0dcd808043b503e890773402e3e8a629b4ff92",
+          "authorHandle": "lowrhoufo.bsky.social",
+          "postText": "Got my first Troy Jackson ad. I think this works",
+          "createdAt": "2026-08-17T03:37:04.821Z",
+          "uri": "at://did:plc:hfrtjnhcfzvyrht2atilf3yw/app.bsky.feed.post/3mtarl6lit22t",
+          "sentiment": 0.7
+        },
         {
           "id": "89a47d41693c9e3beadcb631b3781f4fa9e44031b8a4b5a0c5606b7b3e9d0591",
           "authorHandle": "studio36design.bsky.social",
@@ -344,14 +352,6 @@
           "createdAt": "2026-08-16T04:46:47.461Z",
           "uri": "at://did:plc:qgimsdoqyxdklecbembcwvc5/app.bsky.feed.post/3mt6eyvyy2k2n",
           "sentiment": 0
-        },
-        {
-          "id": "b60964d7a52f55d7cc7163da4c2a263022ea43c053ef50a3fc7856af9f082aca",
-          "authorHandle": "bindergirl.bsky.social",
-          "postText": "And Susan Collins literally has to bring people to her rallies so she has “supporters” to talk to\n\nMaine needs a change!\n\nVote for Troy Jackson!",
-          "createdAt": "2026-08-16T03:51:12.764Z",
-          "uri": "at://did:plc:mkjsthhf4wqfb5rfjgjexugw/app.bsky.feed.post/3mt6bvjrw5s2t",
-          "sentiment": 1
         }
       ],
       "youtube": [
