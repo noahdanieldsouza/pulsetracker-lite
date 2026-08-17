@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T22:24:23.718Z",
+  "lastUpdated": "2026-08-17T22:48:44.402Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.24569182389937105,
+      "overallSentiment": 0.24422839506172841,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.0370754716981132,
+      "socialSentiment": 0.03268518518518517,
       "mentions": {
         "news": 1,
-        "social": 53,
+        "social": 54,
         "youtube": 1,
-        "total": 55
+        "total": 56
       },
       "news": [
         {
@@ -70,6 +70,14 @@
         }
       ],
       "social": [
+        {
+          "id": "c3b668a2ad87db43f6a9a717978d95d47cd5381c9116646cb025fc5662acbd6d",
+          "authorHandle": "elprecintomx.bsky.social",
+          "postText": "Maine fue más extraño aún. Schumer y el DSCC le despejaron el camino a Janet Mills; solo el progresista Graham Platner se negó a retirarse, y la venció. Después renunció por un escándalo, pero su reemplazo, Troy Jackson, mantiene la misma plataforma populista.",
+          "createdAt": "2026-08-17T22:46:52.080Z",
+          "uri": "at://did:plc:sbik7ja5u25yazup27radhuu/app.bsky.feed.post/3mtcrta4zls2d",
+          "sentiment": -0.2
+        },
         {
           "id": "474a0cf964b610808d6bdd1346f1c97507ec36e4e5b26037a9e81a598f27a207",
           "authorHandle": "almarosar572.bsky.social",
