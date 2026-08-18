@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T22:00:22.448Z",
+  "lastUpdated": "2026-08-18T22:36:56.876Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.4041666666666666,
+      "overallSentiment": -0.40502873563218394,
       "newsSentiment": -0.1875,
-      "socialSentiment": -0.02499999999999998,
+      "socialSentiment": -0.027586206896551703,
       "mentions": {
         "news": 16,
-        "social": 32,
+        "social": 29,
         "youtube": 1,
-        "total": 49
+        "total": 46
       },
       "news": [
         {
@@ -426,30 +426,6 @@
           "createdAt": "2026-08-17T22:46:52.080Z",
           "uri": "at://did:plc:sbik7ja5u25yazup27radhuu/app.bsky.feed.post/3mtcrta4zls2d",
           "sentiment": -0.2
-        },
-        {
-          "id": "474a0cf964b610808d6bdd1346f1c97507ec36e4e5b26037a9e81a598f27a207",
-          "authorHandle": "almarosar572.bsky.social",
-          "postText": "youtube.com/shorts/EHDhE...",
-          "createdAt": "2026-08-17T22:17:13.868Z",
-          "uri": "at://did:plc:3rizd6kdxg7jsluit7kqgx7h/app.bsky.feed.post/3mtcq664trs2r",
-          "sentiment": 0
-        },
-        {
-          "id": "21ce686286236b3a7840f94494a72ac64b048e1ee2f2ec115323d9d9dc8423d5",
-          "authorHandle": "almarosar572.bsky.social",
-          "postText": "youtube.com/shorts/EHDhE...",
-          "createdAt": "2026-08-17T22:17:13.848Z",
-          "uri": "at://did:plc:3rizd6kdxg7jsluit7kqgx7h/app.bsky.feed.post/3mtcq664jzc2r",
-          "sentiment": 0
-        },
-        {
-          "id": "f64c166b130a8034a6f2eb01d0fd40404756f0d5289ecebadc4aea04b7806acd",
-          "authorHandle": "justrish1788.substack.com",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-17T22:11:54.358Z",
-          "uri": "at://did:plc:ywjdnoronqcks6wml624zynx/app.bsky.feed.post/3mtcpungg4c2z",
-          "sentiment": 0
         }
       ],
       "youtube": [
