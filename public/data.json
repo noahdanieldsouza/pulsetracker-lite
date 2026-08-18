@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T15:56:32.277Z",
+  "lastUpdated": "2026-08-18T16:28:48.897Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.3589912280701754,
+      "overallSentiment": -0.3625,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.11052631578947371,
+      "socialSentiment": 0.1,
       "mentions": {
         "news": 16,
-        "social": 38,
+        "social": 40,
         "youtube": 1,
-        "total": 55
+        "total": 57
       },
       "news": [
         {
@@ -195,6 +195,30 @@
         }
       ],
       "social": [
+        {
+          "id": "033f0554da443424e520217073d012fc10472a9a78d414bed7d82b1f7443a4f4",
+          "authorHandle": "w3hnt.bsky.social",
+          "postText": "“Why would our girl from Aroostook County be the deciding vote for the justice that overthrew Roe v. Wade?”\n\nabcnews.com/amp/Politics...",
+          "createdAt": "2026-08-18T16:21:32.263Z",
+          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3mtemr2nkm22l",
+          "sentiment": -1
+        },
+        {
+          "id": "cecde2b4a590a475405bc817082f0f01e09792ea096b82a4bd254b86f7929174",
+          "authorHandle": "jpylko.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-18T16:20:53.550Z",
+          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mtempvqats2k",
+          "sentiment": 0
+        },
+        {
+          "id": "e453941e581385b4a0843e25f39ecda01b59c64b553ae4159e64f9812086170b",
+          "authorHandle": "jimmyleander.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-18T16:18:28.859Z",
+          "uri": "at://did:plc:dw2qe4dsqywyaa5tw7sewjae/app.bsky.feed.post/3mtemllqk4c2l",
+          "sentiment": 0
+        },
         {
           "id": "807e3eef7da3138721cb5703235131514f21c17a187f52865c89903d5570033f",
           "authorHandle": "jeisrael.bsky.social",
@@ -490,14 +514,6 @@
           "createdAt": "2026-08-17T17:20:06.366Z",
           "uri": "at://did:plc:gjvqmtdtqeisjfi664ixj347/app.bsky.feed.post/3mtc7kuj6hk2c",
           "sentiment": 0.8
-        },
-        {
-          "id": "30848175e7d24df263f97bc52d3712f76da4475660c86e9de5b4408d849e1b47",
-          "authorHandle": "pressherald.com",
-          "postText": "Genocide canard is a smokescreen for antisemitism | Opinion",
-          "createdAt": "2026-08-17T16:15:25+00:00",
-          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtc3x74vgd2n",
-          "sentiment": -0.8
         }
       ],
       "youtube": [
