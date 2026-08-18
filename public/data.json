@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T19:15:14.163Z",
+  "lastUpdated": "2026-08-18T19:42:25.720Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.3675,
+      "overallSentiment": -0.3681910569105691,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.085,
+      "socialSentiment": 0.08292682926829269,
       "mentions": {
         "news": 16,
-        "social": 40,
+        "social": 41,
         "youtube": 1,
-        "total": 57
+        "total": 58
       },
       "news": [
         {
@@ -195,6 +195,14 @@
         }
       ],
       "social": [
+        {
+          "id": "c1e76a73921e33064e03a125a6c5205a03ccbdf5a1e4c243d0ba64ebc6263c23",
+          "authorHandle": "lurkerenvoy.bsky.social",
+          "postText": "Interesting read\n\nwww.pressherald.com/2026/08/12/t...",
+          "createdAt": "2026-08-18T19:20:25.558Z",
+          "uri": "at://did:plc:ngg3zescdojwvirotsxglkz7/app.bsky.feed.post/3mtewqwpuv226",
+          "sentiment": 0
+        },
         {
           "id": "fb737493bac8a11daec7611146dde577178c1d55d378d93783111981e6bab160",
           "authorHandle": "toddd34.bsky.social",
