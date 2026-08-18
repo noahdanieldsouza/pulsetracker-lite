@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T22:57:10.279Z",
+  "lastUpdated": "2026-08-18T23:21:38.182Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.40297619047619043,
+      "overallSentiment": -0.3843390804597701,
       "newsSentiment": -0.1875,
-      "socialSentiment": -0.021428571428571408,
+      "socialSentiment": 0.03448275862068968,
       "mentions": {
         "news": 16,
-        "social": 28,
+        "social": 29,
         "youtube": 1,
-        "total": 45
+        "total": 46
       },
       "news": [
         {
@@ -195,6 +195,22 @@
         }
       ],
       "social": [
+        {
+          "id": "9281a59b0fdf6865a68d7fbe77718365a9e26f6fd02a302875a141597b984c2a",
+          "authorHandle": "732lighthouse.bsky.social",
+          "postText": "Maine’s Sen Susan Collins should’ve been voted-out of office a long time ago. It’s time to elect Troy Jackson‼️👍",
+          "createdAt": "2026-08-18T23:17:13.310Z",
+          "uri": "at://did:plc:7ow6bbxdvqadcdhkqvvhkmbl/app.bsky.feed.post/3mtfdyebutk2n",
+          "sentiment": 1
+        },
+        {
+          "id": "cd96102b2754a06d4541a09ca60f5baeb89617052c9917a4cd5b8338c8d39660",
+          "authorHandle": "cdl6229.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-18T23:08:58.812Z",
+          "uri": "at://did:plc:2vpfx7upbzftyzywtsx4pfwh/app.bsky.feed.post/3mtfdjmp4k224",
+          "sentiment": 0
+        },
         {
           "id": "0849e87e31af8e71a7c633c3ab708bce46af39b219ddc961c96ff3cf2e7267bb",
           "authorHandle": "mialong.bsky.social",
@@ -409,14 +425,6 @@
           "postText": "Btw, they’re already pulling the same shit against his replacement, who is barely present in the media except for hit pieces. You left the door open for it. \n\nwww.wagmtv.com/2026/08/14/t...",
           "createdAt": "2026-08-18T01:03:51.877Z",
           "uri": "at://did:plc:4ivwwodxn6dj2r4qorf3vjo4/app.bsky.feed.post/3mtczi4y4b226",
-          "sentiment": -0.6
-        },
-        {
-          "id": "05312f2fee6b091a4459619c3700ae182587a729cbc37aad2025ec185eb8ccf9",
-          "authorHandle": "miri100.bsky.social",
-          "postText": "Vote Troy Jackson Maine!lets  get rid of deplorable Susan Collins",
-          "createdAt": "2026-08-17T23:20:17.329Z",
-          "uri": "at://did:plc:paibcibiabs2rezrk5vikuy6/app.bsky.feed.post/3mtctowd2sc2i",
           "sentiment": -0.6
         }
       ],
