@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T08:57:11.076Z",
+  "lastUpdated": "2026-08-18T09:32:48.840Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.24202702702702705,
+      "overallSentiment": 0.22790598290598293,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.02608108108108108,
+      "socialSentiment": -0.016282051282051267,
       "mentions": {
         "news": 1,
-        "social": 37,
+        "social": 39,
         "youtube": 1,
-        "total": 39
+        "total": 41
       },
       "news": [
         {
@@ -70,6 +70,22 @@
         }
       ],
       "social": [
+        {
+          "id": "40da5d6781cb524fac10848ceee6bb644e30b1c53556fe6e5ed19afa0fe279a1",
+          "authorHandle": "us-headlines.bsky.social",
+          "postText": "📰 The Washington Examiner\nTroy Jackson, now pushing affordability message, voted to raise taxes in Maine\n\n⟶ The Washington Examiner | headline in context",
+          "createdAt": "2026-08-18T09:22:20.190Z",
+          "uri": "at://did:plc:cvgjuh3a42ina33yol2znsnq/app.bsky.feed.post/3mtdvdhsgoe27",
+          "sentiment": -0.8
+        },
+        {
+          "id": "e2c512c09804bad74d504f0c3feeb54f5b10d21446724e028e8173b02c0a6295",
+          "authorHandle": "mainstream-media.bsky.social",
+          "postText": "Troy Jackson, now pushing affordability message, voted to raise taxes in Maine\n\nhttps://www.washingtonexaminer.com/n...",
+          "createdAt": "2026-08-18T09:20:18.425114+00:00",
+          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mtdv7tohlz27",
+          "sentiment": -0.8
+        },
         {
           "id": "628d4113c81fe97ceabd3660e7d6390e91fa5862ea885d891f9fe51019ca8c15",
           "authorHandle": "hope42025.bsky.social",
