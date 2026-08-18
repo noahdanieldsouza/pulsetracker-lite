@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T13:31:10.005Z",
+  "lastUpdated": "2026-08-18T14:10:38.366Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.38173423423423425,
+      "overallSentiment": -0.3702916666666667,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.042297297297297275,
+      "socialSentiment": 0.07662500000000003,
       "mentions": {
         "news": 16,
-        "social": 37,
+        "social": 40,
         "youtube": 1,
-        "total": 54
+        "total": 57
       },
       "news": [
         {
@@ -195,6 +195,30 @@
         }
       ],
       "social": [
+        {
+          "id": "d52ffff8a836f03e17321cbf20503799127564cee9ac50fcaa85b65f47e97b09",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "Troy Jackson slammed Sen. Susan Collins for opposing a War Powers Resolution amid the nearly six-month Iran war and rising costs. Rosie O’Donnell mocked Trump while guest-hosting Jimmy Kimmel Live.",
+          "createdAt": "2026-08-18T14:08:13.625Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mtefcokhpc22",
+          "sentiment": 0.7
+        },
+        {
+          "id": "eff2c103f353b015bef3b010302077491e210e1e52c093b8c41c45d1cf9cfa2d",
+          "authorHandle": "emily68.bsky.social",
+          "postText": "Just going by this photo, Troy Jackson isn’t taking any shit from anyone.",
+          "createdAt": "2026-08-18T14:03:35.143Z",
+          "uri": "at://did:plc:3u54jssxq5j3a6v3l3ztwssv/app.bsky.feed.post/3mtef2exxkk24",
+          "sentiment": 0.8
+        },
+        {
+          "id": "598c175bb6f0dc560611a481a394d4ecd3be9f90adf2d695074ec4c205ec5b89",
+          "authorHandle": "joss17.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-18T13:39:28.285Z",
+          "uri": "at://did:plc:plbe64qk3vk7ihy3z2pivshc/app.bsky.feed.post/3mtedpb5bec2x",
+          "sentiment": 0
+        },
         {
           "id": "e171fe74948d88ca55232f48d96bee76502e8d1ae0336e37cfc1f1fba88b7e20",
           "authorHandle": "officiallilsilver.bsky.social",
