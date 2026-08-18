@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T05:46:56.062Z",
+  "lastUpdated": "2026-08-18T06:16:20.587Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2242543859649123,
+      "overallSentiment": 0.24202702702702705,
       "newsSentiment": -0.3,
-      "socialSentiment": -0.02723684210526316,
+      "socialSentiment": 0.02608108108108108,
       "mentions": {
         "news": 1,
-        "social": 38,
+        "social": 37,
         "youtube": 1,
-        "total": 40
+        "total": 39
       },
       "news": [
         {
@@ -70,6 +70,14 @@
         }
       ],
       "social": [
+        {
+          "id": "628d4113c81fe97ceabd3660e7d6390e91fa5862ea885d891f9fe51019ca8c15",
+          "authorHandle": "hope42025.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-18T06:14:53.263Z",
+          "uri": "at://did:plc:5iabq3iuyq24fc6tdzwj6xot/app.bsky.feed.post/3mtdkubua6226",
+          "sentiment": 0
+        },
         {
           "id": "8746b5d827b1cf3d1450924f309f2469d9a471f71fc717d5dcc30a9e751ef9d4",
           "authorHandle": "joyfuljacqui.bsky.social",
@@ -357,22 +365,6 @@
           "createdAt": "2026-08-17T11:00:33.479Z",
           "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mtbke6lcfk2s",
           "sentiment": 0
-        },
-        {
-          "id": "bfb623d92dece4b67ea8c2f8bac4abc9bc5aee98c63733cf5b28debc29912882",
-          "authorHandle": "candylovely.bsky.social",
-          "postText": "www.baltimoresun.com/2026/08/03/r...",
-          "createdAt": "2026-08-17T05:58:11.725Z",
-          "uri": "at://did:plc:ezconqince3oolbmsz4wvy2j/app.bsky.feed.post/3mtazhjaxpk2r",
-          "sentiment": -1
-        },
-        {
-          "id": "e38232b1028ccf492cfb87a0010611f3254324fb93ed6a4cdc2f0a13bc0cdd75",
-          "authorHandle": "candylovely.bsky.social",
-          "postText": "#TroyJackson\n\nWhat the fuck\" \nwhat the fuck\nwhat the fuck. \n\nI posted last year the DSA candidate will destroy the Democratic Party and must not be allowed to run as Democrats.\n\nwww.yahoo.com/news/politic...",
-          "createdAt": "2026-08-17T05:56:58.818Z",
-          "uri": "at://did:plc:ezconqince3oolbmsz4wvy2j/app.bsky.feed.post/3mtazfdpyik2r",
-          "sentiment": -1
         }
       ],
       "youtube": [
