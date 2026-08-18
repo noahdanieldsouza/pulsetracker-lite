@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T15:25:55.941Z",
+  "lastUpdated": "2026-08-18T15:56:32.277Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.3651315789473684,
+      "overallSentiment": -0.3589912280701754,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.09210526315789473,
+      "socialSentiment": 0.11052631578947371,
       "mentions": {
         "news": 16,
         "social": 38,
@@ -195,6 +195,14 @@
         }
       ],
       "social": [
+        {
+          "id": "807e3eef7da3138721cb5703235131514f21c17a187f52865c89903d5570033f",
+          "authorHandle": "jeisrael.bsky.social",
+          "postText": "“Troy believes health care is a human right, not a privilege reserved for people who can afford it,” a Jackson campaign spokesperson told the Maine Independent.\n\nmaineindependentnews.com/health-care/...",
+          "createdAt": "2026-08-18T15:39:10.296Z",
+          "uri": "at://did:plc:mughmzhyvi3pe5wc7rmd4ihs/app.bsky.feed.post/3mtekfcgty22g",
+          "sentiment": 0.7
+        },
         {
           "id": "79512d3ba73c61918f6726a6b876df56a5e3c78b66e60fdc1f7faadff1863d18",
           "authorHandle": "beesmartypants.bsky.social",
@@ -490,14 +498,6 @@
           "createdAt": "2026-08-17T16:15:25+00:00",
           "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtc3x74vgd2n",
           "sentiment": -0.8
-        },
-        {
-          "id": "283108e60250a2e6c596321541656aeacaabaddbade3ae5ff1930774b5e72172",
-          "authorHandle": "mialong.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-17T15:38:16.198Z",
-          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtbzurf5vk2m",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -522,9 +522,9 @@
       "socialSentiment": 0,
       "mentions": {
         "news": 1,
-        "social": 3,
+        "social": 2,
         "youtube": 6,
-        "total": 10
+        "total": 9
       },
       "news": [
         {
@@ -552,14 +552,6 @@
           "postText": "9651 S WOOD VISTA CIR, South Jordan, Utah, 84095\n\n#SouthJordan #utah\n",
           "createdAt": "2026-08-17T22:00:02Z",
           "uri": "at://did:plc:4dpe2wnptijhrxtzmpsidxj7/app.bsky.feed.post/3mtcp7hhsfo2o",
-          "sentiment": 0
-        },
-        {
-          "id": "6ca178a512a89d87ae699fbf88c9712a58d4a3331c1231cb40481150e526e4fa",
-          "authorHandle": "razzball.bsky.social",
-          "postText": "Top 30 players on the our Player Rater (razzball.com/playerrater/) and their respective March ADP\n\nTop-50 ADP: 11\nADP 51-200: 14\nADP 201+: 5 (Walker, Dingler, Vargas, Varland, Hicks)\n\nWalker, Varland, and Hicks were all outside the Top-350 ADP. source: @ericcrossmlb.bsky.social",
-          "createdAt": "2026-08-17T15:42:27.463Z",
-          "uri": "at://did:plc:6guagmhjwdanmotimn45j3pq/app.bsky.feed.post/3mtc24az6u22z",
           "sentiment": 0
         }
       ],
