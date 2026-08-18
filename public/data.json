@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T17:30:56.151Z",
+  "lastUpdated": "2026-08-18T17:57:46.148Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.3728174603174603,
+      "overallSentiment": -0.36408730158730157,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.06904761904761905,
+      "socialSentiment": 0.09523809523809523,
       "mentions": {
         "news": 16,
         "social": 42,
@@ -195,6 +195,14 @@
         }
       ],
       "social": [
+        {
+          "id": "fb737493bac8a11daec7611146dde577178c1d55d378d93783111981e6bab160",
+          "authorHandle": "toddd34.bsky.social",
+          "postText": "Troy Jackson leads Sen. Susan Collins in new poll wgme.com/news/local/t...\n#TroyJacksonSurgesinNewPoll",
+          "createdAt": "2026-08-18T17:55:29.680Z",
+          "uri": "at://did:plc:4tjzzczulba6sjkv7iueu4db/app.bsky.feed.post/3mterz2vsos2k",
+          "sentiment": 0.6
+        },
         {
           "id": "e74f312e8063567e8bff51b7ec2bfe00a6d2f34c3f3a8861d120b304ae57bba1",
           "authorHandle": "beshearstan.bsky.social",
@@ -522,14 +530,6 @@
           "createdAt": "2026-08-17T18:09:55.867Z",
           "uri": "at://did:plc:yq5symmidwqg3g7nesqcar7h/app.bsky.feed.post/3mtccdxizfs2k",
           "sentiment": 0
-        },
-        {
-          "id": "5c1bcce881d75a73370e3e3c528db1d808c9c22f61c8c4fa9373a34ced757bc8",
-          "authorHandle": "theupsidedem.bsky.social",
-          "postText": "Elon Musk thinks he can buy our elections. \n\nThat's why he's spending hundreds of millions of dollars to try to stop Troy Jackson. \n\nBe he's forgotten, that we, the people. have the true power.  #BlueWaveIn80Days",
-          "createdAt": "2026-08-17T17:40:06.934Z",
-          "uri": "at://did:plc:3vbyeh5pstubaueurrk4ajlf/app.bsky.feed.post/3mtcaonh5is2w",
-          "sentiment": -0.5
         }
       ],
       "youtube": [
