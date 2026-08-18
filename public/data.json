@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T12:37:51.021Z",
+  "lastUpdated": "2026-08-18T12:40:17.135Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -517,9 +517,9 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0,
+      "overallSentiment": 0.08333333333333333,
       "newsSentiment": 0,
-      "socialSentiment": -0.5,
+      "socialSentiment": -0.25,
       "mentions": {
         "news": 1,
         "social": 4,
@@ -538,6 +538,14 @@
         }
       ],
       "social": [
+        {
+          "id": "ef71fc877823aa1e46ba2fdc28fcd2db4189785ad455fa63b9337d6a4b49b2fc",
+          "authorHandle": "philartdotnet.bsky.social",
+          "postText": "Today's random page is Person: Freddie Gray www.philart.net/person/Fredd... #Philly #PublicArt #VisitPhilly #art (pictured: \"Remember Me\", unidentified artist, probably 2020)",
+          "createdAt": "2026-08-18T12:31:34.109Z",
+          "uri": "at://did:plc:b3a5ntqn6jjnfqn5oqn6kmis/app.bsky.feed.post/3mte7vtpctk2e",
+          "sentiment": 0
+        },
         {
           "id": "6f9375f308567054bc54aec460161d967f96b55fcd2f59f6839d00df23c715ba",
           "authorHandle": "everylotsaltlakeco.bsky.social",
@@ -560,14 +568,6 @@
           "postText": "Still thinking about the chutzpah of Jordan Wood to run for office instead of packing his shit up and getting out of town before he gets run out on a rail.",
           "createdAt": "2026-08-17T12:51:06.702Z",
           "uri": "at://did:plc:lzxf47asxna5hk644g36oabj/app.bsky.feed.post/3mtbqjujb6s2n",
-          "sentiment": -1
-        },
-        {
-          "id": "8c0e6698bffd850aa1dd8badd28bea2dc775a07eb72b5a8ffa4ad22f890b12d5",
-          "authorHandle": "loblolly298.bsky.social",
-          "postText": "Jordan Wood is the primo grifterino. Losing is the new winning with them. He doesn’t care if he loses primaries for the next 20 years. He’ll rake in the cash no matter what happens. \n\nThey truly are Trumpers if not in policy, but in philosophy. Bilk ‘em til they die and then bilk their survivors.",
-          "createdAt": "2026-08-17T12:25:59.357Z",
-          "uri": "at://did:plc:h3mufjwp7uj6llylee4q6pli/app.bsky.feed.post/3mtbp4wypmc2y",
           "sentiment": -1
         }
       ],
