@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T09:32:48.840Z",
+  "lastUpdated": "2026-08-18T10:01:22.748Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.22790598290598293,
+      "overallSentiment": 0.23543650793650794,
       "newsSentiment": -0.3,
-      "socialSentiment": -0.016282051282051267,
+      "socialSentiment": 0.0063095238095237805,
       "mentions": {
         "news": 1,
-        "social": 39,
+        "social": 42,
         "youtube": 1,
-        "total": 41
+        "total": 44
       },
       "news": [
         {
@@ -70,6 +70,30 @@
         }
       ],
       "social": [
+        {
+          "id": "e171fe74948d88ca55232f48d96bee76502e8d1ae0336e37cfc1f1fba88b7e20",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN TO FUND OUR NEW TV AD\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-18T09:49:22.072Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtdwtsj2is24",
+          "sentiment": 0.6
+        },
+        {
+          "id": "021e1483057874c83f5bcb8a8bb10ff6f4ac38a6d3454ecc649a26b94512fd89",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "it’s Troy Jackson, and Republicans threw a major punch, and I need your help to hit back.",
+          "createdAt": "2026-08-18T09:48:39.323Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtdwsjqhgk24",
+          "sentiment": -0.4
+        },
+        {
+          "id": "477bedc548af5fc7b7e2af21c74991fddb00a6a76dcc04627d79758ac86cf37d",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "SUPPORT TROY JACKSON AND FLIP MAINE'S SENATE SEAT!\n\nsecure.actblue.com/donate/tmr-t...",
+          "createdAt": "2026-08-18T09:48:09.843Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtdwrnmsek24",
+          "sentiment": 0.7
+        },
         {
           "id": "40da5d6781cb524fac10848ceee6bb644e30b1c53556fe6e5ed19afa0fe279a1",
           "authorHandle": "us-headlines.bsky.social",
