@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T00:55:38.028Z",
+  "lastUpdated": "2026-08-18T02:13:57.552Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.23105442176870747,
+      "overallSentiment": 0.2291,
       "newsSentiment": -0.3,
-      "socialSentiment": -0.006836734693877559,
+      "socialSentiment": -0.012700000000000005,
       "mentions": {
         "news": 1,
-        "social": 49,
+        "social": 50,
         "youtube": 1,
-        "total": 51
+        "total": 52
       },
       "news": [
         {
@@ -70,6 +70,22 @@
         }
       ],
       "social": [
+        {
+          "id": "8746b5d827b1cf3d1450924f309f2469d9a471f71fc717d5dcc30a9e751ef9d4",
+          "authorHandle": "joyfuljacqui.bsky.social",
+          "postText": "They’re too busy expressing concern about what Troy Jackson and Abdul El-Sayed’s 3rd cousin once removed might have had for dinner in 1992 one day and if the dinner had communist intent because they served Thousand Island dressing. \n\n(Kidding…but close enough to the mainstream news 🤣)",
+          "createdAt": "2026-08-18T01:29:26.402Z",
+          "uri": "at://did:plc:l6msnlmmtiyxmbdgigoalcfc/app.bsky.feed.post/3mtd2vufzus2q",
+          "sentiment": -0.7
+        },
+        {
+          "id": "30320e6d5ec482d4beaea648f68e18aea9cb53da235036a91374a75f55055cd5",
+          "authorHandle": "daveps.bsky.social",
+          "postText": "Btw, they’re already pulling the same shit against his replacement, who is barely present in the media except for hit pieces. You left the door open for it. \n\nwww.wagmtv.com/2026/08/14/t...",
+          "createdAt": "2026-08-18T01:03:51.877Z",
+          "uri": "at://did:plc:4ivwwodxn6dj2r4qorf3vjo4/app.bsky.feed.post/3mtczi4y4b226",
+          "sentiment": -0.6
+        },
         {
           "id": "05312f2fee6b091a4459619c3700ae182587a729cbc37aad2025ec185eb8ccf9",
           "authorHandle": "miri100.bsky.social",
@@ -453,14 +469,6 @@
           "createdAt": "2026-08-17T02:29:46.229Z",
           "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3mtanst3hd226",
           "sentiment": 0
-        },
-        {
-          "id": "f2dbf75e5776385f7c04d95fdc42b07c5c37fc53448d162dc740f947ce481037",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-08-17T01:30:20.888Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtakikvvy22w",
-          "sentiment": -1
         }
       ],
       "youtube": [
