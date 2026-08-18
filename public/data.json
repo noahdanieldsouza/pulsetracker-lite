@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T21:19:38.421Z",
+  "lastUpdated": "2026-08-18T21:42:35.819Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.3897727272727273,
+      "overallSentiment": -0.39684343434343433,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.0181818181818182,
+      "socialSentiment": -0.003030303030303013,
       "mentions": {
         "news": 16,
         "social": 33,
@@ -195,6 +195,14 @@
         }
       ],
       "social": [
+        {
+          "id": "0849e87e31af8e71a7c633c3ab708bce46af39b219ddc961c96ff3cf2e7267bb",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-18T21:25:57.102Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtf5rfe5ic27",
+          "sentiment": 0
+        },
         {
           "id": "d5bbfc846803d087d13bee6b738a07ebd4b6939631cca74552c3cd3e549fef86",
           "authorHandle": "klineresnik2883.bsky.social",
@@ -449,14 +457,6 @@
           "postText": "Sometimes perceived moderation based on cultural aesthetics works for the better\n\nTroy Jackson gets to say 'Solidarity Forever' constantly and I love that",
           "createdAt": "2026-08-17T21:47:54.006Z",
           "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mtcojps5jk2q",
-          "sentiment": 0.7
-        },
-        {
-          "id": "efb2d54bf401164ff209a85522f191f33eb119ec48e901c5173546d415277fbf",
-          "authorHandle": "smhebe.bsky.social",
-          "postText": "Pounding pavement and knocking doors in Washington County, Maine. Troy Jackson (Senate); Hannah Pingree (Governor); Matt Dunlap (Maine's Second Congressional District).\nLet's Goooo!! 💙",
-          "createdAt": "2026-08-17T21:31:16.563Z",
-          "uri": "at://did:plc:s44izrmi56kodyqwseufgdpx/app.bsky.feed.post/3mtcnlykm3s25",
           "sentiment": 0.7
         }
       ],
