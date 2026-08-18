@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T14:54:22.298Z",
+  "lastUpdated": "2026-08-18T15:25:55.941Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.356517094017094,
+      "overallSentiment": -0.3651315789473684,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.11794871794871795,
+      "socialSentiment": 0.09210526315789473,
       "mentions": {
         "news": 16,
-        "social": 39,
+        "social": 38,
         "youtube": 1,
-        "total": 56
+        "total": 55
       },
       "news": [
         {
@@ -195,6 +195,14 @@
         }
       ],
       "social": [
+        {
+          "id": "79512d3ba73c61918f6726a6b876df56a5e3c78b66e60fdc1f7faadff1863d18",
+          "authorHandle": "beesmartypants.bsky.social",
+          "postText": "With all this money “from away” pouring in to Maine one would think our 1.2mil residents have more national sway than what is true \n\napple.news/A1SJMlpDJTVy...",
+          "createdAt": "2026-08-18T14:55:13.199Z",
+          "uri": "at://did:plc:ay5xjpzbbmyh6mucxrlvwipk/app.bsky.feed.post/3mtehwpj6t226",
+          "sentiment": -0.1
+        },
         {
           "id": "d46d854e0765f52cdfa398462b1eaa28f01d55cf36cfb5d14eb73437628db8c9",
           "authorHandle": "libablue.bsky.social",
@@ -489,22 +497,6 @@
           "postText": "substack.com/@troyjackson...",
           "createdAt": "2026-08-17T15:38:16.198Z",
           "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtbzurf5vk2m",
-          "sentiment": 0
-        },
-        {
-          "id": "684565112ee7b61c38c2c736beabc7d00f8a5d7f070ded659037624b339aac1a",
-          "authorHandle": "marthastoryfoisy.bsky.social",
-          "postText": "I'm attending Jackson for Maine's event, “Belfast Garden Party with Troy Jackson!” - sign up now to join me!  www.mobilize.us/jacksonforma...",
-          "createdAt": "2026-08-17T15:11:16.520Z",
-          "uri": "at://did:plc:tinlrolgqokcgyhxrvbvwdh5/app.bsky.feed.post/3mtbyeiqi4s2a",
-          "sentiment": 1
-        },
-        {
-          "id": "6c729d8de8b3f39ab647f7e5abf85528734fa426a4bbe84bd2f1c8ae355e235b",
-          "authorHandle": "libertyshimmer.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-17T14:55:53.939Z",
-          "uri": "at://did:plc:7wy3oi4u3bikpj73uqu2s2j7/app.bsky.feed.post/3mtbxiyvl3s2k",
           "sentiment": 0
         }
       ],
