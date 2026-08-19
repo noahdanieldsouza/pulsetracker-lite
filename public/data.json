@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T16:13:47.126Z",
+  "lastUpdated": "2026-08-19T16:49:12.415Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.4643186928104575,
+      "overallSentiment": -0.4580157095709571,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.09019607843137255,
+      "socialSentiment": -0.07128712871287127,
       "mentions": {
         "news": 5,
-        "social": 102,
+        "social": 101,
         "youtube": 2,
-        "total": 109
+        "total": 108
       },
       "news": [
         {
@@ -96,6 +96,30 @@
         }
       ],
       "social": [
+        {
+          "id": "a4ab0886e8a644a9431d0633a480206f9375ddac4108f84dcc0e453dd772caff",
+          "authorHandle": "bellikoff.bsky.social",
+          "postText": "\"Under the terms of Collins’s proposed event, she and her opponent will each be given “five tough questions, a string of pearls, and may the best clutcher win.”\" open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T16:46:07.728Z",
+          "uri": "at://did:plc:sczu67r46twvtwgwg2wpaeds/app.bsky.feed.post/3mth6lx7ugs2p",
+          "sentiment": 0
+        },
+        {
+          "id": "0913e37e2faf9040d45509ca3045333ced3e2278ac3df7cc5f54f1a056a5de5f",
+          "authorHandle": "wearemaine.bsky.social",
+          "postText": "Vote Troy Jackson!",
+          "createdAt": "2026-08-19T16:37:28.517Z",
+          "uri": "at://did:plc:pzjtvxys5y6tuedzi6lauqpw/app.bsky.feed.post/3mth64i2tgc2o",
+          "sentiment": 1
+        },
+        {
+          "id": "e0bdf56279fda061d1c064e2263405111b529efcbe13499047d25010dbbd0f6f",
+          "authorHandle": "r-eincarnated2.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T16:27:58.252Z",
+          "uri": "at://did:plc:s2s6gfjzklpc5mjjlgjshw7e/app.bsky.feed.post/3mth5li7pz227",
+          "sentiment": 0
+        },
         {
           "id": "f421760520bcc166133e0eae3a58144c08811cde427851617ad849029d12a5c4",
           "authorHandle": "gdstockard.bsky.social",
@@ -878,38 +902,6 @@
           "postText": "substack.com/@troyjackson...",
           "createdAt": "2026-08-18T17:21:19.844Z",
           "uri": "at://did:plc:eukkinzmowsaiysghpqst2uy/app.bsky.feed.post/3mteq3xzvms2q",
-          "sentiment": 0
-        },
-        {
-          "id": "0da1eec76caff1e233f0def567516ffabd4ddbc1d27d8204ff4d737b104b7d1f",
-          "authorHandle": "jpylko.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-18T16:34:40.678Z",
-          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mtenikjz6c2x",
-          "sentiment": 0
-        },
-        {
-          "id": "033f0554da443424e520217073d012fc10472a9a78d414bed7d82b1f7443a4f4",
-          "authorHandle": "w3hnt.bsky.social",
-          "postText": "“Why would our girl from Aroostook County be the deciding vote for the justice that overthrew Roe v. Wade?”\n\nabcnews.com/amp/Politics...",
-          "createdAt": "2026-08-18T16:21:32.263Z",
-          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3mtemr2nkm22l",
-          "sentiment": -1
-        },
-        {
-          "id": "cecde2b4a590a475405bc817082f0f01e09792ea096b82a4bd254b86f7929174",
-          "authorHandle": "jpylko.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-18T16:20:53.550Z",
-          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mtempvqats2k",
-          "sentiment": 0
-        },
-        {
-          "id": "e453941e581385b4a0843e25f39ecda01b59c64b553ae4159e64f9812086170b",
-          "authorHandle": "jimmyleander.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-18T16:18:28.859Z",
-          "uri": "at://did:plc:dw2qe4dsqywyaa5tw7sewjae/app.bsky.feed.post/3mtemllqk4c2l",
           "sentiment": 0
         }
       ],
