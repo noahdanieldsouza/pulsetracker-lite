@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T04:18:38.212Z",
+  "lastUpdated": "2026-08-19T04:55:52.331Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.33964285714285714,
+      "overallSentiment": -0.3230263157894737,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.1685714285714286,
+      "socialSentiment": 0.21842105263157888,
       "mentions": {
         "news": 16,
-        "social": 35,
+        "social": 38,
         "youtube": 1,
-        "total": 52
+        "total": 55
       },
       "news": [
         {
@@ -195,6 +195,30 @@
         }
       ],
       "social": [
+        {
+          "id": "1412bcc73330280ae7d9ee7de84ddf2210039ee37a382afe8d891415581588b5",
+          "authorHandle": "watchyourrepssc.bsky.social",
+          "postText": "Elon Musk is spending hundreds of millions to influence our elections and defeat Troy Jackson. He is forgetting that power actually belongs to the people. We will not allow big money to control our collective future.",
+          "createdAt": "2026-08-19T04:33:42.761Z",
+          "uri": "at://did:plc:uiffdv3gnj3koycqzkpxvfla/app.bsky.feed.post/3mtfvobzvm22i",
+          "sentiment": 0.8
+        },
+        {
+          "id": "662aa0ffd813bfcb3269861548542f3c3b8afa5ef2be78f1a30fa0b7addfd6e0",
+          "authorHandle": "watchyourrepssc.bsky.social",
+          "postText": "Healthcare, reproductive rights, childcare, and ending ICE terror are all on the ballot this November 3. We have the power to shape our future. Let's make it happen.\n\nVote Troy Jackson!",
+          "createdAt": "2026-08-19T04:32:41.837Z",
+          "uri": "at://did:plc:uiffdv3gnj3koycqzkpxvfla/app.bsky.feed.post/3mtfvmhwnj22i",
+          "sentiment": 0.7
+        },
+        {
+          "id": "c1b3339c4c8626684c125c9f53f2f22cc492025598a18f565a9c05b5cbd2fc3a",
+          "authorHandle": "watchyourrepssc.bsky.social",
+          "postText": "Working families are struggling while Susan Collins fails to deliver results. We have waited nearly thirty years for real support. It is time for a leader who stands up for us. Vote for Troy Jackson and let's bring the change we need.",
+          "createdAt": "2026-08-19T04:21:23.123Z",
+          "uri": "at://did:plc:uiffdv3gnj3koycqzkpxvfla/app.bsky.feed.post/3mtfuyanwuk2i",
+          "sentiment": 0.9
+        },
         {
           "id": "d48db5e50ba34fac299523247cfb39137cec8738c105e0d06f6ebc527cb3ca25",
           "authorHandle": "drstevenquest.bsky.social",
