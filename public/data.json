@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T17:12:25.470Z",
+  "lastUpdated": "2026-08-19T17:43:24.547Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.46053538461538457,
+      "overallSentiment": -0.4545707936507936,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.07884615384615384,
+      "socialSentiment": -0.06095238095238094,
       "mentions": {
         "news": 5,
-        "social": 104,
+        "social": 105,
         "youtube": 2,
-        "total": 111
+        "total": 112
       },
       "news": [
         {
@@ -96,6 +96,30 @@
         }
       ],
       "social": [
+        {
+          "id": "56ed535b13d17578586c4fc6c8fb59bcb02ea0f2c51d32f712b66a482a3ee3a7",
+          "authorHandle": "reanderthal.bsky.social",
+          "postText": "Some Collins PAC is paying money to put scary anti-Troy Jackson ads in my podcast feed, and I hope they waste more on my feed specifically. You couldn't paint a Troy Jackson scary enough to get me not to vote against Collins.\n\nI sure hope that is the case with other Mainers.",
+          "createdAt": "2026-08-19T17:33:50.134Z",
+          "uri": "at://did:plc:d6jgogtbueqtyuuo547iouhv/app.bsky.feed.post/3mthbbazlrk2i",
+          "sentiment": 0.7
+        },
+        {
+          "id": "1d91fcf697b2b886e59591c025adcf8fb5868bcb057c2c31257fb84b832146ac",
+          "authorHandle": "bewellgroomed.bsky.social",
+          "postText": "I don’t think ME is a toss up.  \n\nTroy Jackson will win. He’s a good candidate. The ICE raids did Collins in. That sort of in-your-face violence is just “not Maine” … while it’s been a white state, they’ve had folks come from away for a century to help with ag biz. + African immigrants are welcome.",
+          "createdAt": "2026-08-19T17:32:30.776Z",
+          "uri": "at://did:plc:hgt67hbhlx7qptsponfer5q4/app.bsky.feed.post/3mthb6vdrq22i",
+          "sentiment": 0.8
+        },
+        {
+          "id": "e187aedc814b23f319cd9d26d66a91bb39f3a2f39811da534d28e1999d2bd3b3",
+          "authorHandle": "satiristas.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T17:13:06.279Z",
+          "uri": "at://did:plc:znhqxfr7zcwwkngdwnobqppw/app.bsky.feed.post/3mtha46s5ms2x",
+          "sentiment": 0
+        },
         {
           "id": "4c5a25de99cab5880328d45af8a271c470ab7c9ccf2f24f1ea3ca30d3eaadb71",
           "authorHandle": "bcshelby.bsky.social",
@@ -911,22 +935,6 @@
           "createdAt": "2026-08-18T17:55:29.680Z",
           "uri": "at://did:plc:4tjzzczulba6sjkv7iueu4db/app.bsky.feed.post/3mterz2vsos2k",
           "sentiment": 0.6
-        },
-        {
-          "id": "e74f312e8063567e8bff51b7ec2bfe00a6d2f34c3f3a8861d120b304ae57bba1",
-          "authorHandle": "beshearstan.bsky.social",
-          "postText": "Schumer has shown contempt for Abdul El-Sayed and Troy Jackson because they’re both progressives who said he shouldn’t be the majority leader\n\nWe can’t let his selfishness cost us the Senate. You can donate to both of them here, as I did! secure.actblue.com/donate/elsay...",
-          "createdAt": "2026-08-18T17:24:14.084Z",
-          "uri": "at://did:plc:r2wew37repqtwhf63wysczrn/app.bsky.feed.post/3mteqb676x22y",
-          "sentiment": -0.3
-        },
-        {
-          "id": "65a60efe55df873b3fd4790fb31a78981b1a9060a6960eb9616e5330210d976d",
-          "authorHandle": "luvforhumanity.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-18T17:21:19.844Z",
-          "uri": "at://did:plc:eukkinzmowsaiysghpqst2uy/app.bsky.feed.post/3mteq3xzvms2q",
-          "sentiment": 0
         }
       ],
       "youtube": [
