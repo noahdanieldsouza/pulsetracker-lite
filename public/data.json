@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T10:58:02.068Z",
+  "lastUpdated": "2026-08-19T11:26:59.808Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.3075980392156863,
+      "overallSentiment": -0.3648255813953489,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.2647058823529412,
+      "socialSentiment": 0.09302325581395347,
       "mentions": {
         "news": 16,
-        "social": 34,
+        "social": 43,
         "youtube": 1,
-        "total": 51
+        "total": 60
       },
       "news": [
         {
@@ -195,6 +195,78 @@
         }
       ],
       "social": [
+        {
+          "id": "2013e54c05b8fbded716d8067b308b114a2194da28ac6860ff90c829f1261f31",
+          "authorHandle": "sg1954.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:24:43.589Z",
+          "uri": "at://did:plc:klpscxolozwe7ujgebhhj5dr/app.bsky.feed.post/3mtgmnagogc2i",
+          "sentiment": 0
+        },
+        {
+          "id": "2c88f29fea96b0d7589b511b55619c2a874eaa34320f0c6bfa9cbbda0b7c4d2e",
+          "authorHandle": "didymus1515.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:23:57.662Z",
+          "uri": "at://did:plc:ocq4hvva4x2cuiefyfi7ig5j/app.bsky.feed.post/3mtgmlun2uc2e",
+          "sentiment": -1
+        },
+        {
+          "id": "5f60c8fc1744890317419c1f88b17c5ee487dbe9cff3d0a91617569ec8ebbcad",
+          "authorHandle": "ctnative.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:23:18.160Z",
+          "uri": "at://did:plc:go5jdeycx42dalu2bbelbzvq/app.bsky.feed.post/3mtgmkoxols23",
+          "sentiment": 0
+        },
+        {
+          "id": "e66919806597a6105bc75b09ee4bb94172e60d83335e57b3ec317ea2f00e4515",
+          "authorHandle": "lavonda.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:21:20.301Z",
+          "uri": "at://did:plc:zcfcys2mwvkzjlhpviz3d36x/app.bsky.feed.post/3mtgmh6ksyc2y",
+          "sentiment": -1
+        },
+        {
+          "id": "1b0911081a82379a4db01937cb64faf35c79191ff87bb30fd94c797d7e09f2de",
+          "authorHandle": "justjena.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:20:41.902Z",
+          "uri": "at://did:plc:ihffwe3c5o5tzedsrfitryys/app.bsky.feed.post/3mtgmfzwxxk2z",
+          "sentiment": -1
+        },
+        {
+          "id": "e1db36d0c6fe2802e36e9a3e1626ca7d422be974ef914b1dcf4bfe7044ab2aa7",
+          "authorHandle": "rick77-jqa6.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:19:48.890Z",
+          "uri": "at://did:plc:a4tobipt7ptabgbtujmuhxj6/app.bsky.feed.post/3mtgmehf5hc2x",
+          "sentiment": -1
+        },
+        {
+          "id": "6ff49fefde86b6dfbf6ff5a9c8d542be997a0977a5f61ac1e9852abee1f5e4ff",
+          "authorHandle": "dogsmile.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:18:47.151Z",
+          "uri": "at://did:plc:tmuzuggqiwqepdjlcckbersp/app.bsky.feed.post/3mtgmcmj2gs2r",
+          "sentiment": -1
+        },
+        {
+          "id": "6512ee5648b4ca15a105f8dbb5c86b5eb23d501e0b69e2ece00d2686b53fd202",
+          "authorHandle": "guitargirlnyc.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:18:19.494Z",
+          "uri": "at://did:plc:h2ssxlkrr6zj4qk4zlnrhswp/app.bsky.feed.post/3mtgmbs4znk2h",
+          "sentiment": 0
+        },
+        {
+          "id": "71ba7ed138ed603e460ec4d00f7b7c4f40718d37c5d48fe20b387547d7d87d4b",
+          "authorHandle": "courageousgirl2.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:05:10.844Z",
+          "uri": "at://did:plc:5kbfvfslokwmycwojxea5vzz/app.bsky.feed.post/3mtglkbzcns2z",
+          "sentiment": 0
+        },
         {
           "id": "791cbd246c48f35a4dcbf5827981091036f1369876201f568a4031becb92b0eb",
           "authorHandle": "lm100.bsky.social",
