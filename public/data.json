@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T16:49:12.415Z",
+  "lastUpdated": "2026-08-19T17:12:25.470Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.4580157095709571,
+      "overallSentiment": -0.46053538461538457,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.07128712871287127,
+      "socialSentiment": -0.07884615384615384,
       "mentions": {
         "news": 5,
-        "social": 101,
+        "social": 104,
         "youtube": 2,
-        "total": 108
+        "total": 111
       },
       "news": [
         {
@@ -96,6 +96,30 @@
         }
       ],
       "social": [
+        {
+          "id": "4c5a25de99cab5880328d45af8a271c470ab7c9ccf2f24f1ea3ca30d3eaadb71",
+          "authorHandle": "bcshelby.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T17:11:45.696Z",
+          "uri": "at://did:plc:hkw7atzbsq62hn7tvtrjg6kr/app.bsky.feed.post/3mth7zrwxc22v",
+          "sentiment": -0.5
+        },
+        {
+          "id": "f169568b9423edc3c4d7b4a55581759777d80d4957cdd80a5ed8bb7f61902d1d",
+          "authorHandle": "ellenkagan.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T16:54:33.809Z",
+          "uri": "at://did:plc:imqddns54p3apkknilugnwik/app.bsky.feed.post/3mth72zub5c27",
+          "sentiment": -0.5
+        },
+        {
+          "id": "9d6a2745f7a7410d5b3bdf2ea74a8af67deec425b1360a49dc0284e604e5924c",
+          "authorHandle": "stephendedman.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T16:53:11.914Z",
+          "uri": "at://did:plc:3hk5krac6d6afodocicb2u4s/app.bsky.feed.post/3mth6ylqylc2h",
+          "sentiment": 0
+        },
         {
           "id": "a4ab0886e8a644a9431d0633a480206f9375ddac4108f84dcc0e453dd772caff",
           "authorHandle": "bellikoff.bsky.social",
