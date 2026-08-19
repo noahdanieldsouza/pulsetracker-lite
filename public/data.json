@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T20:01:38.324Z",
+  "lastUpdated": "2026-08-19T20:40:02.887Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.458023825136612,
+      "overallSentiment": -0.45612,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.07131147540983605,
+      "socialSentiment": -0.06559999999999998,
       "mentions": {
         "news": 5,
-        "social": 122,
+        "social": 125,
         "youtube": 2,
-        "total": 129
+        "total": 132
       },
       "news": [
         {
@@ -96,6 +96,30 @@
         }
       ],
       "social": [
+        {
+          "id": "b2bfc8d5476429037755e96b5d8c85fc6dd272ae0d0a9fb8a4911c0649c0c56e",
+          "authorHandle": "pinetreeactivism.org",
+          "postText": "Donate to  JacksonForMaine.com would be the best starting place. The GOP, Collins campaign, and their SuperPacs have a hell of a head start and a boatload of more money to spend on ads.\n\nMakes a big difference. #Donate!",
+          "createdAt": "2026-08-19T20:27:25.842Z",
+          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mthkxo7rmk2s",
+          "sentiment": 0.6
+        },
+        {
+          "id": "289d42ad4faf9ff623b4eeb2debd3d99a2744f26c54a1493e575ddb4d89324f4",
+          "authorHandle": "lappypercival.bsky.social",
+          "postText": "since i made this tweet it's turned to 25% talarico and 75% troy jackson",
+          "createdAt": "2026-08-19T20:26:29.372Z",
+          "uri": "at://did:plc:hgmvy5bor2ippo3wcletjont/app.bsky.feed.post/3mthkvyeg5s2s",
+          "sentiment": 0.7
+        },
+        {
+          "id": "d94fb837855acd2e7d54ddd0727795f23b8fd24d6bb081dbabe76b2a4a33647b",
+          "authorHandle": "capitolhillaccess.bsky.social",
+          "postText": "Lead Maine Committee, Inc. spends $38,787 to OPPOSE Troy Jackson (Sen ME Sen)(D)\n\n#MESen.\r\n\r\n2026 Cycle FEC Data:\n\nhttps://capitolhillaccess.com/tr/tr_ef_filer?&sFECID=C00946921&sCycle=2026\n\nFEC:\n\nhttps://docquery.fec.gov/cgi-bin/forms/C00946921/2007670\n\n@SenatorCollins @SenSusanCollins...",
+          "createdAt": "2026-08-19T20:13:44.702Z",
+          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mthk7al2ta2c",
+          "sentiment": -0.8
+        },
         {
           "id": "12bfba89532bcbda6567ac2da38840171b0f9f082c4b129bba957757d51c88e0",
           "authorHandle": "tomcapizzi.bsky.social",
