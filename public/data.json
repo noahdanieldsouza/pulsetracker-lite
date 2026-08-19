@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T21:01:03.482Z",
+  "lastUpdated": "2026-08-19T21:35:50.706Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.45360817204301074,
+      "overallSentiment": -0.4534533333333333,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.05806451612903224,
+      "socialSentiment": -0.05759999999999998,
       "mentions": {
         "news": 5,
-        "social": 124,
+        "social": 125,
         "youtube": 2,
-        "total": 131
+        "total": 132
       },
       "news": [
         {
@@ -96,6 +96,22 @@
         }
       ],
       "social": [
+        {
+          "id": "ebe99e608ab8ef743484c40cbe2b1f8c273486e845e4d19addb1a3ef9811f084",
+          "authorHandle": "nlt71.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T21:10:15.534Z",
+          "uri": "at://did:plc:pnxgxx62qbjncwxphshonp63/app.bsky.feed.post/3mthneaujic2z",
+          "sentiment": -1
+        },
+        {
+          "id": "956a3d38cb0c6df7e314e2684471244715a0c1b52048f55444ecb578fb2708c5",
+          "authorHandle": "the-flip52.bsky.social",
+          "postText": "Margaret, your straight truth has been \"shut the fuck up\" from the get-go, like it's the State Motto of Maine.  I understand Collins' voting record very well and hope Troy Jackson can defeat the old bat because her Senate voting record keeps adding to the demise of the entire country. Good luck.",
+          "createdAt": "2026-08-19T21:01:48.428Z",
+          "uri": "at://did:plc:4bmdkqrcka42gxlcuvvbxbnu/app.bsky.feed.post/3mthmv5aurs2w",
+          "sentiment": 1
+        },
         {
           "id": "9decfbf60030979132af391596e98d854010e9dbd04b0d382cdcc395e48e6224",
           "authorHandle": "exoid.bsky.social",
@@ -1078,14 +1094,6 @@
           "postText": "substack.com/@troyjackson...",
           "createdAt": "2026-08-18T23:08:58.812Z",
           "uri": "at://did:plc:2vpfx7upbzftyzywtsx4pfwh/app.bsky.feed.post/3mtfdjmp4k224",
-          "sentiment": 0
-        },
-        {
-          "id": "0849e87e31af8e71a7c633c3ab708bce46af39b219ddc961c96ff3cf2e7267bb",
-          "authorHandle": "mialong.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-18T21:25:57.102Z",
-          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtf5rfe5ic27",
           "sentiment": 0
         }
       ],
