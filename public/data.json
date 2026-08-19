@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T18:49:48.406Z",
+  "lastUpdated": "2026-08-19T19:13:51.010Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.45490230088495576,
+      "overallSentiment": -0.45402734463276834,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.06194690265486724,
+      "socialSentiment": -0.05932203389830507,
       "mentions": {
         "news": 5,
-        "social": 113,
+        "social": 118,
         "youtube": 2,
-        "total": 120
+        "total": 125
       },
       "news": [
         {
@@ -96,6 +96,46 @@
         }
       ],
       "social": [
+        {
+          "id": "576472a0796b4c6ba1bab45df23f7d0f9437e4422ce8108dd544a8d748abe8ca",
+          "authorHandle": "jaz52.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T19:05:09.885Z",
+          "uri": "at://did:plc:vwxsney6o75p3423hbrb3q7a/app.bsky.feed.post/3mthgekwd4c24",
+          "sentiment": 0
+        },
+        {
+          "id": "a3c9dc475bc53a2fa554ef61a9a2b86b9ac87a6e68725d34856c4a6940a2218e",
+          "authorHandle": "robertmihaly1.bsky.social",
+          "postText": "Let @SenSusanCollins WIN this contest and LOSE the election!\nwww.borowitzreport.com/p/susan-coll...",
+          "createdAt": "2026-08-19T19:03:48.483Z",
+          "uri": "at://did:plc:vtnbqh5r7fvrtkpgzubj4lnt/app.bsky.feed.post/3mthgc5c4xs2n",
+          "sentiment": 0
+        },
+        {
+          "id": "f3fac55233a46b8563ed8154749ab83c48492654724c355fb53a72472828bc5a",
+          "authorHandle": "yanygal.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T18:59:11.959Z",
+          "uri": "at://did:plc:6qzxv7zhqfra4cdz2htuakk5/app.bsky.feed.post/3mthfzvlazk2a",
+          "sentiment": 0
+        },
+        {
+          "id": "a1aac4e7b06587cf84b5612936094f0a7b824d8c2d825dcee0db12b9d3d24684",
+          "authorHandle": "swonder.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T18:55:04.363Z",
+          "uri": "at://did:plc:gah53sed4iuwuxcyt2dzcbi4/app.bsky.feed.post/3mthfsjha2k2b",
+          "sentiment": 0
+        },
+        {
+          "id": "c35f3923a4552bd531e95bd97fd2739b520f127f1a9ea2d89401bade383e3df0",
+          "authorHandle": "theycallmegary.bsky.social",
+          "postText": "Senator Susan Collins challenged her Democratic rival, Troy Jackson, to what she called a “live, televised pearl-clutching contest.”\nUnder the terms of Collins’s proposed event, she and her opponent will each be given “five tough questions, a string of pearls, and may the best clutcher win.”",
+          "createdAt": "2026-08-19T18:53:41.886Z",
+          "uri": "at://did:plc:k4jssy3jlqrtbk43agng4zgu/app.bsky.feed.post/3mthfq2sa4c2e",
+          "sentiment": 0
+        },
         {
           "id": "265a43376d66db1fae658d9f1af44420bd8fdc33442617a5ff0b0a96abb6614b",
           "authorHandle": "outlawoligarchy.bsky.social",
