@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T17:43:24.547Z",
+  "lastUpdated": "2026-08-19T18:01:31.059Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.4545707936507936,
+      "overallSentiment": -0.45941056603773583,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.06095238095238094,
+      "socialSentiment": -0.07547169811320753,
       "mentions": {
         "news": 5,
-        "social": 105,
+        "social": 106,
         "youtube": 2,
-        "total": 112
+        "total": 113
       },
       "news": [
         {
@@ -96,6 +96,22 @@
         }
       ],
       "social": [
+        {
+          "id": "d08e52344230ef6d05afee8d9ff25ba257ef319e14e3e8f91711000dd093a57d",
+          "authorHandle": "trumpracistmoron.bsky.social",
+          "postText": "www.borowitzreport.com/p/susan-coll...",
+          "createdAt": "2026-08-19T17:59:55.916Z",
+          "uri": "at://did:plc:rucbpkbslowdd47nw4asiumj/app.bsky.feed.post/3mthcpwbgrs2v",
+          "sentiment": 0
+        },
+        {
+          "id": "d366ae24dc4f9b1fe3e5366fd5aae4a002d150761779b9b7c686151e4678b178",
+          "authorHandle": "carolshoshkesreiss.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\n\nborowitz",
+          "createdAt": "2026-08-19T17:46:19.027Z",
+          "uri": "at://did:plc:yjlfsuvusl4zvdwa5pgoqoin/app.bsky.feed.post/3mthbxl7yls2y",
+          "sentiment": -1
+        },
         {
           "id": "56ed535b13d17578586c4fc6c8fb59bcb02ea0f2c51d32f712b66a482a3ee3a7",
           "authorHandle": "reanderthal.bsky.social",
@@ -927,14 +943,6 @@
           "createdAt": "2026-08-18T19:20:25.558Z",
           "uri": "at://did:plc:ngg3zescdojwvirotsxglkz7/app.bsky.feed.post/3mtewqwpuv226",
           "sentiment": 0
-        },
-        {
-          "id": "fb737493bac8a11daec7611146dde577178c1d55d378d93783111981e6bab160",
-          "authorHandle": "toddd34.bsky.social",
-          "postText": "Troy Jackson leads Sen. Susan Collins in new poll wgme.com/news/local/t...\n#TroyJacksonSurgesinNewPoll",
-          "createdAt": "2026-08-18T17:55:29.680Z",
-          "uri": "at://did:plc:4tjzzczulba6sjkv7iueu4db/app.bsky.feed.post/3mterz2vsos2k",
-          "sentiment": 0.6
         }
       ],
       "youtube": [
