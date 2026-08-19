@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T11:26:59.808Z",
+  "lastUpdated": "2026-08-19T11:50:38.213Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.3648255813953489,
+      "overallSentiment": -0.38916666666666666,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.09302325581395347,
+      "socialSentiment": 0.019999999999999997,
       "mentions": {
         "news": 16,
-        "social": 43,
+        "social": 50,
         "youtube": 1,
-        "total": 60
+        "total": 67
       },
       "news": [
         {
@@ -195,6 +195,62 @@
         }
       ],
       "social": [
+        {
+          "id": "082fbbfb9eb516d0ba90a7101957e16e4dd3a8df31f9ab3c0f1e675c9b5148f7",
+          "authorHandle": "lavonnebray.bsky.social",
+          "postText": "“For the past 29 years, when there’s been a tough call to make, I’ve responded by wringing my hands and furrowing my brow,” she told reporters. “Looking worried is a full-time job, and an amateur like Troy Jackson simply isn’t up to it.”",
+          "createdAt": "2026-08-19T11:50:08.938Z",
+          "uri": "at://did:plc:hgloda2jieverlnzfg5g7bcc/app.bsky.feed.post/3mtgo2p4m3c22",
+          "sentiment": -1
+        },
+        {
+          "id": "78baa3032cc641ea1c4240f81c1f783657b04f0f44f24e376504a3ffbcb56d37",
+          "authorHandle": "chitraraj.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:47:22.844Z",
+          "uri": "at://did:plc:ser5xww54j53ap7xj74ej4rp/app.bsky.feed.post/3mtgnvqpuuc2c",
+          "sentiment": 0
+        },
+        {
+          "id": "c1da6d429b0f8be16a8b7c20fe961dc95363ea190dabd6f21fde3d2eceb14c38",
+          "authorHandle": "soulmuffin.bsky.social",
+          "postText": "#TroyForME\n#Deep6Collins",
+          "createdAt": "2026-08-19T11:47:21.883Z",
+          "uri": "at://did:plc:qd5el2er4ragfjnpdtm3pxvc/app.bsky.feed.post/3mtgnvpspbc2u",
+          "sentiment": 1
+        },
+        {
+          "id": "401eea85e397f1acf71c9d328d6d5379ffed1c15eae3e680e21a9bd9453365c7",
+          "authorHandle": "ageofparrhesia.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest.\nwww.borowitzreport.com/p/susan-coll...",
+          "createdAt": "2026-08-19T11:42:01.223Z",
+          "uri": "at://did:plc:3lwgwopvyfabstgjoismmzzg/app.bsky.feed.post/3mtgnm5yqus2h",
+          "sentiment": -1
+        },
+        {
+          "id": "d118f16af2a1c0e2a5304f6363680030a45e73b524887ee0f0f0fe49973f1007",
+          "authorHandle": "butchsullins.bsky.social",
+          "postText": "",
+          "createdAt": "2026-08-19T11:39:49.682Z",
+          "uri": "at://did:plc:2rlom2mvhjemynggycrotwpy/app.bsky.feed.post/3mtgniakguk25",
+          "sentiment": 0
+        },
+        {
+          "id": "f644cf68954fb9bd2a8ab91bd93fe1a9e48f64833444c6c2eb481761724370ac",
+          "authorHandle": "eugene290390.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:37:29.569Z",
+          "uri": "at://did:plc:pga3jfwjqmilx3od5hsjccty/app.bsky.feed.post/3mtgne2wjrc2d",
+          "sentiment": -1
+        },
+        {
+          "id": "5b0c6003ae6eccdf886de02ccc418a52495758ea3e2ea96f8da3e2a955e2839d",
+          "authorHandle": "jonruttenberg.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T11:27:28.358Z",
+          "uri": "at://did:plc:jgixn4opsfpeoc4tfsc5a5jv/app.bsky.feed.post/3mtgms5l2ms2i",
+          "sentiment": -1
+        },
         {
           "id": "2013e54c05b8fbded716d8067b308b114a2194da28ac6860ff90c829f1261f31",
           "authorHandle": "sg1954.bsky.social",
