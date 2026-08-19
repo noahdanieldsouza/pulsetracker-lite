@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T02:45:05.476Z",
+  "lastUpdated": "2026-08-19T03:31:48.736Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.33421717171717175,
+      "overallSentiment": -0.33964285714285714,
       "newsSentiment": -0.1875,
-      "socialSentiment": 0.18484848484848487,
+      "socialSentiment": 0.1685714285714286,
       "mentions": {
         "news": 16,
-        "social": 33,
+        "social": 35,
         "youtube": 1,
-        "total": 50
+        "total": 52
       },
       "news": [
         {
@@ -195,6 +195,22 @@
         }
       ],
       "social": [
+        {
+          "id": "d48db5e50ba34fac299523247cfb39137cec8738c105e0d06f6ebc527cb3ca25",
+          "authorHandle": "drstevenquest.bsky.social",
+          "postText": "I think Troy Jackson will win in ME but El Sayed may be in trouble in MI. “Progressives” don’t like to hear this but the DSA doesn’t poll well in swing states. Check out the July Echelon Omnibus poll. Who knew that law enforcement and capitalism were so popular with independents? 🤷🏻‍♂️",
+          "createdAt": "2026-08-19T03:11:43.851Z",
+          "uri": "at://did:plc:3izbnihhm37vizl5vbkr26si/app.bsky.feed.post/3mtfr3oyokk2b",
+          "sentiment": -0.2
+        },
+        {
+          "id": "c6dd7a6067b181ef57f94037588abd69323d2e88baf6bb0af1522f25cc3d60a9",
+          "authorHandle": "thenewshub.bsky.social",
+          "postText": "maineindependentnews.com/health-care/...",
+          "createdAt": "2026-08-19T02:47:15.549Z",
+          "uri": "at://did:plc:cxkndc2okyhteyv6dah6rlzi/app.bsky.feed.post/3mtfppwpnv22h",
+          "sentiment": 0
+        },
         {
           "id": "8bc55192f69a5b5f91eafbb23ecb0a85df32b6bdffcca659a9c909979fe6dfb4",
           "authorHandle": "hydevoltyge.bsky.social",
