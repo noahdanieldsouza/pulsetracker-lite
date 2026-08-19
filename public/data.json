@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T19:13:51.010Z",
+  "lastUpdated": "2026-08-19T19:42:02.082Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.45402734463276834,
+      "overallSentiment": -0.45286444444444446,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.05932203389830507,
+      "socialSentiment": -0.05583333333333331,
       "mentions": {
         "news": 5,
-        "social": 118,
+        "social": 120,
         "youtube": 2,
-        "total": 125
+        "total": 127
       },
       "news": [
         {
@@ -96,6 +96,30 @@
         }
       ],
       "social": [
+        {
+          "id": "9f045fc2b6cf2aaf8f09a2f933406f891004ae149f297802be1dc489ee80e7cd",
+          "authorHandle": "2bme.bsky.social",
+          "postText": "No matter where you live.\n\nsubstack.com/@troyjackson...",
+          "createdAt": "2026-08-19T19:34:50.078Z",
+          "uri": "at://did:plc:ewxtynqjxpaqzqgcjvciaxg3/app.bsky.feed.post/3mthhzmnitk2t",
+          "sentiment": 0
+        },
+        {
+          "id": "a61102f76da70c8b297c35c47e170fc2939b9aa67249b5ab275d6f75a6d331f6",
+          "authorHandle": "levernews.com",
+          "postText": "Susan Collins ended the second quarter with $11 million in campaign cash. Her Democratic opponent, Troy Jackson, raised $2 million in just 48 hours after securing the nomination.\n\nNearly two-thirds of Maine voters reportedly see the election as a referendum on Collins.",
+          "createdAt": "2026-08-19T19:30:06.953Z",
+          "uri": "at://did:plc:6yssvglnid5s3n3p5f4u4tfq/app.bsky.feed.post/3mthhr6od6g27",
+          "sentiment": 0.3
+        },
+        {
+          "id": "aa52edd9c439a1164c626d5da84eb7e1d81d083033b2c0cefc7e07e0b797d0da",
+          "authorHandle": "doctoralexa.bsky.social",
+          "postText": "BOROWITZ ... Susan Collins Challenges ... Democratic Rival to ... Pearl-clutching Contest ... \nopen.substack.com/pub/borowitz... ...",
+          "createdAt": "2026-08-19T19:25:30.208Z",
+          "uri": "at://did:plc:s64namoftovepwig6su6c5vl/app.bsky.feed.post/3mthhiwpms22s",
+          "sentiment": 0
+        },
         {
           "id": "576472a0796b4c6ba1bab45df23f7d0f9437e4422ce8108dd544a8d748abe8ca",
           "authorHandle": "jaz52.bsky.social",
@@ -1031,14 +1055,6 @@
           "createdAt": "2026-08-18T20:54:06.361Z",
           "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mtf3yjc6sj2c",
           "sentiment": -1
-        },
-        {
-          "id": "c1e76a73921e33064e03a125a6c5205a03ccbdf5a1e4c243d0ba64ebc6263c23",
-          "authorHandle": "lurkerenvoy.bsky.social",
-          "postText": "Interesting read\n\nwww.pressherald.com/2026/08/12/t...",
-          "createdAt": "2026-08-18T19:20:25.558Z",
-          "uri": "at://did:plc:ngg3zescdojwvirotsxglkz7/app.bsky.feed.post/3mtewqwpuv226",
-          "sentiment": 0
         }
       ],
       "youtube": [
