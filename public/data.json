@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T20:40:02.887Z",
+  "lastUpdated": "2026-08-19T21:01:03.482Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.45612,
+      "overallSentiment": -0.45360817204301074,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.06559999999999998,
+      "socialSentiment": -0.05806451612903224,
       "mentions": {
         "news": 5,
-        "social": 125,
+        "social": 124,
         "youtube": 2,
-        "total": 132
+        "total": 131
       },
       "news": [
         {
@@ -96,6 +96,14 @@
         }
       ],
       "social": [
+        {
+          "id": "9decfbf60030979132af391596e98d854010e9dbd04b0d382cdcc395e48e6224",
+          "authorHandle": "exoid.bsky.social",
+          "postText": "Yeeeeeeeah I don’t think I want to give 15 dollars to a lost cause. More cash for Abdul El Sayed and Troy Jackson!",
+          "createdAt": "2026-08-19T20:56:59.772Z",
+          "uri": "at://did:plc:svsokg3yuv2i3nxird7c2zpk/app.bsky.feed.post/3mthmmjxs5s2n",
+          "sentiment": 1
+        },
         {
           "id": "b2bfc8d5476429037755e96b5d8c85fc6dd272ae0d0a9fb8a4911c0649c0c56e",
           "authorHandle": "pinetreeactivism.org",
@@ -1079,22 +1087,6 @@
           "createdAt": "2026-08-18T21:25:57.102Z",
           "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtf5rfe5ic27",
           "sentiment": 0
-        },
-        {
-          "id": "d5bbfc846803d087d13bee6b738a07ebd4b6939631cca74552c3cd3e549fef86",
-          "authorHandle": "klineresnik2883.bsky.social",
-          "postText": "Y'all have GOT to get rid of do-nothing Susan Collins!!!\nwww.jacksonformaine.com",
-          "createdAt": "2026-08-18T20:54:21.178Z",
-          "uri": "at://did:plc:fuallf5udbagzhxzgw5a7ela/app.bsky.feed.post/3mtf3yvb57c2i",
-          "sentiment": 1
-        },
-        {
-          "id": "b0d2427fd3f293d4970ac4af3f347f7113e02ab23a8b969af5514abf9ae453ef",
-          "authorHandle": "capitolhillaccess.bsky.social",
-          "postText": "SLF PAC spends $5,000 to OPPOSE Troy Jackson (Sen ME Sen)(D)\n\n#MESen.\r\n\r\n2026 Cycle FEC Data:\n\nhttps://capitolhillaccess.com/tr/tr_ef_filer?&sFECID=C00571703&sCycle=2026\n\nFEC:\n\nhttps://docquery.fec.gov/cgi-bin/forms/C00571703/2007281\n\n@SenatorCollins @SenSusanCollins @Costello4Senate...",
-          "createdAt": "2026-08-18T20:54:06.361Z",
-          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mtf3yjc6sj2c",
-          "sentiment": -1
         }
       ],
       "youtube": [
