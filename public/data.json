@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T22:49:33.438Z",
+  "lastUpdated": "2026-08-19T23:09:49.703Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.4534533333333333,
+      "overallSentiment": -0.45612,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.05759999999999998,
+      "socialSentiment": -0.06559999999999998,
       "mentions": {
         "news": 5,
         "social": 125,
@@ -96,6 +96,14 @@
         }
       ],
       "social": [
+        {
+          "id": "89b08e966c347dfbc7f0b3dd9e20633e1dadb4095a5d9612c7dde75f78657d1e",
+          "authorHandle": "sapphiravi.bsky.social",
+          "postText": "And now, some blatantly false advertising brought to you by GOP superpacs in #Maine\nBe sure you're telling people know who might not know any better as we head into November that Republicans are, once again and without shame, lying about their opponents.\n\n#VOTE them out.",
+          "createdAt": "2026-08-19T23:06:04.181Z",
+          "uri": "at://did:plc:o4e735yvnvwztgtkkxfksof5/app.bsky.feed.post/3mthttdmgkc2j",
+          "sentiment": -1
+        },
         {
           "id": "ebe99e608ab8ef743484c40cbe2b1f8c273486e845e4d19addb1a3ef9811f084",
           "authorHandle": "nlt71.bsky.social",
@@ -1087,14 +1095,6 @@
           "createdAt": "2026-08-18T23:17:13.310Z",
           "uri": "at://did:plc:7ow6bbxdvqadcdhkqvvhkmbl/app.bsky.feed.post/3mtfdyebutk2n",
           "sentiment": 1
-        },
-        {
-          "id": "cd96102b2754a06d4541a09ca60f5baeb89617052c9917a4cd5b8338c8d39660",
-          "authorHandle": "cdl6229.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-18T23:08:58.812Z",
-          "uri": "at://did:plc:2vpfx7upbzftyzywtsx4pfwh/app.bsky.feed.post/3mtfdjmp4k224",
-          "sentiment": 0
         }
       ],
       "youtube": [
