@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T15:16:07.858Z",
+  "lastUpdated": "2026-08-19T15:48:48.877Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.4505576811594203,
+      "overallSentiment": -0.46653403508771935,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.04891304347826085,
+      "socialSentiment": -0.09684210526315788,
       "mentions": {
         "news": 5,
-        "social": 92,
+        "social": 95,
         "youtube": 2,
-        "total": 99
+        "total": 102
       },
       "news": [
         {
@@ -96,6 +96,38 @@
         }
       ],
       "social": [
+        {
+          "id": "20c04c30df79df89193766b2a96c283094c9b957f2480b629c908026f62d1da9",
+          "authorHandle": "mareena716.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T15:42:49.730Z",
+          "uri": "at://did:plc:nlnz4ryzsdnsgxtxuhuhwpf6/app.bsky.feed.post/3mth32r65zc25",
+          "sentiment": -1
+        },
+        {
+          "id": "218d897089476d802a012a38763eb328f7f409141e6f50e7792986ca49068722",
+          "authorHandle": "raybeckerman.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest www.borowitzreport.com/p/susan-coll...",
+          "createdAt": "2026-08-19T15:36:00.949Z",
+          "uri": "at://did:plc:pp2y33525jf5xkyg4pfqkdvd/app.bsky.feed.post/3mth2old5t22f",
+          "sentiment": -1
+        },
+        {
+          "id": "3aa2fc307d56b7d67f4c7c128c7aa8f09ac8c4e3cebdbfd6c04235a00f3ec045",
+          "authorHandle": "tony-almquist.bsky.social",
+          "postText": "by @borowitzreport.bsky.social Susan Collins Challenges Democratic Rival to Pearl-clutching Contest",
+          "createdAt": "2026-08-19T15:20:42.685Z",
+          "uri": "at://did:plc:esdsywe2gff2plntbjhc5u7t/app.bsky.feed.post/3mtgzt7lxn22e",
+          "sentiment": -1
+        },
+        {
+          "id": "c4e4d403f35ec82345c37c5f158437393cdd1ce29803cbac3378a809158c74fb",
+          "authorHandle": "davidtdorais.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-19T15:20:19.998Z",
+          "uri": "at://did:plc:w2jhtgd4vm4jdzjmnqioutme/app.bsky.feed.post/3mtgzsjxndk2t",
+          "sentiment": -1
+        },
         {
           "id": "c6f08f2a0bb52b47e79f45eaae2f525123d3f6058c8986d99a75b5cdbdba959e",
           "authorHandle": "billtreloar.bsky.social",
@@ -823,14 +855,6 @@
           "createdAt": "2026-08-18T16:18:28.859Z",
           "uri": "at://did:plc:dw2qe4dsqywyaa5tw7sewjae/app.bsky.feed.post/3mtemllqk4c2l",
           "sentiment": 0
-        },
-        {
-          "id": "807e3eef7da3138721cb5703235131514f21c17a187f52865c89903d5570033f",
-          "authorHandle": "jeisrael.bsky.social",
-          "postText": "“Troy believes health care is a human right, not a privilege reserved for people who can afford it,” a Jackson campaign spokesperson told the Maine Independent.\n\nmaineindependentnews.com/health-care/...",
-          "createdAt": "2026-08-18T15:39:10.296Z",
-          "uri": "at://did:plc:mughmzhyvi3pe5wc7rmd4ihs/app.bsky.feed.post/3mtekfcgty22g",
-          "sentiment": 0.7
         }
       ],
       "youtube": [
