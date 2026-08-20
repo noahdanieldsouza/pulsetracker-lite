@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T22:03:41.411Z",
+  "lastUpdated": "2026-08-20T22:39:27.492Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2772452380952381,
+      "overallSentiment": 0.27917931034482757,
       "newsSentiment": 0,
-      "socialSentiment": 0.1317357142857143,
+      "socialSentiment": 0.13753793103448275,
       "mentions": {
         "news": 14,
-        "social": 56,
+        "social": 58,
         "youtube": 10,
-        "total": 80
+        "total": 82
       },
       "news": [
         {
@@ -177,6 +177,22 @@
         }
       ],
       "social": [
+        {
+          "id": "5a2e5d3a25ae867ae41bf51ace449c295b474f409dafcf234b198a8a7753b66f",
+          "authorHandle": "holliwinters57.bsky.social",
+          "postText": "Oh, I bet Musk is one of those also pouring money into her campaign. He is probably worried about how his contracts would fare  under the Dems.\n\nI just made a donation to Troy Jackson. 👍",
+          "createdAt": "2026-08-20T22:34:43.461Z",
+          "uri": "at://did:plc:fmrw6kscjxyspt7lfrwxi634/app.bsky.feed.post/3mtkck7i4x227",
+          "sentiment": -0.2
+        },
+        {
+          "id": "d836d2fd6b45cb12b04141445952689aee0e8a735687c1de127a14c97667fd20",
+          "authorHandle": "mjlsfc56.bsky.social",
+          "postText": "Collin’s must go. Maine, Vote for a real American! Vote for Troy Jackson.",
+          "createdAt": "2026-08-20T22:26:39.143Z",
+          "uri": "at://did:plc:pu2bb3dulzk5yxdqsjpqnec3/app.bsky.feed.post/3mtkc3rlx4s2y",
+          "sentiment": 0.8
+        },
         {
           "id": "8d65a355113a508ef280a8a3b4e9c309c28381cc504c22b5571a0d7ebeb6b8f2",
           "authorHandle": "mialong.bsky.social",
@@ -733,17 +749,25 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.2777777777777778,
+      "overallSentiment": -0.02777777777777779,
       "newsSentiment": null,
-      "socialSentiment": -1,
+      "socialSentiment": -0.5,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 2,
         "youtube": 9,
-        "total": 10
+        "total": 11
       },
       "news": [],
       "social": [
+        {
+          "id": "b1a5bebea18310716117e86e3c89999b60ce3bd7485e70e151c5df4d2f608ee0",
+          "authorHandle": "onewindowsolution.bsky.social",
+          "postText": "Test Match Special Podcast – England lead grows at a gloomy Headingley – BBC Sounds\n\nAvailable for over a year Simon Mann presents reaction to the second day’s play from Headingley where 91 from Harry Brook and Jordan Cox’s first Test 50 helps grow England’s lead over Pakistan. Hear from England…",
+          "createdAt": "2026-08-20T22:15:36Z",
+          "uri": "at://did:plc:q75cbriucfzsgnyemyb7uphr/app.bsky.feed.post/3mtkbi2go3h24",
+          "sentiment": 0
+        },
         {
           "id": "8490aabb8a9d5ece62833161d45814021fcaeb1dc14c62133396138b1c76a015",
           "authorHandle": "gillis49.bsky.social",
