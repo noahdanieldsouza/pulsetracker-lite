@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T13:26:32.614Z",
+  "lastUpdated": "2026-08-20T13:55:32.875Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.23852982456140348,
+      "overallSentiment": 0.23843754045307441,
       "newsSentiment": 0,
-      "socialSentiment": 0.015589473684210532,
+      "socialSentiment": 0.015312621359223304,
       "mentions": {
         "news": 14,
-        "social": 114,
+        "social": 103,
         "youtube": 10,
-        "total": 138
+        "total": 127
       },
       "news": [
         {
@@ -177,6 +177,22 @@
         }
       ],
       "social": [
+        {
+          "id": "8f6c269df9c8647c7fc7b944b4845104d5b907b0dd3ac16e79f3cfebd3e18667",
+          "authorHandle": "cdl6229.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-20T13:44:12.922Z",
+          "uri": "at://did:plc:2vpfx7upbzftyzywtsx4pfwh/app.bsky.feed.post/3mtjevlj67c2j",
+          "sentiment": -0.2
+        },
+        {
+          "id": "e91d8b6d93bd5a84f2a9166cc8e9f8959107bf4fec918b6e6880b1129be01116",
+          "authorHandle": "democratsofa.bsky.social",
+          "postText": "🤣",
+          "createdAt": "2026-08-20T13:29:42.638Z",
+          "uri": "at://did:plc:f54cq2i2edsh3vjz3fdg255m/app.bsky.feed.post/3mtje3nkahk25",
+          "sentiment": 0
+        },
         {
           "id": "c7e808dd59df09ddb053e34790cb4ac555fdb5153ea886448ff5ee2684555bb3",
           "authorHandle": "bzell.bsky.social",
@@ -984,110 +1000,6 @@
           "createdAt": "2026-08-19T13:57:11.879Z",
           "uri": "at://did:plc:mfhskgtp6hppphvef44j3w6i/app.bsky.feed.post/3mtgv5uwhbs2k",
           "sentiment": 1
-        },
-        {
-          "id": "acc9d06fe18c3985412397e6aa9532a4b295820ba7c647383828d31269ec1e40",
-          "authorHandle": "emmaidama.bsky.social",
-          "postText": "Elon Musk is spending hundreds of millions 💰 to influence our elections and defeat Troy Jackson. 😤 \nBut he is forgetting that we,The People, have the true power. 💪🏼🗳️\nWe will not allow big money to control our collective future.\n#USDemocracy",
-          "createdAt": "2026-08-19T13:50:36.074Z",
-          "uri": "at://did:plc:2amfb6qpbabshk6zqd65zjpy/app.bsky.feed.post/3mtgus3hc3c2p",
-          "sentiment": 1
-        },
-        {
-          "id": "b22d05bf83c132b5797ae4da002e8d75c669c03715f5f1d2e2e9b04d8fe74cee",
-          "authorHandle": "eleanorrigbyatx.bsky.social",
-          "postText": "Borowitz again.  Love his contributions.\nwww.borowitzreport.com/p/susan-coll...",
-          "createdAt": "2026-08-19T13:49:09.151Z",
-          "uri": "at://did:plc:utuoi5r726jgbauhk4wmmlyd/app.bsky.feed.post/3mtgupikngg2p",
-          "sentiment": 0
-        },
-        {
-          "id": "2aba32421a847de3fd6b325b06f4478cd0bcbb7a697cf5e44d7e6dcb2942c561",
-          "authorHandle": "mementomori4950.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T13:40:28.545Z",
-          "uri": "at://did:plc:3fibociwu7jy4bbdjhmm4nop/app.bsky.feed.post/3mtgu7y2yzc2d",
-          "sentiment": 0
-        },
-        {
-          "id": "9438a527087bcb2c13a22cabc06f7bce81ee988aee2befa410e55a2320f0674e",
-          "authorHandle": "bigbrohem.bsky.social",
-          "postText": "“For the past 29 years, when there’s been a tough call to make, I’ve responded by wringing my hands and furrowing my brow,” she told reporters. “Looking worried is a full-time job, and an amateur like Troy Jackson simply isn’t up to it.”",
-          "createdAt": "2026-08-19T13:36:26.999Z",
-          "uri": "at://did:plc:w6bmjgsmajxmunpc56d2ncap/app.bsky.feed.post/3mtgtyrpmas2z",
-          "sentiment": -1
-        },
-        {
-          "id": "8b6793b50f1c1e39eebe8365c7810915994c4703a33051a1b8bfea1ed0d10fac",
-          "authorHandle": "cooperhamilton.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T13:35:16.861Z",
-          "uri": "at://did:plc:qvdmyigbm2ktoiwyquvoayv7/app.bsky.feed.post/3mtgtwot64c2w",
-          "sentiment": 0
-        },
-        {
-          "id": "981559786b6e2acefdeb78f07b62724633ae46a30edaf3f6867232532d41bd70",
-          "authorHandle": "iwantmycountry26.bsky.social",
-          "postText": "substack.com/@rawstory/no....",
-          "createdAt": "2026-08-19T13:26:46.415Z",
-          "uri": "at://did:plc:u6wpahdxudi2unba3go2nbsv/app.bsky.feed.post/3mtgthhzlow2l",
-          "sentiment": 0
-        },
-        {
-          "id": "b6590a472d115c791005e9accc7b69dd41c9d88c4712591606a957bc51845600",
-          "authorHandle": "terg.bsky.social",
-          "postText": "Anyone know why she's only a couple of points behind Troy Jackson? She should be 5 points below him.",
-          "createdAt": "2026-08-19T13:22:30.326Z",
-          "uri": "at://did:plc:i65aypxhksgbtxn5l77f2ws7/app.bsky.feed.post/3mtgt7tsdsc2z",
-          "sentiment": 0
-        },
-        {
-          "id": "efd8d9eb12324d831a8c4fae05c7e7430cc4d8c302230fe9a94319e36d25837e",
-          "authorHandle": "chwnp.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T13:18:05.546Z",
-          "uri": "at://did:plc:ysdzw3nbcmhq7av3uvek3xum/app.bsky.feed.post/3mtgsxxbwkk2b",
-          "sentiment": 0
-        },
-        {
-          "id": "dee9139492cfa8fdd5622adb8beaff1383d904cb4542e75562828c06aaffda4b",
-          "authorHandle": "jimcook.bsky.social",
-          "postText": "Satire\n\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T13:14:37.134Z",
-          "uri": "at://did:plc:luryx5gvcanpzotyilb2hs2l/app.bsky.feed.post/3mtgsrqjq6s2t",
-          "sentiment": 0
-        },
-        {
-          "id": "767d51f997a882f3be01109a59379b4a00f7aff37393d7e1107b131c53d96d8d",
-          "authorHandle": "dram1942.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T13:14:12.379Z",
-          "uri": "at://did:plc:gxlo5ujkeeg7grqv7mmubfya/app.bsky.feed.post/3mtgsqywafs27",
-          "sentiment": 0
-        },
-        {
-          "id": "150621b1dcf99618a7b93793997982cc7eaf4710bea586987d1a028603482f6f",
-          "authorHandle": "jen-king.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T13:08:51.670Z",
-          "uri": "at://did:plc:poxxsebzfnj4kepqazbtwdld/app.bsky.feed.post/3mtgshh2xzk2u",
-          "sentiment": 0
-        },
-        {
-          "id": "04b64833f48dd8272decd36b1f0e60a74a93bcf91489f62d767b12650dac8435",
-          "authorHandle": "furiosomom.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T13:06:55.597Z",
-          "uri": "at://did:plc:hzrud7rad45vgmrm3nip3voa/app.bsky.feed.post/3mtgsdyeoj22m",
-          "sentiment": 0
-        },
-        {
-          "id": "8a24c45caa1dfaeb65d2606b39ab9732d63fd5d30f1143fecd572a95a2c3ef34",
-          "authorHandle": "bbloom78.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T13:03:15.223Z",
-          "uri": "at://did:plc:w7eiylbd5nm7lp2c2mcn47p2/app.bsky.feed.post/3mtgs5g7jgk2r",
-          "sentiment": 0
         }
       ],
       "youtube": [
