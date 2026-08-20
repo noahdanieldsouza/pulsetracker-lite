@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T20:11:54.610Z",
+  "lastUpdated": "2026-08-20T20:48:47.606Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.29009885057471263,
+      "overallSentiment": 0.28319761904761903,
       "newsSentiment": 0,
-      "socialSentiment": 0.1702965517241379,
+      "socialSentiment": 0.14959285714285714,
       "mentions": {
         "news": 14,
-        "social": 58,
+        "social": 56,
         "youtube": 10,
-        "total": 82
+        "total": 80
       },
       "news": [
         {
@@ -177,6 +177,14 @@
         }
       ],
       "social": [
+        {
+          "id": "75a691f7f72212e4cbe03a9ac3afa25b640f1baaf3a19b358b02bea408d74db2",
+          "authorHandle": "carolmulrooney.bsky.social",
+          "postText": "Ugh I got a text survey from Dynata about issues in Maine and I looked them up and they looked legitimate so I thought it would be fine to respond. As I answered their questions, I saw that they were tailoring them to trash Troy Jackson and elevate Susan Collins. Ashamed that I fell for it!",
+          "createdAt": "2026-08-20T20:16:10.479Z",
+          "uri": "at://did:plc:uweecxnbhqouhk3dawod6kvf/app.bsky.feed.post/3mtk2shm2hk24",
+          "sentiment": -1
+        },
         {
           "id": "aa12db879db537fa0bb250414b4234338f32db057a70114141afe2bed72d7734",
           "authorHandle": "packfanbud.bsky.social",
@@ -616,30 +624,6 @@
           "createdAt": "2026-08-19T20:56:59.772Z",
           "uri": "at://did:plc:svsokg3yuv2i3nxird7c2zpk/app.bsky.feed.post/3mthmmjxs5s2n",
           "sentiment": 1
-        },
-        {
-          "id": "b2bfc8d5476429037755e96b5d8c85fc6dd272ae0d0a9fb8a4911c0649c0c56e",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "Donate to  JacksonForMaine.com would be the best starting place. The GOP, Collins campaign, and their SuperPacs have a hell of a head start and a boatload of more money to spend on ads.\n\nMakes a big difference. #Donate!",
-          "createdAt": "2026-08-19T20:27:25.842Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mthkxo7rmk2s",
-          "sentiment": 0.6
-        },
-        {
-          "id": "289d42ad4faf9ff623b4eeb2debd3d99a2744f26c54a1493e575ddb4d89324f4",
-          "authorHandle": "lappypercival.bsky.social",
-          "postText": "since i made this tweet it's turned to 25% talarico and 75% troy jackson",
-          "createdAt": "2026-08-19T20:26:29.372Z",
-          "uri": "at://did:plc:hgmvy5bor2ippo3wcletjont/app.bsky.feed.post/3mthkvyeg5s2s",
-          "sentiment": 0.7
-        },
-        {
-          "id": "d94fb837855acd2e7d54ddd0727795f23b8fd24d6bb081dbabe76b2a4a33647b",
-          "authorHandle": "capitolhillaccess.bsky.social",
-          "postText": "Lead Maine Committee, Inc. spends $38,787 to OPPOSE Troy Jackson (Sen ME Sen)(D)\n\n#MESen.\r\n\r\n2026 Cycle FEC Data:\n\nhttps://capitolhillaccess.com/tr/tr_ef_filer?&sFECID=C00946921&sCycle=2026\n\nFEC:\n\nhttps://docquery.fec.gov/cgi-bin/forms/C00946921/2007670\n\n@SenatorCollins @SenSusanCollins...",
-          "createdAt": "2026-08-19T20:13:44.702Z",
-          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mthk7al2ta2c",
-          "sentiment": -0.8
         }
       ],
       "youtube": [
