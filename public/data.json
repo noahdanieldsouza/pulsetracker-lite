@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T04:48:34.731Z",
+  "lastUpdated": "2026-08-20T05:17:46.822Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.4517971929824561,
+      "overallSentiment": -0.4491787064676617,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.05263157894736842,
+      "socialSentiment": -0.04477611940298508,
       "mentions": {
         "news": 5,
-        "social": 133,
+        "social": 134,
         "youtube": 2,
-        "total": 140
+        "total": 141
       },
       "news": [
         {
@@ -96,6 +96,14 @@
         }
       ],
       "social": [
+        {
+          "id": "bb1f066130628c0843460c49e85644b2edc433eefaadac2ebdab178cf0d11111",
+          "authorHandle": "celiebug.bsky.social",
+          "postText": "youtube.com/shorts/ybxhu...\nVote Troy Jackson – Maine",
+          "createdAt": "2026-08-20T04:49:02.050Z",
+          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3mtigym74rc2k",
+          "sentiment": 1
+        },
         {
           "id": "cff1a7c465fb8ada67c31572f9f66b1c35c6da019993790e9b14a7eee62102da",
           "authorHandle": "chrismootham.bsky.social",
