@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T13:55:32.875Z",
+  "lastUpdated": "2026-08-20T14:31:21.618Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.23843754045307441,
+      "overallSentiment": 0.2400585034013605,
       "newsSentiment": 0,
-      "socialSentiment": 0.015312621359223304,
+      "socialSentiment": 0.020175510204081634,
       "mentions": {
         "news": 14,
-        "social": 103,
+        "social": 98,
         "youtube": 10,
-        "total": 127
+        "total": 122
       },
       "news": [
         {
@@ -177,6 +177,14 @@
         }
       ],
       "social": [
+        {
+          "id": "91b573b8fe15d4bdb3250c5139c699db2e9194f4990ced7d61e502b18b36ec1c",
+          "authorHandle": "jerrywayne.bsky.social",
+          "postText": "www.youtube.com/watch?v=RVUA...",
+          "createdAt": "2026-08-20T16:04:27.738Z",
+          "uri": "at://did:plc:f6hvl66ry2ofkydic7465ei6/app.bsky.feed.post/3mtjmqeixxc2l",
+          "sentiment": 0
+        },
         {
           "id": "8f6c269df9c8647c7fc7b944b4845104d5b907b0dd3ac16e79f3cfebd3e18667",
           "authorHandle": "cdl6229.bsky.social",
@@ -952,54 +960,6 @@
           "createdAt": "2026-08-19T14:33:50.766Z",
           "uri": "at://did:plc:hajyyhgww2w53ef354a5zqhg/app.bsky.feed.post/3mtgx7fwzxk22",
           "sentiment": 0
-        },
-        {
-          "id": "fd6eb9652723a35025cd6d3e20db1bdb42246391d7025f50c7f6bfe1f55e6a70",
-          "authorHandle": "opensecrets.org",
-          "postText": "Chart of the Week📊:\n\nWhile Democrats are expected to take the House, control of the Senate remains a tossup & candidates will need to spend aggressively.\n\nHere are the most competitive Senate races and the cash available to candidates.\n\nwww.opensecrets.org/news/2026/08...",
-          "createdAt": "2026-08-19T14:27:03.091Z",
-          "uri": "at://did:plc:tqsxvuwkgoynvu3svvkbgi6g/app.bsky.feed.post/3mtgwtb5zns26",
-          "sentiment": 0
-        },
-        {
-          "id": "57944aacbd857bfd3eb0feb71061c204d241323aacff87197c796f1ecd7befb9",
-          "authorHandle": "esperanzao.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T14:19:00.617Z",
-          "uri": "at://did:plc:altajlv36fpdcf37dxw2jgfu/app.bsky.feed.post/3mtgweuzsu22f",
-          "sentiment": 0
-        },
-        {
-          "id": "5a9c4852971855c0e8d84916eae71dc574e57a978c2caf760b3e5a8075823023",
-          "authorHandle": "j-leslie3k.bsky.social",
-          "postText": "Collins said she was confident she would win the televised contest, stating, “For the first time in my life, this is something I am not deeply troubled or concerned about.”\nwww.borowitzreport.com/p/susan-coll...",
-          "createdAt": "2026-08-19T14:11:48.422Z",
-          "uri": "at://did:plc:snnkasoitm4rvs43dvh7pbz4/app.bsky.feed.post/3mtgvxyucfk2e",
-          "sentiment": -0.4
-        },
-        {
-          "id": "5f813ab42555f35928cd765a23a4a3cde57d04ca82658b349c34c4652b62c299",
-          "authorHandle": "texdemcowboy.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T14:11:33.333Z",
-          "uri": "at://did:plc:fz3cyij7yjdixmbibrevlnkp/app.bsky.feed.post/3mtgvxki6rc2y",
-          "sentiment": 0
-        },
-        {
-          "id": "9888fead75a94f35cb180fec9d52ae6e7b97ee46746bb7c1bd9ca181ecb91e25",
-          "authorHandle": "gaylekate.bsky.social",
-          "postText": "youtube.com/shorts/Oi4OE...",
-          "createdAt": "2026-08-19T14:01:35.883Z",
-          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mtgvfqp4r22j",
-          "sentiment": -1
-        },
-        {
-          "id": "38a5bd8e25304e024c0571703bfde4d8bf97ebaed1ce7ad8699316feb28e6904",
-          "authorHandle": "xeongui.bsky.social",
-          "postText": "Don't really have to raise a hand, the people in Maine need to vote in massive numbers for Troy Jackson, send Susan back to the farm.",
-          "createdAt": "2026-08-19T13:57:11.879Z",
-          "uri": "at://did:plc:mfhskgtp6hppphvef44j3w6i/app.bsky.feed.post/3mtgv5uwhbs2k",
-          "sentiment": 1
         }
       ],
       "youtube": [
