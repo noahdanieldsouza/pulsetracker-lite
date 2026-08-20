@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T21:13:12.805Z",
+  "lastUpdated": "2026-08-20T21:45:45.198Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.27973081761006285,
+      "overallSentiment": 0.2780436363636363,
       "newsSentiment": 0,
-      "socialSentiment": 0.1391924528301887,
+      "socialSentiment": 0.1341309090909091,
       "mentions": {
         "news": 14,
-        "social": 53,
+        "social": 55,
         "youtube": 10,
-        "total": 77
+        "total": 79
       },
       "news": [
         {
@@ -177,6 +177,22 @@
         }
       ],
       "social": [
+        {
+          "id": "6d5778cacb7759475df33ec377b02425961d468f39d4c760eba6fa7aa959ec27",
+          "authorHandle": "treatslinger.bsky.social",
+          "postText": "What in the I still won’t vote for Susan Collins is this stupid survey??? Seriously, I don’t care if Troy Jackson is Satan himself. Still not voting for Suzie… last photo has the text with the link to the survey.\n@collinswatch.bsky.social  things appear to be a giant right smear campaign. 🤮",
+          "createdAt": "2026-08-20T21:43:47.006Z",
+          "uri": "at://did:plc:handgmtm3xorun6emxtevbvh/app.bsky.feed.post/3mtk7p4mvdc2e",
+          "sentiment": -1
+        },
+        {
+          "id": "5264d02182dc912f9360306828ba54622033042aa56b98a337818a957f643272",
+          "authorHandle": "gentlem.bsky.social",
+          "postText": "www.youtube.com/watch?v=iTGL...\n@troyjackson207.bsky.social \n#JacksonForMaine\nwww.jacksonformaine.com",
+          "createdAt": "2026-08-20T21:35:01.105Z",
+          "uri": "at://did:plc:yto72hgvetlbftg2v76q3qq3/app.bsky.feed.post/3mtk77h3eek2s",
+          "sentiment": 1
+        },
         {
           "id": "75a691f7f72212e4cbe03a9ac3afa25b640f1baaf3a19b358b02bea408d74db2",
           "authorHandle": "carolmulrooney.bsky.social",
