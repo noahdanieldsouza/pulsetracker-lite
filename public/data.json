@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T12:40:14.260Z",
+  "lastUpdated": "2026-08-20T13:02:10.543Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.34459413333333333,
+      "overallSentiment": -0.32813684210526317,
       "newsSentiment": 0,
-      "socialSentiment": -0.0337824,
+      "socialSentiment": 0.015589473684210532,
       "mentions": {
         "news": 14,
-        "social": 125,
+        "social": 114,
         "youtube": 2,
-        "total": 141
+        "total": 130
       },
       "news": [
         {
@@ -177,6 +177,38 @@
         }
       ],
       "social": [
+        {
+          "id": "c7e808dd59df09ddb053e34790cb4ac555fdb5153ea886448ff5ee2684555bb3",
+          "authorHandle": "bzell.bsky.social",
+          "postText": "U.S. Senator Susan Collins has an estimated net worth between $3.9 million and $9.8 million, according to recent federal financial disclosures. Let her pay for her own fucking gas!  Give your money to Troy Jackson instead and send Susie packing.",
+          "createdAt": "2026-08-20T12:48:41.741Z",
+          "uri": "at://did:plc:kvueyyv465bikopb6vso7qrs/app.bsky.feed.post/3mtjbscnnpk2x",
+          "sentiment": 1
+        },
+        {
+          "id": "c3b8def9288e2f6f6292fa741572a4cb34245a1ed587f5b0ddbb1b3765220214",
+          "authorHandle": "sgh956.bsky.social",
+          "postText": "Hilarious 😆 \nwww.borowitzreport.com/p/susan-coll...",
+          "createdAt": "2026-08-20T12:46:10.292Z",
+          "uri": "at://did:plc:d2o7yw7isxgwnopm7qoesj3n/app.bsky.feed.post/3mtjbns7uas26",
+          "sentiment": 0
+        },
+        {
+          "id": "34613b921180808de486b361fe276abf26a7a74cba3c1672b33cb94e927aba01",
+          "authorHandle": "surfsideme.bsky.social",
+          "postText": "Troy Jackson pushed for policies that make a difference like universal school meals & raising wages for childcare workers. Troy spoke, at the invitation of the White House, about what was accomplished with his leadership.He will lead on issues that make a difference for Maine children and families.",
+          "createdAt": "2026-08-20T12:44:40.792Z",
+          "uri": "at://did:plc:27r5s56ztmcwfmihakhvi4uq/app.bsky.feed.post/3mtjbl4umtk25",
+          "sentiment": 1
+        },
+        {
+          "id": "78fd442cb3e6cfc6ec9eee7a79cbb5e9d135232babf8949e876b21b6ca14af89",
+          "authorHandle": "pressherald.com",
+          "postText": "Does Troy Jackson stand a chance against Susan Collins? | Opinion",
+          "createdAt": "2026-08-20T12:01:12+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtj75fhgll2m",
+          "sentiment": 0
+        },
         {
           "id": "14c9b39455f028c161c61ce37c0e3ca414de83879bf08cc9f747a9fb900d9ce2",
           "authorHandle": "ouisquared.bsky.social",
@@ -1056,126 +1088,6 @@
           "createdAt": "2026-08-19T13:03:15.223Z",
           "uri": "at://did:plc:w7eiylbd5nm7lp2c2mcn47p2/app.bsky.feed.post/3mtgs5g7jgk2r",
           "sentiment": 0
-        },
-        {
-          "id": "c86c96bd0ad57d20b9d00d6b787d0c8f0e7d55a7c4895284074fdf73ab38e373",
-          "authorHandle": "nant49.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T12:55:15.401Z",
-          "uri": "at://did:plc:fly75rxvjquaz2g2sssxhalk/app.bsky.feed.post/3mtgrp4mgdc2m",
-          "sentiment": 0
-        },
-        {
-          "id": "bbd525d2d2aee9f268ac82f7bbeadec7a153d8a2fdf3304e57f3e1300a3af7cb",
-          "authorHandle": "tommyboy0690.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T12:48:18.399Z",
-          "uri": "at://did:plc:mzzzufyjstzj42lafmdwsxhv/app.bsky.feed.post/3mtgrcownps2d",
-          "sentiment": 0
-        },
-        {
-          "id": "89f4e7a98bbbbd65bd19df866250405348429d18d7800c409aa92f7b1cfd1861",
-          "authorHandle": "susanpatrick1.bsky.social",
-          "postText": "🤣🤣\nSusan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T12:43:27.088Z",
-          "uri": "at://did:plc:lyh7r42heepdlh5ujutmvcz2/app.bsky.feed.post/3mtgqzz4gg22v",
-          "sentiment": 0
-        },
-        {
-          "id": "cef121fc505190fcf86f46a56f6ee2c8102be4381757ab7193f4e51b8fc6f7cb",
-          "authorHandle": "janeofvictory.bsky.social",
-          "postText": "The Pine Tree Results PAC supporting Collins has put out ads accusing her opponent, Troy Jackson, of everything Trump has done. One could simply substitute Trump’s name for a factual statement.",
-          "createdAt": "2026-08-19T12:42:02.992Z",
-          "uri": "at://did:plc:cl4rjqaxphfzvjtbi5zd7p2i/app.bsky.feed.post/3mtgqxiwjzc2k",
-          "sentiment": -1
-        },
-        {
-          "id": "ee76eef25e29235c703ba029153c64f5ac0aac8fac413941d96bc3ecb7c74679",
-          "authorHandle": "oldfatuglynbroke.bsky.social",
-          "postText": "It's Borowitz!",
-          "createdAt": "2026-08-19T12:40:00.063Z",
-          "uri": "at://did:plc:2ghgjkqszaib33i32ou4z5td/app.bsky.feed.post/3mtgqttoilk2j",
-          "sentiment": 0
-        },
-        {
-          "id": "16e391b588bae678bd575abf3d218006a128470199a39b7b5e19a023c43899e7",
-          "authorHandle": "robtpennname.bsky.social",
-          "postText": "Borowitz is funny today.\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T12:35:30.253Z",
-          "uri": "at://did:plc:p2jdcdw2jn6ygep5xt2hbxpd/app.bsky.feed.post/3mtgqlselac2m",
-          "sentiment": 0
-        },
-        {
-          "id": "e9c25f6e18020b4a85cf415dd8695a4ee565c1e91d9d76ec6180126f16aa632b",
-          "authorHandle": "greetingsout.bsky.social",
-          "postText": "“Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\n“For the past 29 years, when there’s been a tough call to make, I’ve responded by wringing my hands and furrowing my brow,” she said. “Looking worried is a full-time job, and an amateur like Troy Jackson simply isn’t up to it.”",
-          "createdAt": "2026-08-19T12:34:03.321Z",
-          "uri": "at://did:plc:2h4wa3xi6gylrsz5ss4v3po4/app.bsky.feed.post/3mtgqj7hrlk2a",
-          "sentiment": -1
-        },
-        {
-          "id": "1cfac5cd81c95428cb21232336bef152d9cb3923abc8b0fe04f8823b83f1ad74",
-          "authorHandle": "robtpennname.bsky.social",
-          "postText": "Borowitz is funny today. \nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T12:33:57.534Z",
-          "uri": "at://did:plc:p2jdcdw2jn6ygep5xt2hbxpd/app.bsky.feed.post/3mtgqizwzdk2k",
-          "sentiment": 0
-        },
-        {
-          "id": "32debf48ffdef3ea175006976111c178db31868d360c56c70d50337d15e57b03",
-          "authorHandle": "papabear333.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T12:27:36.654Z",
-          "uri": "at://did:plc:st5u5ejpaccra726lc5rxd3g/app.bsky.feed.post/3mtgq5opi7k2c",
-          "sentiment": -1
-        },
-        {
-          "id": "d4bc17cf5f3bec9c3b47898befec5c4e48cd0502618617335419a38eb173e543",
-          "authorHandle": "mizmaxgordon.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T12:25:15.891Z",
-          "uri": "at://did:plc:6v2eri6it43adqtpnqowpb52/app.bsky.feed.post/3mtgpzihqds2d",
-          "sentiment": -1
-        },
-        {
-          "id": "a3ae48f17a5acb3347a79cb749b611b41fa20e8e32ad2e394971dd5cd08c1f0a",
-          "authorHandle": "conifergirl.bsky.social",
-          "postText": "Collins, who is locked in a tough re-election battle with Democratic state lawmaker Troy Jackson, is not the first Republican to vote in favor of Trump's war and then beg supporters for gas money.\nwww.rawstory.com/susan-collin...",
-          "createdAt": "2026-08-19T12:22:10.411Z",
-          "uri": "at://did:plc:cukyh664zwfwfsi2qo7otdkl/app.bsky.feed.post/3mtgptxlekt2i",
-          "sentiment": 0
-        },
-        {
-          "id": "3309c5b1dff60379a10d520300204e17f8ed0bae9b40f0f1ad6f09233adf4d6b",
-          "authorHandle": "northjules.bsky.social",
-          "postText": "Healthcare, reproductive rights, childcare, and ending ICE terror are all on the ballot this November 3. We have the power to shape our future. Let's make it happen.\n\nVote Troy Jackson! \n#Pinks",
-          "createdAt": "2026-08-19T12:18:17.690Z",
-          "uri": "at://did:plc:4e22g3omfbkrxxi76mdbchhm/app.bsky.feed.post/3mtgpmzn7xc2v",
-          "sentiment": 1
-        },
-        {
-          "id": "18fc09186cc5e3700260b019787dc74d1ac0b4f50ed654801cd39b349c72756b",
-          "authorHandle": "bernard-elias.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T12:12:01.680Z",
-          "uri": "at://did:plc:pbhcgcd2d7luuhjmtm2ork7u/app.bsky.feed.post/3mtgpbt2li22p",
-          "sentiment": 0
-        },
-        {
-          "id": "cb7d5ac83a9320f492fbfcc9efafed756ea87cef523d72b5f0a213847ccabec5",
-          "authorHandle": "lordcollins.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T12:03:09.373Z",
-          "uri": "at://did:plc:gceb2dvh6bcwktlgfikqax6w/app.bsky.feed.post/3mtgorxfln22r",
-          "sentiment": 0
-        },
-        {
-          "id": "c8b93b05e86593bc72796288bb27983b0ec9ce91d256a878d37aa27a891b89b4",
-          "authorHandle": "cdlane.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T12:01:29.946Z",
-          "uri": "at://did:plc:gzwlwbdlgg7iv4renfd22zj4/app.bsky.feed.post/3mtgooylkrc2s",
-          "sentiment": -1
         }
       ],
       "youtube": [
