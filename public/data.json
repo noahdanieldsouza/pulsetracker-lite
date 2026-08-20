@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T11:59:45.830Z",
+  "lastUpdated": "2026-08-20T12:40:14.260Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,60 +39,141 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.4455141333333333,
-      "newsSentiment": -0.30276,
+      "overallSentiment": -0.34459413333333333,
+      "newsSentiment": 0,
       "socialSentiment": -0.0337824,
       "mentions": {
-        "news": 5,
+        "news": 14,
         "social": 125,
         "youtube": 2,
-        "total": 132
+        "total": 141
       },
       "news": [
         {
-          "id": "fd6c77a22abb28e68e340dae21bbb9dae290ebf3e33ce0c2ea651afedb1d2430",
-          "title": "Another Republican caught begging for gas money after green-lighting Trump's war: report",
-          "description": "Yet another embattled Senate Republican incumbent has been caught begging supporters for gas money — after voting to continue President Donald Trump's war in Iran. According to The Daily Beast, Sen. Susan Collins (R-ME) told her supporters in a fundraising email this week that “organizing a tour of this scale takes a lot of coordination, enthusiasm, and quite literally fuel. Will you chip in just $5 today to help us put gas in the tank and keep our team moving forward?” Collins, age 73, belatedly voted in favor of curtailing Trump's Iran war under the War Powers Act in April. However, prior to that, she repeatedly voted against the legislation, saying, “Passing this resolution now would send the wrong message to Iran and to our troops. At this juncture, providing unequivocal support to our service members is critically important, as is ongoing consultation by the administration with Congress.” Numerous economic experts have linked the Iran war to rising gas prices, as the hostilities have shut down the Strait of Hormuz , a vital shipping artery through which 20 percent of the world's oil is shipped. Collins, who is locked in a tough re-election battle with Democratic state lawmaker Troy Jackson, is not the first Republican to vote in favor of Trump's war and then beg supporters for gas money. In May, Sen. Dan Sullivan (R-AK), told his supporters that \"To continue ushering in America's Golden Age and delivering results for Alaska, I'm personally reaching out to you to ask for a grassroots donation of $3, $5, or $10,\" and that the contribution will, among other things, \"Pay for gas as we visit isolated rural areas of Alaska.\"",
-          "sourceName": "Raw Story",
-          "url": "https://www.rawstory.com/susan-collins-2677723669/",
-          "publishedAt": "2026-08-18T23:55:49.000Z",
-          "sentiment": -0.8519
+          "id": "cdc609ee6cb914258adb254d3297c150a945c6a31dbf1e37efc691c0fc0f4b68",
+          "title": "Troy Jackson campaigns in Portland Wednesday night",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news-center-maine-524552/4838907033110-troy-jackson-campaigns-in-portland-wednesday-night",
+          "publishedAt": "2026-08-20T00:00:00.000Z",
+          "sentiment": 0
         },
         {
-          "id": "44f35f6c2ba5b970da9741cc2cb46750f45d1f38d672aa733ef266458d4e7dac",
-          "title": "A failed coup at Democratic nominating convention | Letter",
-          "description": "“Les mouches s’attepent le papier collant” (The flies capture the fly paper). This saying from the French Resistance to describe the process used against the Vichy collaborators to defeat them along with their Nazi masters best describes the overtaking of the coup attempt orchestrated by the Chuck Schumer-led Democratic National Committee (DNC) and the Maine Democratic [...]",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/18/a-failed-coup-at-democratic-nominating-convention-letter/",
-          "publishedAt": "2026-08-18T16:00:00.000Z",
-          "sentiment": -0.2732
+          "id": "d98a123946d2527506cf8b16678b2f79e3d605ce798e48075c5eceaa442c91e3",
+          "title": "Troy Jackson says Sen. Collins is not willing to challenge Pres. Trump",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4838907877098-troy-jackson-says-sen-collins-is-not-willing-to-challenge-pres-trump",
+          "publishedAt": "2026-08-20T00:00:00.000Z",
+          "sentiment": 0
         },
         {
-          "id": "049fc590207b16d3f89519915debeb2cb9a1d408237edd4461ea946f40396e7c",
-          "title": "A failed coup at Democratic nominating convention | Letter",
-          "description": "“Les mouches s’attepent le papier collant” (The flies capture the fly paper). This saying from the French Resistance to describe the process used against the Vichy collaborators to defeat them along with their Nazi masters best describes the overtaking of the coup attempt orchestrated by the Chuck Schumer-led Democratic National Committee (DNC) and the Maine Democratic [...]",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/18/a-failed-coup-at-democratic-nominating-convention-letter/",
-          "publishedAt": "2026-08-18T16:00:00.000Z",
-          "sentiment": -0.2732
+          "id": "85118354e8d2ca9be37c6bfdfbc962113c7c34d494c07ca4f10d2bbcb1fd6545",
+          "title": "'Milk Makes Families': This Post From Maine's Breastfeeding Coalition Shows It Is a Messed Up State",
+          "description": "Is there something in the water in Maine? The state that gave us Stephen King, Graham Platner, and Troy Jackson...",
+          "sourceName": "Townhall",
+          "url": "https://townhall.com/news/amy-curtis/2026/08/19/inclusive-chestfeeding-n2681474",
+          "publishedAt": "2026-08-19T23:30:00.000Z",
+          "sentiment": 0
         },
         {
-          "id": "9512ede8b42c5083d9c5ed2f06ca9853a70bf5625853c7308b7af24617f26de9",
-          "title": "Planned Parenthood unleashes against Susan Collins's Maine Senate campaign in historic ad campaign",
-          "description": "Collins supports abortion until fetal viability, when the baby can survive outside the womb. She doesn’t typically back late-term abortions.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4690990/planned-parenthood-susan-collins-ad-campaign-criticism-confirming-brett-kavanaugh/",
-          "publishedAt": "2026-08-18T15:55:34.000Z",
-          "sentiment": 0.3612
+          "id": "079dfa46d28d6e796f597f8e7e9733257f66eb9230a3ceb8bbfca2b11caa5aa2",
+          "title": "Minimum Wage Hurts Poor Workers, New Study Finds",
+          "description": "A new study by academic economists concludes that higher minimum wages hurt low-income workers by reducing their hours, the chance that they remain employed, and their overall income. The post Minimum Wage Hurts Poor Workers, New Study Finds appeared first on .",
+          "sourceName": "Freebeacon",
+          "url": "https://freebeacon.com/policy/minimum-wage-hurts-poor-workers-new-study-finds/",
+          "publishedAt": "2026-08-19T23:15:42.000Z",
+          "sentiment": 0
         },
         {
-          "id": "191581eab8572de957dec5faa3c2fbb00fa0b711d3c3465dbd9b71b64d9dc1d1",
-          "title": "Senate Democrats have 1 unpopular candidate. It’s much worse for Republicans",
-          "description": "A new poll last week confirmed the Democratic establishment’s fears that Michigan Senate nominee Abdul El-Sayed could hurt its hopes of winning the chamber’s...",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/articles/abdul-el-sayed-problem-democrats-100029034.html",
-          "publishedAt": "2026-08-18T13:04:02.000Z",
-          "sentiment": -0.4767
+          "id": "ef1eadb3765059bfb5554ab89a9950f147296939ed923fe837ad2cea7903ccaf",
+          "title": "Susan Collins takes cautious line on data centers opposed by most Mainers",
+          "description": "The Republican senator expressed support for projects at former mill sites, saying, “there is usually hydropower right there, so there's an energy source built in.”",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/19/politics/elections/susan-collins-cautious-on-maine-data-centers/",
+          "publishedAt": "2026-08-19T22:36:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "daf490efa819d96acd02e9f78dd5cadb31f0bfdb08d557052bd1f32847498f7e",
+          "title": "Maine Dem Candidate Troy Jackson Was Instrumental in Making Maine First State to Decriminalize Selling Sex",
+          "description": "Maine Democrat U.S. Senate candidate Troy Jackson was instrumental in advancing legislation in 2023 making Maine the first state to decriminalize selling sex. The post Maine Dem Candidate Troy Jackson Was Instrumental in Making Maine First State to Decriminalize Selling Sex appeared first on Breitbart .",
+          "sourceName": "Brietbart",
+          "url": "https://www.breitbart.com/politics/2026/08/19/maine-dem-candidate-troy-jackson-was-instrumental-making-maine-first-state-decriminalize-selling-sex/",
+          "publishedAt": "2026-08-19T21:45:24.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "804c31e33647d838d25938af4a8aae979b199a8d005f4a4a4f6285d04cd78ded",
+          "title": "DSA breaks through with Angie Nixon’s Florida Senate primary upset, but Republicans expected to roll in November",
+          "description": "The Democratic Socialists of America had a shocking breakthrough in Florida's Senate primary Tuesday evening, with state Rep. Angie Nixon scoring an upset win over Alexander Vindman.",
+          "sourceName": "New York Post",
+          "url": "https://nypost.com/2026/08/19/us-news/dsa-breaks-through-with-angie-nixons-florida-senate-primary-upset-but-republicans-expected-to-roll-in-november/",
+          "publishedAt": "2026-08-19T21:10:29.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d2d7cc29dcbd194342e961b8a5955d1afec5a62642ee9e7fd088a15cf8f0f1dc",
+          "title": "Planned Parenthood targets Collins over abortion",
+          "description": "(The Center Square) — Planned Parenthood is pumping more than half a million dollars into Maine’s pivotal U.S. Senate race in an effort to unseat incumbent Republican Sen. Susan Collins in the midterms. The group’s political action committee announced this week that it plans to spend more than $600,000 on a barrage of ads highlighting [...] The post Planned Parenthood targets Collins over abortion appeared first on The Black Chronicle .",
+          "sourceName": "The Black Chronicle",
+          "url": "https://blackchronicle.com/northeast/maine/planned-parenthood-targets-collins-over-abortion/",
+          "publishedAt": "2026-08-19T20:43:38.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c19ccab1bffe589c565f35a02933133c5fbb4862d281d622d7e8f70c316cbd4d",
+          "title": "Jon Ossoff's chances of losing to Republican Mike Collins in Georgia—Poll",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/jon-ossoffs-chances-of-losing-to-republican-mike-collins-in-georgiapoll-33D2E69F-4E29-497F-A24F-66C6F94C6FE2",
+          "publishedAt": "2026-08-19T20:14:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "29f201ad202eeae0f1a2e8b310b180ced8b1ad7a6e8e57a9be1e34df528d2271",
+          "title": "Jon Ossoff's Chances of Losing to Republican Mike Collins in Georgia—Poll",
+          "description": "A new poll reveals where Ossoff stands in his reelection bid as he feuds with the White House.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/jon-ossoffs-chances-of-losing-to-republican-mike-collins-in-georgiapoll-12344150",
+          "publishedAt": "2026-08-19T20:14:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a8e8e6970c11a6a61a55c68608b04cc1760353fa840a068aab8e637b0c62bb35",
+          "title": "Ad on Troy Jackson and Social Security joins wave of misleading claims in Maine Senate race",
+          "description": "The spot from Pine Tree Results PAC is the latest escalation in an already turbulent season shaped by attack ads from outside groups.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/19/politics/elections/misleading-attack-ad-troy-jackson-social-security/",
+          "publishedAt": "2026-08-19T18:37:40.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "b180b37a364b01dd85635a35fc9ecca57cb3c80ab1bf4778adeb37b614764911",
+          "title": "2026 Senate ratings: MS NOW’s races to watch",
+          "description": "From Alaska to Maine and Michigan to Texas, here are the marquee Senate races on the midterms map. The post 2026 Senate ratings: MS NOW’s races to watch appeared first on MS NOW .",
+          "sourceName": "Ms Now",
+          "url": "https://www.ms.now/news/2026-senate-ratings-ms-nows-races-to-watch",
+          "publishedAt": "2026-08-19T18:36:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b136f12723e4a117ef0d815f8b3e15180b6ce7bc2a310d126ed849b349234132",
+          "title": "Troy Jackson swamped by GOP ads as campaign gains footing",
+          "description": "The Democratic U.S. Senate candidate is adding key personnel and working to elevate his profile. At the same time, groups boosting Republican U.S. Sen. Susan Collins have a big advantage in the paid-persuasion contest.",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/politics/2026-08-19/troy-jackson-swamped-by-gop-ads-as-campaign-gains-footing",
+          "publishedAt": "2026-08-19T18:02:58.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3a80dd9f1a13dcc4f6da6d7afef09c1b1b7571729468238066c8aa1937c6c002",
+          "title": "Democrats Bomb Out on Manly Men, Settling for Sexy",
+          "description": "That was a really short search... WHO Says 'Masculinity Is Back'? Why Those Experts on the Subject at The Atlantic...with a...",
+          "sourceName": "Hotair",
+          "url": "https://hotair.com/tree-hugging-sister/2026/08/19/dems-bombed-out-on-manly-men-settling-for-sexy-n3818149",
+          "publishedAt": "2026-08-19T15:20:43.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
