@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T19:48:39.776Z",
+  "lastUpdated": "2026-08-20T20:11:54.610Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.27709555555555554,
+      "overallSentiment": 0.29009885057471263,
       "newsSentiment": 0,
-      "socialSentiment": 0.13128666666666663,
+      "socialSentiment": 0.1702965517241379,
       "mentions": {
         "news": 14,
-        "social": 60,
+        "social": 58,
         "youtube": 10,
-        "total": 84
+        "total": 82
       },
       "news": [
         {
@@ -640,22 +640,6 @@
           "createdAt": "2026-08-19T20:13:44.702Z",
           "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mthk7al2ta2c",
           "sentiment": -0.8
-        },
-        {
-          "id": "12bfba89532bcbda6567ac2da38840171b0f9f082c4b129bba957757d51c88e0",
-          "authorHandle": "tomcapizzi.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T19:54:01.725Z",
-          "uri": "at://did:plc:idxfjvqi46shc5cszyknpfku/app.bsky.feed.post/3mthj3wwy4c2k",
-          "sentiment": -1
-        },
-        {
-          "id": "e80665cdeac48ff27999cec2d5b3cf672b044ff5669274a842c3020090ac1f87",
-          "authorHandle": "alabamasarah.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T19:50:58.272Z",
-          "uri": "at://did:plc:6ucspa3clj3i37y65giomy27/app.bsky.feed.post/3mthiwhygs22x",
-          "sentiment": -1
         }
       ],
       "youtube": [
@@ -765,17 +749,26 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.4444444444444444,
+      "overallSentiment": -0.2777777777777778,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": -1,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 9,
-        "total": 9
+        "total": 10
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "8490aabb8a9d5ece62833161d45814021fcaeb1dc14c62133396138b1c76a015",
+          "authorHandle": "gillis49.bsky.social",
+          "postText": "Did Mark Wood say Jordan Cox dissected the fielders? #bbccricket",
+          "createdAt": "2026-08-20T20:08:22.686Z",
+          "uri": "at://did:plc:rduduw32src6eawpxorr67kp/app.bsky.feed.post/3mtk2ejicak2p",
+          "sentiment": -1
+        }
+      ],
       "youtube": [
         {
           "id": "ddddb59d97be30944c823e64d62911c0b1b4eaea318c46e11b3fce3e40097faf",
