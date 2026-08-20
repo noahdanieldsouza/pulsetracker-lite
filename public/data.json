@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T11:09:11.958Z",
+  "lastUpdated": "2026-08-20T11:39:23.291Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.45859333333333335,
+      "overallSentiment": -0.44499837150127225,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.07302,
+      "socialSentiment": -0.03223511450381679,
       "mentions": {
         "news": 5,
-        "social": 140,
+        "social": 131,
         "youtube": 2,
-        "total": 147
+        "total": 138
       },
       "news": [
         {
@@ -96,6 +96,14 @@
         }
       ],
       "social": [
+        {
+          "id": "338978dfacba1b581c1f348d5bcaffeb674e78b292d6e6fe83f49354a7221260",
+          "authorHandle": "plunderdog903.bsky.social",
+          "postText": "3 anti-Troy Jackson hit ads IN A ROW on TV just now.  That is how much money Susan Collins ' billionaires are throwing into this race.  The amount of money they are throwing at her is obscene.\n\nI know I am preaching to the choir here but Mainers need to hold this against her.",
+          "createdAt": "2026-08-20T11:28:22.297Z",
+          "uri": "at://did:plc:hg32xmsscppdr6aji5ti563s/app.bsky.feed.post/3mtj5cohuhc22",
+          "sentiment": -1
+        },
         {
           "id": "63600679d3b0dacd269595155baa29699a1904fa0347fb32fd6bfd6a6f4c6cfd",
           "authorHandle": "moomomo42.bsky.social",
@@ -1134,86 +1142,6 @@
           "postText": "",
           "createdAt": "2026-08-19T11:39:49.682Z",
           "uri": "at://did:plc:2rlom2mvhjemynggycrotwpy/app.bsky.feed.post/3mtgniakguk25",
-          "sentiment": 0
-        },
-        {
-          "id": "f644cf68954fb9bd2a8ab91bd93fe1a9e48f64833444c6c2eb481761724370ac",
-          "authorHandle": "eugene290390.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:37:29.569Z",
-          "uri": "at://did:plc:pga3jfwjqmilx3od5hsjccty/app.bsky.feed.post/3mtgne2wjrc2d",
-          "sentiment": -1
-        },
-        {
-          "id": "5b0c6003ae6eccdf886de02ccc418a52495758ea3e2ea96f8da3e2a955e2839d",
-          "authorHandle": "jonruttenberg.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:27:28.358Z",
-          "uri": "at://did:plc:jgixn4opsfpeoc4tfsc5a5jv/app.bsky.feed.post/3mtgms5l2ms2i",
-          "sentiment": -1
-        },
-        {
-          "id": "2013e54c05b8fbded716d8067b308b114a2194da28ac6860ff90c829f1261f31",
-          "authorHandle": "sg1954.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:24:43.589Z",
-          "uri": "at://did:plc:klpscxolozwe7ujgebhhj5dr/app.bsky.feed.post/3mtgmnagogc2i",
-          "sentiment": 0
-        },
-        {
-          "id": "2c88f29fea96b0d7589b511b55619c2a874eaa34320f0c6bfa9cbbda0b7c4d2e",
-          "authorHandle": "didymus1515.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:23:57.662Z",
-          "uri": "at://did:plc:ocq4hvva4x2cuiefyfi7ig5j/app.bsky.feed.post/3mtgmlun2uc2e",
-          "sentiment": -1
-        },
-        {
-          "id": "5f60c8fc1744890317419c1f88b17c5ee487dbe9cff3d0a91617569ec8ebbcad",
-          "authorHandle": "ctnative.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:23:18.160Z",
-          "uri": "at://did:plc:go5jdeycx42dalu2bbelbzvq/app.bsky.feed.post/3mtgmkoxols23",
-          "sentiment": 0
-        },
-        {
-          "id": "e66919806597a6105bc75b09ee4bb94172e60d83335e57b3ec317ea2f00e4515",
-          "authorHandle": "lavonda.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:21:20.301Z",
-          "uri": "at://did:plc:zcfcys2mwvkzjlhpviz3d36x/app.bsky.feed.post/3mtgmh6ksyc2y",
-          "sentiment": -1
-        },
-        {
-          "id": "1b0911081a82379a4db01937cb64faf35c79191ff87bb30fd94c797d7e09f2de",
-          "authorHandle": "justjena.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:20:41.902Z",
-          "uri": "at://did:plc:ihffwe3c5o5tzedsrfitryys/app.bsky.feed.post/3mtgmfzwxxk2z",
-          "sentiment": -1
-        },
-        {
-          "id": "e1db36d0c6fe2802e36e9a3e1626ca7d422be974ef914b1dcf4bfe7044ab2aa7",
-          "authorHandle": "rick77-jqa6.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:19:48.890Z",
-          "uri": "at://did:plc:a4tobipt7ptabgbtujmuhxj6/app.bsky.feed.post/3mtgmehf5hc2x",
-          "sentiment": -1
-        },
-        {
-          "id": "6ff49fefde86b6dfbf6ff5a9c8d542be997a0977a5f61ac1e9852abee1f5e4ff",
-          "authorHandle": "dogsmile.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:18:47.151Z",
-          "uri": "at://did:plc:tmuzuggqiwqepdjlcckbersp/app.bsky.feed.post/3mtgmcmj2gs2r",
-          "sentiment": -1
-        },
-        {
-          "id": "6512ee5648b4ca15a105f8dbb5c86b5eb23d501e0b69e2ece00d2686b53fd202",
-          "authorHandle": "guitargirlnyc.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:18:19.494Z",
-          "uri": "at://did:plc:h2ssxlkrr6zj4qk4zlnrhswp/app.bsky.feed.post/3mtgmbs4znk2h",
           "sentiment": 0
         }
       ],
