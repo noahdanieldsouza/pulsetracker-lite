@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T21:45:45.198Z",
+  "lastUpdated": "2026-08-20T22:03:41.411Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2780436363636363,
+      "overallSentiment": 0.2772452380952381,
       "newsSentiment": 0,
-      "socialSentiment": 0.1341309090909091,
+      "socialSentiment": 0.1317357142857143,
       "mentions": {
         "news": 14,
-        "social": 55,
+        "social": 56,
         "youtube": 10,
-        "total": 79
+        "total": 80
       },
       "news": [
         {
@@ -177,6 +177,14 @@
         }
       ],
       "social": [
+        {
+          "id": "8d65a355113a508ef280a8a3b4e9c309c28381cc504c22b5571a0d7ebeb6b8f2",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-20T22:02:46.283Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtkar34jrs27",
+          "sentiment": 0
+        },
         {
           "id": "6d5778cacb7759475df33ec377b02425961d468f39d4c760eba6fa7aa959ec27",
           "authorHandle": "treatslinger.bsky.social",
