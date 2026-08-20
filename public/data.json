@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T11:39:23.291Z",
+  "lastUpdated": "2026-08-20T11:59:45.830Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.44499837150127225,
+      "overallSentiment": -0.4455141333333333,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.03223511450381679,
+      "socialSentiment": -0.0337824,
       "mentions": {
         "news": 5,
-        "social": 131,
+        "social": 125,
         "youtube": 2,
-        "total": 138
+        "total": 132
       },
       "news": [
         {
@@ -96,6 +96,14 @@
         }
       ],
       "social": [
+        {
+          "id": "14c9b39455f028c161c61ce37c0e3ca414de83879bf08cc9f747a9fb900d9ce2",
+          "authorHandle": "ouisquared.bsky.social",
+          "postText": "www.borowitzreport.com/p/susan-coll...",
+          "createdAt": "2026-08-20T11:54:05.136Z",
+          "uri": "at://did:plc:b2qrom2tdzvt47miqkn5eply/app.bsky.feed.post/3mtj6qntn4k2t",
+          "sentiment": 0
+        },
         {
           "id": "338978dfacba1b581c1f348d5bcaffeb674e78b292d6e6fe83f49354a7221260",
           "authorHandle": "plunderdog903.bsky.social",
@@ -1087,62 +1095,6 @@
           "createdAt": "2026-08-19T12:01:29.946Z",
           "uri": "at://did:plc:gzwlwbdlgg7iv4renfd22zj4/app.bsky.feed.post/3mtgooylkrc2s",
           "sentiment": -1
-        },
-        {
-          "id": "1ab6495e161f269adf8dfff77ab9e52261f18a7a71a19f332e2283f45bd18f29",
-          "authorHandle": "bangordailynews.bsky.social",
-          "postText": "The former Maine Senate president has enlisted old and new allies, and even former opponents.\nwww.bangordailynews.com/2026/08/19/p...",
-          "createdAt": "2026-08-19T11:57:01.121Z",
-          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mtgogz3fzv2g",
-          "sentiment": 1
-        },
-        {
-          "id": "a76c81abcdcf6c594394b03774dbc7bd4cb60ceb42c40166f3bae9310af603f2",
-          "authorHandle": "nuthatchme.bsky.social",
-          "postText": "Borowitz considers #Maine politics.\n#MEpolitics",
-          "createdAt": "2026-08-19T11:52:26.944Z",
-          "uri": "at://did:plc:2igf2xd6ehd4m2biivkrzf2w/app.bsky.feed.post/3mtgo6sqjdc22",
-          "sentiment": 0
-        },
-        {
-          "id": "082fbbfb9eb516d0ba90a7101957e16e4dd3a8df31f9ab3c0f1e675c9b5148f7",
-          "authorHandle": "lavonnebray.bsky.social",
-          "postText": "“For the past 29 years, when there’s been a tough call to make, I’ve responded by wringing my hands and furrowing my brow,” she told reporters. “Looking worried is a full-time job, and an amateur like Troy Jackson simply isn’t up to it.”",
-          "createdAt": "2026-08-19T11:50:08.938Z",
-          "uri": "at://did:plc:hgloda2jieverlnzfg5g7bcc/app.bsky.feed.post/3mtgo2p4m3c22",
-          "sentiment": -1
-        },
-        {
-          "id": "78baa3032cc641ea1c4240f81c1f783657b04f0f44f24e376504a3ffbcb56d37",
-          "authorHandle": "chitraraj.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T11:47:22.844Z",
-          "uri": "at://did:plc:ser5xww54j53ap7xj74ej4rp/app.bsky.feed.post/3mtgnvqpuuc2c",
-          "sentiment": 0
-        },
-        {
-          "id": "c1da6d429b0f8be16a8b7c20fe961dc95363ea190dabd6f21fde3d2eceb14c38",
-          "authorHandle": "soulmuffin.bsky.social",
-          "postText": "#TroyForME\n#Deep6Collins",
-          "createdAt": "2026-08-19T11:47:21.883Z",
-          "uri": "at://did:plc:qd5el2er4ragfjnpdtm3pxvc/app.bsky.feed.post/3mtgnvpspbc2u",
-          "sentiment": 1
-        },
-        {
-          "id": "401eea85e397f1acf71c9d328d6d5379ffed1c15eae3e680e21a9bd9453365c7",
-          "authorHandle": "ageofparrhesia.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest.\nwww.borowitzreport.com/p/susan-coll...",
-          "createdAt": "2026-08-19T11:42:01.223Z",
-          "uri": "at://did:plc:3lwgwopvyfabstgjoismmzzg/app.bsky.feed.post/3mtgnm5yqus2h",
-          "sentiment": -1
-        },
-        {
-          "id": "d118f16af2a1c0e2a5304f6363680030a45e73b524887ee0f0f0fe49973f1007",
-          "authorHandle": "butchsullins.bsky.social",
-          "postText": "",
-          "createdAt": "2026-08-19T11:39:49.682Z",
-          "uri": "at://did:plc:2rlom2mvhjemynggycrotwpy/app.bsky.feed.post/3mtgniakguk25",
-          "sentiment": 0
         }
       ],
       "youtube": [
