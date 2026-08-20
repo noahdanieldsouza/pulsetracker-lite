@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T05:50:15.866Z",
+  "lastUpdated": "2026-08-20T06:37:05.762Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.4491787064676617,
+      "overallSentiment": -0.44876999999999995,
       "newsSentiment": -0.30276,
-      "socialSentiment": -0.04477611940298508,
+      "socialSentiment": -0.04355000000000001,
       "mentions": {
         "news": 5,
-        "social": 134,
+        "social": 136,
         "youtube": 2,
-        "total": 141
+        "total": 143
       },
       "news": [
         {
@@ -96,6 +96,22 @@
         }
       ],
       "social": [
+        {
+          "id": "9a8b83796aae511be037a7a205d19d68623ea9ba37d0146da17c5f2963a51789",
+          "authorHandle": "urbach1.bsky.social",
+          "postText": "open.substack.com/pub/borowitz...",
+          "createdAt": "2026-08-20T06:36:45.328Z",
+          "uri": "at://did:plc:cnjjoahyoxfhyjzrpt7f6ljl/app.bsky.feed.post/3mtimza2qo227",
+          "sentiment": 0
+        },
+        {
+          "id": "0495f1dfcd419a3cd17d3b9f2a6c26268c0e780c3f048b26f5b57e6ad3c091b3",
+          "authorHandle": "meepmeepboxer.bsky.social",
+          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest",
+          "createdAt": "2026-08-20T06:09:29.381Z",
+          "uri": "at://did:plc:omm4y6xnx42i4xjpbygdp373/app.bsky.feed.post/3mtilihvl7225",
+          "sentiment": 0.0772
+        },
         {
           "id": "bb1f066130628c0843460c49e85644b2edc433eefaadac2ebdab178cf0d11111",
           "authorHandle": "celiebug.bsky.social",
