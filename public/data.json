@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T14:31:21.618Z",
+  "lastUpdated": "2026-08-20T15:07:59.081Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2400585034013605,
+      "overallSentiment": 0.24036404494382022,
       "newsSentiment": 0,
-      "socialSentiment": 0.020175510204081634,
+      "socialSentiment": 0.021092134831460677,
       "mentions": {
         "news": 14,
-        "social": 98,
+        "social": 89,
         "youtube": 10,
-        "total": 122
+        "total": 113
       },
       "news": [
         {
@@ -184,6 +184,14 @@
           "createdAt": "2026-08-20T16:04:27.738Z",
           "uri": "at://did:plc:f6hvl66ry2ofkydic7465ei6/app.bsky.feed.post/3mtjmqeixxc2l",
           "sentiment": 0
+        },
+        {
+          "id": "915cde003aa76815af4ed78d93f9e6b6a331348dd96c3821ae5b9b788eb6fadc",
+          "authorHandle": "eileennjflns.bsky.social",
+          "postText": "share.google/fAOTwWdGulBg...\nBorowitz!",
+          "createdAt": "2026-08-20T15:07:17.761Z",
+          "uri": "at://did:plc:qzyceq3q4rgp42oemkfbgior/app.bsky.feed.post/3mtjjk5gfzc2p",
+          "sentiment": -0.2
         },
         {
           "id": "8f6c269df9c8647c7fc7b944b4845104d5b907b0dd3ac16e79f3cfebd3e18667",
@@ -879,86 +887,6 @@
           "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
           "createdAt": "2026-08-19T15:09:31.390Z",
           "uri": "at://did:plc:tqxardatrdif74od6s2kbfxy/app.bsky.feed.post/3mtgz77fp3k2r",
-          "sentiment": 0
-        },
-        {
-          "id": "064ef40c8e1bd52e6398e41bbecd6bdf28d1789476d8b4ab64b9252dd514ec8e",
-          "authorHandle": "lucasmundus.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T15:07:50.514Z",
-          "uri": "at://did:plc:bejy4dpnuxnu4v26nqmtpr2h/app.bsky.feed.post/3mtgz4776fc26",
-          "sentiment": 0
-        },
-        {
-          "id": "8ced067e62a53b30134f5eab32608697ae47a17512152ec3338ce9b185c30f2f",
-          "authorHandle": "rrrjjensen.bsky.social",
-          "postText": "www.borowitzreport.com/p/susan-coll...",
-          "createdAt": "2026-08-19T15:07:21.041Z",
-          "uri": "at://did:plc:xcbrauejvaolkkhkjyenq7mx/app.bsky.feed.post/3mtgz3d3s4k26",
-          "sentiment": 0
-        },
-        {
-          "id": "7c521bd8dd8aea7e6cf62bd7c171049af3179aa1c4ab7ad6b70525ec85229932",
-          "authorHandle": "mainelife.bsky.social",
-          "postText": "Sadly, for Mainers, this barely qualifies as satire.  It's way too close to true. \nwww.borowitzreport.com/p/susan-coll...",
-          "createdAt": "2026-08-19T14:58:22.010Z",
-          "uri": "at://did:plc:acepmujux4hz6gajktloqzhf/app.bsky.feed.post/3mtgylaztok2z",
-          "sentiment": 0
-        },
-        {
-          "id": "d8c81f6f3b6dd386263455c9380ea465867a0fc50a0bb170dd9f60bc260a05b0",
-          "authorHandle": "acehannarules.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T14:53:57.909Z",
-          "uri": "at://did:plc:kc4pkiepuybz473bv3tmou5h/app.bsky.feed.post/3mtgydf6hc22o",
-          "sentiment": 0
-        },
-        {
-          "id": "ac898f9761065691f7ca8e163f8c984ba67dd50d51bb03be1d07fffa25695aa3",
-          "authorHandle": "witchiewolf.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T14:45:11.349Z",
-          "uri": "at://did:plc:n2p35k7uglcfs5d37obgynlr/app.bsky.feed.post/3mtgxtoyqt22g",
-          "sentiment": 0
-        },
-        {
-          "id": "c2b393247c9c9c51e449393ee83b074d19304aa25f5630e665c196cba8564b08",
-          "authorHandle": "cleverhandlebars.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest",
-          "createdAt": "2026-08-19T14:43:12.284Z",
-          "uri": "at://did:plc:wjd4espqthbe62goch6p2mff/app.bsky.feed.post/3mtgxq5h6fs2c",
-          "sentiment": 0
-        },
-        {
-          "id": "1adc56f72bbc01ccfee809b90a1ae7e021d519e469911e7e265b0b10b5dbd4d8",
-          "authorHandle": "everystate.org",
-          "postText": "In 76 days, we’re flipping the Senate.\n\nTX - James Talarico\nMI - Abdul El-Sayed\nNC - Roy Cooper\nOH - Sherrod Brown\nAK - Mary Peltola\nME - Troy Jackson\nIA - Josh Turek\nGA - Jon Ossoff\nFL - Angie Nixon\nNH - Chris Pappas\nMN - Peggy Flanagan\nIL - Juliana Stratton",
-          "createdAt": "2026-08-19T14:40:56.388Z",
-          "uri": "at://did:plc:rpyvbql3f2uobqdcej25ufhb/app.bsky.feed.post/3mtgxm3u3es2z",
-          "sentiment": 0.3
-        },
-        {
-          "id": "0d5490eac524dc921e38efa130b73e02f37dd326de8fee1d90d496851ca2888f",
-          "authorHandle": "1susan.bsky.social",
-          "postText": "open.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T14:37:54.491Z",
-          "uri": "at://did:plc:bhwh7wvpc3bp65ybwkiq3cn6/app.bsky.feed.post/3mtgxgoewns2a",
-          "sentiment": 0
-        },
-        {
-          "id": "d46c3a07f9b7e142f0bdfd066638f95fe0cc328554de32c0f387b10b47b54af9",
-          "authorHandle": "bobgeiger.bsky.social",
-          "postText": "“For the past 29 years, when there’s been a tough call to make, I’ve responded by wringing my hands and furrowing my brow,” she told reporters. “Looking worried is a full-time job, and an amateur like Troy Jackson simply isn’t up to it.”\n\n#Satire (or is it?)\n\nwww.borowitzreport.com/p/susan-coll...",
-          "createdAt": "2026-08-19T14:34:51.882Z",
-          "uri": "at://did:plc:xx4at3byg3oggcqlslx4eghc/app.bsky.feed.post/3mtgxbaa5kk25",
-          "sentiment": -0.4
-        },
-        {
-          "id": "0dbf0c9734791b5178a404bd8c8b0cad46d4ef8b86642160806b9b36bdf4d773",
-          "authorHandle": "martaloree.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-19T14:33:50.766Z",
-          "uri": "at://did:plc:hajyyhgww2w53ef354a5zqhg/app.bsky.feed.post/3mtgx7fwzxk22",
           "sentiment": 0
         }
       ],
