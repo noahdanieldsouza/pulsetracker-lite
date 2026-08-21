@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T11:24:18.263Z",
+  "lastUpdated": "2026-08-21T11:51:21.470Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2754528985507246,
+      "overallSentiment": 0.2826992753623188,
       "newsSentiment": 0,
-      "socialSentiment": 0.1263586956521739,
+      "socialSentiment": 0.1480978260869565,
       "mentions": {
         "news": 14,
         "social": 46,
@@ -177,6 +177,14 @@
         }
       ],
       "social": [
+        {
+          "id": "af1d518e597740bd195a8e91feb601d09a068a4416a0e5291c5131c977f2550a",
+          "authorHandle": "policommethics.bsky.social",
+          "postText": "Outside dark money groups in Maine are running deceptive ads attacking both incumbant Republican Senator Susan Collins and her Democratic challenger Troy Jackson.\n\nWhat if the campaigns put out a joint statement asking outside groups to stay out of the race?\n\nwww.bangordailynews.com/2026/08/19/p...",
+          "createdAt": "2026-08-21T11:32:30.678Z",
+          "uri": "at://did:plc:mcuc7g4waybdxvj44fnlxosk/app.bsky.feed.post/3mtlnyysmys2u",
+          "sentiment": 0
+        },
         {
           "id": "fecf97491d332a0c6a8004a555b32e39b867e75798b3b1f20e466efb1c439b00",
           "authorHandle": "cuetheclowns.bsky.social",
@@ -536,14 +544,6 @@
           "createdAt": "2026-08-20T11:54:05.136Z",
           "uri": "at://did:plc:b2qrom2tdzvt47miqkn5eply/app.bsky.feed.post/3mtj6qntn4k2t",
           "sentiment": 0
-        },
-        {
-          "id": "338978dfacba1b581c1f348d5bcaffeb674e78b292d6e6fe83f49354a7221260",
-          "authorHandle": "plunderdog903.bsky.social",
-          "postText": "3 anti-Troy Jackson hit ads IN A ROW on TV just now.  That is how much money Susan Collins ' billionaires are throwing into this race.  The amount of money they are throwing at her is obscene.\n\nI know I am preaching to the choir here but Mainers need to hold this against her.",
-          "createdAt": "2026-08-20T11:28:22.297Z",
-          "uri": "at://did:plc:hg32xmsscppdr6aji5ti563s/app.bsky.feed.post/3mtj5cohuhc22",
-          "sentiment": -1
         }
       ],
       "youtube": [
