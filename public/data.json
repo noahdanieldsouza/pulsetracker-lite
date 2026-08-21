@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T09:54:37.995Z",
+  "lastUpdated": "2026-08-21T10:24:00.210Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.27046296296296296,
+      "overallSentiment": 0.2778703703703704,
       "newsSentiment": 0,
-      "socialSentiment": 0.1113888888888889,
+      "socialSentiment": 0.13361111111111112,
       "mentions": {
         "news": 14,
         "social": 45,
@@ -177,6 +177,14 @@
         }
       ],
       "social": [
+        {
+          "id": "c621d99d1632f6b2efe681e1f15744d1255e68296a72f6baebc7ab807a89c282",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-21T10:04:25.996Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtlj3iwvr22d",
+          "sentiment": 0
+        },
         {
           "id": "987db2d17a3e92f706af3f2f90892ba842c14ddde1cb1ec8c8991ce919f144f1",
           "authorHandle": "saveam.bsky.social",
@@ -528,14 +536,6 @@
           "createdAt": "2026-08-20T10:43:15.624Z",
           "uri": "at://did:plc:cl62lx6erufumuy6zi4awzhu/app.bsky.feed.post/3mtj2rz6r422x",
           "sentiment": 0
-        },
-        {
-          "id": "eda1806a62e926bc3a635d67221a12205872d5c4d8208ec3e4a6b32c43529d08",
-          "authorHandle": "jobondo.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...   “For the past 29 years, when there’s been a tough call to make, I’ve responded by wringing my hands & furrowing my brow,, Looking worried is a full-time job,,Troy Jackson simply isn’t up to it.”",
-          "createdAt": "2026-08-20T10:06:58.781Z",
-          "uri": "at://did:plc:pwuprzeg6phqi6m2jrosfyhg/app.bsky.feed.post/3mtiyr56ruc2e",
-          "sentiment": -1
         }
       ],
       "youtube": [
