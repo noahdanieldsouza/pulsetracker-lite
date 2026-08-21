@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T04:20:14.484Z",
+  "lastUpdated": "2026-08-21T04:58:45.572Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.24899182389937105,
+      "overallSentiment": 0.24480576923076922,
       "newsSentiment": 0,
-      "socialSentiment": 0.04697547169811322,
+      "socialSentiment": 0.0344173076923077,
       "mentions": {
         "news": 14,
-        "social": 53,
+        "social": 52,
         "youtube": 10,
-        "total": 77
+        "total": 76
       },
       "news": [
         {
@@ -177,6 +177,14 @@
         }
       ],
       "social": [
+        {
+          "id": "987db2d17a3e92f706af3f2f90892ba842c14ddde1cb1ec8c8991ce919f144f1",
+          "authorHandle": "saveam.bsky.social",
+          "postText": "The New York Times is reporting that Democrats could WIN FIVE Senate races this year. They’re in a DEAD HEAT against their Republican opponents!\n✅ James Talarico (TX)\n✅ Troy Jackson (ME)\n✅ Mary Peltola (AK)\n✅ Roy Cooper (NC)\n✅ Jon Ossoff (GA)",
+          "createdAt": "2026-08-21T04:15:01.218Z",
+          "uri": "at://did:plc:3s52uzpjh236okih4cogzcov/app.bsky.feed.post/3mtkvkpemre2b",
+          "sentiment": 0
+        },
         {
           "id": "166a4cade398959a56c065f666ee80ed60cf2d1b3a44d151cef81c04cdc61db0",
           "authorHandle": "philindigo.bsky.social",
@@ -584,22 +592,6 @@
           "createdAt": "2026-08-20T06:09:29.381Z",
           "uri": "at://did:plc:omm4y6xnx42i4xjpbygdp373/app.bsky.feed.post/3mtilihvl7225",
           "sentiment": 0.0772
-        },
-        {
-          "id": "bb1f066130628c0843460c49e85644b2edc433eefaadac2ebdab178cf0d11111",
-          "authorHandle": "celiebug.bsky.social",
-          "postText": "youtube.com/shorts/ybxhu...\nVote Troy Jackson – Maine",
-          "createdAt": "2026-08-20T04:49:02.050Z",
-          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3mtigym74rc2k",
-          "sentiment": 1
-        },
-        {
-          "id": "cff1a7c465fb8ada67c31572f9f66b1c35c6da019993790e9b14a7eee62102da",
-          "authorHandle": "chrismootham.bsky.social",
-          "postText": "Susan Collins Challenges Democratic Rival to Pearl-clutching Contest\nopen.substack.com/pub/borowitz...",
-          "createdAt": "2026-08-20T04:24:16.901Z",
-          "uri": "at://did:plc:y2lctkh26henjydike63ehcb/app.bsky.feed.post/3mtifmdtxx223",
-          "sentiment": -0.3
         }
       ],
       "youtube": [
