@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T03:32:55.901Z",
+  "lastUpdated": "2026-08-21T04:20:14.484Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.244725641025641,
+      "overallSentiment": 0.24899182389937105,
       "newsSentiment": 0,
-      "socialSentiment": 0.03417692307692308,
+      "socialSentiment": 0.04697547169811322,
       "mentions": {
         "news": 14,
-        "social": 52,
+        "social": 53,
         "youtube": 10,
-        "total": 76
+        "total": 77
       },
       "news": [
         {
@@ -177,6 +177,14 @@
         }
       ],
       "social": [
+        {
+          "id": "166a4cade398959a56c065f666ee80ed60cf2d1b3a44d151cef81c04cdc61db0",
+          "authorHandle": "philindigo.bsky.social",
+          "postText": "Mine and my business's list for candidate support.\n1. Mary Peltola AK.\n2. John Ossoff GA.\n3. Roy Cooper NC.\n4. David Crowley WI\n5. James Talarico TX\n6. Sherrod Brown OH\n7. Joshua Turek IA\n8. Troy Jackson ME\n9. Cait Conley NY\n10.Jared Moskowitz FL\n Still considering and adding more.",
+          "createdAt": "2026-08-21T03:33:00.573Z",
+          "uri": "at://did:plc:sprl4q6axuecb5joojj2azeq/app.bsky.feed.post/3mtkt7lj23c2e",
+          "sentiment": 0.7125
+        },
         {
           "id": "ee5f60d230958a9cd9d2702715a05987eb964f29a7c9979fe0f37d0d3f99c36b",
           "authorHandle": "carlwagner88.bsky.social",
