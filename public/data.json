@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T15:58:39.465Z",
+  "lastUpdated": "2026-08-21T16:38:44.493Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.09135386473429952,
+      "overallSentiment": 0.10191559312936126,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.17225,
+      "socialSentiment": 0.2039351851851852,
       "mentions": {
         "news": 23,
-        "social": 50,
+        "social": 54,
         "youtube": 12,
-        "total": 85
+        "total": 89
       },
       "news": [
         {
@@ -268,6 +268,38 @@
         }
       ],
       "social": [
+        {
+          "id": "c19355fd91f85fa2928882270f894013c8f415e976312384ba2d6101e6cf7290",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "RFK Jr.’s role in maintaining federal public health once again comes under scrutiny as alfalfa sprouts were recalled for E. coli and salmonella. Troy Jackson blasted Susan Collins over ICE, tax cuts and Iran war policy. Sen. Elissa Slotkin donated $5,000 to Abdul El-Sayed’s campaign.",
+          "createdAt": "2026-08-21T16:36:49.988Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mtm6z6akgc2r",
+          "sentiment": 0.8
+        },
+        {
+          "id": "615a567b1e26eb9dcf85943d17ad23235313e67d1d4566ac41ecfd18a9feed7f",
+          "authorHandle": "purrtah.bsky.social",
+          "postText": "Troy Jackson was in the top 3 for ActBlue in July! Sayed closely behind at 4.",
+          "createdAt": "2026-08-21T16:18:42.770Z",
+          "uri": "at://did:plc:cphgfu544qoxz4mzia2iqmyz/app.bsky.feed.post/3mtm5yrfc3s2t",
+          "sentiment": 0.7
+        },
+        {
+          "id": "2371738f560a7155e84cfe28e2014f5c3a62b77876337d9868dcbf92601a166b",
+          "authorHandle": "therealjessecoffey.bsky.social",
+          "postText": "BRIEF COMMENT\nIt's sad to see what has become of the Bot Sentinel guy. He's gone from attacking see-through MAGA idiocy with his great app from back before Elon Musk took over Twitter to essentially encouraging see-through MAGA idiocy to prevent progressive Dems from getting into the US government.",
+          "createdAt": "2026-08-21T16:10:17.027Z",
+          "uri": "at://did:plc:u3a5i6ehwv4suxf3b63po2xk/app.bsky.feed.post/3mtm5jp3ah224",
+          "sentiment": 0
+        },
+        {
+          "id": "b6cf83bdd0f31c97726e708efceddd9c1b2eaec789a73d19e6008f9bdfd1ddb4",
+          "authorHandle": "vickiehinkley.bsky.social",
+          "postText": "#MAINE  #AsMAINEGoesBLUE !!  jacksonformaine.com/about\n#TroyJACKSON  @troyjackson207.bsky.social",
+          "createdAt": "2026-08-21T16:08:56.839Z",
+          "uri": "at://did:plc:xat4vjhzhbbjo5bxkecdd44y/app.bsky.feed.post/3mtm5hcm2us2i",
+          "sentiment": 0.9
+        },
         {
           "id": "25ab55be4ed22b2b66d9230166d7e8d3c2a6bfdc4c7ef1d8f917fed5ea3f3b6a",
           "authorHandle": "alexjanevski.bsky.social",
