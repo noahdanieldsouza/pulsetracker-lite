@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T07:03:33.086Z",
+  "lastUpdated": "2026-08-21T07:52:44.190Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -674,12 +674,20 @@
       "socialSentiment": -0.5,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 3,
         "youtube": 9,
-        "total": 11
+        "total": 12
       },
       "news": [],
       "social": [
+        {
+          "id": "b7003bee0e5942cded4564b913131196d3ce5afaef42ea59765f711e5326a243",
+          "authorHandle": "edinreporter.bsky.social",
+          "postText": "Injury blows as Berwick prepare for Edinburgh\n\nBerwick Bandits, already minus Jordan Jenkins for the trip to Edinburgh Monarchs on Friday (7.30pm), have been dealt a second blow with their play-off hopes on the line....",
+          "createdAt": "2026-08-21T07:10:35Z",
+          "uri": "at://did:plc:dtb2mkl46skh5k2ohfyxxbct/app.bsky.feed.post/3mtl7ep536m2m",
+          "sentiment": -0.5
+        },
         {
           "id": "b1a5bebea18310716117e86e3c89999b60ce3bd7485e70e151c5df4d2f608ee0",
           "authorHandle": "onewindowsolution.bsky.social",
