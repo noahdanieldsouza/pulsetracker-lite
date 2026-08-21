@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T14:07:25.504Z",
+  "lastUpdated": "2026-08-21T14:50:24.362Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.08984805078081114,
+      "overallSentiment": 0.07799748175557611,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.16773255813953486,
+      "socialSentiment": 0.13218085106382976,
       "mentions": {
         "news": 23,
-        "social": 43,
+        "social": 47,
         "youtube": 12,
-        "total": 78
+        "total": 82
       },
       "news": [
         {
@@ -268,6 +268,38 @@
         }
       ],
       "social": [
+        {
+          "id": "179f9acb51a014244bbe72a4a66938d3f738d2453d617b7553fe63b8ae561a8b",
+          "authorHandle": "aknanakkicks.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-21T14:48:12.357Z",
+          "uri": "at://did:plc:j3tsmgzwsgplihby6ow62kjh/app.bsky.feed.post/3mtlywwk7gc2n",
+          "sentiment": 0
+        },
+        {
+          "id": "ffe5120c409f6d4c3f80130fb841c11bb89517b5d8519b0527c7cc26d5dbf570",
+          "authorHandle": "beachwoodreport.bsky.social",
+          "postText": "Troy Jackson should get a tattoo.",
+          "createdAt": "2026-08-21T14:41:32.717Z",
+          "uri": "at://did:plc:wykeg5hu4ecrtacd26spk4hv/app.bsky.feed.post/3mtlykzg5yc2k",
+          "sentiment": 0
+        },
+        {
+          "id": "c72d11418e388a36e2b88272606d1f574e0652c5036972e1f372808e4a5ef1ac",
+          "authorHandle": "forkymcspoon.bsky.social",
+          "postText": "Platner gave left-factionalists a frisson of enjoyment over the coercive aspect: mainstream Dems really didn't want him, and we're gonna make them Vote Blue No Matter Who.\n\nBut oops, the libs had good reason to not want Platner, and Troy Jackson doesn't own the libs, so meh.",
+          "createdAt": "2026-08-21T14:20:04.669Z",
+          "uri": "at://did:plc:xy5lg7wrybfvmvd26lndaz5t/app.bsky.feed.post/3mtlxen2ahs2h",
+          "sentiment": -1
+        },
+        {
+          "id": "b5a518083cc7002c242fa3847150e45c327ab8801e90cef6211161ecbede3b7f",
+          "authorHandle": "rayluhrs.bsky.social",
+          "postText": "Please mention any others that you feel need support.\n\nNow we turn to Republican held seats.\nWe can flip many here.\nRoy Cooper in NC, James Talarico in TX, Troy Jackson in ME, Josh Turek in IA, Mary Peltola in AK, Sherrod Brown in OH, Angie Nixon in FL, Dan Osborn in NE, Annie Andrews in SC",
+          "createdAt": "2026-08-21T14:09:04.090Z",
+          "uri": "at://did:plc:essuyp3ofqbjkmd3swjtzedh/app.bsky.feed.post/3mtlwqx2qxc2n",
+          "sentiment": 0
+        },
         {
           "id": "5f20cb3b6cec339fbe95767c748e5f12c1bb6fe18376c72673231af362868dc9",
           "authorHandle": "mialong.bsky.social",
