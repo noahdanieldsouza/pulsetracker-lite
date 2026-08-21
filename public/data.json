@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T11:51:21.470Z",
+  "lastUpdated": "2026-08-21T12:36:15.776Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2826992753623188,
+      "overallSentiment": 0.28898148148148145,
       "newsSentiment": 0,
-      "socialSentiment": 0.1480978260869565,
+      "socialSentiment": 0.16694444444444442,
       "mentions": {
         "news": 14,
-        "social": 46,
+        "social": 45,
         "youtube": 10,
-        "total": 70
+        "total": 69
       },
       "news": [
         {
@@ -177,6 +177,14 @@
         }
       ],
       "social": [
+        {
+          "id": "7fd12456392cab8c90633a74195ef858e1e64b8baed42e66ace8a086a63c0569",
+          "authorHandle": "mikhailgorbaechev.bsky.social",
+          "postText": "This is why Troy Jackson is going to win by 12 points.",
+          "createdAt": "2026-08-21T12:28:05.613Z",
+          "uri": "at://did:plc:hojsmix5hjm3eu42ffqdgm6j/app.bsky.feed.post/3mtlr4faqic2p",
+          "sentiment": 0.7
+        },
         {
           "id": "af1d518e597740bd195a8e91feb601d09a068a4416a0e5291c5131c977f2550a",
           "authorHandle": "policommethics.bsky.social",
@@ -528,22 +536,6 @@
           "createdAt": "2026-08-20T12:44:40.792Z",
           "uri": "at://did:plc:27r5s56ztmcwfmihakhvi4uq/app.bsky.feed.post/3mtjbl4umtk25",
           "sentiment": 1
-        },
-        {
-          "id": "78fd442cb3e6cfc6ec9eee7a79cbb5e9d135232babf8949e876b21b6ca14af89",
-          "authorHandle": "pressherald.com",
-          "postText": "Does Troy Jackson stand a chance against Susan Collins? | Opinion",
-          "createdAt": "2026-08-20T12:01:12+00:00",
-          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtj75fhgll2m",
-          "sentiment": 0
-        },
-        {
-          "id": "14c9b39455f028c161c61ce37c0e3ca414de83879bf08cc9f747a9fb900d9ce2",
-          "authorHandle": "ouisquared.bsky.social",
-          "postText": "www.borowitzreport.com/p/susan-coll...",
-          "createdAt": "2026-08-20T11:54:05.136Z",
-          "uri": "at://did:plc:b2qrom2tdzvt47miqkn5eply/app.bsky.feed.post/3mtj6qntn4k2t",
-          "sentiment": 0
         }
       ],
       "youtube": [
