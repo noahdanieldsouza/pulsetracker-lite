@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T13:29:14.782Z",
+  "lastUpdated": "2026-08-21T14:07:25.504Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.08588164251207729,
+      "overallSentiment": 0.08984805078081114,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.1558333333333333,
+      "socialSentiment": 0.16773255813953486,
       "mentions": {
         "news": 23,
-        "social": 45,
+        "social": 43,
         "youtube": 12,
-        "total": 80
+        "total": 78
       },
       "news": [
         {
@@ -268,6 +268,14 @@
         }
       ],
       "social": [
+        {
+          "id": "5f20cb3b6cec339fbe95767c748e5f12c1bb6fe18376c72673231af362868dc9",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-21T13:43:14.136Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtlvcqvvys2o",
+          "sentiment": 0
+        },
         {
           "id": "bc5a716670d71018de82a457b03648e1ce180f382d99b59946dfa72f7672d491",
           "authorHandle": "vtboomer.bsky.social",
@@ -581,14 +589,6 @@
           "sentiment": 1
         },
         {
-          "id": "91b573b8fe15d4bdb3250c5139c699db2e9194f4990ced7d61e502b18b36ec1c",
-          "authorHandle": "jerrywayne.bsky.social",
-          "postText": "www.youtube.com/watch?v=RVUA...",
-          "createdAt": "2026-08-20T16:04:27.738Z",
-          "uri": "at://did:plc:f6hvl66ry2ofkydic7465ei6/app.bsky.feed.post/3mtjmqeixxc2l",
-          "sentiment": 0
-        },
-        {
           "id": "27fc7bf7b24f49978af404b4743405c14b1e84a43e0007e86adde3abc6851623",
           "authorHandle": "capitolhillaccess.bsky.social",
           "postText": "PINE TREE RESULTS PAC spends $2,241,334 to OPPOSE Troy Dale Jackson (Sen ME Sen)(D)\n\n#MESen.\r\n\r\n2026 Cycle FEC Data:\n\nhttps://capitolhillaccess.com/tr/tr_ef_filer?&sFECID=C00894709&sCycle=2026\n\nFEC:\n\nhttps://docquery.fec.gov/cgi-bin/forms/C00894709/2008128\n\n@SenatorCollins @SenSusanCollins...",
@@ -611,22 +611,6 @@
           "createdAt": "2026-08-20T15:07:17.761Z",
           "uri": "at://did:plc:qzyceq3q4rgp42oemkfbgior/app.bsky.feed.post/3mtjjk5gfzc2p",
           "sentiment": -0.2
-        },
-        {
-          "id": "8f6c269df9c8647c7fc7b944b4845104d5b907b0dd3ac16e79f3cfebd3e18667",
-          "authorHandle": "cdl6229.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-20T13:44:12.922Z",
-          "uri": "at://did:plc:2vpfx7upbzftyzywtsx4pfwh/app.bsky.feed.post/3mtjevlj67c2j",
-          "sentiment": -0.2
-        },
-        {
-          "id": "e91d8b6d93bd5a84f2a9166cc8e9f8959107bf4fec918b6e6880b1129be01116",
-          "authorHandle": "democratsofa.bsky.social",
-          "postText": "🤣",
-          "createdAt": "2026-08-20T13:29:42.638Z",
-          "uri": "at://did:plc:f54cq2i2edsh3vjz3fdg255m/app.bsky.feed.post/3mtje3nkahk25",
-          "sentiment": 0
         }
       ],
       "youtube": [
