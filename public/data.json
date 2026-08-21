@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T17:04:54.935Z",
+  "lastUpdated": "2026-08-21T17:39:19.749Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11295766590389017,
+      "overallSentiment": 0.10722588854382335,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.23706140350877195,
+      "socialSentiment": 0.21986607142857145,
       "mentions": {
         "news": 23,
-        "social": 57,
+        "social": 56,
         "youtube": 12,
-        "total": 92
+        "total": 91
       },
       "news": [
         {
@@ -268,6 +268,30 @@
         }
       ],
       "social": [
+        {
+          "id": "8d02dae227d77eb0c726c8cfcd4b17faf0dfb591940884e019937bf96ec45cbb",
+          "authorHandle": "kevinwglass.bsky.social",
+          "postText": "\"Why is Troy Jackson, who's fighting for Medicare for All, not as interesting as Graham Platner? Is it just boring that he’s fighting with Susan Collins rather than Chuck Schumer?\"\n\nwww.slowboring.com/p/giving-the...",
+          "createdAt": "2026-08-21T17:28:54.625Z",
+          "uri": "at://did:plc:rqjqwcpcwlaekhavhk2gd6e5/app.bsky.feed.post/3mtmbwc4ts22i",
+          "sentiment": -0.2
+        },
+        {
+          "id": "f7ad00c056b50808f88acb40ae4b777dd208fd373a60003603e5f7fe2cecaad3",
+          "authorHandle": "kr8729.bsky.social",
+          "postText": "I hope you're right. I just requested a refund to ActBlue of all 10 of my donations to Platner since last Sept.  Let's see how they respond. If I get it back, I will help out Troy Jackson and others.",
+          "createdAt": "2026-08-21T17:16:10.378Z",
+          "uri": "at://did:plc:ncb6nickzbnxmqda6w3gwbtr/app.bsky.feed.post/3mtmb7jbvsk2y",
+          "sentiment": 0.7
+        },
+        {
+          "id": "3425b2a010b25fe1c977a6db6bf3d4740fe635c8624e7b3ef1c73500dc731176",
+          "authorHandle": "johnbrownbread.bsky.social",
+          "postText": "According to Politico reporter Jess Piper, the top 4 ActBlue Fundraisers for the month of July are Ossoff, Talarico, Jackson and El-Sayed.",
+          "createdAt": "2026-08-21T17:14:32.839Z",
+          "uri": "at://did:plc:bbtt3p6rwicetqvqhq6b5bhu/app.bsky.feed.post/3mtmb4mbjo22e",
+          "sentiment": 0.3
+        },
         {
           "id": "0483734bfe1ed1372471c93a8c2e9119bc105a5d681814c3db7ff71146852f76",
           "authorHandle": "midnitreebandit.bsky.social",
@@ -691,38 +715,6 @@
           "createdAt": "2026-08-20T17:46:15.812Z",
           "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mtjsgfmlxs2w",
           "sentiment": 0
-        },
-        {
-          "id": "8c25ebc60982341b4fba971b97fe99f7a5fa2bcb73389140e10dbd082b5362c5",
-          "authorHandle": "dewforpolitics.bsky.social",
-          "postText": "Maine Democrat Troy Jackson points out that Susan Collins caters to the top 1% through billionaire tax cuts and corporate loopholes, calling it a betrayal of working families.",
-          "createdAt": "2026-08-20T17:33:11.999Z",
-          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mtjrp24kks2f",
-          "sentiment": 1
-        },
-        {
-          "id": "4c6ff205dae3930722167c0fbfb7f74ceca80f33223b2edad48132def52779c5",
-          "authorHandle": "indivisiblebangor.org",
-          "postText": "This Saturday!! #MEPolitics",
-          "createdAt": "2026-08-20T17:12:26.753Z",
-          "uri": "at://did:plc:c4o2vaalki2qgmekvrzmguix/app.bsky.feed.post/3mtjqjwkoyk2n",
-          "sentiment": 0
-        },
-        {
-          "id": "f57551a844ed5878b509b54e02d8d8eb7f1327cca09b447e9aae5d407ec40b4e",
-          "authorHandle": "whyisanything.bsky.social",
-          "postText": "There is a non zero chance that the election of AES and Troy Jackson causes Fetterman to go independent entirely \nEspecially if there is just 51\nMaybe both Murk and Fetterman go independent",
-          "createdAt": "2026-08-20T17:11:38.375Z",
-          "uri": "at://did:plc:a4z3zoszblbepgqwjgidchb7/app.bsky.feed.post/3mtjqiigcu22o",
-          "sentiment": 0
-        },
-        {
-          "id": "944270e0aa3cfca611eefd266f5d3f0f3ccd2ec65468674e031726a96ae2e92e",
-          "authorHandle": "beesmartypants.bsky.social",
-          "postText": "@troyjackson207.bsky.social \nTroy Jackson has MAGAts in the ropes in Maine \n\nSusie Q-anon has outside money running dirty AF ads with out of context quotes & slimy innuendo\n\nThe candidates who have real shit on their hands are the Shitler enablers & greed monsters with the big R after their names",
-          "createdAt": "2026-08-20T17:04:52.568Z",
-          "uri": "at://did:plc:ay5xjpzbbmyh6mucxrlvwipk/app.bsky.feed.post/3mtjq4fg2xc2n",
-          "sentiment": 1
         }
       ],
       "youtube": [
