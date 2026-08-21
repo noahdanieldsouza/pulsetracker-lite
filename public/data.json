@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T16:38:44.493Z",
+  "lastUpdated": "2026-08-21T17:04:54.935Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.10191559312936126,
+      "overallSentiment": 0.11295766590389017,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.2039351851851852,
+      "socialSentiment": 0.23706140350877195,
       "mentions": {
         "news": 23,
-        "social": 54,
+        "social": 57,
         "youtube": 12,
-        "total": 89
+        "total": 92
       },
       "news": [
         {
@@ -268,6 +268,30 @@
         }
       ],
       "social": [
+        {
+          "id": "0483734bfe1ed1372471c93a8c2e9119bc105a5d681814c3db7ff71146852f76",
+          "authorHandle": "midnitreebandit.bsky.social",
+          "postText": "What's weird about this is that these folks have convinced themselves this was a DNC/AIPAC plot and keep dismissing Troy Jackson as the DNC's choice.  Bullshit.  The DNC -- who had nothing at all to do with the renomination process -- would not have selected Troy Jackson, an actual progressive.",
+          "createdAt": "2026-08-21T16:53:19.895Z",
+          "uri": "at://did:plc:vgpa562ktrs7c3qnwlise3c7/app.bsky.feed.post/3mtm7wpock22d",
+          "sentiment": 1
+        },
+        {
+          "id": "5c0059337c18cfe52ecfdf3434197af84b375841519d6d4c8af8951feac1b6a3",
+          "authorHandle": "gentlem.bsky.social",
+          "postText": "www.mobilize.us/jacksonforma...\n@troyjackson207.bsky.social \n#JacksonForMaine\n#SolidarityForever\n#Dirigo\n\nwww.jacksonformaine.com",
+          "createdAt": "2026-08-21T16:47:10.540Z",
+          "uri": "at://did:plc:yto72hgvetlbftg2v76q3qq3/app.bsky.feed.post/3mtm7lo2f622s",
+          "sentiment": 0.8
+        },
+        {
+          "id": "15dd805442ff3dee568c13582389c43b29ecdbb72e69f653cd286636e1f71a06",
+          "authorHandle": "acadia23.bsky.social",
+          "postText": "Troy Jackson wasn't the official senate nominee till July 25, so that's really impressive!",
+          "createdAt": "2026-08-21T16:42:58.448Z",
+          "uri": "at://did:plc:t3wfb3xj36pzwrl5pz2r6vtz/app.bsky.feed.post/3mtm7e5mzo22z",
+          "sentiment": 0.7
+        },
         {
           "id": "c19355fd91f85fa2928882270f894013c8f415e976312384ba2d6101e6cf7290",
           "authorHandle": "dewforpolitics.bsky.social",
