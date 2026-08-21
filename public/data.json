@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T20:00:47.940Z",
+  "lastUpdated": "2026-08-21T20:36:25.986Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,9 +49,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.09829731711525191,
+      "overallSentiment": 0.11020207902001382,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.19308035714285718,
+      "socialSentiment": 0.22879464285714288,
       "mentions": {
         "news": 23,
         "social": 56,
@@ -268,6 +268,14 @@
         }
       ],
       "social": [
+        {
+          "id": "052da482d00aac2d02e1e7efb88e38db4e43488419924f3ea89bce9522473b55",
+          "authorHandle": "theweeklyopine.bsky.social",
+          "postText": "And $10 to Troy Jackson in Massachusetts. He can beat Collins.",
+          "createdAt": "2026-08-21T20:35:46.011Z",
+          "uri": "at://did:plc:rkt5ckdy3wxfmttux7xnsrli/app.bsky.feed.post/3mtmmeg56wk26",
+          "sentiment": 1
+        },
         {
           "id": "06d5fc3544cc9d0bd8e097c3a4048281b4bcdc2928a1a8c4305fdf91129798ce",
           "authorHandle": "mainemorningstar.com",
@@ -707,14 +715,6 @@
           "createdAt": "2026-08-20T21:35:01.105Z",
           "uri": "at://did:plc:yto72hgvetlbftg2v76q3qq3/app.bsky.feed.post/3mtk77h3eek2s",
           "sentiment": 1
-        },
-        {
-          "id": "75a691f7f72212e4cbe03a9ac3afa25b640f1baaf3a19b358b02bea408d74db2",
-          "authorHandle": "carolmulrooney.bsky.social",
-          "postText": "Ugh I got a text survey from Dynata about issues in Maine and I looked them up and they looked legitimate so I thought it would be fine to respond. As I answered their questions, I saw that they were tailoring them to trash Troy Jackson and elevate Susan Collins. Ashamed that I fell for it!",
-          "createdAt": "2026-08-20T20:16:10.479Z",
-          "uri": "at://did:plc:uweecxnbhqouhk3dawod6kvf/app.bsky.feed.post/3mtk2shm2hk24",
-          "sentiment": -1
         }
       ],
       "youtube": [
@@ -844,14 +844,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.2916666666666667,
+      "overallSentiment": -0.20833333333333334,
       "newsSentiment": -0.375,
-      "socialSentiment": -0.5,
+      "socialSentiment": -0.25,
       "mentions": {
         "news": 4,
-        "social": 3,
+        "social": 2,
         "youtube": 5,
-        "total": 12
+        "total": 11
       },
       "news": [
         {
@@ -907,14 +907,6 @@
           "createdAt": "2026-08-20T22:15:36Z",
           "uri": "at://did:plc:q75cbriucfzsgnyemyb7uphr/app.bsky.feed.post/3mtkbi2go3h24",
           "sentiment": 0
-        },
-        {
-          "id": "8490aabb8a9d5ece62833161d45814021fcaeb1dc14c62133396138b1c76a015",
-          "authorHandle": "gillis49.bsky.social",
-          "postText": "Did Mark Wood say Jordan Cox dissected the fielders? #bbccricket",
-          "createdAt": "2026-08-20T20:08:22.686Z",
-          "uri": "at://did:plc:rduduw32src6eawpxorr67kp/app.bsky.feed.post/3mtk2ejicak2p",
-          "sentiment": -1
         }
       ],
       "youtube": [
