@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T20:56:35.504Z",
+  "lastUpdated": "2026-08-21T21:21:58.195Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11906650841246043,
+      "overallSentiment": 0.11845108695652178,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.25538793103448276,
+      "socialSentiment": 0.2535416666666667,
       "mentions": {
         "news": 23,
-        "social": 58,
+        "social": 60,
         "youtube": 12,
-        "total": 93
+        "total": 95
       },
       "news": [
         {
@@ -268,6 +268,22 @@
         }
       ],
       "social": [
+        {
+          "id": "cd178b2bc1c5e155ec12c11fcb370b522848be53e8f6cd582e392e8469ca19ca",
+          "authorHandle": "jmmarquis.bsky.social",
+          "postText": "Want to join me for this Maine Coordinated Campaign event? mobilize.us/s/3y8PG2/o",
+          "createdAt": "2026-08-21T21:03:11.438Z",
+          "uri": "at://did:plc:7taqxnyczgcadxphqqeectao/app.bsky.feed.post/3mtmnvhdnac2a",
+          "sentiment": -0.2
+        },
+        {
+          "id": "0aa0bff206ea32ea26c0c4c45f4353d2530162a88862c2c186ada46018b78c58",
+          "authorHandle": "jmmarquis.bsky.social",
+          "postText": "I'm attending Maine Coordinated Campaign's event, “Augusta Office Opening & Canvass with Troy Jackson!” - sign up now to join me!  www.mobilize.us/mainecoordin...",
+          "createdAt": "2026-08-21T21:02:29.029Z",
+          "uri": "at://did:plc:7taqxnyczgcadxphqqeectao/app.bsky.feed.post/3mtmnu6vqws2a",
+          "sentiment": 0.6
+        },
         {
           "id": "49b5320a76099f26340778bcd5dba0854189ad66869ed58a4cce5452fdd4476e",
           "authorHandle": "akashaom.bsky.social",
