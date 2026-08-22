@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T14:54:24.211Z",
+  "lastUpdated": "2026-08-22T15:14:52.224Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.354187037037037,
+      "overallSentiment": 0.3507775757575758,
       "newsSentiment": 0,
-      "socialSentiment": 0.26256111111111113,
+      "socialSentiment": 0.2523327272727273,
       "mentions": {
         "news": 7,
-        "social": 54,
+        "social": 55,
         "youtube": 1,
-        "total": 62
+        "total": 63
       },
       "news": [
         {
@@ -134,6 +134,14 @@
         }
       ],
       "social": [
+        {
+          "id": "9e82a783626497ded6c10016fb85ba9344f8fe36ab20533672911da0b9bd4e72",
+          "authorHandle": "degolierthomas.bsky.social",
+          "postText": "Janet Mills should be endorsing Troy Jackson....even if it might not help that much",
+          "createdAt": "2026-08-22T15:07:09.520Z",
+          "uri": "at://did:plc:kb723pr2gmkn2vi3nw6we66w/app.bsky.feed.post/3mtokhqif6s2w",
+          "sentiment": -0.3
+        },
         {
           "id": "985f5b3593d5362a771dd4fc0bee21f1ac4b62271fbd8a8c50870be2a9172505",
           "authorHandle": "chocilate.bsky.social",
