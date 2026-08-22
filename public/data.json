@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T07:55:21.751Z",
+  "lastUpdated": "2026-08-22T08:22:50.882Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1475174449812131,
+      "overallSentiment": 0.14060386473429953,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.34074074074074073,
+      "socialSentiment": 0.32,
       "mentions": {
         "news": 23,
-        "social": 54,
+        "social": 55,
         "youtube": 12,
-        "total": 89
+        "total": 90
       },
       "news": [
         {
@@ -268,6 +268,14 @@
         }
       ],
       "social": [
+        {
+          "id": "16da3f6f46f3b385b4495e62d5529eaf756f63603afb3a247162cf3add226204",
+          "authorHandle": "plsburydoughboy.bsky.social",
+          "postText": "Yglesias isn't 100 % correct about Maine. People saw that Platner's Troy Jackson is married to his second cousin,  decided the state is doomed to go GOP, and we gave up on it. I assume he missed the Troy Jackson stuff completely \n\nAnyway it's good business to be a hot take machine",
+          "createdAt": "2026-08-22T08:02:08.350Z",
+          "uri": "at://did:plc:aduyfqmdwfni4slyrbldoeez/app.bsky.feed.post/3mtnspqoguc2r",
+          "sentiment": -0.8
+        },
         {
           "id": "f04512752c4fb8229a77cea1d06b07c5c52f80e69b57538ba1babda5f80f5c27",
           "authorHandle": "timbo6.bsky.social",
