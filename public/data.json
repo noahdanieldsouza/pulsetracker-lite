@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T21:56:43.905Z",
+  "lastUpdated": "2026-08-22T22:20:01.097Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2805748538011696,
+      "overallSentiment": 0.28953045977011493,
       "newsSentiment": 0,
-      "socialSentiment": 0.04172456140350877,
+      "socialSentiment": 0.0685913793103448,
       "mentions": {
         "news": 7,
-        "social": 57,
+        "social": 58,
         "youtube": 1,
-        "total": 65
+        "total": 66
       },
       "news": [
         {
@@ -134,6 +134,22 @@
         }
       ],
       "social": [
+        {
+          "id": "4873479dc8ce62b6ad47fdf5ac483d18b26c8764aaf2cbd44c8d7d2436a0db95",
+          "authorHandle": "gentlem.bsky.social",
+          "postText": "www.youtube.com/shorts/TiMMW...\n@troyjackson207.bsky.social \n#JacksonForMaine\n\nwww.jacksonformaine.com",
+          "createdAt": "2026-08-22T22:10:34.971Z",
+          "uri": "at://did:plc:yto72hgvetlbftg2v76q3qq3/app.bsky.feed.post/3mtpc4uzgrc24",
+          "sentiment": 1
+        },
+        {
+          "id": "af9377089f7c9e1b5cd294ccf744ee806a6a56b194073e4a0c79c160c552bb04",
+          "authorHandle": "chocilate.bsky.social",
+          "postText": "Abdul El-Sayed is CHARISMATIC\nTroy Jackson is a FIGHTER\nAngie Nixon is FIRED UP\nSherrod Brown is ICONIC\nPeggy Flanagan has MORAL CONVICTION\nJames Talarico is an ELOQUENT SPEAKER\nPiss Crappas\nMary Peltola is DYNAMIC\nRoy Cooper is a WORKHORSE",
+          "createdAt": "2026-08-22T22:07:20.540Z",
+          "uri": "at://did:plc:shd4xfadlt5elljb2b2rvgyt/app.bsky.feed.post/3mtpbx3lnvs2b",
+          "sentiment": 1
+        },
         {
           "id": "b7dd999e3cf1c80f597ee5c8e025fe85b75088fbc3bc7e05a0621d06b5f5a829",
           "authorHandle": "alpinealtd.bsky.social",
@@ -581,14 +597,6 @@
           "createdAt": "2026-08-21T22:33:25.596Z",
           "uri": "at://did:plc:z77ilmnboc6u2763u4do7w5l/app.bsky.feed.post/3mtmswsonv22h",
           "sentiment": 0.6
-        },
-        {
-          "id": "16f80ff6ef775476ddad5248b1a243af12df7f0c6fc6dff9afe909c9c2ea4b33",
-          "authorHandle": "arlentsao.bsky.social",
-          "postText": "Troy Jackson unfortunately got a very late start. I think he is polling ahead of Susan Collins, but it is not a guarantee. Bernie Sanders and a bunch of labor unions did already endorse him. I think AOC and Ro Khanna should endorse him to give him more support.",
-          "createdAt": "2026-08-21T22:16:58.393Z",
-          "uri": "at://did:plc:hapna27knc4vq7bbmpybv2cw/app.bsky.feed.post/3mtmrzf7li22z",
-          "sentiment": 0.4
         }
       ],
       "youtube": [
