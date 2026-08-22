@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T09:22:20.240Z",
+  "lastUpdated": "2026-08-22T09:50:12.108Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.14060386473429953,
+      "overallSentiment": 0.1375086266390614,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.32,
+      "socialSentiment": 0.31071428571428567,
       "mentions": {
         "news": 23,
-        "social": 55,
+        "social": 56,
         "youtube": 12,
-        "total": 90
+        "total": 91
       },
       "news": [
         {
@@ -268,6 +268,14 @@
         }
       ],
       "social": [
+        {
+          "id": "781aa0b4c9449edf983000f346ea1210871afddefc86bbede5ec4056556daa5a",
+          "authorHandle": "lordcollins.bsky.social",
+          "postText": "secure.actblue.com/donate/tj-em...",
+          "createdAt": "2026-08-22T09:31:33.811Z",
+          "uri": "at://did:plc:gceb2dvh6bcwktlgfikqax6w/app.bsky.feed.post/3mtnxpnldts22",
+          "sentiment": -0.2
+        },
         {
           "id": "16da3f6f46f3b385b4495e62d5529eaf756f63603afb3a247162cf3add226204",
           "authorHandle": "plsburydoughboy.bsky.social",
