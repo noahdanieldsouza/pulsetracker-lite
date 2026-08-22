@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T18:56:48.364Z",
+  "lastUpdated": "2026-08-22T19:21:17.896Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2998684848484849,
+      "overallSentiment": 0.3021372881355932,
       "newsSentiment": 0,
-      "socialSentiment": 0.09960545454545454,
+      "socialSentiment": 0.10641186440677966,
       "mentions": {
         "news": 7,
-        "social": 55,
+        "social": 59,
         "youtube": 1,
-        "total": 63
+        "total": 67
       },
       "news": [
         {
@@ -134,6 +134,38 @@
         }
       ],
       "social": [
+        {
+          "id": "c892bfe14ef4d66b43ac04a684496b34ac8ed554de4c6cc29560c79f9ce48356",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "troyjacksonformaine.substack.com/p/no-campaig...",
+          "createdAt": "2026-08-22T19:19:36.515Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtoyl5rzhs2w",
+          "sentiment": -0.1
+        },
+        {
+          "id": "515fab0a6d444b2440224f918ec0b24cadbb8a17b583949d8ee133b66137f9b1",
+          "authorHandle": "celiebug.bsky.social",
+          "postText": "youtube.com/shorts/2_FTc...\nYes, I gotta ask Troy Jackson who was a lumberjack on this one.",
+          "createdAt": "2026-08-22T19:05:39.453Z",
+          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3mtoxs7iv522d",
+          "sentiment": 0.2
+        },
+        {
+          "id": "b80f6d37c0771ed752a4fb3473db6251e3a9662e9dfd6f7b7a2fe4e1299c5811",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-22T19:01:29.193Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtoxkqtkm22w",
+          "sentiment": 0
+        },
+        {
+          "id": "47e7ed755cc6828df3246c99ed3a0060736e223a77c791778f6440e251e269d3",
+          "authorHandle": "savedemocracy25.bsky.social",
+          "postText": "Love his grassroots campaign to unseat cowardly Collins, but would be cool if someone got him an EV painted with his name and campaign slogans on it\n\ntroyjacksonformaine.substack.com/p/no-campaig...",
+          "createdAt": "2026-08-22T19:00:51.623Z",
+          "uri": "at://did:plc:46gmbdzpw6mwauew6il3eeb3/app.bsky.feed.post/3mtoxjmz24s2r",
+          "sentiment": 0.7
+        },
         {
           "id": "fa831f88475ed697488c9f37baed8ff3eab05fa862ef2e0a1cff08ead5ecd142",
           "authorHandle": "rfww.bsky.social",
