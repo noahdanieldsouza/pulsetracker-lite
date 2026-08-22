@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T21:39:52.013Z",
+  "lastUpdated": "2026-08-22T21:56:43.905Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.28201369047619046,
+      "overallSentiment": 0.2805748538011696,
       "newsSentiment": 0,
-      "socialSentiment": 0.04604107142857143,
+      "socialSentiment": 0.04172456140350877,
       "mentions": {
         "news": 7,
-        "social": 56,
+        "social": 57,
         "youtube": 1,
-        "total": 64
+        "total": 65
       },
       "news": [
         {
@@ -134,6 +134,14 @@
         }
       ],
       "social": [
+        {
+          "id": "b7dd999e3cf1c80f597ee5c8e025fe85b75088fbc3bc7e05a0621d06b5f5a829",
+          "authorHandle": "alpinealtd.bsky.social",
+          "postText": "'Clearly that was a lie': Troy Jackson blasts Sen. Susan Collins' response to ICE in Maine share.google/iM9ncZTqsats...",
+          "createdAt": "2026-08-22T21:49:30.502Z",
+          "uri": "at://did:plc:j3a3h4o32oengsvsx3ledfb3/app.bsky.feed.post/3mtpax74pvk25",
+          "sentiment": -0.2
+        },
         {
           "id": "d9cde8e5c389c29042edce1ca076b2fad0142140064f9e7f06106b87a2bd523a",
           "authorHandle": "praxisprocess.bsky.social",
