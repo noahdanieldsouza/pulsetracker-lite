@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T15:38:09.503Z",
+  "lastUpdated": "2026-08-22T15:55:26.263Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3265351515151515,
+      "overallSentiment": 0.3302279761904762,
       "newsSentiment": 0,
-      "socialSentiment": 0.17960545454545454,
+      "socialSentiment": 0.19068392857142857,
       "mentions": {
         "news": 7,
-        "social": 55,
+        "social": 56,
         "youtube": 1,
-        "total": 63
+        "total": 64
       },
       "news": [
         {
@@ -134,6 +134,30 @@
         }
       ],
       "social": [
+        {
+          "id": "d901fff7c419c150ef98774435cd03dbe42087d9b7716094de99a2768c84bd27",
+          "authorHandle": "pediophobicchick.bsky.social",
+          "postText": "Troy Jackson will continue trying to unseat Susan Collins without your political strategy. Thank God.",
+          "createdAt": "2026-08-22T15:48:54.307Z",
+          "uri": "at://did:plc:vulc7xycywcksrhkx3tzie7t/app.bsky.feed.post/3mtomsfam422h",
+          "sentiment": 0.5
+        },
+        {
+          "id": "372d9aa292fba8703b25b6b1998cc3d9049083bc0e36740b311eac1f5a5c68b7",
+          "authorHandle": "pjann73.bsky.social",
+          "postText": "youtu.be/ZFoNKb39TJY?...",
+          "createdAt": "2026-08-22T15:44:36.591Z",
+          "uri": "at://did:plc:7xaaruvcg4pqbloh4ujvwyje/app.bsky.feed.post/3mtomkphlgs2n",
+          "sentiment": 0
+        },
+        {
+          "id": "2db54e9f4e2d655662d20b0fdf511452af777bc941c89a593f4c79cded047c7b",
+          "authorHandle": "collinswatch.bsky.social",
+          "postText": "Troy Jackson doesn't need the kind of money Talarico needs and he was actually 3rd on Act Blue for July...but he has some catching up to do since he basically just joined the race. #MEpolitics",
+          "createdAt": "2026-08-22T15:40:24.519Z",
+          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3mtomd73b5c2w",
+          "sentiment": 0.3
+        },
         {
           "id": "6ce1bc782e7643282406b954a3c85d4f99bad3c9c620cc5c15624bc3851cb3f7",
           "authorHandle": "mialong.bsky.social",
@@ -557,22 +581,6 @@
           "createdAt": "2026-08-21T16:08:56.839Z",
           "uri": "at://did:plc:xat4vjhzhbbjo5bxkecdd44y/app.bsky.feed.post/3mtm5hcm2us2i",
           "sentiment": 0.9
-        },
-        {
-          "id": "25ab55be4ed22b2b66d9230166d7e8d3c2a6bfdc4c7ef1d8f917fed5ea3f3b6a",
-          "authorHandle": "alexjanevski.bsky.social",
-          "postText": "Here we go: if Troy Jackson wins, I think Graham Platner deserves at least a little credit.",
-          "createdAt": "2026-08-21T15:51:34.009Z",
-          "uri": "at://did:plc:uojygiey5iugtz53wqcyfkrl/app.bsky.feed.post/3mtm4ia3fa22c",
-          "sentiment": 0
-        },
-        {
-          "id": "04bf4b8fe99e2e3f0ae53c10fa6fd6d5f91b72e57a529bca69951521317b57b1",
-          "authorHandle": "jpylko.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-21T15:44:33.762Z",
-          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mtm43pchrc2h",
-          "sentiment": 0
         }
       ],
       "youtube": [
