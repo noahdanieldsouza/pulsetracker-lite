@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T21:16:29.918Z",
+  "lastUpdated": "2026-08-22T21:39:52.013Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2822927272727273,
+      "overallSentiment": 0.28201369047619046,
       "newsSentiment": 0,
-      "socialSentiment": 0.04687818181818182,
+      "socialSentiment": 0.04604107142857143,
       "mentions": {
         "news": 7,
-        "social": 55,
+        "social": 56,
         "youtube": 1,
-        "total": 63
+        "total": 64
       },
       "news": [
         {
@@ -134,6 +134,14 @@
         }
       ],
       "social": [
+        {
+          "id": "d9cde8e5c389c29042edce1ca076b2fad0142140064f9e7f06106b87a2bd523a",
+          "authorHandle": "praxisprocess.bsky.social",
+          "postText": "Welcome to the Capitol Senator Troy Jackson (D-Logging).",
+          "createdAt": "2026-08-22T21:38:49.119Z",
+          "uri": "at://did:plc:sd2lrtzfdu4niijaakd7ogvs/app.bsky.feed.post/3mtpae3hcc22t",
+          "sentiment": 0
+        },
         {
           "id": "dda737392236ca6ea817e771dfc9371ff7e4f9b2be4bfbd599f49a504e2980c9",
           "authorHandle": "timothypmurphy.bsky.social",
