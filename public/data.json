@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T22:42:37.293Z",
+  "lastUpdated": "2026-08-22T23:01:00.070Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.289346783625731,
+      "overallSentiment": 0.29253276836158193,
       "newsSentiment": 0,
-      "socialSentiment": 0.06804035087719296,
+      "socialSentiment": 0.07759830508474576,
       "mentions": {
         "news": 7,
-        "social": 57,
+        "social": 59,
         "youtube": 1,
-        "total": 65
+        "total": 67
       },
       "news": [
         {
@@ -134,6 +134,30 @@
         }
       ],
       "social": [
+        {
+          "id": "15a71c0fbb01922ede057281ca34f702449a319d4208baf3a23ced89ab1da9df",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "Democratic U.S. Senate candidate Troy Jackson blasted billionaires for attempting to influence elections while he fights for the people. Deleted tweets showed Natalie Harp’s fervent Jan. 6 support for Trump.",
+          "createdAt": "2026-08-22T22:53:20.139Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mtpejddyr22s",
+          "sentiment": -0.3
+        },
+        {
+          "id": "658388401d2906ef505c0842301222e495d87b3e75d17bd67722337958da907f",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-22T22:52:42.799Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtpei7qivc2g",
+          "sentiment": 0
+        },
+        {
+          "id": "5bac955b6cb7de4abd95d6a76558adf0d46b0af6a964c95b39b68dc7064f80c8",
+          "authorHandle": "kidsandpets.bsky.social",
+          "postText": "www.mainefacts.com?gad_source=1...",
+          "createdAt": "2026-08-22T22:49:52.347Z",
+          "uri": "at://did:plc:f77kvodlaoji2c5lyrsw7xdy/app.bsky.feed.post/3mtped56nvs25",
+          "sentiment": 0
+        },
         {
           "id": "bc20c8bb9d9cc8a2d208935a4a11d40e0f6e8141b5d8c0f5bdbabb96664d3add",
           "authorHandle": "beautifulsongs.xyz",
@@ -581,14 +605,6 @@
           "createdAt": "2026-08-21T23:32:38.155Z",
           "uri": "at://did:plc:exk3y4mtcamjlh4hymlefwoy/app.bsky.feed.post/3mtmwaoo5rs2k",
           "sentiment": 1
-        },
-        {
-          "id": "664bd867f77028e8cc1b3be379e7172b98ec83486197f337a35fa9032002c4ab",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-08-21T22:59:32.933Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtmufjfxh22e",
-          "sentiment": -1
         }
       ],
       "youtube": [
