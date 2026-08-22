@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T23:46:45.605Z",
+  "lastUpdated": "2026-08-22T00:02:01.823Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.12816234426646325,
+      "overallSentiment": 0.13228489921705813,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.28267543859649125,
+      "socialSentiment": 0.2950431034482759,
       "mentions": {
         "news": 23,
-        "social": 57,
+        "social": 58,
         "youtube": 12,
-        "total": 92
+        "total": 93
       },
       "news": [
         {
@@ -268,6 +268,14 @@
         }
       ],
       "social": [
+        {
+          "id": "b16f8fdd7270fbbe1084603842cafee6e872b83f2cd2bba55db6223319fe6efb",
+          "authorHandle": "infoscientists.bsky.social",
+          "postText": "I support Troy Jackson because I grew up mostly in Maine. It's not all easy summer visitors for the people who live there. Please consider overturning Susan Collins. Support a worker who has government experience. Donate if possible.",
+          "createdAt": "2026-08-21T23:52:31.447Z",
+          "uri": "at://did:plc:exk3y4mtcamjlh4hymlefwoy/app.bsky.feed.post/3mtmxeaojys2k",
+          "sentiment": 1
+        },
         {
           "id": "f94dfd8de5b296005ed32ade8683796bd40e499f5095efd3d61cb2f32742a762",
           "authorHandle": "capitolhillaccess.bsky.social",
