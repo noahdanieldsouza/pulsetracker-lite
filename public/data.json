@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T12:31:12.500Z",
+  "lastUpdated": "2026-08-22T12:32:51.445Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.13226495726495727,
+      "overallSentiment": 0.12856975308641974,
       "newsSentiment": 0,
-      "socialSentiment": 0.3384615384615384,
+      "socialSentiment": 0.3273759259259259,
       "mentions": {
         "news": 7,
-        "social": 52,
+        "social": 54,
         "youtube": 12,
-        "total": 71
+        "total": 73
       },
       "news": [
         {
@@ -134,6 +134,30 @@
         }
       ],
       "social": [
+        {
+          "id": "26652ed94bf6891b53faf8375730743b79ffef1a5cdc85cf06959ca8c6748840",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-22T12:27:19.724Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtobjwx2z223",
+          "sentiment": 0
+        },
+        {
+          "id": "704ce0e2e6283a66bff25e58f6ee7a4249767f592d39a53736ef34d88a4c8b9f",
+          "authorHandle": "newsjennifer.bsky.social",
+          "postText": "In Maine, where the locals are papering over the other guy’s name with the new candidate. You have to be impressed with the effort here- excellent work with the masking tape.",
+          "createdAt": "2026-08-22T12:14:32.549Z",
+          "uri": "at://did:plc:zrz33wwhanmexrbz7vmhu2xx/app.bsky.feed.post/3mtoat3d2gs2z",
+          "sentiment": 0.7783
+        },
+        {
+          "id": "56e232ff51eb8db6754efa619238af7d60eb0778b62e74e555ce6e55c77c2fa6",
+          "authorHandle": "teamrogers.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-22T11:59:14.512Z",
+          "uri": "at://did:plc:pkxey5un6idnniobmdqfbdfr/app.bsky.feed.post/3mto7xpssvs2f",
+          "sentiment": 0
+        },
         {
           "id": "781aa0b4c9449edf983000f346ea1210871afddefc86bbede5ec4056556daa5a",
           "authorHandle": "lordcollins.bsky.social",
@@ -541,14 +565,6 @@
           "createdAt": "2026-08-21T12:50:38.637Z",
           "uri": "at://did:plc:gc4ylyyfo6mmnjjynz7f2cqt/app.bsky.feed.post/3mtlseplpz22w",
           "sentiment": 0.5
-        },
-        {
-          "id": "7fd12456392cab8c90633a74195ef858e1e64b8baed42e66ace8a086a63c0569",
-          "authorHandle": "mikhailgorbaechev.bsky.social",
-          "postText": "This is why Troy Jackson is going to win by 12 points.",
-          "createdAt": "2026-08-21T12:28:05.613Z",
-          "uri": "at://did:plc:hojsmix5hjm3eu42ffqdgm6j/app.bsky.feed.post/3mtlr4faqic2p",
-          "sentiment": 0.7
         }
       ],
       "youtube": [
