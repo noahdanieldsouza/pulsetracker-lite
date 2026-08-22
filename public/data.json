@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T10:36:55.336Z",
+  "lastUpdated": "2026-08-22T10:55:57.280Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1393917435221783,
+      "overallSentiment": 0.14134460547504024,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.31636363636363635,
+      "socialSentiment": 0.3222222222222222,
       "mentions": {
         "news": 23,
-        "social": 55,
+        "social": 54,
         "youtube": 12,
-        "total": 90
+        "total": 89
       },
       "news": [
         {
@@ -699,14 +699,6 @@
           "createdAt": "2026-08-21T11:15:48.638Z",
           "uri": "at://did:plc:jzsfowmxbxnaq6wnlguzhpdt/app.bsky.feed.post/3mtln356rdk26",
           "sentiment": -0.2
-        },
-        {
-          "id": "db7d2b85abb083048d5581cc090270e1eca2e74db6a6ce3940ccc63a2321908c",
-          "authorHandle": "mattgertz.bsky.social",
-          "postText": "www.mainepublic.org/politics/202...",
-          "createdAt": "2026-08-21T10:53:37.346Z",
-          "uri": "at://did:plc:lm4eq2cftwbnrmzkzowigpt7/app.bsky.feed.post/3mtllthkwjc2d",
-          "sentiment": 0
         }
       ],
       "youtube": [
