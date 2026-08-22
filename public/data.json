@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T15:55:26.263Z",
+  "lastUpdated": "2026-08-22T16:17:40.997Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3302279761904762,
+      "overallSentiment": 0.32384970760233917,
       "newsSentiment": 0,
-      "socialSentiment": 0.19068392857142857,
+      "socialSentiment": 0.17154912280701753,
       "mentions": {
         "news": 7,
-        "social": 56,
+        "social": 57,
         "youtube": 1,
-        "total": 64
+        "total": 65
       },
       "news": [
         {
@@ -134,6 +134,30 @@
         }
       ],
       "social": [
+        {
+          "id": "fa7e67df99b4886ea09fd163c4e98c72b74376c3b6a97724edb5789bc06f97e4",
+          "authorHandle": "hydevoltyge.bsky.social",
+          "postText": "Good for Troy Jackson getting elected\n\nAES too? I think MI has more going on there than WI at least.",
+          "createdAt": "2026-08-22T16:09:35.426Z",
+          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mtonxeufik2a",
+          "sentiment": 1
+        },
+        {
+          "id": "fd5d3a324f229ce619dae020aed16db290683bcbf0724259d36e1c704f79b101",
+          "authorHandle": "newhercules.bsky.social",
+          "postText": "However, he reversed course this week and endorsed a one-year statewide moratorium.\nDem Troy Jackson has pledged to regulate data centers in Maine within his first 100 days in office, while Repub Senator Susan Collins has taken cautious line. She has said she shares \"the concern of data centers.”2/2",
+          "createdAt": "2026-08-22T16:01:49.628Z",
+          "uri": "at://did:plc:735v4e7wgub7kjclvnb7sz4s/app.bsky.feed.post/3mtonjinvac24",
+          "sentiment": 0
+        },
+        {
+          "id": "b7ec001e6e9f279344e7a6d2fcfeae55efa6e6d6fef6bacae8332e1e34245ecc",
+          "authorHandle": "escapedexplorer.bsky.social",
+          "postText": "I feel terrible for everyone in Maine for whom everything just got even MORE expensive but anyway congrats to Senator Troy Jackson on your D+20 win",
+          "createdAt": "2026-08-22T16:01:49.309Z",
+          "uri": "at://did:plc:qp44wbdtbrgyzzgugn5ekx2b/app.bsky.feed.post/3mtonjidm522o",
+          "sentiment": -1
+        },
         {
           "id": "d901fff7c419c150ef98774435cd03dbe42087d9b7716094de99a2768c84bd27",
           "authorHandle": "pediophobicchick.bsky.social",
@@ -565,22 +589,6 @@
           "createdAt": "2026-08-21T16:18:42.770Z",
           "uri": "at://did:plc:cphgfu544qoxz4mzia2iqmyz/app.bsky.feed.post/3mtm5yrfc3s2t",
           "sentiment": 0.7
-        },
-        {
-          "id": "2371738f560a7155e84cfe28e2014f5c3a62b77876337d9868dcbf92601a166b",
-          "authorHandle": "therealjessecoffey.bsky.social",
-          "postText": "BRIEF COMMENT\nIt's sad to see what has become of the Bot Sentinel guy. He's gone from attacking see-through MAGA idiocy with his great app from back before Elon Musk took over Twitter to essentially encouraging see-through MAGA idiocy to prevent progressive Dems from getting into the US government.",
-          "createdAt": "2026-08-21T16:10:17.027Z",
-          "uri": "at://did:plc:u3a5i6ehwv4suxf3b63po2xk/app.bsky.feed.post/3mtm5jp3ah224",
-          "sentiment": 0
-        },
-        {
-          "id": "b6cf83bdd0f31c97726e708efceddd9c1b2eaec789a73d19e6008f9bdfd1ddb4",
-          "authorHandle": "vickiehinkley.bsky.social",
-          "postText": "#MAINE  #AsMAINEGoesBLUE !!  jacksonformaine.com/about\n#TroyJACKSON  @troyjackson207.bsky.social",
-          "createdAt": "2026-08-21T16:08:56.839Z",
-          "uri": "at://did:plc:xat4vjhzhbbjo5bxkecdd44y/app.bsky.feed.post/3mtm5hcm2us2i",
-          "sentiment": 0.9
         }
       ],
       "youtube": [
