@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T06:55:50.234Z",
+  "lastUpdated": "2026-08-22T07:28:16.681Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.14525795278461398,
+      "overallSentiment": 0.1475174449812131,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.33396226415094343,
+      "socialSentiment": 0.34074074074074073,
       "mentions": {
         "news": 23,
-        "social": 53,
+        "social": 54,
         "youtube": 12,
-        "total": 88
+        "total": 89
       },
       "news": [
         {
@@ -268,6 +268,14 @@
         }
       ],
       "social": [
+        {
+          "id": "f04512752c4fb8229a77cea1d06b07c5c52f80e69b57538ba1babda5f80f5c27",
+          "authorHandle": "timbo6.bsky.social",
+          "postText": "But Troy, what about\nall the time she spends\nbeing “CONCERNED”\nabout issues? Does that\nnot count for anything?\nTroy Jackson for Senate!",
+          "createdAt": "2026-08-22T07:07:35.372Z",
+          "uri": "at://did:plc:cntdjvjh4f7kmcb737w6mzna/app.bsky.feed.post/3mtnpo7d3bs26",
+          "sentiment": 0.7
+        },
         {
           "id": "f34a025bc3879af6b794cd3fa7ed1d2b89be7cb535dd31ae074f468b0db6c768",
           "authorHandle": "follow-the-money.us",
@@ -820,14 +828,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.2916666666666667,
+      "overallSentiment": -0.1875,
       "newsSentiment": -0.375,
-      "socialSentiment": -0.5,
+      "socialSentiment": null,
       "mentions": {
         "news": 4,
-        "social": 1,
+        "social": 0,
         "youtube": 5,
-        "total": 10
+        "total": 9
       },
       "news": [
         {
@@ -867,16 +875,7 @@
           "sentiment": 0
         }
       ],
-      "social": [
-        {
-          "id": "b7003bee0e5942cded4564b913131196d3ce5afaef42ea59765f711e5326a243",
-          "authorHandle": "edinreporter.bsky.social",
-          "postText": "Injury blows as Berwick prepare for Edinburgh\n\nBerwick Bandits, already minus Jordan Jenkins for the trip to Edinburgh Monarchs on Friday (7.30pm), have been dealt a second blow with their play-off hopes on the line....",
-          "createdAt": "2026-08-21T07:10:35Z",
-          "uri": "at://did:plc:dtb2mkl46skh5k2ohfyxxbct/app.bsky.feed.post/3mtl7ep536m2m",
-          "sentiment": -0.5
-        }
-      ],
+      "social": [],
       "youtube": [
         {
           "id": "4f0af382dc61b9e26724132521e45c2d0e66759d0b61ead65274b70c6e4b49c7",
