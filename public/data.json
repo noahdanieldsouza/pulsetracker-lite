@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T14:33:46.857Z",
+  "lastUpdated": "2026-08-22T14:54:24.211Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3586563636363636,
+      "overallSentiment": 0.354187037037037,
       "newsSentiment": 0,
-      "socialSentiment": 0.2759690909090909,
+      "socialSentiment": 0.26256111111111113,
       "mentions": {
         "news": 7,
-        "social": 55,
+        "social": 54,
         "youtube": 1,
-        "total": 63
+        "total": 62
       },
       "news": [
         {
@@ -134,6 +134,22 @@
         }
       ],
       "social": [
+        {
+          "id": "985f5b3593d5362a771dd4fc0bee21f1ac4b62271fbd8a8c50870be2a9172505",
+          "authorHandle": "chocilate.bsky.social",
+          "postText": "Lmao apparently janet mills declined to endorse troy jackson",
+          "createdAt": "2026-08-22T14:45:37.214Z",
+          "uri": "at://did:plc:shd4xfadlt5elljb2b2rvgyt/app.bsky.feed.post/3mtojba2elk2b",
+          "sentiment": -1
+        },
+        {
+          "id": "eac9dc95d3f2c14b751b785c658cff361fd78de8bddb3244095391db8a4e48ff",
+          "authorHandle": "philindigo.bsky.social",
+          "postText": "Mine and my business's list for candidate support.\n1. Mary Peltola AK.\n2. John Ossoff GA.\n3. Roy Cooper NC.\n4. David Crowley WI\n5. James Talarico TX\n6. Sherrod Brown OH\n7. Joshua Turek IA\n8. Troy Jackson ME\n9. Cait Conley NY\n10.Jared Moskowitz FL\n Still considering and adding more.",
+          "createdAt": "2026-08-22T14:39:13.212Z",
+          "uri": "at://did:plc:sprl4q6axuecb5joojj2azeq/app.bsky.feed.post/3mtoivrtlmc2l",
+          "sentiment": 1
+        },
         {
           "id": "5c4e73f6b1a8c488edb7ecdaded3838094c08cd2c11403cfc91a40e07d7aabd4",
           "authorHandle": "salt1nurwound.bsky.social",
@@ -549,30 +565,6 @@
           "createdAt": "2026-08-21T15:17:06.441Z",
           "uri": "at://did:plc:qzz33oljgvgvkw7cgdwmdxd4/app.bsky.feed.post/3mtm2kmc7u22u",
           "sentiment": 1
-        },
-        {
-          "id": "3f582b3233f5fda2de32e596716391566a0360d2c5e2a56044a6d8308e30c1d5",
-          "authorHandle": "headquartersnews.bsky.social",
-          "postText": "Troy Jackson: Susan Collins is not willing to stand up to Trump. She let ICE have what they want. She voted for the tax cuts for Musk. She lets the war happen in Iran. All those things you can stop with the power of the purse, but she doesn't use it because she's not willing to go up against Trump.",
-          "createdAt": "2026-08-21T14:51:24.303Z",
-          "uri": "at://did:plc:ifevtgk3w7ov6zjmgy333jkr/app.bsky.feed.post/3mtlz4nmp7d2q",
-          "sentiment": 1
-        },
-        {
-          "id": "179f9acb51a014244bbe72a4a66938d3f738d2453d617b7553fe63b8ae561a8b",
-          "authorHandle": "aknanakkicks.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-21T14:48:12.357Z",
-          "uri": "at://did:plc:j3tsmgzwsgplihby6ow62kjh/app.bsky.feed.post/3mtlywwk7gc2n",
-          "sentiment": 0
-        },
-        {
-          "id": "ffe5120c409f6d4c3f80130fb841c11bb89517b5d8519b0527c7cc26d5dbf570",
-          "authorHandle": "beachwoodreport.bsky.social",
-          "postText": "Troy Jackson should get a tattoo.",
-          "createdAt": "2026-08-21T14:41:32.717Z",
-          "uri": "at://did:plc:wykeg5hu4ecrtacd26spk4hv/app.bsky.feed.post/3mtlykzg5yc2k",
-          "sentiment": 0
         }
       ],
       "youtube": [
