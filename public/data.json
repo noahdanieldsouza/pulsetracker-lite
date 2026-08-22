@@ -1,29 +1,12 @@
 {
-  "lastUpdated": "2026-08-22T11:56:09.304Z",
+  "lastUpdated": "2026-08-22T12:31:12.500Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
-      "newsSentiment": null,
-      "socialSentiment": null,
-      "mentions": {
-        "news": 0,
-        "social": 0,
-        "youtube": 0,
-        "total": 0
-      },
-      "news": [],
-      "social": [],
-      "youtube": [],
-      "youtubeSentiment": null
-    },
-    {
-      "id": "shenna-bellows",
-      "name": "Shenna Bellows",
-      "overallSentiment": -0.1,
-      "newsSentiment": -0.1,
+      "overallSentiment": -1,
+      "newsSentiment": -1,
       "socialSentiment": null,
       "mentions": {
         "news": 1,
@@ -33,13 +16,40 @@
       },
       "news": [
         {
-          "id": "0d3dbd72902f598210a4d6e162971286d417c92082a2d0bc3ecad16f68d00d67",
-          "title": "Election officials prepare for nightmare scenarios: Ballot seizures and violence",
-          "description": "Five state officials described legal preparations for federal agents at polling places — and said the potential for violence worries them more. The post Election officials prepare for nightmare scenarios: Ballot seizures and violence appeared first on MS NOW .",
-          "sourceName": "Ms Now",
-          "url": "https://www.ms.now/news/election-officials-prepare-for-nightmare-scenarios-ballot-seizures-and-violence",
-          "publishedAt": "2026-08-20T13:31:43.000Z",
-          "sentiment": -0.1
+          "id": "b8fdbd5a8cbc3918bcb9b4d5594255ee799851ee718035a7feb180d77e0ddc77",
+          "title": "See how fast money poured in after Troy Jackson’s Senate nomination",
+          "description": "It's the first detailed look at the money Troy Jackson has pulled in since he emerged as Graham Platner's replacement.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/21/politics/elections/maine-election-senate-2026-troy-jackson-fundraising-actblue/",
+          "publishedAt": "2026-08-21T17:27:59.000Z",
+          "sentiment": -1
+        }
+      ],
+      "social": [],
+      "youtube": [],
+      "youtubeSentiment": null
+    },
+    {
+      "id": "shenna-bellows",
+      "name": "Shenna Bellows",
+      "overallSentiment": 0,
+      "newsSentiment": 0,
+      "socialSentiment": null,
+      "mentions": {
+        "news": 1,
+        "social": 0,
+        "youtube": 0,
+        "total": 1
+      },
+      "news": [
+        {
+          "id": "950a615cf32f4f558575429915a5bc7e322811fe826277a6d8349b32b5fd51cb",
+          "title": "See how fast money poured in after Troy Jackson’s Senate nomination",
+          "description": "It's the first detailed look at the money Troy Jackson has pulled in since he emerged as Graham Platner's replacement.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/21/politics/elections/maine-election-senate-2026-troy-jackson-fundraising-actblue/",
+          "publishedAt": "2026-08-21T17:27:59.000Z",
+          "sentiment": 0
         }
       ],
       "social": [],
@@ -49,221 +59,77 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.14675771088814568,
-      "newsSentiment": 0.043478260869565216,
+      "overallSentiment": 0.13226495726495727,
+      "newsSentiment": 0,
       "socialSentiment": 0.3384615384615384,
       "mentions": {
-        "news": 23,
+        "news": 7,
         "social": 52,
         "youtube": 12,
-        "total": 87
+        "total": 71
       },
       "news": [
         {
-          "id": "45f74cc473e267456d48ae5993b3f0f9998643ff86866f5e94417096b316826f",
-          "title": "Letter: I support Troy Jackson to uphold the ideals of Graham Platner’s campaign",
-          "description": null,
+          "id": "3d3b8a3e65f8e619469b947132c953a288c354ec7ad49c6a4110ee13d6948131",
+          "title": "Letter: Vote Democrat in Maine’s U.S. Senate race to restrain Donald Trump",
+          "description": "“It’s time to elect Democrat Troy Jackson to help restore the balance of power in our government and to rein in Trump’s unconstitutional behavior.”",
           "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4841070426773-letter-i-support-troy-jackson-to-uphold-the-ideals-of-graham-platner-s-campaign",
-          "publishedAt": "2026-08-21T00:00:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "ae61dbf6ea23cd0f09e2f8d0125ceb3cdfa45337228229ed1f9d018eb2782ca3",
-          "title": "Trump's Approval Sinks to 40% as Democrats Widen Lead for Control of Congress",
-          "description": "A new Emerson poll shows Trump's approval at 40% amid a widening Democratic lead for Congress ahead of the November 2026 midterms.",
-          "sourceName": "Hoodline",
-          "url": "https://hoodline.com/2026/08/trump-s-approval-sinks-to-40-as-democrats-widen-lead-for-control-of-congress/",
-          "publishedAt": "2026-08-20T21:27:59.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6ea27b73f611e70b8e17d155d09581d0f562d9ac64277278a1a73394f7fc86ec",
-          "title": "Only about 1% of US lawmakers are working class. Here’s what keeps workers out of office",
-          "description": "The fact that so few former workers hold elected office means that working-class interests often fall by the wayside in the world’s political institutions",
-          "sourceName": "The Independent",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/us-lawmakers-working-class-aoc-troy-jackson-b3036649.html",
-          "publishedAt": "2026-08-20T20:06:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "19cc7841ce75b36bf0a18387d7fb9973c6d2d835f82807be3bfd90df5065e340",
-          "title": "Only about 1% of US lawmakers are working-class",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/only-about-1-of-us-lawmakers-are-working-class-F632A133-3FB8-4069-8DD6-0A828DF284AB",
-          "publishedAt": "2026-08-20T20:06:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5556af2f7ca9a8ee9d040a2d3324eb4f6e2b7aef2185f68c4581e92369cf3fc3",
-          "title": "Key Democratic Senate Candidate's Campaign Descends Into 'Complete Chaos'",
-          "description": "Just hours before a key jungle primary decided the field for a critical Senate race the left hopes to flip, Democratic candidate Mary Peltola, a former state representative, fired numerous [...] The post Key Democratic Senate Candidate's Campaign Descends Into 'Complete Chaos' appeared first on The Western Journal .",
-          "sourceName": "The Western Journal",
-          "url": "https://www.westernjournal.com/key-democratic-senate-candidates-campaign-descends-complete-chaos/",
-          "publishedAt": "2026-08-20T18:12:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7f71863479743f6dcf0d6633e39be4810df9ba1980a107c092c9a5167684231c",
-          "title": "Democrats' Path to Senate Majority Gets Easier as Trump's Approval Rating Declines",
-          "description": "Democrats are optimistic about their chances of winning a majority in the Senate in the 2026 midterm elections, with recent polls showing single-digit races in several key contests. Republicans hold a 53-47 majority, but Democrats have few clear targets and need to win seats in states that Trump won by double digits in 2024 to flip the Senate.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/democrats-path-to-senate-majority-gets-easier-as-trump-s-86833610",
-          "publishedAt": "2026-08-20T17:37:55.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a7708c4c74a761c7f2c88c6eb11dd695829c5368da3ea078a7647b602a9b4bb9",
-          "title": "Maine Democrats target Collins on Bangor stop of ‘Retire Susan’ tour",
-          "description": "Maine Democrats made a stop in Bangor Thursday for their “Retire Susan” recess tour.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/08/20/maine-democrats-target-collins-bangor-stop-retire-susan-tour/",
-          "publishedAt": "2026-08-20T17:17:08.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "419187c1f3766908252333fc6c00ce99da1920058674ca1e63f3cdc4aff6293d",
-          "title": "Democrats’ Chances of Flipping the Senate 75 Days to Midterms—Polls",
-          "description": "Democrats and Republicans are engaged in a close race for control of the Senate in the 2026 midterm elections, recent polls show.",
-          "sourceName": "Newsweek",
-          "url": "https://www.newsweek.com/democrats-chances-of-flipping-the-senate-75-days-to-midterms-polls-12347504",
-          "publishedAt": "2026-08-20T15:44:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "de3f2e5bcd2d30e6db23ed5383fb01022a88a619b13f6dc52ff4bd0d82f00601",
-          "title": "Democrats' chances of flipping the Senate 75 days to midterms—Polls",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/democrats-chances-of-flipping-the-senate-75-days-to-midtermspolls-7703B907-B93B-4FE8-B0E5-AA1040DE6042",
-          "publishedAt": "2026-08-20T15:44:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "723721b07c99bd13f6cf4436bc99cab75320115c7476058adbec113d0ecaf31d",
-          "title": "Collins’ tepid response to Trump immunity order should disturb us all | Letter",
-          "description": "Sen. Susan Collins voted against Todd Blanche’s confirmation as attorney general earlier this month because, in part, he issued an order earlier this year granting President Trump, his sons and family business immunity from IRS audits. However, other than making a statement and casting this meaningless protest vote, Sen. Collins has not taken any meaningful [...]",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/20/collins-tepid-response-to-trump-immunity-order-should-disturb-us-all-letter/",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d12e9eac26b318d591ce6de9aa72187aab94a7c02403d3784b6f0ee48aa19582",
-          "title": "Collins’ tepid response to Trump immunity order should disturb us all | Letter",
-          "description": "Sen. Susan Collins voted against Todd Blanche’s confirmation as attorney general earlier this month because, in part, he issued an order earlier this year granting President Trump, his sons and family business immunity from IRS audits. However, other than making a statement and casting this meaningless protest vote, Sen. Collins has not taken any meaningful [...]",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/20/collins-tepid-response-to-trump-immunity-order-should-disturb-us-all-letter/",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e7355c00ee28f3d9605c514bf35df5c826be8b91a80bd5de15d535ffdd791548",
-          "title": "Maine Dem Candidate Troy Jackson Was Instrumental in Making Maine First State to Decriminalize Selling Sex – Discern Report",
-          "description": "In this Breitbart article, staff writers report that Maine Democratic U.S. Senate nominee Troy Jackson played a key role in 2023 legislation that made Maine the first state in the nation to decriminalize selling sex. Two Storms, One Harvest Every food crisis in living memory has been a one-shock event. The 2008 price spike was [...] The post Maine Dem Candidate Troy Jackson Was Instrumental in Making Maine First State to Decriminalize Selling Sex – Discern Report appeared first on CBNC .",
-          "sourceName": "Cbnc",
-          "url": "https://cbnc.com/maine-dem-candidate-troy-jackson-was-instrumental-in-making-maine-first-state-to-decriminalize-selling-sex-discern-report/",
-          "publishedAt": "2026-08-20T13:05:00.000Z",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4843022787280-letter-vote-democrat-in-maine-s-u-s-senate-race-to-restrain-donald-trump",
+          "publishedAt": "2026-08-22T00:00:00.000Z",
           "sentiment": 1
         },
         {
-          "id": "11f51cfc0174781578b94408d0d94f1cc25d23cefa8b03027e5dc4efec1ece48",
-          "title": "Why working-class people account for around 1% of lawmakers in the US – and only 2% in the average democracy around the world",
-          "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
-          "sourceName": "Plainview Daily Herald",
-          "url": "https://www.myplainview.com/news/article/why-working-class-people-account-for-around-1-of-22396249.php",
-          "publishedAt": "2026-08-20T13:04:48.000Z",
+          "id": "406ee3017f295c9956e8c642c3d3aa8a3b19dee38ad9f0a96071374a380dc63a",
+          "title": "Medicare for All is back on the ballot",
+          "description": "Medicare for All would replace private insurance with costly government-run care, higher taxes, lower provider payments, and rationing.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/opinion/editorials/4695951/medicare-for-all-back-on-the-ballot/",
+          "publishedAt": "2026-08-21T19:37:51.000Z",
           "sentiment": 0
         },
         {
-          "id": "a90738e2f5987f959f518966f08453f9767c6ce1635862a093b00df6f4434edc",
-          "title": "Why working-class people account for around 1% of lawmakers in the US – and only 2% in the average democracy around the world",
-          "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
-          "sourceName": "Ct Insider",
-          "url": "https://www.ctinsider.com/news/article/why-working-class-people-account-for-around-1-of-22396249.php",
-          "publishedAt": "2026-08-20T13:04:48.000Z",
+          "id": "cd89811b89b38cc0a2eb5e4d82643e7c4da0761ccd808aa9a71b4a7ab36bdfb3",
+          "title": "Seeking to flip Senate, Democrats are running ads to criticize some of their own",
+          "description": "Democrats seeking Senate seats in some states, including Alaska, are taking aim at party leadership — and even supporting Republican policies.",
+          "sourceName": "Adn",
+          "url": "https://www.adn.com/nation-world/2026/08/21/seeking-to-flip-senate-democrats-are-running-ads-to-criticize-some-of-their-own/",
+          "publishedAt": "2026-08-21T18:34:31.000Z",
           "sentiment": 0
         },
         {
-          "id": "add9bd8d9d309f935ff6db2adff2f8713b2639ac55c96b63bb98f9d6fd755697",
-          "title": "Why working-class people account for around 1% of lawmakers in the US – and only 2% in the average democracy around the world",
-          "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
-          "sourceName": "Beaumont Enterprise",
-          "url": "https://www.beaumontenterprise.com/news/article/why-working-class-people-account-for-around-1-of-22396249.php",
-          "publishedAt": "2026-08-20T13:04:48.000Z",
+          "id": "e09a13d8b1670086e85e206a4f1fb4e0b5b6c5837f3db1106258f8d3a4b3d48a",
+          "title": "See how fast money poured in after Troy Jackson’s Senate nomination",
+          "description": "It's the first detailed look at the money Troy Jackson has pulled in since he emerged as Graham Platner's replacement.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/21/politics/elections/maine-election-senate-2026-troy-jackson-fundraising-actblue/",
+          "publishedAt": "2026-08-21T17:27:59.000Z",
           "sentiment": 0
         },
         {
-          "id": "f8566664f3130c601c17a79539fe8a8ed1861c0ee2fbeccf3bf85574babcce16",
-          "title": "Why working-class people account for around 1% of lawmakers in the US – and only 2% in the average democracy around the world",
-          "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
-          "sourceName": "Greenwich Time",
-          "url": "https://www.greenwichtime.com/news/article/why-working-class-people-account-for-around-1-of-22396249.php",
-          "publishedAt": "2026-08-20T13:04:48.000Z",
+          "id": "7e8e8a762786a4b4eb06af621f9df56780eb0384de1347f846ff0f99137330c2",
+          "title": "For Republicans to win this fall, GOP must win over reluctant Trump 2024 supporters",
+          "description": "The victories of far-left Senate Democratic candidates like Abdul El-Sayed in Michigan, Troy Jackson in Maine, Peggy Flanagan in Minnesota and others in assorted House districts give Republicans openings for the midterms, but only if handled correctly.",
+          "sourceName": "Norfolk Daily News",
+          "url": "https://norfolkdailynews.com/commentary/for-republicans-to-win-this-fall-gop-must-win-over-reluctant-trump-2024-supporters/article_916eb545-3cd1-484d-be8f-49fef5950044.html",
+          "publishedAt": "2026-08-21T16:02:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "102b00aaf79599f6fea481d4de4fbfcec9d7204aed71ba393dd9f95a8b63a5c1",
+          "title": "Republicans Dealt Quadruple Polling Blow in Race Against Abdul El-Sayed",
+          "description": "Abdul El-Sayed led four consecutive polls of the Michigan Senate race this week.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/republicans-dealt-quadruple-polling-blow-race-against-abdul-el-sayed-12352792",
+          "publishedAt": "2026-08-21T16:01:30.000Z",
           "sentiment": 0
         },
         {
-          "id": "c166d746dfe9c3f95a008e4d0fc575bd3bb56e5d1c7a728563f724245d2dde7b",
-          "title": "Why working-class people account for around 1% of lawmakers in the US – and only 2% in the average democracy around the world",
-          "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
-          "sourceName": "Goskagit",
-          "url": "https://www.goskagit.com/opinion/conversation/why-working-class-people-account-for-around-1-of-lawmakers-in-the-us-and-only/article_a84d0564-45a5-59f6-a64e-7a41029d0d08.html",
-          "publishedAt": "2026-08-20T13:02:43.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ee8dad1eb3264d06bb8a9b74b8a48dab9e7db1fe17261dea50b2a8930a3ecf30",
-          "title": "Collins is no help in battling Trump-fueled chaos | Letter",
-          "description": "The advertisements for Sen. Susan Collins are intentionally deceptive. The ads tout Collins’ “stable hand” after the “chaos” of Sept. 11, 2001. The chaos did not begin in 2001; it began in 2025 with the inauguration of Donald J. Trump. That chaos includes: wild and unpredictable tariffs on friend and foe alike, which raised prices [...]",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/20/collins-is-no-help-in-battling-trump-fueled-chaos-letter/",
-          "publishedAt": "2026-08-20T13:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "602299ff94b246ecac85c1a403b4f123c3310e7fe199fb59718fc1b53147afd0",
-          "title": "Political horse races aren’t won at the starting gate | Letter",
-          "description": "The horses are in the starting gate. In one race, it’s Susan Collins versus Troy Jackson. In theother, it’s Hannah Pingree, Bobby Charles and Rick Bennett. From my perspective, Maine’s mainstream media — the Bangor Daily News, the EllsworthAmerican and the Portland Press Herald — have already picked their winners. They appear tobe rooting for [...]",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/20/political-horse-races-arent-won-at-the-starting-gate-letter/",
-          "publishedAt": "2026-08-20T13:00:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "811506039d8e254d903ce364cf56922ee48de99bc0bcc3b09ff950adf686a943",
-          "title": "Political horse races aren’t won at the starting gate | Letter",
-          "description": "The horses are in the starting gate. In one race, it’s Susan Collins versus Troy Jackson. In theother, it’s Hannah Pingree, Bobby Charles and Rick Bennett. From my perspective, Maine’s mainstream media — the Bangor Daily News, the EllsworthAmerican and the Portland Press Herald — have already picked their winners. They appear tobe rooting for [...]",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/20/political-horse-races-arent-won-at-the-starting-gate-letter/",
-          "publishedAt": "2026-08-20T13:00:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "cc5a036bb8f549c5383639062e7c15e458cd075d384e5bd525550baede7c0df8",
-          "title": "Collins is no help in battling Trump-fueled chaos | Letter",
-          "description": "The advertisements for Sen. Susan Collins are intentionally deceptive. The ads tout Collins’ “stable hand” after the “chaos” of Sept. 11, 2001. The chaos did not begin in 2001; it began in 2025 with the inauguration of Donald J. Trump. That chaos includes: wild and unpredictable tariffs on friend and foe alike, which raised prices [...]",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/20/collins-is-no-help-in-battling-trump-fueled-chaos-letter/",
-          "publishedAt": "2026-08-20T13:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "18daae3f4e9228f210406dab930152e1cd6102c404528769cba9c25f60717e8f",
-          "title": "Why working-class people account for around 1% of lawmakers in the US – and only 2% in the average democracy around the world",
+          "id": "eddfac6afcd5aab0b292982924d676d3788bf97614261e98bb591c76a40b81e9",
+          "title": "Republicans dealt quadruple polling blow in race against Abdul El-Sayed",
           "description": null,
           "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/why-working-class-people-account-for-around-1-of-lawmakers-in-the-us-and-only-2-in-the-average-democracy-around-the-world-FF330038-D0A7-4696-B6E9-85847202D7B7",
-          "publishedAt": "2026-08-20T12:39:58.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "335c73823cb2350558d079a722eef41fe35052765a20f5ecdaf5d251c1f847a8",
-          "title": "Why working-class people account for around 1% of lawmakers in the US – and only 2% in the average democracy around the world",
-          "description": "Campaigning anywhere for any office at any level of government is personally burdensome.",
-          "sourceName": "The Conversation",
-          "url": "https://theconversation.com/why-working-class-people-account-for-around-1-of-lawmakers-in-the-us-and-only-2-in-the-average-democracy-around-the-world-288677",
-          "publishedAt": "2026-08-20T12:39:58.000Z",
+          "url": "https://www.bundle.app/en/breaking-news/republicans-dealt-quadruple-polling-blow-in-race-against-abdul-el-sayed-4341AAD2-2BBE-409C-8E90-4D2BDB2C279E",
+          "publishedAt": "2026-08-21T16:01:30.000Z",
           "sentiment": 0
         }
       ],
@@ -812,51 +678,24 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.1875,
-      "newsSentiment": -0.375,
+      "overallSentiment": -0.05,
+      "newsSentiment": -0.1,
       "socialSentiment": null,
       "mentions": {
-        "news": 4,
+        "news": 1,
         "social": 0,
         "youtube": 5,
-        "total": 9
+        "total": 6
       },
       "news": [
         {
-          "id": "86ef890904c2f1ca5433e160ff31bec450a23dd4e7a933ddb86952301a27626f",
-          "title": "Dog seized from cruel owner but beatings had been so bad he died",
-          "description": "A cat and a dog suffered blunt force trauma and died",
-          "sourceName": "Manchester Evening News",
-          "url": "https://www.manchestereveningnews.co.uk/news/uk-news/dog-seized-cruel-owner-beatings-34493660",
-          "publishedAt": "2026-08-20T19:15:45.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "bb66917e9d1e98e87815a837c8508ea3620e943e4f07ba74413e994c168e6338",
-          "title": "Dog seized from cruel owner but had been beaten so badly he died",
-          "description": "A cat and a dog suffered blunt force trauma and died",
-          "sourceName": "Irish Mirror",
-          "url": "https://www.irishmirror.ie/news/world-news/dog-seized-beaten-badly-owner-37575748",
-          "publishedAt": "2026-08-20T19:03:41.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "e51aad5046fb0e1cfe387715e87a920f9a83db1d4e571fe962bd8213f66a24f1",
-          "title": "Cruel animal abuser beat dog and cat so severely they both died",
-          "description": "Both pets suffered blunt force trauma and died due to the severity and complications from their injuries.",
-          "sourceName": "Cornwall Live",
-          "url": "https://www.cornwalllive.com/news/cornwall-news/cruel-animal-abuser-beat-dog-11120537",
-          "publishedAt": "2026-08-20T18:14:52.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "878d15847179d42f5f0fbcec2883b36ea421623e7390e8e61c2a610af761e81c",
-          "title": "VCCP + Barclays Tap Into American Soccer Fervor To Launch Latest Campaign",
-          "description": "For more than 25 years, Barclays has been one of the English Premier League’s longest-standing partners. Now, as the league’s popularity continues to surge in the U.S., the brand is evolving its long-running Champion of Fans platform. Launching today, August 20 (the day before Premier League season officially kicks off), Game Day celebrates the rituals [...] The post VCCP + Barclays Tap Into American Soccer Fervor To Launch Latest Campaign appeared first on Roastbrief US .",
-          "sourceName": "Roastbrief Us",
-          "url": "https://roastbrief.us/vccp-barclays-tap-into-american-soccer-fervor-to-launch-latest-campaign/",
-          "publishedAt": "2026-08-20T15:48:06.000Z",
-          "sentiment": 0
+          "id": "db40ca1275fcd1a45b566b6adc71d69bd74c36c3189c11bcd6a7b7822757179f",
+          "title": "See how fast money poured in after Troy Jackson’s Senate nomination",
+          "description": "It's the first detailed look at the money Troy Jackson has pulled in since he emerged as Graham Platner's replacement.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/21/politics/elections/maine-election-senate-2026-troy-jackson-fundraising-actblue/",
+          "publishedAt": "2026-08-21T17:27:59.000Z",
+          "sentiment": -0.1
         }
       ],
       "social": [],
