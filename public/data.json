@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T16:17:40.997Z",
+  "lastUpdated": "2026-08-22T16:43:49.772Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.32384970760233917,
+      "overallSentiment": 0.30939464285714285,
       "newsSentiment": 0,
-      "socialSentiment": 0.17154912280701753,
+      "socialSentiment": 0.12818392857142855,
       "mentions": {
         "news": 7,
-        "social": 57,
+        "social": 56,
         "youtube": 1,
-        "total": 65
+        "total": 64
       },
       "news": [
         {
@@ -134,6 +134,22 @@
         }
       ],
       "social": [
+        {
+          "id": "e34bb9c17a8e8677fa278ea89c48880183c93acac47f558f518440442dff3401",
+          "authorHandle": "georgemcgovernfan.bsky.social",
+          "postText": "youtu.be/ZFoNKb39TJY?...",
+          "createdAt": "2026-08-22T16:24:55.812Z",
+          "uri": "at://did:plc:rsjjfzswo7a3kikoydpynu4j/app.bsky.feed.post/3mtoossmdx22n",
+          "sentiment": -0.2
+        },
+        {
+          "id": "212dc205a7301f83408eca30c4c4154c236033f00c5343630b414f69e7de60d3",
+          "authorHandle": "clarkhorn.bsky.social",
+          "postText": "youtu.be/ZFoNKb39TJY",
+          "createdAt": "2026-08-22T16:21:17.285Z",
+          "uri": "at://did:plc:sljk3rx3rsc7lofufmaav7ov/app.bsky.feed.post/3mtoomc7fp22h",
+          "sentiment": -0.2
+        },
         {
           "id": "fa7e67df99b4886ea09fd163c4e98c72b74376c3b6a97724edb5789bc06f97e4",
           "authorHandle": "hydevoltyge.bsky.social",
@@ -565,30 +581,6 @@
           "createdAt": "2026-08-21T16:47:10.540Z",
           "uri": "at://did:plc:yto72hgvetlbftg2v76q3qq3/app.bsky.feed.post/3mtm7lo2f622s",
           "sentiment": 0.8
-        },
-        {
-          "id": "15dd805442ff3dee568c13582389c43b29ecdbb72e69f653cd286636e1f71a06",
-          "authorHandle": "acadia23.bsky.social",
-          "postText": "Troy Jackson wasn't the official senate nominee till July 25, so that's really impressive!",
-          "createdAt": "2026-08-21T16:42:58.448Z",
-          "uri": "at://did:plc:t3wfb3xj36pzwrl5pz2r6vtz/app.bsky.feed.post/3mtm7e5mzo22z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "c19355fd91f85fa2928882270f894013c8f415e976312384ba2d6101e6cf7290",
-          "authorHandle": "dewforpolitics.bsky.social",
-          "postText": "RFK Jr.’s role in maintaining federal public health once again comes under scrutiny as alfalfa sprouts were recalled for E. coli and salmonella. Troy Jackson blasted Susan Collins over ICE, tax cuts and Iran war policy. Sen. Elissa Slotkin donated $5,000 to Abdul El-Sayed’s campaign.",
-          "createdAt": "2026-08-21T16:36:49.988Z",
-          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mtm6z6akgc2r",
-          "sentiment": 0.8
-        },
-        {
-          "id": "615a567b1e26eb9dcf85943d17ad23235313e67d1d4566ac41ecfd18a9feed7f",
-          "authorHandle": "purrtah.bsky.social",
-          "postText": "Troy Jackson was in the top 3 for ActBlue in July! Sayed closely behind at 4.",
-          "createdAt": "2026-08-21T16:18:42.770Z",
-          "uri": "at://did:plc:cphgfu544qoxz4mzia2iqmyz/app.bsky.feed.post/3mtm5yrfc3s2t",
-          "sentiment": 0.7
         }
       ],
       "youtube": [
