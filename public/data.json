@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T02:41:43.989Z",
+  "lastUpdated": "2026-08-22T03:27:33.996Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -49,14 +49,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.12977053140096617,
+      "overallSentiment": 0.14344977668398504,
       "newsSentiment": 0.043478260869565216,
-      "socialSentiment": 0.2874999999999999,
+      "socialSentiment": 0.32853773584905654,
       "mentions": {
         "news": 23,
-        "social": 55,
+        "social": 53,
         "youtube": 12,
-        "total": 90
+        "total": 88
       },
       "news": [
         {
@@ -268,6 +268,14 @@
         }
       ],
       "social": [
+        {
+          "id": "511435258a82cbe0573ac9bfd2c792c49561a0ec13ee53d09b1fa443db33c57d",
+          "authorHandle": "theweeklyopine.bsky.social",
+          "postText": "Maine. Troy Jackson in Maine.",
+          "createdAt": "2026-08-22T03:10:46.695Z",
+          "uri": "at://did:plc:rkt5ckdy3wxfmttux7xnsrli/app.bsky.feed.post/3mtncgqur3c2b",
+          "sentiment": 0
+        },
         {
           "id": "dcebc2491325c52db47faef4d9d7ddd86033902dd0248a570a683a2091cc4eb2",
           "authorHandle": "bostonmapper.bsky.social",
@@ -683,30 +691,6 @@
           "createdAt": "2026-08-21T03:33:00.573Z",
           "uri": "at://did:plc:sprl4q6axuecb5joojj2azeq/app.bsky.feed.post/3mtkt7lj23c2e",
           "sentiment": 0.7125
-        },
-        {
-          "id": "ee5f60d230958a9cd9d2702715a05987eb964f29a7c9979fe0f37d0d3f99c36b",
-          "authorHandle": "carlwagner88.bsky.social",
-          "postText": "dear \"Mainers\"!\n\nhere's your candidate for the\nU.S Senate. Troy Jackson\n@troyjackson207.bsky.social \n\n#vote #Midterms26",
-          "createdAt": "2026-08-21T03:20:58.410Z",
-          "uri": "at://did:plc:lnefsxang7qh4wd6mg2erd32/app.bsky.feed.post/3mtksk2s7vc2k",
-          "sentiment": -0.1
-        },
-        {
-          "id": "a8d91c2ce168478fb6cfb4ab6ac1d95ae344f1c27a8d9e520bb7ab29733dbcf0",
-          "authorHandle": "nothing-official.bsky.social",
-          "postText": "I see Troy Jackson is in a dead heat with Collins. Wow who could’ve saw that coming? Why is this guy so camera shy? This shit is by design, I promise you that.",
-          "createdAt": "2026-08-21T02:52:14.562Z",
-          "uri": "at://did:plc:zvrc4jtkpssydlili4z4mqws/app.bsky.feed.post/3mtkqwosdqk2j",
-          "sentiment": -0.7
-        },
-        {
-          "id": "15b7970c43a966b48b726e9dcdd27e479c6f09b806858185f4377e57cce44c62",
-          "authorHandle": "nothing-official.bsky.social",
-          "postText": "The ouster of Platner was the most obvious psyop in the history of progressive politics. Troy Jackson is neck + neck with Collins and he isn’t getting in front of this race like Graham did. Platner scared the capital class with his working class message, and he paid the price. And so will all of us.",
-          "createdAt": "2026-08-21T02:50:21.151Z",
-          "uri": "at://did:plc:zvrc4jtkpssydlili4z4mqws/app.bsky.feed.post/3mtkqtcnbtk2j",
-          "sentiment": -0.8
         }
       ],
       "youtube": [
