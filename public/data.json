@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T09:51:08.248Z",
+  "lastUpdated": "2026-08-23T10:17:49.371Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3150323232323233,
+      "overallSentiment": 0.3093353233830846,
       "newsSentiment": 0,
-      "socialSentiment": 0.1450969696969697,
+      "socialSentiment": 0.12800597014925374,
       "mentions": {
         "news": 7,
-        "social": 66,
+        "social": 67,
         "youtube": 1,
-        "total": 74
+        "total": 75
       },
       "news": [
         {
@@ -134,6 +134,14 @@
         }
       ],
       "social": [
+        {
+          "id": "29be433c97206a1b0e2b5cc1ea3e66f8689406bbbe18076b4831f4628f711b0e",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-23T10:00:32.249Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtqjsewya22h",
+          "sentiment": -1
+        },
         {
           "id": "be91048d033c02fbef7e18051411e25cb64e18a4153d28a82bcf128c154cf5bc",
           "authorHandle": "bartlojo.bsky.social",
