@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T05:24:53.889Z",
+  "lastUpdated": "2026-08-23T05:53:35.479Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3056952380952381,
+      "overallSentiment": 0.30508541666666666,
       "newsSentiment": 0,
-      "socialSentiment": 0.11708571428571428,
+      "socialSentiment": 0.11525624999999999,
       "mentions": {
         "news": 7,
-        "social": 63,
+        "social": 64,
         "youtube": 1,
-        "total": 71
+        "total": 72
       },
       "news": [
         {
@@ -134,6 +134,14 @@
         }
       ],
       "social": [
+        {
+          "id": "6f325cceabe01760954fbbed981488428d6dbbcc82503d16c0f820d0bd2d0c12",
+          "authorHandle": "itswanda.bsky.social",
+          "postText": "troyjackson.store/products/sup...",
+          "createdAt": "2026-08-23T05:35:46.951Z",
+          "uri": "at://did:plc:3kfqfbhhbp64oaixubs4qusw/app.bsky.feed.post/3mtq2yxk5vk2t",
+          "sentiment": 0
+        },
         {
           "id": "a1291b56941f3563daa0e58afd0494ee98daaf56c60673a18550e4092ea73532",
           "authorHandle": "officiallilsilver.bsky.social",
