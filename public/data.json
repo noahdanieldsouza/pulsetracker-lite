@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T19:30:42.463Z",
+  "lastUpdated": "2026-08-23T19:51:13.359Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.16352306148513043,
+      "overallSentiment": 0.167069845545977,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.31901746031746037,
+      "socialSentiment": 0.3296578125,
       "mentions": {
         "news": 2,
-        "social": 64,
+        "social": 65,
         "youtube": 29,
-        "total": 95
+        "total": 96
       },
       "news": [
         {
@@ -69,6 +69,14 @@
         }
       ],
       "social": [
+        {
+          "id": "968e5ae26f49932225372770cd322c48bde5517e325f8dc81842d65f6eec0af9",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "Donate now to elect Troy Jackson and Colin Allred!\n\nsecure.actblue.com/contribute/p...",
+          "createdAt": "2026-08-23T19:39:46.031Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtrk64qahk2w",
+          "sentiment": 1
+        },
         {
           "id": "c096ac78c68dee9fd50ea80e816452f89cde9017360a9aa6961f71ddcbed1639",
           "authorHandle": "paleredmoon.bsky.social",
