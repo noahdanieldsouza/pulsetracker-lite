@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T13:10:21.806Z",
+  "lastUpdated": "2026-08-23T13:11:41.302Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.09907962233169128,
+      "overallSentiment": 0.09735788064871671,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.12568714285714286,
+      "socialSentiment": 0.12052191780821918,
       "mentions": {
         "news": 2,
-        "social": 70,
+        "social": 73,
         "youtube": 29,
-        "total": 101
+        "total": 104
       },
       "news": [
         {
@@ -69,6 +69,30 @@
         }
       ],
       "social": [
+        {
+          "id": "3b3a117f2d1dcb450dd92bee55621ea4677749299fd86bab8f4a5f62ecb3b328",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-23T12:58:54.861Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtqtrdqsqc2c",
+          "sentiment": -0.3
+        },
+        {
+          "id": "29e7fdb183bacf3ee2129ce1435a9cb2b199bcff0a643069d4a84000b91e45d0",
+          "authorHandle": "mainenewsroom.com",
+          "postText": "8/23 More than 100 pack into Portland lounge to meet Maine Senate candidate Troy Jackson. \"Apparently, all those TV ads aren't doing their job because all of you are showing up,\" Jackson quipped. #maine #MEpolitics",
+          "createdAt": "2026-08-23T12:48:14.703068Z",
+          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mtqt6bgszn2l",
+          "sentiment": 0.6
+        },
+        {
+          "id": "2e787fe5f1168a5175adb90e08e2f020d90e32d5698a408f9bce7c4c76375217",
+          "authorHandle": "nannygoat7-11.bsky.social",
+          "postText": "youtube.com/shorts/S7RQa...",
+          "createdAt": "2026-08-23T12:34:43.206Z",
+          "uri": "at://did:plc:53wmc7ebavav4m2eywde5slu/app.bsky.feed.post/3mtqsg3dsvk2c",
+          "sentiment": -0.3
+        },
         {
           "id": "ad78370811ecfea88d23c0673d5ae1f669f383af5b7943b6605d4aa4f29e9ffc",
           "authorHandle": "hancockcountydems.bsky.social",
