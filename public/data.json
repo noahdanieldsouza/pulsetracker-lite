@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T01:00:48.335Z",
+  "lastUpdated": "2026-08-23T02:35:41.722Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2829029239766082,
+      "overallSentiment": 0.29234623655913977,
       "newsSentiment": 0,
-      "socialSentiment": 0.048708771929824556,
+      "socialSentiment": 0.07703870967741937,
       "mentions": {
         "news": 7,
-        "social": 57,
+        "social": 62,
         "youtube": 1,
-        "total": 65
+        "total": 70
       },
       "news": [
         {
@@ -134,6 +134,46 @@
         }
       ],
       "social": [
+        {
+          "id": "b669fb10782fc0faef8f386c5624cc9510656d2e08868904514d68bd042fb9c7",
+          "authorHandle": "protectuselections.bsky.social",
+          "postText": "Troy Jackson Shares Message to Elon Musk",
+          "createdAt": "2026-08-23T02:30:02.283027+00:00",
+          "uri": "at://did:plc:trhmwlm2uaan4pok23ajo4j2/app.bsky.feed.post/3mtpqmtb45t24",
+          "sentiment": 0
+        },
+        {
+          "id": "87e79c5d22e5f4f80140db3a60c7ef5551d8b780d06b9c37dcaa009c4085abc8",
+          "authorHandle": "hellwarden.bsky.social",
+          "postText": "Not usually one to donate much, but gonna give Troy Jackson 10 bucks cause fuck this  useless old bag.",
+          "createdAt": "2026-08-23T02:02:09.799Z",
+          "uri": "at://did:plc:vvwsqop5syvyax4vk3moajst/app.bsky.feed.post/3mtpp2y5pvk2q",
+          "sentiment": 1
+        },
+        {
+          "id": "780ba7289489b23bfa5dc93551d142efc768afa2548c0bd94a78110712c6583f",
+          "authorHandle": "davidtdorais.bsky.social",
+          "postText": "www.youtube.com/shorts/S7RQa...",
+          "createdAt": "2026-08-23T01:55:12.921Z",
+          "uri": "at://did:plc:w2jhtgd4vm4jdzjmnqioutme/app.bsky.feed.post/3mtpooklmi22m",
+          "sentiment": 0
+        },
+        {
+          "id": "c02801e09373911b169c65abfd8bd71d4d1daf792efa391a7a5106942340b74b",
+          "authorHandle": "beshearstan.bsky.social",
+          "postText": "Reupping this since its Republicans will be spending heavy money against progressives such as Troy Jackson and Abdul El Sayed \n\nsecure.actblue.com/donate/elsay...",
+          "createdAt": "2026-08-23T01:51:57.932Z",
+          "uri": "at://did:plc:r2wew37repqtwhf63wysczrn/app.bsky.feed.post/3mtpoiqn2j223",
+          "sentiment": 1
+        },
+        {
+          "id": "b9884c887250a671e27f46787b3719f6b065938df280dd4a48ed6bc91f245c6a",
+          "authorHandle": "cdl6229.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-23T01:06:46.394Z",
+          "uri": "at://did:plc:2vpfx7upbzftyzywtsx4pfwh/app.bsky.feed.post/3mtplxwph7c24",
+          "sentiment": 0
+        },
         {
           "id": "9aff8241ed8ff80e717a127921c44680b10ce7de8d0784885b0a445c62b361f7",
           "authorHandle": "gordong.bsky.social",
