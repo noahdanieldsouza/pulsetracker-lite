@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T08:22:49.373Z",
+  "lastUpdated": "2026-08-23T08:56:34.221Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.31423794871794875,
+      "overallSentiment": 0.3133154228855722,
       "newsSentiment": 0,
-      "socialSentiment": 0.14271384615384616,
+      "socialSentiment": 0.13994626865671642,
       "mentions": {
         "news": 7,
-        "social": 65,
+        "social": 67,
         "youtube": 1,
-        "total": 73
+        "total": 75
       },
       "news": [
         {
@@ -134,6 +134,22 @@
         }
       ],
       "social": [
+        {
+          "id": "be91048d033c02fbef7e18051411e25cb64e18a4153d28a82bcf128c154cf5bc",
+          "authorHandle": "bartlojo.bsky.social",
+          "postText": "www.youtube.com/watch?v=ZFoN...",
+          "createdAt": "2026-08-23T08:42:31.000Z",
+          "uri": "at://did:plc:xfd26ojzcyu346rtrt3lqfrh/app.bsky.feed.post/3mtqfguklys23",
+          "sentiment": -0.1
+        },
+        {
+          "id": "4f5bcd60422e350e747f326012e798ca18afbb3af4d6cf28e62e92abdb124dd8",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-23T08:39:17.073Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtqfb3mh5c2c",
+          "sentiment": 0.2
+        },
         {
           "id": "81bf131a2f587f58e3905b9f05f9315aba6bdbaa081877476a699271778d2245",
           "authorHandle": "noisyfearless.bsky.social",
