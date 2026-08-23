@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T10:17:49.371Z",
+  "lastUpdated": "2026-08-23T10:44:49.584Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3093353233830846,
+      "overallSentiment": 0.31003091787439613,
       "newsSentiment": 0,
-      "socialSentiment": 0.12800597014925374,
+      "socialSentiment": 0.1300927536231884,
       "mentions": {
         "news": 7,
-        "social": 67,
+        "social": 69,
         "youtube": 1,
-        "total": 75
+        "total": 77
       },
       "news": [
         {
@@ -134,6 +134,22 @@
         }
       ],
       "social": [
+        {
+          "id": "e529387010f728c7de26c15248e223fab9fbaea3022500d0ef069093d4bc16c9",
+          "authorHandle": "lordcollins.bsky.social",
+          "postText": "secure.actblue.com/donate/tj-em...",
+          "createdAt": "2026-08-23T10:27:51.988Z",
+          "uri": "at://did:plc:gceb2dvh6bcwktlgfikqax6w/app.bsky.feed.post/3mtqldaptts2j",
+          "sentiment": -0.2
+        },
+        {
+          "id": "43b6e1800510a8048d420d8726e1fed19587efc11bd53a5a289a4dbb1686fcd4",
+          "authorHandle": "indivisiblebangor.org",
+          "postText": "#MEPolitics \nJoin the Statewide Organizing Call this Friday Aug. 28th at 6:30PM. Troy will give an update on ways to get involved and share new resources. Can”t make it - no worries! Fill out the volunteer form at jacksonformaine.com/take-action for more info.\n\nwww.mobilize.us/jacksonforma...",
+          "createdAt": "2026-08-23T10:19:59.900Z",
+          "uri": "at://did:plc:c4o2vaalki2qgmekvrzmguix/app.bsky.feed.post/3mtqkv6ixdk2p",
+          "sentiment": 0.6
+        },
         {
           "id": "29be433c97206a1b0e2b5cc1ea3e66f8689406bbbe18076b4831f4628f711b0e",
           "authorHandle": "officiallilsilver.bsky.social",
