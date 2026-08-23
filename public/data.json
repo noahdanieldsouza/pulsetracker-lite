@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T16:58:44.420Z",
+  "lastUpdated": "2026-08-23T17:23:29.885Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.15153313881520777,
+      "overallSentiment": 0.15010360501567396,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.2830476923076923,
+      "socialSentiment": 0.2787590909090909,
       "mentions": {
         "news": 2,
-        "social": 66,
+        "social": 67,
         "youtube": 29,
-        "total": 97
+        "total": 98
       },
       "news": [
         {
@@ -69,6 +69,14 @@
         }
       ],
       "social": [
+        {
+          "id": "e803ec6a145ded7b0261b9be2d37e615ce966689f04ddae30472b3c50b6cb869",
+          "authorHandle": "jeremiah77002.bsky.social",
+          "postText": "Yeah. That's a backfire.",
+          "createdAt": "2026-08-23T17:17:45.671Z",
+          "uri": "at://did:plc:jsc7ypbb2ia65c4pllexovqo/app.bsky.feed.post/3mtrca73ke22h",
+          "sentiment": 0
+        },
         {
           "id": "a4fb606e41662e094871e90ae715fd70adfb69b04ce0e86fc10554dd3bfc2477",
           "authorHandle": "eoinhiggins.bsky.social",
