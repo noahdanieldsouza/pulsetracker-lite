@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T13:47:38.271Z",
+  "lastUpdated": "2026-08-23T14:04:16.197Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -44,9 +44,9 @@
       "socialSentiment": 0.15208591549295775,
       "mentions": {
         "news": 2,
-        "social": 71,
+        "social": 72,
         "youtube": 29,
-        "total": 102
+        "total": 103
       },
       "news": [
         {
@@ -69,6 +69,14 @@
         }
       ],
       "social": [
+        {
+          "id": "0e256ed2ddd7184541d47bed0a476e3374fb38a0088b16c2d5bcc0f234dc0d82",
+          "authorHandle": "johnfromalbany.bsky.social",
+          "postText": "",
+          "createdAt": "2026-08-23T14:03:51Z",
+          "uri": "at://did:plc:zz2exmalwds4p2amxa7amb3j/app.bsky.feed.post/3mtqxfihtqi24",
+          "sentiment": null
+        },
         {
           "id": "82bc8d78d447f05c4f5d7a58afd11e79575fdadcf899b66e1be8340716a6f691",
           "authorHandle": "gaylekate.bsky.social",
