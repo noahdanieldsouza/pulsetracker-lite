@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T11:31:08.485Z",
+  "lastUpdated": "2026-08-23T11:53:23.016Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.310687323943662,
+      "overallSentiment": 0.3063722222222222,
       "newsSentiment": 0,
-      "socialSentiment": 0.13206197183098592,
+      "socialSentiment": 0.11911666666666669,
       "mentions": {
         "news": 7,
-        "social": 71,
+        "social": 72,
         "youtube": 1,
-        "total": 79
+        "total": 80
       },
       "news": [
         {
@@ -134,6 +134,14 @@
         }
       ],
       "social": [
+        {
+          "id": "99387fa61447c677f460d444cc63d4b03ea4fdedc152e5618402375311fd4a62",
+          "authorHandle": "mattpb.bsky.social",
+          "postText": "The irony of Troy Jackson being an anti-Canadian worker, pro-tariffs guy... WOOF.",
+          "createdAt": "2026-08-23T11:33:55.082Z",
+          "uri": "at://did:plc:dlfk422nufhdwikldgfgebmc/app.bsky.feed.post/3mtqoze7utc2h",
+          "sentiment": -0.8
+        },
         {
           "id": "fdf518985d91184bfe4ab717b8a7de54c0284cafb6c75f21e9eee857300bd115",
           "authorHandle": "officiallilsilver.bsky.social",
