@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T18:35:39.168Z",
+  "lastUpdated": "2026-08-23T19:01:00.085Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.16384083112290007,
+      "overallSentiment": 0.162382345545977,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.3199707692307692,
+      "socialSentiment": 0.3155953125,
       "mentions": {
         "news": 2,
-        "social": 66,
+        "social": 65,
         "youtube": 29,
-        "total": 97
+        "total": 96
       },
       "news": [
         {
@@ -69,6 +69,14 @@
         }
       ],
       "social": [
+        {
+          "id": "4f0d8ed254885bd8b4a4f5bb96c8d96247e4b3b1400a6c8af1a4e69ed88d444d",
+          "authorHandle": "packfanbud.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-23T18:35:56.564Z",
+          "uri": "at://did:plc:yq5symmidwqg3g7nesqcar7h/app.bsky.feed.post/3mtrglyo7l22j",
+          "sentiment": 0
+        },
         {
           "id": "bf5ac7a4d2a6014a18047d9a00f40f146b6ee68cab197fc097f6b5636368002e",
           "authorHandle": "gyro.bsky.social",
@@ -580,22 +588,6 @@
           "createdAt": "2026-08-22T19:01:29.193Z",
           "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtoxkqtkm22w",
           "sentiment": 0
-        },
-        {
-          "id": "47e7ed755cc6828df3246c99ed3a0060736e223a77c791778f6440e251e269d3",
-          "authorHandle": "savedemocracy25.bsky.social",
-          "postText": "Love his grassroots campaign to unseat cowardly Collins, but would be cool if someone got him an EV painted with his name and campaign slogans on it\n\ntroyjacksonformaine.substack.com/p/no-campaig...",
-          "createdAt": "2026-08-22T19:00:51.623Z",
-          "uri": "at://did:plc:46gmbdzpw6mwauew6il3eeb3/app.bsky.feed.post/3mtoxjmz24s2r",
-          "sentiment": 0.7
-        },
-        {
-          "id": "fa831f88475ed697488c9f37baed8ff3eab05fa862ef2e0a1cff08ead5ecd142",
-          "authorHandle": "rfww.bsky.social",
-          "postText": "At what proportion would Susan Collins have to outspend Troy Jackson to win the Maine Senate seat?",
-          "createdAt": "2026-08-22T18:53:15.353Z",
-          "uri": "at://did:plc:ijkerhts4gbemsneo7owrazh/app.bsky.feed.post/3mtox3zuxss26",
-          "sentiment": -0.1
         }
       ],
       "youtube": [
