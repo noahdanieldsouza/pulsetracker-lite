@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T11:53:23.016Z",
+  "lastUpdated": "2026-08-23T12:29:14.774Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3063722222222222,
+      "overallSentiment": 0.308562380952381,
       "newsSentiment": 0,
-      "socialSentiment": 0.11911666666666669,
+      "socialSentiment": 0.12568714285714286,
       "mentions": {
         "news": 7,
-        "social": 72,
+        "social": 70,
         "youtube": 1,
-        "total": 80
+        "total": 78
       },
       "news": [
         {
@@ -134,6 +134,14 @@
         }
       ],
       "social": [
+        {
+          "id": "ad78370811ecfea88d23c0673d5ae1f669f383af5b7943b6605d4aa4f29e9ffc",
+          "authorHandle": "hancockcountydems.bsky.social",
+          "postText": "All right, y’all, let’s show up like THIS next weekend for Troy Jackson at our Machias Campaign office opening!",
+          "createdAt": "2026-08-23T12:03:41.556Z",
+          "uri": "at://did:plc:7expgbr42k6s436jjvpmr7al/app.bsky.feed.post/3mtqqolwtbk25",
+          "sentiment": 1
+        },
         {
           "id": "99387fa61447c677f460d444cc63d4b03ea4fdedc152e5618402375311fd4a62",
           "authorHandle": "mattpb.bsky.social",
@@ -685,30 +693,6 @@
           "createdAt": "2026-08-22T13:28:28.233Z",
           "uri": "at://did:plc:nmyy2lpg6wennog53lrfp7ox/app.bsky.feed.post/3mtoexbj3dc2o",
           "sentiment": -1
-        },
-        {
-          "id": "26652ed94bf6891b53faf8375730743b79ffef1a5cdc85cf06959ca8c6748840",
-          "authorHandle": "mialong.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-22T12:27:19.724Z",
-          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtobjwx2z223",
-          "sentiment": 0
-        },
-        {
-          "id": "704ce0e2e6283a66bff25e58f6ee7a4249767f592d39a53736ef34d88a4c8b9f",
-          "authorHandle": "newsjennifer.bsky.social",
-          "postText": "In Maine, where the locals are papering over the other guy’s name with the new candidate. You have to be impressed with the effort here- excellent work with the masking tape.",
-          "createdAt": "2026-08-22T12:14:32.549Z",
-          "uri": "at://did:plc:zrz33wwhanmexrbz7vmhu2xx/app.bsky.feed.post/3mtoat3d2gs2z",
-          "sentiment": 0.7783
-        },
-        {
-          "id": "56e232ff51eb8db6754efa619238af7d60eb0778b62e74e555ce6e55c77c2fa6",
-          "authorHandle": "teamrogers.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-22T11:59:14.512Z",
-          "uri": "at://did:plc:pkxey5un6idnniobmdqfbdfr/app.bsky.feed.post/3mto7xpssvs2f",
-          "sentiment": 0
         }
       ],
       "youtube": [
