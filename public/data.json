@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T20:16:00.396Z",
+  "lastUpdated": "2026-08-23T20:42:12.057Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.16863234554597697,
+      "overallSentiment": 0.17232582723789616,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.3343453125,
+      "socialSentiment": 0.34542575757575755,
       "mentions": {
         "news": 2,
-        "social": 65,
+        "social": 67,
         "youtube": 29,
-        "total": 96
+        "total": 98
       },
       "news": [
         {
@@ -69,6 +69,22 @@
         }
       ],
       "social": [
+        {
+          "id": "e592ebc3850778a9e127b23d3c845ceb2a95ff6abdaf651b246da79289d93389",
+          "authorHandle": "georgiarn.bsky.social",
+          "postText": "Many politicians start out as community organizers and city council members. Including  Obama, Mamdani, Troy Jackson, and Summer Lee.\n\nI see it as a great start for politicians that keep them grounded in their communities.",
+          "createdAt": "2026-08-23T20:41:10.289Z",
+          "uri": "at://did:plc:jjaxjsplodl2kfidnrehdurl/app.bsky.feed.post/3mtrnlwcyl22f",
+          "sentiment": 0.6
+        },
+        {
+          "id": "765f5c93c7cd204d0f8137a7fe0178f9d4e7159d812f830db9b46df1c762df1a",
+          "authorHandle": "bluspider.bsky.social",
+          "postText": "It’s the billionaire class vs. the rest of us. That’s why Troy Jackson is the only choice. | Opinion www.pressherald.com/2026/08/23/i...",
+          "createdAt": "2026-08-23T20:23:09.658Z",
+          "uri": "at://did:plc:7wdhq5hapza7awkgx7utnovv/app.bsky.feed.post/3mtrmlpqmxc2j",
+          "sentiment": 0.8
+        },
         {
           "id": "b1ea5ef1b62138cbd0ad03e6a9df40f68182d70b1c1b002d9478f546a82a5653",
           "authorHandle": "gaylekate.bsky.social",
