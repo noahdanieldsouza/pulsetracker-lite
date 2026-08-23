@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T20:42:12.057Z",
+  "lastUpdated": "2026-08-23T21:01:12.104Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.17232582723789616,
+      "overallSentiment": 0.1706072911305541,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.34542575757575755,
+      "socialSentiment": 0.34027014925373134,
       "mentions": {
         "news": 2,
-        "social": 67,
+        "social": 68,
         "youtube": 29,
-        "total": 98
+        "total": 99
       },
       "news": [
         {
@@ -69,6 +69,14 @@
         }
       ],
       "social": [
+        {
+          "id": "96560974010b3fb734a0ecefc085a04b0d0e436d90aa4b6a6cfb73ba04fcf67a",
+          "authorHandle": "jskjsk.bsky.social",
+          "postText": "youtube.com/shorts/S7RQa...",
+          "createdAt": "2026-08-23T20:47:51.734Z",
+          "uri": "at://did:plc:gscs7ggdlxbyt6loaolqkgdv/app.bsky.feed.post/3mtrnxv64pc2v",
+          "sentiment": 0
+        },
         {
           "id": "e592ebc3850778a9e127b23d3c845ceb2a95ff6abdaf651b246da79289d93389",
           "authorHandle": "georgiarn.bsky.social",
