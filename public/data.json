@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T21:01:12.104Z",
+  "lastUpdated": "2026-08-23T21:32:00.782Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1706072911305541,
+      "overallSentiment": 0.16248873896385138,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.34027014925373134,
+      "socialSentiment": 0.31591449275362316,
       "mentions": {
         "news": 2,
-        "social": 68,
+        "social": 70,
         "youtube": 29,
-        "total": 99
+        "total": 101
       },
       "news": [
         {
@@ -69,6 +69,22 @@
         }
       ],
       "social": [
+        {
+          "id": "56ef428af71a8f3ec6c9902b9c9126d626ccfe40c68d3ae5cb8887f3b99cdd56",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-23T21:12:08.404Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtrpdce3322o",
+          "sentiment": -1
+        },
+        {
+          "id": "87958f05a733852b9b623576692262f73d5be8698da118b967d3c8bdbf01be46",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "Sen. Bernie Sanders said California’s proposed 5% billionaire wealth tax leads 48%-41% despite $156 million spent against it. Maine Democratic U.S. Senate nominee Troy Jackson blasted Susan Collins for voting against an amendment aimed at stopping Trump’s tariffs from raising costs.",
+          "createdAt": "2026-08-23T21:12:02.338Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mtrpd4l5422j",
+          "sentiment": 0
+        },
         {
           "id": "96560974010b3fb734a0ecefc085a04b0d0e436d90aa4b6a6cfb73ba04fcf67a",
           "authorHandle": "jskjsk.bsky.social",
