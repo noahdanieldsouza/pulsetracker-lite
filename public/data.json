@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T23:52:59.990Z",
+  "lastUpdated": "2026-08-23T01:00:48.335Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.29876833333333336,
+      "overallSentiment": 0.2829029239766082,
       "newsSentiment": 0,
-      "socialSentiment": 0.096305,
+      "socialSentiment": 0.048708771929824556,
       "mentions": {
         "news": 7,
-        "social": 60,
+        "social": 57,
         "youtube": 1,
-        "total": 68
+        "total": 65
       },
       "news": [
         {
@@ -134,6 +134,14 @@
         }
       ],
       "social": [
+        {
+          "id": "9aff8241ed8ff80e717a127921c44680b10ce7de8d0784885b0a445c62b361f7",
+          "authorHandle": "gordong.bsky.social",
+          "postText": "Troy Jackson: Sane\nDonald Trump: Insane\nSusan Collins: Concerned\nMaine: Time to choose",
+          "createdAt": "2026-08-23T00:46:05.310Z",
+          "uri": "at://did:plc:mz3cnmyrh66wuxsgvrbsl7hl/app.bsky.feed.post/3mtpksx4m3k2a",
+          "sentiment": -0.4019
+        },
         {
           "id": "d60b1cd02d990ff082c8b300b3b5eb02abf04744e23f8497264380138c751406",
           "authorHandle": "kidsandpets.bsky.social",
@@ -581,38 +589,6 @@
           "createdAt": "2026-08-22T03:10:46.695Z",
           "uri": "at://did:plc:rkt5ckdy3wxfmttux7xnsrli/app.bsky.feed.post/3mtncgqur3c2b",
           "sentiment": 0
-        },
-        {
-          "id": "dcebc2491325c52db47faef4d9d7ddd86033902dd0248a570a683a2091cc4eb2",
-          "authorHandle": "bostonmapper.bsky.social",
-          "postText": "I'm attending Jackson for Maine's event, “Statewide Organizing Call with Troy” - sign up now to join me!  www.mobilize.us/jacksonforma...",
-          "createdAt": "2026-08-22T00:43:27.146Z",
-          "uri": "at://did:plc:3nrjojdlab3qv5rxhocbwsrl/app.bsky.feed.post/3mtn27ct3zs22",
-          "sentiment": 0.7
-        },
-        {
-          "id": "0025bfbc75718012618d745e3b4ca0ee9197ea2eda76e9bc646c158cfe089ca1",
-          "authorHandle": "dharmalee3.bsky.social",
-          "postText": "Troy Jackson Joins the Find Out Podcast\nfindoutmedia.substack.com/p/troy-jacks...",
-          "createdAt": "2026-08-22T00:34:08.825Z",
-          "uri": "at://did:plc:y3wyn2keqln5hdywt7btznbj/app.bsky.feed.post/3mtmzooegq22j",
-          "sentiment": 0.5
-        },
-        {
-          "id": "7ad0c1351667cf70fc8e52c3e32c061072d0d815c875fd9b55cebede9a705b50",
-          "authorHandle": "admcrlsn.bsky.social",
-          "postText": "Ok here’s a link where you can split your donations between the 7 Democratic Senate candidates who will determine the majority:\n\nMary Peltola (AK)\nJosh Turek (IA)\nTroy Jackson (ME)\nAbdul El-Sayed (MI)\nRoy Cooper (NC)\nSherrod Brown (OH)\nJames Talarico (TX)\n\nsecure.actblue.com/donate/2026s...",
-          "createdAt": "2026-08-22T00:26:17.035Z",
-          "uri": "at://did:plc:hps655narq2o4z2xcixwnzhn/app.bsky.feed.post/3mtmzamgo7k2w",
-          "sentiment": 0.6
-        },
-        {
-          "id": "5cf7834189b32387b9af2dad052bd56765386b4dc6961b82559544e801d82a4b",
-          "authorHandle": "infoscientists.bsky.social",
-          "postText": "@atrupar.com anything you have on the Troy Jackson vs, Sen. Susan Collins. Critical vote for my friends who support Troy Jackson. Put us over the top. \nLove from us workers.",
-          "createdAt": "2026-08-22T00:09:16.652Z",
-          "uri": "at://did:plc:exk3y4mtcamjlh4hymlefwoy/app.bsky.feed.post/3mtmyc7cwjs2k",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
