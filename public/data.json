@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T15:19:14.268Z",
+  "lastUpdated": "2026-08-23T15:41:29.868Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1279433952254642,
+      "overallSentiment": 0.12636623127830024,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.21227846153846155,
+      "socialSentiment": 0.2075469696969697,
       "mentions": {
         "news": 2,
-        "social": 66,
+        "social": 67,
         "youtube": 29,
-        "total": 97
+        "total": 98
       },
       "news": [
         {
@@ -69,6 +69,22 @@
         }
       ],
       "social": [
+        {
+          "id": "9fb2020f7dfcf3c9d6e0d41ed9ecfe3ea9a70066f5e2fa72b41e6d0787058843",
+          "authorHandle": "jpylko.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-23T15:34:19.043Z",
+          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mtr4h7yb7s2d",
+          "sentiment": -0.1
+        },
+        {
+          "id": "01ab36950cf3268d9d7965e90edb61071214e6b1729a29886af97de4a374e605",
+          "authorHandle": "toddd34.bsky.social",
+          "postText": "Mainers 'want a change’: Democratic Candidate Troy Jackson reflects on must-watch ME Senate race - YouTube www.youtube.com/watch?v=ZFoN...\n#TroyJacksonForSenate",
+          "createdAt": "2026-08-23T15:29:02.876Z",
+          "uri": "at://did:plc:4tjzzczulba6sjkv7iueu4db/app.bsky.feed.post/3mtr45shlfs2t",
+          "sentiment": 0.3
+        },
         {
           "id": "fec23fdabc7a6143fcb497e52718079572361d6b2301ee07605b27293d99685a",
           "authorHandle": "forestcronebears.bsky.social",
@@ -588,14 +604,6 @@
           "createdAt": "2026-08-22T15:44:36.591Z",
           "uri": "at://did:plc:7xaaruvcg4pqbloh4ujvwyje/app.bsky.feed.post/3mtomkphlgs2n",
           "sentiment": 0
-        },
-        {
-          "id": "2db54e9f4e2d655662d20b0fdf511452af777bc941c89a593f4c79cded047c7b",
-          "authorHandle": "collinswatch.bsky.social",
-          "postText": "Troy Jackson doesn't need the kind of money Talarico needs and he was actually 3rd on Act Blue for July...but he has some catching up to do since he basically just joined the race. #MEpolitics",
-          "createdAt": "2026-08-22T15:40:24.519Z",
-          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3mtomd73b5c2w",
-          "sentiment": 0.3
         }
       ],
       "youtube": [
