@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T16:37:55.711Z",
+  "lastUpdated": "2026-08-23T16:58:44.420Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.145194845545977,
+      "overallSentiment": 0.15153313881520777,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.2640328125,
+      "socialSentiment": 0.2830476923076923,
       "mentions": {
         "news": 2,
-        "social": 65,
+        "social": 66,
         "youtube": 29,
-        "total": 96
+        "total": 97
       },
       "news": [
         {
@@ -69,6 +69,22 @@
         }
       ],
       "social": [
+        {
+          "id": "a4fb606e41662e094871e90ae715fd70adfb69b04ce0e86fc10554dd3bfc2477",
+          "authorHandle": "eoinhiggins.bsky.social",
+          "postText": "right-wing outlet the Maine Wire tries to slam Troy Jackson but this is a backfire imo",
+          "createdAt": "2026-08-23T16:42:57.806Z",
+          "uri": "at://did:plc:au53gk265ykqxctmavcoljrn/app.bsky.feed.post/3mtrabxwyo22k",
+          "sentiment": 0.7
+        },
+        {
+          "id": "3144717e29642768bef4ae93f979225c6448ae79cc6f992ac9276aad922c0386",
+          "authorHandle": "randyschwartz09.bsky.social",
+          "postText": "It’s the billionaire class vs. the rest of us. That’s why Troy Jackson is the only choice. | Opinion www.pressherald.com/2026/08/23/i...",
+          "createdAt": "2026-08-23T16:40:17.257Z",
+          "uri": "at://did:plc:36aw6h3a63aok25lnkzcjh5i/app.bsky.feed.post/3mtra56thj22w",
+          "sentiment": 0.8
+        },
         {
           "id": "e8e4c48363828d7d86039a31a49288a7270bf4e33c0b49955c43867ace218aac",
           "authorHandle": "kidsandpets.bsky.social",
@@ -580,14 +596,6 @@
           "createdAt": "2026-08-22T17:32:42.210Z",
           "uri": "at://did:plc:bo765vtemylthry5svvy75ol/app.bsky.feed.post/3mtoslymxqk2e",
           "sentiment": 0.5
-        },
-        {
-          "id": "c5354c00d954e1c1c8d4f33737b9460a336282cefea14afb539cc4382b2944b2",
-          "authorHandle": "malachydiscontent.bsky.social",
-          "postText": "CLEAR SAILING IN MAINE: Although Maine has consistently backed Democratic presidential candidates in recent elections, Republican Sen. Susan Collins is seeking another term against Democratic nominee Troy Jackson in what has become a closely contested race.",
-          "createdAt": "2026-08-22T16:49:10.850Z",
-          "uri": "at://did:plc:sn74lrgzkisufdz4qocqf2rq/app.bsky.feed.post/3mtoq66amhs2j",
-          "sentiment": 0
         }
       ],
       "youtube": [
