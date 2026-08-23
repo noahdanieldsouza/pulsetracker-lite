@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T14:35:12.513Z",
+  "lastUpdated": "2026-08-23T14:56:18.437Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.11090579859324068,
+      "overallSentiment": 0.11525512016718913,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.16116567164179105,
+      "socialSentiment": 0.17421363636363635,
       "mentions": {
         "news": 2,
-        "social": 68,
+        "social": 67,
         "youtube": 29,
-        "total": 99
+        "total": 98
       },
       "news": [
         {
@@ -69,6 +69,14 @@
         }
       ],
       "social": [
+        {
+          "id": "b96b1ff6ef2c036acf43f498189efea4b94ecdfc570b52e24852c85f1e34657c",
+          "authorHandle": "arepublic86.bsky.social",
+          "postText": "And Troy Jackson in Maine, and Dr. Annie Andrews in S. Carolina. We could flip the Senate!",
+          "createdAt": "2026-08-23T14:51:50.998Z",
+          "uri": "at://did:plc:vz3gs36c5xyidrrd4ucmrdmu/app.bsky.feed.post/3mtr23by32c2j",
+          "sentiment": 0.7
+        },
         {
           "id": "0e256ed2ddd7184541d47bed0a476e3374fb38a0088b16c2d5bcc0f234dc0d82",
           "authorHandle": "johnfromalbany.bsky.social",
@@ -596,22 +604,6 @@
           "createdAt": "2026-08-22T15:07:09.520Z",
           "uri": "at://did:plc:kb723pr2gmkn2vi3nw6we66w/app.bsky.feed.post/3mtokhqif6s2w",
           "sentiment": -0.3
-        },
-        {
-          "id": "985f5b3593d5362a771dd4fc0bee21f1ac4b62271fbd8a8c50870be2a9172505",
-          "authorHandle": "chocilate.bsky.social",
-          "postText": "Lmao apparently janet mills declined to endorse troy jackson",
-          "createdAt": "2026-08-22T14:45:37.214Z",
-          "uri": "at://did:plc:shd4xfadlt5elljb2b2rvgyt/app.bsky.feed.post/3mtojba2elk2b",
-          "sentiment": -1
-        },
-        {
-          "id": "eac9dc95d3f2c14b751b785c658cff361fd78de8bddb3244095391db8a4e48ff",
-          "authorHandle": "philindigo.bsky.social",
-          "postText": "Mine and my business's list for candidate support.\n1. Mary Peltola AK.\n2. John Ossoff GA.\n3. Roy Cooper NC.\n4. David Crowley WI\n5. James Talarico TX\n6. Sherrod Brown OH\n7. Joshua Turek IA\n8. Troy Jackson ME\n9. Cait Conley NY\n10.Jared Moskowitz FL\n Still considering and adding more.",
-          "createdAt": "2026-08-22T14:39:13.212Z",
-          "uri": "at://did:plc:sprl4q6axuecb5joojj2azeq/app.bsky.feed.post/3mtoivrtlmc2l",
-          "sentiment": 1
         }
       ],
       "youtube": [
