@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T10:44:49.584Z",
+  "lastUpdated": "2026-08-23T11:01:38.095Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -59,14 +59,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.31003091787439613,
+      "overallSentiment": 0.31369714285714284,
       "newsSentiment": 0,
-      "socialSentiment": 0.1300927536231884,
+      "socialSentiment": 0.14109142857142856,
       "mentions": {
         "news": 7,
-        "social": 69,
+        "social": 70,
         "youtube": 1,
-        "total": 77
+        "total": 78
       },
       "news": [
         {
@@ -134,6 +134,14 @@
         }
       ],
       "social": [
+        {
+          "id": "d982bc099f43f7a4522802b2c7b3c0a249e571bd3715be6a72b843d39213fdb1",
+          "authorHandle": "pressherald.com",
+          "postText": "It’s the billionaire class vs. the rest of us. That’s why Troy Jackson is the only choice. | Opinion",
+          "createdAt": "2026-08-23T11:00:51+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtqn6ajuws2g",
+          "sentiment": 0.9
+        },
         {
           "id": "e529387010f728c7de26c15248e223fab9fbaea3022500d0ef069093d4bc16c9",
           "authorHandle": "lordcollins.bsky.social",
