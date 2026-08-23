@@ -1,30 +1,20 @@
 {
-  "lastUpdated": "2026-08-23T12:29:14.774Z",
+  "lastUpdated": "2026-08-23T12:32:11.781Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -1,
-      "newsSentiment": -1,
+      "overallSentiment": null,
+      "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
-      "news": [
-        {
-          "id": "b8fdbd5a8cbc3918bcb9b4d5594255ee799851ee718035a7feb180d77e0ddc77",
-          "title": "See how fast money poured in after Troy Jackson’s Senate nomination",
-          "description": "It's the first detailed look at the money Troy Jackson has pulled in since he emerged as Graham Platner's replacement.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/08/21/politics/elections/maine-election-senate-2026-troy-jackson-fundraising-actblue/",
-          "publishedAt": "2026-08-21T17:27:59.000Z",
-          "sentiment": -1
-        }
-      ],
+      "news": [],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -32,26 +22,16 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0,
-      "newsSentiment": 0,
+      "overallSentiment": null,
+      "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
-      "news": [
-        {
-          "id": "950a615cf32f4f558575429915a5bc7e322811fe826277a6d8349b32b5fd51cb",
-          "title": "See how fast money poured in after Troy Jackson’s Senate nomination",
-          "description": "It's the first detailed look at the money Troy Jackson has pulled in since he emerged as Graham Platner's replacement.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/08/21/politics/elections/maine-election-senate-2026-troy-jackson-fundraising-actblue/",
-          "publishedAt": "2026-08-21T17:27:59.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -59,77 +39,32 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.308562380952381,
-      "newsSentiment": 0,
+      "overallSentiment": 0.3002290476190476,
+      "newsSentiment": -0.025,
       "socialSentiment": 0.12568714285714286,
       "mentions": {
-        "news": 7,
+        "news": 2,
         "social": 70,
         "youtube": 1,
-        "total": 78
+        "total": 73
       },
       "news": [
         {
-          "id": "3d3b8a3e65f8e619469b947132c953a288c354ec7ad49c6a4110ee13d6948131",
-          "title": "Letter: Vote Democrat in Maine’s U.S. Senate race to restrain Donald Trump",
-          "description": "“It’s time to elect Democrat Troy Jackson to help restore the balance of power in our government and to rein in Trump’s unconstitutional behavior.”",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4843022787280-letter-vote-democrat-in-maine-s-u-s-senate-race-to-restrain-donald-trump",
-          "publishedAt": "2026-08-22T00:00:00.000Z",
-          "sentiment": 1
+          "id": "2f2a48da964eee821ca1cf8f33bbd2d9746ba8aabfc6ba9f08acd9ca8e18040b",
+          "title": "Susan Collins and Troy Jackson compete for votes on weekend campaign trail 73 days before Election Day",
+          "description": "Collins defends her voting record, opposes new Trump tariffs on Canada, and comments on Trump's and the Postal Service's plan to curtail mail-in voting.",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/susan-collins-troy-jackson-compete-votes-weekend-campaign-trail-73-days-before-election-day/97-d9147bbe-7583-45e9-9fd1-2a3a54bbb40b",
+          "publishedAt": "2026-08-22T23:07:19.000Z",
+          "sentiment": -0.05
         },
         {
-          "id": "406ee3017f295c9956e8c642c3d3aa8a3b19dee38ad9f0a96071374a380dc63a",
-          "title": "Medicare for All is back on the ballot",
-          "description": "Medicare for All would replace private insurance with costly government-run care, higher taxes, lower provider payments, and rationing.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/opinion/editorials/4695951/medicare-for-all-back-on-the-ballot/",
-          "publishedAt": "2026-08-21T19:37:51.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cd89811b89b38cc0a2eb5e4d82643e7c4da0761ccd808aa9a71b4a7ab36bdfb3",
-          "title": "Seeking to flip Senate, Democrats are running ads to criticize some of their own",
-          "description": "Democrats seeking Senate seats in some states, including Alaska, are taking aim at party leadership — and even supporting Republican policies.",
-          "sourceName": "Adn",
-          "url": "https://www.adn.com/nation-world/2026/08/21/seeking-to-flip-senate-democrats-are-running-ads-to-criticize-some-of-their-own/",
-          "publishedAt": "2026-08-21T18:34:31.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e09a13d8b1670086e85e206a4f1fb4e0b5b6c5837f3db1106258f8d3a4b3d48a",
-          "title": "See how fast money poured in after Troy Jackson’s Senate nomination",
-          "description": "It's the first detailed look at the money Troy Jackson has pulled in since he emerged as Graham Platner's replacement.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/08/21/politics/elections/maine-election-senate-2026-troy-jackson-fundraising-actblue/",
-          "publishedAt": "2026-08-21T17:27:59.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7e8e8a762786a4b4eb06af621f9df56780eb0384de1347f846ff0f99137330c2",
-          "title": "For Republicans to win this fall, GOP must win over reluctant Trump 2024 supporters",
-          "description": "The victories of far-left Senate Democratic candidates like Abdul El-Sayed in Michigan, Troy Jackson in Maine, Peggy Flanagan in Minnesota and others in assorted House districts give Republicans openings for the midterms, but only if handled correctly.",
-          "sourceName": "Norfolk Daily News",
-          "url": "https://norfolkdailynews.com/commentary/for-republicans-to-win-this-fall-gop-must-win-over-reluctant-trump-2024-supporters/article_916eb545-3cd1-484d-be8f-49fef5950044.html",
-          "publishedAt": "2026-08-21T16:02:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "102b00aaf79599f6fea481d4de4fbfcec9d7204aed71ba393dd9f95a8b63a5c1",
-          "title": "Republicans Dealt Quadruple Polling Blow in Race Against Abdul El-Sayed",
-          "description": "Abdul El-Sayed led four consecutive polls of the Michigan Senate race this week.",
-          "sourceName": "Newsweek",
-          "url": "https://www.newsweek.com/republicans-dealt-quadruple-polling-blow-race-against-abdul-el-sayed-12352792",
-          "publishedAt": "2026-08-21T16:01:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "eddfac6afcd5aab0b292982924d676d3788bf97614261e98bb591c76a40b81e9",
-          "title": "Republicans dealt quadruple polling blow in race against Abdul El-Sayed",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/republicans-dealt-quadruple-polling-blow-in-race-against-abdul-el-sayed-4341AAD2-2BBE-409C-8E90-4D2BDB2C279E",
-          "publishedAt": "2026-08-21T16:01:30.000Z",
+          "id": "4cfe6da5fe42de8a5aa149696cfbc9fb3173abbc69adead1c46ff4118c1a80d4",
+          "title": "Democrats found their border message. ICE is another story.",
+          "description": "They’re trying to balance a base furious at ICE with swing voters wary of abolishing the agency — a divide that could influence the midterms and the party’s path in 2028.",
+          "sourceName": "Politico",
+          "url": "https://www.politico.com/news/2026/08/22/democrats-ice-midterms-01045482",
+          "publishedAt": "2026-08-22T13:00:00.000Z",
           "sentiment": 0
         }
       ],
@@ -712,26 +647,16 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.3,
-      "newsSentiment": -0.1,
+      "overallSentiment": 0.7,
+      "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 0,
         "youtube": 8,
-        "total": 9
+        "total": 8
       },
-      "news": [
-        {
-          "id": "db40ca1275fcd1a45b566b6adc71d69bd74c36c3189c11bcd6a7b7822757179f",
-          "title": "See how fast money poured in after Troy Jackson’s Senate nomination",
-          "description": "It's the first detailed look at the money Troy Jackson has pulled in since he emerged as Graham Platner's replacement.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/08/21/politics/elections/maine-election-senate-2026-troy-jackson-fundraising-actblue/",
-          "publishedAt": "2026-08-21T17:27:59.000Z",
-          "sentiment": -0.1
-        }
-      ],
+      "news": [],
       "social": [],
       "youtube": [
         {
