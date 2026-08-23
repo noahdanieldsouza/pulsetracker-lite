@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T22:16:05.192Z",
+  "lastUpdated": "2026-08-23T22:41:14.136Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.15973826702033597,
+      "overallSentiment": 0.14821923142906154,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.3076630769230769,
+      "socialSentiment": 0.27310597014925364,
       "mentions": {
         "news": 2,
-        "social": 66,
+        "social": 68,
         "youtube": 29,
-        "total": 97
+        "total": 99
       },
       "news": [
         {
@@ -69,6 +69,30 @@
         }
       ],
       "social": [
+        {
+          "id": "911dc9a23963eb4f9bcc504c3dcba631b1fc60f35db22941a2888fedb9052061",
+          "authorHandle": "upstract.com.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-08-23T22:30:47.000Z",
+          "uri": "at://did:plc:xc32dedgv3ceunwz2nrseso4/app.bsky.feed.post/3mtrtz2qjnpx2",
+          "sentiment": -0.8
+        },
+        {
+          "id": "0fcf114a5ba7f1a3b68b6b1965e2918fe60bb6b1231f14b8170182b95d239416",
+          "authorHandle": "melindamosheim.bsky.social",
+          "postText": "Maine: i hope you guys will vote for Troy Jackson!!!! Here in Houston we are voting for progressive Dem James Talarico! Let's fix our Senate, our USG and our country!",
+          "createdAt": "2026-08-23T22:28:29.976Z",
+          "uri": "at://did:plc:qei5uz2wtsilvtuo6nmoufai/app.bsky.feed.post/3mtrtltojis2y",
+          "sentiment": 0.7
+        },
+        {
+          "id": "0d5d5bff6d6aaf06aee0cd6f3d2354c92fa6f092f930b552d3bb896819c7e756",
+          "authorHandle": "bsfavourite.bsky.social",
+          "postText": "Yikes: Troy Jackson Hands Susan Collins Some Gifts in Maine Senate Race #RedState",
+          "createdAt": "2026-08-23T22:27:40Z",
+          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mtrtkemukv2o",
+          "sentiment": -0.6
+        },
         {
           "id": "56ef428af71a8f3ec6c9902b9c9126d626ccfe40c68d3ae5cb8887f3b99cdd56",
           "authorHandle": "ajr68.bsky.social",
@@ -588,14 +612,6 @@
           "createdAt": "2026-08-22T22:49:52.347Z",
           "uri": "at://did:plc:f77kvodlaoji2c5lyrsw7xdy/app.bsky.feed.post/3mtped56nvs25",
           "sentiment": 0
-        },
-        {
-          "id": "bc20c8bb9d9cc8a2d208935a4a11d40e0f6e8141b5d8c0f5bdbabb96664d3add",
-          "authorHandle": "beautifulsongs.xyz",
-          "postText": "Yes, we need more people like Troy Jackson. Together we gonna make Elon Musk pay.",
-          "createdAt": "2026-08-22T22:37:33.058Z",
-          "uri": "at://did:plc:3q2jfiphitk64wtdymsv2i7t/app.bsky.feed.post/3mtpdn45exs2c",
-          "sentiment": 1
         }
       ],
       "youtube": [
