@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T19:51:13.359Z",
+  "lastUpdated": "2026-08-23T20:16:00.396Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.167069845545977,
+      "overallSentiment": 0.16863234554597697,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.3296578125,
+      "socialSentiment": 0.3343453125,
       "mentions": {
         "news": 2,
         "social": 65,
@@ -69,6 +69,14 @@
         }
       ],
       "social": [
+        {
+          "id": "b1ea5ef1b62138cbd0ad03e6a9df40f68182d70b1c1b002d9478f546a82a5653",
+          "authorHandle": "gaylekate.bsky.social",
+          "postText": "youtube.com/shorts/S7RQa...",
+          "createdAt": "2026-08-23T19:51:47.868Z",
+          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mtrktn4zec2x",
+          "sentiment": 0
+        },
         {
           "id": "968e5ae26f49932225372770cd322c48bde5517e325f8dc81842d65f6eec0af9",
           "authorHandle": "officiallilsilver.bsky.social",
@@ -580,14 +588,6 @@
           "createdAt": "2026-08-22T21:38:49.119Z",
           "uri": "at://did:plc:sd2lrtzfdu4niijaakd7ogvs/app.bsky.feed.post/3mtpae3hcc22t",
           "sentiment": 0
-        },
-        {
-          "id": "dda737392236ca6ea817e771dfc9371ff7e4f9b2be4bfbd599f49a504e2980c9",
-          "authorHandle": "timothypmurphy.bsky.social",
-          "postText": "ironically, given that every republican senate candidate in a close race is going to get rocked by this stuff, the one senate candidate who actually did sort of embark on a personal economic war with canadians is troy jackson",
-          "createdAt": "2026-08-22T19:56:46.683Z",
-          "uri": "at://did:plc:a6cpwkh7y5pdvb6h5etbttwl/app.bsky.feed.post/3mtp2nmndvs27",
-          "sentiment": -0.3
         }
       ],
       "youtube": [
