@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T00:58:20.073Z",
+  "lastUpdated": "2026-08-24T02:23:45.707Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1506182514803204,
+      "overallSentiment": 0.13806626098715347,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.2803030303030303,
+      "socialSentiment": 0.2426470588235294,
       "mentions": {
         "news": 2,
-        "social": 67,
+        "social": 69,
         "youtube": 29,
-        "total": 98
+        "total": 100
       },
       "news": [
         {
@@ -69,6 +69,54 @@
         }
       ],
       "social": [
+        {
+          "id": "e2c4a6ea6ac021c4c6be89bd4c14261d3db79cde6cd8c87df61b52a789641a32",
+          "authorHandle": "fooliticscom.bsky.social",
+          "postText": "foolitics.com/troy-jackson...",
+          "createdAt": "2026-08-24T02:20:24.387Z",
+          "uri": "at://did:plc:bb67wqwlg4ieufrr5apthcqx/app.bsky.feed.post/3mtsakjinik2c",
+          "sentiment": -1
+        },
+        {
+          "id": "bc4079a4d061d8d089745281963606414e7bc838fd4b47006f2dd65d5f9c99e9",
+          "authorHandle": "joss17.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-24T02:19:40.461Z",
+          "uri": "at://did:plc:plbe64qk3vk7ihy3z2pivshc/app.bsky.feed.post/3mtsaj7m5yc2d",
+          "sentiment": 0
+        },
+        {
+          "id": "70896d92d2219a479d106f2ac03c17e545228974f38e165d39061cffcf7b1e65",
+          "authorHandle": "kidsandpets.bsky.social",
+          "postText": "www.wmtw.com/article/troy...",
+          "createdAt": "2026-08-24T02:18:36.495Z",
+          "uri": "at://did:plc:f77kvodlaoji2c5lyrsw7xdy/app.bsky.feed.post/3mtsahcm36s2d",
+          "sentiment": 0
+        },
+        {
+          "id": "3fa10b8d7687b4ea0fc3135be919934d8b72487b1561c5c851fc2f11f69e64bf",
+          "authorHandle": "lulum0llie.bsky.social",
+          "postText": "youtube.com/shorts/S7RQa...",
+          "createdAt": "2026-08-24T01:55:35.860Z",
+          "uri": "at://did:plc:ejhjtedr74ygv45cadd2tl7k/app.bsky.feed.post/3mts765wgt22u",
+          "sentiment": 0
+        },
+        {
+          "id": "f3bce1439c463b46add8f9c851a1ef12ee2bca478f8c2103543d798be98fc06d",
+          "authorHandle": "parforthecourse1.bsky.social",
+          "postText": "Mainers ‘want a change’: Democratic Candidate Troy Jackson reflects on must-watch ME Senate race   www.ms.now/the-weekend/...",
+          "createdAt": "2026-08-24T01:25:19.931Z",
+          "uri": "at://did:plc:drpp7jxpl3ojz2m3pon2zdpq/app.bsky.feed.post/3mts5i24nok2m",
+          "sentiment": 1
+        },
+        {
+          "id": "ae3785459cc0f454b4e2a6559eca2f32623bd70c2d70c3cc6aa2ee25702ffa86",
+          "authorHandle": "mainewomenforward.bsky.social",
+          "postText": "Machias, Maine\nRegister here if you're able to join our canvassing - whether you're able to knock doors OR drive a canvasser so they can reach more voters OR volunteer to help staff the office, we NEED you!\nwww.mobilize.us/mainecoordin...",
+          "createdAt": "2026-08-24T01:10:36.131Z",
+          "uri": "at://did:plc:2ff543gpjcs565cqlxpd3hlc/app.bsky.feed.post/3mts4npbaps2l",
+          "sentiment": 0
+        },
         {
           "id": "441dd9a3c7d049fef69b1cf40b3f34caac4ee6ac1057dc866abf38f772bf1f80",
           "authorHandle": "andrewdlinden.bsky.social",
@@ -571,38 +619,6 @@
           "postText": "Troy Jackson Shares Message to Elon Musk",
           "createdAt": "2026-08-23T02:30:02.283027+00:00",
           "uri": "at://did:plc:trhmwlm2uaan4pok23ajo4j2/app.bsky.feed.post/3mtpqmtb45t24",
-          "sentiment": 0
-        },
-        {
-          "id": "87e79c5d22e5f4f80140db3a60c7ef5551d8b780d06b9c37dcaa009c4085abc8",
-          "authorHandle": "hellwarden.bsky.social",
-          "postText": "Not usually one to donate much, but gonna give Troy Jackson 10 bucks cause fuck this  useless old bag.",
-          "createdAt": "2026-08-23T02:02:09.799Z",
-          "uri": "at://did:plc:vvwsqop5syvyax4vk3moajst/app.bsky.feed.post/3mtpp2y5pvk2q",
-          "sentiment": 1
-        },
-        {
-          "id": "780ba7289489b23bfa5dc93551d142efc768afa2548c0bd94a78110712c6583f",
-          "authorHandle": "davidtdorais.bsky.social",
-          "postText": "www.youtube.com/shorts/S7RQa...",
-          "createdAt": "2026-08-23T01:55:12.921Z",
-          "uri": "at://did:plc:w2jhtgd4vm4jdzjmnqioutme/app.bsky.feed.post/3mtpooklmi22m",
-          "sentiment": 0
-        },
-        {
-          "id": "c02801e09373911b169c65abfd8bd71d4d1daf792efa391a7a5106942340b74b",
-          "authorHandle": "beshearstan.bsky.social",
-          "postText": "Reupping this since its Republicans will be spending heavy money against progressives such as Troy Jackson and Abdul El Sayed \n\nsecure.actblue.com/donate/elsay...",
-          "createdAt": "2026-08-23T01:51:57.932Z",
-          "uri": "at://did:plc:r2wew37repqtwhf63wysczrn/app.bsky.feed.post/3mtpoiqn2j223",
-          "sentiment": 1
-        },
-        {
-          "id": "b9884c887250a671e27f46787b3719f6b065938df280dd4a48ed6bc91f245c6a",
-          "authorHandle": "cdl6229.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-23T01:06:46.394Z",
-          "uri": "at://did:plc:2vpfx7upbzftyzywtsx4pfwh/app.bsky.feed.post/3mtplxwph7c24",
           "sentiment": 0
         }
       ],
