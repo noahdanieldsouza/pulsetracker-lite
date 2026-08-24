@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T21:12:58.783Z",
+  "lastUpdated": "2026-08-24T21:46:13.126Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -65,14 +65,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1576365663322185,
+      "overallSentiment": 0.1466955579631636,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.16521739130434782,
+      "socialSentiment": 0.1323943661971831,
       "mentions": {
         "news": 13,
-        "social": 69,
+        "social": 71,
         "youtube": 13,
-        "total": 95
+        "total": 97
       },
       "news": [
         {
@@ -194,6 +194,22 @@
         }
       ],
       "social": [
+        {
+          "id": "b0fdeda53b3bb03441584ae838f116e4a85ff87e6d740438433600f2749ba135",
+          "authorHandle": "myrame61.bsky.social",
+          "postText": "youtu.be/wm4K8_j80P8?...",
+          "createdAt": "2026-08-24T21:19:38.384Z",
+          "uri": "at://did:plc:i2bp2nmrduisg6fperzv2swh/app.bsky.feed.post/3mtua7mx3os23",
+          "sentiment": -1
+        },
+        {
+          "id": "d62ed27a5cb6269c0cf69705a1c5cf27a10114de32f78e65af487ff3ffafd1e2",
+          "authorHandle": "yoclockface.bsky.social",
+          "postText": "Based on near zero record. This was a flippable seat, now it is lose lose. Talking is not fighting. www.politico.com/live-updates...",
+          "createdAt": "2026-08-24T21:18:10.486Z",
+          "uri": "at://did:plc:626hondgaubhlerdelzg5apb/app.bsky.feed.post/3mtua4z4nsc2n",
+          "sentiment": -1
+        },
         {
           "id": "30eb710ffd8bdd30584693cfbf2b79155b6b9e4385cf353f96ac08d6aaea2f47",
           "authorHandle": "freebklyn.bsky.social",
