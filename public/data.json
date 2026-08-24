@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T10:09:28.274Z",
+  "lastUpdated": "2026-08-24T10:52:07.155Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.13675380051909528,
+      "overallSentiment": 0.13635057471264364,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.23870967741935478,
+      "socialSentiment": 0.23749999999999993,
       "mentions": {
         "news": 2,
-        "social": 63,
+        "social": 65,
         "youtube": 29,
-        "total": 94
+        "total": 96
       },
       "news": [
         {
@@ -78,6 +78,38 @@
         }
       ],
       "social": [
+        {
+          "id": "cc0ce48cdc1a6638cae34a58aeae23bfbdf8fc3442993ccbb5e45a8b2ac43c9c",
+          "authorHandle": "hydevoltyge.bsky.social",
+          "postText": "(Photos of huge crowds at Troy Jackson town halls, everyone is visibly happy)\n\nHmm, I wonder how the Collins ground game is going\n\nThe Collins ground game:",
+          "createdAt": "2026-08-24T10:45:27.429Z",
+          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mtt4rmq7u22d",
+          "sentiment": 0.8
+        },
+        {
+          "id": "551dae5aa52e7f343710734dfe805be83241d125fe054ae782a9391b90c952ac",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-24T10:33:10.757Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtt43o6ooc26",
+          "sentiment": 0
+        },
+        {
+          "id": "d0980a8b394ff422d8a28d106ce9f9e21e3a05b1493a1378e7e1a7bd5fa77ba8",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-24T10:32:22.622Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtt42abptk26",
+          "sentiment": 0
+        },
+        {
+          "id": "06e96ca6e597d266fef1965aa5047622f13dc0a8e102061314d1726c78ee5fbb",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-24T10:24:26.018Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtt3lzqwak26",
+          "sentiment": 0
+        },
         {
           "id": "7e2711cceddc7e102e5025f2675606d6bcf606502354373ebd617f9ca9e603e3",
           "authorHandle": "officiallilsilver.bsky.social",
@@ -565,22 +597,6 @@
           "createdAt": "2026-08-23T11:00:51+00:00",
           "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtqn6ajuws2g",
           "sentiment": 0.9
-        },
-        {
-          "id": "e529387010f728c7de26c15248e223fab9fbaea3022500d0ef069093d4bc16c9",
-          "authorHandle": "lordcollins.bsky.social",
-          "postText": "secure.actblue.com/donate/tj-em...",
-          "createdAt": "2026-08-23T10:27:51.988Z",
-          "uri": "at://did:plc:gceb2dvh6bcwktlgfikqax6w/app.bsky.feed.post/3mtqldaptts2j",
-          "sentiment": -0.2
-        },
-        {
-          "id": "43b6e1800510a8048d420d8726e1fed19587efc11bd53a5a289a4dbb1686fcd4",
-          "authorHandle": "indivisiblebangor.org",
-          "postText": "#MEPolitics \nJoin the Statewide Organizing Call this Friday Aug. 28th at 6:30PM. Troy will give an update on ways to get involved and share new resources. Can”t make it - no worries! Fill out the volunteer form at jacksonformaine.com/take-action for more info.\n\nwww.mobilize.us/jacksonforma...",
-          "createdAt": "2026-08-23T10:19:59.900Z",
-          "uri": "at://did:plc:c4o2vaalki2qgmekvrzmguix/app.bsky.feed.post/3mtqkv6ixdk2p",
-          "sentiment": 0.6
         }
       ],
       "youtube": [
