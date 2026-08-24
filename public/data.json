@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T12:38:21.152Z",
+  "lastUpdated": "2026-08-24T12:41:26.853Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,32 +48,131 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.157183908045977,
-      "newsSentiment": -0.025,
+      "overallSentiment": 0.11423519009725906,
+      "newsSentiment": -0.15384615384615385,
       "socialSentiment": 0.3,
       "mentions": {
-        "news": 2,
+        "news": 13,
         "social": 69,
         "youtube": 29,
-        "total": 100
+        "total": 111
       },
       "news": [
         {
-          "id": "2f2a48da964eee821ca1cf8f33bbd2d9746ba8aabfc6ba9f08acd9ca8e18040b",
-          "title": "Susan Collins and Troy Jackson compete for votes on weekend campaign trail 73 days before Election Day",
-          "description": "Collins defends her voting record, opposes new Trump tariffs on Canada, and comments on Trump's and the Postal Service's plan to curtail mail-in voting.",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/susan-collins-troy-jackson-compete-votes-weekend-campaign-trail-73-days-before-election-day/97-d9147bbe-7583-45e9-9fd1-2a3a54bbb40b",
-          "publishedAt": "2026-08-22T23:07:19.000Z",
-          "sentiment": -0.05
+          "id": "d65523cb37a496d8130b695de09c00741aa016b94854e29c3f6c9fd18d7021f6",
+          "title": "Trump's economic approach draws concern from some Republicans",
+          "description": "President Donald Trump’s economic policies drew a fresh round of concern from some Republicans this weekend who criticized his trade policies, as others in",
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4845567774596-trump-s-economic-approach-draws-concern-from-some-republicans",
+          "publishedAt": "2026-08-24T00:00:00.000Z",
+          "sentiment": -1
         },
         {
-          "id": "4cfe6da5fe42de8a5aa149696cfbc9fb3173abbc69adead1c46ff4118c1a80d4",
-          "title": "Democrats found their border message. ICE is another story.",
-          "description": "They’re trying to balance a base furious at ICE with swing voters wary of abolishing the agency — a divide that could influence the midterms and the party’s path in 2028.",
-          "sourceName": "Politico",
-          "url": "https://www.politico.com/news/2026/08/22/democrats-ice-midterms-01045482",
-          "publishedAt": "2026-08-22T13:00:00.000Z",
+          "id": "ebd0d992c958ef1ec168f34901d025f0671799e01050e3e8c57b812064d02dc7",
+          "title": "Democrats don't know whether to welcome or shun Kamala Harris",
+          "description": "Democratic congressional candidates are split over how much support they want to receive from former Vice President Kamala Harris.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4694915/kamala-harris-campaign-trail-dilemma-midterm-elections/",
+          "publishedAt": "2026-08-23T23:48:18.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f5a41bebdd4d43ac5e10d0453ae63eae3e81f1868be5cd7d2348f146621345a2",
+          "title": "Troy Jackson attends opening of Maine Democrats' Augusta campaign office",
+          "description": "With just over 70 days to go until the midterms, Maine Democrats hosted the launching of a campaign office in the state's capital.",
+          "sourceName": "Yahoo! News",
+          "url": "https://ca.news.yahoo.com/troy-jackson-attends-opening-maine-221209768.html",
+          "publishedAt": "2026-08-23T22:12:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f2e443042f75f5f0fabdbba58c7d2f3f5a5abe3db4a793a0e44c69b73f161946",
+          "title": "Data Centers Turn From AI Prize to Political Poison in 2026 Midterms",
+          "description": "Data centers have flipped from bipartisan economic prizes to campaign liabilities as voter opposition surges to 61-75% in polls. Both parties attack opponents over power costs, water use and local impacts in key 2026 races across Ohio, Pennsylvania, Texas and more. The backlash threatens America's AI ambitions while scrambling the midterm map.",
+          "sourceName": "Webpronews",
+          "url": "https://www.webpronews.com/data-centers-turn-from-ai-prize-to-political-poison-in-2026-midterms/",
+          "publishedAt": "2026-08-23T20:52:06.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "84afb4d9e6874b2583fc7937bee06da8f212660a454bad27b6546f6082cff525",
+          "title": "Mark Carney is putting Canada on the ballot for the U.S. midterms",
+          "description": "The key for Mark Carney is to make the trade fight felt south of the border — and then make it clear to U.S. midterm voters who's to blame.",
+          "sourceName": "The Hamilton Spectator",
+          "url": "https://www.thespec.com/politics/federal/mark-carney-is-putting-canada-on-the-ballot-for-the-us-midterms/article_2530724e-b194-5f4f-b575-ad1f6f070191.html",
+          "publishedAt": "2026-08-23T19:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "eb0728b750c212f805188c31016a7393274ed03081656137f138cae0092ce738",
+          "title": "Mark Carney is putting Canada on the ballot for the U.S. midterms",
+          "description": "The key for Mark Carney is to make the trade fight felt south of the border — and then make it clear to U.S. midterm voters who's to blame.",
+          "sourceName": "The Star",
+          "url": "https://www.thestar.com/news/analysis/mark-carney-is-putting-canada-on-the-ballot-for-the-us-midterms/article_6991f285-a2c1-4f2a-8ae2-cf4f544c1e61.html",
+          "publishedAt": "2026-08-23T19:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "53d7a230b518967c31a5a10c1a8fa1eaedf96a299993ecf8da0af9c130939e84",
+          "title": "Mark Carney is putting Canada on the ballot for the U.S. midterms",
+          "description": "The key for Mark Carney is to make the trade fight felt south of the border — and then make it clear to U.S. midterm voters who's to blame.",
+          "sourceName": "The Standard",
+          "url": "https://www.stcatharinesstandard.ca/politics/federal/mark-carney-is-putting-canada-on-the-ballot-for-the-us-midterms/article_fde7b802-8e76-58c6-9fc5-7f79535a445d.html",
+          "publishedAt": "2026-08-23T19:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ca721f309ec8880e11dcb5351fd15723b6c9974b5d7cabe004397d133adf2ac6",
+          "title": "Mark Carney is putting Canada on the ballot for the U.S. midterms",
+          "description": "The key for Mark Carney is to make the trade fight felt south of the border — and then make it clear to U.S. midterm voters who's to blame.",
+          "sourceName": "Niagara Falls Review",
+          "url": "https://www.niagarafallsreview.ca/politics/federal/mark-carney-is-putting-canada-on-the-ballot-for-the-us-midterms/article_299d7cc0-e018-5b03-a0db-4c6b134beebd.html",
+          "publishedAt": "2026-08-23T19:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "03e8b4587e4da2edbdbd8b93ec037d2247d4b82c0afaa96c93b1b69a9504cfab",
+          "title": "Yikes: Troy Jackson Hands Susan Collins Some Gifts in Maine Senate Race",
+          "description": "With some of the polling, er, \"mishaps\" in both the Wisconsin Democrat gubernatorial and the Michigan Senate primary races, many are choosing to take the numbers with a grain of salt going forward as we prepare to head into the fall months, which [...]",
+          "sourceName": "Beforeitsnews",
+          "url": "https://beforeitsnews.com/politics/2026/08/yikes-troy-jackson-hands-susan-collins-some-gifts-in-maine-senate-race-3365773.html",
+          "publishedAt": "2026-08-23T18:33:01.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "73d3de0a24d5a3f385a4e06819370d131d8c180af88ea194ef5790ae589d8114",
+          "title": "'Indy' Dan Osborn for NE Senate Lets It Slip ... He'll Get Committees Because He’s Hamas Caucus",
+          "description": "Dan Osborn is running for Senate in Nebraska as an Independent. We have talked about him once before. He pretends to...",
+          "sourceName": "Twitchy",
+          "url": "https://twitchy.com/justmindy/2026/08/23/dan-osborn-independent-running-for-senate-caucus-n2431598",
+          "publishedAt": "2026-08-23T18:20:43.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "81f85fe3d023588e72b0d6b80eb14eea40ab36fa758eab6914f0a7b836bfb442",
+          "title": "Why Democrats still have a shot at winning the Senate",
+          "description": "Michigan and Maine remain question marks, but the party is flaunting its strength in purple and red states.",
+          "sourceName": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/why-democrats-still-have-a-shot-at-winning-the-senate-101787486486266.html",
+          "publishedAt": "2026-08-23T16:00:53.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "08d596f3389a8cb6dbf5b46ca489ec8c7b7b80c9bc64f38417dd517a9a2aa033",
+          "title": "Susan Collins supports Trump’s agenda | Letter",
+          "description": "If we had a President Romney, Susan Collins would likely be coasting to another term in the Senate as a moderate Republican. Sadly, she is a stalwart of the party that current Maine gubernatorial candidate Rick Bennett says he can no longer recognize. Unlike the very conservative Republican Liz Cheney, she has chosen to stay [...]",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/08/23/susan-collins-supports-trumps-agenda-letter/",
+          "publishedAt": "2026-08-23T16:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b3863c9437b1967e268be01bc56edf7014d104c20691a3433de2034b2ea09e55",
+          "title": "Susan Collins supports Trump’s agenda | Letter",
+          "description": "If we had a President Romney, Susan Collins would likely be coasting to another term in the Senate as a moderate Republican. Sadly, she is a stalwart of the party that current Maine gubernatorial candidate Rick Bennett says he can no longer recognize. Unlike the very conservative Republican Liz Cheney, she has chosen to stay [...]",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/08/23/susan-collins-supports-trumps-agenda-letter/",
+          "publishedAt": "2026-08-23T16:00:00.000Z",
           "sentiment": 0
         }
       ],
