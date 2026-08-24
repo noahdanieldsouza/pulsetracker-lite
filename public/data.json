@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T13:34:59.340Z",
+  "lastUpdated": "2026-08-24T14:22:14.102Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -56,14 +56,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.20256410256410254,
+      "overallSentiment": 0.196545584045584,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.29999999999999993,
+      "socialSentiment": 0.2819444444444444,
       "mentions": {
         "news": 13,
-        "social": 71,
+        "social": 72,
         "youtube": 13,
-        "total": 97
+        "total": 98
       },
       "news": [
         {
@@ -185,6 +185,30 @@
         }
       ],
       "social": [
+        {
+          "id": "9d1d44e3bf692378d3687f1f985e959f104022832cd930ac2d34adfddb194281",
+          "authorHandle": "almarosar572.bsky.social",
+          "postText": "Well maybe 🤔 Troy Jackson should put on some PEARLS and clutch them every time he is \" concerned \"",
+          "createdAt": "2026-08-24T14:19:46.126Z",
+          "uri": "at://did:plc:3rizd6kdxg7jsluit7kqgx7h/app.bsky.feed.post/3mttiqtqh6s2i",
+          "sentiment": -0.7
+        },
+        {
+          "id": "4f1243999fd697c1f36aecc096ce73dfab9d2107431ee225aad1b7a2b03b3081",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-24T14:09:41.158Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtti6ssa6c2v",
+          "sentiment": 0
+        },
+        {
+          "id": "8d68411887bfcc6fd2efe88a41c383602087d4e188591143fbe0f579a10e04db",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-24T13:39:08.976Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mttgi7ipqs2v",
+          "sentiment": 0
+        },
         {
           "id": "df2d77b4a8006e8d9e3190ea935d6772b46cbb37330210d1b01720c55fc85bb4",
           "authorHandle": "semafor.com",
@@ -736,22 +760,6 @@
           "createdAt": "2026-08-23T14:51:50.998Z",
           "uri": "at://did:plc:vz3gs36c5xyidrrd4ucmrdmu/app.bsky.feed.post/3mtr23by32c2j",
           "sentiment": 0.7
-        },
-        {
-          "id": "0e256ed2ddd7184541d47bed0a476e3374fb38a0088b16c2d5bcc0f234dc0d82",
-          "authorHandle": "johnfromalbany.bsky.social",
-          "postText": "",
-          "createdAt": "2026-08-23T14:03:51Z",
-          "uri": "at://did:plc:zz2exmalwds4p2amxa7amb3j/app.bsky.feed.post/3mtqxfihtqi24",
-          "sentiment": null
-        },
-        {
-          "id": "82bc8d78d447f05c4f5d7a58afd11e79575fdadcf899b66e1be8340716a6f691",
-          "authorHandle": "gaylekate.bsky.social",
-          "postText": "youtube.com/shorts/8Sg1Z...",
-          "createdAt": "2026-08-23T13:43:36.103Z",
-          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mtqwbart4s2m",
-          "sentiment": 0
         }
       ],
       "youtube": [
