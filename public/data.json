@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T10:52:07.155Z",
+  "lastUpdated": "2026-08-24T11:21:51.269Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.13635057471264364,
+      "overallSentiment": 0.13549078635285527,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.23749999999999993,
+      "socialSentiment": 0.23492063492063484,
       "mentions": {
         "news": 2,
-        "social": 65,
+        "social": 64,
         "youtube": 29,
-        "total": 96
+        "total": 95
       },
       "news": [
         {
@@ -78,6 +78,14 @@
         }
       ],
       "social": [
+        {
+          "id": "95d7dd99a64ce55d555f95d641e1e2daa8e5e73716c8bfc685ac13696413c17f",
+          "authorHandle": "politicalwire.com",
+          "postText": "Troy Jackson Goes Positive in Statewide Ad\r\nhttps://politicalwire.com/2026/08/24/troy-jackson-goes-positive-in-statewide-ad/",
+          "createdAt": "2026-08-24T10:56:06+00:00",
+          "uri": "at://did:plc:vaams3fhnnnivk3hzxct7nki/app.bsky.feed.post/3mtt5eomgaj2e",
+          "sentiment": 0
+        },
         {
           "id": "cc0ce48cdc1a6638cae34a58aeae23bfbdf8fc3442993ccbb5e45a8b2ac43c9c",
           "authorHandle": "hydevoltyge.bsky.social",
@@ -581,22 +589,6 @@
           "createdAt": "2026-08-23T11:33:55.082Z",
           "uri": "at://did:plc:dlfk422nufhdwikldgfgebmc/app.bsky.feed.post/3mtqoze7utc2h",
           "sentiment": -0.8
-        },
-        {
-          "id": "fdf518985d91184bfe4ab717b8a7de54c0284cafb6c75f21e9eee857300bd115",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-08-23T11:06:07.519Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtqnhnvvdk2h",
-          "sentiment": -0.5
-        },
-        {
-          "id": "d982bc099f43f7a4522802b2c7b3c0a249e571bd3715be6a72b843d39213fdb1",
-          "authorHandle": "pressherald.com",
-          "postText": "It’s the billionaire class vs. the rest of us. That’s why Troy Jackson is the only choice. | Opinion",
-          "createdAt": "2026-08-23T11:00:51+00:00",
-          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtqn6ajuws2g",
-          "sentiment": 0.9
         }
       ],
       "youtube": [
