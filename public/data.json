@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T19:02:29.230Z",
+  "lastUpdated": "2026-08-24T19:38:38.814Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -65,14 +65,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.15467677862044057,
+      "overallSentiment": 0.1554212454212454,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.15633802816901404,
+      "socialSentiment": 0.15857142857142853,
       "mentions": {
         "news": 13,
-        "social": 71,
+        "social": 70,
         "youtube": 13,
-        "total": 97
+        "total": 96
       },
       "news": [
         {
@@ -194,6 +194,14 @@
         }
       ],
       "social": [
+        {
+          "id": "e69f483f5d967ca843711ddec4b628710100c0d6b4c538daa6bb18755085f0b5",
+          "authorHandle": "gentlem.bsky.social",
+          "postText": "Highlighting with the final photo from @troyjackson207.bsky.social reel below.\nwww.jacksonformaine.com\n#JacksonForMaine\n#SolidarityForever",
+          "createdAt": "2026-08-24T19:32:27.643Z",
+          "uri": "at://did:plc:yto72hgvetlbftg2v76q3qq3/app.bsky.feed.post/3mtu27y5ei22j",
+          "sentiment": 0
+        },
         {
           "id": "19aa6d1d7a079918f3d0453168b0174ddfe696f4da54daa0c2c54e88ebaf62be",
           "authorHandle": "jsross.bsky.social",
@@ -745,22 +753,6 @@
           "createdAt": "2026-08-23T19:39:46.031Z",
           "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtrk64qahk2w",
           "sentiment": 1
-        },
-        {
-          "id": "c096ac78c68dee9fd50ea80e816452f89cde9017360a9aa6961f71ddcbed1639",
-          "authorHandle": "paleredmoon.bsky.social",
-          "postText": "youtube.com/shorts/S7RQa...",
-          "createdAt": "2026-08-23T19:19:51.279Z",
-          "uri": "at://did:plc:dtxhc6hs7hmzfbsqkthvibuw/app.bsky.feed.post/3mtrj2jddgs2t",
-          "sentiment": 0
-        },
-        {
-          "id": "360af7ab4b55d1305c702dc7cd3d2ced41d2805db5c33088917e5a21f4fa265c",
-          "authorHandle": "informedgrandma.bsky.social",
-          "postText": "youtube.com/shorts/S7RQa...",
-          "createdAt": "2026-08-23T19:14:13.081Z",
-          "uri": "at://did:plc:mwjbtvel6q6rqcok6b3sqc66/app.bsky.feed.post/3mtriqgscy227",
-          "sentiment": 0
         }
       ],
       "youtube": [
