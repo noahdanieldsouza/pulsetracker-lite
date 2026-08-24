@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T21:46:13.126Z",
+  "lastUpdated": "2026-08-24T22:03:31.687Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -65,14 +65,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1466955579631636,
+      "overallSentiment": 0.14608262108262107,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.1323943661971831,
+      "socialSentiment": 0.13055555555555554,
       "mentions": {
         "news": 13,
-        "social": 71,
+        "social": 72,
         "youtube": 13,
-        "total": 97
+        "total": 98
       },
       "news": [
         {
@@ -194,6 +194,14 @@
         }
       ],
       "social": [
+        {
+          "id": "b3724230d23c81735d0787a8cdc1206e9562758423bdb902f1952e7e433f36ef",
+          "authorHandle": "enuffsaysv.bsky.social",
+          "postText": "Mike Nellis is live with Troy Jackson on Substack now: \"TROY JACKSON JOINS ENDLESS URGENCY \"\nopen.substack.com/live-stream/...",
+          "createdAt": "2026-08-24T21:46:33.247Z",
+          "uri": "at://did:plc:th4kcbbh6cvts3z24dgxux4j/app.bsky.feed.post/3mtubpqytcs27",
+          "sentiment": 0
+        },
         {
           "id": "b0fdeda53b3bb03441584ae838f116e4a85ff87e6d740438433600f2749ba135",
           "authorHandle": "myrame61.bsky.social",
