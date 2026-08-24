@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T22:03:31.687Z",
+  "lastUpdated": "2026-08-24T22:39:16.053Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -65,14 +65,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.14608262108262107,
+      "overallSentiment": 0.15208791208791209,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.13055555555555554,
+      "socialSentiment": 0.14857142857142855,
       "mentions": {
         "news": 13,
-        "social": 72,
+        "social": 70,
         "youtube": 13,
-        "total": 98
+        "total": 96
       },
       "news": [
         {
@@ -194,6 +194,14 @@
         }
       ],
       "social": [
+        {
+          "id": "11f0154ac5ad1f959a657c70b09036dc272b541739d38bd498a9cda3b3cea930",
+          "authorHandle": "shulgaar.bsky.social",
+          "postText": "Unsure where you live, but Maine Senate candidate fighting Susan Collins (R) could definitely use hands.  The Dem there is Troy Jackson:  he's a late entry and replaced someone with an unfortunate history of physically abusing women.\n\nPhone: (207) 622-6233\nEmail: info@mainedems.org",
+          "createdAt": "2026-08-24T22:10:33.085Z",
+          "uri": "at://did:plc:3wwe7cylq6axy54phwozm2nu/app.bsky.feed.post/3mtud2o574c2h",
+          "sentiment": 0.3
+        },
         {
           "id": "b3724230d23c81735d0787a8cdc1206e9562758423bdb902f1952e7e433f36ef",
           "authorHandle": "enuffsaysv.bsky.social",
@@ -745,30 +753,6 @@
           "createdAt": "2026-08-23T23:39:34.860Z",
           "uri": "at://did:plc:2maeifdzjsiawobymlym5mwb/app.bsky.feed.post/3mtrxkwyib22e",
           "sentiment": 0
-        },
-        {
-          "id": "911dc9a23963eb4f9bcc504c3dcba631b1fc60f35db22941a2888fedb9052061",
-          "authorHandle": "upstract.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-08-23T22:30:47.000Z",
-          "uri": "at://did:plc:xc32dedgv3ceunwz2nrseso4/app.bsky.feed.post/3mtrtz2qjnpx2",
-          "sentiment": -0.8
-        },
-        {
-          "id": "0fcf114a5ba7f1a3b68b6b1965e2918fe60bb6b1231f14b8170182b95d239416",
-          "authorHandle": "melindamosheim.bsky.social",
-          "postText": "Maine: i hope you guys will vote for Troy Jackson!!!! Here in Houston we are voting for progressive Dem James Talarico! Let's fix our Senate, our USG and our country!",
-          "createdAt": "2026-08-23T22:28:29.976Z",
-          "uri": "at://did:plc:qei5uz2wtsilvtuo6nmoufai/app.bsky.feed.post/3mtrtltojis2y",
-          "sentiment": 0.7
-        },
-        {
-          "id": "0d5d5bff6d6aaf06aee0cd6f3d2354c92fa6f092f930b552d3bb896819c7e756",
-          "authorHandle": "bsfavourite.bsky.social",
-          "postText": "Yikes: Troy Jackson Hands Susan Collins Some Gifts in Maine Senate Race #RedState",
-          "createdAt": "2026-08-23T22:27:40Z",
-          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mtrtkemukv2o",
-          "sentiment": -0.6
         }
       ],
       "youtube": [
