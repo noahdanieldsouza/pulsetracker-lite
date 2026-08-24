@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T07:45:29.672Z",
+  "lastUpdated": "2026-08-24T08:29:11.836Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,31 +22,40 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": null,
+      "overallSentiment": 1,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": 1,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "36abca5f72a434e1e3f3074d7355282c97870e63d2396efda7a5b91ca76fac67",
+          "authorHandle": "indivmidmaine.bsky.social",
+          "postText": "If you are a pro-democracy friend in the Waterville area, please do plan to attend, and please sign up! We're so lucky that we get to hear directly from our Maine secretary of state and chief elections officer! Don't miss this opportunity. Sat., Sept. 19, 2-4pm. ❤ www.mobilize.us/indivisiblem...",
+          "createdAt": "2026-08-24T08:27:02.762Z",
+          "uri": "at://did:plc:rokdgpbsyht6ariljokb6hhh/app.bsky.feed.post/3mtsv24rskk2x",
+          "sentiment": 1
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.13256852343059236,
+      "overallSentiment": 0.12437140804597697,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.22615384615384612,
+      "socialSentiment": 0.20156249999999995,
       "mentions": {
         "news": 2,
-        "social": 66,
+        "social": 65,
         "youtube": 29,
-        "total": 97
+        "total": 96
       },
       "news": [
         {
@@ -69,6 +78,22 @@
         }
       ],
       "social": [
+        {
+          "id": "4488f43d02c4c65967b7c4172f23d6f4390876cb31ebce93acba34a73c3df22b",
+          "authorHandle": "freebklyn.bsky.social",
+          "postText": "Who are you voting for, Maine, and why is it Troy Jackson?",
+          "createdAt": "2026-08-24T07:52:56.553Z",
+          "uri": "at://did:plc:dt3tarozagtb6dleb5nqfvrn/app.bsky.feed.post/3mtst55egm227",
+          "sentiment": 1
+        },
+        {
+          "id": "c02f7b09ca6bd3d805c0ce209bcb2bb34c124093448bfb6577a40281b1eba046",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-24T07:47:58.357Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtssuay7l22d",
+          "sentiment": -1
+        },
         {
           "id": "1fef9769df50cea3def9ac658becff90df53cc1f6fcdbe7a25f41ec18a5bbc23",
           "authorHandle": "dailytrix.bsky.social",
@@ -572,30 +597,6 @@
           "createdAt": "2026-08-23T08:39:17.073Z",
           "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtqfb3mh5c2c",
           "sentiment": 0.2
-        },
-        {
-          "id": "81bf131a2f587f58e3905b9f05f9315aba6bdbaa081877476a699271778d2245",
-          "authorHandle": "noisyfearless.bsky.social",
-          "postText": "Troy Jackson in Belfast, Maine, yesterday. Let's elect this good person US Senator. www.c-span.org/program/camp...",
-          "createdAt": "2026-08-23T08:17:44.287Z",
-          "uri": "at://did:plc:kvln4ybh6wgfdsvcglyfvn5p/app.bsky.feed.post/3mtqe2kpqss2p",
-          "sentiment": 1
-        },
-        {
-          "id": "9e57eebaef9e78c13d42f2d8a864d2e5db4be8a61700f25b360cbcb8b9f3ef38",
-          "authorHandle": "eliemar.bsky.social",
-          "postText": "#maine \nCollins BUYING votes with 97 MILLIONNAIRES + Musk donations\n \nCollins works for OLIGARCHS\nShe voted to give them\n$1 TRILLION tax cuts\nNot #mainers\n\nVote💙\nTroy Jackson\n5th generation Blue Collar worker, who has a proven record of fighting for the working class, not for\nTrump's Billionnaires",
-          "createdAt": "2026-08-23T08:05:01.938Z",
-          "uri": "at://did:plc:uqrfc7gu5tptozetpvustimk/app.bsky.feed.post/3mtqddtopek2z",
-          "sentiment": 0.8
-        },
-        {
-          "id": "e8cf60556161baa6aa1772c8512b594fec69cedaf4c85cd979e4c45f235f0fc8",
-          "authorHandle": "battyboo.bsky.social",
-          "postText": "youtube.com/shorts/S7RQa...",
-          "createdAt": "2026-08-23T08:04:40.565Z",
-          "uri": "at://did:plc:olexiimjgl5qouhs7d423c3c/app.bsky.feed.post/3mtqdd7cgd22d",
-          "sentiment": 0
         }
       ],
       "youtube": [
