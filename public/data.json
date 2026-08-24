@@ -1,21 +1,30 @@
 {
-  "lastUpdated": "2026-08-24T16:29:56.106Z",
+  "lastUpdated": "2026-08-24T17:07:07.421Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
+      "overallSentiment": 0.8,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": 0.8,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "548fe856b0e50b094f3f6a1f109a7d183b1a5084d2bbd5f2a296bfaca7906acd",
+          "authorHandle": "unicef-evaluation.bsky.social",
+          "postText": "🎥 How can evaluators build trust with communities? Nirav Nitin Shah shares how engaging early, listening with humility, and being transparent can support meaningful participation and stronger evidence.\n#UNICEF #Evaluation #OneMinuteOneQuestion #ForEveryChild",
+          "createdAt": "2026-08-24T17:03:08.572Z",
+          "uri": "at://did:plc:avkxvkmpqahisgvsyfmuljrq/app.bsky.feed.post/3mttruy3eec25",
+          "sentiment": 0.8
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
@@ -56,9 +65,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.19531772575250836,
+      "overallSentiment": 0.18468970642883686,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.2782608695652174,
+      "socialSentiment": 0.2463768115942029,
       "mentions": {
         "news": 13,
         "social": 69,
@@ -185,6 +194,30 @@
         }
       ],
       "social": [
+        {
+          "id": "4a3bdc462a925c7ff464bbc538cdcabfc6983b98cdb5a4fb6d67d93096be65ba",
+          "authorHandle": "jpylko.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-24T16:55:10.775Z",
+          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mttrgqg3rk2u",
+          "sentiment": 0
+        },
+        {
+          "id": "f9ef1fe2f8ebee3c36a0cfa56e5cabb5b093921884f3e882d5a230b8530ac975",
+          "authorHandle": "beingliberal.bsky.social",
+          "postText": "The  Borowitz Report for the win...",
+          "createdAt": "2026-08-24T16:50:07.723Z",
+          "uri": "at://did:plc:hsogstbdd4htnofbgowhszmb/app.bsky.feed.post/3mttr5pner22u",
+          "sentiment": 0
+        },
+        {
+          "id": "c79a7cb59ceb9c5c361bdcba74b51057acd8ad0509e19f55652cac8890f5bef7",
+          "authorHandle": "langdongrant.bsky.social",
+          "postText": "And Troy Jackson in Maine.",
+          "createdAt": "2026-08-24T16:45:21.795Z",
+          "uri": "at://did:plc:d7g75zlofngsfubdmizusk5x/app.bsky.feed.post/3mttqv6ptyk2c",
+          "sentiment": 0
+        },
         {
           "id": "13a3eca36f13ed9daed32c3bacf805b83e9a6fe5a20780db6f77f81841b925c3",
           "authorHandle": "liselatulippe.bsky.social",
@@ -712,30 +745,6 @@
           "createdAt": "2026-08-23T17:17:45.671Z",
           "uri": "at://did:plc:jsc7ypbb2ia65c4pllexovqo/app.bsky.feed.post/3mtrca73ke22h",
           "sentiment": 0
-        },
-        {
-          "id": "a4fb606e41662e094871e90ae715fd70adfb69b04ce0e86fc10554dd3bfc2477",
-          "authorHandle": "eoinhiggins.bsky.social",
-          "postText": "right-wing outlet the Maine Wire tries to slam Troy Jackson but this is a backfire imo",
-          "createdAt": "2026-08-23T16:42:57.806Z",
-          "uri": "at://did:plc:au53gk265ykqxctmavcoljrn/app.bsky.feed.post/3mtrabxwyo22k",
-          "sentiment": 0.7
-        },
-        {
-          "id": "3144717e29642768bef4ae93f979225c6448ae79cc6f992ac9276aad922c0386",
-          "authorHandle": "randyschwartz09.bsky.social",
-          "postText": "It’s the billionaire class vs. the rest of us. That’s why Troy Jackson is the only choice. | Opinion www.pressherald.com/2026/08/23/i...",
-          "createdAt": "2026-08-23T16:40:17.257Z",
-          "uri": "at://did:plc:36aw6h3a63aok25lnkzcjh5i/app.bsky.feed.post/3mtra56thj22w",
-          "sentiment": 0.8
-        },
-        {
-          "id": "e8e4c48363828d7d86039a31a49288a7270bf4e33c0b49955c43867ace218aac",
-          "authorHandle": "kidsandpets.bsky.social",
-          "postText": "#Maine #MaineDems Can you help boost Amanda Heath and Troy Jackson? Please share 💙🌊🇺🇸\nyoutube.com/watch?v=-ra-...",
-          "createdAt": "2026-08-23T16:35:34.888Z",
-          "uri": "at://did:plc:f77kvodlaoji2c5lyrsw7xdy/app.bsky.feed.post/3mtr7urklbk2m",
-          "sentiment": 0.7
         }
       ],
       "youtube": [
