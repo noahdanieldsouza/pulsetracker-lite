@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T14:22:14.102Z",
+  "lastUpdated": "2026-08-24T15:09:01.523Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -56,14 +56,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.196545584045584,
+      "overallSentiment": 0.1958974358974359,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.2819444444444444,
+      "socialSentiment": 0.27999999999999997,
       "mentions": {
         "news": 13,
-        "social": 72,
+        "social": 70,
         "youtube": 13,
-        "total": 98
+        "total": 96
       },
       "news": [
         {
@@ -185,6 +185,14 @@
         }
       ],
       "social": [
+        {
+          "id": "29840f1971cf2fbe42d69542f08c4a5ea8486e0eb591c004fda050528c757bb8",
+          "authorHandle": "cdl6229.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-24T14:28:21.457Z",
+          "uri": "at://did:plc:2vpfx7upbzftyzywtsx4pfwh/app.bsky.feed.post/3mttja776322n",
+          "sentiment": 0
+        },
         {
           "id": "9d1d44e3bf692378d3687f1f985e959f104022832cd930ac2d34adfddb194281",
           "authorHandle": "almarosar572.bsky.social",
@@ -736,30 +744,6 @@
           "createdAt": "2026-08-23T15:09:31.092Z",
           "uri": "at://did:plc:bf2k5x4bbyqtxvndgof3j7vi/app.bsky.feed.post/3mtr32uxl3s2d",
           "sentiment": -1
-        },
-        {
-          "id": "00ba36319acab9fbbe4407f2fcd24d130ed7d3de41569dd30688e1540b27af87",
-          "authorHandle": "rooksnest.bsky.social",
-          "postText": "The 2026 Maine U.S. Senate race is becoming increasingly competitive, with a new Fox News poll showing Democratic candidate Troy Jackson holding a narrow lead over incumbent Republican Senator Susan Collins.\nwww.newsweek.com/new-maine-se...",
-          "createdAt": "2026-08-23T15:02:20.225Z",
-          "uri": "at://did:plc:z4ywmezonvp3of753eix4d2e/app.bsky.feed.post/3mtr2o22ljc2x",
-          "sentiment": 0
-        },
-        {
-          "id": "186787ea535782e72e0c00c44b122d3334318927d3731fa087db428b13950c51",
-          "authorHandle": "atozpayton.bsky.social",
-          "postText": "Lions Film Study: The Detroit Lions have some brutal roster decisions coming, and the plays that decide them might be the ones most fans barely noticed. 👀\n\nWe went to the film to find the special teams plays that could ultimately decide who makes the 53.\natozsports.com/nfl/detroit-...",
-          "createdAt": "2026-08-23T15:00:53.514Z",
-          "uri": "at://did:plc:ibdn23xxkpntb4zahxn4f6xj/app.bsky.feed.post/3mtr2lhyauz2g",
-          "sentiment": 0
-        },
-        {
-          "id": "b96b1ff6ef2c036acf43f498189efea4b94ecdfc570b52e24852c85f1e34657c",
-          "authorHandle": "arepublic86.bsky.social",
-          "postText": "And Troy Jackson in Maine, and Dr. Annie Andrews in S. Carolina. We could flip the Senate!",
-          "createdAt": "2026-08-23T14:51:50.998Z",
-          "uri": "at://did:plc:vz3gs36c5xyidrrd4ucmrdmu/app.bsky.feed.post/3mtr23by32c2j",
-          "sentiment": 0.7
         }
       ],
       "youtube": [
