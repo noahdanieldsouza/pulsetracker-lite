@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T13:30:21.834Z",
+  "lastUpdated": "2026-08-24T13:34:59.340Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -27,12 +27,20 @@
       "socialSentiment": 1,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 2,
         "youtube": 0,
-        "total": 1
+        "total": 2
       },
       "news": [],
       "social": [
+        {
+          "id": "8e25098bdf9f96385ebc1778e54deca5b1b8d0a88b668c30d4cde2c618286bd9",
+          "authorHandle": "sharonlandry.bsky.social",
+          "postText": "Some of the heroes have been Secretaries of State who have pushed against the attempt for the regime to take over the state's rights to control elections. Shout out to Shenna Bellows who told them to go jump in the Gulf of Maine when told she had to send them Maine's voter data.",
+          "createdAt": "2026-08-24T13:13:24.748Z",
+          "uri": "at://did:plc:vg6xcxg4hafkdr5jbb6cizx5/app.bsky.feed.post/3mttf26sfr22l",
+          "sentiment": 1
+        },
         {
           "id": "36abca5f72a434e1e3f3074d7355282c97870e63d2396efda7a5b91ca76fac67",
           "authorHandle": "indivmidmaine.bsky.social",
@@ -48,14 +56,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2025641025641026,
+      "overallSentiment": 0.20256410256410254,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.3,
+      "socialSentiment": 0.29999999999999993,
       "mentions": {
         "news": 13,
-        "social": 69,
+        "social": 71,
         "youtube": 13,
-        "total": 95
+        "total": 97
       },
       "news": [
         {
@@ -177,6 +185,38 @@
         }
       ],
       "social": [
+        {
+          "id": "df2d77b4a8006e8d9e3190ea935d6772b46cbb37330210d1b01720c55fc85bb4",
+          "authorHandle": "semafor.com",
+          "postText": "🟡 NEW: Troy Jackson is taking the positive route as Republicans sink money into negative ads in Maine.\n\n www.semafor.com/article/08/2...",
+          "createdAt": "2026-08-24T13:33:01.199Z",
+          "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mttg5bpscs2j",
+          "sentiment": 0.7
+        },
+        {
+          "id": "fa47d385dd0a5ed74910916af3df13361c084208754961f961f983fca10c59b5",
+          "authorHandle": "freeimamoglunow.eurosky.social",
+          "postText": "Belfast? Lissabon? Augusta? Portland?\nÜberall treibt sich Troy Jackson rum, nur nicht dort, wo er gewählt werden will. Seltsame Strategie.🤣",
+          "createdAt": "2026-08-24T13:32:16.998Z",
+          "uri": "at://did:plc:wrjwa2csqu2w7rw43hohuka5/app.bsky.feed.post/3mttg3wlvoc23",
+          "sentiment": -0.6
+        },
+        {
+          "id": "65b7c3b9d603bc8ffe7410497ad55c20d27e65296405e94fed4812b43a708aee",
+          "authorHandle": "holdmybooks.bsky.social",
+          "postText": "This is what passes for political news.🫠",
+          "createdAt": "2026-08-24T12:39:37.232Z",
+          "uri": "at://did:plc:mnmzpxebkmcg6rjchfgitc6c/app.bsky.feed.post/3mttd5r7nl22m",
+          "sentiment": 0
+        },
+        {
+          "id": "0ff8a246d01d03ac73307d5d4c6a3d22832d348cfe1b7849b5286fb15cc9f415",
+          "authorHandle": "larrycolvin.bsky.social",
+          "postText": "Healthcare, reproductive rights, childcare, and ending ICE terror are all on the ballot this November 3. We have the power to shape our future. Let's make it happen.\n\nVote Troy Jackson!\n#Blues",
+          "createdAt": "2026-08-24T12:39:31.629Z",
+          "uri": "at://did:plc:z5dhbia5ag6kkilnab76i6ab/app.bsky.feed.post/3mttd5lujyc2p",
+          "sentiment": 0.8
+        },
         {
           "id": "1e23308552935f7e7d6eb88ae59f088a37e0b86b53f8b260537d38755ee09bdd",
           "authorHandle": "noisyfearless.bsky.social",
@@ -712,22 +752,6 @@
           "createdAt": "2026-08-23T13:43:36.103Z",
           "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mtqwbart4s2m",
           "sentiment": 0
-        },
-        {
-          "id": "3b3a117f2d1dcb450dd92bee55621ea4677749299fd86bab8f4a5f62ecb3b328",
-          "authorHandle": "ajr68.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-23T12:58:54.861Z",
-          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtqtrdqsqc2c",
-          "sentiment": -0.3
-        },
-        {
-          "id": "29e7fdb183bacf3ee2129ce1435a9cb2b199bcff0a643069d4a84000b91e45d0",
-          "authorHandle": "mainenewsroom.com",
-          "postText": "8/23 More than 100 pack into Portland lounge to meet Maine Senate candidate Troy Jackson. \"Apparently, all those TV ads aren't doing their job because all of you are showing up,\" Jackson quipped. #maine #MEpolitics",
-          "createdAt": "2026-08-23T12:48:14.703068Z",
-          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mtqt6bgszn2l",
-          "sentiment": 0.6
         }
       ],
       "youtube": [
