@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T03:30:28.489Z",
+  "lastUpdated": "2026-08-24T04:25:37.956Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1429682217714672,
+      "overallSentiment": 0.13647683733890628,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.25735294117647056,
+      "socialSentiment": 0.23787878787878783,
       "mentions": {
         "news": 2,
-        "social": 69,
+        "social": 67,
         "youtube": 29,
-        "total": 100
+        "total": 98
       },
       "news": [
         {
@@ -69,6 +69,14 @@
         }
       ],
       "social": [
+        {
+          "id": "85d0f93673e3776e4ede0574ca56e9b9bdb8e043a864e1c8ce5df2fdda6da543",
+          "authorHandle": "slmosley.bsky.social",
+          "postText": "This will be Susan’s farewell Parade, bye Susan, glad to see you go…\nMar-A-Lago awaits you.\n\nMaine VOTE for Troy Jackson he is for the People,\nAll the People of Maine. \nMaine VOTES FOR TROY\n#TroyJackson",
+          "createdAt": "2026-08-24T03:44:44.277Z",
+          "uri": "at://did:plc:2harpx7e77njdlmtvnoz7y7j/app.bsky.feed.post/3mtsfbcybcc2h",
+          "sentiment": 0.8
+        },
         {
           "id": "192a7f459a97995e09b5e1e788d756e79a8d9fa475b90582b4851bc39e7bc36d",
           "authorHandle": "alohatsunami.bsky.social",
@@ -596,30 +604,6 @@
           "createdAt": "2026-08-23T04:58:58.699Z",
           "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtpyx5lnsk23",
           "sentiment": 1
-        },
-        {
-          "id": "ccd99922814551bbc3189fe258b9d7a3e21ff0428e29a3a9b30b70921745e657",
-          "authorHandle": "thepines.bsky.social",
-          "postText": "I can't wait to see Troy Jackson absolutely house this monster. It's going to be a fucking party.",
-          "createdAt": "2026-08-23T03:41:57.706Z",
-          "uri": "at://did:plc:dbmmbav5zxtjanhbemozngdp/app.bsky.feed.post/3mtpungo6ck2n",
-          "sentiment": 1
-        },
-        {
-          "id": "17e58e19ee48139fb192723d8131f30982fe3642ef2bc93b6b146f6f9d198d5e",
-          "authorHandle": "angrydonkeynews.bsky.social",
-          "postText": "Susan Collins told Mainers she had ICE under control. She didn’t. Now a 3-year-old girl is growing up without her father. Enough press releases. Enough excuses. Use your power for good.\n\nx.com/TroyJackson2...",
-          "createdAt": "2026-08-23T03:34:27.994Z",
-          "uri": "at://did:plc:6kv5inxd5x4tuydxlob27f36/app.bsky.feed.post/3mtpu7zs2gk2t",
-          "sentiment": 0.8
-        },
-        {
-          "id": "abc3b6b581853858b22490a5a0257c9b315df8a63c39fa2cb149f1df2d4fcb96",
-          "authorHandle": "angrydonkeynews.bsky.social",
-          "postText": "Susan Collins told Mainers she had ICE under control. She didn’t. Now a 3-year-old girl is growing up without her father. Enough press releases. Enough excuses. Use your power for good.\n\nx.com/TroyJackson2...",
-          "createdAt": "2026-08-23T03:34:12.556Z",
-          "uri": "at://did:plc:6kv5inxd5x4tuydxlob27f36/app.bsky.feed.post/3mtpu7l2wb22t",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
