@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T06:47:26.410Z",
+  "lastUpdated": "2026-08-24T07:45:29.672Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.133746408045977,
+      "overallSentiment": 0.13256852343059236,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.22968749999999996,
+      "socialSentiment": 0.22615384615384612,
       "mentions": {
         "news": 2,
-        "social": 65,
+        "social": 66,
         "youtube": 29,
-        "total": 96
+        "total": 97
       },
       "news": [
         {
@@ -69,6 +69,14 @@
         }
       ],
       "social": [
+        {
+          "id": "1fef9769df50cea3def9ac658becff90df53cc1f6fcdbe7a25f41ec18a5bbc23",
+          "authorHandle": "dailytrix.bsky.social",
+          "postText": "Not to defend Axios, but it might be because Sherrod has a bigger lead in the latest polls than Troy Jackson does, and Collins has a record of holding onto her seat in tough elections, which Husted doesn't.",
+          "createdAt": "2026-08-24T06:48:12.101Z",
+          "uri": "at://did:plc:plxqlbnn5astew5aq3ulsyqw/app.bsky.feed.post/3mtspjeueh22e",
+          "sentiment": 0
+        },
         {
           "id": "85d0f93673e3776e4ede0574ca56e9b9bdb8e043a864e1c8ce5df2fdda6da543",
           "authorHandle": "slmosley.bsky.social",
