@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T23:28:23.456Z",
+  "lastUpdated": "2026-08-24T23:48:05.763Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -65,14 +65,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.15608522932466595,
+      "overallSentiment": 0.15354449472096532,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.16056338028169012,
+      "socialSentiment": 0.15294117647058822,
       "mentions": {
         "news": 13,
-        "social": 72,
+        "social": 69,
         "youtube": 13,
-        "total": 98
+        "total": 95
       },
       "news": [
         {
@@ -745,30 +745,6 @@
           "createdAt": "2026-08-24T00:09:43.000Z",
           "uri": "at://did:plc:ngfdhi777rqkkg6webs67jeq/app.bsky.feed.post/3mtrzbbxq74d2",
           "sentiment": 0
-        },
-        {
-          "id": "2dd6c21c3da3a9405529126921b110472ff025e68ae9ac1e9bb81d1e7cc271e0",
-          "authorHandle": "scrimmins.bsky.social",
-          "postText": "If you had to sum up the appeal of Troy Jackson, it’s that you can rely on him for straightforward plain talk which is not focus grouped to death and not carefully curated. He says what many Mainers think and feel.\n#MePolitics",
-          "createdAt": "2026-08-23T23:45:57.150Z",
-          "uri": "at://did:plc:qzz33oljgvgvkw7cgdwmdxd4/app.bsky.feed.post/3mtrxwdl2dk2u",
-          "sentiment": 1
-        },
-        {
-          "id": "99f3edaf883e04bbe3f3c2d96cbd9ceb24c4dbfaf52cf84d4c283c77b78a4516",
-          "authorHandle": "minako1730.bsky.social",
-          "postText": ". . . Troy Jackson, Jamie Davis, Manny Rutinel, Evan Hunt, Jon Ossoff, Tim Kaine, Rashida Tain, Gina Hinojsa, Kristen Gillibrand, Bill Hill, Keisha Lance Bottoms, Marie Glueskenkamp Perez, Josh Hardr, & Robert Reich. \nI support most of these, but until money is out of politics, zero will change!",
-          "createdAt": "2026-08-23T23:42:44.419Z",
-          "uri": "at://did:plc:cjdvpyuzisyouo7z4zjaolbh/app.bsky.feed.post/3mtrxqlrehs2p",
-          "sentiment": 0
-        },
-        {
-          "id": "c8653273870661d0e16763a8a6687a18f519720841047c3e119ab3c2c728755f",
-          "authorHandle": "kmackinnon30.bsky.social",
-          "postText": "youtube.com/shorts/S7RQa...\nCollins must go!",
-          "createdAt": "2026-08-23T23:39:34.860Z",
-          "uri": "at://did:plc:2maeifdzjsiawobymlym5mwb/app.bsky.feed.post/3mtrxkwyib22e",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -913,12 +889,20 @@
       "socialSentiment": 0,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 2,
         "youtube": 3,
-        "total": 4
+        "total": 5
       },
       "news": [],
       "social": [
+        {
+          "id": "e2c1c5051b67c5e3df010f3aeb818a60416d597f8238ef3e56a0bdaba940e8bf",
+          "authorHandle": "1mirandaallen.bsky.social",
+          "postText": "I'm switching from New Kids On The Block CDs in the car to Danny Wood CDs. Then Joey McIntyre. Then, if I still have the work commute by that time, Jordan Knight.\n\n#NewKidsOnTheBlock\n#DannyWood\n#JoeyMcIntyre\n#JordanKnight",
+          "createdAt": "2026-08-24T23:46:56.052Z",
+          "uri": "at://did:plc:zs3p4mtff6uyiwm2iiecsxhv/app.bsky.feed.post/3mtuigz7dt22k",
+          "sentiment": 0
+        },
         {
           "id": "09a2126c0afd2201d4c3806dda0f82486164ab43b028dc3fb42c0e32f7dba6f8",
           "authorHandle": "helloimbradley.bsky.social",
