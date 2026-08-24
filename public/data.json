@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T04:25:37.956Z",
+  "lastUpdated": "2026-08-24T05:10:38.840Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.13647683733890628,
+      "overallSentiment": 0.13256852343059236,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.23787878787878783,
+      "socialSentiment": 0.22615384615384612,
       "mentions": {
         "news": 2,
-        "social": 67,
+        "social": 66,
         "youtube": 29,
-        "total": 98
+        "total": 97
       },
       "news": [
         {
@@ -596,14 +596,6 @@
           "createdAt": "2026-08-23T05:35:46.951Z",
           "uri": "at://did:plc:3kfqfbhhbp64oaixubs4qusw/app.bsky.feed.post/3mtq2yxk5vk2t",
           "sentiment": 0
-        },
-        {
-          "id": "a1291b56941f3563daa0e58afd0494ee98daaf56c60673a18550e4092ea73532",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "SUPPORT TROY JACKSON AND FLIP MAINE'S SENATE SEAT! (via Blue Vision)\n\nsecure.actblue.com/donate/bv_tr...",
-          "createdAt": "2026-08-23T04:58:58.699Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtpyx5lnsk23",
-          "sentiment": 1
         }
       ],
       "youtube": [
@@ -903,17 +895,26 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.7777777777777778,
+      "overallSentiment": 0.3888888888888889,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": 0,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 9,
-        "total": 9
+        "total": 10
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "09a2126c0afd2201d4c3806dda0f82486164ab43b028dc3fb42c0e32f7dba6f8",
+          "authorHandle": "helloimbradley.bsky.social",
+          "postText": "Fraser can fix Ben McKay? 🤔\n\n.. firmly believing that they must offload some of their senior players like Darcy Parish, Ben McKay and Jordan Ridley and finalise a trade for Zach Merrett if they are serious about getting better.\n\nwww.sen.com.au/news/2026/08...",
+          "createdAt": "2026-08-24T04:46:15.978Z",
+          "uri": "at://did:plc:h54fh3kpvmxzh5oo4yrvhugu/app.bsky.feed.post/3mtsipdnz3c2c",
+          "sentiment": 0
+        }
+      ],
       "youtube": [
         {
           "id": "fd73a957d61f986800ede0595a31f8f60cc2216f236e380b911e4a754be77dd7",
