@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T02:23:45.707Z",
+  "lastUpdated": "2026-08-24T03:30:28.489Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.13806626098715347,
+      "overallSentiment": 0.1429682217714672,
       "newsSentiment": -0.025,
-      "socialSentiment": 0.2426470588235294,
+      "socialSentiment": 0.25735294117647056,
       "mentions": {
         "news": 2,
         "social": 69,
@@ -69,6 +69,14 @@
         }
       ],
       "social": [
+        {
+          "id": "192a7f459a97995e09b5e1e788d756e79a8d9fa475b90582b4851bc39e7bc36d",
+          "authorHandle": "alohatsunami.bsky.social",
+          "postText": "🎯\n\nPerfect messaging from Troy Jackson.\n\n#VoteTroyJackson\n#MaineU.S.Senate \n\n👇",
+          "createdAt": "2026-08-24T03:16:24.693Z",
+          "uri": "at://did:plc:cbcfj6lolga6m5otahydprgn/app.bsky.feed.post/3mtsdoo55as26",
+          "sentiment": 1
+        },
         {
           "id": "e2c4a6ea6ac021c4c6be89bd4c14261d3db79cde6cd8c87df61b52a789641a32",
           "authorHandle": "fooliticscom.bsky.social",
@@ -612,14 +620,6 @@
           "createdAt": "2026-08-23T03:34:12.556Z",
           "uri": "at://did:plc:6kv5inxd5x4tuydxlob27f36/app.bsky.feed.post/3mtpu7l2wb22t",
           "sentiment": 0.8
-        },
-        {
-          "id": "b669fb10782fc0faef8f386c5624cc9510656d2e08868904514d68bd042fb9c7",
-          "authorHandle": "protectuselections.bsky.social",
-          "postText": "Troy Jackson Shares Message to Elon Musk",
-          "createdAt": "2026-08-23T02:30:02.283027+00:00",
-          "uri": "at://did:plc:trhmwlm2uaan4pok23ajo4j2/app.bsky.feed.post/3mtpqmtb45t24",
-          "sentiment": 0
         }
       ],
       "youtube": [
