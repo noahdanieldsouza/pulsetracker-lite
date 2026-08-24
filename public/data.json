@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T20:44:06.451Z",
+  "lastUpdated": "2026-08-24T21:12:58.783Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -65,14 +65,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.14732600732600734,
+      "overallSentiment": 0.1576365663322185,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.13428571428571429,
+      "socialSentiment": 0.16521739130434782,
       "mentions": {
         "news": 13,
-        "social": 70,
+        "social": 69,
         "youtube": 13,
-        "total": 96
+        "total": 95
       },
       "news": [
         {
@@ -194,6 +194,22 @@
         }
       ],
       "social": [
+        {
+          "id": "30eb710ffd8bdd30584693cfbf2b79155b6b9e4385cf353f96ac08d6aaea2f47",
+          "authorHandle": "freebklyn.bsky.social",
+          "postText": "Unless we vote them out, the rest of the world will believe these assholes speak for us, and they’d be right to believe it.\n\nSo, everyone double down to help win huge in the midterms. They’re ten weeks away!\n\nSeems like the Troy Jackson for Maine campaign is a good one to volunteer for promptly!",
+          "createdAt": "2026-08-24T20:59:27.093Z",
+          "uri": "at://did:plc:dt3tarozagtb6dleb5nqfvrn/app.bsky.feed.post/3mtu73jrhcc2u",
+          "sentiment": 1
+        },
+        {
+          "id": "2c8cee4c08c78214500104fbf37060179dfe3ac1259479fc04e8f0af21a6ee0a",
+          "authorHandle": "kingofviltrum.bsky.social",
+          "postText": "Free Abdul El Sayed, Troy Jackson, and Peggy Flanagan campaign ads right here.",
+          "createdAt": "2026-08-24T20:48:32.513Z",
+          "uri": "at://did:plc:zrui3rd2mmxxgfq2pyrucaoj/app.bsky.feed.post/3mtu6hzja222d",
+          "sentiment": 0
+        },
         {
           "id": "f30bd73e3a8f5d01ece6eb4b7776689065a595d66e46ab366a9fbdb303fb70c1",
           "authorHandle": "tovahr.bsky.social",
@@ -729,30 +745,6 @@
           "createdAt": "2026-08-23T22:27:40Z",
           "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mtrtkemukv2o",
           "sentiment": -0.6
-        },
-        {
-          "id": "56ef428af71a8f3ec6c9902b9c9126d626ccfe40c68d3ae5cb8887f3b99cdd56",
-          "authorHandle": "ajr68.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-23T21:12:08.404Z",
-          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtrpdce3322o",
-          "sentiment": -1
-        },
-        {
-          "id": "87958f05a733852b9b623576692262f73d5be8698da118b967d3c8bdbf01be46",
-          "authorHandle": "dewforpolitics.bsky.social",
-          "postText": "Sen. Bernie Sanders said California’s proposed 5% billionaire wealth tax leads 48%-41% despite $156 million spent against it. Maine Democratic U.S. Senate nominee Troy Jackson blasted Susan Collins for voting against an amendment aimed at stopping Trump’s tariffs from raising costs.",
-          "createdAt": "2026-08-23T21:12:02.338Z",
-          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mtrpd4l5422j",
-          "sentiment": 0
-        },
-        {
-          "id": "96560974010b3fb734a0ecefc085a04b0d0e436d90aa4b6a6cfb73ba04fcf67a",
-          "authorHandle": "jskjsk.bsky.social",
-          "postText": "youtube.com/shorts/S7RQa...",
-          "createdAt": "2026-08-23T20:47:51.734Z",
-          "uri": "at://did:plc:gscs7ggdlxbyt6loaolqkgdv/app.bsky.feed.post/3mtrnxv64pc2v",
-          "sentiment": 0
         }
       ],
       "youtube": [
