@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T19:47:50.669Z",
+  "lastUpdated": "2026-08-25T20:11:02.073Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.25159040404040406,
+      "overallSentiment": 0.24999713413201788,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.19446818181818176,
+      "socialSentiment": 0.1896883720930232,
       "mentions": {
         "news": 45,
-        "social": 90,
+        "social": 88,
         "youtube": 33,
-        "total": 168
+        "total": 166
       },
       "news": [
         {
@@ -456,6 +456,14 @@
         }
       ],
       "social": [
+        {
+          "id": "034dbf8db15ed160d8556b359cddb2d46e4608e8efee5d6da757a3b09b7340b4",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-25T20:06:26.679Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtwmlo5x222p",
+          "sentiment": 0
+        },
         {
           "id": "aae04828919e27feb8f01a083ab5e90629675ff1a81adaa60b2dbbf7e717f2a7",
           "authorHandle": "penanghill.bsky.social",
@@ -1151,30 +1159,6 @@
           "createdAt": "2026-08-24T20:40:46.780Z",
           "uri": "at://did:plc:hkrqzginr44yb4gghwi7yben/app.bsky.feed.post/3mtu625e7n22m",
           "sentiment": -0.1
-        },
-        {
-          "id": "fb8c4e75a89de6ac0e37bf8497298026c27154453e25bc27438a2746d7819401",
-          "authorHandle": "trruhnke.bsky.social",
-          "postText": "Does Troy Jackson have to report some kind of in-kind contribution disclosure for this?",
-          "createdAt": "2026-08-24T20:01:40.311Z",
-          "uri": "at://did:plc:usq33xbspbkxle7h3twrtbkb/app.bsky.feed.post/3mtu3u7lmzk2l",
-          "sentiment": -0.2
-        },
-        {
-          "id": "a078e64faec18748e294417ddaf27b17779fd26a93180f88b032469b9fff258e",
-          "authorHandle": "wnavarre.bsky.social",
-          "postText": "Ok I don't quite think this is true. \n\nAs an example, this Troy Jackson running for Senate. He has a bit of a traditional rural Maine accent. It still exists...",
-          "createdAt": "2026-08-24T19:58:38.878Z",
-          "uri": "at://did:plc:rhw5icce4upnjps4jmuqeb6o/app.bsky.feed.post/3mtu3oskqec2p",
-          "sentiment": 0
-        },
-        {
-          "id": "e8f8a5fe8ff912b80e8a0c5acbfc1b8c464a6a9dded5cccf0245eb3effac0fd9",
-          "authorHandle": "lostsheep1.bsky.social",
-          "postText": "youtube.com/watch?v=6ZHA...\n\nEveryone needs to hear this. Not just Mainers. Everyone needs to help elect Troy. PACs dumped like $43,000,000 to defeat him cause they know he can beat her. Any little bit to support him would be great.",
-          "createdAt": "2026-08-24T19:57:10.154Z",
-          "uri": "at://did:plc:eorttpiisap4r5rcuurpnmxy/app.bsky.feed.post/3mtu3m5x6r22u",
-          "sentiment": 1
         }
       ],
       "youtube": [
