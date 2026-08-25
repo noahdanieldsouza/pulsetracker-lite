@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T16:07:01.072Z",
+  "lastUpdated": "2026-08-25T16:52:10.818Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.23846438006438012,
+      "overallSentiment": 0.229999494949495,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.1550901098901099,
+      "socialSentiment": 0.12969545454545456,
       "mentions": {
         "news": 45,
-        "social": 93,
+        "social": 90,
         "youtube": 33,
-        "total": 171
+        "total": 168
       },
       "news": [
         {
@@ -465,6 +465,30 @@
         }
       ],
       "social": [
+        {
+          "id": "cb012670e94ed628134aa3f19939cafc3fc72d2b8ce87471e2ad8299d4391320",
+          "authorHandle": "elitegrifters.bsky.social",
+          "postText": "Fox News' source was instead Alex Seitz-Wald.",
+          "createdAt": "2026-08-25T16:36:15.173Z",
+          "uri": "at://did:plc:6mgiqkco2khv7hzmf6hixvdy/app.bsky.feed.post/3mtwattmjfk2m",
+          "sentiment": -0.5
+        },
+        {
+          "id": "b67c6f05fb9e53ffb0a554bd05db7f84a5b8ba9d044af75c89d8a83024787a87",
+          "authorHandle": "elitegrifters.bsky.social",
+          "postText": "Abdul El-Sayed not ditching Hasan Piker has a companion, Troy Jackson not ditching Graham Platner.\n\nFox News picked up on this without \"corporate establishment centrist Democrats\" making a big thing of it. Funny how that works.",
+          "createdAt": "2026-08-25T16:36:15.172Z",
+          "uri": "at://did:plc:6mgiqkco2khv7hzmf6hixvdy/app.bsky.feed.post/3mtwatsuyhs2m",
+          "sentiment": -0.7
+        },
+        {
+          "id": "7cb6024f449a808ce8ad1099defde57f5991bb19429a1cb1704e2862db93aa94",
+          "authorHandle": "galenstone.bsky.social",
+          "postText": "I agree. Maybelline is cheap and hard to wash off.",
+          "createdAt": "2026-08-25T16:21:01.283Z",
+          "uri": "at://did:plc:7euwurnrt4cnlapptx7xiiyn/app.bsky.feed.post/3mtw7yldcqk2x",
+          "sentiment": 0
+        },
         {
           "id": "70e9fa347ed59d5dc212b9c826f031295d7a88b01fbf2eefc5f3fb3eff517e88",
           "authorHandle": "capitalistfool.bsky.social",
@@ -1160,54 +1184,6 @@
           "createdAt": "2026-08-24T16:55:10.775Z",
           "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mttrgqg3rk2u",
           "sentiment": 0
-        },
-        {
-          "id": "f9ef1fe2f8ebee3c36a0cfa56e5cabb5b093921884f3e882d5a230b8530ac975",
-          "authorHandle": "beingliberal.bsky.social",
-          "postText": "The  Borowitz Report for the win...",
-          "createdAt": "2026-08-24T16:50:07.723Z",
-          "uri": "at://did:plc:hsogstbdd4htnofbgowhszmb/app.bsky.feed.post/3mttr5pner22u",
-          "sentiment": 0
-        },
-        {
-          "id": "c79a7cb59ceb9c5c361bdcba74b51057acd8ad0509e19f55652cac8890f5bef7",
-          "authorHandle": "langdongrant.bsky.social",
-          "postText": "And Troy Jackson in Maine.",
-          "createdAt": "2026-08-24T16:45:21.795Z",
-          "uri": "at://did:plc:d7g75zlofngsfubdmizusk5x/app.bsky.feed.post/3mttqv6ptyk2c",
-          "sentiment": 0
-        },
-        {
-          "id": "13a3eca36f13ed9daed32c3bacf805b83e9a6fe5a20780db6f77f81841b925c3",
-          "authorHandle": "liselatulippe.bsky.social",
-          "postText": "Jackson's latest ad lets his mom do the talking on that front: \"Troy never talks about what he's done,\" she says. \"If you need help, he's gonna be there for you.\"\n\nThe new spot comes as Vice President JD Vance visits Maine on Monday.\n l.smartnews.com/p-8mz2PlZK/w...",
-          "createdAt": "2026-08-24T16:20:32.429Z",
-          "uri": "at://did:plc:nwohato66ne5f5jg7bdyglsd/app.bsky.feed.post/3mttpisdyz226",
-          "sentiment": 0.6
-        },
-        {
-          "id": "e9fbc498312e0565e9bebe66b173e738fa7b407feddf3c6f47445935cc738820",
-          "authorHandle": "liselatulippe.bsky.social",
-          "postText": "Jackson faces negative ads from the Senate Leadership Fund and spots highlighting Republican Sen. Susan Collins' accomplishments.\n l.smartnews.com/p-8mz2PlZK/w...",
-          "createdAt": "2026-08-24T16:20:23.511Z",
-          "uri": "at://did:plc:nwohato66ne5f5jg7bdyglsd/app.bsky.feed.post/3mttpijtuys26",
-          "sentiment": -0.3
-        },
-        {
-          "id": "2c90cc7d761987507e75c0e22109abffb727987a64c65cbcf29acb78ba01faaf",
-          "authorHandle": "liselatulippe.bsky.social",
-          "postText": "\"We struggled a lot. He didn't use that as an excuse. He used that as fuel to make things better for other people,\" says his mom, Colleen McBreairty, in the ad, which is part of a seven-figure buy.\n l.smartnews.com/p-8mz2PlZK/w...",
-          "createdAt": "2026-08-24T16:20:03.574Z",
-          "uri": "at://did:plc:nwohato66ne5f5jg7bdyglsd/app.bsky.feed.post/3mttphwtgcc26",
-          "sentiment": 0.7
-        },
-        {
-          "id": "6353a67f5bf87ffc750743a32eb9c31f8e34f3aece95252efc539725b9af82ba",
-          "authorHandle": "liselatulippe.bsky.social",
-          "postText": " \"Maine Democrat Jackson goes positive in statewide ad\"\n\nIn a new ad running statewide and shared first with Semafor, the Democratic Senate nominee appears alongside his mom, who talks about his upbringing by teenage parents.\n l.smartnews.com/p-8mz2PlZK/w...",
-          "createdAt": "2026-08-24T16:19:45.098Z",
-          "uri": "at://did:plc:nwohato66ne5f5jg7bdyglsd/app.bsky.feed.post/3mttphfa2xc26",
-          "sentiment": 0.5
         }
       ],
       "youtube": [
