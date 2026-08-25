@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T15:23:12.860Z",
+  "lastUpdated": "2026-08-25T16:07:01.072Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.24037516740438095,
+      "overallSentiment": 0.23846438006438012,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.16082247191011237,
+      "socialSentiment": 0.1550901098901099,
       "mentions": {
         "news": 45,
-        "social": 91,
+        "social": 93,
         "youtube": 33,
-        "total": 169
+        "total": 171
       },
       "news": [
         {
@@ -465,6 +465,38 @@
         }
       ],
       "social": [
+        {
+          "id": "70e9fa347ed59d5dc212b9c826f031295d7a88b01fbf2eefc5f3fb3eff517e88",
+          "authorHandle": "capitalistfool.bsky.social",
+          "postText": "www.jacksonformaine.com",
+          "createdAt": "2026-08-25T16:04:22.291Z",
+          "uri": "at://did:plc:iq4dgqv2ejszt3sxfnoljrvc/app.bsky.feed.post/3mtw72smkl226",
+          "sentiment": 0
+        },
+        {
+          "id": "faed2cf9cdb0932455c0bfd4a40549f881523e8f226c3aa2e29195ede00a6247",
+          "authorHandle": "anarcho.bsky.social",
+          "postText": "scheerpost.com/2026/08/25/v...",
+          "createdAt": "2026-08-25T15:59:39.758Z",
+          "uri": "at://did:plc:cjcztefw4jko4rc5wizt46jp/app.bsky.feed.post/3mtw6sf6chk2k",
+          "sentiment": 0
+        },
+        {
+          "id": "3772382bc88e475da4a01e42d48c1ef4b755123aebca7970d55dd98df4381d5d",
+          "authorHandle": "pkandelic.bsky.social",
+          "postText": "Congratulations to Mary Peltola and Troy Jackson, I guess.",
+          "createdAt": "2026-08-25T15:45:00.354Z",
+          "uri": "at://did:plc:extkypql4enif3r2cdocfkng/app.bsky.feed.post/3mtw5y6iyjc2o",
+          "sentiment": -0.3
+        },
+        {
+          "id": "8bdc8e53752292ba412f3cdec62b1c16dbc6000712bc936f0ad63f34e6769f85",
+          "authorHandle": "jpylko.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-25T15:38:22.199Z",
+          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mtw5mcsbbk25",
+          "sentiment": 0
+        },
         {
           "id": "222db7b499bd8ca0495db43aee2e3a3f636c82611d8c1960350354e1904ba789",
           "authorHandle": "eliemar.bsky.social",
@@ -1176,22 +1208,6 @@
           "createdAt": "2026-08-24T16:19:45.098Z",
           "uri": "at://did:plc:nwohato66ne5f5jg7bdyglsd/app.bsky.feed.post/3mttphfa2xc26",
           "sentiment": 0.5
-        },
-        {
-          "id": "1bf782d19f99991abdd52477307b41529adf6ae8cb8ba9be0fd90af0203ed9fc",
-          "authorHandle": "kathnwy.bsky.social",
-          "postText": "Troy’s message to Susan’s pal, JD …https://substack.com/@troyjacksonformaine/note/c-321514589?r=26bcku&utm_medium=ios&utm_source=notes-share-action",
-          "createdAt": "2026-08-24T15:32:22.436Z",
-          "uri": "at://did:plc:lqrc6kinmugjfo35mtvfiwjd/app.bsky.feed.post/3mttmsoag7s2k",
-          "sentiment": -0.1
-        },
-        {
-          "id": "f8a31d16b257aeb9e95993b32789faf7d20402ea7795c5002f7f5cccff561d52",
-          "authorHandle": "hope30.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-24T15:28:18.855Z",
-          "uri": "at://did:plc:iqwteqt2rsvbwyuya5vh5pra/app.bsky.feed.post/3mttmlfwx4s2k",
-          "sentiment": 0
         }
       ],
       "youtube": [
