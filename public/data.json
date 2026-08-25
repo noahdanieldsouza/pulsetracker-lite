@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T04:20:02.883Z",
+  "lastUpdated": "2026-08-25T04:58:43.366Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -65,14 +65,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1732848232848233,
+      "overallSentiment": 0.16703778677462888,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.2121621621621622,
+      "socialSentiment": 0.19342105263157897,
       "mentions": {
         "news": 13,
-        "social": 75,
+        "social": 77,
         "youtube": 13,
-        "total": 101
+        "total": 103
       },
       "news": [
         {
@@ -194,6 +194,22 @@
         }
       ],
       "social": [
+        {
+          "id": "aa122dc2fcef93dccc82325dd033dc2e32407c2b1c37a7070bf71fe8adf467a7",
+          "authorHandle": "suevisa.bsky.social",
+          "postText": "youtube.com/shorts/S7RQa...",
+          "createdAt": "2026-08-25T04:58:22.899Z",
+          "uri": "at://did:plc:j7j52hwfht6jojewrpof7btt/app.bsky.feed.post/3mtuztwetpc2w",
+          "sentiment": 0
+        },
+        {
+          "id": "d60a8d3e34df99e659e9e4556693b7592c98cf33e32d675ba11720588adbe5d1",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-25T04:32:24.563Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mtuyfi7yek2p",
+          "sentiment": -1
+        },
         {
           "id": "f8ea9b69d847f4c7211114f3e5b74e30040ff8c5d8ec85a518879e72674d7666",
           "authorHandle": "coccoside.bsky.social",
@@ -937,9 +953,9 @@
       "socialSentiment": 0,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 1,
         "youtube": 3,
-        "total": 5
+        "total": 4
       },
       "news": [],
       "social": [
@@ -949,14 +965,6 @@
           "postText": "I'm switching from New Kids On The Block CDs in the car to Danny Wood CDs. Then Joey McIntyre. Then, if I still have the work commute by that time, Jordan Knight.\n\n#NewKidsOnTheBlock\n#DannyWood\n#JoeyMcIntyre\n#JordanKnight",
           "createdAt": "2026-08-24T23:46:56.052Z",
           "uri": "at://did:plc:zs3p4mtff6uyiwm2iiecsxhv/app.bsky.feed.post/3mtuigz7dt22k",
-          "sentiment": 0
-        },
-        {
-          "id": "09a2126c0afd2201d4c3806dda0f82486164ab43b028dc3fb42c0e32f7dba6f8",
-          "authorHandle": "helloimbradley.bsky.social",
-          "postText": "Fraser can fix Ben McKay? 🤔\n\n.. firmly believing that they must offload some of their senior players like Darcy Parish, Ben McKay and Jordan Ridley and finalise a trade for Zach Merrett if they are serious about getting better.\n\nwww.sen.com.au/news/2026/08...",
-          "createdAt": "2026-08-24T04:46:15.978Z",
-          "uri": "at://did:plc:h54fh3kpvmxzh5oo4yrvhugu/app.bsky.feed.post/3mtsipdnz3c2c",
           "sentiment": 0
         }
       ],
