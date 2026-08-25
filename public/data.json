@@ -1,30 +1,21 @@
 {
-  "lastUpdated": "2026-08-25T16:52:10.818Z",
+  "lastUpdated": "2026-08-25T17:26:24.892Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0.8,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": 0.8,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "548fe856b0e50b094f3f6a1f109a7d183b1a5084d2bbd5f2a296bfaca7906acd",
-          "authorHandle": "unicef-evaluation.bsky.social",
-          "postText": "🎥 How can evaluators build trust with communities? Nirav Nitin Shah shares how engaging early, listening with humility, and being transparent can support meaningful participation and stronger evidence.\n#UNICEF #Evaluation #OneMinuteOneQuestion #ForEveryChild",
-          "createdAt": "2026-08-24T17:03:08.572Z",
-          "uri": "at://did:plc:avkxvkmpqahisgvsyfmuljrq/app.bsky.feed.post/3mttruy3eec25",
-          "sentiment": 0.8
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
@@ -48,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.229999494949495,
+      "overallSentiment": 0.23757525252525258,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.12969545454545456,
+      "socialSentiment": 0.1524227272727273,
       "mentions": {
         "news": 45,
         "social": 90,
@@ -465,6 +456,30 @@
         }
       ],
       "social": [
+        {
+          "id": "3f9e72f07b06c279adc18c419a72cec7ef437a1b342d52d9de77cdff063f3fd8",
+          "authorHandle": "sumoh7.bsky.social",
+          "postText": "When we say This is not working, we are no longer complaining, we are fighting! Troy Jackson is leading the charge for healthcare, childcare, and freedom. \n\nWe have 70 days to demand it all and change everything. #BlueWaveIn70Days",
+          "createdAt": "2026-08-25T17:18:21.354Z",
+          "uri": "at://did:plc:2nfexzpaqiyscshuda2gyqzf/app.bsky.feed.post/3mtwd73zx3c26",
+          "sentiment": 1
+        },
+        {
+          "id": "772720af76e5cf5827f1b2a15c8e4af5d66d8613b48d6955deeab4c9f88ec8b2",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-25T17:14:20.176Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtwcxvzros2y",
+          "sentiment": 0
+        },
+        {
+          "id": "4b75e731e84e2ce7bfd820e28b280548a3cd5bf9fd09abbad8d2cae89106d185",
+          "authorHandle": "peggystuart.bsky.social",
+          "postText": "Elon Musk is spending hundreds of millions to influence our elections and defeat Troy Jackson. He is forgetting that power actually belongs to the people. We will not allow big money to control our collective future. #BlueWaveIn70Days",
+          "createdAt": "2026-08-25T17:10:20.071Z",
+          "uri": "at://did:plc:7fo4kehjjc7fbnan4dkyqrty/app.bsky.feed.post/3mtwcqr2f4s2a",
+          "sentiment": 1
+        },
         {
           "id": "cb012670e94ed628134aa3f19939cafc3fc72d2b8ce87471e2ad8299d4391320",
           "authorHandle": "elitegrifters.bsky.social",
@@ -1160,30 +1175,6 @@
           "createdAt": "2026-08-24T17:29:35.159Z",
           "uri": "at://did:plc:43ihiwwxn6mfu6av7phdk2kb/app.bsky.feed.post/3mttteb64qs2h",
           "sentiment": 0
-        },
-        {
-          "id": "58e728902947507bebaa90e3526126c0b14e883b1a10728213ee6911f3cef376",
-          "authorHandle": "malmeyer.bsky.social",
-          "postText": "Sounds great! Got my vote. Thanks To Lead Maine for this informational flyer! 😘",
-          "createdAt": "2026-08-24T17:16:17.285Z",
-          "uri": "at://did:plc:tpw2rog7yltz2dfxfnyqfcev/app.bsky.feed.post/3mttsmib3sk2d",
-          "sentiment": 0
-        },
-        {
-          "id": "27da662a2f002cc4a9dd77b266371693f35593af185208debb63a92f130afb79",
-          "authorHandle": "whitehousewatchdog.bsky.social",
-          "postText": "Sen. Susan Collins avoids supporting VP JD Vance's campaign visit in Maine amid a tight race with Democratic contender Troy Jackson, highlighting political tension.",
-          "createdAt": "2026-08-24T17:15:02.280Z",
-          "uri": "at://did:plc:chkh3qo3cdvmsycdvtoirih6/app.bsky.feed.post/3mttskats3b2v",
-          "sentiment": 0
-        },
-        {
-          "id": "4a3bdc462a925c7ff464bbc538cdcabfc6983b98cdb5a4fb6d67d93096be65ba",
-          "authorHandle": "jpylko.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-24T16:55:10.775Z",
-          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mttrgqg3rk2u",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -1528,9 +1519,9 @@
       "socialSentiment": 0,
       "mentions": {
         "news": 1,
-        "social": 1,
+        "social": 2,
         "youtube": 4,
-        "total": 6
+        "total": 7
       },
       "news": [
         {
@@ -1544,6 +1535,14 @@
         }
       ],
       "social": [
+        {
+          "id": "fd253ef782bdabcdb1f55925755f8c24a6a3d2b2090d34e64bce79fa097b357e",
+          "authorHandle": "dawn.com.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-08-25T13:42:11.000Z",
+          "uri": "at://did:plc:qdzcgmgri7npfs46puqpnnjo/app.bsky.feed.post/3mtwchh65eet2",
+          "sentiment": null
+        },
         {
           "id": "e2c1c5051b67c5e3df010f3aeb818a60416d597f8238ef3e56a0bdaba940e8bf",
           "authorHandle": "1mirandaallen.bsky.social",
