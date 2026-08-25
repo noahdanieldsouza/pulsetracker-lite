@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T07:54:02.485Z",
+  "lastUpdated": "2026-08-25T08:35:32.918Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -36,9 +36,9 @@
       "socialSentiment": 1,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 1,
         "youtube": 0,
-        "total": 2
+        "total": 1
       },
       "news": [],
       "social": [
@@ -49,14 +49,6 @@
           "createdAt": "2026-08-24T13:13:24.748Z",
           "uri": "at://did:plc:vg6xcxg4hafkdr5jbb6cizx5/app.bsky.feed.post/3mttf26sfr22l",
           "sentiment": 1
-        },
-        {
-          "id": "36abca5f72a434e1e3f3074d7355282c97870e63d2396efda7a5b91ca76fac67",
-          "authorHandle": "indivmidmaine.bsky.social",
-          "postText": "If you are a pro-democracy friend in the Waterville area, please do plan to attend, and please sign up! We're so lucky that we get to hear directly from our Maine secretary of state and chief elections officer! Don't miss this opportunity. Sat., Sept. 19, 2-4pm. ❤ www.mobilize.us/indivisiblem...",
-          "createdAt": "2026-08-24T08:27:02.762Z",
-          "uri": "at://did:plc:rokdgpbsyht6ariljokb6hhh/app.bsky.feed.post/3mtsv24rskk2x",
-          "sentiment": 1
         }
       ],
       "youtube": [],
@@ -65,14 +57,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1678974358974359,
+      "overallSentiment": 0.16703778677462888,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.196,
+      "socialSentiment": 0.19342105263157897,
       "mentions": {
         "news": 13,
-        "social": 76,
+        "social": 77,
         "youtube": 13,
-        "total": 102
+        "total": 103
       },
       "news": [
         {
@@ -194,6 +186,14 @@
         }
       ],
       "social": [
+        {
+          "id": "12a5349d4a7bcd42ea1612c5779f01d796ff410f006f33ad952a00816d6607db",
+          "authorHandle": "ajr68.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-25T08:06:30.020Z",
+          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtveecmhrs2i",
+          "sentiment": 0
+        },
         {
           "id": "433ac0c6a983641a4e9fd9e796a07ab759e656584aaad15613e13f48cbd941f1",
           "authorHandle": "ahadreports.bsky.social",
