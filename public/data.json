@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T23:33:56.152Z",
+  "lastUpdated": "2026-08-25T23:55:13.521Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -56,9 +56,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.34161616161616165,
+      "overallSentiment": 0.33858585858585855,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.46454545454545443,
+      "socialSentiment": 0.45545454545454533,
       "mentions": {
         "news": 45,
         "social": 110,
@@ -473,6 +473,14 @@
         }
       ],
       "social": [
+        {
+          "id": "43a1d02eca2dc299e371a1a6c0b9e6a39c1bb6bd2299e4d823e151069de2afdd",
+          "authorHandle": "natashaloveslife.bsky.social",
+          "postText": "youtube.com/shorts/CxR-c...",
+          "createdAt": "2026-08-25T23:47:38.403Z",
+          "uri": "at://did:plc:kfde6tp4eysrmru254gip2gt/app.bsky.feed.post/3mtwyx72n5k2s",
+          "sentiment": 0
+        },
         {
           "id": "eba91be3f86b14f3a15f809f058e18f474ae9f9f055ca855a8fc6dbb5a956562",
           "authorHandle": "gsgconcept.bsky.social",
@@ -1344,14 +1352,6 @@
           "createdAt": "2026-08-25T00:11:59.972Z",
           "uri": "at://did:plc:w63oqg6yy2hieliwsa7driko/app.bsky.feed.post/3mtujtthdp22p",
           "sentiment": 1
-        },
-        {
-          "id": "f30097c59532f908ffe06f163aa8427590e9bb0e7c2d17e6b1e6ef910cf56a2f",
-          "authorHandle": "wildcider.bsky.social",
-          "postText": "Troy Jackson understands that being in government means being a public servant - as in serving us and what’s in OUR best interest, not the billionaires and lobbyists .\ntroyjacksonformaine.substack.com/p/i-never-fo...",
-          "createdAt": "2026-08-24T23:49:52.375Z",
-          "uri": "at://did:plc:bb5i52pw4zt2j6wnrlxzqy7i/app.bsky.feed.post/3mtuimbei4c2v",
-          "sentiment": 1
         }
       ],
       "youtube": [
@@ -1696,9 +1696,9 @@
       "socialSentiment": 0,
       "mentions": {
         "news": 1,
-        "social": 3,
+        "social": 2,
         "youtube": 4,
-        "total": 8
+        "total": 7
       },
       "news": [
         {
@@ -1727,14 +1727,6 @@
           "createdAt": "2026-08-25T13:42:11.000Z",
           "uri": "at://did:plc:qdzcgmgri7npfs46puqpnnjo/app.bsky.feed.post/3mtwchh65eet2",
           "sentiment": null
-        },
-        {
-          "id": "e2c1c5051b67c5e3df010f3aeb818a60416d597f8238ef3e56a0bdaba940e8bf",
-          "authorHandle": "1mirandaallen.bsky.social",
-          "postText": "I'm switching from New Kids On The Block CDs in the car to Danny Wood CDs. Then Joey McIntyre. Then, if I still have the work commute by that time, Jordan Knight.\n\n#NewKidsOnTheBlock\n#DannyWood\n#JoeyMcIntyre\n#JordanKnight",
-          "createdAt": "2026-08-24T23:46:56.052Z",
-          "uri": "at://did:plc:zs3p4mtff6uyiwm2iiecsxhv/app.bsky.feed.post/3mtuigz7dt22k",
-          "sentiment": 0
         }
       ],
       "youtube": [
