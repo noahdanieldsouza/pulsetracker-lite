@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T13:27:54.785Z",
+  "lastUpdated": "2026-08-25T13:44:02.223Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -31,40 +31,31 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 1,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": 1,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "8e25098bdf9f96385ebc1778e54deca5b1b8d0a88b668c30d4cde2c618286bd9",
-          "authorHandle": "sharonlandry.bsky.social",
-          "postText": "Some of the heroes have been Secretaries of State who have pushed against the attempt for the regime to take over the state's rights to control elections. Shout out to Shenna Bellows who told them to go jump in the Gulf of Maine when told she had to send them Maine's voter data.",
-          "createdAt": "2026-08-24T13:13:24.748Z",
-          "uri": "at://did:plc:vg6xcxg4hafkdr5jbb6cizx5/app.bsky.feed.post/3mttf26sfr22l",
-          "sentiment": 1
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.22904856565656573,
+      "overallSentiment": 0.2231102928014321,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.1268426666666667,
+      "socialSentiment": 0.10902784810126584,
       "mentions": {
         "news": 45,
-        "social": 77,
+        "social": 81,
         "youtube": 33,
-        "total": 155
+        "total": 159
       },
       "news": [
         {
@@ -475,12 +466,68 @@
       ],
       "social": [
         {
+          "id": "90fda0a0bd5564fd4843bffaadd7f4822d5314b23d56c415387d80f47a861d58",
+          "authorHandle": "raybeckerman.bsky.social",
+          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-25T13:39:25.793Z",
+          "uri": "at://did:plc:pp2y33525jf5xkyg4pfqkdvd/app.bsky.feed.post/3mtvwxmygs22p",
+          "sentiment": -0.2
+        },
+        {
+          "id": "e35a7d4a1fe8294da377fc8c51eb6bbf73991eb108ef8ef2230e788d775c7539",
+          "authorHandle": "tusk81.bsky.social",
+          "postText": "“JD Vance is a dirtbag,” responded @troyjackson207.bsky.social.  “There was a young man who had a Social Security number, he had a job, I mean, he had a life. He had a family.” www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-25T13:33:21.124Z",
+          "uri": "at://did:plc:qyipmepnqowrzrk4abnfpwow/app.bsky.feed.post/3mtvwmr7np22f",
+          "sentiment": -0.2
+        },
+        {
+          "id": "08f2b8b457015adcd457f1d202aba2fe129cd8872ce6b72a0113c63295c6353d",
+          "authorHandle": "carceralabolition.bsky.social",
+          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine\n\n\"To come here and say, 'Have some perspective'? You ought to have some damn perspective,\" Jackson said in a video reply to the vice president.\nwww.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-25T13:20:38.366Z",
+          "uri": "at://did:plc:y52hu7mf3jodfkwjsp56s2bg/app.bsky.feed.post/3mtvvvzs4tk2m",
+          "sentiment": -0.1
+        },
+        {
+          "id": "650735cbddf4ddc2476896b5656e02f9d6f0e83ed422485624184d9841324c08",
+          "authorHandle": "dogzilla66.bsky.social",
+          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine | Common Dreams www.commondreams.org/news/troy-jack…",
+          "createdAt": "2026-08-25T13:18:44.218Z",
+          "uri": "at://did:plc:alucltryrhlqlgjqk5xnqcow/app.bsky.feed.post/3mtvvsmz4wb2k",
+          "sentiment": -0.2
+        },
+        {
+          "id": "ad82552dfdfeaf52d673182ab2757a8dafda7d4bc2bfb5ea81764913ce5b87ee",
+          "authorHandle": "dogzilla.masto.deluma.biz.ap.brid.gy",
+          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine | Common Dreams https://www.commondreams.org/news/troy-jackson-jd-vance",
+          "createdAt": "2026-08-25T13:18:43.000Z",
+          "uri": "at://did:plc:ioiqfz2fcjcrcay5hcg35edf/app.bsky.feed.post/3mtvvsxnsvgh2",
+          "sentiment": -0.2
+        },
+        {
+          "id": "be480aff6d3c997e7aef550c724db2d4f4f85a8944e976376d679b773b0e1a4d",
+          "authorHandle": "161bklyn.myatproto.social",
+          "postText": "What's the saying? “Those who can make you believe absurdities can make you commit atrocities.\"",
+          "createdAt": "2026-08-25T13:07:46.619Z",
+          "uri": "at://did:plc:iidestagau6ok5eugcsk6l56/app.bsky.feed.post/3mtvv6zscn22f",
+          "sentiment": 0
+        },
+        {
           "id": "1b00717b11a51af4811ae335b2cec38cd954fcfa8acdd2ee523ee38676982fde",
           "authorHandle": "mace-duggan.bsky.social",
           "postText": "Yes. Yes he is. Oh, and he's also a punk!\n\n‘Vance Is a Dirtbag’: Troy Jackson Responds to VP Downplaying ICE Killing in Maine",
           "createdAt": "2026-08-25T13:00:08.551Z",
           "uri": "at://did:plc:ugodhtq3guxvn6fyln3hi44d/app.bsky.feed.post/3mtvurex5ms2m",
           "sentiment": 1
+        },
+        {
+          "id": "75bb0721b12ad5097b1d6b2673a3d2c3e82fc6c17986af6a5b22bf0709f4716a",
+          "authorHandle": "indivisiblebangor.org",
+          "postText": "#MEPolitics Wednesday August 26 at 6pm in Brunswick:\nJoin Maine AFL-CIO President Cynthia Phinney, Reproductive Freedom for All President Mini Timmaraju, and U.S. Senate nominee Troy Jackson for a conversation on the changes Maine women want to see in Washington. www.mobilize.us/jacksonforma...",
+          "createdAt": "2026-08-25T12:55:40.153Z",
+          "uri": "at://did:plc:c4o2vaalki2qgmekvrzmguix/app.bsky.feed.post/3mtvujeyf522g",
+          "sentiment": 0.1
         },
         {
           "id": "4b5562ccf81ce18a8de3193da73a3a6e5ee57afaae0e4dc5e1f2531b22eb709a",
@@ -1065,30 +1112,6 @@
           "createdAt": "2026-08-24T14:09:41.158Z",
           "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mtti6ssa6c2v",
           "sentiment": 0
-        },
-        {
-          "id": "8d68411887bfcc6fd2efe88a41c383602087d4e188591143fbe0f579a10e04db",
-          "authorHandle": "ajr68.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-24T13:39:08.976Z",
-          "uri": "at://did:plc:f7cetxnfpazbcazf36ykirwt/app.bsky.feed.post/3mttgi7ipqs2v",
-          "sentiment": 0
-        },
-        {
-          "id": "df2d77b4a8006e8d9e3190ea935d6772b46cbb37330210d1b01720c55fc85bb4",
-          "authorHandle": "semafor.com",
-          "postText": "🟡 NEW: Troy Jackson is taking the positive route as Republicans sink money into negative ads in Maine.\n\n www.semafor.com/article/08/2...",
-          "createdAt": "2026-08-24T13:33:01.199Z",
-          "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mttg5bpscs2j",
-          "sentiment": 0.7
-        },
-        {
-          "id": "fa47d385dd0a5ed74910916af3df13361c084208754961f961f983fca10c59b5",
-          "authorHandle": "freeimamoglunow.eurosky.social",
-          "postText": "Belfast? Lissabon? Augusta? Portland?\nÜberall treibt sich Troy Jackson rum, nur nicht dort, wo er gewählt werden will. Seltsame Strategie.🤣",
-          "createdAt": "2026-08-24T13:32:16.998Z",
-          "uri": "at://did:plc:wrjwa2csqu2w7rw43hohuka5/app.bsky.feed.post/3mttg3wlvoc23",
-          "sentiment": -0.6
         }
       ],
       "youtube": [
