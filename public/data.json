@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T20:48:30.168Z",
+  "lastUpdated": "2026-08-25T21:12:24.669Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,31 +22,40 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": null,
+      "overallSentiment": 0,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": 0,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "5721486fac0343dfff00b4c18d86d3ec44480ca8bc3008c9cfc9be9aa2d98ade",
+          "authorHandle": "pressherald.com",
+          "postText": "Why the Supreme Court ruling on mail voting won’t have an immediate impact in Maine",
+          "createdAt": "2026-08-25T21:00:58+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtwpn64utv2k",
+          "sentiment": 0
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2561669104841519,
+      "overallSentiment": 0.2492219403335683,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.20819770114942532,
+      "socialSentiment": 0.18736279069767442,
       "mentions": {
         "news": 45,
-        "social": 89,
+        "social": 87,
         "youtube": 33,
-        "total": 167
+        "total": 165
       },
       "news": [
         {
@@ -456,6 +465,14 @@
         }
       ],
       "social": [
+        {
+          "id": "390c5717bf8eb4e65757d81d43c5b9f62730e926928d04b5c9db67fa224af8da",
+          "authorHandle": "57kev.bsky.social",
+          "postText": "Yes Vance is a Dirtbag and worse. And because no one on the right is speaking out or doing anything to stop this shit they are all dirtbags as far as I'm concerned. If there is really going to be a rapture that takes them away I say the sooner the better - take them now.",
+          "createdAt": "2026-08-25T21:04:39.493Z",
+          "uri": "at://did:plc:femn754jmamteuf2xzwwoilf/app.bsky.feed.post/3mtwptr5uh22u",
+          "sentiment": -1
+        },
         {
           "id": "df5f6e623f3f774e31c8749231a24704080fba91652d1ea414fe914217c75570",
           "authorHandle": "clion13.bsky.social",
@@ -1143,30 +1160,6 @@
           "createdAt": "2026-08-24T21:18:10.486Z",
           "uri": "at://did:plc:626hondgaubhlerdelzg5apb/app.bsky.feed.post/3mtua4z4nsc2n",
           "sentiment": -1
-        },
-        {
-          "id": "30eb710ffd8bdd30584693cfbf2b79155b6b9e4385cf353f96ac08d6aaea2f47",
-          "authorHandle": "freebklyn.bsky.social",
-          "postText": "Unless we vote them out, the rest of the world will believe these assholes speak for us, and they’d be right to believe it.\n\nSo, everyone double down to help win huge in the midterms. They’re ten weeks away!\n\nSeems like the Troy Jackson for Maine campaign is a good one to volunteer for promptly!",
-          "createdAt": "2026-08-24T20:59:27.093Z",
-          "uri": "at://did:plc:dt3tarozagtb6dleb5nqfvrn/app.bsky.feed.post/3mtu73jrhcc2u",
-          "sentiment": 1
-        },
-        {
-          "id": "1909fc4af6e33e68d9dbdc2070fd74f76cc7497615af0957ea193f01036f8ba1",
-          "authorHandle": "newrepublic.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-08-24T20:53:43.000Z",
-          "uri": "at://did:plc:qefo6jhzy4lvocnzakfk7rbi/app.bsky.feed.post/3mtuhc56vath2",
-          "sentiment": null
-        },
-        {
-          "id": "2c8cee4c08c78214500104fbf37060179dfe3ac1259479fc04e8f0af21a6ee0a",
-          "authorHandle": "kingofviltrum.bsky.social",
-          "postText": "Free Abdul El Sayed, Troy Jackson, and Peggy Flanagan campaign ads right here.",
-          "createdAt": "2026-08-24T20:48:32.513Z",
-          "uri": "at://did:plc:zrui3rd2mmxxgfq2pyrucaoj/app.bsky.feed.post/3mtu6hzja222d",
-          "sentiment": 0
         }
       ],
       "youtube": [
