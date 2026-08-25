@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T21:45:59.508Z",
+  "lastUpdated": "2026-08-25T22:02:19.789Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -27,12 +27,20 @@
       "socialSentiment": 0,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 2,
         "youtube": 0,
-        "total": 1
+        "total": 2
       },
       "news": [],
       "social": [
+        {
+          "id": "8528827a782d24e3a31bf2820ba1fb56fb5a330afca149b9b6ae347ad153cd45",
+          "authorHandle": "mainemorningstar.com",
+          "postText": "Noting the remaining injunction, Maine Secretary of State Shenna Bellows said in a statement that the legal fight “is not over.” mainemorningstar.com/2026/08/25/r...",
+          "createdAt": "2026-08-25T22:00:04.321Z",
+          "uri": "at://did:plc:xioe5btxavtplvj5h7gpk2uv/app.bsky.feed.post/3mtwswvnb6n2s",
+          "sentiment": 0
+        },
         {
           "id": "5721486fac0343dfff00b4c18d86d3ec44480ca8bc3008c9cfc9be9aa2d98ade",
           "authorHandle": "pressherald.com",
@@ -48,9 +56,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2668879666227493,
+      "overallSentiment": 0.26776840936840945,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.24036086956521743,
+      "socialSentiment": 0.24300219780219784,
       "mentions": {
         "news": 45,
         "social": 93,
@@ -465,6 +473,14 @@
         }
       ],
       "social": [
+        {
+          "id": "1e2c6db1c1544281b2d685457fec637aacb12f0e089981aba189d570c4eefa94",
+          "authorHandle": "socrates17.bsky.social",
+          "postText": "",
+          "createdAt": "2026-08-25T21:51:01.269Z",
+          "uri": "at://did:plc:wfbqju4m5o7hxaknhadpl3ev/app.bsky.feed.post/3mtwsgo2wl22c",
+          "sentiment": null
+        },
         {
           "id": "f1d2d88f01fa45de3e3fb8090459072d8a4ed1e869fee83a7c2fdb09fdf2f0ef",
           "authorHandle": "dollyfuzz.bsky.social",
@@ -1200,14 +1216,6 @@
           "createdAt": "2026-08-24T22:10:33.085Z",
           "uri": "at://did:plc:3wwe7cylq6axy54phwozm2nu/app.bsky.feed.post/3mtud2o574c2h",
           "sentiment": 0.3
-        },
-        {
-          "id": "b3724230d23c81735d0787a8cdc1206e9562758423bdb902f1952e7e433f36ef",
-          "authorHandle": "enuffsaysv.bsky.social",
-          "postText": "Mike Nellis is live with Troy Jackson on Substack now: \"TROY JACKSON JOINS ENDLESS URGENCY \"\nopen.substack.com/live-stream/...",
-          "createdAt": "2026-08-24T21:46:33.247Z",
-          "uri": "at://did:plc:th4kcbbh6cvts3z24dgxux4j/app.bsky.feed.post/3mtubpqytcs27",
-          "sentiment": 0
         }
       ],
       "youtube": [
