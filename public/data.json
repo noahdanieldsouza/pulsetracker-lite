@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T03:34:05.815Z",
+  "lastUpdated": "2026-08-25T04:20:02.883Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -65,14 +65,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.17790656831752724,
+      "overallSentiment": 0.1732848232848233,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.22602739726027402,
+      "socialSentiment": 0.2121621621621622,
       "mentions": {
         "news": 13,
-        "social": 74,
+        "social": 75,
         "youtube": 13,
-        "total": 100
+        "total": 101
       },
       "news": [
         {
@@ -194,6 +194,22 @@
         }
       ],
       "social": [
+        {
+          "id": "f8ea9b69d847f4c7211114f3e5b74e30040ff8c5d8ec85a518879e72674d7666",
+          "authorHandle": "coccoside.bsky.social",
+          "postText": "I’m looking forward to the think pieces on how he is being a bad sport like they did for Jasmine Crockett.\n\nAnd before anyone jumps me (she is being a slightly bad sport but she got some grievances).  And Troy Jackson seems to be fine just like Talarico.",
+          "createdAt": "2026-08-25T04:01:59.031Z",
+          "uri": "at://did:plc:wa42muhylhqvfx4ej5wnd3qu/app.bsky.feed.post/3mtuwp3b7as2a",
+          "sentiment": 0
+        },
+        {
+          "id": "51d20cafb2409f06e2e35319931684cee50f7999eb62c30208845b394c2dbd73",
+          "authorHandle": "saveam.bsky.social",
+          "postText": "OTHER AMOUNT\n fight4prog.org/l/eYTTj2Ts31tO\nI appreciate your contribution.\nTroy Jackson",
+          "createdAt": "2026-08-25T03:47:07.303Z",
+          "uri": "at://did:plc:3s52uzpjh236okih4cogzcov/app.bsky.feed.post/3mtuvuitv3c26",
+          "sentiment": 0
+        },
         {
           "id": "2c8d59d8485583401fed4f807a296a9f1b9327d1de130c893b544b416076d656",
           "authorHandle": "mochamae.bsky.social",
@@ -777,14 +793,6 @@
           "createdAt": "2026-08-24T06:48:12.101Z",
           "uri": "at://did:plc:plxqlbnn5astew5aq3ulsyqw/app.bsky.feed.post/3mtspjeueh22e",
           "sentiment": 0
-        },
-        {
-          "id": "85d0f93673e3776e4ede0574ca56e9b9bdb8e043a864e1c8ce5df2fdda6da543",
-          "authorHandle": "slmosley.bsky.social",
-          "postText": "This will be Susan’s farewell Parade, bye Susan, glad to see you go…\nMar-A-Lago awaits you.\n\nMaine VOTE for Troy Jackson he is for the People,\nAll the People of Maine. \nMaine VOTES FOR TROY\n#TroyJackson",
-          "createdAt": "2026-08-24T03:44:44.277Z",
-          "uri": "at://did:plc:2harpx7e77njdlmtvnoz7y7j/app.bsky.feed.post/3mtsfbcybcc2h",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
