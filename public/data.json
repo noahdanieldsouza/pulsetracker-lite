@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T20:11:02.073Z",
+  "lastUpdated": "2026-08-25T20:48:30.168Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,14 +39,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.24999713413201788,
+      "overallSentiment": 0.2561669104841519,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.1896883720930232,
+      "socialSentiment": 0.20819770114942532,
       "mentions": {
         "news": 45,
-        "social": 88,
+        "social": 89,
         "youtube": 33,
-        "total": 166
+        "total": 167
       },
       "news": [
         {
@@ -456,6 +456,22 @@
         }
       ],
       "social": [
+        {
+          "id": "df5f6e623f3f774e31c8749231a24704080fba91652d1ea414fe914217c75570",
+          "authorHandle": "clion13.bsky.social",
+          "postText": "Is Susan Collins...concerned? We in Biddeford Maine are...Vote Collins and All Republicans Out!\nJackson for Senate.\n\n'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-25T20:41:14.148Z",
+          "uri": "at://did:plc:qt4egibgugqzoujml4caqhtg/app.bsky.feed.post/3mtwojuwc422w",
+          "sentiment": 0.8
+        },
+        {
+          "id": "e0ca5343ef2786b4727bf6312cb09e20dbf62bed17a79b2a6a6c51f58f5a1e0a",
+          "authorHandle": "watchyourrepssc.bsky.social",
+          "postText": "When we say this is not working, it is a fight, not a complaint. Troy Jackson is leading the movement for healthcare, childcare, and freedom. We have 70 days to demand change and win it all. #BlueWaveIn70Days",
+          "createdAt": "2026-08-25T20:25:36.118Z",
+          "uri": "at://did:plc:uiffdv3gnj3koycqzkpxvfla/app.bsky.feed.post/3mtwnnwdrbk2h",
+          "sentiment": 0.9
+        },
         {
           "id": "034dbf8db15ed160d8556b359cddb2d46e4608e8efee5d6da757a3b09b7340b4",
           "authorHandle": "mialong.bsky.social",
@@ -1151,14 +1167,6 @@
           "createdAt": "2026-08-24T20:48:32.513Z",
           "uri": "at://did:plc:zrui3rd2mmxxgfq2pyrucaoj/app.bsky.feed.post/3mtu6hzja222d",
           "sentiment": 0
-        },
-        {
-          "id": "f30bd73e3a8f5d01ece6eb4b7776689065a595d66e46ab366a9fbdb303fb70c1",
-          "authorHandle": "tovahr.bsky.social",
-          "postText": "youtube.com/watch?v=lS9t...\n\nInterview: Troy Jackson condemns JD Vance for defending ICE in Maine shooting.",
-          "createdAt": "2026-08-24T20:40:46.780Z",
-          "uri": "at://did:plc:hkrqzginr44yb4gghwi7yben/app.bsky.feed.post/3mtu625e7n22m",
-          "sentiment": -0.1
         }
       ],
       "youtube": [
