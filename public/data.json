@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T11:58:59.411Z",
+  "lastUpdated": "2026-08-25T12:40:25.185Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -57,131 +57,419 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.14799558404558408,
-      "newsSentiment": -0.15384615384615385,
+      "overallSentiment": 0.2037220797720798,
+      "newsSentiment": 0.013333333333333336,
       "socialSentiment": 0.13629444444444447,
       "mentions": {
-        "news": 13,
+        "news": 45,
         "social": 74,
         "youtube": 13,
-        "total": 100
+        "total": 132
       },
       "news": [
         {
-          "id": "d65523cb37a496d8130b695de09c00741aa016b94854e29c3f6c9fd18d7021f6",
-          "title": "Trump's economic approach draws concern from some Republicans",
-          "description": "President Donald Trump’s economic policies drew a fresh round of concern from some Republicans this weekend who criticized his trade policies, as others in",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4845567774596-trump-s-economic-approach-draws-concern-from-some-republicans",
-          "publishedAt": "2026-08-24T00:00:00.000Z",
-          "sentiment": -1
+          "id": "068808f48532d6112c27c014cbccf3f4c139d90289cd0bd9e646b17a577ce57e",
+          "title": "Ronald Brownstein: The real reason moderates keep losing to progressives",
+          "description": "The tumultuous 2026 primary season has made at least one thing clear: Democratic centrists are pursuing a losing strategy in their struggle with the left. Until the moderates change course, they will remain on the defensive. Almost without ...",
+          "sourceName": "Arcamax",
+          "url": "https://www.arcamax.com/opeds/s-4283367",
+          "publishedAt": "2026-08-25T00:00:00.000Z",
+          "sentiment": -0.1
         },
         {
-          "id": "ebd0d992c958ef1ec168f34901d025f0671799e01050e3e8c57b812064d02dc7",
-          "title": "Democrats don't know whether to welcome or shun Kamala Harris",
-          "description": "Democratic congressional candidates are split over how much support they want to receive from former Vice President Kamala Harris.",
+          "id": "453f9818d7f2ae6d7cc7060649ec98cc74564f68ebe8440fdf2cea0c2ffe90ec",
+          "title": "Some Republican lawmakers skewer Trump's beef imports, slam Canada trade war",
+          "description": "GOP Sen. Tom Cotton called Trump's action \"ill-advised.\"",
+          "sourceName": "Abc News",
+          "url": "https://abcnews.com/Politics/republican-lawmakers-skewer-trumps-beef-imports-slam-canada/story?id=135907257",
+          "publishedAt": "2026-08-24T22:02:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "15c4576338515ff1fef34c5d0502c3c36fb112b18fd50fef183fed334cbb031c",
+          "title": "Canada trade war puts border state Republicans on defense: ‘Not helpful’",
+          "description": "The tariff criticism from Democrats is part of a larger strategy focused on tapping into voter anxieties about the economy.",
           "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4694915/kamala-harris-campaign-trail-dilemma-midterm-elections/",
-          "publishedAt": "2026-08-23T23:48:18.000Z",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4698692/canada-trade-war-border-state-republicans-defense/",
+          "publishedAt": "2026-08-24T21:52:32.000Z",
           "sentiment": 0
         },
         {
-          "id": "f5a41bebdd4d43ac5e10d0453ae63eae3e81f1868be5cd7d2348f146621345a2",
-          "title": "Troy Jackson attends opening of Maine Democrats' Augusta campaign office",
-          "description": "With just over 70 days to go until the midterms, Maine Democrats hosted the launching of a campaign office in the state's capital.",
+          "id": "7eb4c550c397ff73380a0bc438207c92a1c6012646addfb4cd3051048d219267",
+          "title": "Canada trade war puts border state Republicans on defense",
+          "description": "A renewed trade war with Canada is bleeding into the midterm elections as Democrats use the economic volatility to woo voters concerned about the cost of living this fall. Democrats are highlighting what they label as the “devastating” impact of tariffs President Donald Trump imposed after trade negotiations with Canada fell apart over the weekend. [...] The post Canada trade war puts border state Republicans on defense appeared first on CBNC .",
+          "sourceName": "Cbnc",
+          "url": "https://cbnc.com/canada-trade-war-puts-border-state-republicans-on-defense/",
+          "publishedAt": "2026-08-24T21:52:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "84b8dbe7421b7fcef0f67908190994e079254bd9d5505297d116619675b090cf",
+          "title": "In Maine, Vance shouts out Susan Collins at vice presidential visit she skipped",
+          "description": "Vance praised the Maine Republican for being the “most independent member” of the Senate but noted she “sometimes makes my job just a little bit harder.” The post In Maine, Vance shouts out Susan Collins at vice presidential visit she skipped appeared first on MS NOW .",
+          "sourceName": "Ms Now",
+          "url": "https://www.ms.now/news/vance-susan-collins-trump-maine-senate",
+          "publishedAt": "2026-08-24T21:34:42.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f28a723e5fdba23d8e7d10a8308c3286c8f08c53c4d5ca67d7b09fba8e196d48",
+          "title": "Canada may cut US power exports as Trump reignites trade war",
+          "description": "Canada may cut off or raise the price of power exports to the U.S. to retaliate against President Trump’s new tariff war, a move that would further raise prices for beleaguered American consumers especially in northern border states like New York. After Canadian Prime Minister Mark Carney vowed to hit back with “dollar for dollar” measures against the U.S., Doug Ford, the premier of the ...",
           "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/troy-jackson-attends-opening-maine-221209768.html",
-          "publishedAt": "2026-08-23T22:12:09.000Z",
+          "url": "https://ca.news.yahoo.com/canada-may-cut-us-power-212000342.html",
+          "publishedAt": "2026-08-24T21:20:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "f2e443042f75f5f0fabdbba58c7d2f3f5a5abe3db4a793a0e44c69b73f161946",
-          "title": "Data Centers Turn From AI Prize to Political Poison in 2026 Midterms",
-          "description": "Data centers have flipped from bipartisan economic prizes to campaign liabilities as voter opposition surges to 61-75% in polls. Both parties attack opponents over power costs, water use and local impacts in key 2026 races across Ohio, Pennsylvania, Texas and more. The backlash threatens America's AI ambitions while scrambling the midterm map.",
-          "sourceName": "Webpronews",
-          "url": "https://www.webpronews.com/data-centers-turn-from-ai-prize-to-political-poison-in-2026-midterms/",
-          "publishedAt": "2026-08-23T20:52:06.000Z",
+          "id": "e9434f6702c513693478ea51cca20ba2575cbbbd74cb5b7b37e86029ea1a8030",
+          "title": "At JD Vance’s Brewer rally, Trump-friendly attendees grapple with affordability crisis",
+          "description": "Attendees were energized by speeches from Republican Party leadership that focused on industry and the working class.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/24/politics/washington/jd-vance-brewer-rally-attendees-affordability/",
+          "publishedAt": "2026-08-24T20:54:54.000Z",
           "sentiment": 0
         },
         {
-          "id": "84afb4d9e6874b2583fc7937bee06da8f212660a454bad27b6546f6082cff525",
-          "title": "Mark Carney is putting Canada on the ballot for the U.S. midterms",
-          "description": "The key for Mark Carney is to make the trade fight felt south of the border — and then make it clear to U.S. midterm voters who's to blame.",
-          "sourceName": "The Hamilton Spectator",
-          "url": "https://www.thespec.com/politics/federal/mark-carney-is-putting-canada-on-the-ballot-for-the-us-midterms/article_2530724e-b194-5f4f-b575-ad1f6f070191.html",
-          "publishedAt": "2026-08-23T19:00:00.000Z",
+          "id": "fa41e06a1bfc69f7c83eaddd7714ae5df2cf31ffc1d9137090260e42fc827bbc",
+          "title": "Susan Collins Ditches JD Vance as He Campaigns for Her",
+          "description": "Vice President JD Vance has made two trips to Maine to stump for Republican Senator Susan Collins as her midterm election against Democrat Troy Jackson approaches. Yet Collins has been a no-show for each visit, leading to speculation that she is deliberately avoiding the vice president and the greater Trump administration. In his latest visit to Maine on Monday, Vance heaped praise on Collins during a rally at defense technology manufacturer Compotech. “Whenever I’m in the great state of Maine ... I gotta give Susan a little bit of crap,” Vance said at the rally. “Susan is the most independent member of the United States Senate, and as the president of the United States Senate, she sometimes makes my job just a little bit harder. But she makes it harder because she is coming to work every single day and fighting not for a political party.... She fights for the great people of Maine.” Vance also mentioned that Collins had been to his house about six times. Vance: \"The second shout out I gotta give is to my dear friend Susan Collins, the senator from Maine. Thank you!...She has been to my house probably a half dozen times, the Vice President's residence at the Naval Observatory.\" pic.twitter.com/JOipfRFFCA — BulwarkClips (@BulwarkClips) August 24, 2026 It’s no surprise Collins didn’t show up to the rally. President Trump has a nearly 60 percent disapproval rating among Mainers as of last month, and nothing indicates any future improvement. The vast majority of Mainers don’t think their state is affordable, and Maine business has suffered significantly due to the most recent 50 percent tariff trade war the Trump administration started with Canada. Collins has made a point to distance herself from Trump on his new tariffs threat against Canada, saying that they would be a “ mistake .” She also drew a line in the sand against the administration’s attack on mail-in ballots, which she called “ very important to the people of Maine,” particularly seniors. Collins was called out by Jackson the morning of the rally. “How ‘bout fuel prices going through the roof because of the war on Iran? How ‘bout ICE murdering people here in Biddeford? Let’s give a shoutout to Susan Collins about how poor of a job she’s doing for the state of Maine. I’m sure JD Vance loves her because she’s doing everything that he wants for her,” he said . “But she’s not doing it for Maine people.” My message to Susan's pal @JDVance who’s coming to Maine today pic.twitter.com/mOMz4QqHFc — Troy Jackson (@TroyJackson207) August 24, 2026",
+          "sourceName": "The New Republic",
+          "url": "https://newrepublic.com/post/214661/susan-collins-jd-vance-campaign-election",
+          "publishedAt": "2026-08-24T20:53:43.000Z",
+          "sentiment": 0.3
+        },
+        {
+          "id": "c293dbb6edfacb86a640811f6db61cde8ef4a1945ff9a75de1ac4e9159eba49f",
+          "title": "Republican Torches Trump as Vance Campaigns for Her",
+          "description": "Sen. Susan Collins didn’t hold back in her criticism of the president’s Canada strategy.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/republican-torches-trump-as-vance-campaigns-for-her-86979459",
+          "publishedAt": "2026-08-24T20:37:47.000Z",
           "sentiment": 0
         },
         {
-          "id": "eb0728b750c212f805188c31016a7393274ed03081656137f138cae0092ce738",
-          "title": "Mark Carney is putting Canada on the ballot for the U.S. midterms",
-          "description": "The key for Mark Carney is to make the trade fight felt south of the border — and then make it clear to U.S. midterm voters who's to blame.",
-          "sourceName": "The Star",
-          "url": "https://www.thestar.com/news/analysis/mark-carney-is-putting-canada-on-the-ballot-for-the-us-midterms/article_6991f285-a2c1-4f2a-8ae2-cf4f544c1e61.html",
-          "publishedAt": "2026-08-23T19:00:00.000Z",
+          "id": "e37bf5bb99e8351c8cad1483deb4de3258a6d1405e578ceb61569364a29ec54d",
+          "title": "The National Debt Just Reached $40 Trillion, and the DSA Wants to Spend Even More",
+          "description": "The national debt crossed $40 trillion last week, yet few in Washington seem serious about cutting spending. Meanwhile, the increasingly...",
+          "sourceName": "Townhall",
+          "url": "https://townhall.com/news/dmitri-bolt/2026/08/24/the-national-debt-just-hit-40-trillion-and-the-dsa-wants-to-keep-spending-n2681806",
+          "publishedAt": "2026-08-24T20:30:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "53d7a230b518967c31a5a10c1a8fa1eaedf96a299993ecf8da0af9c130939e84",
-          "title": "Mark Carney is putting Canada on the ballot for the U.S. midterms",
-          "description": "The key for Mark Carney is to make the trade fight felt south of the border — and then make it clear to U.S. midterm voters who's to blame.",
-          "sourceName": "The Standard",
-          "url": "https://www.stcatharinesstandard.ca/politics/federal/mark-carney-is-putting-canada-on-the-ballot-for-the-us-midterms/article_fde7b802-8e76-58c6-9fc5-7f79535a445d.html",
-          "publishedAt": "2026-08-23T19:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ca721f309ec8880e11dcb5351fd15723b6c9974b5d7cabe004397d133adf2ac6",
-          "title": "Mark Carney is putting Canada on the ballot for the U.S. midterms",
-          "description": "The key for Mark Carney is to make the trade fight felt south of the border — and then make it clear to U.S. midterm voters who's to blame.",
-          "sourceName": "Niagara Falls Review",
-          "url": "https://www.niagarafallsreview.ca/politics/federal/mark-carney-is-putting-canada-on-the-ballot-for-the-us-midterms/article_299d7cc0-e018-5b03-a0db-4c6b134beebd.html",
-          "publishedAt": "2026-08-23T19:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "03e8b4587e4da2edbdbd8b93ec037d2247d4b82c0afaa96c93b1b69a9504cfab",
-          "title": "Yikes: Troy Jackson Hands Susan Collins Some Gifts in Maine Senate Race",
-          "description": "With some of the polling, er, \"mishaps\" in both the Wisconsin Democrat gubernatorial and the Michigan Senate primary races, many are choosing to take the numbers with a grain of salt going forward as we prepare to head into the fall months, which [...]",
-          "sourceName": "Beforeitsnews",
-          "url": "https://beforeitsnews.com/politics/2026/08/yikes-troy-jackson-hands-susan-collins-some-gifts-in-maine-senate-race-3365773.html",
-          "publishedAt": "2026-08-23T18:33:01.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "73d3de0a24d5a3f385a4e06819370d131d8c180af88ea194ef5790ae589d8114",
-          "title": "'Indy' Dan Osborn for NE Senate Lets It Slip ... He'll Get Committees Because He’s Hamas Caucus",
-          "description": "Dan Osborn is running for Senate in Nebraska as an Independent. We have talked about him once before. He pretends to...",
-          "sourceName": "Twitchy",
-          "url": "https://twitchy.com/justmindy/2026/08/23/dan-osborn-independent-running-for-senate-caucus-n2431598",
-          "publishedAt": "2026-08-23T18:20:43.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "81f85fe3d023588e72b0d6b80eb14eea40ab36fa758eab6914f0a7b836bfb442",
-          "title": "Why Democrats still have a shot at winning the Senate",
-          "description": "Michigan and Maine remain question marks, but the party is flaunting its strength in purple and red states.",
-          "sourceName": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/why-democrats-still-have-a-shot-at-winning-the-senate-101787486486266.html",
-          "publishedAt": "2026-08-23T16:00:53.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "08d596f3389a8cb6dbf5b46ca489ec8c7b7b80c9bc64f38417dd517a9a2aa033",
-          "title": "Susan Collins supports Trump’s agenda | Letter",
-          "description": "If we had a President Romney, Susan Collins would likely be coasting to another term in the Senate as a moderate Republican. Sadly, she is a stalwart of the party that current Maine gubernatorial candidate Rick Bennett says he can no longer recognize. Unlike the very conservative Republican Liz Cheney, she has chosen to stay [...]",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/23/susan-collins-supports-trumps-agenda-letter/",
-          "publishedAt": "2026-08-23T16:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b3863c9437b1967e268be01bc56edf7014d104c20691a3433de2034b2ea09e55",
-          "title": "Susan Collins supports Trump’s agenda | Letter",
-          "description": "If we had a President Romney, Susan Collins would likely be coasting to another term in the Senate as a moderate Republican. Sadly, she is a stalwart of the party that current Maine gubernatorial candidate Rick Bennett says he can no longer recognize. Unlike the very conservative Republican Liz Cheney, she has chosen to stay [...]",
+          "id": "1d1f7805bbd27a4ae37df8af475bc69f69652544a8cf77864d3247c413642d56",
+          "title": "3 takeaways from JD Vance’s visit to Maine",
+          "description": "Vance touted Trump administration policies and campaigned for Maine Republicans during a visit to Compotech in Brewer.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/23/susan-collins-supports-trumps-agenda-letter/",
-          "publishedAt": "2026-08-23T16:00:00.000Z",
+          "url": "https://www.pressherald.com/2026/08/24/three-takeaways-from-jd-vances-visit-to-maine/",
+          "publishedAt": "2026-08-24T20:18:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "01012ce84714dfd72ec71f798600da1c1bd53fb8d15f001d956ba82298ce3786",
+          "title": "3 takeaways from JD Vance’s visit to Maine",
+          "description": "Vance touted Trump administration policies and campaigned for Maine Republicans during a visit to Compotech in Brewer.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/08/24/three-takeaways-from-jd-vances-visit-to-maine/",
+          "publishedAt": "2026-08-24T20:18:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3d973c4d50fae7c2abf1c33a7820dfd9a8c033c70c7ed1b12f206ee52282ede0",
+          "title": "3 takeaways from JD Vance’s visit to Maine",
+          "description": "Vance touted Trump administration policies and campaigned for Maine Republicans during a visit to Compotech in Brewer.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/08/24/three-takeaways-from-jd-vances-visit-to-maine/",
+          "publishedAt": "2026-08-24T20:18:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2326159a8b79506b48fc33cd7cefcf609f3c946d6c69101cb9f6544c7bf21894",
+          "title": "Vance touts 'manufacturing renaissance' during visit to Maine factory",
+          "description": "(The Center Square) — Vice President J.D. Vance touted a manufacturing \"renaissance\" Monday during a visit to a Maine factory, where he highlighted the Trump administration's economic policies and stumped for Republican candidates ahead of the high-stakes midterms.",
+          "sourceName": "Home Town Register",
+          "url": "https://www.hometownregister.com/news/national/vance-touts-manufacturing-renaissance-during-visit-to-maine-factory/article_3256beaf-bdba-51c7-ad77-4a14690477f5.html",
+          "publishedAt": "2026-08-24T20:06:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8957a3e7f73e89d04c06fc80f3efccdeacfd7fe796da784ad06193959c9ab656",
+          "title": "Vance touts 'manufacturing renaissance' during visit to Maine factory",
+          "description": "(The Center Square) — Vice President J.D. Vance touted a manufacturing \"renaissance\" Monday during a visit to a Maine factory, where he highlighted the Trump administration's economic policies and stumped for Republican candidates ahead of the high-stakes midterms.",
+          "sourceName": "Goldsboro News Argus",
+          "url": "https://www.newsargus.com/news/national/vance-touts-manufacturing-renaissance-during-visit-to-maine-factory/article_9759dcf9-8da2-5bec-a3f3-1a0868b00b75.html",
+          "publishedAt": "2026-08-24T20:06:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f1a6f82fb08a4a7a51c99a4bf8e2d1f01eaebb154d5764b5c90005d90488fdb8",
+          "title": "Vance touts 'manufacturing renaissance' during visit to Maine factory",
+          "description": "(The Center Square) — Vice President JD Vance touted a manufacturing \"renaissance\" Monday during a visit to a Maine factory, where he highlighted the Trump administration's economic policies and stumped for Republican candidates ahead of the high-stakes midterms.",
+          "sourceName": "Emporiagazette",
+          "url": "https://www.emporiagazette.com/news/national/article_41791d2f-63b5-5a66-afd0-da60926cce96.html",
+          "publishedAt": "2026-08-24T20:06:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "99f273954ae463f4c216d8ff0a6d8915f1de51338ab1498158fce16f50eb2714",
+          "title": "Vance touts 'manufacturing renaissance' during visit to Maine factory",
+          "description": "(The Center Square) — Vice President JD Vance touted a manufacturing \"renaissance\" Monday during a visit to a Maine factory, where he highlighted the Trump administration's economic policies and stumped for Republican candidates ahead of the high-stakes midterms.",
+          "sourceName": "Griffindailynews",
+          "url": "https://www.griffindailynews.com/news/national/vance-touts-manufacturing-renaissance-during-visit-to-maine-factory/article_91a66067-d7b6-5640-ba8f-68bb62adc1f2.html",
+          "publishedAt": "2026-08-24T20:06:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "93722ae32aee697ed4321bad56c399dfe6a7cceed9b152f2c92b62b8be415a71",
+          "title": "Vance touts 'manufacturing renaissance' during visit to Maine factory",
+          "description": "(The Center Square) — Vice President J.D. Vance touted a manufacturing \"renaissance\" Monday during a visit to a Maine factory, where he highlighted the Trump administration's economic policies and stumped for Republican candidates ahead of the high-stakes midterms.",
+          "sourceName": "Vincennes Sun-commercial",
+          "url": "https://www.suncommercial.com/news/national/article_8959c3ea-8c59-50b6-b3f4-7b55cf1b67b7.html",
+          "publishedAt": "2026-08-24T20:06:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "bb16795a3eb4db530a8859fde3372c33d28fbf7dda8e09297a7a204d299bba4c",
+          "title": "Vance touts 'manufacturing renaissance' during visit to Maine factory",
+          "description": "(The Center Square) — Vice President J.D. Vance touted a manufacturing \"renaissance\" Monday during a visit to a Maine factory, where he highlighted the Trump administration's economic policies and stumped for Republican candidates ahead of the high-stakes midterms.",
+          "sourceName": "The Sanford Herald",
+          "url": "https://www.sanfordherald.com/news/national/vance-touts-manufacturing-renaissance-during-visit-to-maine-factory/article_f792ac21-055c-575f-8f69-6913046b99c6.html",
+          "publishedAt": "2026-08-24T20:06:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8ee2cacf8812a574d240f68bc4afb1250bc25fccfd94bb889a6cdf83784b0a77",
+          "title": "Vance touts 'manufacturing renaissance' during visit to Maine factory",
+          "description": "(The Center Square) — Vice President JD Vance touted a manufacturing \"renaissance\" Monday during a visit to a Maine factory, where he highlighted the Trump administration's economic policies and stumped for Republican candidates ahead of the high-stakes midterms.",
+          "sourceName": "Yoursun.com",
+          "url": "https://www.yoursun.com/news/vance-touts-manufacturing-renaissance-during-visit-to-maine-factory/article_02e2f51c-c0c7-5a58-98f1-2b011161cdf4.html",
+          "publishedAt": "2026-08-24T20:06:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a3acae69da984d2e5f549304ae857ba69d2750690fbc67636e534ceab2226e32",
+          "title": "Vance touts 'manufacturing renaissance' during visit to Maine factory",
+          "description": "(The Center Square) — Vice President JD Vance touted a manufacturing \"renaissance\" Monday during a visit to a Maine factory, where he highlighted the Trump administration's economic policies and stumped for Republican candidates ahead of the high-stakes midterms.",
+          "sourceName": "Postguam",
+          "url": "https://www.postguam.com/news/national/vance-touts-manufacturing-renaissance-during-visit-to-maine-factory/article_6b86c478-93df-52ec-a477-5d31f531221f.html",
+          "publishedAt": "2026-08-24T20:06:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "47a4932a949903db14b2dac89c4bb355d232c86399bde9c40f957b55db91c9d9",
+          "title": "Vance touts 'manufacturing renaissance' during visit to Maine factory",
+          "description": "(The Center Square) — Vice President JD Vance touted a manufacturing \"renaissance\" Monday during a visit to a Maine factory, where he highlighted the Trump administration's economic policies and stumped for Republican candidates ahead of the high-stakes midterms.",
+          "sourceName": "Ttownmedia",
+          "url": "https://www.ttownmedia.com/news/national/vance-touts-manufacturing-renaissance-during-visit-to-maine-factory/article_8b27d37f-46d3-5cbd-8568-fcfc59585d35.html",
+          "publishedAt": "2026-08-24T20:06:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "09dcf1d2df1e78d9272f61c9c526bbccb12d45acdf546ad60647f954148ea003",
+          "title": "Vance touts 'manufacturing renaissance' during visit to Maine factory",
+          "description": "(The Center Square) — Vice President JD Vance touted a manufacturing \"renaissance\" Monday during a visit to a Maine factory, where he highlighted the Trump administration's economic policies and stumped for Republican candidates ahead of the high-stakes midterms.",
+          "sourceName": "Wyoming Tribune Eagle",
+          "url": "https://www.wyomingnews.com/news/national/vance-touts-manufacturing-renaissance-during-visit-to-maine-factory/article_672fa5d3-a676-5e51-86cc-5a83d2ff73d2.html",
+          "publishedAt": "2026-08-24T20:06:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "cb3a0efa435318890d04497546d7aeb450dc10db3882a707ab618744ea9c162b",
+          "title": "Canada tariffs complicate Republicans’ Senate defense",
+          "description": "The new levies could have an outsized effect in three states crucial to the Senate majority next year: Maine, Michigan, and New Hampshire.",
+          "sourceName": "Yahoo! News",
+          "url": "https://www.yahoo.com/news/politics/articles/canada-tariffs-complicate-republicans-senate-194434490.html",
+          "publishedAt": "2026-08-24T19:44:34.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9ac9ac185a0f03e6b40e4afca0f495a83030bed8a753b8870c34314829d046c0",
+          "title": "Republican Torches Trump as Vance Campaigns for Her",
+          "description": "C-Span/screenshot Senator Susan Collins spent her morning railing against President Donald Trump’s Canadian tariffs while Vice President JD Vance was in Maine stumping for Republicans. Collins didn’t have time to meet up with Vance while he was there, but she did have time to trash Trump’s most recent move on tariffs. “I still think imposing new tariffs on Canada is a mistake,” she told reporters. Read more at The Daily Beast.",
+          "sourceName": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/gop-senator-susan-collins-torches-trump-as-vance-campaigns-for-her-in-maine/",
+          "publishedAt": "2026-08-24T19:40:35.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2ef2948db6476242f9d198cb9b26fa56d1cbe0a2ebedc653e968c72160bac24c",
+          "title": "In Maine, JD Vance blames Canada for ‘unreasonable’ trade demands",
+          "description": "The comments came two days after Trump's 50% tariffs on roughly $20 billion of Canadian goods took effect.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/24/politics/washington/jd-vance-blames-canada-trade-demands/",
+          "publishedAt": "2026-08-24T19:11:32.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8e6bbffa487c8799d1f2f31ff1c9c6a23c402ea75bcbb44d2d4b1d74ebcca23b",
+          "title": "Trump’s renewed trade war with Canada gives yet another policy for Republicans to face on the campaign trail",
+          "description": "Republicans have done little to distance themselves from the president’s most unpopular policies, Eric Garcia writes. That will cost them",
+          "sourceName": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-tariffs-republican-midterms-b3038307.html",
+          "publishedAt": "2026-08-24T18:54:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9f0cec863cc4881cb73bb8c50d7c28867963c35b299221de8a246ebc6a5ffd16",
+          "title": "Trump’s Canada tariffs gives Republicans just one more thing to defend",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/trumps-canada-tariffs-gives-republicans-just-one-more-thing-to-defend-0DDACB7D-3C91-438D-B8C9-3302A5B3EA56",
+          "publishedAt": "2026-08-24T18:54:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fd660858f0bc894f95a280b2293571c041ee9c1d08a4c5abd15e08565f6cf7be",
+          "title": "JD Vance praises ‘very independent friend’ Susan Collins — as senator snubs his rally in Maine",
+          "description": "Vance described Collins, 73, as a frequent guest at his Naval Observatory residence in DC.",
+          "sourceName": "New York Post",
+          "url": "https://nypost.com/2026/08/24/us-news/jd-vance-praises-very-independent-friend-susan-collins-as-senator-snubs-his-rally-in-maine/",
+          "publishedAt": "2026-08-24T18:27:32.000Z",
+          "sentiment": 0.3
+        },
+        {
+          "id": "30babbe379e58930c0f9b14cf3b2c8eb6bb90d9d9d5c24bbd6140b13fb44db40",
+          "title": "JD Vance brags about 'persuasive' power over wife Usha as ANOTHER woman gives him cold shoulder",
+          "description": "Fiercely independent GOP Senator Susan Collins is not a attending an event with President Donald Trump's Vice President JD Vance on Monday.",
+          "sourceName": "Mail Online",
+          "url": "https://www.dailymail.com/news/article-16076365/jd-vance-persuasive-power-usha-maine-senator.html",
+          "publishedAt": "2026-08-24T18:00:17.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "3651b98d6574e47296f6755e9f10dd836428c41a71d8dae9ee0507a1941147a0",
+          "title": "JD Vance Campaigns With Paul LePage—Ex-Governor’s Chances of Maine Comeback",
+          "description": "LePage is running to flip Maine's 2nd Congressional District from Democrats' control.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/jd-vance-campaigns-with-paul-lepage-ex-governor-chances-maine-comeback-12360605",
+          "publishedAt": "2026-08-24T18:00:13.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "a91b72ab9da9bc514d997c12fbe02d24cbd3732870635178a9cdfaf7eb326edb",
+          "title": "Can Democrats Win Back the Senate? Why Their Chances Are Improving.",
+          "description": "As a tumultuous primary season draws to a close, Democrats have opened up more than one path to winning control of the Senate, according to strategists in both parties and independent analysts, reshaping the battle on a map where Republicans still hold significant advantages. Voters are uneasy about President Donald Trump’s handling of the economy, [...] The post Can Democrats Win Back the Senate? Why Their Chances Are Improving. appeared first on GV Wire .",
+          "sourceName": "Gv Wire",
+          "url": "https://gvwire.com/2026/08/24/can-democrats-win-back-the-senate-why-their-chances-are-improving/",
+          "publishedAt": "2026-08-24T17:48:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f228a26197d8a02b783085ca5bc47c6f170baec8fe69560801b50b89259fab72",
+          "title": "Susan Collins Blasts Trump’s Canada Tariffs as a ‘Mistake’: ‘I Thought We Had an Agreement’",
+          "description": "Sen. Susan Collins (R-ME) slammed President Trump's Canada tariffs as Vice President JD Vance campaigned for her in what is shaping up to be a tight race. The post Susan Collins Blasts Trump’s Canada Tariffs as a ‘Mistake’: ‘I Thought We Had an Agreement’ first appeared on Mediaite .",
+          "sourceName": "Mediaite",
+          "url": "https://www.mediaite.com/media/tv/susan-collins-blasts-trumps-canada-tariffs-as-a-mistake-i-thought-we-had-an-agreement/",
+          "publishedAt": "2026-08-24T17:37:06.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f83aaa862b0dfda1151621f80fadc618a21565904a60c6c06d7c3551ef1e4540",
+          "title": "JD Vance casts 2026 midterms as fight against socialism during Maine visit",
+          "description": "Even though she skipped Monday's event, U.S. Sen. Susan Collins was praised at length by the vice president.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/24/politics/elections/brewer-maine-2026-election-jd-vance-speech-socialism/",
+          "publishedAt": "2026-08-24T17:29:49.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "00ac3afe7a4db3e31339fc2b08182452318eae925926e1b84d097b53b4850914",
+          "title": "Vance defends Canada trade war in visit to Maine; Collins skips rally",
+          "description": "Brewer, Maine — Vice President JD Vance rallied Republicans in Maine on Monday, defending the escalating trade with Canada that has drawn criticism from Sen. Susan Collins (R), who skipped the event. Collins previously said she was already “scheduled” on Monday, but she has been the loudest voice in the Republican party so far against...",
+          "sourceName": "The Hill",
+          "url": "https://thehill.com/homenews/administration/6047160-vance-defends-canada-tariffs-maine-collins-skips/",
+          "publishedAt": "2026-08-24T17:27:40.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6acd38ade62087d95dee99e598ddd05ef25b370d920bf0bea112e9d71be4ee03",
+          "title": "Susan Collins refuses to utter JD Vance's name as she snubs him at event",
+          "description": "Sen. Susan Collins (R-ME) refused to even say Vice President JD Vance's name as she announced she would not join his campaign stop in Maine on Monday. The move comes as Collins trails former Maine Senate president Troy Jackson, the Democratic nominee, in a race that could determine control of the U.S. Senate, according to recent polling. Vance spoke at Compotech, a defense contractor in Brewer, without her. At a weekend parade, a reporter put the question directly to Collins. \"Monday, the vice president is visiting Brewer to go to Compotech,\" the reporter said. \"I'm curious. Will we see you there, and what are your thoughts on the vice president coming to Maine?\" In response, Collins never said Vance's name but referred to Energy Secretary Doug Wright twice. \"I always welcome anyone coming to the state of Maine,\" Collins replied. \"Just recently, I was with the secretary of Energy in Lincoln, Maine, where we celebrated this new battery technology that is cutting edge and will help the resilience of the electric grid in New England. I am already scheduled on Monday, so I will not be able to join the vice president. But I really appreciated Secretary Wright's presence.\" Collins campaign spokesperson Shawn Roderick confirmed Monday that Collins would not attend, saying she has a \"great working relationship\" with Vance but a \"personal schedule\" that would keep her away, the outlet reported. According to the Portland Press Herald , GOP gubernatorial nominee Bobby Charles is also skipping the event, though former Maine Gov. Paul LePage is expected to attend. American Bridge, a Democratic-aligned political action committee, argued Collins is dodging Vance in person while pointing to their prior dealings, the Bangor Daily News reported. Those dealings include a dinner with Vance before Collins voted to confirm Tulsi Gabbard as director of national intelligence. \"Sometimes I get frustrated with Susan Collins,\" Vance said at a Bangor rally in May, adding that he almost wished she were \"more partisan\" — before endorsing her reelection bid. On Saturday, Collins also broke with the administration over its decision to impose 50% tariffs on Canadian goods, her office said , calling on both countries to return to negotiations. \"The Administration must consider the negative impact tariffs would have on Maine businesses, communities, and families and work to reach a fair agreement with our Canadian neighbors,\" Collins wrote. The latest Fox News poll shows Jackson leading Collins 48% to 46%, within the margin of error, in a race that could determine Senate control.",
+          "sourceName": "Raw Story",
+          "url": "https://www.rawstory.com/susan-collins-snubs-jd-vance/",
+          "publishedAt": "2026-08-24T17:11:12.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "e68a4f22bf98eeab14f142eb0b49196afedc42469db4966b3ee33c22ca87afb1",
+          "title": "'She fights for the great people of Maine': Vance praises Susan Collins as she skips his Maine visit",
+          "description": "Vice President JD Vance visited Maine for a second time in the last four months, but he did not appear with Susan Collins.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4694272/vance-praises-susan-collins-maine-visit/",
+          "publishedAt": "2026-08-24T17:09:10.000Z",
+          "sentiment": 0.3
+        },
+        {
+          "id": "ccfeb8e910a78020498aaf90a8d1c8734c748515f6b87f65a10a35239a80a21a",
+          "title": "Trump's trade war with Canada could rattle economies in states with key Senate races",
+          "description": "PORTLAND, Maine (AP) — President Donald Trump’s trade war with Canada is escalating as the midterm elections approach, threatening Republican efforts to address voters' economic concerns in a year whe...",
+          "sourceName": "Tri-city Record Nm",
+          "url": "https://www.tricityrecordnm.com/articles/trumps-trade-war-with-canada-could-rattle-economies-in-states-with-key-senate-races/",
+          "publishedAt": "2026-08-24T17:04:30.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "24b58f72b86b91995b3d7984d5888f998b6c7e8ba4cdf60f6748a4470d9efd18",
+          "title": "Can Democrats win back the Senate? Why their chances are improving.",
+          "description": "Republicans still have some clear advantages on the map, but President Trump’s unpopularity has opened the door for an outcome that once seemed far-fetched.",
+          "sourceName": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/08/24/nation/democrats-senate-midterm-elections/",
+          "publishedAt": "2026-08-24T16:28:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fcf31b4cedf19b083d4e47deaaf6950911f15647b2a18177cdf825dbc80ed560",
+          "title": "Vulnerable GOP senator breaks with Trump on 2 key issues as Vance makes stop without her",
+          "description": "Susan Collins skips JD Vance's Maine visit while opposing Trump's 50% tariffs on Canada and new postal service rules restricting mail-in voting.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/vulnerable-gop-senator-breaks-with-trump-on-2-key-issues-as-86971329",
+          "publishedAt": "2026-08-24T16:07:05.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6c91201cf57b97e7dea1952b18c4c55113b18a317db31331b1d1d3f8cd9553cc",
+          "title": "Vulnerable GOP senator breaks with Trump on 2 key issues as Vance makes stop without her",
+          "description": "Susan Collins skips JD Vance's Maine visit while opposing Trump's 50% tariffs on Canada and new postal service rules restricting mail-in voting.",
+          "sourceName": "Fox News",
+          "url": "https://www.foxnews.com/politics/vulnerable-gop-senator-breaks-trump-2-key-issues-vance-makes-stop-without-her",
+          "publishedAt": "2026-08-24T15:31:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3f386ad88da1762c429883ead9cff467935774b13c01fb8fa1327ec7a50d5e02",
+          "title": "Vulnerable GOP senator breaks with Trump on 2 key issues as Vance makes stop without her",
+          "description": "Susan Collins skips JD Vance's Maine visit while opposing Trump's 50% tariffs on Canada and new postal service rules restricting mail-in voting.",
+          "sourceName": "Yahoo! News",
+          "url": "https://www.yahoo.com/news/politics/articles/vulnerable-gop-senator-breaks-trump-153156652.html",
+          "publishedAt": "2026-08-24T15:31:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "856078c13129a86fc85a97f4f4a15ef25d9bae55b90758903ac6d5becc629749",
+          "title": "JD Vance to speak soon at Brewer defense manufacturer",
+          "description": "The vice president is scheduled to appear at Compotech, marking his second appearance in Maine this year.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/08/24/jd-vance-to-speak-soon-at-brewer-defense-manufacturer/",
+          "publishedAt": "2026-08-24T13:02:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9b2010479fcda9ff374e985e7d75b1eda1f1b5b44a0a6f8ee59eebd7aec303cd",
+          "title": "Live updates: JD Vance to speak soon at Brewer defense manufacturer",
+          "description": "The vice president is scheduled to appear at Compotech, marking his second appearance in Maine this year.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/08/24/jd-vance-to-speak-soon-at-brewer-defense-manufacturer/",
+          "publishedAt": "2026-08-24T13:02:09.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5426dd16cc25ae30684d4af8e49eb4182e316ab705bdf9270a6ebd39c2ec1669",
+          "title": "Live updates: JD Vance to speak soon at Brewer defense manufacturer",
+          "description": "The vice president is scheduled to appear at Compotech, marking his second appearance in Maine this year.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/08/24/jd-vance-to-speak-soon-at-brewer-defense-manufacturer/",
+          "publishedAt": "2026-08-24T13:02:09.000Z",
           "sentiment": 0
         }
       ],
@@ -916,16 +1204,26 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.4166666666666667,
-      "newsSentiment": null,
+      "overallSentiment": 0.2777777777777778,
+      "newsSentiment": 0,
       "socialSentiment": 0,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 1,
         "youtube": 3,
-        "total": 4
+        "total": 5
       },
-      "news": [],
+      "news": [
+        {
+          "id": "15a5a973b73e91b4b3b2d5178d8796db0da3cd4a5f44d7ecc57144b21c56a94c",
+          "title": "THE ZONE: East Texas Coaching Records",
+          "description": "Scott Surratt, Carthage 250-31 John King, Longview 240-52 Jack Alvarez, Center 205-104 Kerry Therwhanger, Garrison 183-75 Jamie Driskell, Malakoff 181-40 Joe Drennon, Grand Saline 169-113 Tim Russell, Sabine 166-105 Josh [...]",
+          "sourceName": "Tyler Morning Telegraph",
+          "url": "https://tylerpaper.com/2026/08/24/the-zone-east-texas-coaching-records/",
+          "publishedAt": "2026-08-24T20:04:59.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [
         {
           "id": "e2c1c5051b67c5e3df010f3aeb818a60416d597f8238ef3e56a0bdaba940e8bf",
