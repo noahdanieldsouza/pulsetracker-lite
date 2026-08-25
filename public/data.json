@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T19:15:38.038Z",
+  "lastUpdated": "2026-08-25T19:47:50.669Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,9 +39,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.24893888888888896,
+      "overallSentiment": 0.25159040404040406,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.1865136363636364,
+      "socialSentiment": 0.19446818181818176,
       "mentions": {
         "news": 45,
         "social": 90,
@@ -456,6 +456,14 @@
         }
       ],
       "social": [
+        {
+          "id": "aae04828919e27feb8f01a083ab5e90629675ff1a81adaa60b2dbbf7e717f2a7",
+          "authorHandle": "penanghill.bsky.social",
+          "postText": "Great to see Troy Jackson take the fight to Susan Collins.",
+          "createdAt": "2026-08-25T19:19:24.418Z",
+          "uri": "at://did:plc:avi3kjp7iqvtwq6qnzypzinf/app.bsky.feed.post/3mtwjxknbu22e",
+          "sentiment": 0.7
+        },
         {
           "id": "abdd71ea0bc487183a8c2dda69e5b3ab03c265062c32e9310eab1bdd3269d08e",
           "authorHandle": "skippyoz.bsky.social",
@@ -1167,14 +1175,6 @@
           "createdAt": "2026-08-24T19:57:10.154Z",
           "uri": "at://did:plc:eorttpiisap4r5rcuurpnmxy/app.bsky.feed.post/3mtu3m5x6r22u",
           "sentiment": 1
-        },
-        {
-          "id": "e69f483f5d967ca843711ddec4b628710100c0d6b4c538daa6bb18755085f0b5",
-          "authorHandle": "gentlem.bsky.social",
-          "postText": "Highlighting with the final photo from @troyjackson207.bsky.social reel below.\nwww.jacksonformaine.com\n#JacksonForMaine\n#SolidarityForever",
-          "createdAt": "2026-08-24T19:32:27.643Z",
-          "uri": "at://did:plc:yto72hgvetlbftg2v76q3qq3/app.bsky.feed.post/3mtu27y5ei22j",
-          "sentiment": 0
         }
       ],
       "youtube": [
