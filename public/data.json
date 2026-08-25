@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T11:31:46.207Z",
+  "lastUpdated": "2026-08-25T11:58:59.411Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -57,14 +57,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.16084499145299147,
+      "overallSentiment": 0.14799558404558408,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.17484266666666673,
+      "socialSentiment": 0.13629444444444447,
       "mentions": {
         "news": 13,
-        "social": 77,
+        "social": 74,
         "youtube": 13,
-        "total": 103
+        "total": 100
       },
       "news": [
         {
@@ -186,6 +186,14 @@
         }
       ],
       "social": [
+        {
+          "id": "8d85f1ca38e9fafe6298a7cbe320b4746fcf8f2bd21f761cf161af685e5bd689",
+          "authorHandle": "asfried.bsky.social",
+          "postText": "It isn't a wasted vote if, as they advise, people rank Troy second. But you can't count on people doing that, it's divisive and I don't trust today's federal courts to uphold a Jackson win in a ranked choice scenario.",
+          "createdAt": "2026-08-25T11:49:35.127Z",
+          "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3mtvqt7ncis27",
+          "sentiment": -0.3
+        },
         {
           "id": "3f7a1e32cc8915054ba56571d61f5cc65b89e2f7727035a2e7797165111a10f6",
           "authorHandle": "sharonlandry.bsky.social",
@@ -769,38 +777,6 @@
           "createdAt": "2026-08-24T12:02:43.917Z",
           "uri": "at://did:plc:rheeyyoqtdxr6dgokt2se7mm/app.bsky.feed.post/3mttb3sgib22e",
           "sentiment": 0
-        },
-        {
-          "id": "1b44451a33a2b8acccc0b92b128bc1b8cb7a1e18eb9f342392f3815abb9b2875",
-          "authorHandle": "hydevoltyge.bsky.social",
-          "postText": "Troy Jackson campaign: Everyone is happy to see him\n\nSusan Collins campaign: Please call off the canvassers, they are making even the conservatives mad\n\nbsky.app/profile/hyde...",
-          "createdAt": "2026-08-24T11:45:52.864Z",
-          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mtta5o7lss26",
-          "sentiment": 1
-        },
-        {
-          "id": "9351b217cbb0b8c9cd222d710c1481212520551f5f49674970d0e0563e6612e2",
-          "authorHandle": "conniemary.bsky.social",
-          "postText": "Troy Jackson works a real job so he understands the concerns of working people. He has deep Maine roots so he understands the state well.\nWe need more real working people in office everywhere across our country. We have too many rich people who have no clue what ordinary people go through.",
-          "createdAt": "2026-08-24T11:39:53.541Z",
-          "uri": "at://did:plc:yz564rlkroj5t4hasj6av6h5/app.bsky.feed.post/3mtt7sxjxgc2i",
-          "sentiment": 1
-        },
-        {
-          "id": "e6ece118955a797715f9df43a4e5ab15a3cf6ee0537f235ed60d9adc310f88bb",
-          "authorHandle": "petr-simonov.bsky.social",
-          "postText": "The formal nomination of Troy Jackson, a former Maine Senate president and logger, gives Democrats a chance to reset after Graham Platner’s campaign unraveled in scandal but also leaves with less than 100 days to build up a statewide campaign to take one of the nation’s most durable incumbents.",
-          "createdAt": "2026-08-24T11:39:02.648Z",
-          "uri": "at://did:plc:jnhevu5dehzluhn2njrfzzc2/app.bsky.feed.post/3mtt7rgysas2n",
-          "sentiment": 0
-        },
-        {
-          "id": "620f482c8aea92da4aba5fb789a21a0e4f9a452b37e4da519f2af0342360b368",
-          "authorHandle": "2k115.bsky.social",
-          "postText": "De-escalation funding shouldn't buy weapons. Sen. Collins secured tax dollars meant for training, yet ICE is spending it on 'shock gloves.' Troy Jackson is right to call out her failure to use appropriations power to enforce oversight. We need real accountability, not unchecked funding. #MEpolitics",
-          "createdAt": "2026-08-24T11:37:24.747Z",
-          "uri": "at://did:plc:qtvzswlr5ivdlpof4agxr46s/app.bsky.feed.post/3mtt7ojn4rs2k",
-          "sentiment": 1
         }
       ],
       "youtube": [
