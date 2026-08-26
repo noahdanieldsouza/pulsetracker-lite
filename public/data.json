@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T10:18:57.830Z",
+  "lastUpdated": "2026-08-26T10:55:09.785Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,17 +22,25 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.275,
+      "overallSentiment": -0.42000000000000004,
       "newsSentiment": null,
-      "socialSentiment": -0.275,
+      "socialSentiment": -0.42000000000000004,
       "mentions": {
         "news": 0,
-        "social": 4,
+        "social": 5,
         "youtube": 0,
-        "total": 4
+        "total": 5
       },
       "news": [],
       "social": [
+        {
+          "id": "aeb21d7743c6656f7dcc5029d8a11a29a2f6258cd29d5c3fd1ab37048ab87f8e",
+          "authorHandle": "shill9g.bsky.social",
+          "postText": "Sad!  He wants to be governor and this might be his only answer for a win by having a rogue department harass legit  voters on election day.\n\nshare.newsbreak.com/jeu7xagw",
+          "createdAt": "2026-08-26T10:45:24.153Z",
+          "uri": "at://did:plc:jnhqvqhjyt3fiu3s2ade2noi/app.bsky.feed.post/3mty5pejnpc2t",
+          "sentiment": -1
+        },
         {
           "id": "63b9b2ff33de82587981758993ccdc22827c6c1c496aa3e6de8097078f6ccf38",
           "authorHandle": "maryhilt.bsky.social",
@@ -72,14 +80,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.33587481962481963,
+      "overallSentiment": 0.3332589048378522,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.44732142857142854,
+      "socialSentiment": 0.43947368421052624,
       "mentions": {
         "news": 45,
-        "social": 112,
+        "social": 114,
         "youtube": 33,
-        "total": 190
+        "total": 192
       },
       "news": [
         {
@@ -489,6 +497,22 @@
         }
       ],
       "social": [
+        {
+          "id": "33efb73147460e7010ebac57b84fc0adda4d6196dd84bbe9165bdd9d723a856b",
+          "authorHandle": "hapkidogal.bsky.social",
+          "postText": "www.theguardian.com/us-news/2026...",
+          "createdAt": "2026-08-26T10:39:34.322Z",
+          "uri": "at://did:plc:hs6lj3t527ppb7xwho5j6osh/app.bsky.feed.post/3mty5ewvmvc2l",
+          "sentiment": 0
+        },
+        {
+          "id": "547921c166dae1cc381c6dea8a39482361c8a5aa13cc4816a7fc54db04966311",
+          "authorHandle": "moomomo42.bsky.social",
+          "postText": "www.theguardian.com/us-news/2026...",
+          "createdAt": "2026-08-26T10:23:23.898Z",
+          "uri": "at://did:plc:cl62lx6erufumuy6zi4awzhu/app.bsky.feed.post/3mty4hzgn7c2a",
+          "sentiment": 0
+        },
         {
           "id": "f71f2fa316d3e668cfeb6aaf96edc5f4a639a770a5acf2cf4ae3941956de711c",
           "authorHandle": "uspol.skyfleet.blue",
