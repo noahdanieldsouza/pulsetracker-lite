@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T01:00:04.468Z",
+  "lastUpdated": "2026-08-26T02:26:32.733Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,17 +22,25 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0,
+      "overallSentiment": -0.03333333333333333,
       "newsSentiment": null,
-      "socialSentiment": 0,
+      "socialSentiment": -0.03333333333333333,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 3,
         "youtube": 0,
-        "total": 2
+        "total": 3
       },
       "news": [],
       "social": [
+        {
+          "id": "ae967004c85d986e51e151b1b0d596caa36ac3b5cbbfc0eeda3c70b121474b3e",
+          "authorHandle": "nuclearneo577.bsky.social",
+          "postText": "Shenna Bellows came close, but there wasn't time for an actual primary vote in Maine.",
+          "createdAt": "2026-08-26T01:11:14.868Z",
+          "uri": "at://did:plc:l5rkkpqjqri6yjr4flhvcilc/app.bsky.feed.post/3mtx5mp4uts2r",
+          "sentiment": -0.1
+        },
         {
           "id": "8528827a782d24e3a31bf2820ba1fb56fb5a330afca149b9b6ae347ad153cd45",
           "authorHandle": "mainemorningstar.com",
@@ -56,14 +64,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3380720245937637,
+      "overallSentiment": 0.3478296236703316,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.4539130434782608,
+      "socialSentiment": 0.4831858407079645,
       "mentions": {
         "news": 45,
-        "social": 115,
+        "social": 113,
         "youtube": 33,
-        "total": 193
+        "total": 191
       },
       "news": [
         {
@@ -473,6 +481,54 @@
         }
       ],
       "social": [
+        {
+          "id": "413d9c15cb76b36ac53dfd5d72a8489b2b4911b1a50d4f84006a9fa9f4d6b34d",
+          "authorHandle": "incapotomus.bsky.social",
+          "postText": "Odd someone just sent him a check to run more ads about how the midterms are a referendum on him.  It’s signed “Abdul El Sayed & Troy Jackson.”",
+          "createdAt": "2026-08-26T02:03:08.518Z",
+          "uri": "at://did:plc:7ihpedjembpduuvv4oluryz6/app.bsky.feed.post/3mtxajijwoc2b",
+          "sentiment": -1
+        },
+        {
+          "id": "c0b1ebc7429e1b524e19ebe95df91a225ae081ecae4b95077d444044bf0d9378",
+          "authorHandle": "drsprockets.bsky.social",
+          "postText": "secure.actblue.com/donate/tj-em...",
+          "createdAt": "2026-08-26T01:50:46.447Z",
+          "uri": "at://did:plc:4t6ccosfvaxadf74aodi2ppc/app.bsky.feed.post/3mtx7tetqws2r",
+          "sentiment": 0
+        },
+        {
+          "id": "470a5e49767d3d9e1cfe9463514baa770e2ce085bbb7ca06fc6a8c47aadcdffb",
+          "authorHandle": "hungrytop71.bsky.social",
+          "postText": "Troy Jackson is a prominent progressive Democratic politician. Known for his working-class roots, labor advocacy, and extensive legislative accomplishments. A fifth-generation logger. He has demonstrated leadership in Maine’s legislature. He’s for the people not oligarchs!!! Maine Vote Blue!!!🇺🇸💙",
+          "createdAt": "2026-08-26T01:49:38.866Z",
+          "uri": "at://did:plc:5pbjjxphavzzzfcercgm6a6l/app.bsky.feed.post/3mtx7refcvc2t",
+          "sentiment": 1
+        },
+        {
+          "id": "8ad558a7b6b8e4f75adcb80a2c268e10a9ca9193eb248418d8a5483cf86c0f81",
+          "authorHandle": "wtpmary.bsky.social",
+          "postText": "Collins needs to be voted out. She showed a lack of innovative legislation and for the most part, towed trump's line. \nVote in the hard-working man TROY JACKSON who relates to Mainers.\nCome on Maine.",
+          "createdAt": "2026-08-26T01:48:02.327Z",
+          "uri": "at://did:plc:lsagq7x75cwnzpdsovm2nrwj/app.bsky.feed.post/3mtx7oid6jk24",
+          "sentiment": 1
+        },
+        {
+          "id": "14896f5f13465cde061c5d9233d7059a000618b7ce8c8a6cfbdf874361cc7610",
+          "authorHandle": "grandmamendiola.bsky.social",
+          "postText": "Please vote for Troy Jackson. He doesn't have any pearls to wringe!",
+          "createdAt": "2026-08-26T01:03:36.416Z",
+          "uri": "at://did:plc:x4kiamihtebi7my6ikdcqziw/app.bsky.feed.post/3mtx56zvzss2b",
+          "sentiment": 1
+        },
+        {
+          "id": "76645b479e2cefe682df4a36516a525d2ed54b866b0ea93a58114990e54fe285",
+          "authorHandle": "jean6750.bsky.social",
+          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-26T01:02:20.284Z",
+          "uri": "at://did:plc:k6ikym3njfla3mnvewiougcu/app.bsky.feed.post/3mtx54rcp522t",
+          "sentiment": 1
+        },
         {
           "id": "6a0e65da3c7ab0bdebc12f7ccac3e8ac8b110da6f625df40787015520bcfdc0e",
           "authorHandle": "janevoter2018.bsky.social",
@@ -1328,70 +1384,6 @@
           "createdAt": "2026-08-25T02:26:30.091Z",
           "uri": "at://did:plc:nrxmomzg3tf3nakroiohcywb/app.bsky.feed.post/3mturedptbs2g",
           "sentiment": 0.8
-        },
-        {
-          "id": "e38f69dc027dd786a42cfd68e2ba6a8702a6c51d2bacd076fee83da4983b97bb",
-          "authorHandle": "cdl6229.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-25T02:19:59.660Z",
-          "uri": "at://did:plc:2vpfx7upbzftyzywtsx4pfwh/app.bsky.feed.post/3mtuqyperzs2q",
-          "sentiment": 0
-        },
-        {
-          "id": "53b8b829c8dc575df2f4964f2852d23d456a54e325de42f2544d9d002288a0f2",
-          "authorHandle": "andrewlevesque.bsky.social",
-          "postText": "She’s terrified, way beyond concerned. The money flowing into her campaign is ridiculous, a real waste of resources. Corporate/Dark Money/Citizens United are her only hope. \n\nAnd yet Collins is still polling behind Troy Jackson….",
-          "createdAt": "2026-08-25T02:19:49.404Z",
-          "uri": "at://did:plc:vbljassbrgzig2nauh6mg5g6/app.bsky.feed.post/3mtuqyflsfs2p",
-          "sentiment": 0.7
-        },
-        {
-          "id": "5183179f4b6bf69fd0314535aad27a24de3d89483a46296bc04e4246ef6b3fd5",
-          "authorHandle": "dianne1950.bsky.social",
-          "postText": "I hope the Democrat, Troy Jackson,  wins by a landslide.",
-          "createdAt": "2026-08-25T02:10:40.579Z",
-          "uri": "at://did:plc:k462ei5lico37c6l7quaihl2/app.bsky.feed.post/3mtuqi26yik2d",
-          "sentiment": 0.9
-        },
-        {
-          "id": "26d3b089df036d8e99efa47e1ac6091d6d63a7c0468cc8196cd3ee5fd6e4fea0",
-          "authorHandle": "alphadaddybear.bsky.social",
-          "postText": "Good.",
-          "createdAt": "2026-08-25T01:39:10.063Z",
-          "uri": "at://did:plc:lzw6jkbduflickvuwhhmu7pp/app.bsky.feed.post/3mtuoppb4fc23",
-          "sentiment": 0
-        },
-        {
-          "id": "6da301bb08cc98c7cbc86cafabb27c419e0c8ff6e36ca292d851c3fe40147dc0",
-          "authorHandle": "towardjustice76.bsky.social",
-          "postText": "Does Collins really want this guy lying and campaigning for her?  Troy Jackson must be so pleased.",
-          "createdAt": "2026-08-25T01:36:56.063Z",
-          "uri": "at://did:plc:ygzj4xzfmsjzt7fqdwa5dm2o/app.bsky.feed.post/3mtuolpho3k2h",
-          "sentiment": -1
-        },
-        {
-          "id": "2152b35609c5f921431c815187e4a0a429c763dcc9b7684a268cfbe6d53b7f15",
-          "authorHandle": "justincat66.bsky.social",
-          "postText": "You bet this clip will be all over the airwaves imminently. Troy Jackson approves of this message",
-          "createdAt": "2026-08-25T01:23:50.936Z",
-          "uri": "at://did:plc:ocvzfat43usieeagrq6pbnv3/app.bsky.feed.post/3mtunucpiis2v",
-          "sentiment": 0
-        },
-        {
-          "id": "899f87890e7af67f76ed4b4884a2d2282507bc4c72d1c26e2c733f789fbabd42",
-          "authorHandle": "drsprockets.bsky.social",
-          "postText": "secure.actblue.com/donate/tj-em...",
-          "createdAt": "2026-08-25T01:17:36.949Z",
-          "uri": "at://did:plc:4t6ccosfvaxadf74aodi2ppc/app.bsky.feed.post/3mtunj62dsc2r",
-          "sentiment": 0
-        },
-        {
-          "id": "37bf4894aca2119cde9447d1991e34d98ebab454180a7636208628a006ef90d0",
-          "authorHandle": "aaronclick.bsky.social",
-          "postText": "youtube.com/watch?v=wm4K...",
-          "createdAt": "2026-08-25T01:10:34.919Z",
-          "uri": "at://did:plc:ilugismpy545aixyqbtnir47/app.bsky.feed.post/3mtun4ll2422k",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -1731,14 +1723,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.4125,
+      "overallSentiment": 0.2583333333333333,
       "newsSentiment": 0,
-      "socialSentiment": null,
+      "socialSentiment": -0.05,
       "mentions": {
         "news": 1,
-        "social": 0,
+        "social": 2,
         "youtube": 4,
-        "total": 5
+        "total": 7
       },
       "news": [
         {
@@ -1751,7 +1743,24 @@
           "sentiment": 0
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "603f1d7bda4dfbaa127a0d4fd8a8406e1aa06255e894971d987390c17536f261",
+          "authorHandle": "everylotsaltlakeco.bsky.social",
+          "postText": "5077 W WOOD RANCH DR, South Jordan, Utah, 84095\n\n#SouthJordan #utah\n",
+          "createdAt": "2026-08-25T17:30:04Z",
+          "uri": "at://did:plc:4dpe2wnptijhrxtzmpsidxj7/app.bsky.feed.post/3mtwdu3gtej22",
+          "sentiment": -0.1
+        },
+        {
+          "id": "fd253ef782bdabcdb1f55925755f8c24a6a3d2b2090d34e64bce79fa097b357e",
+          "authorHandle": "dawn.com.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-08-25T13:42:11.000Z",
+          "uri": "at://did:plc:qdzcgmgri7npfs46puqpnnjo/app.bsky.feed.post/3mtwchh65eet2",
+          "sentiment": 0
+        }
+      ],
       "youtube": [
         {
           "id": "c5a502697caee71ab814ff40ebc0cf430f2682531ad29b19b6b8dc7ca6d77827",
