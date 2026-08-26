@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T02:26:32.733Z",
+  "lastUpdated": "2026-08-26T03:32:37.198Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -64,14 +64,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3478296236703316,
+      "overallSentiment": 0.34242243867243866,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.4831858407079645,
+      "socialSentiment": 0.4669642857142856,
       "mentions": {
         "news": 45,
-        "social": 113,
+        "social": 112,
         "youtube": 33,
-        "total": 191
+        "total": 190
       },
       "news": [
         {
@@ -481,6 +481,14 @@
         }
       ],
       "social": [
+        {
+          "id": "1252814c9b7296116478ae9b5e41ecf8943434a8c6d23ec0380c907a4239f7f8",
+          "authorHandle": "slvrbld47.bsky.social",
+          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-26T03:00:33.553Z",
+          "uri": "at://did:plc:5hwoigzdnuc3of5vl67sr33e/app.bsky.feed.post/3mtxdq5y4mk2w",
+          "sentiment": -0.6
+        },
         {
           "id": "413d9c15cb76b36ac53dfd5d72a8489b2b4911b1a50d4f84006a9fa9f4d6b34d",
           "authorHandle": "incapotomus.bsky.social",
@@ -1368,22 +1376,6 @@
           "createdAt": "2026-08-25T03:47:07.303Z",
           "uri": "at://did:plc:3s52uzpjh236okih4cogzcov/app.bsky.feed.post/3mtuvuitv3c26",
           "sentiment": 0.7
-        },
-        {
-          "id": "2c8d59d8485583401fed4f807a296a9f1b9327d1de130c893b544b416076d656",
-          "authorHandle": "mochamae.bsky.social",
-          "postText": "Voting for Troy Jackson, it’s time to retire Collins and have a Senator who works for all of Maine!",
-          "createdAt": "2026-08-25T03:21:47.911Z",
-          "uri": "at://did:plc:c4qemeyyr2xx6otxqblgxw6f/app.bsky.feed.post/3mtuuh7tmvk2u",
-          "sentiment": 0.9
-        },
-        {
-          "id": "363385059ad8f3e50c43d49c785837009e7bca20ff51c4ca1ecdf3512e660575",
-          "authorHandle": "kparent.bsky.social",
-          "postText": "Susan Collins' ads are bashing Troy Jackson because he punched a guy when he was 19 years old, yet the Republicans will vote for rapists. Pathtic",
-          "createdAt": "2026-08-25T02:26:30.091Z",
-          "uri": "at://did:plc:nrxmomzg3tf3nakroiohcywb/app.bsky.feed.post/3mturedptbs2g",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
