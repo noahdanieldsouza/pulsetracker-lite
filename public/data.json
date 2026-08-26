@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T05:45:51.827Z",
+  "lastUpdated": "2026-08-26T06:19:44.115Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -64,14 +64,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3420145903479237,
+      "overallSentiment": 0.33767676767676774,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.4657407407407406,
+      "socialSentiment": 0.45272727272727264,
       "mentions": {
         "news": 45,
-        "social": 108,
+        "social": 110,
         "youtube": 33,
-        "total": 186
+        "total": 188
       },
       "news": [
         {
@@ -481,6 +481,22 @@
         }
       ],
       "social": [
+        {
+          "id": "aec550b385407297b4f13c27d3e343a2e6f1fb80ff88ff36c46dda10725eeaa5",
+          "authorHandle": "derekbshelby.bsky.social",
+          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-26T05:55:42.729Z",
+          "uri": "at://did:plc:4dyns4mqtqs6hmxkaxx6ktr2/app.bsky.feed.post/3mtxnjecotc2d",
+          "sentiment": -0.5
+        },
+        {
+          "id": "8e8cbd4c15acdb34f3d123c6a0a3dbc4fdda90fe3c968de99a40e72824a35fcc",
+          "authorHandle": "papaesoco.bsky.social",
+          "postText": "www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-26T05:45:34.794Z",
+          "uri": "at://did:plc:h2h6unwdc3ncsoput6d3bygy/app.bsky.feed.post/3mtxmxajxdc2x",
+          "sentiment": 0
+        },
         {
           "id": "4703f8b8713ac61d2e995b0e26863adfe383447de95b369e89211ea212f266dc",
           "authorHandle": "chucksherwood43.bsky.social",
