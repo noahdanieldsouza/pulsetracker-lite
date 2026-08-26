@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T18:54:46.300Z",
+  "lastUpdated": "2026-08-26T21:35:16.739Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,9 +22,9 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.041666666666666664,
+      "overallSentiment": 0.029166666666666664,
       "newsSentiment": 0,
-      "socialSentiment": 0.08333333333333333,
+      "socialSentiment": 0.05833333333333333,
       "mentions": {
         "news": 8,
         "social": 12,
@@ -106,6 +106,14 @@
         }
       ],
       "social": [
+        {
+          "id": "4c55058dbffd6a62d335824777461c16e20bbe521ee79cbbbe79d08f547f0056",
+          "authorHandle": "pgeddington.bsky.social",
+          "postText": "Looks like #Maine is getting even more interesting vis a vis the 2026 election cycle. This \"request\" would violate multiple federal statutes.",
+          "createdAt": "2026-08-26T20:25:18.375Z",
+          "uri": "at://did:plc:syr4pyycnawifxcinafpkctu/app.bsky.feed.post/3mtz64cuz5k2h",
+          "sentiment": -0.3
+        },
         {
           "id": "075a6b546f057c51a4a5a3347dde8d80667851c2c4bf4b8651dbe40dba23fb77",
           "authorHandle": "theamericanroulette.com",
@@ -193,14 +201,6 @@
           "createdAt": "2026-08-25T22:00:04.321Z",
           "uri": "at://did:plc:xioe5btxavtplvj5h7gpk2uv/app.bsky.feed.post/3mtwswvnb6n2s",
           "sentiment": 0
-        },
-        {
-          "id": "5721486fac0343dfff00b4c18d86d3ec44480ca8bc3008c9cfc9be9aa2d98ade",
-          "authorHandle": "pressherald.com",
-          "postText": "Why the Supreme Court ruling on mail voting won’t have an immediate impact in Maine",
-          "createdAt": "2026-08-25T21:00:58+00:00",
-          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtwpn64utv2k",
-          "sentiment": 0
         }
       ],
       "youtube": [],
@@ -209,14 +209,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.4336242424242424,
+      "overallSentiment": 0.43524077989194265,
       "newsSentiment": -0.02,
-      "socialSentiment": 0.5935999999999999,
+      "socialSentiment": 0.5984496124031007,
       "mentions": {
         "news": 30,
-        "social": 125,
+        "social": 129,
         "youtube": 11,
-        "total": 166
+        "total": 170
       },
       "news": [
         {
@@ -491,6 +491,102 @@
         }
       ],
       "social": [
+        {
+          "id": "b82061f28640cb4148502a73ffbd0416e930199f3c9bc029551d9702eab8eafe",
+          "authorHandle": "bireeves95.bsky.social",
+          "postText": "Vote Collins Out Maine💙🌊\n\n“Susan Collins is a Senator for Elon Musk and her billionaire donors.\nTroy Jackson will be a Senator for Mainers.”",
+          "createdAt": "2026-08-26T21:17:57.194Z",
+          "uri": "at://did:plc:lzhoiqcmix7x4umnzrtxzd5h/app.bsky.feed.post/3mtzb2hekck2k",
+          "sentiment": 1
+        },
+        {
+          "id": "fcb1eedfc2eb1cda7d882e0236eabf518aaa760e0b9daa57c2dac6357bc66ad9",
+          "authorHandle": "lonewolf1970.bsky.social",
+          "postText": "youtube.com/shorts/SNgyC...",
+          "createdAt": "2026-08-26T21:13:12.571Z",
+          "uri": "at://did:plc:cvqppn7mcyrsw2plghezyjx7/app.bsky.feed.post/3mtzarxwk5s2w",
+          "sentiment": 0
+        },
+        {
+          "id": "30fd91986eb5f94833c10c3e31d0be3770441369ee2c4e164fd15a595a05eb34",
+          "authorHandle": "bluegirly.bsky.social",
+          "postText": "Trump and Vance Just Gave Maine Democrat Troy Jackson Two Big Gifts newrepublic.com/post/214761/... via @newrepublic.com",
+          "createdAt": "2026-08-26T21:04:00.789Z",
+          "uri": "at://did:plc:vymadx23tazqvblub64kacrm/app.bsky.feed.post/3mtzabjphl22b",
+          "sentiment": 1
+        },
+        {
+          "id": "5ec3be99c0840ae9a2f9633e761da033e9abcf2ea253d82d74b2d997a67490a6",
+          "authorHandle": "teamrogers.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-26T20:53:21.671Z",
+          "uri": "at://did:plc:pkxey5un6idnniobmdqfbdfr/app.bsky.feed.post/3mtz7oi76u22w",
+          "sentiment": 0
+        },
+        {
+          "id": "4e55601790370ec6d9823fb32a0d5a10b0e6ce2f4d406c74b63d2b8ef3ead718",
+          "authorHandle": "jimlo-hi.bsky.social",
+          "postText": "Read \"Trump and Vance Just Gave Maine Democrat Troy Jackson Two Big Gifts\" on SmartNews: l.smartnews.com/p-8no9DM88/L...",
+          "createdAt": "2026-08-26T20:16:01.161Z",
+          "uri": "at://did:plc:ecpaxm553okgh65ountlauen/app.bsky.feed.post/3mtz5lpi6u22m",
+          "sentiment": 1
+        },
+        {
+          "id": "5f34d455d2916358b70e23bdb95ed47e5e24eb79a2e94b297348db205fccacbf",
+          "authorHandle": "enuffsaysv.bsky.social",
+          "postText": "Maine Democratic Senate nominee Troy Jackson is blasting  Vance for going after members of his party over their response to a fed'l ice officer fatally shooting a man in Maine earlier this summer\nThe Hill: apple.news/AqGayINvrT_2...\n🔥gestapo kills & moves on, regime doesn't care",
+          "createdAt": "2026-08-26T20:03:40.104Z",
+          "uri": "at://did:plc:th4kcbbh6cvts3z24dgxux4j/app.bsky.feed.post/3mtz4vmqwes2d",
+          "sentiment": 1
+        },
+        {
+          "id": "13ff5e1839cb3b76a47b080d9551bce156e4f465f339168b6908db795e217bad",
+          "authorHandle": "pressherald.com",
+          "postText": "How Susan Collins and Troy  Jackson would evaluate judicial nominees",
+          "createdAt": "2026-08-26T20:00:32+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mtz4pzhs5a2g",
+          "sentiment": 0
+        },
+        {
+          "id": "5c8e94cae61b28e7ba72ee8fda00e8a6ed265766ce4339543e9e0437d06b520a",
+          "authorHandle": "margaretforsyth.bsky.social",
+          "postText": "Troy Jackson",
+          "createdAt": "2026-08-26T19:53:57.730Z",
+          "uri": "at://did:plc:qgimsdoqyxdklecbembcwvc5/app.bsky.feed.post/3mtz4ebecqk2b",
+          "sentiment": 0
+        },
+        {
+          "id": "88c2db25089142639b6c24a560bd8e3d79080117da0e69de46563ccc81116bf9",
+          "authorHandle": "sachlichepolitik.eurosky.social",
+          "postText": "„Reproductive Freedom for All“ unterstützt Jackson bei seiner Kandidatur gegen Susan Collins – die republikanische Amtsinhaberin, die bereits fünf Amtszeiten absolviert hat und im Wahlkampf wegen ihrer Rolle bei der Aufhebung des Rechts auf Abtreibung in den USA scharf kritisiert wird.\"",
+          "createdAt": "2026-08-26T19:24:35.086Z",
+          "uri": "at://did:plc:z4nohzezhdzm3c4mhmxcn62v/app.bsky.feed.post/3mtz2pqenqc2d",
+          "sentiment": 1
+        },
+        {
+          "id": "5b808468e949989ad399fc8c68883df56c0649c867f27f85cd81791dc56bd6d7",
+          "authorHandle": "dscc.bsky.social",
+          "postText": "Susan Collins is a Senator for Elon Musk and her billionaire donors. \n\nTroy Jackson will be a Senator for Mainers.",
+          "createdAt": "2026-08-26T19:09:04.212735973Z",
+          "uri": "at://did:plc:7pav6b2wbntgjeiog7hje45m/app.bsky.feed.post/3mtyztynpxa2l",
+          "sentiment": 1
+        },
+        {
+          "id": "e08ac78ee7a79ceb2d3de780cbff29ca461b5b1c06352c70223c5e568d264295",
+          "authorHandle": "w3hnt.bsky.social",
+          "postText": "There is no choice without access.\n\n“Before Donald Trump came after abortion rights and access to contraceptives, Troy Jackson was on the offense and co-sponsored bills to ensure all health insurance in Maine covered contraceptives without cost.”",
+          "createdAt": "2026-08-26T19:03:37.618Z",
+          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3mtyzkb5rnc2w",
+          "sentiment": 1
+        },
+        {
+          "id": "246f31532e3e6a75b0be8764bebadcdded186e04b2969cdf2774a4d03fb64628",
+          "authorHandle": "w3hnt.bsky.social",
+          "postText": "“Troy promised he would never compromise on reproductive rights… His seven-year streak (2018-2024) of 100% ratings from Planned Parenthood shows a track record we can trust.“\n\nwww.pressherald.com/2026/07/15/f...",
+          "createdAt": "2026-08-26T18:59:53.373Z",
+          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3mtyzdlcgdk2w",
+          "sentiment": 1
+        },
         {
           "id": "00990200ce6958b551be42361845bc310dad0cdd6e3cd5dec64f8ecf8ccd35f8",
           "authorHandle": "kkmbol.bsky.social",
@@ -1426,70 +1522,6 @@
           "createdAt": "2026-08-25T21:35:25.448Z",
           "uri": "at://did:plc:l4htrwvn3mfwivzaf2bz5iaw/app.bsky.feed.post/3mtwrkrlwus2e",
           "sentiment": 0
-        },
-        {
-          "id": "cde6380235999f6499890701f0b36b31f151605cd0dbc8f42dda72621430317a",
-          "authorHandle": "vdbrito.bsky.social",
-          "postText": "www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-25T21:34:45.111Z",
-          "uri": "at://did:plc:uvwbw3u6tij4ir3e23t6fyvt/app.bsky.feed.post/3mtwrjl4yas23",
-          "sentiment": 0
-        },
-        {
-          "id": "3246836fa185f916dc291a2742d89c0717eaab7e25c9e7f65d31e150ea9387af",
-          "authorHandle": "sumoh7.bsky.social",
-          "postText": "Elon Musk thinks he can buy our elections. \n\nThat's why he's spending hundreds of millions of dollars to try to stop Troy Jackson. \n\nBe he's forgotten, that we, the people. have the true power.  #BlueWaveIn70Days",
-          "createdAt": "2026-08-25T21:16:40.933Z",
-          "uri": "at://did:plc:2nfexzpaqiyscshuda2gyqzf/app.bsky.feed.post/3mtwqjb6hp226",
-          "sentiment": 1
-        },
-        {
-          "id": "390c5717bf8eb4e65757d81d43c5b9f62730e926928d04b5c9db67fa224af8da",
-          "authorHandle": "57kev.bsky.social",
-          "postText": "Yes Vance is a Dirtbag and worse. And because no one on the right is speaking out or doing anything to stop this shit they are all dirtbags as far as I'm concerned. If there is really going to be a rapture that takes them away I say the sooner the better - take them now.",
-          "createdAt": "2026-08-25T21:04:39.493Z",
-          "uri": "at://did:plc:femn754jmamteuf2xzwwoilf/app.bsky.feed.post/3mtwptr5uh22u",
-          "sentiment": 0
-        },
-        {
-          "id": "df5f6e623f3f774e31c8749231a24704080fba91652d1ea414fe914217c75570",
-          "authorHandle": "clion13.bsky.social",
-          "postText": "Is Susan Collins...concerned? We in Biddeford Maine are...Vote Collins and All Republicans Out!\nJackson for Senate.\n\n'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-25T20:41:14.148Z",
-          "uri": "at://did:plc:qt4egibgugqzoujml4caqhtg/app.bsky.feed.post/3mtwojuwc422w",
-          "sentiment": 1
-        },
-        {
-          "id": "e0ca5343ef2786b4727bf6312cb09e20dbf62bed17a79b2a6a6c51f58f5a1e0a",
-          "authorHandle": "watchyourrepssc.bsky.social",
-          "postText": "When we say this is not working, it is a fight, not a complaint. Troy Jackson is leading the movement for healthcare, childcare, and freedom. We have 70 days to demand change and win it all. #BlueWaveIn70Days",
-          "createdAt": "2026-08-25T20:25:36.118Z",
-          "uri": "at://did:plc:uiffdv3gnj3koycqzkpxvfla/app.bsky.feed.post/3mtwnnwdrbk2h",
-          "sentiment": 1
-        },
-        {
-          "id": "034dbf8db15ed160d8556b359cddb2d46e4608e8efee5d6da757a3b09b7340b4",
-          "authorHandle": "mialong.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-25T20:06:26.679Z",
-          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mtwmlo5x222p",
-          "sentiment": 0
-        },
-        {
-          "id": "aae04828919e27feb8f01a083ab5e90629675ff1a81adaa60b2dbbf7e717f2a7",
-          "authorHandle": "penanghill.bsky.social",
-          "postText": "Great to see Troy Jackson take the fight to Susan Collins.",
-          "createdAt": "2026-08-25T19:19:24.418Z",
-          "uri": "at://did:plc:avi3kjp7iqvtwq6qnzypzinf/app.bsky.feed.post/3mtwjxknbu22e",
-          "sentiment": 1
-        },
-        {
-          "id": "abdd71ea0bc487183a8c2dda69e5b3ab03c265062c32e9310eab1bdd3269d08e",
-          "authorHandle": "skippyoz.bsky.social",
-          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-25T19:06:23.119Z",
-          "uri": "at://did:plc:ncgbf3r75fomh3lenvzyb42w/app.bsky.feed.post/3mtwjabjppk2v",
-          "sentiment": 1
         }
       ],
       "youtube": [
