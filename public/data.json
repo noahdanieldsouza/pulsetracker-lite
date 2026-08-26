@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T10:55:09.785Z",
+  "lastUpdated": "2026-08-26T11:23:53.331Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,17 +22,25 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.42000000000000004,
+      "overallSentiment": -0.46666666666666673,
       "newsSentiment": null,
-      "socialSentiment": -0.42000000000000004,
+      "socialSentiment": -0.46666666666666673,
       "mentions": {
         "news": 0,
-        "social": 5,
+        "social": 6,
         "youtube": 0,
-        "total": 5
+        "total": 6
       },
       "news": [],
       "social": [
+        {
+          "id": "2815c45e531f809523d7f91b47a982ed4df9b3b79e6efd762abd6eba09e77f6e",
+          "authorHandle": "bangordailynews.bsky.social",
+          "postText": "He also claimed without evidence that undocumented immigrations are being paid to vote. www.bangordailynews.com/2026/08/26/p...",
+          "createdAt": "2026-08-26T11:22:48.481Z",
+          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mty7sbehfq2f",
+          "sentiment": -0.7
+        },
         {
           "id": "aeb21d7743c6656f7dcc5029d8a11a29a2f6258cd29d5c3fd1ab37048ab87f8e",
           "authorHandle": "shill9g.bsky.social",
@@ -80,14 +88,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3332589048378522,
+      "overallSentiment": 0.3306423206423207,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.43947368421052624,
+      "socialSentiment": 0.4316239316239316,
       "mentions": {
         "news": 45,
-        "social": 114,
+        "social": 117,
         "youtube": 33,
-        "total": 192
+        "total": 195
       },
       "news": [
         {
@@ -497,6 +505,62 @@
         }
       ],
       "social": [
+        {
+          "id": "9b0bc1404bf20f0692364a7fe1e0ad83cfb0b1fca6c3fd6b1a8a1df4e9e05ef4",
+          "authorHandle": "weldonmoore.bsky.social",
+          "postText": "www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-26T11:19:57.454Z",
+          "uri": "at://did:plc:vcpqarbsul5zaws6gzu3qyw2/app.bsky.feed.post/3mty7n5rqqc2i",
+          "sentiment": 0
+        },
+        {
+          "id": "0f79a9f9110bef17e41935ac2930b07b35e1a400735be8fb4f3cab95f7e7eb95",
+          "authorHandle": "natty4bumpo.bsky.social",
+          "postText": "www.theguardian.com/us-news/2026...",
+          "createdAt": "2026-08-26T11:09:55.633Z",
+          "uri": "at://did:plc:gudaflztwlufiqgolrp4jjab/app.bsky.feed.post/3mty737tmw22d",
+          "sentiment": 0
+        },
+        {
+          "id": "987116e51bbb23b7e83418d4aaf8a1473d8a5b83ec415649322ada471ecfaba2",
+          "authorHandle": "groku.bsky.social",
+          "postText": "Abortion rights group endorses Democrat Troy Jackson in critical Maine Senate race\nwww.theguardian.com/us-news/2026...",
+          "createdAt": "2026-08-26T11:02:15.145Z",
+          "uri": "at://did:plc:4lb7pbkmimkhynsjt73mk4zt/app.bsky.feed.post/3mty6nionm22t",
+          "sentiment": 1
+        },
+        {
+          "id": "57b3a495abb51ef0fb8953830252fa88310e7446ca510caa4e1a5853017a468d",
+          "authorHandle": "gkiltzva.bsky.social",
+          "postText": "www.theguardian.com/us-news/2026...",
+          "createdAt": "2026-08-26T11:01:23.638Z",
+          "uri": "at://did:plc:ssxemiptbikluhfrqr6pruri/app.bsky.feed.post/3mty6lxksrk2b",
+          "sentiment": 0
+        },
+        {
+          "id": "3dc5f0aa843285e4f0b8bc679ceccb3e6a75d5c5be1fb6763e00c32879fff780",
+          "authorHandle": "pressherald.com",
+          "postText": "Troy Jackson has earned our trust | Opinion",
+          "createdAt": "2026-08-26T11:01:05+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mty6lgbrii2c",
+          "sentiment": 1
+        },
+        {
+          "id": "7573dddc17dfe74239e8fbc5837d1e7c708fa70a2936fd162bc631d076469b00",
+          "authorHandle": "thefinaldispatch.bsky.social",
+          "postText": "🏛️ Abortion rights group endorses Democrat Troy Jackson in critical Maine Senate race\n\nhttps://www.theguardian.com/us-news/2026/aug/26/abortion-rights-group-endorses-democrat-troy-jackson-in-critical-maine-senate-race\n— The Guardian US",
+          "createdAt": "2026-08-26T11:00:15.092Z",
+          "uri": "at://did:plc:7m5pap5siaikvtrqbcgfcfru/app.bsky.feed.post/3mty6jwmwmj2k",
+          "sentiment": 1
+        },
+        {
+          "id": "83c7614bb7443b5fb365049444bbc093d9d635b2bfe6d096522d72491d2e1b03",
+          "authorHandle": "gkiltzva.bsky.social",
+          "postText": "www.theguardian.com/us-news/2026...",
+          "createdAt": "2026-08-26T10:55:53.070Z",
+          "uri": "at://did:plc:ssxemiptbikluhfrqr6pruri/app.bsky.feed.post/3mty6c4cnic2b",
+          "sentiment": 0
+        },
         {
           "id": "33efb73147460e7010ebac57b84fc0adda4d6196dd84bbe9165bdd9d723a856b",
           "authorHandle": "hapkidogal.bsky.social",
@@ -1376,38 +1440,6 @@
           "createdAt": "2026-08-25T11:49:35.127Z",
           "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3mtvqt7ncis27",
           "sentiment": 0.1
-        },
-        {
-          "id": "3f7a1e32cc8915054ba56571d61f5cc65b89e2f7727035a2e7797165111a10f6",
-          "authorHandle": "sharonlandry.bsky.social",
-          "postText": "Troy Jackson is running against Susan Collins in Maine .  He needs our support. He is interviewed by Brian Tyler Cohen. The asshole reference was because Vance defended ICE in the shooting in Biddeford.\nyoutu.be/lS9tam5g3RM?...",
-          "createdAt": "2026-08-25T11:21:53.949Z",
-          "uri": "at://did:plc:vg6xcxg4hafkdr5jbb6cizx5/app.bsky.feed.post/3mtvpbpg6ec2r",
-          "sentiment": 0.8
-        },
-        {
-          "id": "40391f8ab36af1a47e110697dc0962dabd5a25d5492a0a3de0e0c708049e5b87",
-          "authorHandle": "bunkunin.bsky.social",
-          "postText": "‘Vance Is a Dirtbag’: Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja... Vance has #ICE in his veins, and murder in his heart.  In short, it's just business as usual with him and Don Trump.",
-          "createdAt": "2026-08-25T11:19:20.333Z",
-          "uri": "at://did:plc:olngegflgjr5us2ype26qkrr/app.bsky.feed.post/3mtvp54w5r222",
-          "sentiment": 0.9
-        },
-        {
-          "id": "62d9aab683b43573181ec70a46d3e79c576c063cae5c2fc45f17ac984955335b",
-          "authorHandle": "womanscreamingattv.bsky.social",
-          "postText": "Such a great interview!  You will get to know Troy Jackson D-MA running for Susan Collin's seat! \nyoutu.be/lS9tam5g3RM?...",
-          "createdAt": "2026-08-25T11:09:48.341Z",
-          "uri": "at://did:plc:gha2dhmyyz2vrijuztyyibxi/app.bsky.feed.post/3mtvom3gdt22y",
-          "sentiment": 0.9
-        },
-        {
-          "id": "7dae6ee14ccc6278e805d9dce52a27adedc1f0ab62f29a5c2297abb2fe109ea8",
-          "authorHandle": "4deadreckoning.bsky.social",
-          "postText": "",
-          "createdAt": "2026-08-25T11:05:30.666Z",
-          "uri": "at://did:plc:a6sqxgbqcinr7vxupif4m62s/app.bsky.feed.post/3mtvoefoq3c24",
-          "sentiment": 0
         }
       ],
       "youtube": [
