@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T08:57:34.816Z",
+  "lastUpdated": "2026-08-26T09:41:57.511Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,17 +22,25 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.03333333333333333,
+      "overallSentiment": -0.275,
       "newsSentiment": null,
-      "socialSentiment": -0.03333333333333333,
+      "socialSentiment": -0.275,
       "mentions": {
         "news": 0,
-        "social": 3,
+        "social": 4,
         "youtube": 0,
-        "total": 3
+        "total": 4
       },
       "news": [],
       "social": [
+        {
+          "id": "63b9b2ff33de82587981758993ccdc22827c6c1c496aa3e6de8097078f6ccf38",
+          "authorHandle": "maryhilt.bsky.social",
+          "postText": "This asshole should be defeated in November.\n\nHe's a fascist pig who loves Trump.\nwww.bangordailynews.com/2026/08/26/p...",
+          "createdAt": "2026-08-26T09:05:42.689Z",
+          "uri": "at://did:plc:glewjojbdh7652lmyyzu4rrb/app.bsky.feed.post/3mtxy545tc22j",
+          "sentiment": -1
+        },
         {
           "id": "ae967004c85d986e51e151b1b0d596caa36ac3b5cbbfc0eeda3c70b121474b3e",
           "authorHandle": "nuclearneo577.bsky.social",
@@ -64,14 +72,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.33464646464646464,
+      "overallSentiment": 0.3319390163315397,
       "newsSentiment": 0.013333333333333336,
-      "socialSentiment": 0.44363636363636355,
+      "socialSentiment": 0.43551401869158873,
       "mentions": {
         "news": 45,
-        "social": 110,
+        "social": 107,
         "youtube": 33,
-        "total": 188
+        "total": 185
       },
       "news": [
         {
@@ -1336,30 +1344,6 @@
           "createdAt": "2026-08-25T11:05:30.666Z",
           "uri": "at://did:plc:a6sqxgbqcinr7vxupif4m62s/app.bsky.feed.post/3mtvoefoq3c24",
           "sentiment": 0
-        },
-        {
-          "id": "c61fea209e6809f7ff1db4e9b7b20b1b76e38e2b794eb277baa2016d34f3b5af",
-          "authorHandle": "us-headlines.bsky.social",
-          "postText": "📰 Common Dreams\n'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine\n\n⟶ Common Dreams | headline in context",
-          "createdAt": "2026-08-25T09:40:59.867Z",
-          "uri": "at://did:plc:cvgjuh3a42ina33yol2znsnq/app.bsky.feed.post/3mtvjnbthrn24",
-          "sentiment": 0.4
-        },
-        {
-          "id": "0a1e40597a82af3c85a9ad03c1498f72fb08c8b350be33a39dabfbd6e490ff22",
-          "authorHandle": "commondreams.org",
-          "postText": "\"We lost a person that JD Vance seems to not give a shit about. And that should piss us all off.\"",
-          "createdAt": "2026-08-25T09:39:00.212884Z",
-          "uri": "at://did:plc:tiriierad73thyvjczaphg6v/app.bsky.feed.post/3mtvjjrdi6a2w",
-          "sentiment": 0.9
-        },
-        {
-          "id": "7b851e023fe029bbe0b1470490810311c4853b0f7f267b7c572c06712bba6d58",
-          "authorHandle": "numberjohnny5.bsky.social",
-          "postText": "Troy Jackson is running for Susan Collins' seat. Love him up. www.facebook.com/TroyJacksonm...",
-          "createdAt": "2026-08-25T09:19:14.289Z",
-          "uri": "at://did:plc:y3zkkkm5tsjhpig6hrqy5g6a/app.bsky.feed.post/3mtvigep6fc2z",
-          "sentiment": 0.9
         }
       ],
       "youtube": [
