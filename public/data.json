@@ -1,20 +1,39 @@
 {
-  "lastUpdated": "2026-08-27T21:00:49.017Z",
+  "lastUpdated": "2026-08-27T21:41:28.707Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
-      "newsSentiment": null,
+      "overallSentiment": -0.05,
+      "newsSentiment": -0.05,
       "socialSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 2,
         "social": 0,
         "youtube": 0,
-        "total": 0
+        "total": 2
       },
-      "news": [],
+      "news": [
+        {
+          "id": "14f80c617c9f059424fd6a0d39e5bb9d155f01ab0b07b42a9961cd294ebfb91a",
+          "title": "Vijay Deverakonda and Rashmika Mandanna’s first film after wedding, 'Ranabaali', gets release date",
+          "description": "Vijay Deverakonda and Rashmika Mandanna’s 'Ranabaali', directed by Rahul Sankrityan, will release worldwide on October 16, coinciding with Vijayadashami.",
+          "sourceName": "Mathrubhumi English",
+          "url": "https://english.mathrubhumi.com/movies-music/regional/vijay-deverakonda-and-rashmika-mandannas-first-film-after-wedding-ranabaali-gets-release-date-gzhjmtr1",
+          "publishedAt": "2026-08-27T09:32:17.000Z",
+          "sentiment": -0.1
+        },
+        {
+          "id": "a5954a680eb2578562a4c4bd78081e97881a041fdc8feb0539784d7216b44ae7",
+          "title": "Ranabaali Locks October 16 Release Date",
+          "description": "The much awaited period action drama Ranabaali has received a new release date. Starring Vijay Deverakonda and Rashmika Mandanna",
+          "sourceName": "Cinejosh",
+          "url": "https://cinejosh.com/news/1/129488/ranabaali-locks-october-16-release-date.html%7D",
+          "publishedAt": "2026-08-27T06:29:33.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -26,82 +45,46 @@
       "newsSentiment": 0,
       "socialSentiment": 0,
       "mentions": {
-        "news": 8,
+        "news": 4,
         "social": 3,
         "youtube": 0,
-        "total": 11
+        "total": 7
       },
       "news": [
         {
-          "id": "0e9196e5b8a4fc3714edb3f9c9ae69e4c87f4f90e2038550874ee7eb82ed79f5",
-          "title": "Ranked-choice voting will be used in U.S. Senate race in Maine",
-          "description": "A total of 6 write-in candidates have formally declared in the race, meaning a ranked-choice ballot will be used.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/25/ranked-choice-voting-will-be-used-in-u-s-senate-race-in-maine/",
-          "publishedAt": "2026-08-25T22:53:47.000Z",
+          "id": "01ba17037ab3ce949eaee0157f0789cb7731348076915a5a9ebb41ad434f62ae",
+          "title": "Maine GOP governor nominee plans to ask Trump admin to send ICE to the polls",
+          "description": "Maine Republican gubernatorial nominee Bobby Charles said he plans to ask the Trump administration to send ICE agents and U.S. Marshals to polling places in November. The Associated Press published audio Wednesday of Charles discussing the plan during an event with Maine Young Republicans last week. Charles told the group that he planned to appeal [...] The post Maine GOP governor nominee plans to ask Trump admin to send ICE to the polls appeared first on News Pub .",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/northeast/maine/maine-gop-governor-nominee-plans-to-ask-trump-admin-to-send-ice-to-the-polls/",
+          "publishedAt": "2026-08-27T04:15:08.000Z",
           "sentiment": 0
         },
         {
-          "id": "acf96b9984d8b39fc8ee12647ec26fd4fb3a63633efa717d9f26dcfc7114c802",
-          "title": "Ranked-choice voting will be used in U.S. Senate race in Maine",
-          "description": "A total of 6 write-in candidates have formally declared in the race, meaning a ranked-choice ballot will be used.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/08/25/ranked-choice-voting-will-be-used-in-u-s-senate-race-in-maine/",
-          "publishedAt": "2026-08-25T22:53:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "743c5e29f052e4d6c7e2a5625b08bf44923c3da95bd87ba23dae11dca7bb0259",
-          "title": "Ranked-choice voting will be used in U.S. Senate race in Maine",
-          "description": "A total of 6 write-in candidates have formally declared in the race, meaning a ranked-choice ballot will be used.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/25/ranked-choice-voting-will-be-used-in-u-s-senate-race-in-maine/",
-          "publishedAt": "2026-08-25T22:53:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9ecebd5831c5e36aa9187af8b98876b8b41943a756dab8aa30a3414f5b10f1c4",
-          "title": "Maine Secretary of State outlines key security procedures ahead of November election",
-          "description": "With the November election approaching, Maine elections officials are locking in ballots and preparing for a large turnout.",
+          "id": "b9d20056eb229de394fb9f6aad2d0133f263cd5094ca21876edd3a3a048d1fba",
+          "title": "Republican gubernatorial nominee Bobby Charles says he wants ICE agents at polling places in Maine",
+          "description": "Charles made these comments to supporters at an event in Arundel, according to audio obtained by The Associated Press.",
           "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/08/25/maine-secretary-state-outlines-key-security-procedures-ahead-november-election/",
-          "publishedAt": "2026-08-25T22:41:55.000Z",
+          "url": "https://www.wabi.tv/2026/08/26/republican-gubernatorial-nominee-bobby-charles-says-he-wants-ice-agents-polling-places-maine/",
+          "publishedAt": "2026-08-26T22:52:11.000Z",
           "sentiment": 0
         },
         {
-          "id": "ac251a8aef6280d463cfc41ff734a7c9d82102e0587ab164bc19336ffae52d32",
-          "title": "Why the Supreme Court ruling on mail voting won’t have an immediate impact in Maine",
-          "description": "An injunction in a separate court case is preventing changes to mail-in ballots from taking place for now, said Secretary of State Shenna Bellows.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/25/why-the-supreme-court-ruling-on-mail-voting-wont-have-an-immediate-impact-in-maine/",
-          "publishedAt": "2026-08-25T20:35:26.000Z",
+          "id": "b6da1462e96a53cccf832cbcf3178836ece673dd96aa1f491915bbd4c8857716",
+          "title": "Republican nominee for Maine governor says he wants ICE agents at polling places in the state",
+          "description": "Bobby Charles, the Republican nominee for governor in Maine, has told supporters that he plans to ask a top Homeland Security official to send ICE agents and U.S. Marshals to polling places in Maine before the midterm elections. The Associated Press obtained audio of Charles making these comments during an address before the state's Young Republicans chapter. The Maine Democratic Party criticized the idea as likely illegal and an attempt to intimidate voters. Homeland Security has stated it does not plan to send ICE agents to polling places, and the White House dismissed concerns about federal agents interfering with elections. The post Republican nominee for Maine governor says he wants ICE agents at polling places in the state appeared first on WHEC.com .",
+          "sourceName": "Whec News10nbc",
+          "url": "https://www.whec.com/ap-top-news/republican-nominee-for-maine-governor-says-he-wants-ice-agents-at-polling-places-in-the-state/",
+          "publishedAt": "2026-08-26T22:07:53.000Z",
           "sentiment": 0
         },
         {
-          "id": "b843079a1f371d4da2947ebc507c610be30beb6aacb9f95de9e6376b43d28582",
-          "title": "Why the Supreme Court ruling on mail voting won’t have an immediate impact in Maine",
-          "description": "An injunction in a separate court case is preventing changes to mail-in ballots from taking place for now, said Secretary of State Shenna Bellows.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/25/why-the-supreme-court-ruling-on-mail-voting-wont-have-an-immediate-impact-in-maine/",
-          "publishedAt": "2026-08-25T20:35:26.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0f91c33e7d2a4aad50f9633b47359b9795ba9dcd203c648cca9f1cbc4351a57c",
-          "title": "Why the Supreme Court ruling on mail voting won’t have an immediate impact in Maine",
-          "description": "An injunction in a separate court case is preventing changes to mail-in ballots from taking place for now, said Secretary of State Shenna Bellows.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/08/25/why-the-supreme-court-ruling-on-mail-voting-wont-have-an-immediate-impact-in-maine/",
-          "publishedAt": "2026-08-25T20:35:26.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e2abf5b28e7179c598582dcb202d49edcbfd9e8519a931e3933927ac62e4c348",
-          "title": "Platner supporters push write-in campaign for disgraced candidate over Democratic nominee",
-          "description": "Graham Platner, who suspended his campaign, has until 5 p.m. on Tuesday to register as a write-in option for the general election.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4699299/platner-supporters-push-write-in-campaign-for-disgraced-candidate-over-democratic-nominee/",
-          "publishedAt": "2026-08-25T16:44:45.000Z",
+          "id": "9e046552cce2e3ee13bb1bc77d395b352c41d706f20321a8fe93635b98118395",
+          "title": "GOP Nominee Says He'll Ask for ICE at Polling Places",
+          "description": "Maine's Republican nominee for governor told a crowd of supporters that he would ask the Department of Homeland Security to send US Marshals and Immigration and Customs Enforcement agents to polling places in the state for the November election, according to audio obtained by the AP . During an Aug. 20...",
+          "sourceName": "Newser",
+          "url": "https://www.newser.com/story/395356/maine-republican-says-he-wants-ice-at-our-voting-booths.html",
+          "publishedAt": "2026-08-26T21:42:00.000Z",
           "sentiment": 0
         }
       ],
@@ -137,284 +120,77 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.37416337285902507,
-      "newsSentiment": -0.02,
+      "overallSentiment": 0.4427348014304536,
+      "newsSentiment": 0.1857142857142857,
       "socialSentiment": 0.4152173913043479,
       "mentions": {
-        "news": 30,
+        "news": 7,
         "social": 92,
         "youtube": 11,
-        "total": 133
+        "total": 110
       },
       "news": [
         {
-          "id": "daf6aee6e1002dd532422134804f2cbc23c9f9b4fa951202a10d5cd2cbdacbec",
-          "title": "6 write-in candidates file to challenge Susan Collins and Troy Jackson",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4849435542486-6-write-in-candidates-file-to-challenge-susan-collins-and-troy-jackson",
-          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "id": "72e440130643e42136ec8d8a039ca494421b472340419e90417ad7240cfcda8c",
+          "title": "MORNING GLORY: Hasan Piker’s radical rhetoric is becoming Democrats’ 2026 brand",
+          "description": "At least Marx, Lenin and Mao were well read. Social media influencer Hasan Piker wears... The post MORNING GLORY: Hasan Piker’s radical rhetoric is becoming Democrats’ 2026 brand appeared first on Democratic Accent .",
+          "sourceName": "Democratic Accent",
+          "url": "https://www.democraticaccent.com/morning-glory-hasan-pikers-radical-rhetoric-is-becoming-democrats-2026-brand/",
+          "publishedAt": "2026-08-27T09:00:33.000Z",
           "sentiment": 0
         },
         {
-          "id": "deb1ac580d9c4f287da0acb207cbfc7513cfcaafd1fa57e1a04dcae085709f64",
-          "title": "Trump's trade war could have Senate midterm side effects",
-          "description": "President Donald Trump insists he's trying to level the playing field with Canada through more tariffs. But his approach could complicate Republicans' efforts to defend their Senate majority in November. Five states with critical Senate races count Canada as a major trading partner. Four of them are along the U.S.-Canada border. Maine Sen. Susan Collins is the Republican who has most clearly tried to distance herself from Trump's policy. But she and others are taking hits for Trump's trade wars anyway. Democrats say Republicans will not truly stand up to Trump on any of his policies, including tariffs that are raising prices on U.S. consumers.",
-          "sourceName": "Apnews",
-          "url": "https://apnews.com/article/trump-canada-tariffs-senate-2026-campaign-c3d2461184a2b8656abd01376452e0d5",
-          "publishedAt": "2026-08-25T23:41:35.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0e8466891721238be4152f62619dafd0dd273c7561eea6f24c3c28c726a8a2b5",
-          "title": "Ranked-choice voting will be used in U.S. Senate race in Maine",
-          "description": "A total of 6 write-in candidates have formally declared in the race, meaning a ranked-choice ballot will be used.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/25/ranked-choice-voting-will-be-used-in-u-s-senate-race-in-maine/",
-          "publishedAt": "2026-08-25T22:53:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ed7e83656f63f3e5f1754dab7939f7ee982bc8af9d77a1f4946eccd3e0bcf150",
-          "title": "Ranked-choice voting will be used in U.S. Senate race in Maine",
-          "description": "A total of 6 write-in candidates have formally declared in the race, meaning a ranked-choice ballot will be used.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/08/25/ranked-choice-voting-will-be-used-in-u-s-senate-race-in-maine/",
-          "publishedAt": "2026-08-25T22:53:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d9dad07c83204bdb798c4b89f9f6a56844816c88de57ce45d4fe001eec1a665c",
-          "title": "Ranked-choice voting will be used in U.S. Senate race in Maine",
-          "description": "A total of 6 write-in candidates have formally declared in the race, meaning a ranked-choice ballot will be used.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/25/ranked-choice-voting-will-be-used-in-u-s-senate-race-in-maine/",
-          "publishedAt": "2026-08-25T22:53:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "86d7ecb901c4fa0e8d1db88197a7de63538953b48f8ee1a63238129c8d851cf8",
-          "title": "Map Shows Senate Battlegrounds Hit Hardest by Canada Tariffs",
-          "description": "Canada announced retaliatory tariffs on U.S. goods Tuesday after its negotiations with Washington collapsed.",
-          "sourceName": "Newsweek",
-          "url": "https://www.newsweek.com/map-shows-senate-battlegrounds-hit-hardest-by-canada-tariffs-12367218",
-          "publishedAt": "2026-08-25T21:55:35.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2c07adfda4d6395c024f28e06ae071812f543a3b26cfbc58ec62baa384ab6333",
-          "title": "Every politician says they're for the working man, so why are only 1% of elected officials from the working class?",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/finance/every-politician-says-theyre-for-the-working-man-so-why-are-only-1-of-elected-officials-from-the-working-class-ADAFB5FC-C1FD-4365-97CF-754B03738136",
-          "publishedAt": "2026-08-25T21:38:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "822751bd69054572a3d9bf60a71c992e74d45062c853c93a15cf584c2e05d716",
-          "title": "Every politician says they’re for the working man, so why are only 1% of elected officials from the working class?",
-          "description": "Researchers tracking 97 democracies find working-class candidates are just as qualified and likely to win as white-collar rivals, but don't get recruited.",
-          "sourceName": "Fortune",
-          "url": "https://fortune.com/2026/08/25/working-class-representation-global-democracies/",
-          "publishedAt": "2026-08-25T21:12:09.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f67669a14d6af7997d36754ce5618b4f96ad5912fe4ada15eef34d483b316c06",
-          "title": "‘It won’t go well for them’: Jared Golden sticks with Trump in Canada tariff fight",
-          "description": "Golden, the 2nd District Democrat who is not seeking reelection, has repeatedly backed Trump's aggressive tariff actions that are once again putting U.S.-Canada relations to the test.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/08/25/it-wont-go-well-for-them-jared-golden-sticks-with-trump-in-canada-tariff-fight/",
-          "publishedAt": "2026-08-25T20:52:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ce36d28ce7b121d143679f9fb3c2e68758eded3bf73aa45af830b76db6972928",
-          "title": "‘It won’t go well for them’: Jared Golden sticks with Trump in Canada tariff fight",
-          "description": "Golden, the 2nd District Democrat who is not seeking reelection, has repeatedly backed Trump's aggressive tariff actions that are once again putting U.S.-Canada relations to the test.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/25/it-wont-go-well-for-them-jared-golden-sticks-with-trump-in-canada-tariff-fight/",
-          "publishedAt": "2026-08-25T20:52:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a3a972a1504bc8d16eb4a32e2ee0b668283114ebac2576b0e9b523c79ea4d6e0",
-          "title": "‘It won’t go well for them’: Jared Golden sticks with Trump in Canada tariff fight",
-          "description": "Golden, the 2nd District Democrat who is not seeking reelection, has repeatedly backed Trump's aggressive tariff actions that are once again putting U.S.-Canada relations to the test.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/25/it-wont-go-well-for-them-jared-golden-sticks-with-trump-in-canada-tariff-fight/",
-          "publishedAt": "2026-08-25T20:52:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "afa812e453d57a91b7990a81044ced4d76ac620909b7138c22e0656b7b44738a",
-          "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races",
-          "description": "President Donald Trump's escalation of a trade war with Canada through new tariffs is creating political pressure for Republicans in several key swing states ahead of the midterms.",
-          "sourceName": "The Sentinel",
-          "url": "https://sentinelcolorado.com/uncategorized/trumps-trade-war-with-canada-could-rattle-economies-in-states-with-key-senate-races/",
-          "publishedAt": "2026-08-25T20:39:57.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b4cfecb8bbbec7a4b1ae9832760af59854ec1e1df68a5b1fb9e8371350a1ca83",
-          "title": "Trump's Trade War With Canada Could Spell Disaster For Senate Republican Candidates",
-          "description": "Four competitive Senate races are in states that border Canada. If tariffs raise prices, guess which party undecided voters are likely to blame?",
-          "sourceName": "Huffpost",
-          "url": "https://www.huffpost.com/entry/trump-canada-tariffs-republican-senate-candidates_n_6a8c9ae0e4b07583705b0b6f",
-          "publishedAt": "2026-08-25T20:28:44.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "158430672cfb5b5be63b545599886fcfd998321589fae34ba4abfe4c4cc2d2f2",
-          "title": "Trump's Trade War With Canada Could Spell Disaster For Senate Republican Candidates",
-          "description": "Four competitive Senate races are in states that border Canada. If tariffs raise prices, guess which party undecided voters are likely to blame?",
-          "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/trumps-trade-war-canada-could-202844700.html",
-          "publishedAt": "2026-08-25T20:28:44.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6f249b7f2e10aba5f351f78a67f953d7136fa8f5ff4b9788d7a518116928d13c",
-          "title": "Attorney slams JD Vance’s comments on Maine ICE shooting victim: ‘Completely disingenuous and purposefully misleading’",
-          "description": "The vice president appeared to link the death of a Colombian immigrant in Biddeford to drug enforcement efforts, though immigration agencies have not suggested victim was linked with drug trafficking.",
-          "sourceName": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/08/25/metro/maine-ice-shooting-jd-vance/",
-          "publishedAt": "2026-08-25T18:23:56.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1caa991ab87ef6212da26cc2361d1e7b62813a7ec198b57cd4822a1244673d65",
-          "title": "Trump's trade war with Canada could rattle economies in states with key Senate races",
-          "description": "President Donald Trump insists he's trying to level the playing field with Canada through more tariffs. But his approach could complicate Republicans' efforts to defend their Senate majority in November. Five states with critical Senate races count Canada as a major trading partner.",
-          "sourceName": "Alaska Public Media",
-          "url": "https://alaskapublic.org/news/politics/washington-d-c/2026-08-25/trumps-trade-war-with-canada-could-rattle-economies-in-states-with-key-senate-races",
-          "publishedAt": "2026-08-25T17:24:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d9fc7c3bd7f4665cc60ac89a094893dcc9736593aa7c923113d0ffad8719d03d",
-          "title": "Platner supporters push write-in campaign for disgraced candidate over Democratic nominee",
-          "description": "Graham Platner, who suspended his campaign, has until 5 p.m. on Tuesday to register as a write-in option for the general election.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4699299/platner-supporters-push-write-in-campaign-for-disgraced-candidate-over-democratic-nominee/",
-          "publishedAt": "2026-08-25T16:44:45.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ddc853f4eb57290db661f84373d6a0a9cf88506a98775916cc57688c5554c03a",
-          "title": "Tim Scott on DSA: 'They're Coming After Our Culture — That Is What Makes Them Dangerous'",
-          "description": "Monday on FNC's 'Hannity,' Sen. Tim Scott (R-SC) warned of the perils of electing Democratic Socialists of America (DSA) candidates to high office. | Clips",
-          "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/tim-scott-on-dsa-they-re-coming-after-our-culture-that-87014432",
-          "publishedAt": "2026-08-25T16:36:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bbbf5ed196211ef90a43ca21a0fef89b54a03d93572af385970a12be90f301dc",
-          "title": "Trump’s trade war with Canada could rattle economies in states like Alaska with key Senate races",
-          "description": "Maine, Ohio, Michigan and Alaska boast industries including fisheries, auto parts, lumber and produce that export items across the northern border.",
-          "sourceName": "Adn",
-          "url": "https://www.adn.com/nation-world/2026/08/25/trumps-trade-war-with-canada-could-rattle-economies-in-states-like-alaska-with-key-senate-races/",
-          "publishedAt": "2026-08-25T16:25:31.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4e52e4f7d791ccea3580eeb259f53b76537ed86588ef5b8a7884c72b68ff7ef8",
-          "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races",
-          "description": "President Donald Trump’s trade war with Canada is escalating as the midterm elections approach, threatening Republican efforts to address voters’ economic concerns in a year when control of the U.S. Senate hinges on states along the border between the United States and its northern neighbor.",
-          "sourceName": "Wndu",
-          "url": "https://www.wndu.com/2026/08/25/trumps-trade-war-with-canada-could-rattle-economies-states-with-key-senate-races/",
-          "publishedAt": "2026-08-25T16:20:49.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "aed9b7746815196b30f56421e466e3e3b96d391bcd3eeba454104bce5f8b17dd",
-          "title": "How Trump's trade war with Canada could rattle states with key Senate races",
-          "description": "President Donald Trump's trade war with Canada is escalating as the midterm elections approach, threatening Republican efforts to address voters' economic concerns in a year when control of the U.S. Senate hinges on states along the border between the United States and its northern neighbor.",
-          "sourceName": "Pbs",
-          "url": "https://www.pbs.org/newshour/politics/how-trumps-trade-war-with-canada-could-rattle-states-with-key-senate-races",
-          "publishedAt": "2026-08-25T15:57:45.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6c2fff792c656bc640602ae062c1e6d3278130f7981472e88ac496bc76a9c1d2",
-          "title": "Nate Silver Outlines Which Races Could Decide Control of Senate",
-          "description": "Silver's forecast suggests the Texas Senate race is the most likely to be the tipping point that decides control of the Senate.",
-          "sourceName": "Newsweek",
-          "url": "https://www.newsweek.com/nate-silver-outlines-which-races-could-decide-control-of-senate-12364019",
-          "publishedAt": "2026-08-25T15:20:13.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4b8fc5f85f4da50f1062449861ced07e2481f5c9c1b39f5f52b7b01713a6fd22",
-          "title": "Finally! A Write-In Campaign I Can Get Behind",
-          "description": "This is just nutty enough - it should work. And who am I to deride anything that would, or anyone who...",
-          "sourceName": "Hotair",
-          "url": "https://hotair.com/tree-hugging-sister/2026/08/25/finally-a-write-in-campaign-i-can-get-behind-n3818314",
-          "publishedAt": "2026-08-25T15:20:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bb63bebdfd611e0b2fdaf872c54e2c690c51b15a2d641679f1169d7fc338118e",
-          "title": "Senate map trending toward Dems; GOP retails slim advantage",
-          "description": "The U.S. Capitol on the evening of Tuesday, Sept. 30, 2025, just hours before a federal government shutdown. (Ashley Murray/States Newsroom)",
-          "sourceName": "The Missoula Current News - Daily News In Missoula",
-          "url": "https://missoulacurrent.com/senate-map-democrats/",
-          "publishedAt": "2026-08-25T15:17:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b2f7c21a6fdfd54cc47c70b514f71d91dd2a0ae5bec4f36260027e0418f8b1ae",
-          "title": "Dem who urged scandal-plagued candidate to quit now mourns his downfall in pivotal Maine race",
-          "description": "Troy Jackson says he wished nothing had happened to Graham Platner but felt compelled to carry the progressive torch against Susan Collins in Maine.",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/articles/dem-urged-scandal-plagued-candidate-145348675.html",
-          "publishedAt": "2026-08-25T14:53:48.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "43d7cff064e115abcefabd4f3912199753d8d865ab491b5054160f8e7e3c38ca",
-          "title": "Dem who urged scandal-plagued candidate to quit now mourns his downfall in pivotal Maine race",
-          "description": "Troy Jackson says he wished nothing had happened to Graham Platner but felt compelled to carry the progressive torch against Susan Collins in Maine.",
+          "id": "85e90504fb559c670f54cfe8e54f4cf889098e0dbf079f2e6e438aab60ea3c8b",
+          "title": "MORNING GLORY: Hasan Piker’s radical rhetoric is becoming Democrats’ 2026 brand",
+          "description": "Unlike Marx or Lenin, far-left streamer Hasan Piker shows no evidence of serious study, yet his radical Twitch presence now defines the Democratic Party brand in 2026.",
           "sourceName": "Fox News",
-          "url": "https://www.foxnews.com/politics/dem-who-urged-scandal-plagued-candidate-quit-now-mourns-his-downfall-pivotal-maine-race",
-          "publishedAt": "2026-08-25T14:53:48.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "711af8c5e3f1a434010382baf4ddb45efa2857ffb4541dc0b4f9a156c94313db",
-          "title": "Tim Scott on DSA: 'They're Coming After Our Culture — That Is What Makes Them Dangerous'",
-          "description": "Monday on FNC's \"Hannity,\" Sen. Tim Scott (R-SC) warned of the perils of electing Democratic Socialists of America (DSA) candidates to high office. The post Tim Scott on DSA: ‘They’re Coming After Our Culture — That Is What Makes Them Dangerous’ appeared first on Breitbart .",
-          "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/clips/2026/08/25/tim-scott-on-dsa-theyre-coming-after-our-culture-that-is-what-makes-them-dangerous/",
-          "publishedAt": "2026-08-25T13:59:58.000Z",
+          "url": "https://www.foxnews.com/opinion/morning-glory-hasan-piker-radical-rhetoric-becoming-democrats-2026-brand",
+          "publishedAt": "2026-08-27T09:00:33.000Z",
           "sentiment": 0
         },
         {
-          "id": "693eada90ef32bccc53eaa8ef881beab293245925f98a41612332308204f57f9",
-          "title": "Republicans squirm as Trump escalates trade war with Canada",
-          "description": "Canada is a major market for states Republicans need to hold the Senate, putting GOP candidates in a bind as Trump escalates his trade war.",
-          "sourceName": "Fortune",
-          "url": "https://fortune.com/2026/08/25/trump-canada-tariffs-senate-midterms/",
-          "publishedAt": "2026-08-25T13:53:48.000Z",
+          "id": "9039415bf8b55a7b3d3dd45388ac00f8f6b709f0325eabbb9610138497a2243b",
+          "title": "Why are so many Senate battlegrounds running on out-of-state money?",
+          "description": "Campaign fundraising in the 2026 Senate battlegrounds has become overwhelmingly nationalized, leaving most high-stakes candidates far more reliant on out-of-state donors than the voters they hope to represent. Continuing a decades-long retreat from locally sourced campaign money, an OpenSecrets analysis of 17 candidates across nine key battleground states shows that two-thirds of the $289 The post Why are so many Senate battlegrounds running on out-of-state money? appeared first on KVIA .",
+          "sourceName": "Kvia",
+          "url": "https://kvia.com/stacker-government-politics/2026/08/27/why-are-so-many-senate-battlegrounds-running-on-out-of-state-money/",
+          "publishedAt": "2026-08-27T08:19:42.000Z",
           "sentiment": 0
         },
         {
-          "id": "a9813d155ba6d01dd33c300dbf36ff528a7362e5492742250d4cb22159db6d05",
-          "title": "Faith leaders call for ‘faithful witnesses’ in Springfield amid rising ICE detainments",
-          "description": "Faith leaders are urging volunteers to come to Springfield from Wednesday, Aug. 26, through Sunday, Aug. 30, calling for \"faithful witnesses\" as Immigration and Customs Enforcement detainments of local Haitian immigrants escalate.",
-          "sourceName": "Springfield-news-sun",
-          "url": "https://www.springfieldnewssun.com/local/faith-leaders-call-for-faithful-witnesses-in-springfield-amid-rising-ice-detainments/article_bf6d67c9-4b99-536b-b115-9ac08104d7d7.html",
-          "publishedAt": "2026-08-25T13:39:00.000Z",
+          "id": "4cdef8e70e509a52da097a057a1a8ec25ad4b82c499922fe457c6ad079ef6569",
+          "title": "Maine Democratic U.S. Senate candidate Troy Jackson launches ‘Women for Troy’",
+          "description": "More than 100 women attended the inaugural event as Jackson reflected on his legislative years and background.",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/maine-democratic-us-senate-candidate-troy-jackson-launches-women-for-troy-poltiical-race-brunswick/97-506c56b9-b9ce-4b01-8257-59d985678e05",
+          "publishedAt": "2026-08-27T04:00:07.000Z",
+          "sentiment": 0.7
+        },
+        {
+          "id": "bd7e032c1805c003752a5853221d7c7a58e2816c878b8186f990411a323aa8e0",
+          "title": "Troy Jackson speaks at \"Women for Troy\" event",
+          "description": "The event focused on affordability and reproductive rights as Jackson faces off against Senator Susan Collins.",
+          "sourceName": "Yahoo! News",
+          "url": "https://ca.news.yahoo.com/troy-jackson-speaks-women-troy-031807908.html",
+          "publishedAt": "2026-08-27T03:18:07.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "997f4443030e624e60c4493cdf879761a1a4f26ae85f2f090106730722860d3c",
+          "title": "Why are so many Senate battlegrounds running on out-of-state money?",
+          "description": "Campaign fundraising in the 2026 Senate battlegrounds has become overwhelmingly nationalized, leaving most high-stakes candidates far more reliant on out-of-state donors than the voters they hope to represent. Continuing a decades-long retreat from locally sourced campaign money, an OpenSecrets analysis of 17 candidates across nine key battleground states shows that two-thirds of the $289 The post Why are so many Senate battlegrounds running on out-of-state money? appeared first on KTVZ .",
+          "sourceName": "Ktvz",
+          "url": "https://ktvz.com/stacker-government-politics/2026/08/26/why-are-so-many-senate-battlegrounds-running-on-out-of-state-money/",
+          "publishedAt": "2026-08-27T02:45:03.000Z",
           "sentiment": 0
         },
         {
-          "id": "3b6abb3f7608fde2831f3fad6ae3cd703512934fb4d8d43a3a42e2577fa15d9b",
-          "title": "Canada may cut U.S. power exports as Trump reignites trade war",
-          "description": "If Trump continues to boost tariffs on Canadian products, Ontario premier Doug Ford said U.S. consumers should be ready to pay a serious price.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/canada-may-cut-u-s-power-exports-as-trump-reignites-trade-87005697",
-          "publishedAt": "2026-08-25T13:07:04.000Z",
+          "id": "e988c365ffc05ca6232d555c6ef6e15d323320eb5006e471d0beeefb8c1a70f8",
+          "title": "Maine’s U.S. Senate race grows with six write-in candidates",
+          "description": null,
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/08/26/maines-us-senate-race-grows-with-six-write-in-candidates/",
+          "publishedAt": "2026-08-26T22:23:50.000Z",
           "sentiment": 0
         }
       ],
@@ -1284,21 +1060,21 @@
       },
       "news": [
         {
-          "id": "58a561fd73b1ef17010331fd30e1345224ea4548ace4be3307271f86c5643eab",
-          "title": "THE ZONE: District 11-2A Division 2",
-          "description": "DISTRICT 11-2A DIVISION 2 OUR PICKS OVERTON 2. ALTO 3. GRAPELAND 4. MOUNT ENTERPRISE 5. TENAHA 6. CUSHING 7. CROSS ROADS OVERTON MUSTANGS COACH: SCOTTY LAYMANCE (fourth season at school, [...]",
-          "sourceName": "Tyler Morning Telegraph",
-          "url": "https://tylerpaper.com/2026/08/25/the-zone-district-11-2a-division-2/",
-          "publishedAt": "2026-08-25T23:25:32.000Z",
+          "id": "158deaa4a88413c79f00ae7a947b2a538ad3cb5909c2e93938dc04eda7201451",
+          "title": "Joshua Wood’s path to Idaho QB1",
+          "description": "From a decade-long relationship with Idaho coach Thomas Ford Jr. to a family rooted in football, Joshua Wood’s path to Moscow runs deep",
+          "sourceName": "The Lewiston Tribune Online",
+          "url": "https://www.lmtribune.com/sports/joshua-woods-path-to-idaho-qb1-6cedfbfe",
+          "publishedAt": "2026-08-27T07:30:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "d1deb4c8f2db3bfc87ce1ebd6a0786def1061dd83ad8fe7e9a0665081229f69c",
-          "title": "Future Initiative Creates Career Opportunities for Duke Student-Athletes",
-          "description": "Duke student-athletes took advantage of career development opportunities in May through internships and immersion experiences with 14 organizations as part of the Duke Future Initiative, which pairs Blue Devils with alumni and industry leaders across the country.",
-          "sourceName": "Goduke Athletics",
-          "url": "https://goduke.com/news/2026/8/25/athletics-future-initiative-creates-career-opportunities-for-duke-student-athletes",
-          "publishedAt": "2026-08-25T19:00:00.000Z",
+          "id": "f68833df27e1c0f9e01326b4a0caf1dc7164a9e46cfc6ffb3d0ab06b48d768ec",
+          "title": "Joshua Wood’s path to Idaho QB1",
+          "description": "From a decade-long relationship with Idaho coach Thomas Ford Jr. to a family rooted in football, Joshua Wood’s path to Moscow runs deep",
+          "sourceName": "Dnews",
+          "url": "https://www.dnews.com/sports/joshua-woods-path-to-idaho-qb1-f885b39e",
+          "publishedAt": "2026-08-27T07:30:00.000Z",
           "sentiment": 0
         }
       ],
