@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T07:49:41.213Z",
+  "lastUpdated": "2026-08-29T13:23:58.623Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,14 +22,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.5,
+      "overallSentiment": -1,
       "newsSentiment": null,
-      "socialSentiment": -0.5,
+      "socialSentiment": -1,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 1,
         "youtube": 0,
-        "total": 2
+        "total": 1
       },
       "news": [],
       "social": [
@@ -40,14 +40,6 @@
           "createdAt": "2026-08-28T13:58:43.369Z",
           "uri": "at://did:plc:noefyvqrfgzhvqy5kqn2fukm/app.bsky.feed.post/3mu5jgvd53c2a",
           "sentiment": -1
-        },
-        {
-          "id": "9413c023b64abbd6d07a7d775cb2746e32609f90fc5da51670b4402939fd4332",
-          "authorHandle": "ccdpnc.bsky.social",
-          "postText": "www.bangordailynews.com/2026/08/26/p...",
-          "createdAt": "2026-08-28T12:46:09.712Z",
-          "uri": "at://did:plc:fyduc4gp6i7k37n4pmxj6cke/app.bsky.feed.post/3mu5ff5e3vc22",
-          "sentiment": 0
         }
       ],
       "youtube": [],
@@ -56,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.09154371584699454,
+      "overallSentiment": 0.08177272727272727,
       "newsSentiment": -0.13999999999999999,
-      "socialSentiment": 0.2146311475409836,
+      "socialSentiment": 0.1853181818181818,
       "mentions": {
         "news": 5,
-        "social": 63,
+        "social": 57,
         "youtube": 5,
-        "total": 73
+        "total": 67
       },
       "news": [
         {
@@ -113,6 +105,30 @@
         }
       ],
       "social": [
+        {
+          "id": "7f94d516d90f24f1f7fbc516227124698656a5731da9962cdfd65a5c2b2d5b06",
+          "authorHandle": "plunderdog903.bsky.social",
+          "postText": "Wanted to thank you for sending money to the Troy Jackson campaign.  He needs it against Susan Collin's army of Billionaires who are literally buying ALL of the ad time here for her.",
+          "createdAt": "2026-08-29T12:43:19.172Z",
+          "uri": "at://did:plc:hg32xmsscppdr6aji5ti563s/app.bsky.feed.post/3mu7voy6cxs2s",
+          "sentiment": 0.7
+        },
+        {
+          "id": "bbfea6dca2d9bffa2141641fc736f06ef95658bd4f200201f4db5e467a1ae150",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
+          "createdAt": "2026-08-29T10:43:36.607Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mu7oywdtdk2x",
+          "sentiment": 0.5
+        },
+        {
+          "id": "716ce259bfe23183967debb5b653acf34c5054b0a3d1f9ef744610827ee82ac1",
+          "authorHandle": "lordcollins.bsky.social",
+          "postText": "secure.actblue.com/donate/tj-em...",
+          "createdAt": "2026-08-29T09:19:43.851Z",
+          "uri": "at://did:plc:gceb2dvh6bcwktlgfikqax6w/app.bsky.feed.post/3mu7kcwqdjs27",
+          "sentiment": 0.5
+        },
         {
           "id": "d59ad89ea9552784bcfbc134296474049ea3b6dbd0183454cfb4726808f041a0",
           "authorHandle": "mags69.bsky.social",
@@ -544,78 +560,6 @@
           "createdAt": "2026-08-28T13:26:18.969Z",
           "uri": "at://did:plc:wugu3n6woh4s7znlfqyj3wib/app.bsky.feed.post/3mu5hmwyvtk2w",
           "sentiment": 0.6
-        },
-        {
-          "id": "93f4e12f30e82a8e6758d134c7f283e8e3084f7df5333ef01d365b87de0921cc",
-          "authorHandle": "katpic57.bsky.social",
-          "postText": "They find all kinds of ways to enrich themselves. Gypsies tramps and thieves. Susan Collins is on the take, #Maine. Vote for your own interests, not hers.❌\n\n#Vote Troy #Jackson. ✔️",
-          "createdAt": "2026-08-28T13:13:46.520Z",
-          "uri": "at://did:plc:wii66dcc6f55vmfqoz7yv6rz/app.bsky.feed.post/3mu5gwjfsis2c",
-          "sentiment": 0.8
-        },
-        {
-          "id": "c552bc85014f21671284ce0e8efd2cfa37c0a1da1efa85a278ff1f40b5164512",
-          "authorHandle": "tiffinjames.bsky.social",
-          "postText": "I think it’s hilarious Trump and he’s MAGA PACs are planning to inundate the airwaves focusing on *him* instead of GOP candidates for midterms. Please do! Make sure you put up pics of you and Susan Collins all over media, especially ones where she is holding the red MAGA hat! GO, TROY JACKSON!",
-          "createdAt": "2026-08-28T13:01:28.630Z",
-          "uri": "at://did:plc:zh4bg4wsh6wqnz2rsbswktvs/app.bsky.feed.post/3mu5gajpbq22m",
-          "sentiment": 0.8
-        },
-        {
-          "id": "2850380188260e13b8cfbabd969d6a89f9f4ba9b50c13330067fe3bc28a0f34a",
-          "authorHandle": "newsfor38yearolds.com",
-          "postText": "Troy Jackson Is Looking Forward\n\nThe American Prospect\n\nhttps://prospect.org/2026/08/28/troy-jackson-is-looking-forward-democrats-senate-maine/\n\nTIP YOUR REPORTER: https://simplecirc.com/give_a_gift/the-american-prospect",
-          "createdAt": "2026-08-28T12:34:52.881Z",
-          "uri": "at://did:plc:yjsxhx3jmbrzcwv5teaoaqe4/app.bsky.feed.post/3mu5eqxzapu2s",
-          "sentiment": 0
-        },
-        {
-          "id": "1db71cc2f636e42bdf3e83100d22bfb8b8b6a861e59499a9c032ba0579c20eac",
-          "authorHandle": "mrspiehole.bsky.social",
-          "postText": "Troy Jackson has invited Sen Susan Collins R Maine to three in person debates. So far Collins has not agreed.",
-          "createdAt": "2026-08-28T11:14:21.186Z",
-          "uri": "at://did:plc:5lkb5tglgaucdodg2qrp4j6t/app.bsky.feed.post/3mu5aaxz7xs2w",
-          "sentiment": 0.6
-        },
-        {
-          "id": "88127fb69d27616117f9e8159e93fee8c27b3cf81216c6611eed2459281696bb",
-          "authorHandle": "vrimpellitteri.bsky.social",
-          "postText": "Yeah. This seems to be the case. I guess I thought that they'd be smarter than to fight an 80-20 issue.\n\nIt's also so racist. You don't hear about anyone opposed to Troy Jackson like they are against El-Sayed. Both are against Israel, both are m4a champions",
-          "createdAt": "2026-08-28T11:01:37.852Z",
-          "uri": "at://did:plc:sundwyixbornrmi2xb4eiciz/app.bsky.feed.post/3mu57ka22ns2t",
-          "sentiment": 0.7
-        },
-        {
-          "id": "df592b3244fae1ac786b4082614a1c9a20614ff46eca7bec1078b5e2493323b7",
-          "authorHandle": "livkalearns.bsky.social",
-          "postText": "PORTLAND, ME — One month after becoming the Democratic nominee for U.S. Senate Troy Jackson today called for Susan Collins to participate in four televised debates, including two town hall-style debates where Maine voters can directly question both candidates. \n\n🧵/2",
-          "createdAt": "2026-08-28T10:21:34.404Z",
-          "uri": "at://did:plc:i6sgmljen565zw4ic24tkmty/app.bsky.feed.post/3mu55clwpgc22",
-          "sentiment": 0.5
-        },
-        {
-          "id": "6b1cbf4b123feaec19e6f487a0b1072807455b834926ab6b9335692c30482928",
-          "authorHandle": "livkalearns.bsky.social",
-          "postText": "FOR IMMEDIATE RELEASE\n\nAugust 27, 2026\n\nTROY JACKSON CALLS FOR TOWN HALL DEBATES AND INVITES SUSAN COLLINS TO THREE TOWN HALLS NEXT WEEK \n\nJackson: “Mainers deserve the chance to question both of us directly.”\n\n#Maine #MEPolitics 🧵/1",
-          "createdAt": "2026-08-28T10:20:30.895Z",
-          "uri": "at://did:plc:i6sgmljen565zw4ic24tkmty/app.bsky.feed.post/3mu55aperqs22",
-          "sentiment": 0.5
-        },
-        {
-          "id": "01d246daf23b903d9534338e27c7cfd9415bafb3720bcbf5503c83e42fe287fa",
-          "authorHandle": "sunshinelaughter.bsky.social",
-          "postText": "Troy Jackson Is Looking Forward prospect.org/2026/08/28/t...",
-          "createdAt": "2026-08-28T10:08:40.858Z",
-          "uri": "at://did:plc:5yvxi7ifij4pizlopvfpcovz/app.bsky.feed.post/3mu54lk7wgk2o",
-          "sentiment": 0
-        },
-        {
-          "id": "7ebdb837ab317a4c7894b1b7e7aeea3f4eec36ab816091cbd92948d80850158e",
-          "authorHandle": "prospect.org",
-          "postText": "Earning the nomination took a feat of organizing that showed Jackson’s significant strength at the grassroots level. prospect.org?p=143562",
-          "createdAt": "2026-08-28T09:30:06.842Z",
-          "uri": "at://did:plc:5ckgrxzxfa5wf3lxepnh45s2/app.bsky.feed.post/3mu52glgjtw2u",
-          "sentiment": 0.7
         }
       ],
       "youtube": [
