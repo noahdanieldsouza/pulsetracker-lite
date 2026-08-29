@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T13:23:58.623Z",
+  "lastUpdated": "2026-08-29T16:09:12.042Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,59 +48,95 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.08177272727272727,
-      "newsSentiment": -0.13999999999999999,
+      "overallSentiment": 0.09140235690235692,
+      "newsSentiment": -0.1111111111111111,
       "socialSentiment": 0.1853181818181818,
       "mentions": {
-        "news": 5,
+        "news": 9,
         "social": 57,
         "youtube": 5,
-        "total": 67
+        "total": 71
       },
       "news": [
         {
-          "id": "eeebed2edc3bd0d6dbf6568b30faf4441195315c033eb8ac61366ea811fc63a4",
-          "title": "Troy Jackson Is Looking Forward",
-          "description": "Maine’s U.S. Senate candidate poses the strongest challenge to Susan Collins of her career. The post Troy Jackson Is Looking Forward appeared first on The American Prospect .",
-          "sourceName": "The American Prospect",
-          "url": "https://prospect.org/2026/08/28/troy-jackson-is-looking-forward-democrats-senate-maine/",
-          "publishedAt": "2026-08-28T09:00:00.000Z",
-          "sentiment": -0.1
-        },
-        {
-          "id": "f5edd6865dc404f3da0e52d34886cf5b8fb88c79531c31d6a64ba498a8a082ac",
-          "title": "Few Democratic Socialists are blue collar. Most everyone knows it",
-          "description": "Classic Labor Day imagery shows men wearing hard hats and tough women in uniforms.",
-          "sourceName": "The Day",
-          "url": "https://theday.com/news/918837/few-democratic-socialists-are-blue-collar-most-everyone-knows-it/",
-          "publishedAt": "2026-08-28T04:09:03.000Z",
+          "id": "b9e70728d42af32199677e5cfca911615174be02486287a2af0cb50bba4d75ec",
+          "title": "Bridgeport Buckhannon-Upshur box score",
+          "description": null,
+          "sourceName": "Wv News",
+          "url": "https://www.wvnews.com/bridgeport-buckhannon-upshur-box-score/article_d91428e1-91a6-4635-8b7c-00b40f49d4db.html",
+          "publishedAt": "2026-08-29T02:17:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "caaed4c0a0196410edd6ebe558c0c5c86f3553a65336e2e4f8d7ceb0f4a40d4b",
-          "title": "Maine and Georgia could test whether ticket-splitting is making a comeback",
-          "description": "Will voters in 2026 cross party lines in prominent statewide races, or is straight-ticket voting the default? Maine and Georgia offer clues.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/premium/4701143/maine-georgia-ticket-splitting-comeback-polarization/",
-          "publishedAt": "2026-08-28T00:48:50.000Z",
+          "id": "65cc450d1654f5e9eef87a32b12523582fa4d3b68991883855f23262c84a07c9",
+          "title": "Collins vs. Jackson: Senior leadership and Trade takes center stage ahead of Maine Senate Race",
+          "description": "It has been just over a month since the Maine Democratic Convention.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/08/28/collins-vs-jackson-senior-leadership-trade-takes-center-stage-ahead-maine-senate-race/",
+          "publishedAt": "2026-08-28T22:29:17.000Z",
           "sentiment": 0
         },
         {
-          "id": "24ba58f3e0fbd7720f321f32c939bbb5f4b4ba24f78d512747c723217e78f529",
-          "title": "It’s the socialism, stupid: The DSA may cost Dems their blue wave",
-          "description": "A new Echelon Insights poll raises the question: just how inevitable is this menacing Blue Wave?",
+          "id": "9b0621d88fac04455a543307758c688d820930f904160d1808b34f38c7bbbff8",
+          "title": "Canadian tariffs to further raise prices, a top concern for voters",
+          "description": "WASHINGTON -- A developing trade war with Canada could bite Republicans ahead of the upcoming midterm elections as voters worry about rising prices and industries in states with competitive races",
+          "sourceName": "Sedalia Democrat",
+          "url": "https://www.sedaliademocrat.com/stories/canadian-tariffs-to-further-raise-prices-a-top-concern-for-voters,54013",
+          "publishedAt": "2026-08-28T22:05:25.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a3076a948412f5489f3f4f227bc99565a1c018368f982f3b7236b9d7ef061839",
+          "title": "US Senate map trending toward Democrats, though GOP retains slim advantage",
+          "description": "WASHINGTON — Voters throughout much of the country will cast ballots for their U.S. senator this fall, but just nine states hold the power to determine control of the chamber — setting the course for which presidential nominees can secure...",
+          "sourceName": "Idahostatejournal",
+          "url": "https://www.idahostatejournal.com/news/local/us-senate-map-trending-toward-democrats-though-gop-retains-slim-advantage/article_0531758c-5c27-4935-b054-c676ac6ef043.html",
+          "publishedAt": "2026-08-28T21:19:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f1378786cf3f051d53e507e45ce3f52ccb4513b0529ffbab20d55c2c5be94a1e",
+          "title": "Susan Collins calls for tariff truce as trade war emerges as hot issue in Senate races",
+          "description": "GOP Sen. Susan Collins, who is in a hotly contested reelection race in Maine, is calling on the Trump administration to cut a trade deal with Canada.",
+          "sourceName": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/aug/28/susan-collins-calls-tariff-truce-trade-war-emerges-hot-issue-senate/",
+          "publishedAt": "2026-08-28T20:37:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fbb5318687b2906632f794cf9092340d8f0c99f0c1e05ee488c5a5c45ae9103a",
+          "title": "Dem Crazy Train in FL: Angie Nixon Joins El-Sayed As Full Islamist Revolutionary",
+          "description": "For Republicans, the 2026 Senate races may become an embarrassment of riches. For Democrats, it's just a series of embarrassments. First...",
+          "sourceName": "Hotair",
+          "url": "https://hotair.com/ed-morrissey/2026/08/28/dem-crazy-train-in-fl-angie-nixon-goes-full-revolutionary-n3818461",
+          "publishedAt": "2026-08-28T19:55:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5cabf9ca9518204c0757c5c3754448ee18ad75734dd3e430bf74fd434dfbe4aa",
+          "title": "Maine senate hopeful Troy Jackson endorses Karl Marx-loving ex-DSA co-chair who implied Jesus was a communist",
+          "description": "Maine Senate hopeful Troy Jackson reminisced about disgraced oyster farmer Graham Platner and endorsed a Democratic Socialists of America co-chair who suggested Jesus was a communist.",
           "sourceName": "New York Post",
-          "url": "https://nypost.com/2026/08/27/opinion/the-dsa-may-cost-democrats-their-blue-wave/",
-          "publishedAt": "2026-08-28T00:23:28.000Z",
-          "sentiment": -0.6
+          "url": "https://nypost.com/2026/08/28/us-news/troy-jackson-endorses-karl-marx-loving-ex-dsa-co-chair-who-implied-jesus-was-a-communist-reminisces-over-platner/",
+          "publishedAt": "2026-08-28T19:12:52.000Z",
+          "sentiment": -1
         },
         {
-          "id": "6dd321a4300c0b19aeb3de45612198d25a1cc9e85651b3c8683b6168899f666c",
-          "title": "Union leaders call for better rail safety in wake of recent train derailments",
-          "description": "The union's demands for more staffing come in the wake of two CSX train derailments in the last month, including one in Orono and another in Worcester, Massachusetts.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/business-and-economy/2026-08-27/union-leaders-call-for-better-rail-safety-in-wake-of-recent-train-derailments",
-          "publishedAt": "2026-08-27T22:14:00.000Z",
+          "id": "54ea646045c98b1c24d77017ea0a8bcf6c2487c15c3e350dedc6dad78ffe4583",
+          "title": "John Fetterman Calls Out His Party's Socialism Problem",
+          "description": "Sen. John Fetterman (D-PA) railed against his party’s “socialism problem” and the rise of far leftist figures like Michigan Senate...",
+          "sourceName": "Townhall",
+          "url": "https://townhall.com/news/jeff-charles/2026/08/28/john-fetterman-says-democrat-party-has-a-socialism-problem-n2682072",
+          "publishedAt": "2026-08-28T18:30:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "27fbf4e58ff9bb321df42e2ff20d853d955b67c6ae9384fa5612f3e6db7f64f5",
+          "title": "The bipartisan fight against Flock cameras is creating some unlikely political alliances",
+          "description": "Republican Rep. Scott Perry and Democratic Senate candidate Adbul El-Sayed are politically and ideologically opposed — but they’re united against Flock. The post The bipartisan fight against Flock cameras is creating some unlikely political alliances appeared first on MS NOW .",
+          "sourceName": "Ms Now",
+          "url": "https://www.ms.now/news/bipartisan-backlash-flock-cameras",
+          "publishedAt": "2026-08-28T18:07:03.000Z",
           "sentiment": 0
         }
       ],
