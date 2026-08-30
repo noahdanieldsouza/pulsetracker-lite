@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T10:36:47.736Z",
+  "lastUpdated": "2026-08-30T14:58:15.369Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.10217864923747277,
+      "overallSentiment": 0.09305872053872051,
       "newsSentiment": -0.1111111111111111,
-      "socialSentiment": 0.4176470588235294,
+      "socialSentiment": 0.39028727272727265,
       "mentions": {
         "news": 9,
-        "social": 51,
+        "social": 55,
         "youtube": 2,
-        "total": 62
+        "total": 66
       },
       "news": [
         {
@@ -141,6 +141,70 @@
         }
       ],
       "social": [
+        {
+          "id": "01a2de3ac55730fd14fb595ccb600316a9257794993596f7c5a1ff0f68cd2efe",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-30T14:36:28.410Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mucmiae67c2r",
+          "sentiment": 0
+        },
+        {
+          "id": "8bc86fb37b96499fbf448dd1847e2a55eb261a799e5b96cec01da1835b51f2d0",
+          "authorHandle": "ststephensday.bsky.social",
+          "postText": "Bypass the middle man - Donate Directly to these Democratic Senate Candidates:\nAngie Nixon FL\nAbdul Sayed MI\nMary Peltola AK\nJosh Turek IA\nTroy Jackson ME\nJames Talarico TX\nRoy Cooper NC\nJohn Ossoff GA\nAdam Hamilton KS\nAnnie Andrews SC\nSherrod Brown OH",
+          "createdAt": "2026-08-30T14:35:32.519Z",
+          "uri": "at://did:plc:df2gg5egikl37vxgzzugelse/app.bsky.feed.post/3mucmgl2j5k25",
+          "sentiment": 0.4995
+        },
+        {
+          "id": "94b1d9430f56ec7a2e6392c46cf1ca450dd3fbbada787c9f01f4a4e19183a51e",
+          "authorHandle": "ststephensday.bsky.social",
+          "postText": "Donate Directly to these Democratic Senate Candidates:\nAngie Nixon FL\nAbdul Sayed MI\nMary Peltola AK\nJosh Turek IA\nTroy Jackson ME\nJames Talarico TX\nRoy Cooper NC\nJohn Ossoff GA\nAdam Hamilton KS\nAnnie Andrews SC\nSherrod Brown OH",
+          "createdAt": "2026-08-30T14:34:49.086Z",
+          "uri": "at://did:plc:df2gg5egikl37vxgzzugelse/app.bsky.feed.post/3mucmfbn33k25",
+          "sentiment": 0.4995
+        },
+        {
+          "id": "e8e5f853b0720c7d29df224ddb4257b641e21cdfb9381ee7b79b68e48c552575",
+          "authorHandle": "ziamacmarten.bsky.social",
+          "postText": "Troy Jackson. Now sure why phone autocorrected to Royal",
+          "createdAt": "2026-08-30T13:56:26.612Z",
+          "uri": "at://did:plc:3vvjuarlpx2456ftfhruc7zu/app.bsky.feed.post/3muckant6cc2a",
+          "sentiment": 0.3182
+        },
+        {
+          "id": "d6254a8dba31fdf59fb63d5d7b03b9038a3201de832347d3d1a5e66ba104a876",
+          "authorHandle": "andrealaflamme.bsky.social",
+          "postText": "C’mon, Susan. It’s time to talk to your constituents. Don’t make me get my chalk out again. @aroostookdemocrats.bsky.social",
+          "createdAt": "2026-08-30T13:54:36.131Z",
+          "uri": "at://did:plc:xxdwlb6smjqdscshtvth6otu/app.bsky.feed.post/3muck5ehmnk27",
+          "sentiment": 0
+        },
+        {
+          "id": "422d196321267c5d93a8a9d9ffc64026b73d32234324e633d12406a52025861d",
+          "authorHandle": "swingbluealliance.org",
+          "postText": "Time to retire Susan Collins.\n\nJoin us very weekend from September 13 on to talk to Maine voters about Troy Jackson and other terrific Dems.\n\nAnd you can't beat Maine in autumn.\n\nwww.mobilize.us/swingblueall...",
+          "createdAt": "2026-08-30T13:02:22.349Z",
+          "uri": "at://did:plc:6qxyqlq2v74brgadtmr5ngri/app.bsky.feed.post/3much7xu4pk2p",
+          "sentiment": 0.6486
+        },
+        {
+          "id": "429360148de2f142126e01664781ade5ad85de37faf3ee476ac1007dfa591025",
+          "authorHandle": "mainenewsroom.com",
+          "postText": "8/30 Jackson campaign launches “Women for Troy” to paint contrast with Maine Senator Susan Collins #maine #MEpolitics",
+          "createdAt": "2026-08-30T12:48:54.673959Z",
+          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mucghvslj52h",
+          "sentiment": 0
+        },
+        {
+          "id": "6eb2b9a2e58ab3758cabdc4c7886d31714188ae551ae3d8387d213b4cb092c26",
+          "authorHandle": "oxforddems.bsky.social",
+          "postText": "Upcoming Troy Jackson for Maine events! \n\nLewiston Town Hall on Tuesday 9/1\nwww.mobilize.us/jacksonforma...\n\nGorham Town Hall on Thursday 9/3 \nwww.mobilize.us/jacksonforma...\nJay Town Hall on Saturday 9/5\nbit.ly/troyinjay",
+          "createdAt": "2026-08-30T11:24:32.425Z",
+          "uri": "at://did:plc:nwxe2e7uelxorcvewh7kquuy/app.bsky.feed.post/3mucbqzua3c2m",
+          "sentiment": 0
+        },
         {
           "id": "0d392995bbeb6259e2e35509abf0ece6941bd8209b43e35d3deea93d00af740e",
           "authorHandle": "freebklyn.bsky.social",
@@ -516,38 +580,6 @@
           "createdAt": "2026-08-29T15:19:07.524Z",
           "uri": "at://did:plc:naloocsop5npt325x4fqanst/app.bsky.feed.post/3mua6flhexs2w",
           "sentiment": -0.3
-        },
-        {
-          "id": "3c6c1dca5e6c6143f1d9d8cdcb8b1d680e77875733540770563c8d513d7f3b75",
-          "authorHandle": "sahilkapur.bsky.social",
-          "postText": "NEW: Susan Collins and Democrats are fighting a TV ad war over her votes on Trump’s Medicaid cuts\n\nTroy Jackson and allies cite Collins’ procedural vote to advance OBBB to tie her to it. 51-49.\n\nShe’s countering with ads noting she voted NO on final. 51-50 w/ Vance.\n\nwww.nbcnews.com/politics/ele...",
-          "createdAt": "2026-08-29T14:47:49.700Z",
-          "uri": "at://did:plc:ihpglfqq3dapqjmwl2ntktil/app.bsky.feed.post/3mua4nmmues2y",
-          "sentiment": 0
-        },
-        {
-          "id": "3ea0c2574e0771e99538db225d7ef85a37836dac59db98f0d3fed4491bc81d41",
-          "authorHandle": "collinswatch.bsky.social",
-          "postText": "If you're Troy Jackson, why would you agree to a debate moderated by a news outlet that lets Susan Collins get away with this sort of whopper?\n\n(She may not have PERSONALLY bought stock but her HUSBAND has made a fortune trading them -- inc. defense companies Collins appropriates $$ to!) #MEpolitics",
-          "createdAt": "2026-08-29T14:34:43.812Z",
-          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3mua3w75foc2m",
-          "sentiment": 0.6
-        },
-        {
-          "id": "7f94d516d90f24f1f7fbc516227124698656a5731da9962cdfd65a5c2b2d5b06",
-          "authorHandle": "plunderdog903.bsky.social",
-          "postText": "Wanted to thank you for sending money to the Troy Jackson campaign.  He needs it against Susan Collin's army of Billionaires who are literally buying ALL of the ad time here for her.",
-          "createdAt": "2026-08-29T12:43:19.172Z",
-          "uri": "at://did:plc:hg32xmsscppdr6aji5ti563s/app.bsky.feed.post/3mu7voy6cxs2s",
-          "sentiment": 0.7
-        },
-        {
-          "id": "bbfea6dca2d9bffa2141641fc736f06ef95658bd4f200201f4db5e467a1ae150",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-08-29T10:43:36.607Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mu7oywdtdk2x",
-          "sentiment": 0.5
         }
       ],
       "youtube": [
