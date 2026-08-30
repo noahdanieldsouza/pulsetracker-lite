@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-30T18:29:33.469Z",
+  "lastUpdated": "2026-08-30T21:26:15.653Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0,
+      "overallSentiment": -0.25,
       "newsSentiment": 0,
-      "socialSentiment": null,
+      "socialSentiment": -0.5,
       "mentions": {
         "news": 1,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 1
+        "total": 2
       },
       "news": [
         {
@@ -25,7 +25,16 @@
           "sentiment": 0
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "6ef8bbc88792f09369e95c2e0c9b6722a173fe94c3d0a6c87ea8810c23cba23a",
+          "authorHandle": "mainenewsroom.com",
+          "postText": "8/30 Nirav Shah, Maine's former CDC director, demands Republican candidate for governor Bobby Charles explain how he'd cut $4 billion from the state budget without hurting seniors or students #maine #MEpolitics",
+          "createdAt": "2026-08-30T19:03:26.051360Z",
+          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mud3fm6gr62q",
+          "sentiment": -0.5
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
@@ -60,14 +69,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.38240138888888886,
+      "overallSentiment": 0.3960851851851852,
       "newsSentiment": 0,
-      "socialSentiment": 0.3472041666666667,
+      "socialSentiment": 0.3882555555555556,
       "mentions": {
         "news": 2,
-        "social": 48,
+        "social": 54,
         "youtube": 3,
-        "total": 53
+        "total": 59
       },
       "news": [
         {
@@ -90,6 +99,134 @@
         }
       ],
       "social": [
+        {
+          "id": "0a8b0095595c6f9add52d0ea2a3a8d31b6115b938ab010d29874436926583d10",
+          "authorHandle": "sallydeal4.bsky.social",
+          "postText": "I donated to Troy Jackson, and hope others joint me.\n\nPlease follow him 👇🏼\n@troyjackson207.bsky.social \n\nwww.jacksonformaine.com",
+          "createdAt": "2026-08-30T21:12:05.468Z",
+          "uri": "at://did:plc:kaas4r2i5sda5i2cospilxng/app.bsky.feed.post/3mudclnrovs2a",
+          "sentiment": 1
+        },
+        {
+          "id": "ae9cac69e3e9502a4260751e7af749a755a69c327d228a2f40da74d0cc68437c",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "Troy Jackson challenged Susan Collins to debate and invited her to three town halls, saying she hasn’t held one in the past 25 years.",
+          "createdAt": "2026-08-30T21:05:53.945Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mudcalhqhc2k",
+          "sentiment": 0
+        },
+        {
+          "id": "51c21df681355309a8273bb27ed0fd012ad134c1685ad68c03899f9cae79886a",
+          "authorHandle": "sallydeal4.bsky.social",
+          "postText": "I donated to Troy Jackson and hope others join me.\n\nFollow at @troyjackson207.bsky.social \n\nMeet Troy/volunteer/donate here ➡️ www.jacksonformaine.com",
+          "createdAt": "2026-08-30T20:53:45.866Z",
+          "uri": "at://did:plc:kaas4r2i5sda5i2cospilxng/app.bsky.feed.post/3mudbkv4jsk2a",
+          "sentiment": 1
+        },
+        {
+          "id": "234f934a80ebfdf83d6e6f3fbcba8981cd5ab69d429f8e407c679c57956868e5",
+          "authorHandle": "gaylekate.bsky.social",
+          "postText": "No debates for Susan apparently \n\nyoutube.com/shorts/OmKen...",
+          "createdAt": "2026-08-30T20:49:13.877Z",
+          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mudbcrq2l224",
+          "sentiment": 0
+        },
+        {
+          "id": "5cb0bd3a8a44490ada16d09792829c376d8974110f47c83a311c4afc3580beb6",
+          "authorHandle": "nb01.bsky.social",
+          "postText": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance - MS NOW apple.news/AtcxwWx93R1G...",
+          "createdAt": "2026-08-30T20:47:38.584Z",
+          "uri": "at://did:plc:ruc5ll7mxgowaoumlyi3khyq/app.bsky.feed.post/3mudb7wtwys2d",
+          "sentiment": 1
+        },
+        {
+          "id": "0eb264a87b5b3e80f3fe543dc7107d2f6b0e7d20e0685a99b59a5051c52b1337",
+          "authorHandle": "mnethercott.bsky.social",
+          "postText": "#MNTwins vs. #Tigers Series Probables:\n\nMON: RHP Taj Bradley (9-6, 3.97) vs. RHP Jackson Jobe (1-1, 3.93)\n\nTUES: LHP Connor Prielipp (3-7, 5.55) vs. RHP Troy Melton (7-3, 1.86)\n\nWED: RHP Dean Kremer (2-5, 5.60) vs. RHP Drew Anderson (4-5, 3.87)",
+          "createdAt": "2026-08-30T20:30:00.394Z",
+          "uri": "at://did:plc:2npss2njzeai7lhockveymna/app.bsky.feed.post/3mudaafokdc2h",
+          "sentiment": 0
+        },
+        {
+          "id": "1e24eb50f8e427bc1d0b08cc5e06d983d315b5e2e8976945e65452ce65df11a1",
+          "authorHandle": "watcher3957.bsky.social",
+          "postText": "youtube.com/shorts/S7RQa...",
+          "createdAt": "2026-08-30T20:23:45.233Z",
+          "uri": "at://did:plc:j2pucmiqjtzjlhwehupltoe4/app.bsky.feed.post/3mud7v7vk6222",
+          "sentiment": 0
+        },
+        {
+          "id": "825136aa77cab5473ed282d93c868a47b6e2b74c31546659982e84a8d46c0669",
+          "authorHandle": "deviousfranklin.bsky.social",
+          "postText": "apple.news/AtcxwWx93R1G...",
+          "createdAt": "2026-08-30T20:19:15.996Z",
+          "uri": "at://did:plc:qzobj7zkxcg2l6qlcnqmuaok/app.bsky.feed.post/3mud7n754f22t",
+          "sentiment": 0
+        },
+        {
+          "id": "e0ed44358de3c2ff6a0679c0f0056ef5718f716b4652b155f6061733dd38e298",
+          "authorHandle": "markbluebeliever.bsky.social",
+          "postText": "youtu.be/krvEH3zgvEs?...",
+          "createdAt": "2026-08-30T20:10:52.105Z",
+          "uri": "at://did:plc:6y3bk5epuef7lsmnzdkwvupe/app.bsky.feed.post/3mud766lke22h",
+          "sentiment": 0
+        },
+        {
+          "id": "ae832e084b55dc048abeec3dacf0e889729be5ff37d4a1083c9cb66096ca666a",
+          "authorHandle": "jjferreirajr.bsky.social",
+          "postText": "substack.com/@factcheckor...",
+          "createdAt": "2026-08-30T20:00:20.150Z",
+          "uri": "at://did:plc:rmrwgwtjvrzjzvu6ldhdgnx5/app.bsky.feed.post/3mud6ldvtrk2m",
+          "sentiment": 0
+        },
+        {
+          "id": "d5b624efe1c95b2d9304557f216fb9655ba3dddfe745a4922b0c9c3a80b529a6",
+          "authorHandle": "oc88.bsky.social",
+          "postText": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance - MS NOW apple.news/AtcxwWx93R1G...",
+          "createdAt": "2026-08-30T19:44:09.046Z",
+          "uri": "at://did:plc:skccihdfrp5o4c6gw3x3n475/app.bsky.feed.post/3mud5ofs32c2f",
+          "sentiment": 1
+        },
+        {
+          "id": "292af0515d30b5eb46eb5d4a9624a12e7f0b8a884d8844224c6ad1c0b7a05425",
+          "authorHandle": "oc88.bsky.social",
+          "postText": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance - MS NOW apple.news/AtcxwWx93R1G...",
+          "createdAt": "2026-08-30T19:43:00.582Z",
+          "uri": "at://did:plc:skccihdfrp5o4c6gw3x3n475/app.bsky.feed.post/3mud5meipoc2f",
+          "sentiment": 1
+        },
+        {
+          "id": "6061c0b81cf1e40df16acbbb51ee80f09678947969a063c5166a431c3b0ad2cd",
+          "authorHandle": "janettes-999.bsky.social",
+          "postText": "I live in TX, but I donated $15 to Troy Jackson’s ME senatorial campaign. His end-of-month fundraising goal has a $483,000 shortfall. \n\nThank you for your one-time contribution to Troy Jackson!\n\n$15.00",
+          "createdAt": "2026-08-30T19:34:50.189Z",
+          "uri": "at://did:plc:yfyfgoqxgdwqw66mbqgtbwm7/app.bsky.feed.post/3mud55qt5ac2n",
+          "sentiment": 1
+        },
+        {
+          "id": "3aa6039277e5eb2f0b2e96199e9b567d6fd176f5e3415f536e3254bea655b358",
+          "authorHandle": "connectwithjacob.bsky.social",
+          "postText": "“What we saw right there was murder.”\n\nMaine Senate nominee Troy Jackson slammed Vice President JD Vance as a “dirtbag” after his recent comments about the fatal ICE shooting of 25-year-old Johan Sebastián Durán Guerrero.",
+          "createdAt": "2026-08-30T19:15:48.959Z",
+          "uri": "at://did:plc:mxb6svvmpslxwn36hbnn4o4z/app.bsky.feed.post/3mud43qhjtk2u",
+          "sentiment": 1
+        },
+        {
+          "id": "ad0f4d2fa6940112768ad044a1df89be419d32e6e029cd693207ebc4cbce6fbc",
+          "authorHandle": "mike-umbkm.bsky.social",
+          "postText": "Troy Jackson slammed JD Vance’s recent comments about a fatal ICE shooting in his state. At a rally, Vance told Democrats to “have a little bit of perspective” and focus on other issues like securing the border.\n\nJackson called the ICE shooting of 25-year-old Johan Sebastián Durán Guerrero “murder”.",
+          "createdAt": "2026-08-30T19:07:57.826Z",
+          "uri": "at://did:plc:443arya3g7jvqz5jyr75555x/app.bsky.feed.post/3mud3np5pyk2l",
+          "sentiment": 0
+        },
+        {
+          "id": "2116b6f38f8a56cbfc29ae6ae2134ae82e63eab00fbfa2254d54a388a2a9126f",
+          "authorHandle": "janettes-999.bsky.social",
+          "postText": "Go, Troy!\n\nI live in Texas, but I just donated $15 to your campaign to help with your $483,000 end-of-month fundraising shortfall. \n\nThank you for your one-time contribution to Troy Jackson!\n\n$15.00",
+          "createdAt": "2026-08-30T18:53:43.450Z",
+          "uri": "at://did:plc:yfyfgoqxgdwqw66mbqgtbwm7/app.bsky.feed.post/3mud2uaeiak25",
+          "sentiment": 1
+        },
         {
           "id": "d8ffda54b008e44b9fea4be1827f4c710d0e4044ba79571c95ba0763b182e8a4",
           "authorHandle": "caroodles.bsky.social",
@@ -393,86 +530,6 @@
           "createdAt": "2026-08-29T23:01:17.376Z",
           "uri": "at://did:plc:7c36gffxskgqngpynd64uvbf/app.bsky.feed.post/3muay7ypdk22s",
           "sentiment": -0.8
-        },
-        {
-          "id": "b28f1e36cf5689b3147c86373f5dc17615aa20896bdc2cf38feb2069748e9317",
-          "authorHandle": "hydevoltyge.bsky.social",
-          "postText": "Very heartening and also fascinating to watch Abdul El-Sayed, Troy Jackson, and Angie Nixon all run what I'd consider masterclass campaigns but in very different ways.\n\nJames Talarico and Gina Hinojosa win best top of ticket duo easily this year. Overall really a great slate of \"new\" candidates.",
-          "createdAt": "2026-08-29T21:24:19.047Z",
-          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3muasslvzms2x",
-          "sentiment": 0.8
-        },
-        {
-          "id": "a8ad47720615c38dbf368d10709e783852f529785a07544a0fa537587a9e9b98",
-          "authorHandle": "cmudak.bsky.social",
-          "postText": "www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-29T20:30:16.356Z",
-          "uri": "at://did:plc:t3fqnlptbknfjusd37xyrsg4/app.bsky.feed.post/3muaprxgw7s2n",
-          "sentiment": 0
-        },
-        {
-          "id": "1f1e463b24135eb11a5dadb63d2fb6d9a4f475a335e382b190656fafd6d32eef",
-          "authorHandle": "collinswatch.bsky.social",
-          "postText": "The answer to Susan Collins lackey Phil Hirschkorn's rhetorical question is, \"No, Troy Jackson isn't misstating Susan Collins voting record in support of tariffs.\"\n\nBut Hirschkorn waits until the article's last graf -- it's 17th! -- before he kinda-sorta admits this to readers. #MEpolitics",
-          "createdAt": "2026-08-29T20:15:04.517Z",
-          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3muaowrtyck2m",
-          "sentiment": 0.7
-        },
-        {
-          "id": "20e0069745c0f1c8c6600f6704acf7c63fd7c93a7cad4b872b7eaebb79bf016c",
-          "authorHandle": "gaylekate.bsky.social",
-          "postText": "\"Miriam Adelson, Paul Sanger & Elon Musk\" are all donors to the SUPER PAC supporting Susan Collins\n\nyoutube.com/shorts/gYdz7...",
-          "createdAt": "2026-08-29T20:14:45.480Z",
-          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3muaow7ovlc2d",
-          "sentiment": 0
-        },
-        {
-          "id": "3d7e9c95968c006d950dfed869e700bfbc3a289474153c1f5be36e926f6fdd99",
-          "authorHandle": "msmaine.bsky.social",
-          "postText": "This Mainer is not stuck in any ways - Vote Troy Jackson and defeat Susan Collins!",
-          "createdAt": "2026-08-29T19:50:43.240Z",
-          "uri": "at://did:plc:54bpxuc53aleflfo6tp6mti5/app.bsky.feed.post/3muanlab64s2z",
-          "sentiment": 0.9
-        },
-        {
-          "id": "f6ee8a0cfcac247ea11be5b17dff6bb164b51f9d03cf9384f77dbe9f6103107c",
-          "authorHandle": "mofromme.bsky.social",
-          "postText": "I'm attending Jackson for Maine's event, “Lewiston Town Hall with Troy Jackson | Solidarity Forever Tour” - sign up now to join me!  www.mobilize.us/jacksonforma...",
-          "createdAt": "2026-08-29T19:32:33.838Z",
-          "uri": "at://did:plc:7aq2hgkuflvq2kl4sv5tvuna/app.bsky.feed.post/3muamkrddw22p",
-          "sentiment": 0.7
-        },
-        {
-          "id": "d0c2cd284af071cbc7e4777063a97043cb26452c29448e86919bb7ff69ed159c",
-          "authorHandle": "newhercules.bsky.social",
-          "postText": "JACKSON (ME): secure.actblue.com/donate/jacks...\nPETOLTA (AK): secure.actblue.com/donate/maryp...\nSHERROD (OH): secure.actblue.com/donate/sherr...\nTALARICO (TX): secure.actblue.com/donate/pjd4698\nTUREK (IA): secure.actblue.com/donate/gojos...\nEL-SAYED (MI): secure.actblue.com/donate/sayed...\n4/5",
-          "createdAt": "2026-08-29T18:36:43.178Z",
-          "uri": "at://did:plc:735v4e7wgub7kjclvnb7sz4s/app.bsky.feed.post/3muajgxs6bk2e",
-          "sentiment": 0.6
-        },
-        {
-          "id": "f13a6d8e179782ccca7809d7ef4cc67567e8225f8845de039b887796b15929a3",
-          "authorHandle": "newhercules.bsky.social",
-          "postText": "\"In Texas, Talarico has increased his lead over Texas AG Paxton to six percent (48-42%) as of the latest poll (Slingshot Strategies for Texas Public Opinion Research) reported in the NY Times. In contrast to Paxton's performance, which has been trending down ..\" 3/5\n\nHere are direct actBlue links:",
-          "createdAt": "2026-08-29T18:36:43.177Z",
-          "uri": "at://did:plc:735v4e7wgub7kjclvnb7sz4s/app.bsky.feed.post/3muajgx7epk2e",
-          "sentiment": 0
-        },
-        {
-          "id": "22ad64525d9485bd30eab70d1f10e53c491e79cb506a0c8ddfe0b372f11b3eb4",
-          "authorHandle": "newhercules.bsky.social",
-          "postText": "\"That's down just one % point since 2 or 3 weeks ago, but the situation may well have improved, especially in Texas and Michigan. \n\nOn the House side, the latest forecast is that Democrats have an 84.1% chance of regaining control, which has also been a fairly steady number for many weeks.\" 2/5",
-          "createdAt": "2026-08-29T18:36:43.176Z",
-          "uri": "at://did:plc:735v4e7wgub7kjclvnb7sz4s/app.bsky.feed.post/3muajgwrq6s2e",
-          "sentiment": 0
-        },
-        {
-          "id": "9dedcff0788c25d813355b9476b8045ff9c6d26f76dd8da8b05e0c18b222d32e",
-          "authorHandle": "newhercules.bsky.social",
-          "postText": "This from my brother Paul who has raised $65K for the Dem races. Consider support.\n\n\"Senate remains a \"tossup\" with Democrats having a 55.6% chance* of controlling 51 seats when the midterm election is over. \nThis is the House party link (mentioned below): secure.actblue.com/donate/hmp-p...\n1/5",
-          "createdAt": "2026-08-29T18:36:43.175Z",
-          "uri": "at://did:plc:735v4e7wgub7kjclvnb7sz4s/app.bsky.feed.post/3muajgvv64s2e",
-          "sentiment": 0
         }
       ],
       "youtube": [
