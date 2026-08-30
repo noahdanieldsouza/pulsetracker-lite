@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T05:29:04.910Z",
+  "lastUpdated": "2026-08-30T10:36:47.736Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -48,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.10693459416863671,
+      "overallSentiment": 0.10217864923747277,
       "newsSentiment": -0.1111111111111111,
-      "socialSentiment": 0.43191489361702123,
+      "socialSentiment": 0.4176470588235294,
       "mentions": {
         "news": 9,
-        "social": 47,
+        "social": 51,
         "youtube": 2,
-        "total": 58
+        "total": 62
       },
       "news": [
         {
@@ -141,6 +141,54 @@
         }
       ],
       "social": [
+        {
+          "id": "0d392995bbeb6259e2e35509abf0ece6941bd8209b43e35d3deea93d00af740e",
+          "authorHandle": "freebklyn.bsky.social",
+          "postText": "Here’s the campaign website:\n\nwww.jacksonformaine.com",
+          "createdAt": "2026-08-30T07:05:30.890Z",
+          "uri": "at://did:plc:dt3tarozagtb6dleb5nqfvrn/app.bsky.feed.post/3mubtbuc6tc2p",
+          "sentiment": 0
+        },
+        {
+          "id": "9e6c3d7648377909d294e2dbef9480640b5dfadc9265b9d093ea10e24f4aaaeb",
+          "authorHandle": "marcsmason1.bsky.social",
+          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-30T06:47:33.883Z",
+          "uri": "at://did:plc:7iuvxmght4m3lg2s5fhc3x34/app.bsky.feed.post/3mubsbr6l5s2m",
+          "sentiment": 1
+        },
+        {
+          "id": "80c18253de9bf930184c724542583a0db0bbd31eb3fa490fa0ebe8b05d51cdc2",
+          "authorHandle": "iamlauriew.bsky.social",
+          "postText": "youtube.com/shorts/k_qc9...",
+          "createdAt": "2026-08-30T06:02:57.708Z",
+          "uri": "at://did:plc:6fk3qxlhseqmf2x2cpmyaitv/app.bsky.feed.post/3mubpryy6z22p",
+          "sentiment": 0
+        },
+        {
+          "id": "6115675bfa3e24b85296b0da6c4544047bac2bafa1d3ea832ff11c423392d72a",
+          "authorHandle": "egbertowillies.com",
+          "postText": "Jenna Flanagan panel: Troy Jackson Takes On Collins as Gaza Burns and Pentagon Spending Explodes\n\nThe Jenna Flanagan WBAI panel connects Troy Jackson’s working-class Senate campaign, Israel’s continued genocide in Gaza, and Washington’s staggering $1.5 trillion defense budget.",
+          "createdAt": "2026-08-30T05:49:51Z",
+          "uri": "at://did:plc:yk7n3vgg36ge757rogg3zwpg/app.bsky.feed.post/3mubp2mjkp72r",
+          "sentiment": 1
+        },
+        {
+          "id": "96691ef8d0be7329dc78a5bad57abc6f92c8d08a9ccb1950b82da475a65faf96",
+          "authorHandle": "rsspbxx.bsky.social",
+          "postText": "www.factcheck.org/2026/08/coll...",
+          "createdAt": "2026-08-30T05:43:34.831Z",
+          "uri": "at://did:plc:6i35kmot4smo6m2f5rgrlslv/app.bsky.feed.post/3mubopdy2vc2s",
+          "sentiment": 0
+        },
+        {
+          "id": "e8d28595127e2c87c568f4584fa003fa87e45ca412ec2ef53ffa5f00cc562dca",
+          "authorHandle": "camasonian.bsky.social",
+          "postText": "Peltola recently won statewide in AK in 2022 twice.  In a special election and then later in the follow-up general.  And she only lost narrowly in 2024 in a very hostile year for Democrats.\n\nSo she has WAY more statewide history and recognition than Talarico or Troy Jackson in Maine.",
+          "createdAt": "2026-08-30T05:31:03.039Z",
+          "uri": "at://did:plc:ar4m3xiu43lhhimqi7vnor5z/app.bsky.feed.post/3mubnywz43k2f",
+          "sentiment": -0.5
+        },
         {
           "id": "077f2b6df867eec3feacccef366481ac114bd3677e4f62b26ddcd46200837f2f",
           "authorHandle": "papaesoco.bsky.social",
@@ -500,22 +548,6 @@
           "createdAt": "2026-08-29T10:43:36.607Z",
           "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mu7oywdtdk2x",
           "sentiment": 0.5
-        },
-        {
-          "id": "716ce259bfe23183967debb5b653acf34c5054b0a3d1f9ef744610827ee82ac1",
-          "authorHandle": "lordcollins.bsky.social",
-          "postText": "secure.actblue.com/donate/tj-em...",
-          "createdAt": "2026-08-29T09:19:43.851Z",
-          "uri": "at://did:plc:gceb2dvh6bcwktlgfikqax6w/app.bsky.feed.post/3mu7kcwqdjs27",
-          "sentiment": 0.5
-        },
-        {
-          "id": "d59ad89ea9552784bcfbc134296474049ea3b6dbd0183454cfb4726808f041a0",
-          "authorHandle": "mags69.bsky.social",
-          "postText": "factcheckorg.substack.com/p/collins-ad...",
-          "createdAt": "2026-08-29T07:16:34.499Z",
-          "uri": "at://did:plc:wa3fpvdni6rii2aelxfol7im/app.bsky.feed.post/3mu7dgpp6ik24",
-          "sentiment": 0
         }
       ],
       "youtube": [
