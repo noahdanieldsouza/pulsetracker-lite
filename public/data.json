@@ -1,20 +1,30 @@
 {
-  "lastUpdated": "2026-08-30T14:58:15.369Z",
+  "lastUpdated": "2026-08-30T15:58:29.096Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.1,
-      "newsSentiment": null,
+      "overallSentiment": -0.05,
+      "newsSentiment": 0,
       "socialSentiment": -0.1,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 1,
         "youtube": 0,
-        "total": 1
+        "total": 2
       },
-      "news": [],
+      "news": [
+        {
+          "id": "069cf5617bbbd7e6f6a6e3f0defb18e36028db643b4adeac86ac470e6e50f5cf",
+          "title": "Gujarat’s power play: State eyes 250 BU electricity demand by 2035-36",
+          "description": "Data Centres, Industry To Drive Next Phase Of Growth",
+          "sourceName": "The Times Of India",
+          "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarats-power-play-state-eyes-250-bu-electricity-demand-by-2035-36/articleshow/133618725.cms",
+          "publishedAt": "2026-08-29T18:54:43.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [
         {
           "id": "58196fe8c6fc13ce7d2e8654cd87225507b8dd654dda9f76a547e760e7adaa78",
@@ -48,95 +58,32 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.09305872053872051,
-      "newsSentiment": -0.1111111111111111,
+      "overallSentiment": 0.13009575757575756,
+      "newsSentiment": 0,
       "socialSentiment": 0.39028727272727265,
       "mentions": {
-        "news": 9,
+        "news": 2,
         "social": 55,
         "youtube": 2,
-        "total": 66
+        "total": 59
       },
       "news": [
         {
-          "id": "b9e70728d42af32199677e5cfca911615174be02486287a2af0cb50bba4d75ec",
-          "title": "Bridgeport Buckhannon-Upshur box score",
-          "description": null,
-          "sourceName": "Wv News",
-          "url": "https://www.wvnews.com/bridgeport-buckhannon-upshur-box-score/article_d91428e1-91a6-4635-8b7c-00b40f49d4db.html",
-          "publishedAt": "2026-08-29T02:17:00.000Z",
+          "id": "4767d98a7883ebb9a53c63f48ef3a575e39bc31246b60666348ebe50742ecea4",
+          "title": "Sen. Susan Collins continues drumbeat against “harmful” new Trump tariffs on Canada",
+          "description": "Collins and her Democratic opponent, Troy Jackson, oppose the tariffs, saying they hurt Mainers.",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/senator-susan-collins-continues-drumbeat-against-harmful-new-trump-tariffs-canada/97-d79fb615-a11d-41eb-a10f-2a003b3dc8fa",
+          "publishedAt": "2026-08-29T18:49:54.000Z",
           "sentiment": 0
         },
         {
-          "id": "65cc450d1654f5e9eef87a32b12523582fa4d3b68991883855f23262c84a07c9",
-          "title": "Collins vs. Jackson: Senior leadership and Trade takes center stage ahead of Maine Senate Race",
-          "description": "It has been just over a month since the Maine Democratic Convention.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/08/28/collins-vs-jackson-senior-leadership-trade-takes-center-stage-ahead-maine-senate-race/",
-          "publishedAt": "2026-08-28T22:29:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9b0621d88fac04455a543307758c688d820930f904160d1808b34f38c7bbbff8",
-          "title": "Canadian tariffs to further raise prices, a top concern for voters",
-          "description": "WASHINGTON -- A developing trade war with Canada could bite Republicans ahead of the upcoming midterm elections as voters worry about rising prices and industries in states with competitive races",
-          "sourceName": "Sedalia Democrat",
-          "url": "https://www.sedaliademocrat.com/stories/canadian-tariffs-to-further-raise-prices-a-top-concern-for-voters,54013",
-          "publishedAt": "2026-08-28T22:05:25.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a3076a948412f5489f3f4f227bc99565a1c018368f982f3b7236b9d7ef061839",
-          "title": "US Senate map trending toward Democrats, though GOP retains slim advantage",
-          "description": "WASHINGTON — Voters throughout much of the country will cast ballots for their U.S. senator this fall, but just nine states hold the power to determine control of the chamber — setting the course for which presidential nominees can secure...",
-          "sourceName": "Idahostatejournal",
-          "url": "https://www.idahostatejournal.com/news/local/us-senate-map-trending-toward-democrats-though-gop-retains-slim-advantage/article_0531758c-5c27-4935-b054-c676ac6ef043.html",
-          "publishedAt": "2026-08-28T21:19:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f1378786cf3f051d53e507e45ce3f52ccb4513b0529ffbab20d55c2c5be94a1e",
-          "title": "Susan Collins calls for tariff truce as trade war emerges as hot issue in Senate races",
-          "description": "GOP Sen. Susan Collins, who is in a hotly contested reelection race in Maine, is calling on the Trump administration to cut a trade deal with Canada.",
-          "sourceName": "The Washington Times",
-          "url": "https://www.washingtontimes.com/news/2026/aug/28/susan-collins-calls-tariff-truce-trade-war-emerges-hot-issue-senate/",
-          "publishedAt": "2026-08-28T20:37:50.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "fbb5318687b2906632f794cf9092340d8f0c99f0c1e05ee488c5a5c45ae9103a",
-          "title": "Dem Crazy Train in FL: Angie Nixon Joins El-Sayed As Full Islamist Revolutionary",
-          "description": "For Republicans, the 2026 Senate races may become an embarrassment of riches. For Democrats, it's just a series of embarrassments. First...",
-          "sourceName": "Hotair",
-          "url": "https://hotair.com/ed-morrissey/2026/08/28/dem-crazy-train-in-fl-angie-nixon-goes-full-revolutionary-n3818461",
-          "publishedAt": "2026-08-28T19:55:28.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5cabf9ca9518204c0757c5c3754448ee18ad75734dd3e430bf74fd434dfbe4aa",
-          "title": "Maine senate hopeful Troy Jackson endorses Karl Marx-loving ex-DSA co-chair who implied Jesus was a communist",
-          "description": "Maine Senate hopeful Troy Jackson reminisced about disgraced oyster farmer Graham Platner and endorsed a Democratic Socialists of America co-chair who suggested Jesus was a communist.",
-          "sourceName": "New York Post",
-          "url": "https://nypost.com/2026/08/28/us-news/troy-jackson-endorses-karl-marx-loving-ex-dsa-co-chair-who-implied-jesus-was-a-communist-reminisces-over-platner/",
-          "publishedAt": "2026-08-28T19:12:52.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "54ea646045c98b1c24d77017ea0a8bcf6c2487c15c3e350dedc6dad78ffe4583",
-          "title": "John Fetterman Calls Out His Party's Socialism Problem",
-          "description": "Sen. John Fetterman (D-PA) railed against his party’s “socialism problem” and the rise of far leftist figures like Michigan Senate...",
-          "sourceName": "Townhall",
-          "url": "https://townhall.com/news/jeff-charles/2026/08/28/john-fetterman-says-democrat-party-has-a-socialism-problem-n2682072",
-          "publishedAt": "2026-08-28T18:30:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "27fbf4e58ff9bb321df42e2ff20d853d955b67c6ae9384fa5612f3e6db7f64f5",
-          "title": "The bipartisan fight against Flock cameras is creating some unlikely political alliances",
-          "description": "Republican Rep. Scott Perry and Democratic Senate candidate Adbul El-Sayed are politically and ideologically opposed — but they’re united against Flock. The post The bipartisan fight against Flock cameras is creating some unlikely political alliances appeared first on MS NOW .",
-          "sourceName": "Ms Now",
-          "url": "https://www.ms.now/news/bipartisan-backlash-flock-cameras",
-          "publishedAt": "2026-08-28T18:07:03.000Z",
+          "id": "43a659d320ce574d3f6a75d3017f1b66b4df65bfb5472a3979bee9c1dea88d5a",
+          "title": "Froma Harrop: Few Democratic Socialists are blue-collar",
+          "description": "From the commentary, \"These fake working folk are so transparently phony, you wonder why even the left-wingers buy into it.\"",
+          "sourceName": "West Central Tribune",
+          "url": "https://www.wctrib.com/opinion/columns/froma-harrop-few-democratic-socialists-are-blue-collar",
+          "publishedAt": "2026-08-29T18:11:00.000Z",
           "sentiment": 0
         }
       ],
