@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-30T16:54:18.617Z",
+  "lastUpdated": "2026-08-30T18:29:33.469Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.05,
+      "overallSentiment": 0,
       "newsSentiment": 0,
-      "socialSentiment": -0.1,
+      "socialSentiment": null,
       "mentions": {
         "news": 1,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 2
+        "total": 1
       },
       "news": [
         {
@@ -25,16 +25,7 @@
           "sentiment": 0
         }
       ],
-      "social": [
-        {
-          "id": "58196fe8c6fc13ce7d2e8654cd87225507b8dd654dda9f76a547e760e7adaa78",
-          "authorHandle": "smhebe.bsky.social",
-          "postText": "We Mainers must ABSOLUTELY NOT allow Bobby Charles to win the Governor's office! Talk to your neighbors, especially your elderly neighbors and friends. For the love of God, we can't allow them to vote against their own best interest!\n💙🌊💙🌊💙\nsubstack.com/@mainenewsro...",
-          "createdAt": "2026-08-29T16:01:46.998Z",
-          "uri": "at://did:plc:s44izrmi56kodyqwseufgdpx/app.bsky.feed.post/3muaaruefas2r",
-          "sentiment": -0.1
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
@@ -69,14 +60,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3967624242424242,
+      "overallSentiment": 0.38240138888888886,
       "newsSentiment": 0,
-      "socialSentiment": 0.39028727272727265,
+      "socialSentiment": 0.3472041666666667,
       "mentions": {
         "news": 2,
-        "social": 55,
+        "social": 48,
         "youtube": 3,
-        "total": 60
+        "total": 53
       },
       "news": [
         {
@@ -99,6 +90,62 @@
         }
       ],
       "social": [
+        {
+          "id": "d8ffda54b008e44b9fea4be1827f4c710d0e4044ba79571c95ba0763b182e8a4",
+          "authorHandle": "caroodles.bsky.social",
+          "postText": "Maine\n🔵Troy Jackson 52%\n🔴Susan Collins 43% (inc.)\n\nSouth Carolina\n🔴Darline Graham 55% (inc.)\n🔵Annie Andrews 42%\n\nAbacus Data poll | August 2026 | 2,500 LV",
+          "createdAt": "2026-08-30T16:33:50.667Z",
+          "uri": "at://did:plc:dz6w7mj5jef6l2hipzig7v5l/app.bsky.feed.post/3muct24esck2l",
+          "sentiment": 0
+        },
+        {
+          "id": "8ca28b23fc3dbc093ea2b0b1014af64f9d2a778eea3c7966d3140f64e706d661",
+          "authorHandle": "dharmalee3.bsky.social",
+          "postText": "Healthcare, reproductive rights, childcare, and ending ICE terror are all on the ballot this November 3. We have the power to shape our future. Let's make it happen.\n\nVote Troy Jackson!",
+          "createdAt": "2026-08-30T16:09:19.203Z",
+          "uri": "at://did:plc:y3wyn2keqln5hdywt7btznbj/app.bsky.feed.post/3mucrob3cps2b",
+          "sentiment": 1
+        },
+        {
+          "id": "f5591c5b88ce0ba96dc065c4eee9d6430659eb6bc32992e0d65d41a8bf9754c2",
+          "authorHandle": "jpylko.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-08-30T15:46:57.160Z",
+          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mucqgb7eus2j",
+          "sentiment": 0
+        },
+        {
+          "id": "650d663430bf20b9c2e961dd9907aa1135cd501d5275c8b0741aaeb56318bedd",
+          "authorHandle": "celiebug.bsky.social",
+          "postText": "youtube.com/shorts/gYdz7...",
+          "createdAt": "2026-08-30T15:43:58.852Z",
+          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3mucqax5ux224",
+          "sentiment": 0
+        },
+        {
+          "id": "5ef377ee8f63aef16b4ebc48fdd5259ede36d7856d7c32e3e6f6e51d414258cf",
+          "authorHandle": "gendercoffin.bsky.social",
+          "postText": "I like Troy Jackson because he talks about the issues people face in a way I haven’t seen any Maine politician outside this race talk. Even as the fascist turn in Washington has turned everything to shit, people across the state are at a level of political awareness that’s unprecedented",
+          "createdAt": "2026-08-30T15:19:58.964Z",
+          "uri": "at://did:plc:g4wylxqm6gndcfre7vmvz2ge/app.bsky.feed.post/3mucovzxyd22d",
+          "sentiment": 1
+        },
+        {
+          "id": "d2cf6febe8c9f2ab699da6a3d33f7c95b4ab384b6265ba70831fcddadd2f96d4",
+          "authorHandle": "cnroberts.bsky.social",
+          "postText": "#maine\n\nwww.bangordailynews.com/2026/08/27/p...",
+          "createdAt": "2026-08-30T15:12:50.779Z",
+          "uri": "at://did:plc:xc7mwqt5mxtargsqap5gvfmz/app.bsky.feed.post/3mucojdumpi2s",
+          "sentiment": 0
+        },
+        {
+          "id": "492bde71701124217dabd7cdb97dc6d65c82d8e36ce08d42c345d75085727205",
+          "authorHandle": "democracyenjoyer.bsky.social",
+          "postText": "Top priorities for Troy Jackson from his campaign website. Go, Troy, go!",
+          "createdAt": "2026-08-30T15:00:21.078Z",
+          "uri": "at://did:plc:kjww6l5gjkx7q2c4m5muzeew/app.bsky.feed.post/3mucnswnq2c2o",
+          "sentiment": 1
+        },
         {
           "id": "01a2de3ac55730fd14fb595ccb600316a9257794993596f7c5a1ff0f68cd2efe",
           "authorHandle": "mialong.bsky.social",
@@ -426,118 +473,6 @@
           "createdAt": "2026-08-29T18:36:43.175Z",
           "uri": "at://did:plc:735v4e7wgub7kjclvnb7sz4s/app.bsky.feed.post/3muajgvv64s2e",
           "sentiment": 0
-        },
-        {
-          "id": "b78eca8917533cd72d8884c7bcbbf5c90a0f9ee5d91388b0ac2014fb252ee0d4",
-          "authorHandle": "daviddarmofal.bsky.social",
-          "postText": "‘JD Vance is a dirtbag’: Maine Senate nominee responds to vice president on ICE shooting death",
-          "createdAt": "2026-08-29T18:19:48.555Z",
-          "uri": "at://did:plc:zctue4vtjwztlygf2lu7ydtm/app.bsky.feed.post/3muaiiogzs72f",
-          "sentiment": 0.8
-        },
-        {
-          "id": "d0d9ef199cc5aa6a65244d771c0ca75466ddcba4e5f6c075e3beb7762c527d52",
-          "authorHandle": "elitegov.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-29T18:18:43.269Z",
-          "uri": "at://did:plc:yjnvm42idkazto7uc7htyhj6/app.bsky.feed.post/3muaigpz2gc24",
-          "sentiment": 0
-        },
-        {
-          "id": "d60880fde638effad1afc71b784179ae823402727862df013824cef3daa5ea0e",
-          "authorHandle": "hydevoltyge.bsky.social",
-          "postText": "Yeah no that's not happening now lol\n\nEveryone that age now remembers only Collins appeasing Donald Trump\n\nTroy Jackson probably doesn't need that much of a flip either, after RCV it was likely fairly close in 2020.",
-          "createdAt": "2026-08-29T17:59:42.164Z",
-          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3muaheprb3s2v",
-          "sentiment": 0.5
-        },
-        {
-          "id": "1ac5f1009d4b3f80f58ab635890edeb7a47b1988451ef2f1d0951d89a9c6d684",
-          "authorHandle": "eacanning.bsky.social",
-          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-29T17:27:31.711Z",
-          "uri": "at://did:plc:hoxqjarxr4j5lppo6os2a6gl/app.bsky.feed.post/3muafl6qk2s2u",
-          "sentiment": 0.8
-        },
-        {
-          "id": "005dcd3603eaeb07537db4adf7f7a5af61bb557b0a81d62615e415eae592215e",
-          "authorHandle": "susangrigsby.bsky.social",
-          "postText": "I'm attending Jackson for Maine's event, “Lewiston Town Hall with Troy Jackson | Solidarity Forever Tour” - sign up now to join me!  www.mobilize.us/jacksonforma...",
-          "createdAt": "2026-08-29T17:06:43.032Z",
-          "uri": "at://did:plc:l2utf2okm5ookdndwpznrkwb/app.bsky.feed.post/3muaefxvuy22r",
-          "sentiment": 0.8
-        },
-        {
-          "id": "bb2dda73fd7bbca17060000e14f8ec33d94b4f05de792f1a2ef44654b0f38191",
-          "authorHandle": "ziamacmarten.bsky.social",
-          "postText": "I am shocked somehow Dems lucked into an actually competent politician like Troy Jackson",
-          "createdAt": "2026-08-29T17:05:32.284Z",
-          "uri": "at://did:plc:3vvjuarlpx2456ftfhruc7zu/app.bsky.feed.post/3muaedugv3k23",
-          "sentiment": 0.9
-        },
-        {
-          "id": "2e8d445ca08662d1d6959b103d89d7ce70ddea728b10949f3c8839cbc6ce3806",
-          "authorHandle": "rkean.bsky.social",
-          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine  “There was a young man who had a Social Security number, he had a job, I mean, he had a life. He had a family.\" www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-29T16:43:45.552Z",
-          "uri": "at://did:plc:4wrnc3sqgxixoafnb2jnpu5n/app.bsky.feed.post/3muad4wajo22w",
-          "sentiment": 0.7
-        },
-        {
-          "id": "3dc5685c94a350ce546cc7e4778308a524aeeb108989257ba536b0f627063552",
-          "authorHandle": "bplum.bsky.social",
-          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-29T16:09:00.226Z",
-          "uri": "at://did:plc:tgue7qkalc4ikvsm53n7xsls/app.bsky.feed.post/3muab6rjgik2m",
-          "sentiment": 0.7
-        },
-        {
-          "id": "9ac8a66f52591e4a23a3af51a84ac08d633c1b4e3809477f3b4c1a5ba90d62bf",
-          "authorHandle": "nuclearneo577.bsky.social",
-          "postText": "49: Maine. Despite the mess before we settled on Troy Jackson, Susan Collins is beyond screwed. The only reason why this is after NC is because Collins will likely outrun many other Republicans, just not by enough to avoid becoming this year's Jon Teser.",
-          "createdAt": "2026-08-29T16:05:44.594Z",
-          "uri": "at://did:plc:l5rkkpqjqri6yjr4flhvcilc/app.bsky.feed.post/3muaayymvfc2e",
-          "sentiment": 0.7
-        },
-        {
-          "id": "ebfc805168f798ababba8d5037eec9f7d5d7a710327830739ad0b12661746103",
-          "authorHandle": "nopolzone.bsky.social",
-          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-29T16:01:39.342Z",
-          "uri": "at://did:plc:digcbxjcaim6rnhq7zxtxhyg/app.bsky.feed.post/3muaarn2oqc2r",
-          "sentiment": 0.7
-        },
-        {
-          "id": "176c404d2048da130ba6e89e2e693a317f9ace47dca46841f7897ccdda88ac80",
-          "authorHandle": "jpylko.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-29T15:59:16.448Z",
-          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3muaanervss2a",
-          "sentiment": 0
-        },
-        {
-          "id": "fe3259c3c4f311f08c855d57117e33e92551e8adfff69916b1d6465be46cbea1",
-          "authorHandle": "sunshinelaughter.bsky.social",
-          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-29T15:58:06.815Z",
-          "uri": "at://did:plc:5yvxi7ifij4pizlopvfpcovz/app.bsky.feed.post/3muaalcevss2i",
-          "sentiment": 0.7
-        },
-        {
-          "id": "da35e68742b13a1bb9556a6833837f552be12f3684329b111cdf45f8e479e32e",
-          "authorHandle": "ladycross.bsky.social",
-          "postText": "Maine, please vote for Troy Jackson. It's time to get off the revolving door where you've been trapped with Susan, I vote with Trump, Collins.",
-          "createdAt": "2026-08-29T15:24:59.458Z",
-          "uri": "at://did:plc:fb4smz4ml7roqlqbcuqgrlqx/app.bsky.feed.post/3mua6q33kjc2p",
-          "sentiment": 0.8
-        },
-        {
-          "id": "efb858f48c13e9d03d7e78a49f3f9c218396f73c3d9242b6f1a1658887a7fb10",
-          "authorHandle": "wanderlib.bsky.social",
-          "postText": "Biden didn't.\n\nAnd judging by Newsom and the California Delegation's Jackassery (and Troy Jackson in Maine) the tariffs unfortunately have a constituency in both parties.",
-          "createdAt": "2026-08-29T15:19:07.524Z",
-          "uri": "at://did:plc:naloocsop5npt325x4fqanst/app.bsky.feed.post/3mua6flhexs2w",
-          "sentiment": -0.3
         }
       ],
       "youtube": [
@@ -577,14 +512,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.5,
+      "overallSentiment": -0.3333333333333333,
       "newsSentiment": null,
-      "socialSentiment": -0.3333333333333333,
+      "socialSentiment": 0,
       "mentions": {
         "news": 0,
-        "social": 3,
+        "social": 2,
         "youtube": 3,
-        "total": 6
+        "total": 5
       },
       "news": [],
       "social": [
@@ -603,14 +538,6 @@
           "createdAt": "2026-08-29T22:38:47.072Z",
           "uri": "at://did:plc:kbxusbq32jzts52q3oumucuv/app.bsky.feed.post/3muawxqxm3c2k",
           "sentiment": 0
-        },
-        {
-          "id": "6ae1da68e6db0084dd00870c9f54935ca413fe30133d3270fbaf79b8a5ad5763",
-          "authorHandle": "bekkaleigh.bsky.social",
-          "postText": "Ok, this is actually a great example of how a religion that was originally about forming community and stewarding creation is twisted into hyper-individualism. \n\nThe original text is “the world”,  “kosmon” in the original Greek.",
-          "createdAt": "2026-08-29T15:36:04.260Z",
-          "uri": "at://did:plc:zvxjk2664x3ohnppxx2hnfr2/app.bsky.feed.post/3mua7dv42ws23",
-          "sentiment": -1
         }
       ],
       "youtube": [
