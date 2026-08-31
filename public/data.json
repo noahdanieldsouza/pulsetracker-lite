@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T01:38:38.439Z",
+  "lastUpdated": "2026-08-31T07:37:47.706Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -41,17 +41,26 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -1,
+      "overallSentiment": -0.65,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": -0.3,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 1,
-        "total": 1
+        "total": 2
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "407c8c7b80f30df1d05e759ee7f744c4eb4277014b1c1709ed095c5a335bd26a",
+          "authorHandle": "redhead324.bsky.social",
+          "postText": "www.maine.gov/sos/news/sec... #voting #freedomoverfear",
+          "createdAt": "2026-08-31T03:46:40.407Z",
+          "uri": "at://did:plc:i7wmxdqwkruznqebsyektcbk/app.bsky.feed.post/3mudyn7xrcs2q",
+          "sentiment": -0.3
+        }
+      ],
       "youtube": [
         {
           "id": "9e42e705c05abebb7fe732ef2d2de94825f5a95c79b1e8cf0e9fe4fa407914ff",
@@ -69,14 +78,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.4056479532163742,
+      "overallSentiment": 0.42019545454545454,
       "newsSentiment": 0,
-      "socialSentiment": 0.41694385964912284,
+      "socialSentiment": 0.4605863636363637,
       "mentions": {
         "news": 2,
-        "social": 57,
+        "social": 44,
         "youtube": 3,
-        "total": 62
+        "total": 49
       },
       "news": [
         {
@@ -99,6 +108,30 @@
         }
       ],
       "social": [
+        {
+          "id": "423ca3953ed074ac1d5007eba23e5bc3c7779a2dd3c31491754ad29098f7b01c",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "SUPPORT TROY JACKSON AND FLIP MAINE'S SENATE SEAT! (via Blue Vision)\n\nsecure.actblue.com/donate/bv_tr...",
+          "createdAt": "2026-08-31T06:57:06.121Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3muedbqeme22t",
+          "sentiment": 1
+        },
+        {
+          "id": "3046d85695807884fcf5ab2087ece2946ed62904cf5a1c3b56b4ecbd16f0ed55",
+          "authorHandle": "bartlojo.bsky.social",
+          "postText": "www.youtube.com/watch?v=krvE...",
+          "createdAt": "2026-08-31T05:56:28.725Z",
+          "uri": "at://did:plc:xfd26ojzcyu346rtrt3lqfrh/app.bsky.feed.post/3mue7vdi3t22m",
+          "sentiment": 0
+        },
+        {
+          "id": "a2fcd7c6a9f5bdaba440aea636854e37d9913736975cbc42067744fa8f93c704",
+          "authorHandle": "silverlining2026.bsky.social",
+          "postText": "D’s need to flip 5 senate seats to have a majority in Senate \n\nDemocrats are polling ahead of R’s in:\n\nAlaska - Mary Petola 50-43 \n\nGeorgia - John Ossoff 50 - 43 \n\nIowa - Josh Turek 51-47\n\nMaine - Troy Jackson 52-43\n\nNC - Roy Cooper 51-42\n\nOhio - Sherrod Brown 52-46\n\nTexas - James Talarico 48 -42",
+          "createdAt": "2026-08-31T03:36:26.562Z",
+          "uri": "at://did:plc:q74cvzan3d7tqkse76vge2sn/app.bsky.feed.post/3mudy2wkgjc2x",
+          "sentiment": 1
+        },
         {
           "id": "3245aa3c4af6c26d79b5aae574e74d6c9a62b37f7ca9d72048697b68b3d2aa4d",
           "authorHandle": "sharonsf.bsky.social",
@@ -426,134 +459,6 @@
           "createdAt": "2026-08-30T11:24:32.425Z",
           "uri": "at://did:plc:nwxe2e7uelxorcvewh7kquuy/app.bsky.feed.post/3mucbqzua3c2m",
           "sentiment": 0
-        },
-        {
-          "id": "0d392995bbeb6259e2e35509abf0ece6941bd8209b43e35d3deea93d00af740e",
-          "authorHandle": "freebklyn.bsky.social",
-          "postText": "Here’s the campaign website:\n\nwww.jacksonformaine.com",
-          "createdAt": "2026-08-30T07:05:30.890Z",
-          "uri": "at://did:plc:dt3tarozagtb6dleb5nqfvrn/app.bsky.feed.post/3mubtbuc6tc2p",
-          "sentiment": 0
-        },
-        {
-          "id": "9e6c3d7648377909d294e2dbef9480640b5dfadc9265b9d093ea10e24f4aaaeb",
-          "authorHandle": "marcsmason1.bsky.social",
-          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-30T06:47:33.883Z",
-          "uri": "at://did:plc:7iuvxmght4m3lg2s5fhc3x34/app.bsky.feed.post/3mubsbr6l5s2m",
-          "sentiment": 1
-        },
-        {
-          "id": "80c18253de9bf930184c724542583a0db0bbd31eb3fa490fa0ebe8b05d51cdc2",
-          "authorHandle": "iamlauriew.bsky.social",
-          "postText": "youtube.com/shorts/k_qc9...",
-          "createdAt": "2026-08-30T06:02:57.708Z",
-          "uri": "at://did:plc:6fk3qxlhseqmf2x2cpmyaitv/app.bsky.feed.post/3mubpryy6z22p",
-          "sentiment": 0
-        },
-        {
-          "id": "6115675bfa3e24b85296b0da6c4544047bac2bafa1d3ea832ff11c423392d72a",
-          "authorHandle": "egbertowillies.com",
-          "postText": "Jenna Flanagan panel: Troy Jackson Takes On Collins as Gaza Burns and Pentagon Spending Explodes\n\nThe Jenna Flanagan WBAI panel connects Troy Jackson’s working-class Senate campaign, Israel’s continued genocide in Gaza, and Washington’s staggering $1.5 trillion defense budget.",
-          "createdAt": "2026-08-30T05:49:51Z",
-          "uri": "at://did:plc:yk7n3vgg36ge757rogg3zwpg/app.bsky.feed.post/3mubp2mjkp72r",
-          "sentiment": 1
-        },
-        {
-          "id": "96691ef8d0be7329dc78a5bad57abc6f92c8d08a9ccb1950b82da475a65faf96",
-          "authorHandle": "rsspbxx.bsky.social",
-          "postText": "www.factcheck.org/2026/08/coll...",
-          "createdAt": "2026-08-30T05:43:34.831Z",
-          "uri": "at://did:plc:6i35kmot4smo6m2f5rgrlslv/app.bsky.feed.post/3mubopdy2vc2s",
-          "sentiment": 0
-        },
-        {
-          "id": "e8d28595127e2c87c568f4584fa003fa87e45ca412ec2ef53ffa5f00cc562dca",
-          "authorHandle": "camasonian.bsky.social",
-          "postText": "Peltola recently won statewide in AK in 2022 twice.  In a special election and then later in the follow-up general.  And she only lost narrowly in 2024 in a very hostile year for Democrats.\n\nSo she has WAY more statewide history and recognition than Talarico or Troy Jackson in Maine.",
-          "createdAt": "2026-08-30T05:31:03.039Z",
-          "uri": "at://did:plc:ar4m3xiu43lhhimqi7vnor5z/app.bsky.feed.post/3mubnywz43k2f",
-          "sentiment": -0.5
-        },
-        {
-          "id": "077f2b6df867eec3feacccef366481ac114bd3677e4f62b26ddcd46200837f2f",
-          "authorHandle": "papaesoco.bsky.social",
-          "postText": "www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-08-30T05:12:49.831Z",
-          "uri": "at://did:plc:h2h6unwdc3ncsoput6d3bygy/app.bsky.feed.post/3mubmyeh25l2x",
-          "sentiment": 0
-        },
-        {
-          "id": "346a5f03c4f3baf3339d1014f857aa15148ba7b97bd9131b64380c1f8c0ce521",
-          "authorHandle": "lordcollins.bsky.social",
-          "postText": "secure.actblue.com/donate/tj-em...",
-          "createdAt": "2026-08-30T04:16:57.858Z",
-          "uri": "at://did:plc:gceb2dvh6bcwktlgfikqax6w/app.bsky.feed.post/3mubjuhqwzc2z",
-          "sentiment": 0
-        },
-        {
-          "id": "7d8732d03f0c6d5b5d37d3aed25c6cfe7e41a4e55ed6514eaba6c1ab4195bc86",
-          "authorHandle": "hydevoltyge.bsky.social",
-          "postText": "That's some of it but there's also the Gideon being painted as from out of state versus the Collins brand\n\nTroy Jackson feels extra well suited for this because he's from the north like her and can defuse a lot of that brand advantage, cut down the margins while consolidating Dems.",
-          "createdAt": "2026-08-30T03:06:10.659Z",
-          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mubfvvcpqk2a",
-          "sentiment": 0.7
-        },
-        {
-          "id": "0feec510e5632b4cda562a9455e0af3e4ef6d4889def646e9c45e0d2460e81ab",
-          "authorHandle": "robertgcole.bsky.social",
-          "postText": "Republicans like Susan Collins could have prevented this since she is in charge of the “purse”.  Troy Jackson and the democrats are committed to restoring faith in our alliance.  We need a little time.",
-          "createdAt": "2026-08-30T02:39:31.680Z",
-          "uri": "at://did:plc:x4zf7zlszjoxtokjsn2kcvh4/app.bsky.feed.post/3mubegafsrc2y",
-          "sentiment": 0.6
-        },
-        {
-          "id": "aed08fe31e6fc67877528ff87d051884dfb674056344505c6f943fe303666b4f",
-          "authorHandle": "fwordleproblems.bsky.social",
-          "postText": "We're not allowed to post this poll without saying \"this is probably garbage but\" blah blah blah. Okay. That's out of the way. \n\nTroy Jackson by NINE would be existentially hilarious for BlueSky. There was SO MUCH extravagant mourning in all directions about how we Totally Blew That One lol!",
-          "createdAt": "2026-08-30T02:09:35.572Z",
-          "uri": "at://did:plc:jbjqcvzcivnyxms2gyljycf2/app.bsky.feed.post/3mubcqpiv3s26",
-          "sentiment": 0.5
-        },
-        {
-          "id": "44b378f9fc32c1eeee75306fedc386f7870933dc327eae7bec99c09c0aed3b29",
-          "authorHandle": "saveam.bsky.social",
-          "postText": "'Vance Is a Dirtbag': Troy Jackson Responds to VP Downplaying ICE Killing in Maine\n\"To come here and say, 'Have some perspective'? You ought to have some damn perspective,\" Jackson said in a video reply to the vice president.",
-          "createdAt": "2026-08-30T02:08:04.282Z",
-          "uri": "at://did:plc:3s52uzpjh236okih4cogzcov/app.bsky.feed.post/3mubcnygxom2q",
-          "sentiment": 0.8
-        },
-        {
-          "id": "fd80be4849365a8951cbeb17e8b00d680c58a156cf8afa250135ddce8fcf0b2e",
-          "authorHandle": "silvawolves.bsky.social",
-          "postText": "If she announced these things beforehand I’m sure we could make sure she had a larger crowd with lots of Troy Jackson signs.\n#MEPolitics",
-          "createdAt": "2026-08-30T02:07:58.511Z",
-          "uri": "at://did:plc:6udzmxohn3fy2dm6jfbi276e/app.bsky.feed.post/3mubcnswtws2r",
-          "sentiment": 0.5
-        },
-        {
-          "id": "901dab0485d75a38ef7ffb0200dc66248e44d02d51d9fdc6998ea0309b07b28d",
-          "authorHandle": "dwondoowa.bsky.social",
-          "postText": "Attend Jackson for Maine's event, “Lewiston Town Hall with Troy Jackson | Solidarity Forever Tour” - sign up now to join me!  www.mobilize.us/jacksonforma...",
-          "createdAt": "2026-08-30T01:51:20.249Z",
-          "uri": "at://did:plc:vrplkj543bttqk77zajnyeox/app.bsky.feed.post/3mubbq2wfn22f",
-          "sentiment": 0
-        },
-        {
-          "id": "ff122b942efc246d78a46d59141d9b92da7289e7b4fa11bda78febd48763f435",
-          "authorHandle": "foolme1ns.bsky.social",
-          "postText": "I don’t care that she has trouble breaking a bottle of champagne!\n\nI care that she has no problem voting for tax cuts for billionaires, or judges who make women slaves to the state, or for the big ugly bill that’s going to devastate medicaid, Medicare and social security!\n\nVOTE TROY JACKSON!",
-          "createdAt": "2026-08-30T01:44:42.417Z",
-          "uri": "at://did:plc:apzsuqstpdusqx6jgt6vjmcm/app.bsky.feed.post/3mubbe7jits2b",
-          "sentiment": 0.9
-        },
-        {
-          "id": "d4fa489c65494fd34fa9de7e6ae2281ab15d3677bc0af13509c08ec463510b4c",
-          "authorHandle": "philstr.bsky.social",
-          "postText": "Isn't that Troy Jackson?",
-          "createdAt": "2026-08-30T01:41:06.832Z",
-          "uri": "at://did:plc:rmc5rts73nyxzy6u7dqw2f4j/app.bsky.feed.post/3mubb5rwbos2p",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -593,26 +498,17 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.3333333333333333,
+      "overallSentiment": -0.6666666666666666,
       "newsSentiment": null,
-      "socialSentiment": 0,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 3,
-        "total": 4
+        "total": 3
       },
       "news": [],
-      "social": [
-        {
-          "id": "9496964bd48cca10c41ffbc200199dfdb1f124a1f99eca3f267d7904d7595cfc",
-          "authorHandle": "timnathchamber.bsky.social",
-          "postText": "Today's Timnath Chamber Member Spotlight: Wood & Slate | Wood & Slate is a Northern Colorado, based, family-run studio founded by Alexa and Jordan, serving individuals and businesses looking to transform their… https://timnathchamb...",
-          "createdAt": "2026-08-30T01:47:45Z",
-          "uri": "at://did:plc:2cdr2d27apjs52nrknmv4nxg/app.bsky.feed.post/3mubbjobdo22o",
-          "sentiment": 0
-        }
-      ],
+      "social": [],
       "youtube": [
         {
           "id": "9d34b8be9c87304fea52a4f3e7c4f7f1ecd36768acfca71609f90b4ab0e6f30d",
