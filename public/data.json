@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T18:42:37.351Z",
+  "lastUpdated": "2026-08-31T19:11:55.871Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -31,14 +31,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.65,
+      "overallSentiment": -0.3,
       "newsSentiment": null,
       "socialSentiment": -0.3,
       "mentions": {
         "news": 0,
         "social": 1,
-        "youtube": 1,
-        "total": 2
+        "youtube": 0,
+        "total": 1
       },
       "news": [],
       "social": [
@@ -51,31 +51,20 @@
           "sentiment": -0.3
         }
       ],
-      "youtube": [
-        {
-          "id": "9e42e705c05abebb7fe732ef2d2de94825f5a95c79b1e8cf0e9fe4fa407914ff",
-          "authorName": "@scpoe81178",
-          "commentText": "Bellows i still want my 250 ballots.",
-          "publishedAt": "2026-08-29T23:55:25Z",
-          "videoId": "cJPttFcnAL0",
-          "videoTitle": "Secretary of state says mail-in voting is still good to go, despite Supreme Court ruling",
-          "commentId": "UgyOdW5B0lFDppsxrUx4AaABAg",
-          "sentiment": -1
-        }
-      ],
-      "youtubeSentiment": -1
+      "youtube": [],
+      "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.39466666666666667,
+      "overallSentiment": 0.29050000000000004,
       "newsSentiment": 0,
       "socialSentiment": 0.38400000000000006,
       "mentions": {
         "news": 3,
         "social": 50,
-        "youtube": 3,
-        "total": 56
+        "youtube": 32,
+        "total": 85
       },
       "news": [
         {
@@ -510,85 +499,344 @@
       ],
       "youtube": [
         {
-          "id": "12748db391b3c0792ffbfd936ff0173a8ca353542e58caaf777e6154f0b9183b",
-          "authorName": "@mainenewsroom",
-          "commentText": "&quot;Troy takes action and he is who he says he is,” Maine AFL-CIO President Cynthia Phinney said. “Susan Collins says she&#39;s concerned but stays on the sidelines when it matters.&quot;",
-          "publishedAt": "2026-08-30T12:46:13Z",
-          "videoId": "LMFWJjMYkyM",
-          "videoTitle": "8/30 Jackson campaign launches “Women for Troy” to paint contrast with Maine Senator Susan Collins",
-          "commentId": "UgwnLu4q4TCzT4KZofF4AaABAg",
-          "sentiment": 0.8
+          "id": "6bdbeb7d8d3ee11b9cbcef8c735a43e77621bca339b4a9a7b4d0128c77383282",
+          "authorName": "@cyndimmm",
+          "commentText": "Go Troy!!",
+          "publishedAt": "2026-08-31T18:46:34Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgyoFwGCSzfUywS0RHx4AaABAg",
+          "sentiment": 1
         },
         {
-          "id": "73646ce95c07e8f3930d7142c7b3a866ef9058641ccfab44df0f1a2ab4e0f57a",
-          "authorName": "@winkmartendale",
-          "commentText": "I’m a republican… And I’m excited to vote for Troy!",
-          "publishedAt": "2026-08-29T18:06:58Z",
-          "videoId": "k_qc9RyKJF0",
-          "videoTitle": "Susan Collins voted to confirm Brett Kavanaugh, and she still says she doesn’t regret it",
-          "commentId": "Ugztd3S67qeYLub5-IZ4AaABAg",
+          "id": "12fb84bd1c3b6828501b2776b4c42d7497b948afaf1cb49862aa4cb533652d03",
+          "authorName": "@sarahharriman1431",
+          "commentText": "Troy you have my vote!!!  Thank you for a you have done!",
+          "publishedAt": "2026-08-31T16:44:27Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugxl2HSL0oDaHKTXnZ14AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "7535dc8201fdf297884a0435dd8a249507c32bd2a7599ba7f84e5dbfe9dc74ce",
+          "authorName": "@kennethmeuleman1244",
+          "commentText": "I hope you win Mr. Jackson.👍",
+          "publishedAt": "2026-08-31T15:07:06Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugx7pQv4ufM3-tCdfGx4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "10f715e4718c67bade3f1cc088fe7161a459f3bbc0eef7ace847903c6b054708",
+          "authorName": "@Jay-j1e8h",
+          "commentText": "How does an open border and Medicare for all go together Troy?",
+          "publishedAt": "2026-08-31T12:49:09Z",
+          "videoId": "OmKen6E59l4",
+          "videoTitle": "See you there, Susan?",
+          "commentId": "UgyunS0gQUOozDoeN6V4AaABAg",
+          "sentiment": -1
+        },
+        {
+          "id": "36d344156d26bf7543791783b4ca72f504e8e1777e7b6463e41c31fc32d0dea0",
+          "authorName": "@Lynn-i2w",
+          "commentText": "My Maine family don’t care about debates. We know what Troy stands for and we have seen Susan’s record. My Maine family is voting for Troy.",
+          "publishedAt": "2026-08-31T12:23:41Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugx45PEb4BQwd0TXspJ4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "a8f985a51eba50a9263a2b8511008fdd19aaa4642a7d5c4a72262b6c1059d175",
+          "authorName": "@jimnihart5441",
+          "commentText": "Troy needs to be speaking not only on a Maine specific platform, but also on a national level. He&#39;s been a logger all his life and there is a perfect opportunity to speak on a bigger scale by addressing the tariffs on Canadian goods and going to the border and speak out on how they are harming US industries and consumers alike.",
+          "publishedAt": "2026-08-31T10:16:32Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgzUJTDgSb9QbPVPHKZ4AaABAg",
+          "sentiment": 0
+        },
+        {
+          "id": "c485c621127431e16da097fd83e7485aaaea0410837c642547b2acca65efbd1d",
+          "authorName": "@AngelaDanis-x4s",
+          "commentText": "I like Troy&#39;s answer for debates you can still have a townhall debate and have the candidates answer the same question instead of just having moderators let the folks of Maine ask questions I love that",
+          "publishedAt": "2026-08-31T09:29:01Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgxGfdjfrHCEynU70U94AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "6b213be0dd9e4a996bd432b83afc30515f5eaf49cff7b44f4a8443cc38beeea8",
+          "authorName": "@loneranterism",
+          "commentText": "We need to hype up Troy Jackson. Haven&#39;t heard much about him lately",
+          "publishedAt": "2026-08-31T08:17:00Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgwrP6YTf_RQx99xr954AaABAg",
+          "sentiment": 0
+        },
+        {
+          "id": "2dce0961d202ee6d54396ffa7d6eb8df8c116aabf80da5bc0985c0b7bcf76f0f",
+          "authorName": "@jmyers5199",
+          "commentText": "We could use a lot more &quot;Troy Jackson&#39;s&quot; as representatives!",
+          "publishedAt": "2026-08-31T06:38:44Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugy-Cd3kdAHCooLJB_t4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "51c3be291b5d90bdbd2decf9ae9dda5eb667dc1b4e4ac97a4fdc35f16f73b169",
+          "authorName": "@X-Geronimo",
+          "commentText": "Trump should endorse Jackson. It would be hilarious! There is zero difference. Trump should have fun with this one. Maybe he could help Jackson win.",
+          "publishedAt": "2026-08-31T05:24:52Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgyQXn29BkNbZCGjqZl4AaABAg",
+          "sentiment": 0
+        },
+        {
+          "id": "a300faf5322afa8f6ab0388781d234ef212afe42509ef6b75c2034a45659e39f",
+          "authorName": "@kymbartley8104",
+          "commentText": "I like Troy Jackson. He’s the real deal, and he’s definitely got Vance’s number",
+          "publishedAt": "2026-08-31T03:48:55Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgzmZz7kByxYVQey-494AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "21d78e147e08e3da69ac622c7b7b3a0a879f7f71cc03e061162b9916a687680f",
+          "authorName": "@SaraLaHaie-w4d1s",
+          "commentText": "Go Troy 💪",
+          "publishedAt": "2026-08-31T03:10:17Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgzUO4j9VplKPqB560V4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "a74eba368c29d4d53b76da48962cc116587583b8f28988bc68034f020b3d1b9e",
+          "authorName": "@darrencormier1154",
+          "commentText": "tr0y jackson sounds so down to earth he could be from new brunswick",
+          "publishedAt": "2026-08-31T02:18:24Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugzzd3dIDA3oYKfTxS94AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "7845d712bc0ba185e1d299076d7433e70004fe80e5694fd238fb5e1d81b73b90",
+          "authorName": "@waynebrowne1063",
+          "commentText": "Why does Troy Jackson have a southern accent? 🤔",
+          "publishedAt": "2026-08-31T01:56:32Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgwTWGoKCxApWoApuw54AaABAg",
+          "sentiment": 0
+        },
+        {
+          "id": "235477fa3a596cc5f378be6e635c669d6466046edae3c8de9214d6b741bf9a5b",
+          "authorName": "@alyjulmim8447",
+          "commentText": "Mark Jackson&#39;s brother.",
+          "publishedAt": "2026-08-31T01:41:48Z",
+          "videoId": "xjnB25dkers",
+          "videoTitle": "Troy “Escalade” Jackson#troyjackson #basketball #streetball #fyp",
+          "commentId": "Ugx4bET1yCaiRhYTX014AaABAg",
+          "sentiment": 0
+        },
+        {
+          "id": "06a9cbc3aa17ff58ea5e66c166be9d6c578e57b13979f1ed8ddcb54292b7dd5c",
+          "authorName": "@brianbloomer4949",
+          "commentText": "I&#39;m an outside donor. I live in New Hampshire. I donated $10.00. It&#39;s all I could afford. Godspeed, Troy.",
+          "publishedAt": "2026-08-31T01:24:59Z",
+          "videoId": "RWdYE8PtoKI",
+          "videoTitle": "Troy Jackson to Elon Musk: Mainers Aren&#39;t For Sale in Maine Senate Race",
+          "commentId": "Ugw4c5qY6Uc-GClcrMd4AaABAg",
           "sentiment": 0.7
         },
         {
-          "id": "cbb2f1e9ac4de7eda9fab951246bc8e1da7ed206c416eb045cb9ff3d286c739a",
-          "authorName": "@krjung4067",
-          "commentText": "Thank you so much, Troy. You are a good one.💐",
-          "publishedAt": "2026-08-29T17:51:44Z",
+          "id": "5a5a1adc753b105197d22f6dd221fb64daddb4c61ee036cbc6bce5e5b8adbce0",
+          "authorName": "@SherylHebert-p1v",
+          "commentText": "Women for Troy! 💙🌊💙🌊💙",
+          "publishedAt": "2026-08-31T00:46:02Z",
+          "videoId": "LMFWJjMYkyM",
+          "videoTitle": "8/30 Jackson campaign launches “Women for Troy” to paint contrast with Maine Senator Susan Collins",
+          "commentId": "UgxchkH7IlnGM_AT_VV4AaABAg",
+          "sentiment": 0.7
+        },
+        {
+          "id": "d59a9806ae8580ef8b7f39cb0f0942f85fc340cd62eebb02ebbbac5c118c8881",
+          "authorName": "@animationpineapple327",
+          "commentText": "Honestly Troy, I would recommend debating her at any chance you get.  We need to win this and debates will help with that.",
+          "publishedAt": "2026-08-31T00:25:31Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugz3C2-kpQ9d1ZynT5l4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "050e673707d8e7ea8e55cc4b1a18b897f147708b7913fcd46313c25d34840b6f",
+          "authorName": "@Paul-lm5gv",
+          "commentText": "Jackson is going to lose!",
+          "publishedAt": "2026-08-30T23:45:07Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugwe2hFDA5iUBooYKIF4AaABAg",
+          "sentiment": -1
+        },
+        {
+          "id": "87fd2f5f9ed6e943110582d7b7185b4419bdfadd9a480539ac755af3ef16059b",
+          "authorName": "@thomasconway5342",
+          "commentText": "Met Troy at the opening of the democratic party office in Machias Maine Saturday. He&#39;s great, unfortunately the Dems in charge are not, i feel both house n senate races are dead even, toss up.",
+          "publishedAt": "2026-08-30T23:39:05Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugx0Eh4w8D1q-WFGBdF4AaABAg",
+          "sentiment": 0
+        },
+        {
+          "id": "0f6b0bdfbf3d57539a014608248aa680bd2435db351ae652a5bda576163a100f",
+          "authorName": "@MaisieMurdock",
+          "commentText": "Troy please do a debate with Collins",
+          "publishedAt": "2026-08-30T23:18:12Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugyx9kXI8IdzE0HtJzV4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "638f68b1ec7cd61dbbf94049d6d12d86c398caa8ef5c742d74ccc2bc2e43a5d4",
+          "authorName": "@dakota19021",
+          "commentText": "😂 Troy who?",
+          "publishedAt": "2026-08-30T23:17:46Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgyG7dd6edGLi6QmuRR4AaABAg",
+          "sentiment": -1
+        },
+        {
+          "id": "a89b4079186726054fe0fe182b853b34ef3ec8f60d3be082d0d31cee5711e4f0",
+          "authorName": "@jenniferszarek4818",
+          "commentText": "ne votes for you Troy Jackson 😊",
+          "publishedAt": "2026-08-30T22:58:00Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugxk9JtkAmXoEt98yFZ4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "def6d7f9f6cc90c935aae0a55634ee16f4104a9c3e02c41aef6ac87be730064a",
+          "authorName": "@2GroundControl",
+          "commentText": "Getting sick of the misleading Pine Tree negative Jackson adds.  Collins is corrupt. Plain and simple. But they keep trying to throw BS at the wall about Troy and expecting the people of Maine to buy it.",
+          "publishedAt": "2026-08-30T22:29:14Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgyIzz5Y296eayx-S_14AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "3266c4e4b9b697788b48a401a11509f587a92bd6574e50468f1b0c55caeda142",
+          "authorName": "@MKmadkat",
+          "commentText": "Go Troy , jack up the heat on your phoney opponent! She’s a fraud and a liar",
+          "publishedAt": "2026-08-30T22:14:07Z",
+          "videoId": "OmKen6E59l4",
+          "videoTitle": "See you there, Susan?",
+          "commentId": "UgyXP5L1sxvzqvV0JEN4AaABAg",
+          "sentiment": 0.8
+        },
+        {
+          "id": "aee9b6017f55d25a9235c6451f00b9279fd4a50da4de401d9fa60a8efd6506de",
+          "authorName": "@ryanmchugh5684",
+          "commentText": "Mark Jackson&#39;s brother",
+          "publishedAt": "2026-08-30T21:12:36Z",
+          "videoId": "xjnB25dkers",
+          "videoTitle": "Troy “Escalade” Jackson#troyjackson #basketball #streetball #fyp",
+          "commentId": "Ugzjhwca3MACgkIpfh54AaABAg",
+          "sentiment": 0
+        },
+        {
+          "id": "d0b3820e9a4774ce40f5208c4e73a40c8a4b854f1f055f32f92567c930f878ce",
+          "authorName": "@donnadelayed",
+          "commentText": "GOOD LUCK, TROY!!!!!!!",
+          "publishedAt": "2026-08-30T21:11:58Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgwKDJMIACVR_cMc5vR4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "08226066704f7452c70bf0320f30add6675d77d525c30fa951cb8fafb38d152a",
+          "authorName": "@Steven_Rodwell",
+          "commentText": "Troy Jackson brings people together, we are looking forward to November.",
+          "publishedAt": "2026-08-30T21:04:52Z",
           "videoId": "YrJR0kgeu3c",
           "videoTitle": "Abortion is health care. That’s common sense to me.",
-          "commentId": "UgyzmlH8oLzopbgqA2h4AaABAg",
-          "sentiment": 0.9
+          "commentId": "UgzjaqkgjQrTe8oqtXJ4AaABAg",
+          "sentiment": 0.8
+        },
+        {
+          "id": "f153c9b342fac1359d62c4d3d81a9028c36e918b5d0f2263cc908666fe35e756",
+          "authorName": "@lizabrahams7606",
+          "commentText": "Great interview  with Trojan Troy hope he wins in November against “I’m concerned” Collins.",
+          "publishedAt": "2026-08-30T20:51:31Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "Ugxsq85zfyps9BtcQTd4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "2952c608c5e044da6fb899288cfe31d3780a3ee683f00e63ba2c15ca613d6750",
+          "authorName": "@political_junkie",
+          "commentText": "If you’re tired of this craziness and dysfunction in Washington, vote blue up and down the ballot and encourage your friends and family to canvass for James Talarico in TX, Sherrod Brown in OH, Roy Cooper in NC, Josh Turek in IA, Mary Peltola in AK, and Troy Jackson in Maine, Jon Ossoff in GA, Abdul El-Sayed in MI or if you live in other states, please donate to their campaigns.💙💙",
+          "publishedAt": "2026-08-30T20:45:56Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgyE4NHRBufIFew0NnF4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "7eb1689a4b4d8b5a991886bc50d652c9c481ac4edd5cbda53c4658381d76726d",
+          "authorName": "@MonicaOutdoors",
+          "commentText": "You’re the Maine man!  Go Troy!",
+          "publishedAt": "2026-08-30T19:26:08Z",
+          "videoId": "OXmkB-YbidI",
+          "videoTitle": "This movement is about all of us.",
+          "commentId": "UgwwmeoA4-xABn96-MJ4AaABAg",
+          "sentiment": 0.6
+        },
+        {
+          "id": "c956baedd9dfa8536f6344aa6acb6a47247dd431da6aa50bd9f2af1e0be0f2d1",
+          "authorName": "@winstonsmith6607",
+          "commentText": "Did AIPAC find a woman to accuse Troy Jackson of SA yet?",
+          "publishedAt": "2026-08-30T19:14:00Z",
+          "videoId": "krvEH3zgvEs",
+          "videoTitle": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance",
+          "commentId": "UgwgNM-XxzzTkAngqct4AaABAg",
+          "sentiment": -1
         }
       ],
-      "youtubeSentiment": 0.7999999999999999
+      "youtubeSentiment": 0.48750000000000004
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.6666666666666666,
+      "overallSentiment": null,
       "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
         "news": 0,
         "social": 0,
-        "youtube": 3,
-        "total": 3
+        "youtube": 0,
+        "total": 0
       },
       "news": [],
       "social": [],
-      "youtube": [
-        {
-          "id": "9d34b8be9c87304fea52a4f3e7c4f7f1ecd36768acfca71609f90b4ab0e6f30d",
-          "authorName": "@Grace_Anonymous",
-          "commentText": "Congratulations Jordan x Anthony ❤",
-          "publishedAt": "2026-08-30T07:23:35Z",
-          "videoId": "VHpBnoVAAGc",
-          "videoTitle": "Inside Jordyn Woods’s Wedding Dress Fitting | Vogue",
-          "commentId": "UgwatM5Rnb6EkRIE5iB4AaABAg",
-          "sentiment": -1
-        },
-        {
-          "id": "a6aa71a67036dae352e2fe8bf438ad2536e729b10eccc4a2520048d14d65cb78",
-          "authorName": "@thezlemonissweet",
-          "commentText": "This guy was one of the most delusional people around. He claimed that Jesus is Lucifer. Jordan Maxwell is one of those people who deceived many. While I dont argue against what he is saying here,he was still a very delusional guy, or he was lying his ass off. Only a delusional person or an evil liar would claim that Jesus is Lucifer.",
-          "publishedAt": "2026-08-30T01:53:55Z",
-          "videoId": "GEKLIzZZuN4",
-          "videoTitle": "Circle of Power | Jordan Maxwell",
-          "commentId": "UgzCTRUwfiGEkagcwjp4AaABAg",
-          "sentiment": -1
-        },
-        {
-          "id": "7a3d1bd64946a9689a9ebaa02ba563dd12ad83f12365575a010f08c557f2088f",
-          "authorName": "@WhiteStoneName",
-          "commentText": "<a href=\"https://www.youtube.com/watch?v=sKb1GB9TXFM&amp;t=5372\">1:29:32</a> Jordan Daniel wood on the Christian struggles with Re-incarnation.<br><br>&quot;The most incarnate person is the Resurrected and Ascendent Jesus Christ who transcends space and time.&quot;",
-          "publishedAt": "2026-08-29T22:52:14Z",
-          "videoId": "sKb1GB9TXFM",
-          "videoTitle": "Free-Wheeling on the Afterlife | Jordan Daniel Wood and Kal",
-          "commentId": "UgwHjjNxkBoGQXTXyxh4AaABAg",
-          "sentiment": 0
-        }
-      ],
-      "youtubeSentiment": -0.6666666666666666
+      "youtube": [],
+      "youtubeSentiment": null
     }
   ]
 }
