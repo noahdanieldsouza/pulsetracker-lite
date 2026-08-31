@@ -1,30 +1,21 @@
 {
-  "lastUpdated": "2026-08-31T19:11:55.871Z",
+  "lastUpdated": "2026-08-31T20:56:26.845Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.5,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": -0.5,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "6ef8bbc88792f09369e95c2e0c9b6722a173fe94c3d0a6c87ea8810c23cba23a",
-          "authorHandle": "mainenewsroom.com",
-          "postText": "8/30 Nirav Shah, Maine's former CDC director, demands Republican candidate for governor Bobby Charles explain how he'd cut $4 billion from the state budget without hurting seniors or students #maine #MEpolitics",
-          "createdAt": "2026-08-30T19:03:26.051360Z",
-          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mud3fm6gr62q",
-          "sentiment": -0.5
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
@@ -57,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.29050000000000004,
+      "overallSentiment": 0.24497196969696974,
       "newsSentiment": 0,
-      "socialSentiment": 0.38400000000000006,
+      "socialSentiment": 0.2474159090909091,
       "mentions": {
         "news": 3,
-        "social": 50,
+        "social": 45,
         "youtube": 32,
-        "total": 85
+        "total": 80
       },
       "news": [
         {
@@ -96,6 +87,118 @@
         }
       ],
       "social": [
+        {
+          "id": "5cd7554be5119d9bc8a5923e6949cafdc3159d94a1cc53f8ff5669f803ba6b00",
+          "authorHandle": "kerravon.bsky.social",
+          "postText": "Heck, I even doubt Troy Jackson makes it for the sole reason that he isn't Graham Platner.",
+          "createdAt": "2026-08-31T20:55:02.282Z",
+          "uri": "at://did:plc:st535ku3pt3iqhksgcwtvfvq/app.bsky.feed.post/3mufs43hbtc2i",
+          "sentiment": -0.3612
+        },
+        {
+          "id": "209025381784c3e0fd0990d90a308061e2ce2387b0002f29bf88198d9dbdf240",
+          "authorHandle": "trudymiller.bsky.social",
+          "postText": "Near Belfast?  Join us Labor Day evening to support Troy Jackson and see (or re-see) a great movie about a real miners' action 100 years ago.  #mepolitics",
+          "createdAt": "2026-08-31T20:23:48.826Z",
+          "uri": "at://did:plc:wnd7357bqrkp54gks7aih7ek/app.bsky.feed.post/3mufqearzv223",
+          "sentiment": 0.8402
+        },
+        {
+          "id": "474ecc46202127c04c039693dfad1bebd1a7c491eb4db47014665ead6b764a8d",
+          "authorHandle": "sfeathers-1.bsky.social",
+          "postText": "www.ms.now/news/gets-in...",
+          "createdAt": "2026-08-31T19:07:54.475Z",
+          "uri": "at://did:plc:7cqgalmgh52yszqc2dtce4wx/app.bsky.feed.post/3mufm4jg6kk2y",
+          "sentiment": 0
+        },
+        {
+          "id": "244ce13058525a30d9a972bf6557ea6f7b9d544f0ac9e7b84c764e9651810728",
+          "authorHandle": "kgcooper.bsky.social",
+          "postText": "Vote @troyjackson207.bsky.social #Maine\n\nwww.youtube.com/watch?v=krvE...",
+          "createdAt": "2026-08-31T18:51:59.192Z",
+          "uri": "at://did:plc:glv6hxxoz5hpdusur73bg2uj/app.bsky.feed.post/3mufla2fby22r",
+          "sentiment": 0
+        },
+        {
+          "id": "e1251f12e539be0f72d88724fcf46875b42729d7426df243ba153b7eaa596be5",
+          "authorHandle": "dropsitenews.com",
+          "postText": "⚡️New At @dropsitenews.com: A Graham Platner Write-In Campaign Might End Up Helping Troy Jackson\n\nPlatner confirmed to Drop Site that he spoke w/ a group of supporters organizing a write-in campaign, but discouraged the effort\n\nStory by Ryan Grim & Nathan Bernard\n\nwww.dropsitenews.com/p/graham-pla...",
+          "createdAt": "2026-08-31T18:51:48.461Z",
+          "uri": "at://did:plc:avtgggryiqtjlg5wwsufccua/app.bsky.feed.post/3mufl7q5sic2v",
+          "sentiment": -0.8225
+        },
+        {
+          "id": "cf564afda27e6c68a1a408bf29233ef20115cd98e779eea0823292d4ed8b6fb6",
+          "authorHandle": "litsist.bsky.social",
+          "postText": "How dare you call a dirtbag a \"dirtbag\"? One of the more amusing upcoming events here in the USA,, should we still be around, will be watching how this dirtbag tries to distance himself from the dirtbag who elevated him. www.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-08-31T18:21:17.750Z",
+          "uri": "at://did:plc:dt2ipq6wtar7bldqi2nmwcw7/app.bsky.feed.post/3mufjj6ayq22z",
+          "sentiment": 0.4391
+        },
+        {
+          "id": "158a125f7a3253ab76af18a9ce51abb0400a878bd6242259226ca5b40f64ca8c",
+          "authorHandle": "shyone2910.bsky.social",
+          "postText": "www.ms.now/connect/watc...",
+          "createdAt": "2026-08-31T17:19:13.685Z",
+          "uri": "at://did:plc:kz3kf4p5qwkrimoco2jq5poz/app.bsky.feed.post/3mufg26phl22u",
+          "sentiment": 0
+        },
+        {
+          "id": "a7ba07f8f9e7ae07c62fb3e5d9aef714e7360d2f086f3b918515c77265cd5ef9",
+          "authorHandle": "shyone2910.bsky.social",
+          "postText": "www.ms.now/news/gets-in...",
+          "createdAt": "2026-08-31T17:16:37.698Z",
+          "uri": "at://did:plc:kz3kf4p5qwkrimoco2jq5poz/app.bsky.feed.post/3muffvjx4jc2u",
+          "sentiment": 0
+        },
+        {
+          "id": "951735039d19a9bcad42044363fe2a9ca2d4b09a17df1a21b28cbc28e0253cbe",
+          "authorHandle": "flolake.bsky.social",
+          "postText": "www.ms.now/news/gets-in...",
+          "createdAt": "2026-08-31T15:57:31.516Z",
+          "uri": "at://did:plc:kdssmjrjwqqcrudzajrkdhjr/app.bsky.feed.post/3mufbi3n6522i",
+          "sentiment": 0
+        },
+        {
+          "id": "6089b3a8d9c5fb086d8c599d67331f83d6752e70dd07fc0de18404e5e549ebf6",
+          "authorHandle": "bosslaty.bsky.social",
+          "postText": "Troy Jackson was 💯 correct",
+          "createdAt": "2026-08-31T15:52:30.629Z",
+          "uri": "at://did:plc:hoxyjl5vvjqmm5woaqggrgtx/app.bsky.feed.post/3mufb74os722x",
+          "sentiment": 0
+        },
+        {
+          "id": "411ca160c7a4efd7df491c290d1ad80cf25770fb6c7a1580036b28e7e235f7d3",
+          "authorHandle": "pegnymi-geologia.bsky.social",
+          "postText": "Yep. I like the Troy Jackson advertisement with his mother. A rare political add that makes me smile.",
+          "createdAt": "2026-08-31T15:46:23.651Z",
+          "uri": "at://did:plc:hh2jn6sysy2czhpg4tbsch3z/app.bsky.feed.post/3mufau6przs2t",
+          "sentiment": 0.7351
+        },
+        {
+          "id": "640a13b192846b8226979fdab0b43407bbd98938d04fceb5d3b3b99f2311f4c5",
+          "authorHandle": "w3hnt.bsky.social",
+          "postText": "“No child should have to go to school hungry, let alone be expected to learn on an empty stomach.”\n\nMaine Senate President Troy Jackson • Testifying in Support of LD 1679, An Act To Address Student Hunger Through Expanding Access to Free School Meals • 5-20-21",
+          "createdAt": "2026-08-31T15:29:09.931Z",
+          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3muf7veuvzs2n",
+          "sentiment": 0.296
+        },
+        {
+          "id": "b7e09a905d9b4fcbda30a385e2d8c99f976d9635b76955ef9145163809402c96",
+          "authorHandle": "w3hnt.bsky.social",
+          "postText": "“No child should ever have to prove they are worthy of nutritious food, and our schools shouldn't have to go broke or jump through outrageous bureaucratic hoops just to feed them.”\n\nTestimony of Maine Senate President Troy Jackson • May 20, 2021",
+          "createdAt": "2026-08-31T15:27:52.770Z",
+          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3muf7t3c7h22n",
+          "sentiment": -0.4404
+        },
+        {
+          "id": "dbd822329cc67a48cfaef6ad2061d2479581d9cdc46e7743e190a07d267cb8db",
+          "authorHandle": "handle.invalid",
+          "postText": "",
+          "createdAt": "2026-08-31T15:25:48.000Z",
+          "uri": "at://did:plc:zsik53yacnff6rffmzahr5hy/app.bsky.feed.post/3muf7yha2txa2",
+          "sentiment": null
+        },
         {
           "id": "6203b33c47572e3c5a61e3b3b2e8c04383c8e1007507b61bbefad6894f03dfc6",
           "authorHandle": "architecturenerd.bsky.social",
@@ -249,14 +352,6 @@
           "sentiment": 0
         },
         {
-          "id": "a2fcd7c6a9f5bdaba440aea636854e37d9913736975cbc42067744fa8f93c704",
-          "authorHandle": "silverlining2026.bsky.social",
-          "postText": "D’s need to flip 5 senate seats to have a majority in Senate \n\nDemocrats are polling ahead of R’s in:\n\nAlaska - Mary Petola 50-43 \n\nGeorgia - John Ossoff 50 - 43 \n\nIowa - Josh Turek 51-47\n\nMaine - Troy Jackson 52-43\n\nNC - Roy Cooper 51-42\n\nOhio - Sherrod Brown 52-46\n\nTexas - James Talarico 48 -42",
-          "createdAt": "2026-08-31T03:36:26.562Z",
-          "uri": "at://did:plc:q74cvzan3d7tqkse76vge2sn/app.bsky.feed.post/3mudy2wkgjc2x",
-          "sentiment": 1
-        },
-        {
           "id": "3245aa3c4af6c26d79b5aae574e74d6c9a62b37f7ca9d72048697b68b3d2aa4d",
           "authorHandle": "sharonsf.bsky.social",
           "postText": "Vote her ass out! www.youtube.com/watch?v=krvE...",
@@ -350,150 +445,6 @@
           "postText": "Troy Jackson challenged Susan Collins to debate and invited her to three town halls, saying she hasn’t held one in the past 25 years.",
           "createdAt": "2026-08-30T21:05:53.945Z",
           "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mudcalhqhc2k",
-          "sentiment": 0
-        },
-        {
-          "id": "51c21df681355309a8273bb27ed0fd012ad134c1685ad68c03899f9cae79886a",
-          "authorHandle": "sallydeal4.bsky.social",
-          "postText": "I donated to Troy Jackson and hope others join me.\n\nFollow at @troyjackson207.bsky.social \n\nMeet Troy/volunteer/donate here ➡️ www.jacksonformaine.com",
-          "createdAt": "2026-08-30T20:53:45.866Z",
-          "uri": "at://did:plc:kaas4r2i5sda5i2cospilxng/app.bsky.feed.post/3mudbkv4jsk2a",
-          "sentiment": 1
-        },
-        {
-          "id": "234f934a80ebfdf83d6e6f3fbcba8981cd5ab69d429f8e407c679c57956868e5",
-          "authorHandle": "gaylekate.bsky.social",
-          "postText": "No debates for Susan apparently \n\nyoutube.com/shorts/OmKen...",
-          "createdAt": "2026-08-30T20:49:13.877Z",
-          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mudbcrq2l224",
-          "sentiment": 0
-        },
-        {
-          "id": "5cb0bd3a8a44490ada16d09792829c376d8974110f47c83a311c4afc3580beb6",
-          "authorHandle": "nb01.bsky.social",
-          "postText": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance - MS NOW apple.news/AtcxwWx93R1G...",
-          "createdAt": "2026-08-30T20:47:38.584Z",
-          "uri": "at://did:plc:ruc5ll7mxgowaoumlyi3khyq/app.bsky.feed.post/3mudb7wtwys2d",
-          "sentiment": 1
-        },
-        {
-          "id": "0eb264a87b5b3e80f3fe543dc7107d2f6b0e7d20e0685a99b59a5051c52b1337",
-          "authorHandle": "mnethercott.bsky.social",
-          "postText": "#MNTwins vs. #Tigers Series Probables:\n\nMON: RHP Taj Bradley (9-6, 3.97) vs. RHP Jackson Jobe (1-1, 3.93)\n\nTUES: LHP Connor Prielipp (3-7, 5.55) vs. RHP Troy Melton (7-3, 1.86)\n\nWED: RHP Dean Kremer (2-5, 5.60) vs. RHP Drew Anderson (4-5, 3.87)",
-          "createdAt": "2026-08-30T20:30:00.394Z",
-          "uri": "at://did:plc:2npss2njzeai7lhockveymna/app.bsky.feed.post/3mudaafokdc2h",
-          "sentiment": 0
-        },
-        {
-          "id": "1e24eb50f8e427bc1d0b08cc5e06d983d315b5e2e8976945e65452ce65df11a1",
-          "authorHandle": "watcher3957.bsky.social",
-          "postText": "youtube.com/shorts/S7RQa...",
-          "createdAt": "2026-08-30T20:23:45.233Z",
-          "uri": "at://did:plc:j2pucmiqjtzjlhwehupltoe4/app.bsky.feed.post/3mud7v7vk6222",
-          "sentiment": 0
-        },
-        {
-          "id": "825136aa77cab5473ed282d93c868a47b6e2b74c31546659982e84a8d46c0669",
-          "authorHandle": "deviousfranklin.bsky.social",
-          "postText": "apple.news/AtcxwWx93R1G...",
-          "createdAt": "2026-08-30T20:19:15.996Z",
-          "uri": "at://did:plc:qzobj7zkxcg2l6qlcnqmuaok/app.bsky.feed.post/3mud7n754f22t",
-          "sentiment": 0
-        },
-        {
-          "id": "e0ed44358de3c2ff6a0679c0f0056ef5718f716b4652b155f6061733dd38e298",
-          "authorHandle": "markbluebeliever.bsky.social",
-          "postText": "youtu.be/krvEH3zgvEs?...",
-          "createdAt": "2026-08-30T20:10:52.105Z",
-          "uri": "at://did:plc:6y3bk5epuef7lsmnzdkwvupe/app.bsky.feed.post/3mud766lke22h",
-          "sentiment": 0
-        },
-        {
-          "id": "ae832e084b55dc048abeec3dacf0e889729be5ff37d4a1083c9cb66096ca666a",
-          "authorHandle": "jjferreirajr.bsky.social",
-          "postText": "substack.com/@factcheckor...",
-          "createdAt": "2026-08-30T20:00:20.150Z",
-          "uri": "at://did:plc:rmrwgwtjvrzjzvu6ldhdgnx5/app.bsky.feed.post/3mud6ldvtrk2m",
-          "sentiment": 0
-        },
-        {
-          "id": "d5b624efe1c95b2d9304557f216fb9655ba3dddfe745a4922b0c9c3a80b529a6",
-          "authorHandle": "oc88.bsky.social",
-          "postText": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance - MS NOW apple.news/AtcxwWx93R1G...",
-          "createdAt": "2026-08-30T19:44:09.046Z",
-          "uri": "at://did:plc:skccihdfrp5o4c6gw3x3n475/app.bsky.feed.post/3mud5ofs32c2f",
-          "sentiment": 1
-        },
-        {
-          "id": "292af0515d30b5eb46eb5d4a9624a12e7f0b8a884d8844224c6ad1c0b7a05425",
-          "authorHandle": "oc88.bsky.social",
-          "postText": "‘DIRTBAG’: Maine Senate nominee Troy Jackson SLAMS JD Vance - MS NOW apple.news/AtcxwWx93R1G...",
-          "createdAt": "2026-08-30T19:43:00.582Z",
-          "uri": "at://did:plc:skccihdfrp5o4c6gw3x3n475/app.bsky.feed.post/3mud5meipoc2f",
-          "sentiment": 1
-        },
-        {
-          "id": "6061c0b81cf1e40df16acbbb51ee80f09678947969a063c5166a431c3b0ad2cd",
-          "authorHandle": "janettes-999.bsky.social",
-          "postText": "I live in TX, but I donated $15 to Troy Jackson’s ME senatorial campaign. His end-of-month fundraising goal has a $483,000 shortfall. \n\nThank you for your one-time contribution to Troy Jackson!\n\n$15.00",
-          "createdAt": "2026-08-30T19:34:50.189Z",
-          "uri": "at://did:plc:yfyfgoqxgdwqw66mbqgtbwm7/app.bsky.feed.post/3mud55qt5ac2n",
-          "sentiment": 1
-        },
-        {
-          "id": "3aa6039277e5eb2f0b2e96199e9b567d6fd176f5e3415f536e3254bea655b358",
-          "authorHandle": "connectwithjacob.bsky.social",
-          "postText": "“What we saw right there was murder.”\n\nMaine Senate nominee Troy Jackson slammed Vice President JD Vance as a “dirtbag” after his recent comments about the fatal ICE shooting of 25-year-old Johan Sebastián Durán Guerrero.",
-          "createdAt": "2026-08-30T19:15:48.959Z",
-          "uri": "at://did:plc:mxb6svvmpslxwn36hbnn4o4z/app.bsky.feed.post/3mud43qhjtk2u",
-          "sentiment": 1
-        },
-        {
-          "id": "ad0f4d2fa6940112768ad044a1df89be419d32e6e029cd693207ebc4cbce6fbc",
-          "authorHandle": "mike-umbkm.bsky.social",
-          "postText": "Troy Jackson slammed JD Vance’s recent comments about a fatal ICE shooting in his state. At a rally, Vance told Democrats to “have a little bit of perspective” and focus on other issues like securing the border.\n\nJackson called the ICE shooting of 25-year-old Johan Sebastián Durán Guerrero “murder”.",
-          "createdAt": "2026-08-30T19:07:57.826Z",
-          "uri": "at://did:plc:443arya3g7jvqz5jyr75555x/app.bsky.feed.post/3mud3np5pyk2l",
-          "sentiment": 0
-        },
-        {
-          "id": "2116b6f38f8a56cbfc29ae6ae2134ae82e63eab00fbfa2254d54a388a2a9126f",
-          "authorHandle": "janettes-999.bsky.social",
-          "postText": "Go, Troy!\n\nI live in Texas, but I just donated $15 to your campaign to help with your $483,000 end-of-month fundraising shortfall. \n\nThank you for your one-time contribution to Troy Jackson!\n\n$15.00",
-          "createdAt": "2026-08-30T18:53:43.450Z",
-          "uri": "at://did:plc:yfyfgoqxgdwqw66mbqgtbwm7/app.bsky.feed.post/3mud2uaeiak25",
-          "sentiment": 1
-        },
-        {
-          "id": "d8ffda54b008e44b9fea4be1827f4c710d0e4044ba79571c95ba0763b182e8a4",
-          "authorHandle": "caroodles.bsky.social",
-          "postText": "Maine\n🔵Troy Jackson 52%\n🔴Susan Collins 43% (inc.)\n\nSouth Carolina\n🔴Darline Graham 55% (inc.)\n🔵Annie Andrews 42%\n\nAbacus Data poll | August 2026 | 2,500 LV",
-          "createdAt": "2026-08-30T16:33:50.667Z",
-          "uri": "at://did:plc:dz6w7mj5jef6l2hipzig7v5l/app.bsky.feed.post/3muct24esck2l",
-          "sentiment": 0
-        },
-        {
-          "id": "8ca28b23fc3dbc093ea2b0b1014af64f9d2a778eea3c7966d3140f64e706d661",
-          "authorHandle": "dharmalee3.bsky.social",
-          "postText": "Healthcare, reproductive rights, childcare, and ending ICE terror are all on the ballot this November 3. We have the power to shape our future. Let's make it happen.\n\nVote Troy Jackson!",
-          "createdAt": "2026-08-30T16:09:19.203Z",
-          "uri": "at://did:plc:y3wyn2keqln5hdywt7btznbj/app.bsky.feed.post/3mucrob3cps2b",
-          "sentiment": 1
-        },
-        {
-          "id": "f5591c5b88ce0ba96dc065c4eee9d6430659eb6bc32992e0d65d41a8bf9754c2",
-          "authorHandle": "jpylko.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-08-30T15:46:57.160Z",
-          "uri": "at://did:plc:jgh3xmcbyfz7xjbgi5j36ttn/app.bsky.feed.post/3mucqgb7eus2j",
-          "sentiment": 0
-        },
-        {
-          "id": "650d663430bf20b9c2e961dd9907aa1135cd501d5275c8b0741aaeb56318bedd",
-          "authorHandle": "celiebug.bsky.social",
-          "postText": "youtube.com/shorts/gYdz7...",
-          "createdAt": "2026-08-30T15:43:58.852Z",
-          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3mucqax5ux224",
           "sentiment": 0
         }
       ],
@@ -824,17 +775,26 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": null,
+      "overallSentiment": 1,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": 1,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "14e09d808b4ce91c4062eed18d716f8a2cfe8de785bb33d60c5fcf54f4117be7",
+          "authorHandle": "andresplays.bsky.social",
+          "postText": "MR WOOD. Okay that sounds strange. Thanks so much Jordan truly! Man, you're such a gem brother and anyone who is lucky to know you can attest to it",
+          "createdAt": "2026-08-31T17:09:41.345Z",
+          "uri": "at://did:plc:rouc5cqysj4eesmlmlds2cpy/app.bsky.feed.post/3muffj4uzs22c",
+          "sentiment": 1
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     }
