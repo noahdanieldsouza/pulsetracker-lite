@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T16:49:17.963Z",
+  "lastUpdated": "2026-09-01T18:14:15.960Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,14 +22,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -1,
+      "overallSentiment": 0,
       "newsSentiment": -1,
-      "socialSentiment": null,
+      "socialSentiment": 1,
       "mentions": {
         "news": 3,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 3
+        "total": 4
       },
       "news": [
         {
@@ -60,21 +60,30 @@
           "sentiment": -1
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "445a241b9fa3d81c9fda22917a4ae90192be49bbddf400ba5c4c0710cd31bd97",
+          "authorHandle": "mattherdman.bsky.social",
+          "postText": "23-0\n\nThanks to Democratic Secretaries of State like Shirley Weber and Cisco Aguilar and Shenna Bellows\nwww.nytimes.com/2026/08/31/u...",
+          "createdAt": "2026-09-01T17:15:09.793Z",
+          "uri": "at://did:plc:6nflksdq5pfi5zisffar3drd/app.bsky.feed.post/3muhwbtlarc2n",
+          "sentiment": 1
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.01178275862068967,
+      "overallSentiment": -0.005982183908045983,
       "newsSentiment": -0.25,
-      "socialSentiment": 0.214651724137931,
+      "socialSentiment": 0.23205344827586205,
       "mentions": {
         "news": 8,
-        "social": 59,
+        "social": 58,
         "youtube": 1,
-        "total": 68
+        "total": 67
       },
       "news": [
         {
@@ -151,6 +160,70 @@
         }
       ],
       "social": [
+        {
+          "id": "03397b5ddd4b725d72b5f7b4c8960477b72c0334bcbccd3bbfe24bf9d86176be",
+          "authorHandle": "paulwaldman.bsky.social",
+          "postText": "Troy Jackson is a lefty candidate in a key Senate race who advocates Medicare for all and has used the word \"genocide\" to describe the Israeli government's actions in Gaza.\n\nYet JD Vance does not say Jackson is \"evil.\" I wonder why not? There must be a reason...\n\nwww.bbc.com/news/article...",
+          "createdAt": "2026-09-01T18:12:38.862Z",
+          "uri": "at://did:plc:qlnirjwff4ibiw3wchmleszo/app.bsky.feed.post/3muhzimuhac25",
+          "sentiment": 0.2
+        },
+        {
+          "id": "10237ae09a76a5df382fdde52f38f0ff84052f723c973097b4a42a30ea714c06",
+          "authorHandle": "dewforpolitics.bsky.social",
+          "postText": "Maine Senate candidate Troy Jackson reaffirmed his support for Medicare for All, contrasting healthcare spending with ICE, the Iran war and tax breaks.",
+          "createdAt": "2026-09-01T17:40:09.117Z",
+          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3muhxojgyec2h",
+          "sentiment": 0.5
+        },
+        {
+          "id": "a68242d2e124dd133f1f55d52a9d051ee8d76fa9b9665bfafac34528ba5362fb",
+          "authorHandle": "bluedahlia1.bsky.social",
+          "postText": "Maine voters!  \n\nVote Democrat Troy Jackson for US Senate! 🗳️@troyjackson207.bsky.social \n\nIt is past time to “retire” Republican Susan Collins who represents only her wealthy donors and could not care less about ordinary Mainers. \n\n#Maine\n#TroyJackson",
+          "createdAt": "2026-09-01T17:33:12.962Z",
+          "uri": "at://did:plc:q67hbntpk5iongiwavjfz2vq/app.bsky.feed.post/3muhxc4kwyk27",
+          "sentiment": 0.8
+        },
+        {
+          "id": "06411c9bc96949fadc8cb220989f4c423e095d504769d647c7a0b6715f7fa66f",
+          "authorHandle": "joss17.bsky.social",
+          "postText": "substack.com/@mainenewsro...",
+          "createdAt": "2026-09-01T15:58:11.464Z",
+          "uri": "at://did:plc:plbe64qk3vk7ihy3z2pivshc/app.bsky.feed.post/3muhry76yus2e",
+          "sentiment": 0
+        },
+        {
+          "id": "1e7aa7be9f9699c7ab42a5db249423e0a39555cee6e60c788900db8582bec294",
+          "authorHandle": "nberlat.bsky.social",
+          "postText": "people on left and right were wringing their hands and insisting Platner's replacement was doomed against collins.\n\nTroy Jackson hasn't been behind in a poll since he became the nominee.",
+          "createdAt": "2026-09-01T15:49:15.937Z",
+          "uri": "at://did:plc:htdsafwakqmzvuk2oivijzn6/app.bsky.feed.post/3muhriahzc22j",
+          "sentiment": 0.6
+        },
+        {
+          "id": "54394c32f3f438fda2c7ee66e68359f1a7500d3efdafb591af1f8996a3637f54",
+          "authorHandle": "dbernstein.bsky.social",
+          "postText": "Three new anti-Troy Jackson ads in Maine. The two linked directly to Collins (her campaign & joint fundraising committee) focus on property taxes and electricity rates. The independent PAC ad is all about transgender prison inmates.",
+          "createdAt": "2026-09-01T15:34:40.583Z",
+          "uri": "at://did:plc:l3zb5xqyd7oycsq677dilqno/app.bsky.feed.post/3muhqo5ojb226",
+          "sentiment": -0.3
+        },
+        {
+          "id": "18d7b86fd980bf7c8a3f29b506314e49e5ea153c3f190547ef50bb77386f66d8",
+          "authorHandle": "deriter.bsky.social",
+          "postText": "collins in Maine is blaming high electrical cost on the libral Troy Jackson, Can you believe this bs",
+          "createdAt": "2026-09-01T15:30:15.580Z",
+          "uri": "at://did:plc:xiulgcwpsbgeqtqxgtyqmajy/app.bsky.feed.post/3muhqgax4f223",
+          "sentiment": -0.4
+        },
+        {
+          "id": "4e5791d4eeea80e7fc303df550527645cfe4b16d136168f65cc569c3558b758f",
+          "authorHandle": "tomh4.bsky.social",
+          "postText": "Great example right there of what it means to police your movement. www.npr.org/2026/07/27/n...",
+          "createdAt": "2026-09-01T15:05:19.195Z",
+          "uri": "at://did:plc:75fc7voegvi4lbqjfkd3ykei/app.bsky.feed.post/3muhoznv3v22y",
+          "sentiment": 0
+        },
         {
           "id": "1795259cf02732c786c123c5762b90017bc96176c3eac800a7b514a72a2bf3f8",
           "authorHandle": "lordcollins.bsky.social",
@@ -550,78 +623,6 @@
           "createdAt": "2026-08-31T18:21:17.750Z",
           "uri": "at://did:plc:dt2ipq6wtar7bldqi2nmwcw7/app.bsky.feed.post/3mufjj6ayq22z",
           "sentiment": 0.4391
-        },
-        {
-          "id": "158a125f7a3253ab76af18a9ce51abb0400a878bd6242259226ca5b40f64ca8c",
-          "authorHandle": "shyone2910.bsky.social",
-          "postText": "www.ms.now/connect/watc...",
-          "createdAt": "2026-08-31T17:19:13.685Z",
-          "uri": "at://did:plc:kz3kf4p5qwkrimoco2jq5poz/app.bsky.feed.post/3mufg26phl22u",
-          "sentiment": 0
-        },
-        {
-          "id": "a7ba07f8f9e7ae07c62fb3e5d9aef714e7360d2f086f3b918515c77265cd5ef9",
-          "authorHandle": "shyone2910.bsky.social",
-          "postText": "www.ms.now/news/gets-in...",
-          "createdAt": "2026-08-31T17:16:37.698Z",
-          "uri": "at://did:plc:kz3kf4p5qwkrimoco2jq5poz/app.bsky.feed.post/3muffvjx4jc2u",
-          "sentiment": 0
-        },
-        {
-          "id": "951735039d19a9bcad42044363fe2a9ca2d4b09a17df1a21b28cbc28e0253cbe",
-          "authorHandle": "flolake.bsky.social",
-          "postText": "www.ms.now/news/gets-in...",
-          "createdAt": "2026-08-31T15:57:31.516Z",
-          "uri": "at://did:plc:kdssmjrjwqqcrudzajrkdhjr/app.bsky.feed.post/3mufbi3n6522i",
-          "sentiment": 0
-        },
-        {
-          "id": "6089b3a8d9c5fb086d8c599d67331f83d6752e70dd07fc0de18404e5e549ebf6",
-          "authorHandle": "bosslaty.bsky.social",
-          "postText": "Troy Jackson was 💯 correct",
-          "createdAt": "2026-08-31T15:52:30.629Z",
-          "uri": "at://did:plc:hoxyjl5vvjqmm5woaqggrgtx/app.bsky.feed.post/3mufb74os722x",
-          "sentiment": 0
-        },
-        {
-          "id": "411ca160c7a4efd7df491c290d1ad80cf25770fb6c7a1580036b28e7e235f7d3",
-          "authorHandle": "pegnymi-geologia.bsky.social",
-          "postText": "Yep. I like the Troy Jackson advertisement with his mother. A rare political add that makes me smile.",
-          "createdAt": "2026-08-31T15:46:23.651Z",
-          "uri": "at://did:plc:hh2jn6sysy2czhpg4tbsch3z/app.bsky.feed.post/3mufau6przs2t",
-          "sentiment": 0.7351
-        },
-        {
-          "id": "640a13b192846b8226979fdab0b43407bbd98938d04fceb5d3b3b99f2311f4c5",
-          "authorHandle": "w3hnt.bsky.social",
-          "postText": "“No child should have to go to school hungry, let alone be expected to learn on an empty stomach.”\n\nMaine Senate President Troy Jackson • Testifying in Support of LD 1679, An Act To Address Student Hunger Through Expanding Access to Free School Meals • 5-20-21",
-          "createdAt": "2026-08-31T15:29:09.931Z",
-          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3muf7veuvzs2n",
-          "sentiment": 0.296
-        },
-        {
-          "id": "b7e09a905d9b4fcbda30a385e2d8c99f976d9635b76955ef9145163809402c96",
-          "authorHandle": "w3hnt.bsky.social",
-          "postText": "“No child should ever have to prove they are worthy of nutritious food, and our schools shouldn't have to go broke or jump through outrageous bureaucratic hoops just to feed them.”\n\nTestimony of Maine Senate President Troy Jackson • May 20, 2021",
-          "createdAt": "2026-08-31T15:27:52.770Z",
-          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3muf7t3c7h22n",
-          "sentiment": -0.4404
-        },
-        {
-          "id": "dbd822329cc67a48cfaef6ad2061d2479581d9cdc46e7743e190a07d267cb8db",
-          "authorHandle": "handle.invalid",
-          "postText": "",
-          "createdAt": "2026-08-31T15:25:48.000Z",
-          "uri": "at://did:plc:zsik53yacnff6rffmzahr5hy/app.bsky.feed.post/3muf7yha2txa2",
-          "sentiment": null
-        },
-        {
-          "id": "6203b33c47572e3c5a61e3b3b2e8c04383c8e1007507b61bbefad6894f03dfc6",
-          "authorHandle": "architecturenerd.bsky.social",
-          "postText": "www.ms.now/news/gets-in...",
-          "createdAt": "2026-08-31T15:15:02.748Z",
-          "uri": "at://did:plc:gszsx5qhrnwd477dmxk6sq5y/app.bsky.feed.post/3muf744wwv22g",
-          "sentiment": -0.2
         }
       ],
       "youtube": [
@@ -641,17 +642,41 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.2,
+      "overallSentiment": 0,
       "newsSentiment": null,
-      "socialSentiment": 0.2,
+      "socialSentiment": 0,
       "mentions": {
         "news": 0,
-        "social": 5,
+        "social": 7,
         "youtube": 0,
-        "total": 5
+        "total": 7
       },
       "news": [],
       "social": [
+        {
+          "id": "a451cfbaa96f5f8e61328f637ccf1faed89959e3727d834bba6da042b9dd7559",
+          "authorHandle": "debz59.bsky.social",
+          "postText": "This former governor of Maine, Paul LePage, says “ prove I’m a racist you cock sucker” as he makes very racist comments and calls them slip ups. @nbcnews.com @mainemorningstar.com @mainepublic.org @janetmillsforme.bsky.social @anguskingiii.bsky.social @pingree.house.gov \nwww.tiktok.com/t/ZTU1tMB1B/",
+          "createdAt": "2026-09-01T17:39:18.984Z",
+          "uri": "at://did:plc:nzrsvfi2fwqm2j4274albud7/app.bsky.feed.post/3muhxmzne4k2v",
+          "sentiment": 0
+        },
+        {
+          "id": "4e83c43bff2af9808383f449c370f50db39843cfc3329644cd853600c496b0ac",
+          "authorHandle": "aunt-bee567.bsky.social",
+          "postText": "www.tiktok.com/t/ZP8cLGwuG/",
+          "createdAt": "2026-09-01T17:28:02.615Z",
+          "uri": "at://did:plc:4olgegnpchsdboiuvmwzor76/app.bsky.feed.post/3muhwyulvqs2y",
+          "sentiment": 0
+        },
+        {
+          "id": "d4f1b8aaac89779e51328e686f0d719a80d1a344959f1b77b1185b695fab2d1f",
+          "authorHandle": "engelke.com",
+          "postText": "MAR - Randy Zurcher randy4georgia.com GA 1st\nAPR - Brandon Riker rikerforcongress.com CA-48\nMAY - Jordan Wood electjordan.com ME-02\nJUN - Bridget Brink bridgetbrink.com MI-07\nJUL - Peggy Flanagan peggyflanagan.com MN Senator\nAUG - Kaela Berg kaelaforcongress.com MN-02",
+          "createdAt": "2026-09-01T16:35:37.229Z",
+          "uri": "at://did:plc:adv6cw47wgoe7eei7scpo4k7/app.bsky.feed.post/3muhu35x4ks2v",
+          "sentiment": 0
+        },
         {
           "id": "10a8c5b7746135313453c81c19611caf59b765bd359bb9608ef36f74e717e3ed",
           "authorHandle": "snevels.bsky.social",
@@ -683,14 +708,6 @@
           "createdAt": "2026-08-31T23:26:53.728Z",
           "uri": "at://did:plc:n5jjv7vqs6nizsfwaa5j4x5k/app.bsky.feed.post/3mug2lmskcs2l",
           "sentiment": 0
-        },
-        {
-          "id": "14e09d808b4ce91c4062eed18d716f8a2cfe8de785bb33d60c5fcf54f4117be7",
-          "authorHandle": "andresplays.bsky.social",
-          "postText": "MR WOOD. Okay that sounds strange. Thanks so much Jordan truly! Man, you're such a gem brother and anyone who is lucky to know you can attest to it",
-          "createdAt": "2026-08-31T17:09:41.345Z",
-          "uri": "at://did:plc:rouc5cqysj4eesmlmlds2cpy/app.bsky.feed.post/3muffj4uzs22c",
-          "sentiment": 1
         }
       ],
       "youtube": [],
