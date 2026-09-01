@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T00:22:48.039Z",
+  "lastUpdated": "2026-09-01T05:25:10.418Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,40 +22,31 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.3,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": -0.3,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "407c8c7b80f30df1d05e759ee7f744c4eb4277014b1c1709ed095c5a335bd26a",
-          "authorHandle": "redhead324.bsky.social",
-          "postText": "www.maine.gov/sos/news/sec... #voting #freedomoverfear",
-          "createdAt": "2026-08-31T03:46:40.407Z",
-          "uri": "at://did:plc:i7wmxdqwkruznqebsyektcbk/app.bsky.feed.post/3mudyn7xrcs2q",
-          "sentiment": -0.3
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2413183673469388,
+      "overallSentiment": 0.22887816091954025,
       "newsSentiment": 0,
-      "socialSentiment": 0.2364551020408163,
+      "socialSentiment": 0.19913448275862064,
       "mentions": {
         "news": 3,
-        "social": 50,
+        "social": 59,
         "youtube": 32,
-        "total": 85
+        "total": 94
       },
       "news": [
         {
@@ -87,6 +78,78 @@
         }
       ],
       "social": [
+        {
+          "id": "9921b4e438e9a0bf8b9c82e9c70f61f149a047685f21c79e18c7e09d16a8e204",
+          "authorHandle": "colara1999.bsky.social",
+          "postText": "substack.com/@rawstory/no...",
+          "createdAt": "2026-09-01T02:56:39.962Z",
+          "uri": "at://did:plc:4e5aaoa2o3ixl73yl6rjilfa/app.bsky.feed.post/3muggcpyouk2j",
+          "sentiment": 0
+        },
+        {
+          "id": "7fdf3bb2163718362439f5da124eab223e9c9ac54c00963178b71565caab6290",
+          "authorHandle": "terencebegleyfl.bsky.social",
+          "postText": "He’s gone. And Susan Collins is in danger with Troy Jackson on the ballot.",
+          "createdAt": "2026-09-01T02:16:57.706Z",
+          "uri": "at://did:plc:sljr3dcw4uzlv2e3i6zstcib/app.bsky.feed.post/3muge3q3alc2z",
+          "sentiment": -0.5267
+        },
+        {
+          "id": "ba714813bc933c1c7decd0a34089d8128b2897530cf5173f3c1d848ad17e33f1",
+          "authorHandle": "imaflosser.bsky.social",
+          "postText": "#Maine Voter Alert\n\nTroy jackson",
+          "createdAt": "2026-09-01T02:07:47.050Z",
+          "uri": "at://did:plc:xxqnak6biuosjcmeg6nj65rf/app.bsky.feed.post/3mugdlcwklc2p",
+          "sentiment": 0.296
+        },
+        {
+          "id": "150bf10c6f3fc4dd7da1b2ebed6e205f287851b97f2dfa559d5ac4c58b19ff6e",
+          "authorHandle": "ecourtem.bsky.social",
+          "postText": "Rare aesthetic!",
+          "createdAt": "2026-09-01T02:04:21.368Z",
+          "uri": "at://did:plc:ephgxy2govc7kabxphofsxlj/app.bsky.feed.post/3mugdf6rp7c27",
+          "sentiment": 0
+        },
+        {
+          "id": "bbca43cfb83fd673f9d2afb50fb0117985047d5f8233cfc9419f08139e907bf0",
+          "authorHandle": "craigary.bsky.social",
+          "postText": "Listed here: www.jacksonformaine.com/events",
+          "createdAt": "2026-09-01T01:41:59.802Z",
+          "uri": "at://did:plc:fckmc43vgufeqtpzq3wcuwuy/app.bsky.feed.post/3mugc57ed6k2a",
+          "sentiment": 0
+        },
+        {
+          "id": "6ce5ee32c220dbcea8ef8a1a6783fca23fde6b7ced1ce920b76897371fe803a2",
+          "authorHandle": "davidtdorais.bsky.social",
+          "postText": "www.ms.now/news/gets-in...",
+          "createdAt": "2026-09-01T01:34:56.305Z",
+          "uri": "at://did:plc:w2jhtgd4vm4jdzjmnqioutme/app.bsky.feed.post/3mugbqli6w22y",
+          "sentiment": 0
+        },
+        {
+          "id": "64dff89a5f0d8885ef25753d3c5d8ef993b03f6bd41dd40b8333fbf60f366f8d",
+          "authorHandle": "mikhailgorbaechev.bsky.social",
+          "postText": "Anyway this is a strong argument for like, AOC/Troy Jackson or something. Just somebody whose accent makes them borderline incomprehensible.",
+          "createdAt": "2026-09-01T00:50:31.740Z",
+          "uri": "at://did:plc:hojsmix5hjm3eu42ffqdgm6j/app.bsky.feed.post/3mug7b6e4ns2l",
+          "sentiment": 0.5106
+        },
+        {
+          "id": "fc80e897eb23411d66d54101247a87885dc6a536643ef55e52b2865deef4d2f7",
+          "authorHandle": "democracymatters.bsky.social",
+          "postText": "Susan Collins stinks eight ways from Sunday. Choose Troy Jackson!\n\nEmbattled Republican Senator Blasted Over ‘Epstein Donors’\nwww.thedailybeast.com/embattled-re...\n\n#SusanCollins #Maine #ChooseTroyJackson #GOPTraitor #USPol",
+          "createdAt": "2026-09-01T00:34:32.697Z",
+          "uri": "at://did:plc:3y4deyn6kw7aehox6e52gt7l/app.bsky.feed.post/3mug6elqi7c2c",
+          "sentiment": -0.3164
+        },
+        {
+          "id": "9e842caf78d5dd422d34c1a657e120b9f43e6d891e7182b380bfc3760656d691",
+          "authorHandle": "wildwestleft.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-09-01T00:30:20.864Z",
+          "uri": "at://did:plc:cjpyji547emaghdgvcmmojyw/app.bsky.feed.post/3mug653l5k22u",
+          "sentiment": 0
+        },
         {
           "id": "2134f606885ccb6e515a5271de34329882456cb08f7ebd9f20d888e78814242a",
           "authorHandle": "painus69.bsky.social",
@@ -815,17 +878,25 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.3333333333333333,
+      "overallSentiment": 0.25,
       "newsSentiment": null,
-      "socialSentiment": 0.3333333333333333,
+      "socialSentiment": 0.25,
       "mentions": {
         "news": 0,
-        "social": 3,
+        "social": 4,
         "youtube": 0,
-        "total": 3
+        "total": 4
       },
       "news": [],
       "social": [
+        {
+          "id": "cc422dc2e843dc51eaf3a7737d0770ffb02686339988bb50da4c222068c17bb1",
+          "authorHandle": "ironweed.bsky.social",
+          "postText": "I understood! \n\nI suppose I find the John Stewart character to be a bit of a block of seething wood, and a repressed straight arrow except when he decides to fuck some random stranger (she is the Manhunter). Hal Jordan is an entertaining asshole and I am more curious about him. But just opinions.",
+          "createdAt": "2026-09-01T02:32:05.611Z",
+          "uri": "at://did:plc:x3rwpuvbcshozjzvv5ubdpuz/app.bsky.feed.post/3mugewrwzyk2r",
+          "sentiment": 0
+        },
         {
           "id": "8931d44d0c85eb100ec34e6915ef194f0c5222ae99e45b5b1839098733414c7f",
           "authorHandle": "isolationleague.org",
