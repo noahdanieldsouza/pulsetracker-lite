@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T14:58:08.805Z",
+  "lastUpdated": "2026-09-01T16:00:36.135Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,16 +22,44 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": null,
-      "newsSentiment": null,
+      "overallSentiment": -1,
+      "newsSentiment": -1,
       "socialSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 3,
         "social": 0,
         "youtube": 0,
-        "total": 0
+        "total": 3
       },
-      "news": [],
+      "news": [
+        {
+          "id": "94733292f2df2baaf741d2e1ead3e763f135363041186e2e6f6c1cc4a4241e35",
+          "title": "Susan Collins says she opposes Bobby Charles’ plan to invite ICE to Maine polls",
+          "description": "The Republican senator doesn't 'see the need' for federal agents to be at polling places, saying it would intimidate Maine voters.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/08/31/susan-collins-says-she-opposes-bobby-charles-plan-to-invite-ice-to-maine-polls/",
+          "publishedAt": "2026-08-31T19:23:32.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "3af6544ac60e4bd49d84cae36cee66a55080c2193db99502d173203f5e3655fa",
+          "title": "Susan Collins says she opposes Bobby Charles’ plan to invite ICE to Maine polls",
+          "description": "The Republican senator doesn't 'see the need' for federal agents to be at polling places, saying it would intimidate Maine voters.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/08/31/susan-collins-says-she-opposes-bobby-charles-plan-to-invite-ice-to-maine-polls/",
+          "publishedAt": "2026-08-31T19:23:32.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "1607eea098702521209748859226a6cd8dc639b0e3ff6dd43b4e6dddee95ae50",
+          "title": "Susan Collins says she opposes Bobby Charles’ plan to invite ICE to Maine polls",
+          "description": "The Republican senator doesn't 'see the need' for federal agents to be at polling places, saying it would intimidate Maine voters.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/08/31/susan-collins-says-she-opposes-bobby-charles-plan-to-invite-ice-to-maine-polls/",
+          "publishedAt": "2026-08-31T19:23:32.000Z",
+          "sentiment": -1
+        }
+      ],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -39,41 +67,86 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.23405057471264368,
-      "newsSentiment": 0,
+      "overallSentiment": 0.15071724137931033,
+      "newsSentiment": -0.25,
       "socialSentiment": 0.214651724137931,
       "mentions": {
-        "news": 3,
+        "news": 8,
         "social": 59,
         "youtube": 32,
-        "total": 94
+        "total": 99
       },
       "news": [
         {
-          "id": "fd3c09cebba70c9ce91adbcc7dd96c037d54bf2dbc89e1309770c9855322491e",
-          "title": "Can Scandals Influence Midterm Elections?",
-          "description": "They did in 2006—but only when framed by Democrats in one specific way.",
-          "sourceName": "Foreign Policy",
-          "url": "https://foreignpolicy.com/2026/08/31/scandals-midterm-elections-2006/",
-          "publishedAt": "2026-08-31T06:02:33.000Z",
+          "id": "bda8b051476058107b223481668777003312ca4884637ddf9943561ebe5e273b",
+          "title": "Troy Jackson leans into town halls as an attack on Susan Collins",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4860190628908-troy-jackson-leans-into-town-halls-as-an-attack-on-susan-collins",
+          "publishedAt": "2026-09-01T00:00:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "5280c38c4137f5b8e6885fe57f5a3f371e805ebf369a72a111accba65c93e1b3",
+          "title": "'Skirting the Rules': Staffer Says Troy Jackson Steered $13.4m Toward Son's Lobbying Client",
+          "description": "Troy Jackson, a Democratic US Senate candidate in Maine, faces scrutiny after an investigation revealed his son earned $182,500 as a lobbyist while Jackson directed taxpayer funding to his son's client.",
+          "sourceName": "International Business Times",
+          "url": "https://www.ibtimes.co.uk/maine-senate-candidate-scrutiny-son-lobbying-ties-1817112",
+          "publishedAt": "2026-08-31T22:48:45.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "baa5be8bc00107e4cca74bb2aaf1347ac449eaff069bdba69c487325cf182da0",
+          "title": "Susan Collins to skip Republican midterm convention",
+          "description": "Collins does tend to sit out extracurricular political activities as she tries, among other priorities, to protect her perfect voting attendance record.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4706939/susan-collins-skip-republican-midterm-convention/",
+          "publishedAt": "2026-08-31T21:36:58.000Z",
           "sentiment": 0
         },
         {
-          "id": "0d114fd1b4d8799a68344b1633c45fb78f922e786dc4b035c1288e5e7cd8f8e7",
-          "title": "California bill recognizing 2 Islamic holidays nears Newsom’s desk",
-          "description": "NEWYou can now listen to Fox News articles! California could soon formally recognize two of Islam’s most important holy days under legislation that would give state workers greater flexibility to take them off and allow public schools to close in observance of the holidays. The measure, which overwhelmingly passed the state Assembly and is awaiting [...] The post California bill recognizing 2 Islamic holidays nears Newsom’s desk appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/politics/california-bill-recognizing-2-islamic-holidays-nears-newsoms-desk/",
-          "publishedAt": "2026-08-31T00:25:18.000Z",
+          "id": "441c7ffbeb2927c49cbc82ec19fae967787b52a0ef520b5bf84e0ba973588fd3",
+          "title": "Trump tells Senate to confirm his FDA nominee before midterm elections",
+          "description": "President Donald Trump said he wants the Senate to prioritize confirming Dr. Heidi Overton before the 2026 elections and a possible switch of the majority.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4706841/trump-tells-senate-confirm-heidi-overton-fda-before-elections/",
+          "publishedAt": "2026-08-31T21:06:52.000Z",
           "sentiment": 0
         },
         {
-          "id": "42ae20cb32a3e42265c7a96a1103d7cb494ee26888e08911bf83025ce342f355",
-          "title": "Commentary: Don’t look now, but suddenly the U.S. Senate is in play",
-          "description": "Today we discuss political forecasting, death and taxes. Goodness! We’re just 65 days from election day. Time flies when you’re watching American democracy teeter. Still think Republicans will lose the House? Your friendly political columnist makes no predictions. It’s hard to know the future, seeing as how it hasn’t happened yet. But our best guide [...] The post Commentary: Don’t look now, but suddenly the U.S. Senate is in play appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/politics/commentary-dont-look-now-but-suddenly-the-u-s-senate-is-in-play/",
-          "publishedAt": "2026-08-30T23:47:08.000Z",
+          "id": "2f123d0cdf04986cc5f8a086791d5d13842faf98288d6446f400910deaee65a5",
+          "title": "Susan Collins says she doesn’t ‘see the need’ for ICE at polling places",
+          "description": "Republican gubernatorial nominee Bobby Charles said earlier this month that he plans to ask President Donald Trump’s border czar to send ICE agents to Maine polling places this fall.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/08/31/politics/elections/susan-collins-ice-at-maine-polling-places/",
+          "publishedAt": "2026-08-31T20:27:18.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e9fe5cac98230a645439417dbd51706d3ec9735cfa594d8bb15acb59f01413b3",
+          "title": "SMCC faculty picket for equal wages",
+          "description": "Hands-on staff make 20% less per hour than classroom faculty.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/08/31/smcc-faculty-picket-for-equal-wages/",
+          "publishedAt": "2026-08-31T17:54:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "966112ac8e0e3e7f49e68a17cb8629f0d5bc5fa05ebcbdb687357360eb3a67e0",
+          "title": "Embattled Republican Senator Blasted Over ‘Epstein Donors’",
+          "description": "Federal filings show that Susan Collins and her political committees have spent years taking money from former associates of the notorious child sex trafficker.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/embattled-republican-senator-blasted-over-epstein-donors-87239339",
+          "publishedAt": "2026-08-31T17:37:27.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "87666f27765493f281affbfde5a0a35ebd09e379e3aee8dde37ef3b276d6a0a6",
+          "title": "Embattled Republican Senator Blasted Over ‘Epstein Donors’",
+          "description": "Photo Illustration by Thomas Levinson/The Daily Beast/Getty/Reuters Republican Sen. Susan Collins has accepted millions in campaign cash from wealthy donors and powerful figures linked to Jeffrey Epstein—an awkward revelation as she fights to hold on to her Senate seat in the midterms. Federal filings show that Collins and her political committees have spent years taking money from people with ties to the notorious child sex trafficker, including Jay Lefkowitz, the lawyer who helped secure Epstein’s controversial 2008 plea deal, and Trump ally Leon Black, who paid Epstein $158 million for “tax, estate planning, and other related services.” Read more at The Daily Beast.",
+          "sourceName": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/embattled-republican-senator-susan-collins-blasted-over-epstein-donors/",
+          "publishedAt": "2026-08-31T17:03:14.000Z",
           "sentiment": 0
         }
       ],
