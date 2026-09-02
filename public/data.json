@@ -1,20 +1,84 @@
 {
-  "lastUpdated": "2026-09-02T14:05:55.559Z",
+  "lastUpdated": "2026-09-02T15:54:48.868Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
-      "newsSentiment": null,
+      "overallSentiment": 0,
+      "newsSentiment": 0,
       "socialSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 7,
         "social": 0,
         "youtube": 0,
-        "total": 0
+        "total": 7
       },
-      "news": [],
+      "news": [
+        {
+          "id": "7ed64a2731c409b5847258143b2dca2fa77131869cc9698fdf2f9be0c39e9325",
+          "title": "CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud",
+          "description": "By Brenda Goodman, Adam Cancryn, Meg Tirrell, CNN (CNN) — In a highly unusual move, the US Centers for Disease Control and Prevention is not counting two measles-associated deaths reported by the state of Pennsylvania in its measles death tally, saying it doesn’t have enough information to determine whether measles caused or contributed to the The post CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud appeared first on KRDO .",
+          "sourceName": "Krdo",
+          "url": "https://krdo.com/news/2026/09/01/cdc-isnt-counting-2-measles-related-deaths-in-pennsylvania-escalating-a-partisan-feud/",
+          "publishedAt": "2026-09-01T18:38:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f7eb134def836de0d56bb186303c2c22214b2a3c4a4ea7fe806126a48a573cce",
+          "title": "CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud",
+          "description": "By Brenda Goodman, Adam Cancryn, Meg Tirrell, CNN (CNN) — In a highly unusual move, the US Centers for Disease Control and Prevention is not counting two measles-associated deaths reported by the state of Pennsylvania in its measles death tally, saying it doesn’t have enough information to determine whether measles caused or contributed to the The post CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud appeared first on ABC17NEWS .",
+          "sourceName": "Abc 17 News",
+          "url": "https://abc17news.com/cnn-health/2026/09/01/cdc-isnt-counting-2-measles-related-deaths-in-pennsylvania-escalating-a-partisan-feud/",
+          "publishedAt": "2026-09-01T18:38:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d831ae0864ec99683d88a36289014f068a2f37c14d4cbef92d54e6305e76cfe2",
+          "title": "CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud",
+          "description": "By Brenda Goodman, Adam Cancryn, Meg Tirrell, CNN (CNN) — In a highly unusual move, the US Centers for Disease Control and Prevention is not counting two measles-associated deaths reported by the state of Pennsylvania in its measles death tally, saying it doesn’t have enough information to determine whether measles caused or contributed to the The post CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud appeared first on News Channel 3-12 .",
+          "sourceName": "News Channel 3-12",
+          "url": "https://keyt.com/health/cnn-health/2026/09/01/cdc-isnt-counting-2-measles-related-deaths-in-pennsylvania-escalating-a-partisan-feud/",
+          "publishedAt": "2026-09-01T18:38:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9cbd66877af1dee8e886bc0a759b70ca51b9ecaed12fcc74db566cae91c4c2b2",
+          "title": "CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud",
+          "description": "By Brenda Goodman, Adam Cancryn, Meg Tirrell, CNN (CNN) — In a highly unusual move, the US Centers for Disease Control and Prevention is not counting two measles-associated deaths reported by the state of Pennsylvania in its measles death tally, saying it doesn’t have enough information to determine whether measles caused or contributed to the The post CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud appeared first on KESQ .",
+          "sourceName": "Kesq",
+          "url": "https://kesq.com/health/cnn-health/2026/09/01/cdc-isnt-counting-2-measles-related-deaths-in-pennsylvania-escalating-a-partisan-feud/",
+          "publishedAt": "2026-09-01T18:38:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "21d2cbab98cc0ab56d8ae8fa6167fae8e2c21875e70b3bb7d1caa6eb6858e19d",
+          "title": "CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud",
+          "description": "In a highly unusual move, the US Centers for Disease Control and Prevention is not counting two measles-associated deaths reported by the state of Pennsylvania in its measles death tally, saying it doesn’t have enough information to determine whether measles caused or contributed to the fatalities.",
+          "sourceName": "Cnn",
+          "url": "https://www.cnn.com/2026/09/01/health/cdc-measles-deaths",
+          "publishedAt": "2026-09-01T18:38:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "981419d5bb9f978726ddb454880780d3a7f8a641f6a418c43ec7f0dc98c2f13b",
+          "title": "CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud",
+          "description": "By Brenda Goodman, Adam Cancryn, Meg Tirrell, CNN (CNN) — In a highly unusual move, the US Centers for Disease Control and Prevention is not counting two measles-associated deaths reported by the state of Pennsylvania in its measles death tally, saying it doesn’t have enough information to determine whether measles caused or contributed to the The post CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud appeared first on KTVZ .",
+          "sourceName": "Ktvz",
+          "url": "https://ktvz.com/health/cnn-health/2026/09/01/cdc-isnt-counting-2-measles-related-deaths-in-pennsylvania-escalating-a-partisan-feud/",
+          "publishedAt": "2026-09-01T18:38:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "62605aad34d03b89a991d0817daf34573d29a9f263504a56ab06b629825263f0",
+          "title": "CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud",
+          "description": "By Brenda Goodman, Adam Cancryn, Meg Tirrell, CNN (CNN) — In a highly unusual move, the US Centers for Disease Control and Prevention is not counting two measles-associated deaths reported by the state of Pennsylvania in its measles death tally, saying it doesn’t have enough information to determine whether measles caused or contributed to the The post CDC isn’t counting 2 measles-related deaths in Pennsylvania, escalating a partisan feud appeared first on KVIA .",
+          "sourceName": "Kvia",
+          "url": "https://kvia.com/health/cnn-health/2026/09/01/cdc-isnt-counting-2-measles-related-deaths-in-pennsylvania-escalating-a-partisan-feud/",
+          "publishedAt": "2026-09-01T18:38:46.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -22,44 +86,16 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0,
-      "newsSentiment": -1,
+      "overallSentiment": 1,
+      "newsSentiment": null,
       "socialSentiment": 1,
       "mentions": {
-        "news": 3,
+        "news": 0,
         "social": 1,
         "youtube": 0,
-        "total": 4
+        "total": 1
       },
-      "news": [
-        {
-          "id": "94733292f2df2baaf741d2e1ead3e763f135363041186e2e6f6c1cc4a4241e35",
-          "title": "Susan Collins says she opposes Bobby Charles’ plan to invite ICE to Maine polls",
-          "description": "The Republican senator doesn't 'see the need' for federal agents to be at polling places, saying it would intimidate Maine voters.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/08/31/susan-collins-says-she-opposes-bobby-charles-plan-to-invite-ice-to-maine-polls/",
-          "publishedAt": "2026-08-31T19:23:32.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "3af6544ac60e4bd49d84cae36cee66a55080c2193db99502d173203f5e3655fa",
-          "title": "Susan Collins says she opposes Bobby Charles’ plan to invite ICE to Maine polls",
-          "description": "The Republican senator doesn't 'see the need' for federal agents to be at polling places, saying it would intimidate Maine voters.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/31/susan-collins-says-she-opposes-bobby-charles-plan-to-invite-ice-to-maine-polls/",
-          "publishedAt": "2026-08-31T19:23:32.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "1607eea098702521209748859226a6cd8dc639b0e3ff6dd43b4e6dddee95ae50",
-          "title": "Susan Collins says she opposes Bobby Charles’ plan to invite ICE to Maine polls",
-          "description": "The Republican senator doesn't 'see the need' for federal agents to be at polling places, saying it would intimidate Maine voters.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/08/31/susan-collins-says-she-opposes-bobby-charles-plan-to-invite-ice-to-maine-polls/",
-          "publishedAt": "2026-08-31T19:23:32.000Z",
-          "sentiment": -1
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "445a241b9fa3d81c9fda22917a4ae90192be49bbddf400ba5c4c0710cd31bd97",
@@ -76,86 +112,113 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.03375432098765432,
-      "newsSentiment": -0.25,
+      "overallSentiment": 0.11708765432098765,
+      "newsSentiment": 0,
       "socialSentiment": 0.35126296296296294,
       "mentions": {
-        "news": 8,
+        "news": 11,
         "social": 55,
         "youtube": 1,
-        "total": 64
+        "total": 67
       },
       "news": [
         {
-          "id": "bda8b051476058107b223481668777003312ca4884637ddf9943561ebe5e273b",
-          "title": "Troy Jackson leans into town halls as an attack on Susan Collins",
+          "id": "6b31f6df6fb2b51f6866ff320071c99ae7b9deaa1a6f0191122978d3b5dc51f6",
+          "title": "Scoop: GOP Super PAC hits Jackson on transgender issues (Hans Nichols/Axios)",
+          "description": "Hans Nichols / Axios : Scoop: GOP Super PAC hits Jackson on transgender issues — A super PAC working to reelect Sen. Susan Collins (R-Maine) is plowing $1.1 million into an ad campaign attacking Democrat Troy Jackson for supporting state legislation that allows transgender women to be housed in women's prisons.",
+          "sourceName": "Memeorandum",
+          "url": "https://www.memeorandum.com/260901/p158",
+          "publishedAt": "2026-09-02T01:30:01.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "0e0156270bb51b6aa0d9cd54027596e2bea474e977601a7d8fa1525d7f6a0d7d",
+          "title": "GOP Super PAC Hits Jackson On Transgender Issues",
+          "description": "“A super PAC working to reelect Sen. Susan Collins (R-ME) is plowing $1.1 million into an ad campaign attacking Democrat Troy Jackson for supporting state legislation that allows transgender women to be housed in women’s prisons,” Axios reports. “The ad is the latest example of Republicans using visceral attacks on transgender policies to draw sharp [...]",
+          "sourceName": "Political Wire",
+          "url": "https://politicalwire.com/2026/09/01/gop-super-pac-hits-jackson-on-transgender-issues/",
+          "publishedAt": "2026-09-02T01:07:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "73ee9d803ff63783674496d403eb276df74d644fc961194e0dde9543ae141763",
+          "title": "Troy Jackson fires up supporters and faces questions at Lewiston town hall",
+          "description": "“I see people standing up and fighting for a better government,” Jackson said, speaking next to an empty chair he said was meant for an invited Susan Collins. “It is time for a change.”",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/09/01/politics/elections/troy-jackson-lewiston-maine-town-hall/",
+          "publishedAt": "2026-09-02T01:04:06.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "5647290f9e7e603d8c92167d54cd6732508c401b758f2733b2f740aca77771df",
+          "title": "Troy Jackson holds first town hall",
           "description": null,
           "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4860190628908-troy-jackson-leans-into-town-halls-as-an-attack-on-susan-collins",
-          "publishedAt": "2026-09-01T00:00:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "5280c38c4137f5b8e6885fe57f5a3f371e805ebf369a72a111accba65c93e1b3",
-          "title": "'Skirting the Rules': Staffer Says Troy Jackson Steered $13.4m Toward Son's Lobbying Client",
-          "description": "Troy Jackson, a Democratic US Senate candidate in Maine, faces scrutiny after an investigation revealed his son earned $182,500 as a lobbyist while Jackson directed taxpayer funding to his son's client.",
-          "sourceName": "International Business Times",
-          "url": "https://www.ibtimes.co.uk/maine-senate-candidate-scrutiny-son-lobbying-ties-1817112",
-          "publishedAt": "2026-08-31T22:48:45.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "baa5be8bc00107e4cca74bb2aaf1347ac449eaff069bdba69c487325cf182da0",
-          "title": "Susan Collins to skip Republican midterm convention",
-          "description": "Collins does tend to sit out extracurricular political activities as she tries, among other priorities, to protect her perfect voting attendance record.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4706939/susan-collins-skip-republican-midterm-convention/",
-          "publishedAt": "2026-08-31T21:36:58.000Z",
+          "url": "https://www.newsbreak.com/news-center-maine-524552/4862138720819-troy-jackson-holds-first-town-hall",
+          "publishedAt": "2026-09-02T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "441c7ffbeb2927c49cbc82ec19fae967787b52a0ef520b5bf84e0ba973588fd3",
-          "title": "Trump tells Senate to confirm his FDA nominee before midterm elections",
-          "description": "President Donald Trump said he wants the Senate to prioritize confirming Dr. Heidi Overton before the 2026 elections and a possible switch of the majority.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/white-house/4706841/trump-tells-senate-confirm-heidi-overton-fda-before-elections/",
-          "publishedAt": "2026-08-31T21:06:52.000Z",
+          "id": "cdc9cbedcf1bca01f91f839736d6cbda5b04180c61747ef5b647440594329278",
+          "title": "Troy Jackson fires up supporters and faces questions at Lewiston town hall",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4861917771587-troy-jackson-fires-up-supporters-and-faces-questions-at-lewiston-town-hall",
+          "publishedAt": "2026-09-02T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "2f123d0cdf04986cc5f8a086791d5d13842faf98288d6446f400910deaee65a5",
-          "title": "Susan Collins says she doesn’t ‘see the need’ for ICE at polling places",
-          "description": "Republican gubernatorial nominee Bobby Charles said earlier this month that he plans to ask President Donald Trump’s border czar to send ICE agents to Maine polling places this fall.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/08/31/politics/elections/susan-collins-ice-at-maine-polling-places/",
-          "publishedAt": "2026-08-31T20:27:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e9fe5cac98230a645439417dbd51706d3ec9735cfa594d8bb15acb59f01413b3",
-          "title": "SMCC faculty picket for equal wages",
-          "description": "Hands-on staff make 20% less per hour than classroom faculty.",
+          "id": "c2c49b106376939b32b0f273d71457d9c76680635b1846b680bd984cd1a16d28",
+          "title": "The time for talking about healthcare costs has long passed | Opinion",
+          "description": "The medical claim 'death spiral' is out of control. Lip service won't fix it.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/08/31/smcc-faculty-picket-for-equal-wages/",
-          "publishedAt": "2026-08-31T17:54:19.000Z",
+          "url": "https://www.pressherald.com/2026/09/01/the-time-for-talking-about-healthcare-costs-has-long-passed-opinion/",
+          "publishedAt": "2026-09-01T18:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "966112ac8e0e3e7f49e68a17cb8629f0d5bc5fa05ebcbdb687357360eb3a67e0",
-          "title": "Embattled Republican Senator Blasted Over ‘Epstein Donors’",
-          "description": "Federal filings show that Susan Collins and her political committees have spent years taking money from former associates of the notorious child sex trafficker.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/embattled-republican-senator-blasted-over-epstein-donors-87239339",
-          "publishedAt": "2026-08-31T17:37:27.000Z",
+          "id": "20454eb25ea6486bdbb4c8a696bd2ef0c011dd5b1816da34d2e6e742dc177d2d",
+          "title": "The time for talking about healthcare costs has long passed | Opinion",
+          "description": "The medical claim 'death spiral' is out of control. Lip service won't fix it.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/09/01/the-time-for-talking-about-healthcare-costs-has-long-passed-opinion/",
+          "publishedAt": "2026-09-01T18:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "87666f27765493f281affbfde5a0a35ebd09e379e3aee8dde37ef3b276d6a0a6",
-          "title": "Embattled Republican Senator Blasted Over ‘Epstein Donors’",
-          "description": "Photo Illustration by Thomas Levinson/The Daily Beast/Getty/Reuters Republican Sen. Susan Collins has accepted millions in campaign cash from wealthy donors and powerful figures linked to Jeffrey Epstein—an awkward revelation as she fights to hold on to her Senate seat in the midterms. Federal filings show that Collins and her political committees have spent years taking money from people with ties to the notorious child sex trafficker, including Jay Lefkowitz, the lawyer who helped secure Epstein’s controversial 2008 plea deal, and Trump ally Leon Black, who paid Epstein $158 million for “tax, estate planning, and other related services.” Read more at The Daily Beast.",
-          "sourceName": "The Daily Beast",
-          "url": "https://www.thedailybeast.com/embattled-republican-senator-susan-collins-blasted-over-epstein-donors/",
-          "publishedAt": "2026-08-31T17:03:14.000Z",
+          "id": "663a33adff2666b6af9907847797001e63dbac1a9d3efba68190cf0934f0219b",
+          "title": "Social Security Cuts? Republican Nominees Dancing On Political Third Rail",
+          "description": "Nearly every Senate Republican facing a tough reelection fight this year has flirted with cutting Social Security, the federal program that keeps 58 million seniors out of poverty. Polling suggests that cutting the program is deeply unpopular , which is why it is often referred to as “the third rail of electoral politics.” A recent AARP survey found that 82 percent of American adults view Social Security as “very important.” Half of those enrolled in the program say they would not survive financially if their benefits were cut. The issue reemerged last year when Treasury Secretary Scott Bessent said the White House’s tax-deferred investment accounts for newborns, known as “Trump accounts,” were a “backdoor for privatizing Social Security.” The accounts were part of the One Big Beautiful Bill Act (OBBB), which passed the House and Senate with only Republican votes. Alaska Sen. Dan Sullivan celebrated OBBB’s passage and falsely claimed that the law “doesn’t touch Social Security.” The law will cut $1 trillion from Medicaid over the next decade to fund tax breaks that primarily benefit wealthy people. Those tax breaks will create less revenue for the Social Security trust fund, speeding up the program’s insolvency. In 2014, when he was first running for the Senate, Sullivan suggested raising the retirement age and delaying Social Security benefits for future generations. He said “a younger generation of Alaskans or Americans can accept” such a change. Sullivan is seeking a third term this year. His Democratic opponent is former Alaska Rep. Mary Peltola. Florida Sen. Ashley Moody called OBBB “historic” when it passed and promised “this is just the beginning, and with President Donald Trump, we will not stop pushing forward.” Moody was also a big fan of DOGE, the White House initiative that fired 14 percent of workers at the agency responsible for administering Social Security. This led to several Social Security field offices shutting down and longer wait times for those filing claims. Moody voted against multiple budget amendments to restore this funding. More than five million of Moody’s constituents are enrolled in Social Security. She was appointed to the Senate last year to fill the seat vacated by Secretary of State Marco Rubio. She is now running for a full term against Democratic state Rep. Angie Nixon. Like Moody, Ohio Sen. Jon Husted also voted for OBBB and against reversing DOGE cuts. He then went a step further by proposing a constitutional amendment that would compel Congress to balance the federal budget. Currently, Social Security is mostly funded through payroll taxes. Those funds are held by the U.S. Treasury and disbursed to beneficiaries. Any surplus funds are invested in special Treasury bonds that are drawn on when tax revenues fall short. A balanced-budget amendment would essentially make it illegal for the federal government to spend more in a given year than it collects in revenue. If tax revenues are insufficient to fund Social Security, the government would be prohibited from drawing on the bonds to make up the shortfall. The Center on Budget and Policy Priorities says this would inevitably lead to a cut in services. The AARP says such a plan would be “devastating for millions.” Husted will face former Ohio Democratic Sen. Sherrod Brown in this year’s election. Brown co-sponsored the 2024 Social Security Fairness Act that increased benefits for public workers. Maine Sen. Susan Collins did not vote for OBBB, but she did vote to allow the legislation to be debated, clearing a key procedural hurdle and setting the stage for its eventual passage. North Dakota Sen. John Hoeven said Collins was a “team player” for doing so. Collins has cast multiple votes weakening Social Security in her 29-year career, including a 2003 vote against creating a Social Security reserve account and a 2011 vote against tabling a budget bill that proposed cutting the program. Collins is running for reelection this year against Democratic state Sen. Troy Jackson. The Democratic Senatorial Campaign Committee (DSCC) plans to make Republican hostility toward Social Security a major issue in the midterms. “In November, voters will reject Republicans’ attempts to put this critical program on the chopping block by electing a Democratic Senate majority that will stand up for seniors and protect Social Security,” says DSCC spokesperson Maeve Coyle. Reprinted with permission from American Journal News",
+          "sourceName": "The National Memo",
+          "url": "https://www.nationalmemo.com/gop-cutting-social-security-2677804222",
+          "publishedAt": "2026-09-01T16:54:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9eb4416d13a949818a5e0a2220db13bedd4df3f7bbd4ceff5102f25b8edd0c67",
+          "title": "Inside MS NOW’s new Senate race ratings",
+          "description": "The director of elections and analytics talks with Project 47 about what he’s watching before the midterms. The post Inside MS NOW’s new Senate race ratings appeared first on MS NOW .",
+          "sourceName": "Ms Now",
+          "url": "https://www.ms.now/news/news-analysis/senate-race-ratings-project-47",
+          "publishedAt": "2026-09-01T16:07:54.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "62a4de17e34b9399907537aa62b766d12196720ad346b2298ca8493f8971ac58",
+          "title": "Republican Sen. Susan Collins greets Bath Iron Works workers before dawn",
+          "description": "The local union of rank-and-file workers has yet to make a formal endorsement in the Senate race, but the national union favors her opponent, Democrat Troy Jackson.",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/republican-sen-susan-collins-greets-bath-iron-works-workers-support-maine/97-41415146-2528-4ec8-93c0-a08a311829c1",
+          "publishedAt": "2026-09-01T16:04:53.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "29951c5c79d92717c821a9cb6897a0d89fbe1c4e186bb4103ed0c59e25d2db96",
+          "title": "How To Lose An Election In 60 Days",
+          "description": "The polls say Republicans are likely going to get absolutely shellacked in the midterm elections. There are four specific reasons for that. There is also one specific reason why Democrats could totally blow it. Here is the very short story: People want normalcy. I’ve been saying this for years. In 2024, Trump was the normie ...",
+          "sourceName": "The Daily Wire",
+          "url": "https://www.dailywire.com/news/how-to-lose-an-election-in-60-days",
+          "publishedAt": "2026-09-01T16:00:10.000Z",
           "sentiment": 0
         }
       ],
