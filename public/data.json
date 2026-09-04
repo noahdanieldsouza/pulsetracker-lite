@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T19:29:23.985Z",
+  "lastUpdated": "2026-09-04T21:42:56.470Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -111,14 +111,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.0069430569430569316,
+      "overallSentiment": -0.0022410459910459832,
       "newsSentiment": -0.15384615384615385,
-      "socialSentiment": 0.3032467532467532,
+      "socialSentiment": 0.27569444444444446,
       "mentions": {
         "news": 26,
-        "social": 77,
+        "social": 72,
         "youtube": 7,
-        "total": 110
+        "total": 105
       },
       "news": [
         {
@@ -357,6 +357,46 @@
         }
       ],
       "social": [
+        {
+          "id": "90e5d8b0567f95cdc3374d20d65d7c31f68e57cdff211491b37c657c9257b1d2",
+          "authorHandle": "djblack21.bsky.social",
+          "postText": "Troy Jackson for Maine...\n\n...because ew:",
+          "createdAt": "2026-09-04T21:20:33.990Z",
+          "uri": "at://did:plc:jwmyh3wycmjqf4cav3e5iazu/app.bsky.feed.post/3mupvfg2dfk2d",
+          "sentiment": -1
+        },
+        {
+          "id": "0d5fbb6c5674cd9c7892b3e464be38f3ab4ceb5607dfae9d34561d745d55e92a",
+          "authorHandle": "moonwatcher582.bsky.social",
+          "postText": "Why are you all getting labeled with Maine accents\n\nNone of you sound like Troy Jackson I don't believe it",
+          "createdAt": "2026-09-04T20:54:15.712Z",
+          "uri": "at://did:plc:y7yzb3zal37ur4j3evzdxtvg/app.bsky.feed.post/3muptwev5bc26",
+          "sentiment": 0
+        },
+        {
+          "id": "b024049e6dd22bc23c3a3299d3a80daade7690e0e1c7797203e5485223e1bee2",
+          "authorHandle": "austinmaine.bsky.social",
+          "postText": "I tried to email Troy Jackson about the issue, but all I could find was his campaign site asking for donations. I would like to ask him his thoughts on the issue...",
+          "createdAt": "2026-09-04T20:32:43.291Z",
+          "uri": "at://did:plc:ekkminfdc3dsujukcpgsf45m/app.bsky.feed.post/3mupspudlf22k",
+          "sentiment": -0.5
+        },
+        {
+          "id": "7d529bd3df7ae29ee00b680392d2157897480bc757f8f1fc9623d99bc89687cd",
+          "authorHandle": "celtic-cat.bsky.social",
+          "postText": "Vote for Troy Jackson!",
+          "createdAt": "2026-09-04T20:26:23.198Z",
+          "uri": "at://did:plc:3mb6aszajiydhdkayr5yzrkw/app.bsky.feed.post/3mupsejtztk2k",
+          "sentiment": 1
+        },
+        {
+          "id": "022c86800dc6512b524da7bd4ff2c05fc518430627bbcd88eac6c3c9e4858653",
+          "authorHandle": "ghostofwillrogers.bsky.social",
+          "postText": "Susan Collins has been pretty quick to condemn Troy Jackson for standing by Graham Platner during his run.\nThat's pretty damn rich coming from someone who stands by a convicted felon, who isn't allowed to run any NY charity after robbing one, and had to pay 5.8 million  for sexual assault.",
+          "createdAt": "2026-09-04T20:17:06.862Z",
+          "uri": "at://did:plc:ejjnfpvbqr2vf2ffwvrsaw2c/app.bsky.feed.post/3muprtxc4uk2r",
+          "sentiment": 0
+        },
         {
           "id": "5e15e2aa827985f1357f48efc40d95c855257106f2f92c1f92eff843b37584c9",
           "authorHandle": "mboxer.bsky.social",
@@ -892,86 +932,6 @@
           "createdAt": "2026-09-03T21:46:08.622Z",
           "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mungebsz5c2r",
           "sentiment": 1
-        },
-        {
-          "id": "8bfafe9fe815b2321ce88740fbcfeb5ce9c5b4105bb34471a035a24fa992eca1",
-          "authorHandle": "glennvotesblue.bsky.social",
-          "postText": "youtube.com/shorts/H9l_l...\nThank you @troyjackson207.bsky.social",
-          "createdAt": "2026-09-03T21:25:31.736Z",
-          "uri": "at://did:plc:gr26jvoror4ihzhuhheckekx/app.bsky.feed.post/3munf7ek5vs2m",
-          "sentiment": 1
-        },
-        {
-          "id": "b292e7705ec991aad19913bb50e6cdf4b51a1eaedd21084c11fa8bb4d0baab78",
-          "authorHandle": "mrsdarcy52.bsky.social",
-          "postText": "www.yahoo.com/news/politic...\n\nSusan, thank you for speaking up. You should more worried about the entire south sleeping with their sisters. Trump raped children. He raped children. Can you hear me in the back. You really should look into your own party.",
-          "createdAt": "2026-09-03T21:04:39.662Z",
-          "uri": "at://did:plc:adedfvlc3hczdiq22zbhc6vn/app.bsky.feed.post/3mune22hyd22p",
-          "sentiment": 0
-        },
-        {
-          "id": "b1a74651c6912117167111213ee89a8e32cf8c15596ae9744546717c44e427e8",
-          "authorHandle": "capitolhillaccess.bsky.social",
-          "postText": "WinSenate spends $523,902 to OPPOSE Dan Sullivan (Sen AK Sen)(R)\n\n#AKSen,\n\n$994,444 to OPPOSE Ashley Hinson Arenholz (Sen IA Sen)(R),\n\n$50,000 to SUPPORT Josh Turek (Sen IA Sen)(D),\n\n$2,182,474 to OPPOSE Susan Collins (Sen ME Sen)(R),\n\n$50,000 to SUPPORT Troy Jackson (Sen ME Sen)(D),...",
-          "createdAt": "2026-09-03T21:03:54.122Z",
-          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mundyqshui2k",
-          "sentiment": 1
-        },
-        {
-          "id": "63a26c7391e71220728eafd2cc4cef23b659c6ebe89165a23e8cb0a2c0a1e570",
-          "authorHandle": "manchester18.bsky.social",
-          "postText": "Mainers will not be bought\n\nTroy Jackson\n\nMy race is I close because Collins is rich, & her friends are richer.\n\n. 97 billionaires have written checks supporting Collins’ reelection. There are only about 1,000 billionaires in the country\n\nSo ~ 1 in 10 American billionaires want Collins re-elected",
-          "createdAt": "2026-09-03T20:59:41.859Z",
-          "uri": "at://did:plc:lhd7ffzgqgt7fn3jrqsiakhs/app.bsky.feed.post/3mundr6hl7s2m",
-          "sentiment": 1
-        },
-        {
-          "id": "db972a7fe870bae087bea717ce2806f1bba6053f1d9d594854d717c7985cf303",
-          "authorHandle": "erikgehring.bsky.social",
-          "postText": "Just donated to @troyjackson207.bsky.social, Democratic candidate for Senator from Maine, so we can un-elect the perpetually concerned yet always capitulating incumbent Susan Collins, and hopefully save our democracy from going down the tubes. You can donate too at www.jacksonformaine.com.",
-          "createdAt": "2026-09-03T20:55:38.462Z",
-          "uri": "at://did:plc:jbdr2bw2fbievyvv65myzupk/app.bsky.feed.post/3mundjwdpss2v",
-          "sentiment": 1
-        },
-        {
-          "id": "a56a7660cff6a5391355f3707fec9138ea589e67b43cf3da43b922314cf065f0",
-          "authorHandle": "digitusimpudicus1.bsky.social",
-          "postText": "NEW Abacus #Maine Senate Poll: \nSusan Collins: 46% \nTroy Jackson: 45%\n\nIt didn't have to be this way. Maine had a candidate in #JanetMills who beat Trump's pet hog Paul LePage, and told #Trump to his face she'd see him court. Which she did, and won. \nEat shit for ever and a day, #GrahamPlatner",
-          "createdAt": "2026-09-03T20:49:59.037Z",
-          "uri": "at://did:plc:gpvzzbbiqtg3tcg4j3hb7pgo/app.bsky.feed.post/3mund7snfyk23",
-          "sentiment": 1
-        },
-        {
-          "id": "ba459bd927ebd18f6f93314f8f8390f0d47bade4e30867c356f3823a4a4f6135",
-          "authorHandle": "collinswatch.bsky.social",
-          "postText": "Susan Collins and her racist friend working hand in glove. #MEpolitics",
-          "createdAt": "2026-09-03T20:39:05.818Z",
-          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3muncmdoxnk2t",
-          "sentiment": 0
-        },
-        {
-          "id": "69d1f52ceebd899e12befd16a7a3f45c349635b58e6113169483792529b663ae",
-          "authorHandle": "every-topps-card.bsky.social",
-          "postText": "⚾️ slides pack.....rips wax ⚾️",
-          "createdAt": "2026-09-03T19:43:49.148195+00:00",
-          "uri": "at://did:plc:6b3oty3s6sp6kwn6iv3uqvmy/app.bsky.feed.post/3mun7jj5xjd2y",
-          "sentiment": -1
-        },
-        {
-          "id": "114f305bca8b826cdf12ddb372a879170b3bc816640bb85144691b05f4ff4aa8",
-          "authorHandle": "blossy06.bsky.social",
-          "postText": "www.dailykos.com/stories/2026...",
-          "createdAt": "2026-09-03T19:36:23.791Z",
-          "uri": "at://did:plc:lin3x4uilveiuirbnpihnm2w/app.bsky.feed.post/3mun747wmhk2w",
-          "sentiment": 0
-        },
-        {
-          "id": "7c3f27afa6d823e73547b80e4801673b6a83d31d41722df14426edd74c8cc381",
-          "authorHandle": "jimlo-hi.bsky.social",
-          "postText": "Read \"Collins lights up internet with response to Dem challenger fathering children with relative: ‘Stone cold’\" on SmartNews: l.smartnews.com/p-8qsA0sdq/y...",
-          "createdAt": "2026-09-03T19:35:16.808Z",
-          "uri": "at://did:plc:ecpaxm553okgh65ountlauen/app.bsky.feed.post/3mun72a2ie22s",
-          "sentiment": -1
         }
       ],
       "youtube": [
