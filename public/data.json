@@ -1,39 +1,20 @@
 {
-  "lastUpdated": "2026-09-05T12:56:18.685Z",
+  "lastUpdated": "2026-09-05T14:30:31.194Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.5,
-      "newsSentiment": -0.5,
+      "overallSentiment": null,
+      "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
-        "news": 2,
+        "news": 0,
         "social": 0,
         "youtube": 0,
-        "total": 2
+        "total": 0
       },
-      "news": [
-        {
-          "id": "3cc11b1e49291820d0b4ca22268b276e925989d620c1bcb4756a61b0990416a2",
-          "title": "New CDC director erases 2 measles deaths from the record",
-          "description": "Two unvaccinated Lancaster County residents died of measles in August, but the CDC is saying that they died “with” the disease rather than “of” it, the same lie used to justify mass COVID-19 deaths.",
-          "sourceName": "World Socialist Web Site",
-          "url": "https://www.wsws.org/en/articles/2026/09/04/esve-s04.html",
-          "publishedAt": "2026-09-04T03:20:32.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "da0e5ac79552fa530edc690334063134c2578ef600db184f59e6aa5d2b6e8964",
-          "title": "AI-adaptable security platforms are critical for autonomous decision-making",
-          "description": "F5’s Nivah Shah explains why a comprehensive application delivery and security platform is critical for enterprises scaling up AI automation. The post AI-adaptable security platforms are critical for autonomous decision-making appeared first on CyberScoop .",
-          "sourceName": "Cyberscoop",
-          "url": "https://cyberscoop.com/video/ai-adaptable-security-platforms-are-critical-for-autonomous-decision-making/",
-          "publishedAt": "2026-09-03T18:30:00.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -41,41 +22,32 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.03333333333333333,
-      "newsSentiment": -0.06666666666666667,
+      "overallSentiment": 0,
+      "newsSentiment": 0,
       "socialSentiment": 0,
       "mentions": {
-        "news": 3,
+        "news": 2,
         "social": 1,
         "youtube": 0,
-        "total": 4
+        "total": 3
       },
       "news": [
         {
-          "id": "489e1ad68ae11ed758c5b0afdf3b0d27f2f3b831f8a50c63ee749ca99b5dbc5d",
-          "title": "Bellows says election will proceed as usual, despite legal battle over Trump’s mail-in voting order",
-          "description": "Despite the ongoing legal battle over President Donald Trump’s efforts to restrict voting by mail, Maine Secretary of State Shenna Bellows reiterated Thursday that for voters in Maine and across the country, nothing has changed. Bellows and other election officials are arguing that Trump’s executive order placing new restrictions on mail-in voting would present massive [...] The post Bellows says election will proceed as usual, despite legal battle over Trump’s mail-in voting order appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/bellows-says-election-will-proceed-as-usual-despite-legal-battle-over-trumps-mail-in-voting-order/",
-          "publishedAt": "2026-09-03T23:15:13.000Z",
-          "sentiment": -0.1
+          "id": "673d9641cf232435145442c92e9672a9b72bf3669340c54c02b076fb7d2a159e",
+          "title": "Election experts see few legal options for Trump to meddle with polling places",
+          "description": "President Donald Trump said earlier this year he'd \"do anything necessary to make sure we have honest elections\" this fall, declining to rule out sending the National Guard or federal law",
+          "sourceName": "Chronline",
+          "url": "https://www.chronline.com/stories/election-experts-see-few-legal-options-for-trump-to-meddle-with-polling-places,407612",
+          "publishedAt": "2026-09-04T16:42:12.000Z",
+          "sentiment": 0
         },
         {
-          "id": "708628ccff0db7951353e48ea1aaa687848a38ee171d96231939bd369cbf806c",
-          "title": "Bellows says election will proceed as usual, despite legal battle over Trump’s mail-in voting order",
-          "description": "Despite the ongoing legal battle over President Donald Trump’s efforts to restrict voting by mail, Maine Secretary of State Shenna Bellows reiterated Thursda...",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/articles/bellows-says-election-proceed-usual-224831147.html",
-          "publishedAt": "2026-09-03T22:48:31.000Z",
-          "sentiment": -0.1
-        },
-        {
-          "id": "47773e3a6d84574ef4ef09dd2dd31932e5bcbd3ed62888512efb0c667f139e51",
-          "title": "Trump Administration Withholds $39.6M Election Security Funds Congress Mandated in April",
-          "description": "Election security funding 2026: Congress allocated $39.6 million for cybersecurity at state and local election offices, but DHS has not distributed the mandated funds eight weeks before November midterms. Sen. Alex Padilla and Rep. Joseph Morelle demand action as foreign adversaries escalate attacks and CISA election security programs remain dismantled.",
-          "sourceName": "Techtimes",
-          "url": "https://www.techtimes.com/articles/326483/20260903/trump-administration-withholds-396m-election-security-funds-congress-mandated-april.htm",
-          "publishedAt": "2026-09-03T16:03:24.000Z",
+          "id": "51c41f7c155b2f6a709377499957c7ca0db74ed121b7f6bf3864741011c63b03",
+          "title": "Election experts see few legal options for Trump to meddle with polling places",
+          "description": "President Donald Trump said earlier this year he'd \"do anything necessary to make sure we have honest elections\" this fall, declining to rule out sending the National Guard or federal law",
+          "sourceName": "Nisqually Valley News",
+          "url": "https://www.yelmonline.com/stories/election-experts-see-few-legal-options-for-trump-to-meddle-with-polling-places,407612",
+          "publishedAt": "2026-09-04T16:42:12.000Z",
           "sentiment": 0
         }
       ],
@@ -95,249 +67,105 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.016231773602741344,
-      "newsSentiment": -0.15384615384615385,
+      "overallSentiment": -0.03248617511520737,
+      "newsSentiment": -0.3,
       "socialSentiment": 0.33111290322580644,
       "mentions": {
-        "news": 26,
+        "news": 10,
         "social": 62,
         "youtube": 7,
-        "total": 95
+        "total": 79
       },
       "news": [
         {
-          "id": "ec5c9b0703e370f7e60fa6d2da35fba5e8ff21d83bf25305ea1dec77bf07f209",
-          "title": "Musk super PAC wades into US midterms with $800,000 for Republicans in close races",
-          "description": "NEW YORK, Sept 3 (Reuters) - SpaceX founder Elon Musk ⁠has spent more than $800,000 in recent days on over a dozen key congressional races through his super PAC, funding direct-mail and other campaign materials ⁠for Republican candidates who face close races in the midterm elections.",
-          "sourceName": "The Star",
-          "url": "https://www.thestar.com.my/news/world/2026/09/04/musk-super-pac-wades-into-us-midterms-with-800000-for-republicans-in-close-races",
-          "publishedAt": "2026-09-04T03:26:00.000Z",
-          "sentiment": 0
+          "id": "fe730669f014514e0c4251121f2377f5e262745f9aaa64fcfbddd4e7dd709798",
+          "title": "Insurrection for Real",
+          "description": "“The Democrat agenda is to legalize crime and criminalize the middle class.” —Stephen Miller Not to put too fine a point on it: but whenever a lawfare ninja of the Democratic Party utters the phrase “our democracy,” you must know that they are completely full of shit. For sure, they do not mean anything remotely related to an American commonweal, as understood by people of sound mind and good faith. What they mean by “our democracy” is the state as a racketeering operation run for the sole benefit of their party members, along with the ruthless power to annihilate their...",
+          "sourceName": "Freerepublic",
+          "url": "https://freerepublic.com/focus/f-news/4394293/posts",
+          "publishedAt": "2026-09-05T01:36:56.000Z",
+          "sentiment": -1
         },
         {
-          "id": "06a38cdba6cfb77267385079e91643a388e04df3889ee588c26acc8c2ec83162",
-          "title": "Musk super PAC wades into US midterms with $800,000 for Republicans in close races",
-          "description": "By Dawn Kopecki NEW YORK, Sept 3 (Reuters) - SpaceX founder Elon Musk has spent more than $800,000 in recent days on over a dozen key congressional races through his super PAC, funding direct-mail and",
-          "sourceName": "Theprint Hindi",
-          "url": "https://theprint.in/world/musk-super-pac-wades-into-us-midterms-with-800000-for-republicans-in-close-races/3033326/",
-          "publishedAt": "2026-09-04T02:30:03.000Z",
-          "sentiment": 0
+          "id": "9948dbd81893e7b84a1f8454ef2e9b27cbde0a15e339696e1127ea6071120ead",
+          "title": "Maine Republicans criticize Troy Jackson over rising solar program costs, campaign defends record",
+          "description": "Legislative republicans held a press conference in Brewer Friday morning to condemn Troy Jackson’s energy policies from his tenure as senate president.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/09/04/maine-republicans-criticize-troy-jackson-over-rising-solar-program-costs-campaign-defends-record/",
+          "publishedAt": "2026-09-04T23:46:49.000Z",
+          "sentiment": -1
         },
         {
-          "id": "88c27b4fa0b25b73e713c7cf18f2b47b8f7bbddc06b173ff309bf043421bd585",
-          "title": "Musk super PAC wades into US midterms with $800,000 for Republicans in close races",
-          "description": "SpaceX founder Elon Musk has spent more than $800,000 in recent days on over a ​dozen key congressional races through his super PAC, funding direct-mail and other campaign materials for Republican candidates who face close races in the ‌midterm elections.",
-          "sourceName": "Reuters",
-          "url": "https://www.reuters.com/world/us/musk-super-pac-wades-into-us-midterms-with-800000-republicans-close-races-2026-09-04/",
-          "publishedAt": "2026-09-04T02:26:09.000Z",
-          "sentiment": 0
+          "id": "7038cc348a70000a4dd8c3b9aa0dc8555e9b4879fe79d40d83f0eca004ce0e99",
+          "title": "Insurrection For Real",
+          "description": "Insurrection For Real Authored by James Howard Kunstler via Clusterfuck Nation , \"The Democrat agenda is to legalize crime and criminalize the middle class.\" - Stephen Miller Not to put too fine a point on it: but whenever a lawfare ninja of the Democratic Party utters the phrase \"our democracy,\" you must know that they are completely full of shit. For sure, they do not mean anything remotely related to an American commonweal, as understood by people of sound mind and good faith. What they mean by \"our democracy\" is the state as a racketeering operation run for the sole benefit of their party members , along with the ruthless power to annihilate their opponents and critics. Norm Eisen, Democratic Party Lawfare Ninja Supreme The war-cry \"our democracy\" only signifies how degenerate they have become. Though they yearn to win control of Congress in these midterm elections by any means necessary, the party's actual prospects are not so great, having nominated a pack of obvious morons and reprobates such as Abdul el-Sayed (MI), James Talarico (TX), Angie Nixon (FL), Troy Jackson (ME), and Peggy Flanagan (MN) for the US Senate. Now, it appears that President Donald Trump is determined to clean up our fraud-ridden election process this year, one way or another. Hopes are nearly dead for Congress passing a comprehensive election reform law, the SAVE Act, so he has looked to other measures. One is a procedure for the US Postal Service to match and track mail-in ballots to real persons with actual addresses listed on state voter rolls. The matter is still working through courts. The DOJ's Civil Rights Division has pledged to send about 1000 election monitors to polling places around the country as \"observers,\" which could obviate arrant shenanigans like the broken toilet ploy in Fulton County, GA, 2020. Mr. Trump could go further, as discussed here recently, and declare a National Security Executive Order with more exacting rules such as requiring proof of citizenship and photo ID at the polls, and reporting election results no later than the day following the election. The Democratic Party is fighting desperately to prevent any changes to current procedure with so much room for fraud. The effort is led by chief lawfare ninja Norm Eisen, who is associated with several activist NGOs: the States United Democracy Center (founder); State Democracy Defenders PAC; Citizens for Responsibility and Ethics in Washington (CREW); the Brookings Institution; plus his own pro bono litigation practice, Norma Eisen PLLC. Eisen enjoys many millions of dollars in backing that have enabled him to file hundreds of court cases against Trump administration actions, including the recent suits against the US Postal Service mail-in ballot plan. His own NGOs are backed by hundreds of other NGOs both here and globally, many of which have been involved in color revolutions in foreign countries. Eisen himself has played a part in many episodes of the long-running color revolution here in the USA, including RussiaGate, the 2020 fake impeachment, and the Jan-6 House Committee. All that could be described in totality as a seditious coup attempt - and it's all currently under investigation by several federal grand juries. Likewise, lawfare ninja Marc Elias, who operates his election activities through Democracy Docket (founder); the Free election Fund; the Democracy Forward Foundation (board chair); We the Action; plus his own firm, the Elias Law Group. He was formerly a lawyer with the DC law firm Perkins Coie, through which he served as general counsel to the Hillary Clinton campaign in 2016. He shepherded the Steele Dossier into the Intel apparatus and around the news media. All that is a prelude to a disturbing roll-out of events that anyone paying attention can see coming this fall. The Democratic Party has massive resources not just to stall and obstruct pre-election reform, but to mount a vicious resistance after the fact if it doesn't produce their desired result. They could go as far as to repudiate the election, refuse to accept its results. If the president does issue that NatSec EO prior to the election, blue state officials could refuse to hold elections under new rules. Thirty states have already refused to comply with DOJ demands to submit their official voter rolls for evaluation. Some of the aforementioned activist NGOs have promised post-election street actions (demonstrations that could easily turn into riots). In the face of that, you can foresee the necessity of the president having to invoke the Insurrection Act of 1878 (10 U.S.C. §§ 251-255). The act provides an exception to the Posse Commitatus Act, also 1878, which forbids the use of the US military to act as police inside the USA. Under the Insurrection Act, the president can federalize states' national guard units to enforce federal law or protect constitutional rights when ordinary civilian means are not enough. The Act has been used before in our history about thirty times by fifteen presidents , including the Great Railway Strike of 1877 (Pres. Hayes); the Pullman Strike of 1894 (Pres. Cleveland); the Little Rock School Desegregation resistance of 1957 (Pres. Eisenhower sent in the 82nd Airborne). Pres. Lyndon Johnson invoked it three times: the Selma to Montgomery March of 1965; the Detroit riots of 1967; and the riots that followed the Assassination of Martin Luther King, 1968. Pres. George H. W. Bush used it in 1994 to quell the Rodney King Riots in Los Angeles. If Mr. Trump invokes the Insurrection Act around any violence or organized election rebellion this year, he will invite the Democrats to label him an autocrat, a tyrant, a wannabe king, as they have been taunting him and goading him with for years. Let's suppose that will be enough to inflame the party's activists. I think you can see how this lays the groundwork for something that looks like a new civil war. The repudiation of election results by blue states would be enough. Know this: it won't work. It will result in charges of sedition and many Democratic officials will be arrested and charged, probably some governors. It will be a really ugly episode in our history, but we'll get through it. Of course, it will be the end of the Democratic Party. Tyler Durden Fri, 09/04/2026 - 16:20",
+          "sourceName": "Zerohedge",
+          "url": "https://www.zerohedge.com/political/insurrection-real",
+          "publishedAt": "2026-09-04T20:20:00.000Z",
+          "sentiment": -1
         },
         {
-          "id": "19a132ee27201a44a0e48892f10a372d939323cb6d594393a0a3d4e86331e1b6",
-          "title": "Elon Musk’s super PAC wades into US midterms with more than $1m for Republicans in close races",
-          "description": "The PAC spent the most money in Texas, where SpaceX is headquartered with multiple rocket and Starlink facilities.",
-          "sourceName": "Straitstimes",
-          "url": "https://www.straitstimes.com/world/united-states/musk-super-pac-wades-into-us-midterms-with-800000-for-republicans-in-close-races",
-          "publishedAt": "2026-09-04T02:21:19.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b09058963a3090f636d42ded28db3c383c094d06c8bfcdbb5400af2d98e16e4a",
-          "title": "Musk super PAC wades into US midterms with $800,000 for Republicans in close races",
-          "description": "NEW YORK, Sept 3 - SpaceX founder Elon Musk has spent more than $800,000 in recent days on over a dozen key congressional races through his super PAC, funding direct-mail and other campaign materials for Republican candidates who face close races in the midterm elections.",
-          "sourceName": "Straitstimes",
-          "url": "https://www.straitstimes.com/world/musk-super-pac-wades-into-us-midterms-with-800000-for-republicans-in-close-races",
-          "publishedAt": "2026-09-04T02:21:19.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1991cf7cafb82b7efc2291072fc421d97728047dff061804d58dd3023cc1acca",
-          "title": "Musk super PAC wades into US midterms with $800,000 for Republicans in close races",
-          "description": "By Dawn Kopecki NEW YORK, Sept 3 (Reuters) - SpaceX founder Elon Musk has spent more than $800,000 in recent days on over a dozen key congressional races through his super PAC, funding direct-mail and",
-          "sourceName": "Lufkindailynews",
-          "url": "https://lufkindailynews.com/news_reuters/national/musk-super-pac-wades-into-us-midterms-with-800-000-for-republicans-in-close-races/article_ea76403a-d450-5f7e-abf8-4238638bcc8e.html",
-          "publishedAt": "2026-09-04T02:19:58.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5e0a6b1192f68f6ea846c1d5f91194a08a1abd46e31989b3ad13b8a6fb884b94",
-          "title": "Musk super PAC wades into US midterms with $800,000 for Republicans in close races",
-          "description": "By Dawn Kopecki NEW YORK, Sept 3 (Reuters) - SpaceX founder Elon Musk has spent more than $800,000 in recent days on over a dozen key congressional races through his super PAC, funding direct-mail and",
+          "id": "6bd8ab005ff4cad4b11a947f54792bdd6ef636ab5380cdf9d1e4f3c5b76ed551",
+          "title": "With under 60 days until the midterms, there is still plenty of time to change the entire political map",
+          "description": "ANALYSIS: The Iran war, Elon Musk’s cash and who decides to spend money in Texas could all be curve balls this cycle, Eric Garcia writes",
           "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/musk-super-pac-wades-us-021958131.html",
-          "publishedAt": "2026-09-04T02:19:58.000Z",
+          "url": "https://ca.news.yahoo.com/under-60-days-until-midterms-181310579.html",
+          "publishedAt": "2026-09-04T18:13:10.000Z",
           "sentiment": 0
         },
         {
-          "id": "9dd651c16e904e32fae4bc11477f65e85b902d18faf401b7d951f0a57b99d1d9",
-          "title": "Musk super PAC wades into US midterms with $800,000 for Republicans in close races",
-          "description": "SpaceX founder Elon Musk has spent more than 800000 in recent days on over a dozen key congressional races through his super PAC funding direct-mail and other campaign materials for Republican candidates who face close races in the midterm elections",
-          "sourceName": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3972386-musk-super-pac-wades-into-us-midterms-with-800000-for-republicans-in-close-races",
-          "publishedAt": "2026-09-04T02:18:35.000Z",
+          "id": "abe598b675559ac5fbec679dbb5f0a3dcb44d4fb5e40a0cbbb1ce8b42d61c0d3",
+          "title": "With under 60 days until the midterms, there is still plenty of time to change the entire political map",
+          "description": "The Iran war, Elon Musk’s cash and who decides to spend money in Texas could all be curve balls this cycle, Eric Garcia writes",
+          "sourceName": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/midterms-elections-countdown-2026-analysis-b3044875.html",
+          "publishedAt": "2026-09-04T18:13:10.000Z",
           "sentiment": 0
         },
         {
-          "id": "237438deb36494d88d278c8d1a68a57071249ccb852fe1ff2c2b954e75a1abd4",
-          "title": "Elon Musk’s America PAC spends over $800,000 to boost Republicans in key Senate races",
-          "description": "Elon Musk's America PAC spent over $800,000 on Republican candidates recently. This funding supported campaign materials for close midterm election races. Texas Attorney General Ken Paxton received significant financial backing from the PAC. Senator Susan Collins and Senator Jon Husted also benefited from this spending. The PAC's actions aim to...",
-          "sourceName": "Inkl",
-          "url": "https://www.inkl.com/news/elon-musks-america-pac-spends-over-800-000-to-boost-republicans-in-key-senate-races",
-          "publishedAt": "2026-09-04T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "139ec0665a3dc9103d655e138676e269dfaff9f6d3a9034b1ed5cbe755a88393",
-          "title": "Troy Jackson holds second town hall in Gorham",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news-center-maine-524552/4866156921377-troy-jackson-holds-second-town-hall-in-gorham",
-          "publishedAt": "2026-09-04T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8524e3c81fe133166abad7f75488c917e8e6f2caced6b593e012a2865fae2764",
-          "title": "Senate candidate Troy Jackson receives endorsement from Planned Parenthood",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news-center-maine-524552/4866136057610-senate-candidate-troy-jackson-receives-endorsement-from-planned-parenthood",
-          "publishedAt": "2026-09-04T00:00:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "e9385def007e97dddb8aa6ef588ea85831b59e669b2584d2ef297a2d9895491f",
-          "title": "Thursday, September 3rd, 2026: Troy Jackson holds first town halls; York voters to consider banning Flock cameras",
-          "description": "This Day in Maine for Thursday, September 3rd, 2026.",
+          "id": "d9d61b9d2b9b6f1fb230fe20923936d4687807220fde4a3487448d4ae4c847bc",
+          "title": "Elon Musk's super PAC begins electioneering for Susan Collins",
+          "description": "The $170,000 outlay by Musk's America PAC is relatively modest in the context of the $120 million it's expected to spend on midterm races across the country.",
           "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/podcast/this-day-in-maine/2026-09-03/thursday-september-3rd-2026-troy-jackson-holds-first-town-halls-york-voters-to-consider-banning-flock-cameras",
-          "publishedAt": "2026-09-03T22:07:40.000Z",
+          "url": "https://www.mainepublic.org/politics/2026-09-04/elon-musks-super-pac-begins-electioneering-for-susan-collins",
+          "publishedAt": "2026-09-04T17:46:55.000Z",
           "sentiment": 0
         },
         {
-          "id": "cf3d9b03d17aa47926924363cfa98933c9f7edb6a84a6c48a17124fb282c0f4b",
-          "title": "Elon Musk’s political machine begins spending to help Susan Collins",
-          "description": "The spending, disclosed in a federal filing this week, marks the first concrete sign of money flowing into Maine from the world’s richest man.",
+          "id": "09b3108a06092ab8f679b93ff4b987f33d6e86a64ed014a652a850689ea974ca",
+          "title": "Troy Jackson agrees to 4 October debates against Susan Collins",
+          "description": "Collins campaign hit back at the former Allagash logger for not agreeing to a debate next week.",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/03/politics/elections/elon-musk-spending-to-help-susan-collins/",
-          "publishedAt": "2026-09-03T21:48:16.000Z",
+          "url": "https://www.bangordailynews.com/2026/09/04/politics/elections/maine-election-senate-2026-troy-jackson-susan-collins-october-debates/",
+          "publishedAt": "2026-09-04T16:05:59.000Z",
           "sentiment": 0
         },
         {
-          "id": "489309e7259e3c025321e0245a79b0138401f00a6b45581429d20de795fd0aa5",
-          "title": "Thursday, Sept. 3, 2026: Jackson vs. Cicero in the Maine Senate race",
-          "description": "This week, we focus on the Maine U.S. Senate race. Of course. The contest has dominated the political scene for more than a year.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/podcast/maines-political-pulse/2026-09-03/thursday-sept-3-2026-jackson-vs-cicero-in-the-maine-senate-race",
-          "publishedAt": "2026-09-03T21:26:36.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6604773274b38923823dc12081f9bafcc0e40212941ad79aad0d01fcbd72cc8a",
-          "title": "Susan Collins Confronted About Elon Musk Donation: ‘I Wasn’t Aware of That’",
-          "description": "Sen. Susan Collins (R-ME) said Thursday she was unaware that Elon Musk had poured money into supporting her reelection campaign through his super PAC. The post Susan Collins Confronted About Elon Musk Donation: ‘I Wasn’t Aware of That’ first appeared on Mediaite .",
-          "sourceName": "Mediaite",
-          "url": "https://www.mediaite.com/politics/susan-collins-confronted-about-elon-musk-donation-i-wasnt-aware-of-that/",
-          "publishedAt": "2026-09-03T21:24:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c73138b297affc3987043d3d8dcdaaf3523194223c656759f181b65f975acabb",
-          "title": "Susan Collins doesn’t rule out another Senate run if she wins in November",
-          "description": "In April, Collins’ team walked back on a comment she made to a News Center Maine reporter suggesting she would retire after a sixth term.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/03/politics/elections/susan-collins-doesnt-rule-out-senate-race-if-wins/",
-          "publishedAt": "2026-09-03T21:17:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1abf646bb3d98d3542fa916ac62910e2afc9d7bc17b4c8f308d98cbd211f541a",
-          "title": "Susan Collins launches 1st attack ads in reelection campaign for Senate",
-          "description": "Maine's senior senator also poked at Troy Jackson's personal life in a new interview with Politico.",
+          "id": "1ea7a39dc821cf246bf695451134efa8173ec3e7549cf445ff1056cf44c01948",
+          "title": "Troy Jackson agrees to 4 debates against Susan Collins in Maine Senate race",
+          "description": "The candidates have been going back and forth over the last week about the timing and format of the debates.",
           "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/09/03/susan-collins-launches-1st-attack-ads-in-reelection-campaign-for-senate/",
-          "publishedAt": "2026-09-03T20:39:22.000Z",
-          "sentiment": -1
+          "url": "https://www.centralmaine.com/2026/09/04/troy-jackson-agrees-to-4-debates-against-susan-collins-in-maine-senate-race/",
+          "publishedAt": "2026-09-04T15:23:48.000Z",
+          "sentiment": 0
         },
         {
-          "id": "f0cd61353c6abe2551711ee02ff1b5dc36b87db1fb6785600d615da1c5a7f7f5",
-          "title": "Susan Collins launches 1st attack ads in reelection campaign for Senate",
-          "description": "Maine's senior senator also poked at Troy Jackson's personal life in a new interview with Politico.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/09/03/susan-collins-launches-1st-attack-ads-in-reelection-campaign-for-senate/",
-          "publishedAt": "2026-09-03T20:39:22.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "d0074e49aebcec3859d6faf2f1d35c32e7f2679fb87d1516c7f3ea4c10e2e044",
-          "title": "Susan Collins launches 1st attack ads in reelection campaign for Senate",
-          "description": "Maine's senior senator also poked at Troy Jackson's personal life in a new interview with Politico.",
+          "id": "2c06f223c876f28336ef54c81591912b3d8d64f57081f9df41f41863b4754e27",
+          "title": "Troy Jackson agrees to 4 debates against Susan Collins in Maine Senate race",
+          "description": "The candidates have been going back and forth over the last week about the timing and format of the debates.",
           "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/09/03/susan-collins-launches-1st-attack-ads-in-reelection-campaign-for-senate/",
-          "publishedAt": "2026-09-03T20:39:22.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "3d0c53cb7e7f2cff14b3015b02f313a5d7aff69c2225391a07894ab0e52860f6",
-          "title": "JD Vance Drops a Truth Bomb About What's REALLY at Stake (Dems Will Be Furious Because It's True)",
-          "description": "As everybody knows, the Democrats like to project everything they are guilty of doing onto the Republicans.The Dems replaced Joe...",
-          "sourceName": "Twitchy",
-          "url": "https://twitchy.com/dougp/2026/09/03/jd-vance-tells-wh-press-what-the-midterms-are-really-about-dems-will-be-furious-because-its-true-n2431972",
-          "publishedAt": "2026-09-03T19:40:48.000Z",
+          "url": "https://www.sunjournal.com/2026/09/04/troy-jackson-agrees-to-4-debates-against-susan-collins-in-maine-senate-race/",
+          "publishedAt": "2026-09-04T15:23:48.000Z",
           "sentiment": 0
         },
         {
-          "id": "ed19d629edf80b29464df015249aa70e9253c68ff381ebe97d2e375e2caaad4f",
-          "title": "Elon Musk’s Midterms Play: Ken Paxton, Susan Collins, Socialist Scaremongering",
-          "description": "The almost-trillionaire is expected to spend upward of $100 million boosting Republicans in 2026.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/elon-musk-s-midterms-play-ken-paxton-susan-collins-87372794",
-          "publishedAt": "2026-09-03T19:36:49.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c3face69268991975c4b61ed3506587de5538abe5c65a4db28233dd4b2f8efd9",
-          "title": "Troy Jackson should be worrying about the young voter | Steve Collins",
-          "description": "Jackson’s older supporters seem motivated. To win in November, he's going to have to cast a wider net.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/09/03/troy-jackson-should-be-worrying-about-the-young-voter-steve-collins/",
-          "publishedAt": "2026-09-03T18:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cb2a10a09b19695d6de3a847e9478924034a80e0970ea936641a020fd46f5bba",
-          "title": "Troy Jackson should be worrying about the young voter | Steve Collins",
-          "description": "Jackson’s older supporters seem motivated. To win in November, he's going to have to cast a wider net.",
+          "id": "71a81f7b9b11377b900a457e0852c8d8b49945030a892f64e1239afed3f38e32",
+          "title": "Troy Jackson agrees to 4 debates against Susan Collins in Maine Senate race",
+          "description": "The candidates have been going back and forth over the last week about the timing and format of the debates.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/09/03/troy-jackson-should-be-worrying-about-the-young-voter-steve-collins/",
-          "publishedAt": "2026-09-03T18:00:00.000Z",
+          "url": "https://www.pressherald.com/2026/09/04/troy-jackson-agrees-to-4-debates-against-susan-collins-in-maine-senate-race/",
+          "publishedAt": "2026-09-04T15:23:48.000Z",
           "sentiment": 0
-        },
-        {
-          "id": "2127d2240549a6ae088ce9d7ed4a07cef7d6857cd043e8234198ec7e221cacbe",
-          "title": "Elderly GOP senator reveals worrying health symptoms after refusing to disclose condition",
-          "description": "Susan Collins, a Republican from Maine, revealed that she suffers from a \"common\" medical condition and but claimed it does not affect how she does her job",
-          "sourceName": "The Mirror Us",
-          "url": "https://www.themirror.com/news/politics/elderly-gop-senator-reveals-worrying-2009582",
-          "publishedAt": "2026-09-03T17:30:42.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2f4d5759430e0d7bcbff406aebb98cebeade70feadce4134e159918905a23aa9",
-          "title": "Susan Collins breaks the internet with quip about Dem challenger Troy Jackson’s romance with his second cousin",
-          "description": "Maine Sen. Susan Collins set social media ablaze for her reaction to Democrat Troy Jackson having two children with his second cousin and apparent partner.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/susan-collins-breaks-the-internet-with-quip-about-dem-87366342",
-          "publishedAt": "2026-09-03T16:07:38.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "781f49ac404d5fe9f67f443af0701135a03445d4eccca9533ec97bb781d02837",
-          "title": "Susan Collins breaks the internet with quip about Dem challenger Troy Jackson’s romance with his second cousin",
-          "description": "Maine Sen. Susan Collins set social media ablaze for her reaction to Democrat Troy Jackson having two children with his second cousin and apparent partner.",
-          "sourceName": "New York Post",
-          "url": "https://nypost.com/2026/09/03/us-news/susan-collins-breaks-the-internet-with-quip-about-dem-challenger-troy-jacksons-romance-with-his-second-cousin/",
-          "publishedAt": "2026-09-03T15:47:36.000Z",
-          "sentiment": -1
         }
       ],
       "social": [
