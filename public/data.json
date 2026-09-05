@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T14:30:31.194Z",
+  "lastUpdated": "2026-09-05T15:25:49.373Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -67,14 +67,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.03248617511520737,
+      "overallSentiment": 0.002037634408602144,
       "newsSentiment": -0.3,
       "socialSentiment": 0.33111290322580644,
       "mentions": {
         "news": 10,
         "social": 62,
-        "youtube": 7,
-        "total": 79
+        "youtube": 4,
+        "total": 76
       },
       "news": [
         {
@@ -668,89 +668,59 @@
       ],
       "youtube": [
         {
-          "id": "1e2caa54596b1e722b24dc17549e59747284282564ac0cdcded960955a6269de",
-          "authorName": "@kipsned",
-          "commentText": "Let’s send Susan home for,good . Go Troy",
-          "publishedAt": "2026-09-04T16:14:40Z",
-          "videoId": "hqHg01pf0y0",
-          "videoTitle": "My Story.",
-          "commentId": "Ugy0L28KdXtXNHShh2d4AaABAg",
+          "id": "45111511848c3d8887a0bfa0d120e5665c768987064c97d9f0d52bd6bbec4c45",
+          "authorName": "@scpoe81178",
+          "commentText": "King Jackson no one voted for you.",
+          "publishedAt": "2026-09-05T10:05:01Z",
+          "videoId": "6cBiLwPCEEs",
+          "videoTitle": "PolitiFact says Jackson is being misleading about Collins&#39; voting record on Trump tariffs",
+          "commentId": "UgxdQYM1kAGrBdUqgPt4AaABAg",
+          "sentiment": -0.8
+        },
+        {
+          "id": "b8b0735e1bb7a464b70ff587d5889a1bb21c92752d351628ec591bc330239f15",
+          "authorName": "@troutfisher7182",
+          "commentText": "Jackson is going to win",
+          "publishedAt": "2026-09-05T04:28:07Z",
+          "videoId": "mSibh-dXxEs",
+          "videoTitle": "Can Jackson Beat Collins?",
+          "commentId": "UgwL-Q8XhMf-zMHLW6V4AaABAg",
+          "sentiment": 0.7
+        },
+        {
+          "id": "b7a35292da3d07ade1365e39e7ace4bca6d0162f9f7c780bb6321c53d13c1208",
+          "authorName": "@FrancesLonergan",
+          "commentText": "What a wonderful candidate! If I were a Mainer… Troy would get my vote!!",
+          "publishedAt": "2026-09-04T20:41:46Z",
+          "videoId": "TgqQZfXyA0M",
+          "videoTitle": "&#39;He&#39;s Hurting Our State&#39;: Troy Jackson Unloads On Trump Over Tariffs, Then Torches Collins |Midterms",
+          "commentId": "UgwwuCj9EBzfvRyRGOd4AaABAg",
           "sentiment": 0.9
         },
         {
-          "id": "637287a1009bfbfeea08e5b81aec6709fa54b2ac214e4f37a9ea8630a105c581",
-          "authorName": "@MonicaOutdoors",
-          "commentText": "Keep up the good work, Troy. Susan is becoming “very concerned”. 🗳️👍",
-          "publishedAt": "2026-09-04T13:04:54Z",
-          "videoId": "JIhxKYJl4z8",
-          "videoTitle": "Thank you, Gorham!",
-          "commentId": "UgyxcGD0OBbFo62kzJJ4AaABAg",
-          "sentiment": 0.9
-        },
-        {
-          "id": "b4955ac2bfb4d8c6e81825b936519889cf77017e0e74589b7dddcf8438ec4d54",
-          "authorName": "@scpoe81178",
-          "commentText": "Baby killers for Jackson.",
-          "publishedAt": "2026-09-04T11:16:29Z",
-          "videoId": "mkosZnC1XiI",
-          "videoTitle": "Senate candidate Troy Jackson receives endorsement from Planned Parenthood",
-          "commentId": "UgwNHdZ2VR7loD5yLzR4AaABAg",
-          "sentiment": -1
-        },
-        {
-          "id": "920c9e58b343a7f956eb4b64ed8939ff79b0887dac7347c163bc7a0e78e8d7ac",
-          "authorName": "@scpoe81178",
-          "commentText": "No one voted for you King Jackson.",
-          "publishedAt": "2026-09-04T11:04:59Z",
-          "videoId": "frg3V1vOFr0",
-          "videoTitle": "Troy Jackson holds second town hall in Gorham",
-          "commentId": "UgxaZ0J_1W1T2Fb_wN14AaABAg",
+          "id": "161b58aceda84cba1436a938ae6f944c8d0c91866583f0ccb2a40bd9f518b8c4",
+          "authorName": "@raymondduckworth1743",
+          "commentText": "Jackson piss off",
+          "publishedAt": "2026-09-04T18:48:41Z",
+          "videoId": "AIH-z9Pm8_A",
+          "videoTitle": "ICE agent who shot Guerrero should be arrested, Jackson says",
+          "commentId": "UgwiTe5QTVhpslTOpm54AaABAg",
           "sentiment": -0.9
-        },
-        {
-          "id": "8e18b5c3be41cc30cf58ea91a1539efc39757e7d3c53f6014c7547b528c8c522",
-          "authorName": "@janeshipley6993",
-          "commentText": "tell it, troy!",
-          "publishedAt": "2026-09-04T07:02:34Z",
-          "videoId": "CxR-cqRzGU8",
-          "videoTitle": "My response to JD saying Mainers should have some “perspective&quot; on ICE murdering a young father",
-          "commentId": "UgwyzZLoXZxWGvW2jZF4AaABAg",
-          "sentiment": 0.8
-        },
-        {
-          "id": "e8b59b09613ccc9968cff2fe4bf22da0b8ef491bd9badf44c57afc2357f48c38",
-          "authorName": "@redmaninmaine",
-          "commentText": "Jackson who attacks women, make it make sense",
-          "publishedAt": "2026-09-04T04:58:53Z",
-          "videoId": "mkosZnC1XiI",
-          "videoTitle": "Senate candidate Troy Jackson receives endorsement from Planned Parenthood",
-          "commentId": "UgzO-up4_RLvxQKPquZ4AaABAg",
-          "sentiment": -0.9
-        },
-        {
-          "id": "5bd10e59079a9c0c3f11ea1eda87724c5755c4d32b6418d1454199414ca0a183",
-          "authorName": "@pfunkera29",
-          "commentText": "I hope Troy Jackson loses but this is kind of a weak attack. Is having kids with your second cousin weird? Sure. But I&#39;m pretty sure it&#39;s legal.<br><br>That said, she should say &quot;I&#39;m not going to talk about it&quot; and then talk about it at every campaign stop lol.",
-          "publishedAt": "2026-09-03T18:26:23Z",
-          "videoId": "shIcDF71zxA",
-          "videoTitle": "‘His SECOND COUSIN’: Susan Collins TAKES SHOT at Troy Jackson’s past RELATIONSHIP | RISING",
-          "commentId": "UgyguMFzOxoO7lvlXhh4AaABAg",
-          "sentiment": -0.7
         }
       ],
-      "youtubeSentiment": -0.12857142857142856
+      "youtubeSentiment": -0.025000000000000022
     },
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0,
+      "overallSentiment": -0.45,
       "newsSentiment": null,
       "socialSentiment": 0,
       "mentions": {
         "news": 0,
         "social": 1,
-        "youtube": 0,
-        "total": 1
+        "youtube": 1,
+        "total": 2
       },
       "news": [],
       "social": [
@@ -763,8 +733,19 @@
           "sentiment": 0
         }
       ],
-      "youtube": [],
-      "youtubeSentiment": null
+      "youtube": [
+        {
+          "id": "eeeef8ddaa43d18b9a9ec52dadda6ae653c3d44f1a8417e5fb6bdc0406aa1272",
+          "authorName": "@ms_strom",
+          "commentText": "jordan is the most basic and boring person to watch, the way she talks makes me fall asleep",
+          "publishedAt": "2026-09-04T15:56:22Z",
+          "videoId": "Tr1f1RjCgi8",
+          "videoTitle": "Inside Jordyn Woods&#39; Bridal Hair &amp; Makeup Trial for Her Wedding to Karl-Anthony Towns | Allure",
+          "commentId": "UgzwG-UiFjQuk_H0d-F4AaABAg",
+          "sentiment": -0.9
+        }
+      ],
+      "youtubeSentiment": -0.9
     }
   ]
 }
