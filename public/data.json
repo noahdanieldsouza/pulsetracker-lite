@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T16:25:58.442Z",
+  "lastUpdated": "2026-09-06T18:30:19.678Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -32,26 +32,43 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": null,
+      "overallSentiment": 0.128,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": 0.128,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 2,
         "youtube": 0,
-        "total": 0
+        "total": 2
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "03f6082b726eb6d00be8a65f90b0b1672a4cd2ca86e98e271ab7f758667775f3",
+          "authorHandle": "japalian7.bsky.social",
+          "postText": "",
+          "createdAt": "2026-09-06T17:13:55.741Z",
+          "uri": "at://did:plc:mjjrxux22qylnkwy2cdtaagl/app.bsky.feed.post/3muuikcgbas2x",
+          "sentiment": null
+        },
+        {
+          "id": "aac13b0b066274edbb940a7d2d4488c797a0ab6b86c14accbddec79ffed3672e",
+          "authorHandle": "iamashleystearns.bsky.social",
+          "postText": "I'll never get over Garland not arresting & prosecuting him & fake 'blue' state election officials, like MA's Bill Galvin, letting him on the 2024 ballot.\n\nAnybody know what that brave ME Sec'y of State that fought to keep Trump off the ballot, Shenna Bellows, is doing? 🤔 she might even b pro-choice",
+          "createdAt": "2026-09-06T16:54:48.708Z",
+          "uri": "at://did:plc:4bengsysx6ci3pzjqpvplxqo/app.bsky.feed.post/3muuhi2efxs2i",
+          "sentiment": 0.128
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.183132022084196,
+      "overallSentiment": 0.18464439775910366,
       "newsSentiment": 0.32857142857142857,
-      "socialSentiment": 0.09582463768115941,
+      "socialSentiment": 0.10036176470588236,
       "mentions": {
         "news": 7,
         "social": 69,
@@ -124,6 +141,38 @@
         }
       ],
       "social": [
+        {
+          "id": "1ed34b57ecd2d858dad0949a0a9283159a8eba165c0de3edd5d714dd71d20e60",
+          "authorHandle": "celiebug.bsky.social",
+          "postText": "youtube.com/shorts/hqHg0...\nTroy Jackson - Maine candidate running against Susan Collin's.",
+          "createdAt": "2026-09-06T17:57:13.957Z",
+          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3muukxo4eoc2m",
+          "sentiment": 0
+        },
+        {
+          "id": "112d2cb1f0f900c0c004113b6be56d7dcadbde971ac259835a2160365a7a8435",
+          "authorHandle": "capitolhillaccess.bsky.social",
+          "postText": "WinSenate spends $198,604 to OPPOSE Ashley Hinson Arenholz (Sen IA Sen)(R)\n\n#IASen,\n\n$12,651 to SUPPORT Troy Jackson (Sen ME Sen)(D),\n\n$5,548 to OPPOSE Susan Collins (Sen ME Sen)(R),\n\nand $1,008,832 to OPPOSE Jon Husted (Sen OH Sen)(R).\r\n\r\n2026 Cycle FEC Data:...",
+          "createdAt": "2026-09-06T17:26:00.091Z",
+          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3muuj7uzzfy2z",
+          "sentiment": 0.5319
+        },
+        {
+          "id": "ab1c7720e0e605ff68fd457dd729216387e2ad762cb69756068e5e3d76ccc048",
+          "authorHandle": "cohven.bsky.social",
+          "postText": "an old post revisited, because the price stopped sitting still.\n\nthe side is Troy Jackson (D) Yes\nthe market is Maine Senate Election Winner — Troy Jackson (D)\n\nup 6.7% in 2 days, from 65.1c to 69.5c.",
+          "createdAt": "2026-09-06T17:21:45.634456366Z",
+          "uri": "at://did:plc:qtmjd77zvc25npndujawzjka/app.bsky.feed.post/3muuiybxdlf2n",
+          "sentiment": 0.6808
+        },
+        {
+          "id": "b47c69298ac9641f6769bdb806028e2cda55738f6de2a6dafc7102f93fe29b64",
+          "authorHandle": "japalian7.bsky.social",
+          "postText": "",
+          "createdAt": "2026-09-06T17:13:55.741Z",
+          "uri": "at://did:plc:mjjrxux22qylnkwy2cdtaagl/app.bsky.feed.post/3muuikcgbas2x",
+          "sentiment": null
+        },
         {
           "id": "102447f9e2cebbe4c69154ec8a53006aabf083dac5d182ea6f968fd7210af483",
           "authorHandle": "banmarnj.bsky.social",
@@ -235,14 +284,6 @@
           "createdAt": "2026-09-06T14:28:06.120Z",
           "uri": "at://did:plc:7ieuivba33l2us5hyuwoybpr/app.bsky.feed.post/3muu7bpl2fc2y",
           "sentiment": 0.8
-        },
-        {
-          "id": "6bbb9bf255dabaaa0da9e9522d238f9f4676795dc1167409ba1abcee5949ac2c",
-          "authorHandle": "billinportland.bsky.social",
-          "postText": "Susan Collins is going to romp to a win because no one has the guts to take the gloves off. The language being used against her is light as a snowflake. (And apparently written by one.)\n\nBut Troy Jackson is being smothered in ads as \"just another dirty politician\" who threw a water bottle at a lady.",
-          "createdAt": "2026-09-06T14:16:15.054Z",
-          "uri": "at://did:plc:lykn2tcxxpqj5duvxj2gvynu/app.bsky.feed.post/3muu6mjgqac2k",
-          "sentiment": -0.5
         },
         {
           "id": "b284158a2192d450ec8d6a000497e7cca727e944157f167168e24f6e4f48ec2b",
@@ -651,30 +692,6 @@
           "createdAt": "2026-09-05T18:48:45.699Z",
           "uri": "at://did:plc:pzjtvxys5y6tuedzi6lauqpw/app.bsky.feed.post/3mus5ev63xs2h",
           "sentiment": 0.9
-        },
-        {
-          "id": "cad093b9094dd7880d752deebaff9021958a135a85af2a96ef6fccbf64499893",
-          "authorHandle": "andrewlevesque.bsky.social",
-          "postText": "punchbowl.news/article/camp...\nThe spot features Democratic nominee Troy Jackson speaking at a podium about his life story. It has some choice words about Collins….",
-          "createdAt": "2026-09-05T17:51:49.388Z",
-          "uri": "at://did:plc:vbljassbrgzig2nauh6mg5g6/app.bsky.feed.post/3mus2734nos2d",
-          "sentiment": 0.1
-        },
-        {
-          "id": "a7d395ca4f4f562ef8b65ba14a615bb75b17068d973e7ec657e3dcefbcbfe7cb",
-          "authorHandle": "gojira65.bsky.social",
-          "postText": "This clip should be run up in Maine ins support of Troy Jackson.",
-          "createdAt": "2026-09-05T17:45:15.032Z",
-          "uri": "at://did:plc:wsrmnn6sg4l5u7pzaijgbct6/app.bsky.feed.post/3murztczri22d",
-          "sentiment": 0.6
-        },
-        {
-          "id": "a7952d579706ad976b67c840c219ed9fc0d983507e42509b7321ed23fd330795",
-          "authorHandle": "melindajean.bsky.social",
-          "postText": "To support Troy Jackson who’s looking to unseat always concerned Susan Collins who never does anything other than being concerned: www.jacksonformaine.com",
-          "createdAt": "2026-09-05T17:00:36.686Z",
-          "uri": "at://did:plc:5exigvibv3kkrgknahggva2c/app.bsky.feed.post/3murxdir57k2f",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
