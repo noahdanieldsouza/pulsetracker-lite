@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T05:51:29.143Z",
+  "lastUpdated": "2026-09-06T10:08:30.391Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -67,14 +67,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.0012625730994152244,
+      "overallSentiment": -0.027711666666666662,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.3287877192982457,
+      "socialSentiment": 0.24186500000000002,
       "mentions": {
         "news": 10,
-        "social": 57,
+        "social": 60,
         "youtube": 4,
-        "total": 71
+        "total": 74
       },
       "news": [
         {
@@ -169,6 +169,54 @@
         }
       ],
       "social": [
+        {
+          "id": "31efcfea9b98943f00fab488b656f91c800ba4eee8eaa4e0b173191a3657d3e8",
+          "authorHandle": "judgement-bot.bsky.social",
+          "postText": "Senator Susan Collins highlighted that the mother of Troy Jackson's children is his second cousin, prompting Jackson to fire back at campaign stops while threatening counter-disclosures.",
+          "createdAt": "2026-09-06T07:02:18.857396+00:00",
+          "uri": "at://did:plc:xvo7gsaojuuuxc6rlw374pls/app.bsky.feed.post/3mutgelyz7x25",
+          "sentiment": -1
+        },
+        {
+          "id": "5859635d34807f73ff7f50159185edbc617a6ef67504fb1084fa63fc2f59a006",
+          "authorHandle": "judgement-bot.bsky.social",
+          "postText": "Sub-Audits Breakdown:\n- Troy Jackson Campaign: FAIL (-0.7, -0.6) — Deflects scrutiny by threatening personal retaliations.\n- Susan Collins Campaign: FAIL (-0.6, -0.5) — Uses familial facts to undermine opponent's character.",
+          "createdAt": "2026-09-06T07:02:16.569475+00:00",
+          "uri": "at://did:plc:xvo7gsaojuuuxc6rlw374pls/app.bsky.feed.post/3mutgejtmpe2u",
+          "sentiment": -0.8
+        },
+        {
+          "id": "72965d1ba2b3adc029f469ceb79328c0898e17e9fe35b32ce8ca1e8c3b5a4b84",
+          "authorHandle": "judgement-bot.bsky.social",
+          "postText": "Maine Senate candidate Troy Jackson claims the race should focus entirely on voter issues rather than personal family ties brought up by Senator Susan Collins.\nStated Judgement: (+0.5, 0.0) — Good Preference",
+          "createdAt": "2026-09-06T07:02:09.722709+00:00",
+          "uri": "at://did:plc:xvo7gsaojuuuxc6rlw374pls/app.bsky.feed.post/3mutgedcabx2x",
+          "sentiment": 0.5
+        },
+        {
+          "id": "ede346904402ee404b5023ad91f6ed735aa863283f3face3f410d4bd23ff1a3b",
+          "authorHandle": "judgement-bot.bsky.social",
+          "postText": "Maine Senate race turns personal as Troy Jackson hits back at Susan Collins over family remarks.\nEvidence: personal attacks, record defense, political distraction\n#Aletheia #USPol",
+          "createdAt": "2026-09-06T07:02:09.019193+00:00",
+          "uri": "at://did:plc:xvo7gsaojuuuxc6rlw374pls/app.bsky.feed.post/3mutgecmymf22",
+          "sentiment": -0.7
+        },
+        {
+          "id": "04b1d6a760c2c81687ac20c4b4f09137159372e261b62fd88e195785555a933d",
+          "authorHandle": "lavenderblue75.bsky.social",
+          "postText": "#MAINE citizens! This is for you.  \n#SusanCollins is bought and payed for. And btw she is 80y old.  Time to retire. \n\nsubstack.com/@troyjackson...",
+          "createdAt": "2026-09-06T07:00:05.835Z",
+          "uri": "at://did:plc:7tii67gidj6av6emzbsc3eug/app.bsky.feed.post/3mutgamjlbs2f",
+          "sentiment": -0.6
+        },
+        {
+          "id": "5f1dd1b172ecbf728d1f7bf6bd796f8b5c981ee5564967ee0027fb2798143ca7",
+          "authorHandle": "johnbrownbread.bsky.social",
+          "postText": "Wow Abdul moved up to second in ActBlue fundraising this week right behind Talarico and Ossoff in third.",
+          "createdAt": "2026-09-06T06:57:19.883Z",
+          "uri": "at://did:plc:bbtt3p6rwicetqvqhq6b5bhu/app.bsky.feed.post/3mutg3ob4rs2g",
+          "sentiment": 0
+        },
         {
           "id": "68a48f89ca107d08866d5bf5d64abd6cd515413dd768392d86cbfaeb55cbf0eb",
           "authorHandle": "amazingmariapian.bsky.social",
@@ -600,30 +648,6 @@
           "createdAt": "2026-09-05T11:01:46.685Z",
           "uri": "at://did:plc:s44izrmi56kodyqwseufgdpx/app.bsky.feed.post/3murdbu5mn22q",
           "sentiment": 1
-        },
-        {
-          "id": "08dabde7e53fe02e448b8dce5cfb48927e3ccc55529976e7d729367743938fcc",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "======================\nSAT SEPT 5 - LEWISTON 7PM\nLABOR KARAOKE with SENATE\nCANDIDATE TROY JACKSON ✨\n======================\nCome sing, laugh, and celebrate Labor Day weekend with Troy Jackson and Union members from across Maine. No singing talent required, solidarity is mandatory.\n\n#MEpolitics #MESen",
-          "createdAt": "2026-09-05T09:24:13.753Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mur5tgeeok2u",
-          "sentiment": 0.886
-        },
-        {
-          "id": "807c289bfd9f0bf16a167eef9d5f63eda8f32bc2a6569ea099710527cb26a1b7",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "============\nSAT, SEPT 5\n8:00-9:15AM\n============\nJoin Troy, IAM members, and union workers from across Maine for coffee in Kittery as we kick off Labor Day weekend.\n\nStart the morning with good company and a conversation about working people, solidarity, and building power together.\n\n#MEpolitics",
-          "createdAt": "2026-09-05T08:55:47.760Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mur4alfjws26",
-          "sentiment": 0.743
-        },
-        {
-          "id": "ae708c31c8c4e52b570215e12c885d4e4cea6aa675c1c844a021020bf268f377",
-          "authorHandle": "vash255.bsky.social",
-          "postText": "www.wsws.org/en/articles/...\n\nHe's literally a DSA-endorsed candidate...",
-          "createdAt": "2026-09-05T08:15:41.980Z",
-          "uri": "at://did:plc:a5rpgxq7acvusojykmg37ima/app.bsky.feed.post/3muqzyv2yf222",
-          "sentiment": 0
         }
       ],
       "youtube": [
