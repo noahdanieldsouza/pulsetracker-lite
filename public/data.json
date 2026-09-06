@@ -1,10 +1,37 @@
 {
-  "lastUpdated": "2026-09-06T13:39:57.592Z",
+  "lastUpdated": "2026-09-06T14:52:21.464Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
+      "overallSentiment": 0,
+      "newsSentiment": 0,
+      "socialSentiment": null,
+      "mentions": {
+        "news": 1,
+        "social": 0,
+        "youtube": 0,
+        "total": 1
+      },
+      "news": [
+        {
+          "id": "05beabf757d7f2ff5f223a7e0f5cc803b7cab34ea238f95395f06bda458264d6",
+          "title": "‘We’ve been around so many fires’ and other sparkling quotes from the week",
+          "description": "Quotes of the week ending on Sept. 5, 2026, including quotes from news stories related to North Texas wildfires, the GOP midterm convention and others.",
+          "sourceName": "Dallas News",
+          "url": "https://www.dallasnews.com/opinion/commentary/article/quotes-of-the-week-sept-5-22416622.php",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "sentiment": 0
+        }
+      ],
+      "social": [],
+      "youtube": [],
+      "youtubeSentiment": null
+    },
+    {
+      "id": "shenna-bellows",
+      "name": "Shenna Bellows",
       "overallSentiment": null,
       "newsSentiment": null,
       "socialSentiment": null,
@@ -20,143 +47,80 @@
       "youtubeSentiment": null
     },
     {
-      "id": "shenna-bellows",
-      "name": "Shenna Bellows",
-      "overallSentiment": 0,
-      "newsSentiment": 0,
-      "socialSentiment": null,
-      "mentions": {
-        "news": 2,
-        "social": 0,
-        "youtube": 0,
-        "total": 2
-      },
-      "news": [
-        {
-          "id": "673d9641cf232435145442c92e9672a9b72bf3669340c54c02b076fb7d2a159e",
-          "title": "Election experts see few legal options for Trump to meddle with polling places",
-          "description": "President Donald Trump said earlier this year he'd \"do anything necessary to make sure we have honest elections\" this fall, declining to rule out sending the National Guard or federal law",
-          "sourceName": "Chronline",
-          "url": "https://www.chronline.com/stories/election-experts-see-few-legal-options-for-trump-to-meddle-with-polling-places,407612",
-          "publishedAt": "2026-09-04T16:42:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "51c41f7c155b2f6a709377499957c7ca0db74ed121b7f6bf3864741011c63b03",
-          "title": "Election experts see few legal options for Trump to meddle with polling places",
-          "description": "President Donald Trump said earlier this year he'd \"do anything necessary to make sure we have honest elections\" this fall, declining to rule out sending the National Guard or federal law",
-          "sourceName": "Nisqually Valley News",
-          "url": "https://www.yelmonline.com/stories/election-experts-see-few-legal-options-for-trump-to-meddle-with-polling-places,407612",
-          "publishedAt": "2026-09-04T16:42:12.000Z",
-          "sentiment": 0
-        }
-      ],
-      "social": [],
-      "youtube": [],
-      "youtubeSentiment": null
-    },
-    {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.05289887005649718,
-      "newsSentiment": -0.3,
+      "overallSentiment": 0.15662493946731235,
+      "newsSentiment": 0.32857142857142857,
       "socialSentiment": 0.16630338983050846,
       "mentions": {
-        "news": 10,
+        "news": 7,
         "social": 59,
         "youtube": 4,
-        "total": 73
+        "total": 70
       },
       "news": [
         {
-          "id": "fe730669f014514e0c4251121f2377f5e262745f9aaa64fcfbddd4e7dd709798",
-          "title": "Insurrection for Real",
-          "description": "“The Democrat agenda is to legalize crime and criminalize the middle class.” —Stephen Miller Not to put too fine a point on it: but whenever a lawfare ninja of the Democratic Party utters the phrase “our democracy,” you must know that they are completely full of shit. For sure, they do not mean anything remotely related to an American commonweal, as understood by people of sound mind and good faith. What they mean by “our democracy” is the state as a racketeering operation run for the sole benefit of their party members, along with the ruthless power to annihilate their...",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-news/4394293/posts",
-          "publishedAt": "2026-09-05T01:36:56.000Z",
-          "sentiment": -1
+          "id": "0a2b34b55c64127269e22404227ddd19f185228d126825391f634aaf13473be9",
+          "title": "Troy Jackson fires back at Susan Collins over relationship comment",
+          "description": "\"I wouldn't be trying to defend my record if I was her, too,\" Maine Democratic Senate candidate Troy Jackson said at a campaign event on Saturday,",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4715181/troy-jackson-susan-collins-cousin-relationship-comment/",
+          "publishedAt": "2026-09-05T23:34:21.000Z",
+          "sentiment": 0.6
         },
         {
-          "id": "9948dbd81893e7b84a1f8454ef2e9b27cbde0a15e339696e1127ea6071120ead",
-          "title": "Maine Republicans criticize Troy Jackson over rising solar program costs, campaign defends record",
-          "description": "Legislative republicans held a press conference in Brewer Friday morning to condemn Troy Jackson’s energy policies from his tenure as senate president.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/09/04/maine-republicans-criticize-troy-jackson-over-rising-solar-program-costs-campaign-defends-record/",
-          "publishedAt": "2026-09-04T23:46:49.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "7038cc348a70000a4dd8c3b9aa0dc8555e9b4879fe79d40d83f0eca004ce0e99",
-          "title": "Insurrection For Real",
-          "description": "Insurrection For Real Authored by James Howard Kunstler via Clusterfuck Nation , \"The Democrat agenda is to legalize crime and criminalize the middle class.\" - Stephen Miller Not to put too fine a point on it: but whenever a lawfare ninja of the Democratic Party utters the phrase \"our democracy,\" you must know that they are completely full of shit. For sure, they do not mean anything remotely related to an American commonweal, as understood by people of sound mind and good faith. What they mean by \"our democracy\" is the state as a racketeering operation run for the sole benefit of their party members , along with the ruthless power to annihilate their opponents and critics. Norm Eisen, Democratic Party Lawfare Ninja Supreme The war-cry \"our democracy\" only signifies how degenerate they have become. Though they yearn to win control of Congress in these midterm elections by any means necessary, the party's actual prospects are not so great, having nominated a pack of obvious morons and reprobates such as Abdul el-Sayed (MI), James Talarico (TX), Angie Nixon (FL), Troy Jackson (ME), and Peggy Flanagan (MN) for the US Senate. Now, it appears that President Donald Trump is determined to clean up our fraud-ridden election process this year, one way or another. Hopes are nearly dead for Congress passing a comprehensive election reform law, the SAVE Act, so he has looked to other measures. One is a procedure for the US Postal Service to match and track mail-in ballots to real persons with actual addresses listed on state voter rolls. The matter is still working through courts. The DOJ's Civil Rights Division has pledged to send about 1000 election monitors to polling places around the country as \"observers,\" which could obviate arrant shenanigans like the broken toilet ploy in Fulton County, GA, 2020. Mr. Trump could go further, as discussed here recently, and declare a National Security Executive Order with more exacting rules such as requiring proof of citizenship and photo ID at the polls, and reporting election results no later than the day following the election. The Democratic Party is fighting desperately to prevent any changes to current procedure with so much room for fraud. The effort is led by chief lawfare ninja Norm Eisen, who is associated with several activist NGOs: the States United Democracy Center (founder); State Democracy Defenders PAC; Citizens for Responsibility and Ethics in Washington (CREW); the Brookings Institution; plus his own pro bono litigation practice, Norma Eisen PLLC. Eisen enjoys many millions of dollars in backing that have enabled him to file hundreds of court cases against Trump administration actions, including the recent suits against the US Postal Service mail-in ballot plan. His own NGOs are backed by hundreds of other NGOs both here and globally, many of which have been involved in color revolutions in foreign countries. Eisen himself has played a part in many episodes of the long-running color revolution here in the USA, including RussiaGate, the 2020 fake impeachment, and the Jan-6 House Committee. All that could be described in totality as a seditious coup attempt - and it's all currently under investigation by several federal grand juries. Likewise, lawfare ninja Marc Elias, who operates his election activities through Democracy Docket (founder); the Free election Fund; the Democracy Forward Foundation (board chair); We the Action; plus his own firm, the Elias Law Group. He was formerly a lawyer with the DC law firm Perkins Coie, through which he served as general counsel to the Hillary Clinton campaign in 2016. He shepherded the Steele Dossier into the Intel apparatus and around the news media. All that is a prelude to a disturbing roll-out of events that anyone paying attention can see coming this fall. The Democratic Party has massive resources not just to stall and obstruct pre-election reform, but to mount a vicious resistance after the fact if it doesn't produce their desired result. They could go as far as to repudiate the election, refuse to accept its results. If the president does issue that NatSec EO prior to the election, blue state officials could refuse to hold elections under new rules. Thirty states have already refused to comply with DOJ demands to submit their official voter rolls for evaluation. Some of the aforementioned activist NGOs have promised post-election street actions (demonstrations that could easily turn into riots). In the face of that, you can foresee the necessity of the president having to invoke the Insurrection Act of 1878 (10 U.S.C. §§ 251-255). The act provides an exception to the Posse Commitatus Act, also 1878, which forbids the use of the US military to act as police inside the USA. Under the Insurrection Act, the president can federalize states' national guard units to enforce federal law or protect constitutional rights when ordinary civilian means are not enough. The Act has been used before in our history about thirty times by fifteen presidents , including the Great Railway Strike of 1877 (Pres. Hayes); the Pullman Strike of 1894 (Pres. Cleveland); the Little Rock School Desegregation resistance of 1957 (Pres. Eisenhower sent in the 82nd Airborne). Pres. Lyndon Johnson invoked it three times: the Selma to Montgomery March of 1965; the Detroit riots of 1967; and the riots that followed the Assassination of Martin Luther King, 1968. Pres. George H. W. Bush used it in 1994 to quell the Rodney King Riots in Los Angeles. If Mr. Trump invokes the Insurrection Act around any violence or organized election rebellion this year, he will invite the Democrats to label him an autocrat, a tyrant, a wannabe king, as they have been taunting him and goading him with for years. Let's suppose that will be enough to inflame the party's activists. I think you can see how this lays the groundwork for something that looks like a new civil war. The repudiation of election results by blue states would be enough. Know this: it won't work. It will result in charges of sedition and many Democratic officials will be arrested and charged, probably some governors. It will be a really ugly episode in our history, but we'll get through it. Of course, it will be the end of the Democratic Party. Tyler Durden Fri, 09/04/2026 - 16:20",
-          "sourceName": "Zerohedge",
-          "url": "https://www.zerohedge.com/political/insurrection-real",
-          "publishedAt": "2026-09-04T20:20:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "6bd8ab005ff4cad4b11a947f54792bdd6ef636ab5380cdf9d1e4f3c5b76ed551",
-          "title": "With under 60 days until the midterms, there is still plenty of time to change the entire political map",
-          "description": "ANALYSIS: The Iran war, Elon Musk’s cash and who decides to spend money in Texas could all be curve balls this cycle, Eric Garcia writes",
+          "id": "c97fca094622d42fee0c59e64ca5b7bc22fc054498f2a2004e2656a7e186fa44",
+          "title": "U.S. Senate candidates Troy Jackson and Susan Collins both campaign on Saturday, clash on Canadian tariffs",
+          "description": "Both candidates for Maine's seat in the U.S. Senate, Democrat Troy Jackson and Republican incumbent Susan Collins, took to the campaign trail on Saturday to connect with voters.",
           "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/under-60-days-until-midterms-181310579.html",
-          "publishedAt": "2026-09-04T18:13:10.000Z",
+          "url": "https://ca.news.yahoo.com/u-senate-candidates-troy-jackson-224410816.html",
+          "publishedAt": "2026-09-05T22:44:10.000Z",
           "sentiment": 0
         },
         {
-          "id": "abe598b675559ac5fbec679dbb5f0a3dcb44d4fb5e40a0cbbb1ce8b42d61c0d3",
-          "title": "With under 60 days until the midterms, there is still plenty of time to change the entire political map",
-          "description": "The Iran war, Elon Musk’s cash and who decides to spend money in Texas could all be curve balls this cycle, Eric Garcia writes",
-          "sourceName": "The Independent",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/midterms-elections-countdown-2026-analysis-b3044875.html",
-          "publishedAt": "2026-09-04T18:13:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d9d61b9d2b9b6f1fb230fe20923936d4687807220fde4a3487448d4ae4c847bc",
-          "title": "Elon Musk's super PAC begins electioneering for Susan Collins",
-          "description": "The $170,000 outlay by Musk's America PAC is relatively modest in the context of the $120 million it's expected to spend on midterm races across the country.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/politics/2026-09-04/elon-musks-super-pac-begins-electioneering-for-susan-collins",
-          "publishedAt": "2026-09-04T17:46:55.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "09b3108a06092ab8f679b93ff4b987f33d6e86a64ed014a652a850689ea974ca",
-          "title": "Troy Jackson agrees to 4 October debates against Susan Collins",
-          "description": "Collins campaign hit back at the former Allagash logger for not agreeing to a debate next week.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/04/politics/elections/maine-election-senate-2026-troy-jackson-susan-collins-october-debates/",
-          "publishedAt": "2026-09-04T16:05:59.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1ea7a39dc821cf246bf695451134efa8173ec3e7549cf445ff1056cf44c01948",
-          "title": "Troy Jackson agrees to 4 debates against Susan Collins in Maine Senate race",
-          "description": "The candidates have been going back and forth over the last week about the timing and format of the debates.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/09/04/troy-jackson-agrees-to-4-debates-against-susan-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-04T15:23:48.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2c06f223c876f28336ef54c81591912b3d8d64f57081f9df41f41863b4754e27",
-          "title": "Troy Jackson agrees to 4 debates against Susan Collins in Maine Senate race",
-          "description": "The candidates have been going back and forth over the last week about the timing and format of the debates.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/09/04/troy-jackson-agrees-to-4-debates-against-susan-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-04T15:23:48.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "71a81f7b9b11377b900a457e0852c8d8b49945030a892f64e1239afed3f38e32",
-          "title": "Troy Jackson agrees to 4 debates against Susan Collins in Maine Senate race",
-          "description": "The candidates have been going back and forth over the last week about the timing and format of the debates.",
+          "id": "77f7dd5e985371adac8d777222c0d52eaac3bf90e2d9a8dd667b7b2f8e6ae705",
+          "title": "Troy Jackson takes on affordable housing issue at mobile home park in Wells",
+          "description": "Residents of Blueberry Ridge Mobile Village told Jackson, who's running for U.S. Senate, that they're being priced out and ignored by the out-of-state company that owns the park.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/09/04/troy-jackson-agrees-to-4-debates-against-susan-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-04T15:23:48.000Z",
+          "url": "https://www.pressherald.com/2026/09/05/troy-jackson-takes-on-affordable-housing-issue-at-mobile-home-park-in-wells/",
+          "publishedAt": "2026-09-05T20:24:36.000Z",
+          "sentiment": 0.4
+        },
+        {
+          "id": "a0c1acd0e9b00bfb4eaeda5856f690e61093504a0caf5086ac6819ff2bd30a4b",
+          "title": "Troy Jackson takes on affordable housing issue at mobile home park in Wells",
+          "description": "Residents of Blueberry Ridge Mobile Village told Jackson, who's running for U.S. Senate, that they're being priced out and ignored by the out-of-state company that owns the park.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/09/05/troy-jackson-takes-on-affordable-housing-issue-at-mobile-home-park-in-wells/",
+          "publishedAt": "2026-09-05T20:24:36.000Z",
+          "sentiment": 0.4
+        },
+        {
+          "id": "80b0b987f95288b59744ece8476b5ac0cdeadd520cfba33aebf7561e75172079",
+          "title": "Troy Jackson takes on affordable housing issue at mobile home park in Wells",
+          "description": "Residents of Blueberry Ridge Mobile Village told Jackson, who's running for U.S. Senate, that they're being priced out and ignored by the out-of-state company that owns the park.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/09/05/troy-jackson-takes-on-affordable-housing-issue-at-mobile-home-park-in-wells/",
+          "publishedAt": "2026-09-05T20:24:36.000Z",
+          "sentiment": 0.4
+        },
+        {
+          "id": "5502a7c02cbd5e305a896fd21d2ef3c15b53167a15823316d41b8a36c417cf07",
+          "title": "Key Senate Races for 2026: Battlegrounds That Could Shift Control",
+          "description": "The 2026 Senate elections are shaping up to be a close contest, with several critical races that could determine the majorIty. The article highlights the most competitive battlegrounds, including the only open seat where Democrats are projected to win and the challenges faced by candidates on both sides.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/key-senate-races-for-2026-battlegrounds-that-could-shift-87443270",
+          "publishedAt": "2026-09-05T19:08:00.000Z",
           "sentiment": 0
+        },
+        {
+          "id": "bc7e7f81b4c53fbbc0dbfeee5c73af58529062914acbb86900bf57e852410184",
+          "title": "Kissing cousins: Maine Dem Senate nominee rebukes GOP's Collins for 'attacking my personal life'",
+          "description": "Maine's Democratic Senate nominee Troy Jackson on Saturday fired back at Republican Sen. Susan Collins for mentioning that the mother of his children is his second cousin, grumbling that it's an attack on his family.",
+          "sourceName": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/sep/5/troy-jackson-maine-dem-senate-nominee-blasts-gops-susan-collins/",
+          "publishedAt": "2026-09-05T17:30:30.000Z",
+          "sentiment": 0.5
         }
       ],
       "social": [
@@ -680,16 +644,26 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.45,
-      "newsSentiment": null,
+      "overallSentiment": -0.3,
+      "newsSentiment": 0,
       "socialSentiment": 0,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 1,
         "youtube": 1,
-        "total": 2
+        "total": 3
       },
-      "news": [],
+      "news": [
+        {
+          "id": "547ed89751f0022d6660b4aa0697df7819a13002fc6080c07871e87ad6af998b",
+          "title": "La Casita Mexican Food is bringing in the protein-heavy nachos with an Idaho twist",
+          "description": "BLACKFOOT — It’s a Feedin’ Frenzy at the Eastern Idaho State Fair, and this year we’re back at an all-time fair favorite: La Casita Mexican Food. Owner Mar",
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/east-idaho-news-294731909/4869411322630-la-casita-mexican-food-is-bringing-in-the-protein-heavy-nachos-with-an-idaho-twist",
+          "publishedAt": "2026-09-06T00:00:00.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [
         {
           "id": "d1ac400f8f128927ee3c1bb2467f0e31c2cc4fe80186a1be197bed3f349a9a71",
