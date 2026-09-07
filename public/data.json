@@ -1,30 +1,20 @@
 {
-  "lastUpdated": "2026-09-07T15:14:33.051Z",
+  "lastUpdated": "2026-09-07T17:10:12.472Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0,
-      "newsSentiment": 0,
+      "overallSentiment": null,
+      "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
-      "news": [
-        {
-          "id": "05beabf757d7f2ff5f223a7e0f5cc803b7cab34ea238f95395f06bda458264d6",
-          "title": "‘We’ve been around so many fires’ and other sparkling quotes from the week",
-          "description": "Quotes of the week ending on Sept. 5, 2026, including quotes from news stories related to North Texas wildfires, the GOP midterm convention and others.",
-          "sourceName": "Dallas News",
-          "url": "https://www.dallasnews.com/opinion/commentary/article/quotes-of-the-week-sept-5-22416622.php",
-          "publishedAt": "2026-09-05T15:30:00.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -82,78 +72,69 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.23647380952380956,
-      "newsSentiment": 0.32857142857142857,
+      "overallSentiment": 0.07139444444444447,
+      "newsSentiment": -0.16666666666666666,
       "socialSentiment": 0.2558500000000001,
       "mentions": {
-        "news": 7,
+        "news": 6,
         "social": 63,
         "youtube": 8,
-        "total": 78
+        "total": 77
       },
       "news": [
         {
-          "id": "0a2b34b55c64127269e22404227ddd19f185228d126825391f634aaf13473be9",
-          "title": "Troy Jackson fires back at Susan Collins over relationship comment",
-          "description": "\"I wouldn't be trying to defend my record if I was her, too,\" Maine Democratic Senate candidate Troy Jackson said at a campaign event on Saturday,",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4715181/troy-jackson-susan-collins-cousin-relationship-comment/",
-          "publishedAt": "2026-09-05T23:34:21.000Z",
-          "sentiment": 0.6
+          "id": "aed2dedf08186c183fc19c992afe75b5a78d72f008ebb95bf2e1e7acbd555015",
+          "title": "Letter: ‘We’ are not proud of Susan Collins",
+          "description": "\"I believe there is someone whose leadership will make Mainers proud and his name is Troy Jackson. \"",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/09/07/opinion/letters/letter-we-are-not-proud-of-susan-collins/",
+          "publishedAt": "2026-09-07T05:00:00.000Z",
+          "sentiment": 1
         },
         {
-          "id": "c97fca094622d42fee0c59e64ca5b7bc22fc054498f2a2004e2656a7e186fa44",
-          "title": "U.S. Senate candidates Troy Jackson and Susan Collins both campaign on Saturday, clash on Canadian tariffs",
-          "description": "Both candidates for Maine's seat in the U.S. Senate, Democrat Troy Jackson and Republican incumbent Susan Collins, took to the campaign trail on Saturday to connect with voters.",
-          "sourceName": "Yahoo! News",
-          "url": "https://ca.news.yahoo.com/u-senate-candidates-troy-jackson-224410816.html",
-          "publishedAt": "2026-09-05T22:44:10.000Z",
+          "id": "cc90205ee7723e7e26125279b575fe9c1b5c1ed8e087cdb004283407719a9d48",
+          "title": "For many Troy Jackson backers, the election is about Susan Collins",
+          "description": "Roughly 6 in 10 of Troy Jackson's supporters said their vote is primarily against Susan Collins, according to a recent Fox News poll.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/09/07/politics/elections/troy-jackson-backers-election-about-susan-collins-joam40zk0w/",
+          "publishedAt": "2026-09-07T05:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "77f7dd5e985371adac8d777222c0d52eaac3bf90e2d9a8dd667b7b2f8e6ae705",
-          "title": "Troy Jackson takes on affordable housing issue at mobile home park in Wells",
-          "description": "Residents of Blueberry Ridge Mobile Village told Jackson, who's running for U.S. Senate, that they're being priced out and ignored by the out-of-state company that owns the park.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/09/05/troy-jackson-takes-on-affordable-housing-issue-at-mobile-home-park-in-wells/",
-          "publishedAt": "2026-09-05T20:24:36.000Z",
-          "sentiment": 0.4
+          "id": "44b530c25cc7024ae662e41df83a3a337fbe86949eab5d8151e4662bfaf404d9",
+          "title": "Insurrection For Real – Whenever A Lawfare Ninja Of The Democrat Party Utters The Phrase ‘Our Democracy,’ You Must Know That They Are Full Of Shit",
+          "description": "by James Howard Kunstler, All News Pipeline: “The Democrat agenda is to legalize crime and criminalize the middle class.” —Stephen Miller Not to put too fine a point on it: but whenever a lawfare ninja of the Democratic Party utters the phrase “our democracy,” you must know that they are completely full of shit. For [...]",
+          "sourceName": "Sgt Report",
+          "url": "https://www.sgtreport.com/2026/09/insurrection-for-real-whenever-a-lawfare-ninja-of-the-democrat-party-utters-the-phrase-our-democracy-you-must-know-that-they-are-full-of-shit/",
+          "publishedAt": "2026-09-07T03:59:53.000Z",
+          "sentiment": -1
         },
         {
-          "id": "a0c1acd0e9b00bfb4eaeda5856f690e61093504a0caf5086ac6819ff2bd30a4b",
-          "title": "Troy Jackson takes on affordable housing issue at mobile home park in Wells",
-          "description": "Residents of Blueberry Ridge Mobile Village told Jackson, who's running for U.S. Senate, that they're being priced out and ignored by the out-of-state company that owns the park.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/09/05/troy-jackson-takes-on-affordable-housing-issue-at-mobile-home-park-in-wells/",
-          "publishedAt": "2026-09-05T20:24:36.000Z",
-          "sentiment": 0.4
+          "id": "0c59b67a4520749258252d3d036172963b9f1bab900385e8adacf8da10b2130d",
+          "title": "Radical Maine Democrat Senate Nominee Wants the State to Seize Private Property from Mainers – Discern Report",
+          "description": "In this The Gateway Pundit article, Jim Hoft reports that Maine Democratic Senate nominee Troy Jackson told mobile-home park residents the state should be able to seize parks owned by out-of-state companies and private equity firms. Two Storms, One Harvest Every food crisis in living memory has been a one-shock event. The 2008 price spike [...] The post Radical Maine Democrat Senate Nominee Wants the State to Seize Private Property from Mainers – Discern Report appeared first on CBNC .",
+          "sourceName": "Cbnc",
+          "url": "https://cbnc.com/radical-maine-democrat-senate-nominee-wants-the-state-to-seize-private-property-from-mainers-discern-report/",
+          "publishedAt": "2026-09-07T00:59:00.000Z",
+          "sentiment": -1
         },
         {
-          "id": "80b0b987f95288b59744ece8476b5ac0cdeadd520cfba33aebf7561e75172079",
-          "title": "Troy Jackson takes on affordable housing issue at mobile home park in Wells",
-          "description": "Residents of Blueberry Ridge Mobile Village told Jackson, who's running for U.S. Senate, that they're being priced out and ignored by the out-of-state company that owns the park.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/09/05/troy-jackson-takes-on-affordable-housing-issue-at-mobile-home-park-in-wells/",
-          "publishedAt": "2026-09-05T20:24:36.000Z",
-          "sentiment": 0.4
-        },
-        {
-          "id": "5502a7c02cbd5e305a896fd21d2ef3c15b53167a15823316d41b8a36c417cf07",
-          "title": "Key Senate Races for 2026: Battlegrounds That Could Shift Control",
-          "description": "The 2026 Senate elections are shaping up to be a close contest, with several critical races that could determine the majorIty. The article highlights the most competitive battlegrounds, including the only open seat where Democrats are projected to win and the challenges faced by candidates on both sides.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/key-senate-races-for-2026-battlegrounds-that-could-shift-87443270",
-          "publishedAt": "2026-09-05T19:08:00.000Z",
+          "id": "82dff4fd4f74ee51d03be4c65ba2fcea635f3fbda53c4993fa447a73ede41182",
+          "title": "Discontent will accompany blue‐collar voters to the polls in the midterms",
+          "description": "When union workers and their families gather this Labor Day, some may ponder Ronald Reagan’s memorable refrain, “Are you better off now than you were four",
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/maine-morning-star-1778795/4871081424878-discontent-will-accompany-blue-collar-voters-to-the-polls-in-the-midterms",
+          "publishedAt": "2026-09-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "bc7e7f81b4c53fbbc0dbfeee5c73af58529062914acbb86900bf57e852410184",
-          "title": "Kissing cousins: Maine Dem Senate nominee rebukes GOP's Collins for 'attacking my personal life'",
-          "description": "Maine's Democratic Senate nominee Troy Jackson on Saturday fired back at Republican Sen. Susan Collins for mentioning that the mother of his children is his second cousin, grumbling that it's an attack on his family.",
-          "sourceName": "The Washington Times",
-          "url": "https://www.washingtontimes.com/news/2026/sep/5/troy-jackson-maine-dem-senate-nominee-blasts-gops-susan-collins/",
-          "publishedAt": "2026-09-05T17:30:30.000Z",
-          "sentiment": 0.5
+          "id": "b70f0039a3ca8e4621317c64514c7ee2387880b9c6e5cf4391033c246dd9cece",
+          "title": "For many Troy Jackson backers, the election is about Susan Collins",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4870908100718-for-many-troy-jackson-backers-the-election-is-about-susan-collins",
+          "publishedAt": "2026-09-07T00:00:00.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
@@ -749,26 +730,16 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0,
-      "newsSentiment": 0,
+      "overallSentiment": null,
+      "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
-      "news": [
-        {
-          "id": "547ed89751f0022d6660b4aa0697df7819a13002fc6080c07871e87ad6af998b",
-          "title": "La Casita Mexican Food is bringing in the protein-heavy nachos with an Idaho twist",
-          "description": "BLACKFOOT — It’s a Feedin’ Frenzy at the Eastern Idaho State Fair, and this year we’re back at an all-time fair favorite: La Casita Mexican Food. Owner Mar",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/east-idaho-news-294731909/4869411322630-la-casita-mexican-food-is-bringing-in-the-protein-heavy-nachos-with-an-idaho-twist",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
