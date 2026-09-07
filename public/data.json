@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T04:32:51.396Z",
+  "lastUpdated": "2026-09-07T09:40:02.086Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -32,17 +32,25 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.064,
+      "overallSentiment": 0.042666666666666665,
       "newsSentiment": null,
-      "socialSentiment": 0.064,
+      "socialSentiment": 0.042666666666666665,
       "mentions": {
         "news": 0,
-        "social": 3,
+        "social": 4,
         "youtube": 0,
-        "total": 3
+        "total": 4
       },
       "news": [],
       "social": [
+        {
+          "id": "cc00d360df96805411dbd6eb1f7f5323155c46410cd0b26635812660ebc3b2f4",
+          "authorHandle": "dc2daylight.bsky.social",
+          "postText": "mainemorningstar.com/2026/09/03/b...",
+          "createdAt": "2026-09-07T05:15:20.273Z",
+          "uri": "at://did:plc:rheeyyoqtdxr6dgokt2se7mm/app.bsky.feed.post/3muvqu7m66224",
+          "sentiment": 0
+        },
         {
           "id": "c516376eb2816c66582edfd348a7178f4fc8632402fef214d0d014f013457b59",
           "authorHandle": "indivisibleccme.bsky.social",
@@ -74,9 +82,9 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.15276603174603173,
+      "overallSentiment": 0.1794326984126984,
       "newsSentiment": 0.32857142857142857,
-      "socialSentiment": 0.004726666666666657,
+      "socialSentiment": 0.08472666666666666,
       "mentions": {
         "news": 7,
         "social": 46,
@@ -149,6 +157,54 @@
         }
       ],
       "social": [
+        {
+          "id": "6c284fe47511af4a1a6cc2b43a48a4b7052aeec7ffbcf1f1c799146c0b822a5b",
+          "authorHandle": "follow-the-money.us",
+          "postText": "New Super PAC Spending in the ME Senate Race\n\nSLF PAC spent $1.1M opposing JACKSON, TROY DALE\nDate: Aug 31\nFor: MEDIA PLACEMENT\nTotal spent in race: $2.0M\n\nhttps://integrityindex.us/race/maine-senate-class2-2026",
+          "createdAt": "2026-09-07T08:00:45.565Z",
+          "uri": "at://did:plc:xds4luusktvkqqzea6iwd6bc/app.bsky.feed.post/3muw23z4jf625",
+          "sentiment": -1
+        },
+        {
+          "id": "7c33b21303a358d73e9997131cf2c6fffa945935e92e3c2c8011cbbd5091c9ac",
+          "authorHandle": "follow-the-money.us",
+          "postText": "New Super PAC Spending in the ME Senate Race\n\nSLF PAC spent $638K opposing JACKSON, TROY DALE\nDate: Sep 2\nFor: MEDIA PLACEMENT; POSTAGE / PRINTING / PRODUCTION\nTotal spent in race: $2.0M\n\nhttps://integrityindex.us/race/maine-senate-class2-2026",
+          "createdAt": "2026-09-07T08:00:32.282Z",
+          "uri": "at://did:plc:xds4luusktvkqqzea6iwd6bc/app.bsky.feed.post/3muw23mh5rw2d",
+          "sentiment": -1
+        },
+        {
+          "id": "8974d73fffcff1b6624188cc38542631cb91a70427a80569d8047bd372a3dca1",
+          "authorHandle": "bluebirdnews.bsky.social",
+          "postText": "When Susan Collins had a chance to block Trump's blanket tariffs from driving up costs, she voted no. I'm sick of her letters. I'm sick of her “concern.” It's time Mainers had someone in that U.S. Senate seat who will actually stand up for them.\n\nx.com/TroyJackson2...",
+          "createdAt": "2026-09-07T05:08:05.261Z",
+          "uri": "at://did:plc:btmcbyoqf62qs6kiwi4x33y2/app.bsky.feed.post/3muvqhaqoqc2m",
+          "sentiment": 1
+        },
+        {
+          "id": "bec4541c85682806ed8e5be8cd5f527dcd483cadeca906ca91cefd8cf84a8e1c",
+          "authorHandle": "tcw123.bsky.social",
+          "postText": "#Volunteer\n#PhoneBank\n#Maine\nIndivisible for Troy Jackson and Matt Dunlap for ME Phone Bank Series\nVirtual event\nJoin from anywhere\nMonday, September 28\n5:30 – 7:30pm EDT\nwww.mobilize.us/mobilize/eve...",
+          "createdAt": "2026-09-07T04:48:53.967Z",
+          "uri": "at://did:plc:fvfycnojwqziszul26dxfmh4/app.bsky.feed.post/3muvpewrx7k2e",
+          "sentiment": 1
+        },
+        {
+          "id": "4f4fb4a988d5efbbbddbf15e11fda27ed28663916beb82459c50977f69b6acf2",
+          "authorHandle": "tcw123.bsky.social",
+          "postText": "#Volunteer\n#PhoneBank\n#Maine\nDialing for Democracy in Maine\nVirtual event\nJoin from anywhere\nTuesdays through Oct 27\n6 – 8pm EDT\nTue, Nov 3, 6–8pm EST\nwww.mobilize.us/mobilize/eve...",
+          "createdAt": "2026-09-07T04:46:40.296Z",
+          "uri": "at://did:plc:fvfycnojwqziszul26dxfmh4/app.bsky.feed.post/3muvpaxco422e",
+          "sentiment": 0
+        },
+        {
+          "id": "383df3df83300d7b95e0d1e2fc2f341065deffb0ff7f162377440a4b6ab53995",
+          "authorHandle": "tcw123.bsky.social",
+          "postText": "#EveryVoteCounts\n#Volunteer\n#Maine\nCanvass for Troy!\nCanvassing is the most important thing we can do to win this election and build lasting power for our movement.\nwww.mobilize.us/mobilize/eve...",
+          "createdAt": "2026-09-07T04:43:58.914Z",
+          "uri": "at://did:plc:fvfycnojwqziszul26dxfmh4/app.bsky.feed.post/3muvp45foik2e",
+          "sentiment": 1
+        },
         {
           "id": "c99869b3423aa97bdeba4e24a93f497f7659e3800ff98279977f86ad5142593f",
           "authorHandle": "tcw123.bsky.social",
@@ -467,54 +523,6 @@
           "postText": "a quiet consensus formed on this market. 3 independent addresses, no coordination between them, one side.\n\noutcome Troy Jackson (D) Yes — market Maine Senate Election Winner — Troy Jackson (D)",
           "createdAt": "2026-09-06T10:09:04.693621848Z",
           "uri": "at://did:plc:qtmjd77zvc25npndujawzjka/app.bsky.feed.post/3mutqslcsao24",
-          "sentiment": 0
-        },
-        {
-          "id": "31efcfea9b98943f00fab488b656f91c800ba4eee8eaa4e0b173191a3657d3e8",
-          "authorHandle": "judgement-bot.bsky.social",
-          "postText": "Senator Susan Collins highlighted that the mother of Troy Jackson's children is his second cousin, prompting Jackson to fire back at campaign stops while threatening counter-disclosures.",
-          "createdAt": "2026-09-06T07:02:18.857396+00:00",
-          "uri": "at://did:plc:xvo7gsaojuuuxc6rlw374pls/app.bsky.feed.post/3mutgelyz7x25",
-          "sentiment": -1
-        },
-        {
-          "id": "5859635d34807f73ff7f50159185edbc617a6ef67504fb1084fa63fc2f59a006",
-          "authorHandle": "judgement-bot.bsky.social",
-          "postText": "Sub-Audits Breakdown:\n- Troy Jackson Campaign: FAIL (-0.7, -0.6) — Deflects scrutiny by threatening personal retaliations.\n- Susan Collins Campaign: FAIL (-0.6, -0.5) — Uses familial facts to undermine opponent's character.",
-          "createdAt": "2026-09-06T07:02:16.569475+00:00",
-          "uri": "at://did:plc:xvo7gsaojuuuxc6rlw374pls/app.bsky.feed.post/3mutgejtmpe2u",
-          "sentiment": -0.8
-        },
-        {
-          "id": "72965d1ba2b3adc029f469ceb79328c0898e17e9fe35b32ce8ca1e8c3b5a4b84",
-          "authorHandle": "judgement-bot.bsky.social",
-          "postText": "Maine Senate candidate Troy Jackson claims the race should focus entirely on voter issues rather than personal family ties brought up by Senator Susan Collins.\nStated Judgement: (+0.5, 0.0) — Good Preference",
-          "createdAt": "2026-09-06T07:02:09.722709+00:00",
-          "uri": "at://did:plc:xvo7gsaojuuuxc6rlw374pls/app.bsky.feed.post/3mutgedcabx2x",
-          "sentiment": 0.5
-        },
-        {
-          "id": "ede346904402ee404b5023ad91f6ed735aa863283f3face3f410d4bd23ff1a3b",
-          "authorHandle": "judgement-bot.bsky.social",
-          "postText": "Maine Senate race turns personal as Troy Jackson hits back at Susan Collins over family remarks.\nEvidence: personal attacks, record defense, political distraction\n#Aletheia #USPol",
-          "createdAt": "2026-09-06T07:02:09.019193+00:00",
-          "uri": "at://did:plc:xvo7gsaojuuuxc6rlw374pls/app.bsky.feed.post/3mutgecmymf22",
-          "sentiment": -0.7
-        },
-        {
-          "id": "04b1d6a760c2c81687ac20c4b4f09137159372e261b62fd88e195785555a933d",
-          "authorHandle": "lavenderblue75.bsky.social",
-          "postText": "#MAINE citizens! This is for you.  \n#SusanCollins is bought and payed for. And btw she is 80y old.  Time to retire. \n\nsubstack.com/@troyjackson...",
-          "createdAt": "2026-09-06T07:00:05.835Z",
-          "uri": "at://did:plc:7tii67gidj6av6emzbsc3eug/app.bsky.feed.post/3mutgamjlbs2f",
-          "sentiment": -0.6
-        },
-        {
-          "id": "5f1dd1b172ecbf728d1f7bf6bd796f8b5c981ee5564967ee0027fb2798143ca7",
-          "authorHandle": "johnbrownbread.bsky.social",
-          "postText": "Wow Abdul moved up to second in ActBlue fundraising this week right behind Talarico and Ossoff in third.",
-          "createdAt": "2026-09-06T06:57:19.883Z",
-          "uri": "at://did:plc:bbtt3p6rwicetqvqhq6b5bhu/app.bsky.feed.post/3mutg3ob4rs2g",
           "sentiment": 0
         }
       ],
