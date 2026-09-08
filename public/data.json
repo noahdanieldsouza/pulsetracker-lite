@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:06:23.467Z",
+  "lastUpdated": "2026-09-08T22:35:38.656Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -65,14 +65,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3528266178266179,
+      "overallSentiment": 0.33939332795265004,
       "newsSentiment": 0.046428571428571416,
-      "socialSentiment": 0.44538461538461543,
+      "socialSentiment": 0.4050847457627119,
       "mentions": {
         "news": 140,
-        "social": 65,
+        "social": 59,
         "youtube": 6,
-        "total": 211
+        "total": 205
       },
       "news": [
         {
@@ -1338,6 +1338,86 @@
       ],
       "social": [
         {
+          "id": "09a7da6810e64c60c0e4e7db9660108ce07bedeb79d8e7cadabfa0876e37831d",
+          "authorHandle": "us-med.bsky.social",
+          "postText": "",
+          "createdAt": "2026-09-08T22:08:04+00:00",
+          "uri": "at://did:plc:mrvbh3rnv4jmde3ijv4hj4mh/app.bsky.feed.post/3muzzw7u67y22",
+          "sentiment": -0.8
+        },
+        {
+          "id": "0f9281595456926621a9d174d67637698d5ca4e29f5fc6088fe56be634d5da17",
+          "authorHandle": "aprilglick.bsky.social",
+          "postText": "why am I being served Maine and New Hampshire ads \n\nalso lol the Troy Jackson ad which just seemed like “he didn’t always commute!!!” *scary voice*",
+          "createdAt": "2026-09-08T21:56:18.596Z",
+          "uri": "at://did:plc:oowadmoqzsurleedpzoi2jgg/app.bsky.feed.post/3muzzaz5i7s2o",
+          "sentiment": 0.6
+        },
+        {
+          "id": "f0040dd87fb918f9d97e81ba7a57d85920a0587484ad7917ec32ec19403dcd5b",
+          "authorHandle": "betsy-cazden.bsky.social",
+          "postText": "That's fantastic! I hope @pinetreeactivism.org, @hannahpingree.bsky.social, and Troy Jackson know about this.",
+          "createdAt": "2026-09-08T21:26:21.010Z",
+          "uri": "at://did:plc:26mvqmmodxg37uxp7uhpbn5m/app.bsky.feed.post/3muzxlgtnzk2i",
+          "sentiment": 0.7
+        },
+        {
+          "id": "9e89f1a544f01565d686d8ef44264ce5bc1859de59d7fc3da0b89f5a6f7fd4ef",
+          "authorHandle": "pressherald.com",
+          "postText": "Children’s influencer Ms. Rachel meets with Troy Jackson, praises his policies",
+          "createdAt": "2026-09-08T21:20:44+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3muzxbfo5in2j",
+          "sentiment": 0.8
+        },
+        {
+          "id": "a67f7e3057bc603aeae68cd699445fe251f16960b3325349662eb259fdaea76e",
+          "authorHandle": "leeheffer.bsky.social",
+          "postText": "I am an ex-Mainer and I want everything Troy Jackson is suggesting.  Maine desperately needs to get out from under Susan Collins, who has done significant damage to the state.",
+          "createdAt": "2026-09-08T21:19:44.801Z",
+          "uri": "at://did:plc:j6e6m4eapv46gbgoz465zvb4/app.bsky.feed.post/3muzx7my7bc2w",
+          "sentiment": 0.9
+        },
+        {
+          "id": "e6ef6d22688a2bb2908a91a38954d5c8694d61aa91635aec792ad740c14f5472",
+          "authorHandle": "jameskingartstudio.bsky.social",
+          "postText": "Troy Jackson is the right candidate for Maine.\nGo Troy! Go Maine Democrats! 💙🇺🇸🏞🌲🧢",
+          "createdAt": "2026-09-08T21:17:59.927Z",
+          "uri": "at://did:plc:grlw7tebwrjv5nqb3mgzh4vk/app.bsky.feed.post/3muzx4ixpas2g",
+          "sentiment": 0.95
+        },
+        {
+          "id": "969f7b2b3ec98fa545b5c8fe18a13c774f2e894eb91ac3f92d1fd42eb81db79c",
+          "authorHandle": "degolierthomas.bsky.social",
+          "postText": "Also, who… I don’t remember any Maine discourse ever happening like ever. I swear mills dropped out and the next moment Troy Jackson was the nominee.. nope, nothing at all in between those moments",
+          "createdAt": "2026-09-08T21:00:56.775Z",
+          "uri": "at://did:plc:kb723pr2gmkn2vi3nw6we66w/app.bsky.feed.post/3muzw5z7kfk23",
+          "sentiment": -0.3
+        },
+        {
+          "id": "7abe92c45cb4a0b1ff0926456069466eeaf0433ff0ba8ac8b57c0d19426541e9",
+          "authorHandle": "asfried.bsky.social",
+          "postText": "Article by a Politico reporter who used to write for the Bangor Daily News.  #mepolitics \n\nwww.politico.com/news/2026/09...",
+          "createdAt": "2026-09-08T20:54:51.282Z",
+          "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3muzvt4nlnc22",
+          "sentiment": 0
+        },
+        {
+          "id": "18cf728270e4a7d263d68fb27cfacdba8bd3f82e2ba7312e7443dce84121d8df",
+          "authorHandle": "themainemonitor.org",
+          "postText": "As Maine’s Senate race heats up, there has been a similar attack launched against both Republican Susan Collins and Democrat Troy Jackson: lobbying ties in the family. \n\nThe Monitor asked both campaigns what they make of the critiques, and examined the different rules at the state and federal level.",
+          "createdAt": "2026-09-08T20:47:53.739Z",
+          "uri": "at://did:plc:fx2wrqyrs5i3amd52w3banxz/app.bsky.feed.post/3muzvgoh7rs2b",
+          "sentiment": -0.1
+        },
+        {
+          "id": "6f7a8f9e0d3697c39f28dc3d4c0ac8bf2dc72416174759e1b15352362f4cb237",
+          "authorHandle": "w3hnt.bsky.social",
+          "postText": "“Like the Canadians, Democratic Senate hopeful Troy Jackson has the right spirit. He’s been a fighter his entire political career. \n\nThat’s just what the times require.”\n\nMainers Know that we Need to Defeat President Trump, Not Canada. Portland Press Herald, 8-27-26.",
+          "createdAt": "2026-09-08T20:35:38.127Z",
+          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3muzuqqw3pk2a",
+          "sentiment": 0.8
+        },
+        {
           "id": "497f9258a1e2869aa39ff8b290f8699212eb2e46a527a0f09991bb9ae420e088",
           "authorHandle": "hydevoltyge.bsky.social",
           "postText": "Everyone knows Troy Jackson is awesome, I just want to point out how correctly he placed the blame here even as Maine gets hit so hard, while Adam Schiff, Senator from CALIFORNIA, has had his tantrums at *Canada* over Trump's actions. This is the difference between a good politician and a weak one.",
@@ -1728,134 +1808,6 @@
           "createdAt": "2026-09-07T22:35:48Z",
           "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3muxkyqdldv2h",
           "sentiment": 0
-        },
-        {
-          "id": "f0cd79af054b9afcf0c98714cacd9a1359a79ec3052f75000ca645e8ff42bec0",
-          "authorHandle": "ctvnews-mirror.bsky.social",
-          "postText": "U.S. midterm elections head into the home stretch as candidates hit Labour Day events",
-          "createdAt": "2026-09-07T22:20:59.953617+00:00",
-          "uri": "at://did:plc:icsgkevq6mfyuf5c357xc7dm/app.bsky.feed.post/3muxk6aguki2d",
-          "sentiment": 0
-        },
-        {
-          "id": "3e9278a9a323ab8c4d78e92c6460c49519fc5b907f6e075d9591716b0d45dc91",
-          "authorHandle": "hancockcountydems.bsky.social",
-          "postText": "We need checks and balances in government! \n\nWe can’t afford more rubber-stamping of the Trump agenda in Washington.\nTroy Jackson and Matt Dunlap will stand up for Maine — and fight for policies that make life better for Mainers.\n\n𝗧𝗵𝗶𝘀 𝗲𝗹𝗲𝗰𝘁𝗶𝗼𝗻 𝗶𝘀 𝗮𝗯𝗼𝘂𝘁 𝘄𝗵𝗼 𝘄𝗶𝗹𝗹 𝘀𝘁𝗮𝗻𝗱 𝘂𝗽 𝗮𝗻𝗱 𝘄𝗵𝗼 𝘄𝗶𝗹𝗹 𝗳𝗮𝗹𝗹 𝗶𝗻 𝗹𝗶𝗻𝗲.",
-          "createdAt": "2026-09-07T22:15:45.380Z",
-          "uri": "at://did:plc:7expgbr42k6s436jjvpmr7al/app.bsky.feed.post/3muxjuugank25",
-          "sentiment": 0.8
-        },
-        {
-          "id": "429a3769dd5d205cd0065567b22ed22c82cc0c1dd7343b3c4f16a72268243fed",
-          "authorHandle": "politics.hivewire.news",
-          "postText": "Dem Troy Jackson campaigns in Maine against Sen. Collins on Labor Day #UsPolitics #News",
-          "createdAt": "2026-09-07T22:00:49.602650Z",
-          "uri": "at://did:plc:n2hqebx63ixdxypoa5kb4bej/app.bsky.feed.post/3muxj26atyv25",
-          "sentiment": 0.7
-        },
-        {
-          "id": "2d1486cf6d7ea80159276f52cf0882e10685880f4e20771a92e4c426568b6d4c",
-          "authorHandle": "angrydonkeynews.bsky.social",
-          "postText": "NEW MAINE SENATE POLL:\n\nTroy Jackson 50%\nSusan Collins 42%\n\nJackson leads Collins by 8 points among likely voters.\n\nAnd it’s not an outlier in direction: Jackson has led Collins in nearly every recent poll.\n\nx.com/joncoopertwe...",
-          "createdAt": "2026-09-07T21:40:23.257Z",
-          "uri": "at://did:plc:6kv5inxd5x4tuydxlob27f36/app.bsky.feed.post/3muxhvmm4xc2j",
-          "sentiment": 0.8
-        },
-        {
-          "id": "e96c775513aca66d22f22020165ff64de2cf4a62575d259b0d57a95ce9b1b757",
-          "authorHandle": "conniemary.bsky.social",
-          "postText": "We have too many wealthy executives and lawyers serving in Washington. We need more working class people such as Troy Jackson.\nThey understand the needs of working people because they have lived it.",
-          "createdAt": "2026-09-07T21:37:53.372Z",
-          "uri": "at://did:plc:yz564rlkroj5t4hasj6av6h5/app.bsky.feed.post/3muxhr5nyv22y",
-          "sentiment": 0.9
-        },
-        {
-          "id": "d6c635d84a7a138bc3ab2d14d7cdb9019791a58fa98582d57653635153bbed5d",
-          "authorHandle": "newellbaldelli.bsky.social",
-          "postText": "Susan Collins has Opus Dei cultist Leonard Leo footing the bill for her campaign.  (We used to call this $“bribes”)\n\nShe votes the way her owner tells her to.\n\nBut Mainers can vote for Troy Jackson. 🤞",
-          "createdAt": "2026-09-07T21:23:29.385Z",
-          "uri": "at://did:plc:w3efd2wu5fnen762vullkki5/app.bsky.feed.post/3muxgxfp7lc2b",
-          "sentiment": 0.7
-        },
-        {
-          "id": "3ee2bc35154ef0651fc8d10ac1b40232e1a97a8a1e9592ec46273062a1243e51",
-          "authorHandle": "cozybooksonly.bsky.social",
-          "postText": "Canvasses every weekend until Election Day!\n\nwww.mobilize.us/swingleft/ev...",
-          "createdAt": "2026-09-07T21:15:05.620Z",
-          "uri": "at://did:plc:t55pafjh7kphmthjpktizows/app.bsky.feed.post/3muxgifbmis2p",
-          "sentiment": 0.6
-        },
-        {
-          "id": "b0322639ebad9c077924b6aaeed79403f8efddf694e23f87586d009fcc2fd43b",
-          "authorHandle": "20thmainevolunteer.bsky.social",
-          "postText": "Anybody Mainer who doesn’t already know full well who Troy Jackson is has had their head shoved so far up their ass for so long, they probably think Angus King is still Governor.",
-          "createdAt": "2026-09-07T21:13:32.579Z",
-          "uri": "at://did:plc:u6vyqrrrf5i4hiyru2ugooqi/app.bsky.feed.post/3muxgfmk57s2k",
-          "sentiment": 0.5
-        },
-        {
-          "id": "d36cbf4a037ae465866740ad23ce9167c02482b2c031e35e9bc33422649a3c17",
-          "authorHandle": "coco.sheshed.rocks",
-          "postText": "Susan Collin’s is a very bad joke no one finds funny……\n\nVote #TroyJackson \n\n#SheShed #ViVaHerAlliance",
-          "createdAt": "2026-09-07T21:10:52.419Z",
-          "uri": "at://did:plc:ig2wp6nfsjuk4szpbzk2i2ax/app.bsky.feed.post/3muxgattbdk2o",
-          "sentiment": 0.8
-        },
-        {
-          "id": "c564b07705ba20f4eed995143af69771bf54607906715cc3c9e72e10fcb7748c",
-          "authorHandle": "oc88.bsky.social",
-          "postText": "Everyone knows Susan Collins. Troy Jackson is still introducing himself. - POLITICO apple.news/ABiApu7k7SXa...",
-          "createdAt": "2026-09-07T21:10:31.488Z",
-          "uri": "at://did:plc:skccihdfrp5o4c6gw3x3n475/app.bsky.feed.post/3muxga7tok22p",
-          "sentiment": -0.3
-        },
-        {
-          "id": "3950ab56bcd869ff35ceeffc168aa1ac9e0cf3ee38ae1326097c92c8f57fa0e3",
-          "authorHandle": "revpolarbear1962.bsky.social",
-          "postText": "www.threads.com/share/BAWSWg...\n🇺🇸📜🗳️📬🔵✊🏼",
-          "createdAt": "2026-09-07T20:53:38.336Z",
-          "uri": "at://did:plc:eym4efcadl5iiv6suyhiycny/app.bsky.feed.post/3muxfbzmqc22i",
-          "sentiment": 0
-        },
-        {
-          "id": "0c14dd9a584057a5ad67e2428fcdf0eceab8b40fba277ccd5cee307f9ed3a44f",
-          "authorHandle": "davetheresurrector.bsky.social",
-          "postText": "Mailed another tranche of Activate America postcards, this one for Troy Jackson in Maine.",
-          "createdAt": "2026-09-07T20:53:00.580Z",
-          "uri": "at://did:plc:htpki7squ3jvrichhlucnhdl/app.bsky.feed.post/3muxfavmj722m",
-          "sentiment": 0.7
-        },
-        {
-          "id": "9f5f5bdc549f1bd88523d1f19f64f22a597eefe4f055938eabcc81bfd00b508b",
-          "authorHandle": "kotocomposer.bsky.social",
-          "postText": "Interesting how out of touch you always seem to be @politico.com. Maybe take a break from attacking Dems and look at the treasure trove of corruption and illegal activity coming from Trump and the Republican party.",
-          "createdAt": "2026-09-07T20:43:09.280Z",
-          "uri": "at://did:plc:mcirj5gry7hwkz2xjky5rrl4/app.bsky.feed.post/3muxepbppm22h",
-          "sentiment": 0
-        },
-        {
-          "id": "3cae9ce6b8e56b9904a2d5a7e586fe1301ef87729603bc93c60343cc6cd03394",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "#SolidarityForever\n\n #JacksonForMaine\n\nHelp Troy’s campaign and unseat Susan Collins: jacksonformaine.com",
-          "createdAt": "2026-09-07T20:41:55.210Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3muxen32zsk2d",
-          "sentiment": 0.8
-        },
-        {
-          "id": "3628231fb61d1fb025b5bafc63eed0a55471881ca742b23898611781c0d73f3a",
-          "authorHandle": "susan-schwaiger.bsky.social",
-          "postText": "I have given money to a great group this year! I gave the most to Angie Nixon. Then I also gave to Sarah McBride, Abdul El-Sayed, Troy Jackson, and Katie Hobbs.",
-          "createdAt": "2026-09-07T20:41:48.526Z",
-          "uri": "at://did:plc:a5q4ykb5qmwhrbpkgn2obghn/app.bsky.feed.post/3muxemuozic26",
-          "sentiment": 0.8
-        },
-        {
-          "id": "b31d3ceda54c5fa81f0a828bb504b2584144e6489e1df5d49a7fdbaed4e746c2",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "Latest Maine US Senate race poll, for what it’s worth, with a bit of info on who did the poll, when, how many…with link to poll details (click the arrow next to Abacus).\n\nTroy Jackson 50%\nSusan Collins 42%\n\nDonate to Troy Jackson here: \n👉 jacksonformaine.com \n\n#MEpolitics #MEsen #JacksonForMaine",
-          "createdAt": "2026-09-07T20:14:53.646Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3muxd4qmt7k2d",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
@@ -1937,6 +1889,14 @@
       "news": [],
       "social": [
         {
+          "id": "96266a2affb1de2bf0b8ba26a6673f4f503dffe8da2daf91fbedba0bca6316e4",
+          "authorHandle": "mrspeyketewa1.bsky.social",
+          "postText": "www.instagram.com/reel/Dcv7RNO...",
+          "createdAt": "2026-09-08T21:48:07.937Z",
+          "uri": "at://did:plc:g6w3yntgnciudlycj3tz4ct7/app.bsky.feed.post/3muzysf7rzc2n",
+          "sentiment": 0
+        },
+        {
           "id": "5da2f78bb0fef9bc2d5297c5cdb7a884622ae656e4e3ede1cfaa35a0ce7691e1",
           "authorHandle": "rodwalkernola.bsky.social",
           "postText": "#Saints captains for this season \n\nDavid Edwards \nKaden Elliss \nCam Jordan \nErik McCoy\nJustin Reid\nChris Rumph \nTyler Shough\nZach Wood\nChase Young",
@@ -1958,14 +1918,6 @@
           "postText": "We need more of this type of response.\n\napple.news/Ayxgf5yTvQdG...",
           "createdAt": "2026-09-08T05:38:22.714Z",
           "uri": "at://did:plc:ozifw4b5mozkufkykkhgkmqv/app.bsky.feed.post/3muycmdhp6k2r",
-          "sentiment": 0
-        },
-        {
-          "id": "8bba9b084154943ddfc5dc1443a17a270332a33a806025d3d1349e49a0a9ae54",
-          "authorHandle": "sandwichpick.bsky.social",
-          "postText": "Top 15 ADP for hitters vs Actual Top 15 Hitters by Roto Value this year (highlighting players that were both)",
-          "createdAt": "2026-09-07T21:19:35.334Z",
-          "uri": "at://did:plc:cilflthhvjzz6dz6k765zjwa/app.bsky.feed.post/3muxgqgj3q22p",
           "sentiment": 0
         }
       ],
