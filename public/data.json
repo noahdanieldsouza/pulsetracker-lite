@@ -1,39 +1,30 @@
 {
-  "lastUpdated": "2026-09-08T22:35:38.656Z",
+  "lastUpdated": "2026-09-09T00:32:43.398Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0.7,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": 0.7,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "94b2385f6cce56c11d9138e546fba56e5cfdf44e820719baa54f7f94cf952342",
-          "authorHandle": "societyofhemonc.bsky.social",
-          "postText": "Wed 9/9 @ 8am during SOHO 2026, Nirav Shah, MD, of @medicalcollegeofwi.bsky.social will lead an MTP session on pharma trials in lymphoma. Watch @LNastoupilMD discuss the topic & point of care, CAR-T manufacturing with Dr. Shah: buff.ly/q8vRcds \n\nRegister for on-demand access: soho.click/register",
-          "createdAt": "2026-09-07T23:38:23.529Z",
-          "uri": "at://did:plc:vqwjwvwsp24px5yd54s4ilzi/app.bsky.feed.post/3muxoin2wtr2a",
-          "sentiment": 0.7
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.35,
+      "overallSentiment": 0.19999999999999998,
       "newsSentiment": null,
-      "socialSentiment": 0.35,
+      "socialSentiment": 0.19999999999999998,
       "mentions": {
         "news": 0,
         "social": 2,
@@ -43,20 +34,20 @@
       "news": [],
       "social": [
         {
+          "id": "241b1daaa2856dbede9068a7a292a5dbb07511ba77b59ac2069f96a8001f1ed4",
+          "authorHandle": "leftiesalwayslie.bsky.social",
+          "postText": "@ThruNewEyez\nMaine's secretary of state Shenna Bellows (the one who tried to remove Trump from the ballot in 24)",
+          "createdAt": "2026-09-09T00:07:09.483Z",
+          "uri": "at://did:plc:3b5dzko7knrlydxqxgal4psd/app.bsky.feed.post/3mv2akydk2k2e",
+          "sentiment": -0.3
+        },
+        {
           "id": "856e4294f1f779dc5f96278b90a20e616b8f5440536b4da2f3804e6f4eafd3ad",
           "authorHandle": "indivmidmaine.bsky.social",
           "postText": "www.mobilize.us/indivisiblem...\n\nDon't forget to sign up & join us! \nIMM is opening our Sept. membership meeting to all our area pro-democracy friends who want to hear from our fine secretary of state about elections, election security, etc.\nBut space is limited, so do sign up if you plan to come!",
           "createdAt": "2026-09-08T09:20:57.756Z",
           "uri": "at://did:plc:rokdgpbsyht6ariljokb6hhh/app.bsky.feed.post/3muyp2dtaf225",
           "sentiment": 0.7
-        },
-        {
-          "id": "79cfb2ff1f8cb8ab6a9ae8ac1ba67e0a2e3437f3a4915bb8a6e6f55a57acc3bd",
-          "authorHandle": "mainemorningstar.com",
-          "postText": "“The president can say whatever he wants, but his powers are extraordinarily limited in this way,” said Maine Secretary of State Shenna Bellows. mainemorningstar.com/2026/09/07/r...",
-          "createdAt": "2026-09-07T23:45:02.186Z",
-          "uri": "at://did:plc:xioe5btxavtplvj5h7gpk2uv/app.bsky.feed.post/3muxoukex5c2n",
-          "sentiment": 0
         }
       ],
       "youtube": [],
@@ -65,14 +56,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.33939332795265004,
+      "overallSentiment": 0.35224386724386725,
       "newsSentiment": 0.046428571428571416,
-      "socialSentiment": 0.4050847457627119,
+      "socialSentiment": 0.4436363636363636,
       "mentions": {
         "news": 140,
-        "social": 59,
+        "social": 55,
         "youtube": 6,
-        "total": 205
+        "total": 201
       },
       "news": [
         {
@@ -1338,6 +1329,54 @@
       ],
       "social": [
         {
+          "id": "de137d0b9bbf853276ec6f6f6397e3bd97c636607da23d3bbfc95403f982e0f4",
+          "authorHandle": "thelibertypear.com",
+          "postText": "🪵🍐 New endorsement: Troy Jackson for U.S. Senate in Maine.\n\n5th-gen logger. Former Maine Senate President. Bernie’s 2016 Maine political director. And he has repeatedly won in territory Trump carried.\n\nWorking-class politics that can actually compete everywhere. ✅\n\nthelibertypear.com/2026/09/05/e...",
+          "createdAt": "2026-09-09T00:15:06.151Z",
+          "uri": "at://did:plc:atnbskbs2ceelndcdyst5plm/app.bsky.feed.post/3mv2az6wd4s24",
+          "sentiment": 0.8
+        },
+        {
+          "id": "88f36422c21f56bf051ea25eb4ad21de93a9b610468549e1353f9de5b93bb0a7",
+          "authorHandle": "wabrahamwashington.bsky.social",
+          "postText": "Troy Jackson, the Dem nominee\n“I do find it really hypocritical to say, ‘Well, I don’t support this bill,’ or ‘I voted against this law,’ like Senator Collins does, when she helped appoint those department heads,” Jackson told supporters. “Every one of them told us they were going to have tariffs.”",
+          "createdAt": "2026-09-08T23:54:59.970Z",
+          "uri": "at://did:plc:b4sv2xl3vy5ldzkuvjhozejz/app.bsky.feed.post/3mv27vammxs22",
+          "sentiment": 0.6
+        },
+        {
+          "id": "d5c16a1b6f95f7802ad608d16d6580fb5eeed1dc8052465f93895d4e1d6602db",
+          "authorHandle": "minuteman04.bsky.social",
+          "postText": "See Troy Jackson running against Susan Collins in Maine. He may not be \"young\" but he's younger than Collins be a good bit and checks the other boxes.",
+          "createdAt": "2026-09-08T23:40:26.169Z",
+          "uri": "at://did:plc:35ikw24omeygjw4etf6cebcz/app.bsky.feed.post/3mv2737cdok25",
+          "sentiment": 0.7
+        },
+        {
+          "id": "6b360f0c20fa699eb3b7017630d52ad503e47e99381d7ae73ef5e0134d0b5746",
+          "authorHandle": "galenstone.bsky.social",
+          "postText": "Let's flush a phony hag, Mainers.\n\n@troyjackson207.bsky.social",
+          "createdAt": "2026-09-08T23:32:47.791Z",
+          "uri": "at://did:plc:7euwurnrt4cnlapptx7xiiyn/app.bsky.feed.post/3mv26nk5oxk2a",
+          "sentiment": -1
+        },
+        {
+          "id": "9fb9d51ce421d115d3cedc5e9f4e006e7cd92cf87357ba878aca4ef6118c6f0e",
+          "authorHandle": "moved2italy.bsky.social",
+          "postText": "Democratic candidates all over the US are fighting against gerrymandering, election interference and voter suppression, and of course… dirty BILLIONAIRE 💰 MONEY‼️\n\nIncluding this plain Mainer @troyjackson207.bsky.social! \nGive him a hand if ya can. \nwww.jacksonformaine.com",
+          "createdAt": "2026-09-08T23:14:08.704Z",
+          "uri": "at://did:plc:eawzglklesn5krtzphf3vcwk/app.bsky.feed.post/3mv25m6vyhs2g",
+          "sentiment": 0.75
+        },
+        {
+          "id": "d4988ee5bc16b5fe4160c2fc5129dbdb548bb11ce4287c5e0404cccc0a71bdec",
+          "authorHandle": "startledsquirrel.bsky.social",
+          "postText": "Not falling for it. Troy Jackson for Senate!",
+          "createdAt": "2026-09-08T23:03:34.439Z",
+          "uri": "at://did:plc:h7vbeln6osknacosx4hv6htx/app.bsky.feed.post/3mv24zbzn5k2v",
+          "sentiment": 0.75
+        },
+        {
           "id": "09a7da6810e64c60c0e4e7db9660108ce07bedeb79d8e7cadabfa0876e37831d",
           "authorHandle": "us-med.bsky.social",
           "postText": "",
@@ -1727,86 +1766,6 @@
           "postText": "Collins's Kavanaugh vote becomes centerpiece of Maine Senate challenge",
           "createdAt": "2026-09-08T01:32:04Z",
           "uri": "at://did:plc:nasdzbpiyzph2lvcoijyxere/app.bsky.feed.post/3muxutvs33t2b",
-          "sentiment": 0
-        },
-        {
-          "id": "4b6e5c0cb7519b75988e70ee78ab513eb11f0495a5a42093a89866212e0a4593",
-          "authorHandle": "mrarenge.bsky.social",
-          "postText": "This ad, which has a much different focus from those above, just started running today in Maine.\n\n\"Socialism is a direct threat to America and Troy Jackson stands with the radicals.\"\n\n#MESen",
-          "createdAt": "2026-09-08T00:30:31.952Z",
-          "uri": "at://did:plc:ceynfp5tzlywfz2242vhsx5n/app.bsky.feed.post/3muxrfugp6s2n",
-          "sentiment": -1
-        },
-        {
-          "id": "8d6de48e6ae68f52784e3b5b719218480b62c7ea69f45c785184cde81dfeaba8",
-          "authorHandle": "ga36542.bsky.social",
-          "postText": "Please Maine, vote for democracy, for Troy Jackson! 💪💪💙💙",
-          "createdAt": "2026-09-07T23:34:06.491Z",
-          "uri": "at://did:plc:5k5pt3lgsludgcmnk2k5wknl/app.bsky.feed.post/3muxoaxqpfs2a",
-          "sentiment": 1
-        },
-        {
-          "id": "fad23bea81afc142aeaea139370170c95ce08dace9e49b2d105f39110b039606",
-          "authorHandle": "bambooshooti.bsky.social",
-          "postText": "Troy Jackson is an unapologetic, working-class progressive. He rejects corporate PAC money, relying on union and grassroots support. If you'd like to pitch in, visit his website. It provides ways you can donate or volunteer.\n\nwww.jacksonformaine.com",
-          "createdAt": "2026-09-07T23:31:26.144Z",
-          "uri": "at://did:plc:kb3hzw3g5abobjm6ulbwjduc/app.bsky.feed.post/3muxo4a4xkc2u",
-          "sentiment": 0.8
-        },
-        {
-          "id": "55b413298b8c644ba943bb6af75f02d34d5a0be9377f846938d1177ac083af31",
-          "authorHandle": "bambooshooti.bsky.social",
-          "postText": "Maine! What has Susan Collins done for your state, for you? It's time for change. Troy Jackson wants Medicare for All, lower costs for prescription drugs and tax cuts for the working class, while making billionaires and corporations pay their fair share.\n\nElect Troy Jackson\nU.S. Senate, Maine",
-          "createdAt": "2026-09-07T23:31:26.143Z",
-          "uri": "at://did:plc:kb3hzw3g5abobjm6ulbwjduc/app.bsky.feed.post/3muxo46tbks2u",
-          "sentiment": 0.9
-        },
-        {
-          "id": "76cb4dfa49e30e940037576eac05612b5b79dcc20c062d4ee5b8e77221e30cac",
-          "authorHandle": "pguist.bsky.social",
-          "postText": "Troy Jackson, who lives near the Canadian border, says his experience working with Canadians has given him a different perspective on how they view their healthcare system.",
-          "createdAt": "2026-09-07T23:24:05.565Z",
-          "uri": "at://did:plc:u6jwqspda4uhf2alsxo345lw/app.bsky.feed.post/3muxnp2nwlk2r",
-          "sentiment": 0.1
-        },
-        {
-          "id": "0aaf5c7a57df17e9fbd341c2928b04654d63237b6ea8fdb85aac2a2d70b3b62c",
-          "authorHandle": "celiebug.bsky.social",
-          "postText": "youtube.com/shorts/Pkwyh...",
-          "createdAt": "2026-09-07T23:15:12.989Z",
-          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3muxn76qxuc2r",
-          "sentiment": 0
-        },
-        {
-          "id": "8a18ac974227af727afbaf4094b730dbea9921de36f1949765c6948b56874f93",
-          "authorHandle": "andrealaflamme.bsky.social",
-          "postText": "What a great night! It was so nice catching up with everyone, celebrating some fantastic awardees—including UMaine Grad Workers and the leadership at my union, MSEA SEIU 1989— and hearing from @lizshuler.bsky.social  Solidarity forever! 💜✊🏼",
-          "createdAt": "2026-09-07T22:50:35.500Z",
-          "uri": "at://did:plc:xxdwlb6smjqdscshtvth6otu/app.bsky.feed.post/3muxlt5ppg22j",
-          "sentiment": 0
-        },
-        {
-          "id": "9ef33d20d3faa671ad96fa9919c5259ddee3f574bd4372a2683e5ede7a384d72",
-          "authorHandle": "brms52.bsky.social",
-          "postText": "Another reason for Maine voters to vote for Troy Jackson",
-          "createdAt": "2026-09-07T22:43:29.198Z",
-          "uri": "at://did:plc:nemkgjkcz55by4ldrz5htmfv/app.bsky.feed.post/3muxlgh6elk2r",
-          "sentiment": 0
-        },
-        {
-          "id": "3777b8ade74a95bd34283c3a440f37ddc3246bf97b85976a5687a8f3f7d9af21",
-          "authorHandle": "umlegacypress.com",
-          "postText": "Midterms Enter Home Stretch as Candidates Hit Labor Day Events\n\nTroy Jackson, a longtime labor activist and logger, unexpectedly became Maine's Democrat nominee for U.S. Senate. On Monday, he urged union workers to vote this fall to raise the minimum wage, expand family medical leave, and support…",
-          "createdAt": "2026-09-07T22:41:49Z",
-          "uri": "at://did:plc:uf6566ur4zv2h7yl4les2ygh/app.bsky.feed.post/3muxldjy53k2e",
-          "sentiment": 0.3
-        },
-        {
-          "id": "51bf482f62a5906147fb15cfec9c1a04f96308088570ada791803693a2d3aae0",
-          "authorHandle": "bsfavourite.bsky.social",
-          "postText": "Midterms Enter Home Stretch as Candidates Hit Labor Day Events",
-          "createdAt": "2026-09-07T22:35:48Z",
-          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3muxkyqdldv2h",
           "sentiment": 0
         }
       ],
