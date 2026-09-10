@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T05:04:47.369Z",
+  "lastUpdated": "2026-09-10T09:37:22.917Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -82,14 +82,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.23241459369817577,
+      "overallSentiment": 0.2361454248366013,
       "newsSentiment": -0.041666666666666664,
-      "socialSentiment": 0.23891044776119405,
+      "socialSentiment": 0.2501029411764706,
       "mentions": {
         "news": 24,
-        "social": 67,
+        "social": 68,
         "youtube": 8,
-        "total": 99
+        "total": 100
       },
       "news": [
         {
@@ -310,6 +310,22 @@
         }
       ],
       "social": [
+        {
+          "id": "5aea9cab67eb04d661496fd52745c6d5345529cb6bc8a4cff4fcbb936304e647",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "🤝 Support Democratic candidates in competitive races, from James Talarico in Texas to Peggy Flanagan in Minnesota, Josh Turek in Iowa to Abdul El-Sayed in Michigan, and Troy Jackson in Maine to Mary Peltola in Alaska.",
+          "createdAt": "2026-09-10T08:19:55.431Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mv5ml23h4s2z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "2c73e8739f6676f14e4b99e6e26296eddc49be2ab89f9f6f8848dace8f4453b5",
+          "authorHandle": "godofindifference.bsky.social",
+          "postText": "“Democrat Troy Jackson is leading U.S. Sen. Susan Collins by 3 percentage points among likely Maine voters in a CNN poll released Wednesday, the latest in a string of surveys with similar findings in the crucial race.”",
+          "createdAt": "2026-09-10T07:30:26.775Z",
+          "uri": "at://did:plc:dm3xiu72nnregfgy2jqwv53i/app.bsky.feed.post/3mv5jskxfv223",
+          "sentiment": 0.5
+        },
         {
           "id": "82cace3aaf9046dce925f6651227c40971005ef3c5ba58445840c400dfc9451d",
           "authorHandle": "alcibiades1234.bsky.social",
@@ -837,14 +853,6 @@
           "createdAt": "2026-09-09T11:09:01.527Z",
           "uri": "at://did:plc:hhteydoawq45y4nvmeipl7zy/app.bsky.feed.post/3mv3fkjbig62k",
           "sentiment": -0.6
-        },
-        {
-          "id": "6ea5ea4f349a4a076c7a536bdf41346b625bde729d54415cbead30780e6cf5af",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "CHIP IN $5: DEFEAT SUSAN COLLINS\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-09-09T08:01:06.856Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mv332idc4s24",
-          "sentiment": 0
         }
       ],
       "youtube": [
