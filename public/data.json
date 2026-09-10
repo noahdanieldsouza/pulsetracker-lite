@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:17:09.925Z",
+  "lastUpdated": "2026-09-10T19:47:25.649Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -32,14 +32,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.11666666666666665,
+      "overallSentiment": 0,
       "newsSentiment": 0,
-      "socialSentiment": -0.2333333333333333,
+      "socialSentiment": null,
       "mentions": {
         "news": 3,
-        "social": 3,
+        "social": 0,
         "youtube": 0,
-        "total": 6
+        "total": 3
       },
       "news": [
         {
@@ -70,46 +70,21 @@
           "sentiment": 0
         }
       ],
-      "social": [
-        {
-          "id": "e02f707f08d1ca9a5696c9da4024041e7f670f6cae987ea5a6218dce4bcfb9ab",
-          "authorHandle": "pressherald.com",
-          "postText": "Shenna Bellows will seek to be Maine’s secretary of state for 1 last term",
-          "createdAt": "2026-09-09T19:00:55+00:00",
-          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mv47wcmn7v2c",
-          "sentiment": -0.3
-        },
-        {
-          "id": "33a8f5dc1b6ff3bbff7ae4d2c30cbe019fc01510af0ee7eec080c41ce8356b39",
-          "authorHandle": "degolierthomas.bsky.social",
-          "postText": "Lol. 1 of them blocked me when I suggested Shenna Bellows would be better",
-          "createdAt": "2026-09-09T17:41:44.372Z",
-          "uri": "at://did:plc:kb723pr2gmkn2vi3nw6we66w/app.bsky.feed.post/3mv43ipxvts2e",
-          "sentiment": 0.6
-        },
-        {
-          "id": "2afb791d6f17f1e956df89fe5c51e72847b86ed6dd8f8a9eb4659f6b868cd7fe",
-          "authorHandle": "hydevoltyge.bsky.social",
-          "postText": "No reason why Mills defenders couldn't have spent their time supporting Shenna Bellows\n\nWhat exactly would be the downside by comparison?",
-          "createdAt": "2026-09-09T17:37:28.344Z",
-          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mv43b3skis27",
-          "sentiment": -1
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.4469755486816909,
+      "overallSentiment": 0.4421174524400331,
       "newsSentiment": 0.07096774193548383,
-      "socialSentiment": 0.26995890410958906,
+      "socialSentiment": 0.25538461538461543,
       "mentions": {
         "news": 62,
-        "social": 73,
+        "social": 65,
         "youtube": 2,
-        "total": 137
+        "total": 129
       },
       "news": [
         {
@@ -673,6 +648,46 @@
       ],
       "social": [
         {
+          "id": "c37870be81801144bef4057c18200f951f1e721bcd19e59e1ae88c48fcd01ce7",
+          "authorHandle": "iwantmycountry26.bsky.social",
+          "postText": "substack.com/@troyjackson.... Vote Troy Jackson Maine",
+          "createdAt": "2026-09-10T19:17:58.001Z",
+          "uri": "at://did:plc:u6wpahdxudi2unba3go2nbsv/app.bsky.feed.post/3mv6rdpltg22x",
+          "sentiment": -1
+        },
+        {
+          "id": "7c30dbce7b86731ad5ddfe002f06e19cddf7b481971d6007f77a5013c3b2b768",
+          "authorHandle": "will-andrew.bsky.social",
+          "postText": "And the classic: \"Troy Jackson has been sticking it to Mainers for yrs, and without Vaseline.\"",
+          "createdAt": "2026-09-10T19:10:29.403Z",
+          "uri": "at://did:plc:mfc7subci6y6uko42gl2dm2p/app.bsky.feed.post/3mv6qwdsjsc2d",
+          "sentiment": -1
+        },
+        {
+          "id": "6881e7894935a2d653bf79ac4f3cdc3188c3d168b099c1a287706f453bf4a784",
+          "authorHandle": "our-revolution.bsky.social",
+          "postText": "The Battle for the Midterms starts NOW. Join us LIVE Monday with:\n\nRep. Greg Casar @gregcasar.bsky.social \nTroy Jackson @troyjackson207.bsky.social \nRep. Aisha Wahab \nNina Turner @ninaturner.bsky.social \nLarry Cohen\nMegan Green @meganellyia.bsky.social \n\nRSVP Here: tinyurl.com/3hb7myn2",
+          "createdAt": "2026-09-10T19:08:22.569Z",
+          "uri": "at://did:plc:w3wvlxmeihdx5baq3teh4ddt/app.bsky.feed.post/3mv6qsl2od72v",
+          "sentiment": 0
+        },
+        {
+          "id": "e99a070a0eab4c096f3f6213c5bd87ea7e0bdaa0fda2777a5d13194125cce857",
+          "authorHandle": "wildwestleft.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-09-10T18:03:44.726Z",
+          "uri": "at://did:plc:cjpyji547emaghdgvcmmojyw/app.bsky.feed.post/3mv6n6ymozk22",
+          "sentiment": 0
+        },
+        {
+          "id": "bdc323d2c143ba7d87bd0d25c6b2efcaa6b658cdb1595c7370ef5d471a0f19d9",
+          "authorHandle": "sully362.bsky.social",
+          "postText": "I'm attending Jackson for Maine's event, “Biddeford Town Hall: Solidarity with Seniors” - sign up now to join me!  www.mobilize.us/jacksonforma...",
+          "createdAt": "2026-09-10T17:56:02.976Z",
+          "uri": "at://did:plc:s4fttef2kep7rtooy77ja3ow/app.bsky.feed.post/3mv6mrabe6c2i",
+          "sentiment": 0
+        },
+        {
           "id": "250b96b8aaf49f493387b0893d409dbce41d8bae3f4934598c29c402e19bdc9c",
           "authorHandle": "24hhotnewsai.bsky.social",
           "postText": "🔥 Maine’s Troy Jackson faces GOP’s $5K midterm gamble—and a movement in crisis\n#24hHotNewsAI #USNews",
@@ -1150,110 +1165,6 @@
           "postText": "Susan Collins has no problem standing by her billionaire paid ads that contain misinformation AND outright lies. Shame on the TV stations that air them just for the money.\nwww.pressherald.com/2026/09/09/s...",
           "createdAt": "2026-09-09T20:03:42.851Z",
           "uri": "at://did:plc:tinlrolgqokcgyhxrvbvwdh5/app.bsky.feed.post/3mv4dgltayk2a",
-          "sentiment": 0
-        },
-        {
-          "id": "ffaf0d1b1e81cbb37203e6f09bd008f0dd26bbfc06844d195e88978c31339885",
-          "authorHandle": "mercenary29.bsky.social",
-          "postText": "Kamala should campaign with Troy Jackson. She won Maine in 2024, and Troy can win this year with only Kamala's voters.",
-          "createdAt": "2026-09-09T19:25:12.449Z",
-          "uri": "at://did:plc:agu5ifdzoz5vqg27vheez4oz/app.bsky.feed.post/3mv4bbqhf2225",
-          "sentiment": 0.8176
-        },
-        {
-          "id": "47fe61c6f4e963adfef85b07a8e8389b81262450dfe068c080cc6ad0ae60adc0",
-          "authorHandle": "lkc2025.bsky.social",
-          "postText": "If doubling the death rate from ectopic pregnancies makes you want to force Susan Collins pay a price for confirming Kavanaugh with no regrets, here's a good way to help defeat her and elect Troy Jackson. www.mobilize.us/indivisible/...",
-          "createdAt": "2026-09-09T19:20:00.483Z",
-          "uri": "at://did:plc:7hzrlb2bkzvmqnsfgsdaejij/app.bsky.feed.post/3mv4aygwxps2w",
-          "sentiment": -0.7269
-        },
-        {
-          "id": "6f95a4d3b966d5280df85a45741a9fa1e043138a1ac86363d5e4321de5dde3b8",
-          "authorHandle": "joesudbay.bsky.social",
-          "postText": "@pressherald.com headline, when challenger who has been in the race for just over a month, leads 30 year incumbent:\n\nStill no space between Susan Collins, Troy Jackson in Maine Senate race, CNN poll finds\n\nNo space, so tie? Nope:\n\nJackson \"led Collins 48-45 in the poll of 880 likely voters in Maine\"",
-          "createdAt": "2026-09-09T19:11:27.301Z",
-          "uri": "at://did:plc:pifytwer7zg7psy7rfdb3gii/app.bsky.feed.post/3mv4aj5jwfk2t",
-          "sentiment": -0.4404
-        },
-        {
-          "id": "8037138a1b5935d96ce5f568c122dfa0c7a7efdfb7c84325dbe925ef6ef768dc",
-          "authorHandle": "hydevoltyge.bsky.social",
-          "postText": "Lots of things I love about Troy Jackson, but my favorite is that he's bewitched all the usual suspects to not complain about him in the slightest. Aesthetic moderation is a very powerful thing, more powerful than I realized I suppose. Only issue is the Maine media in the tank for Collins scaring Is",
-          "createdAt": "2026-09-09T19:03:11.922Z",
-          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mv4a2f44uk25",
-          "sentiment": 0.8908
-        },
-        {
-          "id": "282b4fc1a53fead8c8de35430baa476f5717565149e06c4af8fdf57270ad282a",
-          "authorHandle": "dirigoreport.bsky.social",
-          "postText": "Troy Jackson narrowly leads Susan Collins in another Maine poll\n\ndirigoreport.com",
-          "createdAt": "2026-09-09T18:58:26.698Z",
-          "uri": "at://did:plc:p2y5izj77t4xchjk7fblfzdi/app.bsky.feed.post/3mv4a4urukg22",
-          "sentiment": 0
-        },
-        {
-          "id": "2a1492fee0b7a701b896bb587d8c29a30c940f9e20fa22c79a85b8f91c4027d5",
-          "authorHandle": "banmarnj.bsky.social",
-          "postText": "Jackson, El-Sayed hold slight edge in key Senate races: CNN poll",
-          "createdAt": "2026-09-09T18:50:19.772Z",
-          "uri": "at://did:plc:y5xpslr2bnzbnbyzkexm4ork/app.bsky.feed.post/3mv47depy522o",
-          "sentiment": 0
-        },
-        {
-          "id": "c364d30156f6f41572c261b290b7178e7f4aee7f6de266726fcb30dbb5abe35c",
-          "authorHandle": "ciggysmokebringer.bsky.social",
-          "postText": "That sure looks decent to a motivated Party Loyalist outsider, but looked like wrong medicine for moment to many else. and thank god for Troy Jackson deciding maybe it was right moment to be the vessel with the message, nobody seems to have a major issue or a legit issue with him.",
-          "createdAt": "2026-09-09T18:36:29.029Z",
-          "uri": "at://did:plc:kb6hmixlzjnnms52ddqzt34v/app.bsky.feed.post/3mv46kn2q322i",
-          "sentiment": 0.85
-        },
-        {
-          "id": "f6cfb0e1e7870d74b70e1b1c1bee005f56e51d4fd782067939b393ab62774bee",
-          "authorHandle": "ritesofzhou.bsky.social",
-          "postText": "It’s funny how Sherrod Brown and Mary Peltola are in the 50% Club but Pappas, AES, Troy Jackson, and Talarico aren’t",
-          "createdAt": "2026-09-09T18:12:54.635Z",
-          "uri": "at://did:plc:mbmhdhcavklqljy2tnsodmd7/app.bsky.feed.post/3mv45ahlvic27",
-          "sentiment": 0.2382
-        },
-        {
-          "id": "5521d4754af51a4794675191925107ffe5b563c829479c27f7f3213507501608",
-          "authorHandle": "bangordailynews.bsky.social",
-          "postText": "The result underscores how vulnerable the Republican incumbent has become in a midterm year shaped by President Donald Trump's unpopularity. www.bangordailynews.com/2026/09/09/p...",
-          "createdAt": "2026-09-09T18:08:02.156Z",
-          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mv44xrefy62r",
-          "sentiment": -0.2263
-        },
-        {
-          "id": "a7342d0c50e17a92b3596a18ce63242eb683f02b331e738211fd388b1c436930",
-          "authorHandle": "pressherald.com",
-          "postText": "Still no space between Susan Collins, Troy Jackson in Maine Senate race, CNN poll finds",
-          "createdAt": "2026-09-09T17:50:19+00:00",
-          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mv43y3dwvs2j",
-          "sentiment": -0.296
-        },
-        {
-          "id": "51769297e2f16cea6afd96d3719500f2bc96991c02a95975c4a22a4f70bb0a0c",
-          "authorHandle": "whitehousewatchdog.bsky.social",
-          "postText": "CNN polling reveals a tight Maine Senate race as debate continues over Collins' Kavanaugh confirmation vote, potentially influencing voters.",
-          "createdAt": "2026-09-09T17:43:05.602Z",
-          "uri": "at://did:plc:chkh3qo3cdvmsycdvtoirih6/app.bsky.feed.post/3mv43l5kqti2x",
-          "sentiment": 0
-        },
-        {
-          "id": "2bbec3aeed40694d1855f8acac45e9a6b7ff802597682dbabe0bc7a4dd6915c7",
-          "authorHandle": "davidrlurie.com",
-          "postText": "As Ron Brownstein has explained, El-Sayed needs more of the very ample nos. of Trump disapprovers.  Same for Troy Jackson.  Presumably, some of those gettable voters are among the undecideds.",
-          "createdAt": "2026-09-09T17:42:18.213Z",
-          "uri": "at://did:plc:bbnmvfy5qfmn7woxivob6sar/app.bsky.feed.post/3mv43jqanp222",
-          "sentiment": 0
-        },
-        {
-          "id": "ad7d15a30893bab39d7dfa539298203c6c914cf4b217c6cf273b3c9bb3b1fecf",
-          "authorHandle": "margaretforsyth.bsky.social",
-          "postText": "Unlocked. My headline: Press Herald actually does provide context!\nEspecially on the senior property tax fairness claim.\n\nwww.pressherald.com?p=7718942&uu...",
-          "createdAt": "2026-09-09T17:30:33.831Z",
-          "uri": "at://did:plc:qgimsdoqyxdklecbembcwvc5/app.bsky.feed.post/3mv42uqj2d22a",
           "sentiment": 0
         }
       ],
