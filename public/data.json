@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T18:37:46.312Z",
+  "lastUpdated": "2026-09-11T21:16:39.682Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -76,14 +76,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2804012345679013,
+      "overallSentiment": 0.2892195767195767,
       "newsSentiment": -0.05555555555555555,
-      "socialSentiment": 0.1592592592592593,
+      "socialSentiment": 0.18571428571428572,
       "mentions": {
         "news": 18,
-        "social": 54,
+        "social": 49,
         "youtube": 8,
-        "total": 80
+        "total": 75
       },
       "news": [
         {
@@ -250,6 +250,62 @@
         }
       ],
       "social": [
+        {
+          "id": "a3331f3f6e5770fbf59b9e18f382dfcea076cbb649f9daab4c7043ade9fa96cb",
+          "authorHandle": "collinswatch.bsky.social",
+          "postText": "Another ME-SEN poll, similar result.\n\nThe thing that sticks out to us is that Troy Jackson seems to be consistently out-polling Susan Collins with independents. #MEpolitics",
+          "createdAt": "2026-09-11T21:15:32.899Z",
+          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3mvbiev5cyc2o",
+          "sentiment": 0.2
+        },
+        {
+          "id": "1c69f29f05bdb99b33405f37d5b54f74322d972d14b90f13b149a7379ebd1ead",
+          "authorHandle": "clearlyashley.bsky.social",
+          "postText": "link here. survey 9/8-9/10. moe 2pp. LV.",
+          "createdAt": "2026-09-11T20:59:56.767Z",
+          "uri": "at://did:plc:zjkfkzunzinds2ozg6uidsiv/app.bsky.feed.post/3mvbhiyejss2d",
+          "sentiment": 0
+        },
+        {
+          "id": "67a7941df0decc9e24b420de2cc280b22c08afce1f0171a1d54c0c3e8d283948",
+          "authorHandle": "clearlyashley.bsky.social",
+          "postText": "Rasmussen did Maine too!\n\n🟦 Troy Jackson: 46%\n🟥 Susan Collins: 45%\nUNDECIDED: 9%",
+          "createdAt": "2026-09-11T20:58:50.591Z",
+          "uri": "at://did:plc:zjkfkzunzinds2ozg6uidsiv/app.bsky.feed.post/3mvbhgzb4ps2d",
+          "sentiment": 0.3
+        },
+        {
+          "id": "f7230c0d648b04da8f894ae6a755407ea7cf875ef34d98c1d9e3803dc068dad2",
+          "authorHandle": "bsfavourite.bsky.social",
+          "postText": "Maine Democrat Troy Jackson Tours ‘Inclusive’ Welding School with Zero Tolerance for ‘Fatphobia’",
+          "createdAt": "2026-09-11T19:58:06Z",
+          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mvbe2gbuhz2o",
+          "sentiment": -0.4
+        },
+        {
+          "id": "42775d8d9a448d62080c536ee596bed7031c46dc4506b8c5555da69d5407ea25",
+          "authorHandle": "democracysaver2025.bsky.social",
+          "postText": "Troy Jackson is the Maine DEM candidate for Senator running against incumbent Susan Collins.  Here's terrific new ad:\nx.com/MajorityPAC/...",
+          "createdAt": "2026-09-11T19:44:57.822Z",
+          "uri": "at://did:plc:3j2krrhzdgfantyk6uanvvl5/app.bsky.feed.post/3mvbdcvtluc2h",
+          "sentiment": 0.6
+        },
+        {
+          "id": "73a3f04681fe91de0ec6464a52ec659abc331cb6c82b0d392e8991e48b0b9885",
+          "authorHandle": "mountainsongdoctor.bsky.social",
+          "postText": "Mainers, do you Musk’s massive wealth buying our senate seat and our representative?  Make no mistake: if LePage and Collins win, they will be endebted to the oligarchs and continue drumpf’s bidding.\n\nVote for Troy Jackson and Matt Dunlap.  We deserve to have our voices heard!",
+          "createdAt": "2026-09-11T19:40:21.374Z",
+          "uri": "at://did:plc:strpyhqr2kzoiw36f7p5cb2n/app.bsky.feed.post/3mvbd2o7no22z",
+          "sentiment": 0.7
+        },
+        {
+          "id": "b4d47513d9b49e0d4b2de3b7b8dc5d971f4ffc117418acfda4b1c5b5aa402d86",
+          "authorHandle": "antibot4navalny.bsky.social",
+          "postText": "...and\n\n🔵 Abdul El-Sayed (MI)\n🔵 John Turek (IA)\n🔵 Troy Jackson (ME)\n🔵 Graham Platner (ME)\n🔵 Josh Turek (IA)",
+          "createdAt": "2026-09-11T18:46:54.684Z",
+          "uri": "at://did:plc:6vblwh2edno4ayc2mku72r7e/app.bsky.feed.post/3mvba342puc2h",
+          "sentiment": 0
+        },
         {
           "id": "868eef40daf81ec1c8e49de146b752e7b2af26767434173a5bd1d4027d34dd9c",
           "authorHandle": "jenrubin.bsky.social",
@@ -584,102 +640,6 @@
           "postText": "Chop Wood, Carry Water 9/10\nchopwoodcarrywaterdailyactions.substack.com/p/chop-wood-...",
           "createdAt": "2026-09-10T21:20:15.227Z",
           "uri": "at://did:plc:hgcc5cqa2dknumtotddo6l6h/app.bsky.feed.post/3mv6y6ew76k2w",
-          "sentiment": 0
-        },
-        {
-          "id": "b75256ade0e2d1915ae5ef457cbb2f9151012c6c606f35fe16c59c16f8c0569d",
-          "authorHandle": "celiebug.bsky.social",
-          "postText": "youtube.com/shorts/pMq2r...",
-          "createdAt": "2026-09-10T21:09:54.900Z",
-          "uri": "at://did:plc:7ksdam22ggjg7pi5u5v4da2d/app.bsky.feed.post/3mv6xlvdd3s2j",
-          "sentiment": 0
-        },
-        {
-          "id": "dece8e2d9cb542e9a3a8884847634c9b48d4d0cf1977bc7f4d4b723462eec427",
-          "authorHandle": "theveganwriter.bsky.social",
-          "postText": "Chop Wood, Carry Water 9/10\nchopwoodcarrywaterdailyactions.substack.com/p/chop-wood-...",
-          "createdAt": "2026-09-10T20:49:50.572Z",
-          "uri": "at://did:plc:qjoltoq3z3p27rbucvx5azsl/app.bsky.feed.post/3mv6whys6j22p",
-          "sentiment": 0
-        },
-        {
-          "id": "d0bd71d325505fb02312ed441bed8438f153ff36959ca92fd80692e929ed2abd",
-          "authorHandle": "capitolhillaccess.bsky.social",
-          "postText": "WinSenate spends $475,692 to OPPOSE Dan Sullivan (Sen AK Sen)(R)\n\n#AKSen,\n\n$1,811,799 to OPPOSE Ashley Hinson Arenholz (Sen IA Sen)(R),\n\n$2,756,295 to SUPPORT Troy Jackson (Sen ME Sen)(D),\n\n$9,964 to OPPOSE Susan Collins (Sen ME Sen)(R),\n\n$2,297,700 to OPPOSE Michael Rogers (Sen MI Sen)(R),...",
-          "createdAt": "2026-09-10T20:47:11.514Z",
-          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mv6wdd3tut24",
-          "sentiment": 0.6
-        },
-        {
-          "id": "ba5c6e7933f65a950287b6e2d7547527eafe1bc4bca4120c756e81ea3021946d",
-          "authorHandle": "giftedgecko.bsky.social",
-          "postText": "From 2 years ago: \"To all of the transgender individuals in Maine, I want you to know today that you are seen and accepted.\n\nIt is certainly not my job or anyone else's in state government to tell you who you should be.\"\n\nshare.google/x9T308FEN6b6...",
-          "createdAt": "2026-09-10T20:31:32.706Z",
-          "uri": "at://did:plc:lbooxerdime3ek4bwrtkepgq/app.bsky.feed.post/3mv6vhbryps27",
-          "sentiment": 0.8
-        },
-        {
-          "id": "0159503d44b3eb6d8e813872fda381b0d784b139bb7103942216eb30a2edd2be",
-          "authorHandle": "mycatsrbadass.bsky.social",
-          "postText": "Chop Wood, Carry Water 9/10\nchopwoodcarrywaterdailyactions.substack.com/p/chop-wood-...",
-          "createdAt": "2026-09-10T20:11:01.242Z",
-          "uri": "at://did:plc:xjpthphro54mcqrutoqkqksq/app.bsky.feed.post/3mv6uclen7c23",
-          "sentiment": 0
-        },
-        {
-          "id": "305004b0c00a1061d89f6122482f8834c2b07ddb55df5dc4ba59ef8dc7ae3dca",
-          "authorHandle": "aleianjack.bsky.social",
-          "postText": "Chop Wood, Carry Water 9/10\nchopwoodcarrywaterdailyactions.substack.com/p/chop-wood-...",
-          "createdAt": "2026-09-10T20:02:45.942Z",
-          "uri": "at://did:plc:fum3w4xzx34oraieuoexypw5/app.bsky.feed.post/3mv6ttszcrk2t",
-          "sentiment": 0
-        },
-        {
-          "id": "8f3c77a66316c0fd4c8a0c254e189b60600a921b5926dfc1d906bc59fb64c346",
-          "authorHandle": "teresarobeson.com",
-          "postText": "Tell your house reps and senators to quit dicking around and do something about AI threats. Via Chop Wood, Carry Water 9/10 -\nchopwoodcarrywaterdailyactions.substack.com/p/chop-wood-...",
-          "createdAt": "2026-09-10T20:00:51.890Z",
-          "uri": "at://did:plc:em47s6v3yr5z64ox7ejwf5m6/app.bsky.feed.post/3mv6tqgapuk2h",
-          "sentiment": 0
-        },
-        {
-          "id": "9482344efcaa14e9aade03300c3484733f9ec095e702be07f9403a63c9ed7b2f",
-          "authorHandle": "mintimm.bsky.social",
-          "postText": "Susan Collins has a lot to say about how much power she has in Washington.\n\nBut here’s the question: What has she done with it?\n\nTroy Jackson would like a word. 👀\n\nCheck out the full episode of My Body. My Pod. on YouTube and wherever you get your podcasts! https://youtube.com/shorts/wSeFSYEEU6E\n",
-          "createdAt": "2026-09-10T19:54:04.533946902Z",
-          "uri": "at://did:plc:zyz7l7qp5j3xzjx6xszh3ato/app.bsky.feed.post/3mv6tebrt6g2e",
-          "sentiment": 0.8
-        },
-        {
-          "id": "fff57cf4813116631bfa3b8cbb3b016b94c674b439df1e0b21053f11c97453b6",
-          "authorHandle": "chopwoodcarrywaterdailyactions.skystack.xyz",
-          "postText": "Chop Wood, Carry Water 9/10 • With actions on → the AI-apocalypse / 9-11’s 25th anniversary / election protection / helping Troy Jackson win in Maine / Plus a star-studded live reading of An American Tail TONIGHT!",
-          "createdAt": "2026-09-10T19:27:31.767Z",
-          "uri": "at://did:plc:rsokhaf63fbfjqmy4ud3vcw7/app.bsky.feed.post/3mv724adnws2n",
-          "sentiment": 0.7
-        },
-        {
-          "id": "c37870be81801144bef4057c18200f951f1e721bcd19e59e1ae88c48fcd01ce7",
-          "authorHandle": "iwantmycountry26.bsky.social",
-          "postText": "substack.com/@troyjackson.... Vote Troy Jackson Maine",
-          "createdAt": "2026-09-10T19:17:58.001Z",
-          "uri": "at://did:plc:u6wpahdxudi2unba3go2nbsv/app.bsky.feed.post/3mv6rdpltg22x",
-          "sentiment": -1
-        },
-        {
-          "id": "7c30dbce7b86731ad5ddfe002f06e19cddf7b481971d6007f77a5013c3b2b768",
-          "authorHandle": "will-andrew.bsky.social",
-          "postText": "And the classic: \"Troy Jackson has been sticking it to Mainers for yrs, and without Vaseline.\"",
-          "createdAt": "2026-09-10T19:10:29.403Z",
-          "uri": "at://did:plc:mfc7subci6y6uko42gl2dm2p/app.bsky.feed.post/3mv6qwdsjsc2d",
-          "sentiment": -1
-        },
-        {
-          "id": "6881e7894935a2d653bf79ac4f3cdc3188c3d168b099c1a287706f453bf4a784",
-          "authorHandle": "our-revolution.bsky.social",
-          "postText": "The Battle for the Midterms starts NOW. Join us LIVE Monday with:\n\nRep. Greg Casar @gregcasar.bsky.social \nTroy Jackson @troyjackson207.bsky.social \nRep. Aisha Wahab \nNina Turner @ninaturner.bsky.social \nLarry Cohen\nMegan Green @meganellyia.bsky.social \n\nRSVP Here: tinyurl.com/3hb7myn2",
-          "createdAt": "2026-09-10T19:08:22.569Z",
-          "uri": "at://did:plc:w3wvlxmeihdx5baq3teh4ddt/app.bsky.feed.post/3mv6qsl2od72v",
           "sentiment": 0
         }
       ],
