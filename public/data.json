@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T11:46:11.740Z",
+  "lastUpdated": "2026-09-11T15:15:00.390Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -32,14 +32,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0,
+      "overallSentiment": -0.1,
       "newsSentiment": 0,
-      "socialSentiment": null,
+      "socialSentiment": -0.2,
       "mentions": {
         "news": 3,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 3
+        "total": 4
       },
       "news": [
         {
@@ -70,21 +70,30 @@
           "sentiment": 0
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "832ae1037163bf0bbf43d9c9716f63a872726263c8b34c36ef06366fa36c43dd",
+          "authorHandle": "dworkin.bsky.social",
+          "postText": "Maine Secretary of State Shenna Bellows just confirmed what happens to your ballot if you fall for the latest right-wing mailer. If you live in Maine or know anyone who does, do not touch a pen until you read this:\nwww.dworkinsubstack.com/p/trump-is-h...",
+          "createdAt": "2026-09-11T14:31:28.252Z",
+          "uri": "at://did:plc:t57zckxuo4v6t53fjp7j7mcv/app.bsky.feed.post/3mvarsdn4522f",
+          "sentiment": -0.2
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.4195533498759305,
+      "overallSentiment": 0.4129416282642089,
       "newsSentiment": 0.07096774193548383,
-      "socialSentiment": 0.18769230769230769,
+      "socialSentiment": 0.16785714285714287,
       "mentions": {
         "news": 62,
-        "social": 65,
+        "social": 56,
         "youtube": 2,
-        "total": 129
+        "total": 120
       },
       "news": [
         {
@@ -648,6 +657,86 @@
       ],
       "social": [
         {
+          "id": "fbbc37df2ad3ca32b353405885085f40f089b1c9f34ae5e010b903830305c6ba",
+          "authorHandle": "mainstream-media.bsky.social",
+          "postText": "Senate Republican PAC targets Troy Jackson over record of tax increases in new ad\n\nhttps://www.washingtonexaminer.com/n...",
+          "createdAt": "2026-09-11T15:00:34.951589+00:00",
+          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mvatgfilhi2k",
+          "sentiment": -1
+        },
+        {
+          "id": "ba5e95384b3e6fa8e0b3d6a0de0f86ef69806ba8554c898b749a4c65a55a2db0",
+          "authorHandle": "gaylekate.bsky.social",
+          "postText": "youtube.com/shorts/DM2T7...",
+          "createdAt": "2026-09-11T14:49:40.967Z",
+          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mvassvq4ms2j",
+          "sentiment": 0
+        },
+        {
+          "id": "a2eb941e877d328b0bed73503347bdad03ed11c6927a880437432ef16783911e",
+          "authorHandle": "mainenewsroom.com",
+          "postText": "9/11 Another poll shows Maine’s Senate election will be a referendum \u0003on Senator Susan Collins and President Trump, more than a judgment of Troy Jackson #maine #MEpolitics",
+          "createdAt": "2026-09-11T14:32:02.982270Z",
+          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mvartexnww2h",
+          "sentiment": 0
+        },
+        {
+          "id": "7ea736d4b3526932eaac10c9148e0a710a6269dcfb334f0e522131624fbb2385",
+          "authorHandle": "dworkin.bsky.social",
+          "postText": "The GOP knows they can't beat Democratic Senate nominee Troy Jackson in a fair fight. So they launched an insidious scheme designed to trick voters into voiding their own ballots. Read this before you vote:\nwww.dworkinsubstack.com/p/trump-is-h...",
+          "createdAt": "2026-09-11T14:30:43.454Z",
+          "uri": "at://did:plc:t57zckxuo4v6t53fjp7j7mcv/app.bsky.feed.post/3mvarqyvy3k2f",
+          "sentiment": 1
+        },
+        {
+          "id": "2503a34df0695da3ed8cf3e4bf1fe37deed353ef7205c31dc70fda15f37dfa79",
+          "authorHandle": "notafanoftrump.bsky.social",
+          "postText": "If I was running for office, I’d blow that up into poster board size and ask my Republican opponent (at every opportunity) to explain how Trump’s long history of abusing female reporters fits in with the GOP “We have to protect women” agenda. \n\nTroy Jackson, are you listening?",
+          "createdAt": "2026-09-11T14:24:31.859Z",
+          "uri": "at://did:plc:3mf5tprwe2h3mwbr2k72zh5b/app.bsky.feed.post/3mvarfwjucc2y",
+          "sentiment": 1
+        },
+        {
+          "id": "fa423ec2082415d47376c0476c2a52b7470fbe07bdbb283291fc5d8b28a01530",
+          "authorHandle": "ecligite.bsky.social",
+          "postText": "VOTE TROY JACKSON",
+          "createdAt": "2026-09-11T14:13:11.804Z",
+          "uri": "at://did:plc:doxv4lpytyzhqxyx5vpogbps/app.bsky.feed.post/3mvaqrny55s25",
+          "sentiment": 1
+        },
+        {
+          "id": "58d576ea4e907c6b85d8deec3882ef181ca194e5a1698092a9f2ad071cfa1e8d",
+          "authorHandle": "glennvotesblue.bsky.social",
+          "postText": "wmtw.com/article/main...\nPoor Susan, seems mocking is a one way street for Republicans. I’ll be voting for @troyjackson207.bsky.social   Let’s see how much she cries when she loses the election.",
+          "createdAt": "2026-09-11T12:58:51.571Z",
+          "uri": "at://did:plc:gr26jvoror4ihzhuhheckekx/app.bsky.feed.post/3mvammqents2q",
+          "sentiment": 1
+        },
+        {
+          "id": "1c69f9beeca48f9d1a3808d42a56c78f2907513d7cd3038e9055e6ee1c1ec22f",
+          "authorHandle": "asfried.bsky.social",
+          "postText": "#mepolitics \n\n(LV)\n🟦Troy Jackson 48%\n🟥Susan Collins 44% (incumbent) \n\n(RV)\n🟦Troy Jackson 46%\n🟥Susan Collins 44% (incumbent)\n\nOnly 1% of Troy's voters say they might vote for Collins, while 5% of Collins' voters say they might vote for Troy. \n\nd3nkl3psvxxpe9.cloudfront.net/documents/tt...",
+          "createdAt": "2026-09-11T12:37:42.955Z",
+          "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3mvalgwjk2k23",
+          "sentiment": 0
+        },
+        {
+          "id": "8ad3b446ac830f51e15481e8471e834f371202afbeaa53e002131ac6ee9e3211",
+          "authorHandle": "backyarddinosaurs.bsky.social",
+          "postText": "Not to mention that the attack ads on Troy Jackson are a little pathetic, especially when Susan, herself, can't clear these same accusations.",
+          "createdAt": "2026-09-11T12:30:27.946Z",
+          "uri": "at://did:plc:gs6hfx43ywrge7kfnmfjazcq/app.bsky.feed.post/3mvakzxoaic2m",
+          "sentiment": 1
+        },
+        {
+          "id": "fdbfc460c9f5eca34e8eb5e052e092499a0390c3416b72d58b5697860e9235c2",
+          "authorHandle": "collinswatch.bsky.social",
+          "postText": "Yeah that's not mudslinging. And using \"majority\" as a synonym for \"95%\" is a very specific kind of choice. \n\nThe Maine media ecosystem stinks. #MEpolitics",
+          "createdAt": "2026-09-11T12:08:12.432Z",
+          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3mvajs5zkmk2o",
+          "sentiment": 0
+        },
+        {
           "id": "f54a26315dfe3647075ba0353a819459d03463eb3710d5eecd2caea589518f72",
           "authorHandle": "2bme.bsky.social",
           "postText": "substack.com/@troyjackson...",
@@ -1014,158 +1103,6 @@
           "createdAt": "2026-09-10T15:39:39.148Z",
           "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3mv6f5dklr22k",
           "sentiment": 0
-        },
-        {
-          "id": "ca6b00ae8589c54979e09261900388ca3bfcb62f422e9ec557892f666b669855",
-          "authorHandle": "winetopics.bsky.social",
-          "postText": "Portland Press Herald – Maine Sunday Telegram\n\nhttps://www.diningandcooking.com/2808654/portland-press-herald-maine-sunday-telegram/\n\nIs swimming allowed in Augusta, Maine’s Kennebec River? Troy Jackson was asked about Gaza. Here was his full answer ICE agent who shot Guerrero should be arrested, …",
-          "createdAt": "2026-09-10T15:00:15+00:00",
-          "uri": "at://did:plc:7pdrpfifpuuh4o6x4ng4gap3/app.bsky.feed.post/3mv6cwxli2b2l",
-          "sentiment": 0
-        },
-        {
-          "id": "9a4759aa009d3be36c59de239cd3da2218ceb90d7c900e279afd0a3533dea81e",
-          "authorHandle": "diningandcooking.bsky.social",
-          "postText": "Portland Press Herald – Maine Sunday Telegram\n\nhttps://www.diningandcooking.com/2808654/portland-press-herald-maine-sunday-telegram/\n\nIs swimming allowed in Augusta, Maine’s Kennebec River? Troy Jackson was asked about Gaza. Here was his full answer ICE agent who shot Guerrero should be arrested, …",
-          "createdAt": "2026-09-10T15:00:03+00:00",
-          "uri": "at://did:plc:aattexikjlpex2xxdod2el5y/app.bsky.feed.post/3mv6cwmzwv72g",
-          "sentiment": 0
-        },
-        {
-          "id": "d1c928d4aa4c30baffa8c1436b7ceec890f54eec65debaf95a9fec51efd5c92f",
-          "authorHandle": "therreport.bsky.social",
-          "postText": "New YouGov poll in Maine:  Troy Jackson (D) leads Susan Collins (R) in the U.S. Senate race, 48% to 44% d3nkl3psvxxpe9.cloudfront.net/documents/tt...",
-          "createdAt": "2026-09-10T14:53:03.413Z",
-          "uri": "at://did:plc:zi5voo76a2o2zg53laksb7fq/app.bsky.feed.post/3mv6cjzdit224",
-          "sentiment": 0.7
-        },
-        {
-          "id": "e52b0208be8b19aeaed8945eac3d79a71f94f67eebf3395a4a4b04392d3e375f",
-          "authorHandle": "sfpoliticsbriefly.bsky.social",
-          "postText": "Troy Jackson drives himself while navigating by directions, and his labor activism shapes his political approach as he campaigns for Maine Senate against Susan Collins.\n",
-          "createdAt": "2026-09-10T14:48:45.565Z",
-          "uri": "at://did:plc:qrttlllhmt5x5fefiy4tmrsk/app.bsky.feed.post/3mv6ccdnbut2t",
-          "sentiment": 0.5
-        },
-        {
-          "id": "6baa9d0efddd99888f7cb5d0e9c225407d0f04f08aa4f421f26e13dc25680438",
-          "authorHandle": "portlandbriefly.bsky.social",
-          "postText": "Troy Jackson drives himself while navigating by directions, and his labor activism shapes his political approach as he campaigns for Maine Senate against Susan Collins.\n",
-          "createdAt": "2026-09-10T14:47:19.409Z",
-          "uri": "at://did:plc:cimtnpntuzrl5eknqgwqtks5/app.bsky.feed.post/3mv6c7rhga62y",
-          "sentiment": 0.5
-        },
-        {
-          "id": "b6db9cf4e56fb4d346d272f47a65c715ad191da1dcf3e6befe95738cc549a81b",
-          "authorHandle": "uspoliticsbriefly.bsky.social",
-          "postText": "Troy Jackson drives himself while navigating by directions, and his labor activism shapes his political approach as he campaigns for Maine Senate against Susan Collins.\n",
-          "createdAt": "2026-09-10T14:46:17.840Z",
-          "uri": "at://did:plc:ihl667oyujekuvexdhtgwvc5/app.bsky.feed.post/3mv6c5wmltl2u",
-          "sentiment": 0.5
-        },
-        {
-          "id": "8acc6132ab8163104ebeecf15bc4f747a55b4dcc7741958698ca6cb3c4550a94",
-          "authorHandle": "clion13.bsky.social",
-          "postText": "Trump says it...make the mid term election about him...OK!\nSo Troy Jackson Democrat running for the US Senate in Maine is running against Trump...Yup he is because voting for Susan IS VOTING for the Mad King!",
-          "createdAt": "2026-09-10T14:31:49.926Z",
-          "uri": "at://did:plc:qt4egibgugqzoujml4caqhtg/app.bsky.feed.post/3mv6be2tv3c2d",
-          "sentiment": 0.6
-        },
-        {
-          "id": "0ae15b4e304b12a94f7f094d8312956b604d98417173e493c77b07dd21b7fe1a",
-          "authorHandle": "newyorker.com",
-          "postText": "The former state senator replaced Graham Platner as Maine’s Democratic nominee. But as he reminded voters over Labor Day weekend, “it could have been anyone else.” www.newyorker.com/news/the-led...",
-          "createdAt": "2026-09-10T14:29:34.156008Z",
-          "uri": "at://did:plc:t2dfq4ktezmwjdnjjaygw4bl/app.bsky.feed.post/3mv6ba2m7xt2f",
-          "sentiment": 0.4
-        },
-        {
-          "id": "2637b0f376a774b1f2cfe2ffe4affd7a39bf9cdc57097adf62b841f689c7f64a",
-          "authorHandle": "lizzzard.bsky.social",
-          "postText": "Ms. Rachel met with Troy Jackson if you didn’t hear",
-          "createdAt": "2026-09-10T14:21:12.717Z",
-          "uri": "at://did:plc:jwq7l3xokmriwdz4fvqizvj5/app.bsky.feed.post/3mv6ar35pqc2a",
-          "sentiment": 0
-        },
-        {
-          "id": "ff897b65178a0eb1616a4b4641c092dd30af9bd4b5db9230426fa396965c788a",
-          "authorHandle": "bayernman12.bsky.social",
-          "postText": "Accidentally deleted my comment, but my question was had any DSA chapters in Pennsylvania endorsed Fetterman in the primary or even general election for example? I remember Maine DSA chapters being very critical of Platner for example and actually only endorsed Troy Jackson.",
-          "createdAt": "2026-09-10T14:17:21.668Z",
-          "uri": "at://did:plc:7fn4lq7ebe5yuxhbxo63r4uh/app.bsky.feed.post/3mv6ak6snx226",
-          "sentiment": 0.5
-        },
-        {
-          "id": "374c9d19dd10180922bacd54989fa80d36ad165483e4ebcc6f38db1b42156938",
-          "authorHandle": "ericmgarcia.bsky.social",
-          "postText": "Something interesting about this CNN poll on Maine's Senate race: \n71% of Troy Jackson voters say their vote will be AGAINST Susan Collins while 74% of Susan Collins voters say their vote will be FOR Collins.\nwww.documentcloud.org/documents/28...",
-          "createdAt": "2026-09-10T14:13:18.859Z",
-          "uri": "at://did:plc:e7gbntp2tzobn7cfi37viei3/app.bsky.feed.post/3mv6acxaosk2x",
-          "sentiment": 0.4
-        },
-        {
-          "id": "4a4d6423f7a97fa1fb7c30f2a05ba218a9d043c9a4acba1e9753bedf7ae05165",
-          "authorHandle": "chicyph80.bsky.social",
-          "postText": "One REALLY positive thing for Troy Jackson in this new YouGov poll this morning?\n\nHis voters are locked and loaded. Basically none of them say there is a chance they'll support Susan Collins. \n\nWhile 5% of her voters say they could change their minds. That could be critical!",
-          "createdAt": "2026-09-10T14:08:16.357Z",
-          "uri": "at://did:plc:a7ycduiplo3yssii7nicao6n/app.bsky.feed.post/3mv67zwr4nk22",
-          "sentiment": 0.7
-        },
-        {
-          "id": "6b04d07307d359ed712102a4f10093961bd7e3a116889d1bbe9838d8cdc094e6",
-          "authorHandle": "teamrogers.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-09-10T14:05:27.838Z",
-          "uri": "at://did:plc:pkxey5un6idnniobmdqfbdfr/app.bsky.feed.post/3mv67uw2cdk24",
-          "sentiment": 0
-        },
-        {
-          "id": "51fa83053b1092a9b15278657d105ad913cb302533ceba923a7e61e7e76a8011",
-          "authorHandle": "lnguyen255.bsky.social",
-          "postText": "@ substack.com/@troyjackson...",
-          "createdAt": "2026-09-10T13:52:13.055Z",
-          "uri": "at://did:plc:hdaxjtcrsgzt263vdknvicoo/app.bsky.feed.post/3mv675a3i222r",
-          "sentiment": 0
-        },
-        {
-          "id": "74bd7b84168f4cc43b1a008e7f1e1f81a7dd8363c2d39cf52e81e36e90aa2a10",
-          "authorHandle": "politicalwire.com",
-          "postText": "Troy Jackson Ahead in the Maine Senate Race\r\nhttps://politicalwire.com/2026/09/10/troy-jackson-slightly-ahead-in-maine-senate-race/",
-          "createdAt": "2026-09-10T13:41:04+00:00",
-          "uri": "at://did:plc:vaams3fhnnnivk3hzxct7nki/app.bsky.feed.post/3mv66jcj27z2k",
-          "sentiment": 0
-        },
-        {
-          "id": "221fbb09968b1f8bc9e8870b0cc5799b81d6b32c721efe4e37a8b7a21c14a896",
-          "authorHandle": "beshearstan.bsky.social",
-          "postText": "New YouGov poll has Troy Jackson up FOUR against Susan Collins\n\n(Likely voters)\n🟦Troy Jackson 48%\n🟥Susan Collins 44%\n\n(Registered voters)\n🟦Troy Jackson 46%\n🟥Susan Collins 44%\n\nLink to poll: d3nkl3psvxxpe9.cloudfront.net/documents/ttw_…",
-          "createdAt": "2026-09-10T13:25:22.175Z",
-          "uri": "at://did:plc:r2wew37repqtwhf63wysczrn/app.bsky.feed.post/3mv65n7tdzc26",
-          "sentiment": 0
-        },
-        {
-          "id": "fecd56e21cd671cec4f9933db73f44b50677c0880aead09670be70ae4b8d4345",
-          "authorHandle": "chicyph80.bsky.social",
-          "postText": "Second day in a row of a very positive poll for Troy Jackson in ME Senate!",
-          "createdAt": "2026-09-10T13:20:16.814Z",
-          "uri": "at://did:plc:a7ycduiplo3yssii7nicao6n/app.bsky.feed.post/3mv65e4mfxk25",
-          "sentiment": 1
-        },
-        {
-          "id": "7e86a4a4a171ad3e336243a4579d60647f865911c7a9171bb923b6277aa99f30",
-          "authorHandle": "larrycolvin.bsky.social",
-          "postText": "elected, Troy Jackson would  have the most working class experience in the US Senate. Maine deserves to have a Senator who understands them and is able to meet them where they live.\n#Blues",
-          "createdAt": "2026-09-10T13:01:57.938Z",
-          "uri": "at://did:plc:z5dhbia5ag6kkilnab76i6ab/app.bsky.feed.post/3mv64denrks2k",
-          "sentiment": 1
-        },
-        {
-          "id": "ed583fc4b0a44e5aa453d7ecefcb3d53f1754539fd3196a011f208dc2e35b9a0",
-          "authorHandle": "rsouissivibes.bsky.social",
-          "postText": "Tight races like Talarico, AES, and Troy Jackson will be crucial for the Democrats to take the Senate.\n\nSo, if they are cautious about their opinions on hot-topic issues like the GOP's transgender replacement in women's sports agenda, it's because they don't want to give the GOP sound bites for ads.",
-          "createdAt": "2026-09-10T11:50:47.337Z",
-          "uri": "at://did:plc:gwgfvifpqb3xwwvhu5xmz7ji/app.bsky.feed.post/3mv5ye3uy3c22",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -1195,14 +1132,14 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.25,
+      "overallSentiment": 0.26666666666666666,
       "newsSentiment": 0,
-      "socialSentiment": 0.5,
+      "socialSentiment": 0.5333333333333333,
       "mentions": {
         "news": 1,
-        "social": 2,
+        "social": 3,
         "youtube": 0,
-        "total": 3
+        "total": 4
       },
       "news": [
         {
@@ -1216,6 +1153,14 @@
         }
       ],
       "social": [
+        {
+          "id": "a0519e4f8297f211b4028eeef75d78b22439fef7619b6e52fd1285f611e7160d",
+          "authorHandle": "jeninmotion.bsky.social",
+          "postText": "Say what you will about Jordan Wood, he cared DEEPLY about the various bad behaviors, he wasn't just doing it to score on libs he never met.",
+          "createdAt": "2026-09-11T15:08:45.088Z",
+          "uri": "at://did:plc:ec7xstnedazu2cnsxjfgw3j3/app.bsky.feed.post/3mvatuytvcs25",
+          "sentiment": 0.6
+        },
         {
           "id": "65bc85a64cc5bc869677da82bf9bde8339bd9774fd2cebd85c267e26a682d5bb",
           "authorHandle": "cekund.bsky.social",
