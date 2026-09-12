@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T05:52:32.135Z",
+  "lastUpdated": "2026-09-12T09:57:22.668Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -76,14 +76,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3082671957671958,
+      "overallSentiment": 0.3204520697167756,
       "newsSentiment": -0.05555555555555555,
-      "socialSentiment": 0.24285714285714285,
+      "socialSentiment": 0.27941176470588236,
       "mentions": {
         "news": 18,
-        "social": 35,
+        "social": 34,
         "youtube": 8,
-        "total": 61
+        "total": 60
       },
       "news": [
         {
@@ -250,6 +250,14 @@
         }
       ],
       "social": [
+        {
+          "id": "aeb5d734032109c70ffc930bfae4ca8666e1bf9c8783b59197ed029cfa926bab",
+          "authorHandle": "follow-the-money.us",
+          "postText": "New Super PAC Spending in the ME Senate Race\n\nWINSENATE spent $2.8M supporting JACKSON, TROY DALE\nDate: Sep 8\nFor: DIGITAL MEDIA BUY - ESTIMATE; MEDIA BUY - ESTIMATE\nTotal spent in race: $5.0M\n\nhttps://integrityindex.us/race/maine-senate-class2-2026",
+          "createdAt": "2026-09-12T08:00:44.070Z",
+          "uri": "at://did:plc:xds4luusktvkqqzea6iwd6bc/app.bsky.feed.post/3mvcmgkytec2y",
+          "sentiment": 1
+        },
         {
           "id": "02d22cde0b9ef5b4901f6583240fed3cf214d2a9c510939565dd079230e68071",
           "authorHandle": "dogsaresocool.bsky.social",
@@ -513,22 +521,6 @@
           "createdAt": "2026-09-11T11:08:17.342Z",
           "uri": "at://did:plc:ewxtynqjxpaqzqgcjvciaxg3/app.bsky.feed.post/3mvaggzhzmc2j",
           "sentiment": 0
-        },
-        {
-          "id": "66fb7176a11f58f27d943280b8a64b21190c2219de786a524595d1e8bae00775",
-          "authorHandle": "sweetcainmusic.bsky.social",
-          "postText": "I think what’s striking to me about this election cycle so far is how every major Dem campaign I’ve seen, especially the ones for Senate, feels tailor made for their home state. Troy Jackson is like a cartoon of a Mainer. Peggy Flanagan couldn’t be from ANYWHERE else. El-Sayed is VERY Michigan.",
-          "createdAt": "2026-09-11T09:45:32.795Z",
-          "uri": "at://did:plc:spgqijzedxs5lllztbc4dk7i/app.bsky.feed.post/3mvabt2w45s2u",
-          "sentiment": -1
-        },
-        {
-          "id": "8905b49bcb52f9662fab0364b1203b7732d73ba439a570f6d0574879436ddd44",
-          "authorHandle": "brandyblue.bsky.social",
-          "postText": "Yea so Vote Troy Jackson to oust Susan Collins for good.",
-          "createdAt": "2026-09-11T08:49:53.046Z",
-          "uri": "at://did:plc:64rm52nffj7jfsvzuqyl7awu/app.bsky.feed.post/3mva6pjv2jk26",
-          "sentiment": 1
         }
       ],
       "youtube": [
