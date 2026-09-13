@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T10:19:58.193Z",
+  "lastUpdated": "2026-09-13T14:28:24.704Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -67,14 +67,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.5093023255813953,
+      "overallSentiment": 0.5119047619047619,
       "newsSentiment": 0.2,
-      "socialSentiment": 0.327906976744186,
+      "socialSentiment": 0.3357142857142857,
       "mentions": {
         "news": 10,
-        "social": 43,
+        "social": 42,
         "youtube": 1,
-        "total": 54
+        "total": 53
       },
       "news": [
         {
@@ -169,6 +169,22 @@
         }
       ],
       "social": [
+        {
+          "id": "40560dca896177a9b9708f5a41afbfcd9fafd36bf07361efbbb069005744535e",
+          "authorHandle": "protectuselections.bsky.social",
+          "postText": "Troy Jackson Shares List of Issues He Will Prioritize If Elected to United States Senate",
+          "createdAt": "2026-09-13T11:31:44.934878+00:00",
+          "uri": "at://did:plc:trhmwlm2uaan4pok23ajo4j2/app.bsky.feed.post/3mvfiostkai2u",
+          "sentiment": -0.1
+        },
+        {
+          "id": "b4e2c169e5ae162b9708b8ce9e2834d195d022667bfac9fdfa9b974dcfdb08a8",
+          "authorHandle": "uspatriot2025.bsky.social",
+          "postText": "I don’t believe the polls anymore. We gotta fight hard in every competitive race. I’m focusing on El Sayed and Troy Jackson. We can win. I think Dr Andrews can beat Dim Darlen in SC.",
+          "createdAt": "2026-09-13T10:51:50.162Z",
+          "uri": "at://did:plc:xo7tuj5xraahoft5tnpycdkz/app.bsky.feed.post/3mvfghgx7mk2y",
+          "sentiment": 0.7
+        },
         {
           "id": "b177f516657e1f7705589579a7a8776b95e8a60e6e62f2b03006bd3d09297899",
           "authorHandle": "minerva47874627.bsky.social",
@@ -488,30 +504,6 @@
           "createdAt": "2026-09-12T14:55:06.119Z",
           "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3mvddljbpus2v",
           "sentiment": 0.1
-        },
-        {
-          "id": "9248db2060a41176a9a2caccfc38fa460ece08b206035a5ef6c806cf3d4c34aa",
-          "authorHandle": "burnouts3s3.bsky.social",
-          "postText": "#MaineSenate Maine Senate\n\nAdImpact: Troy Jackson (D) releases new ad that goes after Susan Collins’ voting record",
-          "createdAt": "2026-09-12T13:46:01.706Z",
-          "uri": "at://did:plc:t7itrlkxy2xnksqrzkeid7bi/app.bsky.feed.post/3mvd7pyualc2l",
-          "sentiment": 0.3
-        },
-        {
-          "id": "4a9c7eefeb34d90a6835d8a2a0d4f647525764895425b6ebdb5b8fff1aac3c50",
-          "authorHandle": "burnouts3s3.bsky.social",
-          "postText": "#MaineSenate Maine Senate\n\nAdImpact: WinSenate releases television ad in support of Troy Jackson (D)\n\n“Troy Jackson does what’s best for Maine. Susan Collins does what’s best for Trump.”",
-          "createdAt": "2026-09-12T13:43:39.103Z",
-          "uri": "at://did:plc:t7itrlkxy2xnksqrzkeid7bi/app.bsky.feed.post/3mvd7lquess2l",
-          "sentiment": 0.7
-        },
-        {
-          "id": "488caa3586de9429a5b5c6353989955aa98ce909bd64c93bee3e3a38b62260ee",
-          "authorHandle": "dewforpolitics.bsky.social",
-          "postText": "AAA reports regular gas averaging $4.31 nationally, up from $4.15 a week ago and $3.19 a year ago, while diesel hit a record $6.16. Maine Democratic U.S. Senate nominee Troy Jackson blasted Susan Collins for high diesel prices.",
-          "createdAt": "2026-09-12T13:30:54.879Z",
-          "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mvd6uy2b722n",
-          "sentiment": -0.4
         }
       ],
       "youtube": [
