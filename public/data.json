@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T14:28:24.704Z",
+  "lastUpdated": "2026-09-13T15:33:04.523Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,35 +22,16 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.325,
-      "newsSentiment": -0.05,
+      "overallSentiment": -0.6,
+      "newsSentiment": null,
       "socialSentiment": -0.6,
       "mentions": {
-        "news": 2,
+        "news": 0,
         "social": 1,
         "youtube": 0,
-        "total": 3
+        "total": 1
       },
-      "news": [
-        {
-          "id": "818d0e3ec93f5313a2f3af8f18cfd4d47a6fd396ba295325d004b7822f47582b",
-          "title": "Maine Leaders, veterans gather at UMA to commemorate Sept. 11 anniversary",
-          "description": "The ceremony began outside the Veterans Academic Center with a moment of silence at 8:46 a.m. — marking the exact time the first plane struck the World Trade Center’s North Tower.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/09/11/maine-leaders-veterans-gather-uma-commemorate-sept-11-anniversary/",
-          "publishedAt": "2026-09-11T23:27:00.000Z",
-          "sentiment": -0.1
-        },
-        {
-          "id": "39e9037d13202ae80f1745f219c3e806dd3f7252e0af1132cfa882cc4b961bfa",
-          "title": "Organizers will try to get transgender athlete referendum on 2027 ballot",
-          "description": "The referendum came within 532 signatures of qualifying for this November's ballot.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/11/politics/elections/maine-election-2027-transgender-athlete-referendum/",
-          "publishedAt": "2026-09-11T15:01:39.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "096b7b02754ed6e27219f81e384341a2bedf805ce7141f87022cac657b4915a0",
@@ -67,104 +48,23 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.5119047619047619,
-      "newsSentiment": 0.2,
+      "overallSentiment": 0.4452380952380952,
+      "newsSentiment": 0,
       "socialSentiment": 0.3357142857142857,
       "mentions": {
-        "news": 10,
+        "news": 1,
         "social": 42,
         "youtube": 1,
-        "total": 53
+        "total": 44
       },
       "news": [
         {
-          "id": "66d5aeaca4c77320436c0a65896fd02c502772c9262d76fdf90ddd56087030e1",
-          "title": "Is a Blue Wave Really Coming?",
-          "description": "Democrats have the numbers on their side, but their success in the midterms is far from a sure thing.",
-          "sourceName": "The New Yorker",
-          "url": "https://www.newyorker.com/podcast/political-scene/is-a-blue-wave-really-coming",
-          "publishedAt": "2026-09-12T01:30:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5cb2405a650535798987051d1f266d07a067718b75b8598633c4bfe69fb9211d",
-          "title": "Letter: Troy Jackson is the ‘bare knuckles brawler’ we need in Washington",
-          "description": "“I have a hard time finding authenticity in Susan Collins.”",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4881643962016-letter-troy-jackson-is-the-bare-knuckles-brawler-we-need-in-washington",
-          "publishedAt": "2026-09-12T00:00:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "a51557b8e9ccaaa31eb84de3d852864c4b7d01edd068b9839ebe64b52d68a1a4",
-          "title": "Ad-A-Palooza: Maine’s Senate Race Is Being Fought One Commercial Break at a Time",
-          "description": "Editor’s Note: This commentary piece originally published on the author’s Substack, “Unorganized Territory,” and has been republished on IVN with permission and by request of the author. The NFL is back—so back baby! But in the final stretch of a volatile, cranky election year, all good things come with a price. If you live in [...] The post Ad-A-Palooza: Maine’s Senate Race Is Being Fought One Commercial Break at a Time appeared first on News Pub .",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/ad-a-palooza-maines-senate-race-is-being-fought-one-commercial-break-at-a-time/",
-          "publishedAt": "2026-09-11T22:47:07.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bf0d926c41dc15646339051cc24514dc0d5beebb175af4cae0c2a88fea3a22e4",
-          "title": "Collins calls Trump's $5,000 post-election payout 'extraordinarily expensive' and likely infeasible",
-          "description": "Collins did not attend the Republican convention where President Donald Trump suggested paying Americans $5,000 but only if Republicans retain control of Congress. Independent Sen. Angus King, meanwhile, has called the idea \"flat-out illegal.\"",
-          "sourceName": "Connecticut Public",
-          "url": "https://www.ctpublic.org/2026-09-11/collins-calls-trumps-5-000-post-election-payout-extraordinarily-expensive-and-likely-infeasible",
-          "publishedAt": "2026-09-11T22:25:38.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cfecee20471f976f6f77d66acb9ba8f5a1f8742db6b35bcb68c0332e4ed2b7df",
-          "title": "Collins calls Trump's $5,000 post-election payout 'extraordinarily expensive' and likely infeasible",
-          "description": "Collins did not attend the Republican convention where President Donald Trump suggested paying Americans $5,000 but only if Republicans retain control of Congress. Independent Sen. Angus King, meanwhile, has called the idea \"flat-out illegal.\"",
-          "sourceName": "Vermont Public",
-          "url": "https://www.vermontpublic.org/2026-09-11/collins-calls-trumps-5-000-post-election-payout-extraordinarily-expensive-and-likely-infeasible",
-          "publishedAt": "2026-09-11T22:25:38.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5ef186c1d644e18b4b33df9d2fb441c8c009d6eaf62d1955639f80c128abaefa",
-          "title": "Collins calls Trump's $5,000 post-election payout 'extraordinarily expensive' and likely infeasible",
-          "description": "Collins did not attend the Republican convention where President Donald Trump suggested paying Americans $5,000 but only if Republicans retain control of Congress. Independent Sen. Angus King, meanwhile, has called the idea \"flat-out illegal.\"",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/politics/2026-09-11/collins-calls-trumps-5-000-post-election-payout-extraordinarily-expensive-and-likely-infeasible",
-          "publishedAt": "2026-09-11T22:25:35.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f56e35031e3d4b4cb7006d22961d2a473a68042a173e8bd537f9976f12b9e215",
-          "title": "Susan Collins slams Trump's 'mistake' in bullying Canada as election pressure mounts",
-          "description": "Sen. Susan Collins (R-ME) is publicly breaking with President Donald Trump over his handling of the escalating trade war with Canada , calling it a \"mistake\" as she fights for political survival in a race where her Democratic challenger is now leading in the polls. Collins told the Wall Street Journal that Trump's own rhetoric toward America's northern neighbor, including calling Canadian officials \"governor\" and pushing to rename Lake Ontario, has actively hurt efforts to resolve the dispute. \"We're linked in so many ways. It's economic, it's emotional, and to hear the president gratuitously calling prime ministers 'governor' or suggesting that Canada should be part of the United States or renaming Lake Ontario is painful,\" Collins said. \"It is not conducive to getting back to the table and resolving these issues.\" The stakes are personal for Maine, which does $6 billion in annual trade with Canada, its top trading partner. Trump escalated the fight this week by threatening to ban Canadian alcohol, dairy and motorcycle imports, on top of previously mocking Canadian Prime Minister Mark Carney with an AI-generated image showing Trump looming over him in hockey gear. The political timing couldn't be worse for Collins. A CNN poll this week showed Democratic challenger Troy Jackson leading her 48-45 among likely Maine voters, with two-thirds disapproving of Trump's job performance and 70 percent calling the increased Canadian tariffs bad for the state. Collins is the only Republican senator seeking reelection this cycle in a state former Vice President Kamala Harris carried in 2024. Despite her public criticism, Collins says she's been quietly lobbying the administration through her own channels, staying in regular contact with Vance and pressing his case to trade officials on how the tariffs are squeezing several of Maine's signature industries. She credited that lobbying with securing an exemption on tariffs for Canadian rock salt, essential for Maine's harsh winters, pointing to one northern Maine community that stood to lose tens of thousands of dollars had the dispute over that particular product continued unresolved. Jackson isn't impressed. He argues Collins hasn't used her power as Senate Appropriations Committee chair to meaningfully push back against Trump. \"She's not willing to push back against Trump. They're all scared of him, and here's another example of how it's hurting this state and this country, and she won't really do anything,\" Jackson said, dismissing her rock salt win as \"nibbling around the edges.\" Collins pushed back on that characterization, accusing Jackson of mocking a real victory for Maine communities. Her office has also begun quiet discussions with Democratic Sen. Kirsten Gillibrand's staff about potential legislation to terminate the Canadian tariffs altogether, while she's reached out to fellow border-state Republicans, including Alaska Sens. Lisa Murkowski and Dan Sullivan, to build broader opposition. For Collins, the dispute carries deeply personal weight beyond politics, noted the Journal. She has family ties across the border, including a French Canadian sister-in-law and bilingual, dual-citizen nieces, and says Trump's rhetoric is already discouraging Canadian tourists from returning to towns like Old Orchard Beach just as the local economy had started to recover from a rough previous summer.",
-          "sourceName": "Raw Story",
-          "url": "https://www.rawstory.com/susan-collins-trump-2677849405/",
-          "publishedAt": "2026-09-11T21:00:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c2ec524e3ff78a7c40d845d1a47effbc5b87401fc536a0b2c102bda6555f355b",
-          "title": "Maine Senate Nominee Visits Inclusive Welding School to Support Apprenticeships",
-          "description": "Maine Democrat Troy Jackson toured People's Inclusive Welding in South Portland, praising its focus on inclusion and pledging support for apprenticeship programs. The school provides welding training for underserved communities and aims to combat discrimination in skilled trades. Jackson's visit comes amid his Senate campaign and recent controversies.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/maine-senate-nominee-visits-inclusive-welding-school-to-87658126",
-          "publishedAt": "2026-09-11T20:07:39.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "8b0cc8286ccd6a395716762eb8498b47e0d779ddd0286a77ce7a3124a6ac9ee2",
-          "title": "Maine Democrat Troy Jackson Tours ‘Inclusive’ Welding School with Zero Tolerance for ‘Fatphobia’",
-          "description": "Maine Democrat U.S. Senate nominee Troy Jackson visited People’s Inclusive Welding in South Portland during a Labor Day weekend tour, praising the school’s emphasis on inclusion and pledging support for apprenticeship programs like it. The post Maine Democrat Troy Jackson Tours ‘Inclusive’ Welding School with Zero Tolerance for ‘Fatphobia’ appeared first on Breitbart .",
-          "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/politics/2026/09/11/maine-democrat-troy-jackson-tours-inclusive-welding-school-with-zero-tolerance-for-fatphobia/",
-          "publishedAt": "2026-09-11T18:34:25.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "cf86c5f55a8d6f5dd02813b1493c2efbd7925dd86d62aaef94cbc9325c51736e",
-          "title": "Mystery PAC tied to Donald Trump spends big in Maine’s 2nd District race",
-          "description": "Maine's 2nd District is a top priority for national Republicans, who face a tough midterm map.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/11/politics/elections/maine-election-2nd-district-safety-affordability-pac-donald-trump-maga-inc-ad-buys/",
-          "publishedAt": "2026-09-11T16:50:27.000Z",
+          "id": "8be04009368cbda85bd01100afdd682cdf9cb00a90f655911d75c8fd8ffe7c9b",
+          "title": "Sunday shows preview: Republicans talk strategy as midterms approach; Iran conflict, Canada trade war leave economy in flux",
+          "description": "Republican leaders traveled to Dallas this week for the GOP’s midterm convention, fueling the party’s President Trump-forward midterm strategy, as the party fights to maintain control in both chambers of Congress this November. The two-day event featured keynote speeches from Trump and Vice President Vance, tributes to the late conservative activist Charlie Kirk and warnings...",
+          "sourceName": "The Hill",
+          "url": "https://thehill.com/homenews/sunday-talk-shows/6086297-sunday-shows-republicans-strategy-economy-struggles/",
+          "publishedAt": "2026-09-12T20:35:42.000Z",
           "sentiment": 0
         }
       ],
