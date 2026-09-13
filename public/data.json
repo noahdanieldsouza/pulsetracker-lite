@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T05:11:04.057Z",
+  "lastUpdated": "2026-09-13T10:19:58.193Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -67,14 +67,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.503968253968254,
+      "overallSentiment": 0.5093023255813953,
       "newsSentiment": 0.2,
-      "socialSentiment": 0.3119047619047619,
+      "socialSentiment": 0.327906976744186,
       "mentions": {
         "news": 10,
-        "social": 42,
+        "social": 43,
         "youtube": 1,
-        "total": 53
+        "total": 54
       },
       "news": [
         {
@@ -169,6 +169,22 @@
         }
       ],
       "social": [
+        {
+          "id": "b177f516657e1f7705589579a7a8776b95e8a60e6e62f2b03006bd3d09297899",
+          "authorHandle": "minerva47874627.bsky.social",
+          "postText": "This👇. It’s time for Susan Collins and her useless ‘concerns’ to go. Vote Blue. Vote for Troy Jackson.",
+          "createdAt": "2026-09-13T06:50:45.159Z",
+          "uri": "at://did:plc:tq756et3sxboq4owzamejncq/app.bsky.feed.post/3mveyye2d5k2u",
+          "sentiment": 1
+        },
+        {
+          "id": "49ab796ba04e73c6ed9315f4c2b8c0b3f4050cc58421e9052048c71484570774",
+          "authorHandle": "minerva47874627.bsky.social",
+          "postText": "This👇. Susan Collins is undoubtedly ‘concerned’. Personally, I’ve had enough of her  ‘concerns’ that never lead to any actions that might help. Vote blue. Vote Troy Jackson.",
+          "createdAt": "2026-09-13T06:38:43.346Z",
+          "uri": "at://did:plc:tq756et3sxboq4owzamejncq/app.bsky.feed.post/3mveyctodnc2u",
+          "sentiment": 1
+        },
         {
           "id": "88b53b7345ef77c000c8a82b2387fac5bbdd3e7f757815c93ed7aff1c258a997",
           "authorHandle": "feistykinglet.bsky.social",
@@ -496,14 +512,6 @@
           "createdAt": "2026-09-12T13:30:54.879Z",
           "uri": "at://did:plc:hezyzlnv5l6mz2ng2w3dzamg/app.bsky.feed.post/3mvd6uy2b722n",
           "sentiment": -0.4
-        },
-        {
-          "id": "aeb5d734032109c70ffc930bfae4ca8666e1bf9c8783b59197ed029cfa926bab",
-          "authorHandle": "follow-the-money.us",
-          "postText": "New Super PAC Spending in the ME Senate Race\n\nWINSENATE spent $2.8M supporting JACKSON, TROY DALE\nDate: Sep 8\nFor: DIGITAL MEDIA BUY - ESTIMATE; MEDIA BUY - ESTIMATE\nTotal spent in race: $5.0M\n\nhttps://integrityindex.us/race/maine-senate-class2-2026",
-          "createdAt": "2026-09-12T08:00:44.070Z",
-          "uri": "at://did:plc:xds4luusktvkqqzea6iwd6bc/app.bsky.feed.post/3mvcmgkytec2y",
-          "sentiment": 1
         }
       ],
       "youtube": [
