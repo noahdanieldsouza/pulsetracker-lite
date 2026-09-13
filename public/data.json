@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T22:47:17.705Z",
+  "lastUpdated": "2026-09-13T00:27:09.558Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,14 +22,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.05,
+      "overallSentiment": -0.325,
       "newsSentiment": -0.05,
-      "socialSentiment": null,
+      "socialSentiment": -0.6,
       "mentions": {
         "news": 2,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 2
+        "total": 3
       },
       "news": [
         {
@@ -51,16 +51,25 @@
           "sentiment": 0
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "096b7b02754ed6e27219f81e384341a2bedf805ce7141f87022cac657b4915a0",
+          "authorHandle": "hlnabkt.bsky.social",
+          "postText": "AG Shenna Bellows needs to charge David Brouillette with murder and put him behind bars",
+          "createdAt": "2026-09-13T00:06:08.941Z",
+          "uri": "at://did:plc:iexwvz4chxf5m333kh5v5cft/app.bsky.feed.post/3mveceugxyc27",
+          "sentiment": -0.6
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.49130434782608695,
+      "overallSentiment": 0.5057971014492754,
       "newsSentiment": 0.2,
-      "socialSentiment": 0.27391304347826084,
+      "socialSentiment": 0.3173913043478261,
       "mentions": {
         "news": 10,
         "social": 46,
@@ -160,6 +169,30 @@
         }
       ],
       "social": [
+        {
+          "id": "0d9c56f7180e11d8b98f7d3175e37de67d9e918454bd6fef08c567bf60f01010",
+          "authorHandle": "reproductivefreedomforall.org",
+          "postText": "Leadership means listening—and being willing to change. @troyjackson207.bsky.social listened to women, doctors, and his community, came to understand abortion as health care, and fought for reproductive freedom. That’s the kind of leadership we need.\n\nhttps://bit.ly/46qkZDQ",
+          "createdAt": "2026-09-12T23:19:01.803529559Z",
+          "uri": "at://did:plc:d7mbznttytrhbs3vy6d6nppc/app.bsky.feed.post/3mve7qmflx52w",
+          "sentiment": 0.8
+        },
+        {
+          "id": "98e6386327538e4c7faafa16600490bd1f2ea0cea130bfecab8fae761deb1175",
+          "authorHandle": "votehub.com",
+          "postText": "Maine U.S. Senate Campaign Events\n9/12 Update\n\n🔴 Susan Collins: 📍 29\n🔵 Troy Jackson: 📍 28",
+          "createdAt": "2026-09-12T23:11:26.665Z",
+          "uri": "at://did:plc:r6saz35hwwh2n4vrcuv3ylfe/app.bsky.feed.post/3mve7d2fvtv22",
+          "sentiment": 0
+        },
+        {
+          "id": "22cbb286c9e58febcb110a47aa6fad9465e97682d241cc048100ddbaf08c8a6a",
+          "authorHandle": "blitzthedragon.bsky.social",
+          "postText": "It's even more effective when Troy Jackson does it, because not only is he cisgender, but he has all the aesthetics of Just a Regular Guy. That gives his word massive sway with the public.",
+          "createdAt": "2026-09-12T22:55:32.752Z",
+          "uri": "at://did:plc:5ihxw7rkhlopapbrskoglnxg/app.bsky.feed.post/3mve6gmipos24",
+          "sentiment": 0.6
+        },
         {
           "id": "dc72f6a332996d59139ac2dcf625001517ab4ff6d2d4c1e24f0340f49d30637e",
           "authorHandle": "politiburb.bsky.social",
@@ -503,30 +536,6 @@
           "createdAt": "2026-09-12T00:29:39.349Z",
           "uri": "at://did:plc:zm2xlrc6v7qxi7s7jwavdsbm/app.bsky.feed.post/3mvbt7y2hkc23",
           "sentiment": 1
-        },
-        {
-          "id": "6e47f97eadb031c65415b5726c087f7b10f9573c45e2a662f171dc25230c3374",
-          "authorHandle": "dworkin.bsky.social",
-          "postText": "Republicans are so terrified of Troy Jackson they’re running a ghost candidate scheme to secretly void Democratic ballots. \n\nThe Secretary of State just blew the whistle:\nwww.dworkinsubstack.com/p/trump-is-h...",
-          "createdAt": "2026-09-12T00:20:15.270Z",
-          "uri": "at://did:plc:t57zckxuo4v6t53fjp7j7mcv/app.bsky.feed.post/3mvbsp64gw22a",
-          "sentiment": 0.5
-        },
-        {
-          "id": "a9a51f399aa50c507e501be8f96d65ee3b1e008f0afac1fd0fc9e7e6a79d2a1b",
-          "authorHandle": "capitolhillaccess.bsky.social",
-          "postText": "SLF PAC spends $1,134,615 to OPPOSE Mary Peltola (Sen AK Sen)(D)\n\n#AKSen,\n\n$3,811,600 to OPPOSE Joshua Turek (Sen IA Sen)(D),\n\n$3,589,358 to OPPOSE Troy Jackson (Sen ME Sen)(D),\n\n$1,811,811 to OPPOSE Abdul El-sayed (Sen MI Sen)(D),\n\n$4,724,430 to OPPOSE Roy Cooper (Sen NC Sen)(D),\n\n$1,528,256...",
-          "createdAt": "2026-09-12T00:05:51.122Z",
-          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mvbrvimxk32i",
-          "sentiment": -0.5
-        },
-        {
-          "id": "7fa8beba34e9d404304f5a0c135e3f4261f6842271353c4a50b0786bed090c80",
-          "authorHandle": "topherbrennan.bsky.social",
-          "postText": "The consensus from Maine politics knowers seems to be that Mills had pissed off Maine labor orgs and Troy Jackson seems like a straightforward improvement.\n\nSucks that we had to narrowly dodge the Platner bullet to get here but worked out OK I think.",
-          "createdAt": "2026-09-11T23:08:51.685Z",
-          "uri": "at://did:plc:6u72tnfspgwfp7usu7vv7m2x/app.bsky.feed.post/3mvbopixhp22s",
-          "sentiment": -0.6
         }
       ],
       "youtube": [
