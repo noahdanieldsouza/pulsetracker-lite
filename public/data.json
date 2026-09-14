@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T01:36:50.701Z",
+  "lastUpdated": "2026-09-14T07:02:48.880Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -56,14 +56,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.38772893772893774,
+      "overallSentiment": 0.35152380952380957,
       "newsSentiment": 0,
-      "socialSentiment": 0.2846153846153846,
+      "socialSentiment": 0.176,
       "mentions": {
         "news": 1,
-        "social": 26,
+        "social": 25,
         "youtube": 7,
-        "total": 34
+        "total": 33
       },
       "news": [
         {
@@ -77,6 +77,22 @@
         }
       ],
       "social": [
+        {
+          "id": "7626d4eefe1b98069e1ab188d0ce140c1df6a2af8641ce395616888701dd7781",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "SUPPORT TROY JACKSON AND FLIP MAINE'S SENATE SEAT!\n\nsecure.actblue.com/donate/tmr-t...",
+          "createdAt": "2026-09-14T05:00:55.730Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mvhdcvdnvc2o",
+          "sentiment": 1
+        },
+        {
+          "id": "20dcf0029232b658d5c939b5ac3f53e7e63b0974714ed9056f8b71e229add951",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "BREAKING: Elon Musk just dropped his first money bomb into the Maine Senate race!\n\nTroy Jackson is NECK-AND-NECK with Susan Collins in the polls!\n\nElon Musk is trying to buy this race so Trump can keep his MAGA Senate Majority.",
+          "createdAt": "2026-09-14T05:00:27.295Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mvhdc27vdk2o",
+          "sentiment": -1
+        },
         {
           "id": "17f9d190dbb77d91f10b71a28f74b47d7e6ded1578a9ea6a414e930088c9886f",
           "authorHandle": "vrimpellitteri.bsky.social",
@@ -260,30 +276,6 @@
           "createdAt": "2026-09-13T10:51:50.162Z",
           "uri": "at://did:plc:xo7tuj5xraahoft5tnpycdkz/app.bsky.feed.post/3mvfghgx7mk2y",
           "sentiment": 0.7
-        },
-        {
-          "id": "b177f516657e1f7705589579a7a8776b95e8a60e6e62f2b03006bd3d09297899",
-          "authorHandle": "minerva47874627.bsky.social",
-          "postText": "This👇. It’s time for Susan Collins and her useless ‘concerns’ to go. Vote Blue. Vote for Troy Jackson.",
-          "createdAt": "2026-09-13T06:50:45.159Z",
-          "uri": "at://did:plc:tq756et3sxboq4owzamejncq/app.bsky.feed.post/3mveyye2d5k2u",
-          "sentiment": 1
-        },
-        {
-          "id": "49ab796ba04e73c6ed9315f4c2b8c0b3f4050cc58421e9052048c71484570774",
-          "authorHandle": "minerva47874627.bsky.social",
-          "postText": "This👇. Susan Collins is undoubtedly ‘concerned’. Personally, I’ve had enough of her  ‘concerns’ that never lead to any actions that might help. Vote blue. Vote Troy Jackson.",
-          "createdAt": "2026-09-13T06:38:43.346Z",
-          "uri": "at://did:plc:tq756et3sxboq4owzamejncq/app.bsky.feed.post/3mveyctodnc2u",
-          "sentiment": 1
-        },
-        {
-          "id": "88b53b7345ef77c000c8a82b2387fac5bbdd3e7f757815c93ed7aff1c258a997",
-          "authorHandle": "feistykinglet.bsky.social",
-          "postText": "Troy Jackson (Maine) just threw an F bomb in an ad and I approve 100%",
-          "createdAt": "2026-09-13T02:09:25.606Z",
-          "uri": "at://did:plc:x2aa3o5m5evks2soi6f6btov/app.bsky.feed.post/3mvejbchbnk2c",
-          "sentiment": 1
         }
       ],
       "youtube": [
