@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T13:56:40.444Z",
+  "lastUpdated": "2026-09-14T17:36:13.178Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -60,19 +60,28 @@
       "newsSentiment": 0,
       "socialSentiment": 0.23928571428571427,
       "mentions": {
-        "news": 1,
+        "news": 2,
         "social": 28,
         "youtube": 7,
-        "total": 36
+        "total": 37
       },
       "news": [
         {
-          "id": "8be04009368cbda85bd01100afdd682cdf9cb00a90f655911d75c8fd8ffe7c9b",
-          "title": "Sunday shows preview: Republicans talk strategy as midterms approach; Iran conflict, Canada trade war leave economy in flux",
-          "description": "Republican leaders traveled to Dallas this week for the GOP’s midterm convention, fueling the party’s President Trump-forward midterm strategy, as the party fights to maintain control in both chambers of Congress this November. The two-day event featured keynote speeches from Trump and Vice President Vance, tributes to the late conservative activist Charlie Kirk and warnings...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/sunday-talk-shows/6086297-sunday-shows-republicans-strategy-economy-struggles/",
-          "publishedAt": "2026-09-12T20:35:42.000Z",
+          "id": "0e0cfa2daccbf775ddb8c45585984d0e25cd7f7d3886bc9b03177e3a9c6dde89",
+          "title": "Democrats who have carried Susan Collins to victory may be slipping away",
+          "description": "Polls show that during an era marked by polarization, a diminishing group of Democrats are in Collins' coalition.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/09/14/politics/elections/collins-jackson-maine-election-battle-joam40zk0w/",
+          "publishedAt": "2026-09-14T05:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5bf3807f0996fd2e40813dd43a3a0e40b07ae211fbd06b47add0e81c0da58981",
+          "title": "Canadian trade war stirs up trouble for Republican candidates",
+          "description": "President Donald Trump’s escalating trade war with Canada is creating headaches for Republicans ahead of November’s midterms as high prices remain a top concern among voters.",
+          "sourceName": "Chronicle Online",
+          "url": "https://www.chronicleonline.com/canadian-trade-war-stirs-up-trouble-for-republican-candidates/article_2e8c34b7-be68-5673-9c71-c374ce824375.html",
+          "publishedAt": "2026-09-14T03:00:00.000Z",
           "sentiment": 0
         }
       ],
