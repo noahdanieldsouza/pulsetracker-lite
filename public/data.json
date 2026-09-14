@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T18:07:50.926Z",
+  "lastUpdated": "2026-09-14T19:01:38.343Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,17 +22,41 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0,
+      "overallSentiment": -0.02,
       "newsSentiment": null,
-      "socialSentiment": 0,
+      "socialSentiment": -0.02,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 5,
         "youtube": 0,
-        "total": 2
+        "total": 5
       },
       "news": [],
       "social": [
+        {
+          "id": "6b465db8994fbf69f4678e071e41627e986a121d13910073108a5fab1f7f2e92",
+          "authorHandle": "tootame.bsky.social",
+          "postText": "www.youtube.com/live/T0BIsws...",
+          "createdAt": "2026-09-14T18:25:11.707Z",
+          "uri": "at://did:plc:4ryjpifbzaj27mpm5tqf2uxe/app.bsky.feed.post/3mviqaztcec2d",
+          "sentiment": -0.1
+        },
+        {
+          "id": "ed3b84fe97e2433644284b48c8186dc95aa59b667fa6e8a1827c115da79c362a",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "Maine Secretary Of State Shenna Bellows Joins the Frank Figliuzzi Show\n\nwww.youtube.com/watch?v=T0BI...",
+          "createdAt": "2026-09-14T18:09:21.655Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mvipeprwbk24",
+          "sentiment": 0
+        },
+        {
+          "id": "ad673f9793f6ef4f144c56ee0700f27692341c2e38c6fa1eb779ad329ac9f3ff",
+          "authorHandle": "frankfigliuzzi.bsky.social",
+          "postText": "LIVE at 2p ET: Are states ready to secure the midterms? Secretary of State Shenna Bellows joins me: open.substack.com/live-stream/...",
+          "createdAt": "2026-09-14T14:44:48.370Z",
+          "uri": "at://did:plc:cg7prwkuboy5dm7bvlcwsqsn/app.bsky.feed.post/3mvidwx36as25",
+          "sentiment": 0
+        },
         {
           "id": "78b9b355a0539f2c009fa0b079ed826eb75eb440142823f7a5d32d33f1069199",
           "authorHandle": "frankfigliuzzi.bsky.social",
@@ -56,14 +80,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.25476190476190474,
+      "overallSentiment": 0.34015151515151515,
       "newsSentiment": 0,
-      "socialSentiment": 0.23928571428571427,
+      "socialSentiment": 0.49545454545454554,
       "mentions": {
         "news": 2,
-        "social": 28,
+        "social": 44,
         "youtube": 8,
-        "total": 38
+        "total": 54
       },
       "news": [
         {
@@ -86,6 +110,166 @@
         }
       ],
       "social": [
+        {
+          "id": "a3e7e5c30934901d0e85c54c041768681d52cfafc04a86ce795422c432a33044",
+          "authorHandle": "tommasinaresist.bsky.social",
+          "postText": "Troy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table & no extra money when a month runs long. His pledge includes health care, $20/hour,child care, housing, unions & Social Security.\nFor Maine-every bit of it. #BlueWaveIn50Days\n#USDemocracy #Voices4Victory",
+          "createdAt": "2026-09-14T18:59:24.133Z",
+          "uri": "at://did:plc:g3lge5wz6rgzpco56r3wi6v4/app.bsky.feed.post/3mvis676kic2s",
+          "sentiment": 0.9
+        },
+        {
+          "id": "e821d0df6c8f9fa484630d78b49e17f4494c64b19d0b56714c19a7a00369eb3c",
+          "authorHandle": "bangordailynews.bsky.social",
+          "postText": "The former governor was the last notable Maine politician to commit to 2026 debates after Democratic U.S. Senate candidate Troy Jackson agreed to four against Republican Sen. Susan Collins.",
+          "createdAt": "2026-09-14T18:41:50.307Z",
+          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mvir6v2sym2r",
+          "sentiment": 0.7
+        },
+        {
+          "id": "5e47a68bb310a5dd8ceba45335a2fb6f1e1618bc806744cd6606ec5c2234f943",
+          "authorHandle": "petisia.bsky.social",
+          "postText": "The 2026 Battle for the Midterms.\nOUR REVOLUTION LIVE\nOnline―Virtual\nMonday, September 14, 2026\n8:30 PM ET\nLineup to break down what’s at stake: Angie Nixon; Rep. Greg Casar; Troy Jackson; Rep. Aisha Wahab; Nina Turner; Larry Cohen; & Megan Green. RSVP👇🏾 act.ourrevolution.com/signup/OTW-S... #PINKS",
+          "createdAt": "2026-09-14T18:13:24.368Z",
+          "uri": "at://did:plc:nchtmuabteu4r65wma4c7cpt/app.bsky.feed.post/3mviplxbm6c2t",
+          "sentiment": 0.8
+        },
+        {
+          "id": "9d4e2a93fb2210847f0577fb3d6418e97010f366edce1ed260cdb2a8c26f65ce",
+          "authorHandle": "peggystuart.bsky.social",
+          "postText": "Troy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table, & no extra money when the month runs long. His pledge includes health care, $20/hour, child care, housing, unions, & Social Security. Maine deserves every bit of it. #BlueWaveIn50Days",
+          "createdAt": "2026-09-14T18:09:44.589Z",
+          "uri": "at://did:plc:7fo4kehjjc7fbnan4dkyqrty/app.bsky.feed.post/3mvipffoedk2z",
+          "sentiment": 0.9
+        },
+        {
+          "id": "03f26a0d7dd0615e9436214676b25e1444da3f9c34fbdb52b2892f1918780c8d",
+          "authorHandle": "fingertrapt.bsky.social",
+          "postText": "Women4Troy. Troy Jackson answers YOUR questions. Susan hides for 25 years and gets funded by Billionaires.",
+          "createdAt": "2026-09-14T17:56:41.530Z",
+          "uri": "at://did:plc:zm2xlrc6v7qxi7s7jwavdsbm/app.bsky.feed.post/3mvioo2uqpc2o",
+          "sentiment": 0.8
+        },
+        {
+          "id": "327b4f9fa481282490a7da6688f27a6e8f92673eae686fff023f3208c575c814",
+          "authorHandle": "analisaswan.bsky.social",
+          "postText": "Troy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table, & no extra money when the month runs long. His pledge includes health care, $20/hour, child care, housing, unions, & Social Security. Maine deserves every bit of it. #BlueWaveIn50Days",
+          "createdAt": "2026-09-14T17:38:29.850Z",
+          "uri": "at://did:plc:6el6atkz5w26qdu5ip6cblx3/app.bsky.feed.post/3mvinnjrfv22z",
+          "sentiment": 0.9
+        },
+        {
+          "id": "fa770e6d79e530f73dcf76911e9f1bb52899210bf5be130b254e9fcbc9e9bf6e",
+          "authorHandle": "cffe.bsky.social",
+          "postText": "A lifelong advocate for working people, Troy Jackson will fight to make care more affordable and help Maine families not just get by, but thrive. CFFE PAC is proud to endorse @troyjackson207.bsky.social for #MESEN. \n\nwww.familyfriendlyeconomy.org/news-/citing...",
+          "createdAt": "2026-09-14T17:28:57.899Z",
+          "uri": "at://did:plc:x3vrxiirkclqjovqlzuquiez/app.bsky.feed.post/3mvin4icrzs2f",
+          "sentiment": 0.9
+        },
+        {
+          "id": "4f330b74191aa8384405f3f6b22f65d6e7fe3d8c0a25ef8216e62bc1065f263e",
+          "authorHandle": "watchyourrepssc.bsky.social",
+          "postText": "Troy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table, & no extra money when the month runs long. His pledge includes health care, $20/hour, child care, housing, unions, & Social Security. Maine deserves every bit of it. #BlueWaveIn50Days",
+          "createdAt": "2026-09-14T17:21:52.345Z",
+          "uri": "at://did:plc:uiffdv3gnj3koycqzkpxvfla/app.bsky.feed.post/3mvimpshyv22m",
+          "sentiment": 0.9
+        },
+        {
+          "id": "377793391eafc41016afc0a4e2ceaeda15d65d7c0072e1aadb1f781e4b05e391",
+          "authorHandle": "jameskingartstudio.bsky.social",
+          "postText": "Enough is enough. Susan Collins needs to go.\nMaine is ready for Troy Jackson.\n💙🇺🇸🌲",
+          "createdAt": "2026-09-14T17:13:06.065Z",
+          "uri": "at://did:plc:grlw7tebwrjv5nqb3mgzh4vk/app.bsky.feed.post/3mvima4l5mk2r",
+          "sentiment": 0.9
+        },
+        {
+          "id": "e702b40e5eb84895daf33f19b9ad2bd799b64f77f3eb13281480f4e6a470f994",
+          "authorHandle": "pismoelizabeth.bsky.social",
+          "postText": "Troy Jackson for senate!\n$upporting from California",
+          "createdAt": "2026-09-14T17:00:28.008Z",
+          "uri": "at://did:plc:5ujehxzn25l45regcqi2beco/app.bsky.feed.post/3mviljjn2m22k",
+          "sentiment": 0.9
+        },
+        {
+          "id": "8dd48f86a6a64450e7427c8d88aa381c693c085e3cfa0ce62480a1320df84f3e",
+          "authorHandle": "bernie747.bsky.social",
+          "postText": "www.jacksonformaine.com?fbclid=IwY2x...",
+          "createdAt": "2026-09-14T16:00:47.453Z",
+          "uri": "at://did:plc:3xbjbq2m6bwpdilvya32i7ta/app.bsky.feed.post/3mvii6sx5v222",
+          "sentiment": 0
+        },
+        {
+          "id": "819d965d7cb174eb084acbf47d14827ba5c0e518adcac5e264e547dd4c7328dc",
+          "authorHandle": "the-flip52.bsky.social",
+          "postText": "Maine is one of the states suffering the most from Trump's crackpot US-Canada trade war. Will Mainers connect the dots between the idiotic tariff burden on their state and Trump's tool, Concerned Susan? We'll see. I've donated to Troy Jackson but won't hold my breath...Maine's loved  SC since 1997.",
+          "createdAt": "2026-09-14T15:29:31.489Z",
+          "uri": "at://did:plc:4bmdkqrcka42gxlcuvvbxbnu/app.bsky.feed.post/3mviggvvdqk2t",
+          "sentiment": 0.7
+        },
+        {
+          "id": "e3a8f2df366ab0913be15124c4af15554fea790f638fce04ffed91cc308f600d",
+          "authorHandle": "mainenewsroom.com",
+          "postText": "9/14 Maine Senate candidate Troy Jackson tells me he would vote to ban Flock and other AI-powered license plate reading cameras over privacy and data security concerns #maine #MEpolitics",
+          "createdAt": "2026-09-14T15:28:30.705455Z",
+          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mvigf462rq2p",
+          "sentiment": 0.7
+        },
+        {
+          "id": "b1dc1b71f4ccfa13a1500bb8f922672af65f85078804259cbcd99f3c71fdd641",
+          "authorHandle": "almabaruth.bsky.social",
+          "postText": "ballotpedia.org/Troy_Dale_Ja...",
+          "createdAt": "2026-09-14T15:26:28.904Z",
+          "uri": "at://did:plc:voa3rif6l6tdo5i76h6vxbbc/app.bsky.feed.post/3mvigbhrfyc26",
+          "sentiment": 0
+        },
+        {
+          "id": "6aa7259e678d1276b53fc247f79a5cefaefaf3b4f18a8f99a9b1ab0d37f5e25d",
+          "authorHandle": "thathandleistaken2.bsky.social",
+          "postText": "Blue, no matter who! \n\nGave us John Fetterman. \n\n(And is about to give us Troy Jackson)",
+          "createdAt": "2026-09-14T14:55:57.129Z",
+          "uri": "at://did:plc:273hmjhmhwaaml67kfhzxjbw/app.bsky.feed.post/3mviekuu74k2r",
+          "sentiment": 0.9
+        },
+        {
+          "id": "412d9b00ca93727229048a646701b92db58f09c7b8bf4bd2a7b9a8b8a33d8040",
+          "authorHandle": "mediabusters6.bsky.social",
+          "postText": "Meet the Candidates \nCompare & Contrast\nTroy Jackson is a True-Blue Dem & always Pro-Labor\nscorecard.maineaflcio.org/legislators/...\nSusan Collins is a MAGA/GOP hiding in \"moderate\" clothing & fails in a national pro-democracy scorecard\nmainemorningstar.com/2024/09/09/s...\n#VoteBlueNoMatterWho",
+          "createdAt": "2026-09-14T14:55:52.882Z",
+          "uri": "at://did:plc:naxmvvxmg2ihdqj4l77e6nu7/app.bsky.feed.post/3mviekqsbvc2s",
+          "sentiment": 0.9
+        },
+        {
+          "id": "0e1b9eb06cb870defca54a8c89358b4629f2a3d2bed1ba27cf0bb8a109a27d72",
+          "authorHandle": "sueinrockville.bsky.social",
+          "postText": "Meet the Candidates \nCompare & Contrast\nTroy Jackson is a True-Blue Dem & always Pro-Labor\nscorecard.maineaflcio.org/legislators/...\nSusan Collins is a MAGA/GOP hiding in \"moderate\" clothing &  fails in a national pro-democracy scorecard\nmainemorningstar.com/2024/09/09/s...\n#VoteBlueNoMatterWho",
+          "createdAt": "2026-09-14T14:53:15.933Z",
+          "uri": "at://did:plc:yzt25olltf4fw5ovq53ybmag/app.bsky.feed.post/3mvieg34z2k22",
+          "sentiment": 0.9
+        },
+        {
+          "id": "4006234af348f0c1becbabf519e93f5c1e2277d10ecabeef24819be7cf1b1808",
+          "authorHandle": "collinswatch.bsky.social",
+          "postText": "A simpler way of saying this:\n\nIf you want to stop Trump, you need to vote for Troy Jackson because he'll use his power to rein Trump in and Susan Collins won't. (As she has demonstrated the last two years.) #MEpolitics",
+          "createdAt": "2026-09-14T14:28:37.508Z",
+          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3mviczz6nx22x",
+          "sentiment": 0.8
+        },
+        {
+          "id": "dc6b3abeb52f4d3dd7df4aefc9d0bef439913877df9226eae4b654543875fcd7",
+          "authorHandle": "yesrising.bsky.social",
+          "postText": "Susan Collins does nothing for the American people.\nBut she did participate in getting rid of women's healthcare.\nShe also said Donald Trump learned his \"lesson.\"\nDid he? \n\nVOTE for Troy Jackson!",
+          "createdAt": "2026-09-14T14:08:35.040Z",
+          "uri": "at://did:plc:jraa32xocvhh3earyog63h7q/app.bsky.feed.post/3mvibw6gcqk2q",
+          "sentiment": 0.8
+        },
+        {
+          "id": "79fd5a66cf579f54a167816f56e53d35d119be2f334f66b9b366ec7b60d1d6c1",
+          "authorHandle": "roninmacbeth.bsky.social",
+          "postText": "Apparently Troy Jackson's partner is his second cousin.\n\nwww.baltimoresun.com/2026/08/03/r...",
+          "createdAt": "2026-09-14T13:57:49.480Z",
+          "uri": "at://did:plc:ltwwv6ommktnpc3nshn6jrl7/app.bsky.feed.post/3mvibcwrd422u",
+          "sentiment": -0.6
+        },
         {
           "id": "4a7cfe9c7303af0659a57ca4db5e7c91017cd961d69dc9d9e85ac070f301aeb8",
           "authorHandle": "caretaker2.bsky.social",
@@ -277,38 +461,6 @@
           "createdAt": "2026-09-13T19:17:42.305Z",
           "uri": "at://did:plc:fiqojkyhzn2brytoj7fxlblo/app.bsky.feed.post/3mvgcpyz4bc2n",
           "sentiment": 0.8
-        },
-        {
-          "id": "1b09364834042c7d9a60e2702eae9efcd517bb588a725ab71939a2b15a075442",
-          "authorHandle": "henrythedog.bsky.social",
-          "postText": "well I will say Troy Jackson passed the test today, idk how many were in the room but more than enough to avoid embarrassment",
-          "createdAt": "2026-09-13T18:04:02.719Z",
-          "uri": "at://did:plc:2urhomgq5ryteqi6eignthhw/app.bsky.feed.post/3mvg6mc62cs26",
-          "sentiment": 0.6
-        },
-        {
-          "id": "dff38f622d08c3b232211ea513bc13ee9674721114061607adef3ae90653845e",
-          "authorHandle": "margaretforsyth.bsky.social",
-          "postText": "amyfried.substack.com/p/susan-coll...",
-          "createdAt": "2026-09-13T16:36:37.643Z",
-          "uri": "at://did:plc:qgimsdoqyxdklecbembcwvc5/app.bsky.feed.post/3mvfzpy2zrs2v",
-          "sentiment": -1
-        },
-        {
-          "id": "be722620adb183b8981ad3b27200baf5014094ee1016b0be701d114c2eb63daa",
-          "authorHandle": "mialong.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-09-13T15:09:31.102Z",
-          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mvfuu7nmuc2k",
-          "sentiment": 0
-        },
-        {
-          "id": "2ea929ab65b3c040fb80354d3780056cc3b5203392cff4f5ab02710f7d0d35f1",
-          "authorHandle": "capitolhillaccess.bsky.social",
-          "postText": "STRONGER MAINE spends $52,042 to SUPPORT Susan M. Collins (Sen ME Sen)(R)\n\n#MESen,\n\nand $52,042 to OPPOSE Troy Dale Jackson (Sen ME Sen)(D).\r\n\r\n2026 Cycle FEC Data:\n\nhttps://capitolhillaccess.com/tr/tr_ef_filer?&sFECID=C00922294&sCycle=2026\n\nFEC:...",
-          "createdAt": "2026-09-13T14:43:08.613Z",
-          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mvftf4e5452z",
-          "sentiment": -1
         }
       ],
       "youtube": [
