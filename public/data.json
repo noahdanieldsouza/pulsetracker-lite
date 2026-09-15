@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T17:11:38.396Z",
+  "lastUpdated": "2026-09-15T18:55:36.590Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -41,9 +41,9 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.05,
+      "overallSentiment": -0.0875,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.19999999999999998,
+      "socialSentiment": 0.125,
       "mentions": {
         "news": 1,
         "social": 12,
@@ -62,6 +62,22 @@
         }
       ],
       "social": [
+        {
+          "id": "273c3c329156721658a73fce734f563c1084fda0de497561243f7ee5ce93ef6a",
+          "authorHandle": "jasmius.bsky.social",
+          "postText": "\"Many State election officials are working overtime to ensure that mail-in voting — and the election itself — are protected in the face of Trump’s threats.\" \n\nAlas, a hopeless endeavor. www.lincolnsquare.media/p/trumps-war...",
+          "createdAt": "2026-09-15T17:02:03.984Z",
+          "uri": "at://did:plc:wwc7lucxt2neewhckh7siamy/app.bsky.feed.post/3mvl43cmr6226",
+          "sentiment": -1
+        },
+        {
+          "id": "22f6bfe8b0d321c669c38881b0b9df48131a50516839104f12b548eb37032116",
+          "authorHandle": "onefinekitty.bsky.social",
+          "postText": "open.substack.com/pub/lincolns...",
+          "createdAt": "2026-09-15T16:12:39.554Z",
+          "uri": "at://did:plc:xx42x5smhqxpia7yrdnonad2/app.bsky.feed.post/3mvkzcxjizc2q",
+          "sentiment": 0
+        },
         {
           "id": "d30878ec1fee84cf1d2bc2df485ed83058870a6d86060fae6be83d35fc1549df",
           "authorHandle": "debrabgarries.bsky.social",
@@ -141,22 +157,6 @@
           "createdAt": "2026-09-14T19:09:01.650Z",
           "uri": "at://did:plc:ifwe7oedxcd2rml6ctigrcju/app.bsky.feed.post/3mviv6czz722n",
           "sentiment": 1
-        },
-        {
-          "id": "6b465db8994fbf69f4678e071e41627e986a121d13910073108a5fab1f7f2e92",
-          "authorHandle": "tootame.bsky.social",
-          "postText": "www.youtube.com/live/T0BIsws...",
-          "createdAt": "2026-09-14T18:25:11.707Z",
-          "uri": "at://did:plc:4ryjpifbzaj27mpm5tqf2uxe/app.bsky.feed.post/3mviqaztcec2d",
-          "sentiment": -0.1
-        },
-        {
-          "id": "ed3b84fe97e2433644284b48c8186dc95aa59b667fa6e8a1827c115da79c362a",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "Maine Secretary Of State Shenna Bellows Joins the Frank Figliuzzi Show\n\nwww.youtube.com/watch?v=T0BI...",
-          "createdAt": "2026-09-14T18:09:21.655Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mvipeprwbk24",
-          "sentiment": 0
         }
       ],
       "youtube": [],
@@ -165,14 +165,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3356753548108575,
+      "overallSentiment": 0.33415856174476866,
       "newsSentiment": -0.11034482758620687,
-      "socialSentiment": 0.4507042253521125,
+      "socialSentiment": 0.4461538461538462,
       "mentions": {
         "news": 87,
-        "social": 71,
+        "social": 65,
         "youtube": 3,
-        "total": 161
+        "total": 155
       },
       "news": [
         {
@@ -961,6 +961,70 @@
       ],
       "social": [
         {
+          "id": "7a2df1493e363959125e6b0f71db2a1f164f8d18e35d6d3493356b9c72885b8e",
+          "authorHandle": "rocknb.bsky.social",
+          "postText": "To our Maine friends:\nTroy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table, & no extra money when the month runs long. His pledge includes health care, $20/hr, child care, housing, unions, & Social Security. Maine deserves every bit of it. #BlueWaveIn50Days",
+          "createdAt": "2026-09-15T18:27:59.366Z",
+          "uri": "at://did:plc:j2etjlcovdyi7oj363rojcwq/app.bsky.feed.post/3mvlaux6rpk2z",
+          "sentiment": 0.8
+        },
+        {
+          "id": "161c87d993481148a5bca6fa8012d01f9da2bd851ce954573a57eb9fdf361ce0",
+          "authorHandle": "w3hnt.bsky.social",
+          "postText": "“Tens of thousands of volunteers and 150,000 voters voted for healthcare as a right, housing that isn't a commodity, an economy that isn't rigged for billionaires and corporations, along with real support for workers and veterans”\n\nregion9a.uaw.org/news/TroyJac...",
+          "createdAt": "2026-09-15T18:25:07.440Z",
+          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3mvlapt7qgs22",
+          "sentiment": 0.7
+        },
+        {
+          "id": "6687aeb6415c58acb4bbe6cf3659ff919c296c72d1c1c740a40c0f89bc2b06cd",
+          "authorHandle": "w3hnt.bsky.social",
+          "postText": "Real support for workers and veterans\n\nregion9a.uaw.org/news/TroyJac...",
+          "createdAt": "2026-09-15T18:23:57.596Z",
+          "uri": "at://did:plc:ff5nixhv3c4uibbonolcobui/app.bsky.feed.post/3mvlanqmdec22",
+          "sentiment": 0.5
+        },
+        {
+          "id": "ba55b882807a4f083db1de4d2eafd967518ae6f8e01bea90c12f999e318e1254",
+          "authorHandle": "wearemaine.bsky.social",
+          "postText": "Yup, just another reason to vote for Troy Jackson! 🎉",
+          "createdAt": "2026-09-15T18:07:28.369Z",
+          "uri": "at://did:plc:pzjtvxys5y6tuedzi6lauqpw/app.bsky.feed.post/3mvl7qb7ifc26",
+          "sentiment": 0.9
+        },
+        {
+          "id": "2ea67f62089f2235c7ac8dd6c8d92d754cbe84723ae4261b5fed860d4b680851",
+          "authorHandle": "kat8655.eurosky.social",
+          "postText": "And you know, Sayed emphasising patient autonomy, and Troy Jackson talking about supporting trans rights because he supports other minority rights are different kind of messaging reflecting consistent values.\n\nSo I'd rather wait to see how her actions pan out after this letter.",
+          "createdAt": "2026-09-15T17:39:21.432Z",
+          "uri": "at://did:plc:nzys65xa2jvttaedbezfqhz5/app.bsky.feed.post/3mvl65ygnoc2w",
+          "sentiment": 0.6
+        },
+        {
+          "id": "7f426f3976e5930c5c7929578da5f8247def6d6e4773d0232a3ab868c6fdbfb2",
+          "authorHandle": "yesrising.bsky.social",
+          "postText": "Vote Collins out. \nCheck your registration and vote for Troy Jackson.\n\niwillvote.com",
+          "createdAt": "2026-09-15T16:53:54.886Z",
+          "uri": "at://did:plc:jraa32xocvhh3earyog63h7q/app.bsky.feed.post/3mvl3mq6ofk2t",
+          "sentiment": 0.8
+        },
+        {
+          "id": "5f9ab36fa9c87beea48e90e978793b9132daba7f282666485080edd103da02ea",
+          "authorHandle": "theupsidedem.bsky.social",
+          "postText": "Troy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table, & no extra money when the month runs long. His pledge includes health care, $20/hour, child care, housing, unions, & Social Security. Maine deserves every bit of it. #BlueWaveIn50Days",
+          "createdAt": "2026-09-15T15:28:44.360Z",
+          "uri": "at://did:plc:3vbyeh5pstubaueurrk4ajlf/app.bsky.feed.post/3mvkwugfy7k2y",
+          "sentiment": 0.8
+        },
+        {
+          "id": "0a6e6813bf753df57e3bf166d6737f357621b61c7a1cadc1eea289e444472a40",
+          "authorHandle": "montrealron.bsky.social",
+          "postText": "Joe Manchin endorses Susan Collins. Troy Jackson is in trouble now!....said no one ever.",
+          "createdAt": "2026-09-15T15:26:26.530Z",
+          "uri": "at://did:plc:l22mw2u44petum55xp244us5/app.bsky.feed.post/3mvkwqcxkqk22",
+          "sentiment": 0.7
+        },
+        {
           "id": "06ea1d3e7f098e17c3af1791f78f9ecc0e2881ee9e4d401a3131ba9d1ac5dbe1",
           "authorHandle": "sully362.bsky.social",
           "postText": "I'm attending Jackson for Maine's event, “Scarborough Community Conversation with Troy Jackson and Dr. Nirav Shah” - sign up now to join  www.mobilize.us/jacksonforma...",
@@ -1071,14 +1135,6 @@
           "createdAt": "2026-09-15T04:13:17.855Z",
           "uri": "at://did:plc:x6izkuel7a2dpgzqmfdw7yhk/app.bsky.feed.post/3mvjr4nczcs2c",
           "sentiment": 0.7
-        },
-        {
-          "id": "5ee282a30b54d7c0b9bf154205f56970fd27e1ce2715f08ddae235fe7519b009",
-          "authorHandle": "tidepools111.bsky.social",
-          "postText": "Susan Collins ad's are calling Dem rival Troy Jackson a \n'dirty politician' \nbecause he had an apartment in Augusta when he was in the legislature. He lived in Allagash about 5 hours away.",
-          "createdAt": "2026-09-15T03:51:25.957Z",
-          "uri": "at://did:plc:juku4eorvynxsqqzcwte7ybx/app.bsky.feed.post/3mvjpvk75u22a",
-          "sentiment": -0.3
         },
         {
           "id": "71005283a619f5749bd12066812c6a30ea0d5fdf290a93c915cd3aa35d361c62",
@@ -1423,110 +1479,6 @@
           "createdAt": "2026-09-14T18:59:24.133Z",
           "uri": "at://did:plc:g3lge5wz6rgzpco56r3wi6v4/app.bsky.feed.post/3mvis676kic2s",
           "sentiment": 0.9
-        },
-        {
-          "id": "e821d0df6c8f9fa484630d78b49e17f4494c64b19d0b56714c19a7a00369eb3c",
-          "authorHandle": "bangordailynews.bsky.social",
-          "postText": "The former governor was the last notable Maine politician to commit to 2026 debates after Democratic U.S. Senate candidate Troy Jackson agreed to four against Republican Sen. Susan Collins.",
-          "createdAt": "2026-09-14T18:41:50.307Z",
-          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mvir6v2sym2r",
-          "sentiment": 0.7
-        },
-        {
-          "id": "5e47a68bb310a5dd8ceba45335a2fb6f1e1618bc806744cd6606ec5c2234f943",
-          "authorHandle": "petisia.bsky.social",
-          "postText": "The 2026 Battle for the Midterms.\nOUR REVOLUTION LIVE\nOnline―Virtual\nMonday, September 14, 2026\n8:30 PM ET\nLineup to break down what’s at stake: Angie Nixon; Rep. Greg Casar; Troy Jackson; Rep. Aisha Wahab; Nina Turner; Larry Cohen; & Megan Green. RSVP👇🏾 act.ourrevolution.com/signup/OTW-S... #PINKS",
-          "createdAt": "2026-09-14T18:13:24.368Z",
-          "uri": "at://did:plc:nchtmuabteu4r65wma4c7cpt/app.bsky.feed.post/3mviplxbm6c2t",
-          "sentiment": 0.8
-        },
-        {
-          "id": "9d4e2a93fb2210847f0577fb3d6418e97010f366edce1ed260cdb2a8c26f65ce",
-          "authorHandle": "peggystuart.bsky.social",
-          "postText": "Troy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table, & no extra money when the month runs long. His pledge includes health care, $20/hour, child care, housing, unions, & Social Security. Maine deserves every bit of it. #BlueWaveIn50Days",
-          "createdAt": "2026-09-14T18:09:44.589Z",
-          "uri": "at://did:plc:7fo4kehjjc7fbnan4dkyqrty/app.bsky.feed.post/3mvipffoedk2z",
-          "sentiment": 0.9
-        },
-        {
-          "id": "03f26a0d7dd0615e9436214676b25e1444da3f9c34fbdb52b2892f1918780c8d",
-          "authorHandle": "fingertrapt.bsky.social",
-          "postText": "Women4Troy. Troy Jackson answers YOUR questions. Susan hides for 25 years and gets funded by Billionaires.",
-          "createdAt": "2026-09-14T17:56:41.530Z",
-          "uri": "at://did:plc:zm2xlrc6v7qxi7s7jwavdsbm/app.bsky.feed.post/3mvioo2uqpc2o",
-          "sentiment": 0.8
-        },
-        {
-          "id": "327b4f9fa481282490a7da6688f27a6e8f92673eae686fff023f3208c575c814",
-          "authorHandle": "analisaswan.bsky.social",
-          "postText": "Troy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table, & no extra money when the month runs long. His pledge includes health care, $20/hour, child care, housing, unions, & Social Security. Maine deserves every bit of it. #BlueWaveIn50Days",
-          "createdAt": "2026-09-14T17:38:29.850Z",
-          "uri": "at://did:plc:6el6atkz5w26qdu5ip6cblx3/app.bsky.feed.post/3mvinnjrfv22z",
-          "sentiment": 0.9
-        },
-        {
-          "id": "fa770e6d79e530f73dcf76911e9f1bb52899210bf5be130b254e9fcbc9e9bf6e",
-          "authorHandle": "cffe.bsky.social",
-          "postText": "A lifelong advocate for working people, Troy Jackson will fight to make care more affordable and help Maine families not just get by, but thrive. CFFE PAC is proud to endorse @troyjackson207.bsky.social for #MESEN. \n\nwww.familyfriendlyeconomy.org/news-/citing...",
-          "createdAt": "2026-09-14T17:28:57.899Z",
-          "uri": "at://did:plc:x3vrxiirkclqjovqlzuquiez/app.bsky.feed.post/3mvin4icrzs2f",
-          "sentiment": 0.9
-        },
-        {
-          "id": "4f330b74191aa8384405f3f6b22f65d6e7fe3d8c0a25ef8216e62bc1065f263e",
-          "authorHandle": "watchyourrepssc.bsky.social",
-          "postText": "Troy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table, & no extra money when the month runs long. His pledge includes health care, $20/hour, child care, housing, unions, & Social Security. Maine deserves every bit of it. #BlueWaveIn50Days",
-          "createdAt": "2026-09-14T17:21:52.345Z",
-          "uri": "at://did:plc:uiffdv3gnj3koycqzkpxvfla/app.bsky.feed.post/3mvimpshyv22m",
-          "sentiment": 0.9
-        },
-        {
-          "id": "377793391eafc41016afc0a4e2ceaeda15d65d7c0072e1aadb1f781e4b05e391",
-          "authorHandle": "jameskingartstudio.bsky.social",
-          "postText": "Enough is enough. Susan Collins needs to go.\nMaine is ready for Troy Jackson.\n💙🇺🇸🌲",
-          "createdAt": "2026-09-14T17:13:06.065Z",
-          "uri": "at://did:plc:grlw7tebwrjv5nqb3mgzh4vk/app.bsky.feed.post/3mvima4l5mk2r",
-          "sentiment": 0.9
-        },
-        {
-          "id": "e702b40e5eb84895daf33f19b9ad2bd799b64f77f3eb13281480f4e6a470f994",
-          "authorHandle": "pismoelizabeth.bsky.social",
-          "postText": "Troy Jackson for senate!\n$upporting from California",
-          "createdAt": "2026-09-14T17:00:28.008Z",
-          "uri": "at://did:plc:5ujehxzn25l45regcqi2beco/app.bsky.feed.post/3mviljjn2m22k",
-          "sentiment": 0.9
-        },
-        {
-          "id": "8dd48f86a6a64450e7427c8d88aa381c693c085e3cfa0ce62480a1320df84f3e",
-          "authorHandle": "bernie747.bsky.social",
-          "postText": "www.jacksonformaine.com?fbclid=IwY2x...",
-          "createdAt": "2026-09-14T16:00:47.453Z",
-          "uri": "at://did:plc:3xbjbq2m6bwpdilvya32i7ta/app.bsky.feed.post/3mvii6sx5v222",
-          "sentiment": 0
-        },
-        {
-          "id": "819d965d7cb174eb084acbf47d14827ba5c0e518adcac5e264e547dd4c7328dc",
-          "authorHandle": "the-flip52.bsky.social",
-          "postText": "Maine is one of the states suffering the most from Trump's crackpot US-Canada trade war. Will Mainers connect the dots between the idiotic tariff burden on their state and Trump's tool, Concerned Susan? We'll see. I've donated to Troy Jackson but won't hold my breath...Maine's loved  SC since 1997.",
-          "createdAt": "2026-09-14T15:29:31.489Z",
-          "uri": "at://did:plc:4bmdkqrcka42gxlcuvvbxbnu/app.bsky.feed.post/3mviggvvdqk2t",
-          "sentiment": 0.7
-        },
-        {
-          "id": "e3a8f2df366ab0913be15124c4af15554fea790f638fce04ffed91cc308f600d",
-          "authorHandle": "mainenewsroom.com",
-          "postText": "9/14 Maine Senate candidate Troy Jackson tells me he would vote to ban Flock and other AI-powered license plate reading cameras over privacy and data security concerns #maine #MEpolitics",
-          "createdAt": "2026-09-14T15:28:30.705455Z",
-          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mvigf462rq2p",
-          "sentiment": 0.7
-        },
-        {
-          "id": "b1dc1b71f4ccfa13a1500bb8f922672af65f85078804259cbcd99f3c71fdd641",
-          "authorHandle": "almabaruth.bsky.social",
-          "postText": "ballotpedia.org/Troy_Dale_Ja...",
-          "createdAt": "2026-09-14T15:26:28.904Z",
-          "uri": "at://did:plc:voa3rif6l6tdo5i76h6vxbbc/app.bsky.feed.post/3mvigbhrfyc26",
-          "sentiment": 0
         }
       ],
       "youtube": [
