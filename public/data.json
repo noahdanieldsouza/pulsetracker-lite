@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T22:26:23.134Z",
+  "lastUpdated": "2026-09-15T00:46:29.609Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,17 +22,33 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.09,
+      "overallSentiment": 0.075,
       "newsSentiment": null,
-      "socialSentiment": 0.09,
+      "socialSentiment": 0.075,
       "mentions": {
         "news": 0,
-        "social": 10,
+        "social": 12,
         "youtube": 0,
-        "total": 10
+        "total": 12
       },
       "news": [],
       "social": [
+        {
+          "id": "f0eac2812e442aab5c729fe028e155e5ea913e29eeee3775ef1424f881ecbb68",
+          "authorHandle": "terpsichorecmlos.bsky.social",
+          "postText": "open.substack.com/pub/lincolns...",
+          "createdAt": "2026-09-14T22:54:13.192Z",
+          "uri": "at://did:plc:zngkeuqz6d6qsc65kfsmxqlt/app.bsky.feed.post/3mvj7c3kaes2r",
+          "sentiment": 0
+        },
+        {
+          "id": "137c602f495f3aac85dd434c942ce472d36c17f394ace96884f9c1e739388181",
+          "authorHandle": "terpsichorecmlos.bsky.social",
+          "postText": "open.substack.com/pub/lincolns...",
+          "createdAt": "2026-09-14T22:52:05.948Z",
+          "uri": "at://did:plc:zngkeuqz6d6qsc65kfsmxqlt/app.bsky.feed.post/3mvj76c72ns2r",
+          "sentiment": 0
+        },
         {
           "id": "0caeeb79e86e97187fc69f6850bd0c10efbe5e288babd4be6d48be5631298334",
           "authorHandle": "clarkhorn.bsky.social",
@@ -120,14 +136,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.36144067796610163,
+      "overallSentiment": 0.3494444444444444,
       "newsSentiment": 0,
-      "socialSentiment": 0.5593220338983048,
+      "socialSentiment": 0.5233333333333331,
       "mentions": {
         "news": 2,
-        "social": 59,
+        "social": 60,
         "youtube": 8,
-        "total": 69
+        "total": 70
       },
       "news": [
         {
@@ -150,6 +166,54 @@
         }
       ],
       "social": [
+        {
+          "id": "5fafe488bd9e3607f33a8efca407619706aef48c215231030c2768bfb5f8bde1",
+          "authorHandle": "debbie156.bsky.social",
+          "postText": "#Maine please vote for Troy Jackson!",
+          "createdAt": "2026-09-15T00:21:43.098Z",
+          "uri": "at://did:plc:fsa4ortdhosoqvrjo4jwome5/app.bsky.feed.post/3mvje6kaook2t",
+          "sentiment": 1
+        },
+        {
+          "id": "af06295097d315811ad61ea6d8fc06c7c03b36d5c3857eb8c396acf6e148969a",
+          "authorHandle": "aleianjack.bsky.social",
+          "postText": "Is Susan Collins’ Senate Campaign in Trouble? | Electionmaxxing with Max Burns\nopen.substack.com/pub/lincolns...",
+          "createdAt": "2026-09-15T00:13:18.819Z",
+          "uri": "at://did:plc:fum3w4xzx34oraieuoexypw5/app.bsky.feed.post/3mvjdpjdbqk2o",
+          "sentiment": 0
+        },
+        {
+          "id": "3b8b9c175b4319bd3c315a2a51f9bf7b205aebf5ec0af538a09083d1c29a6f07",
+          "authorHandle": "mialong.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-09-14T23:37:08.893Z",
+          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mvjbotwff222",
+          "sentiment": 0
+        },
+        {
+          "id": "bba8a929c48bec612d659ef8edbaab29c7515b8bfd5a2ad4c03e4e4bb487a566",
+          "authorHandle": "terpsichorecmlos.bsky.social",
+          "postText": "open.substack.com/pub/lincolns...",
+          "createdAt": "2026-09-14T23:17:20.648Z",
+          "uri": "at://did:plc:zngkeuqz6d6qsc65kfsmxqlt/app.bsky.feed.post/3mvjalgpzus2r",
+          "sentiment": 0
+        },
+        {
+          "id": "cf55b7c7eee14a4cf6a6a1e09b8a96320c360335c60566bb3a2f7b1a298fdd96",
+          "authorHandle": "jesus-h-fuck.bsky.social",
+          "postText": "Heating oil should be all El-Sayed and Troy Jackson talk about the rest of their campaigns.",
+          "createdAt": "2026-09-14T23:11:55.217Z",
+          "uri": "at://did:plc:iyeypudgyc2eg4cfd4gzaeu4/app.bsky.feed.post/3mvjabqeo622t",
+          "sentiment": 0
+        },
+        {
+          "id": "586218293bc44e17117975eb482b80c47d2bbbf4cd56670162a48c486888c58b",
+          "authorHandle": "capitolhillaccess.bsky.social",
+          "postText": "Lead Maine Committee, Inc. spends $10,148 to OPPOSE Troy Jackson (Sen ME Sen)(D)\n\n#MESen.\r\n\r\n2026 Cycle FEC Data:\n\nhttps://capitolhillaccess.com/tr/tr_ef_filer?&sFECID=C00946921&sCycle=2026\n\nFEC:\n\nhttps://docquery.fec.gov/cgi-bin/forms/C00946921/2011900\n\n@SenatorCollins @SenSusanCollins...",
+          "createdAt": "2026-09-14T23:10:32.577Z",
+          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mvja7dap2g2i",
+          "sentiment": -1
+        },
         {
           "id": "c1775e546fb3e399340aa3baee16e7986e3eda9d294a65cb22f0b9894cb8a685",
           "authorHandle": "gentlem.bsky.social",
@@ -309,6 +373,14 @@
           "createdAt": "2026-09-14T20:04:58.201Z",
           "uri": "at://did:plc:i4dxcnmfqjupktepdxislau4/app.bsky.feed.post/3mvivtgyiy22l",
           "sentiment": 0
+        },
+        {
+          "id": "4f99b1e9cff62695937d3d5d0f1e8eacab645ec3ea7f3e70b3086198d510f60f",
+          "authorHandle": "lincolnsquare.skystack.xyz",
+          "postText": "Is Susan Collins’ Senate Campaign in Trouble? | Electionmaxxing with Max Burns • With gas prices surging and Democrat Troy Jackson leading in the polls, Collins is struggling to defend her pro-Trump record with a restless electorate in Maine.",
+          "createdAt": "2026-09-14T19:59:30.735Z",
+          "uri": "at://did:plc:ifwe7oedxcd2rml6ctigrcju/app.bsky.feed.post/3mvj7abeo2s2n",
+          "sentiment": -1
         },
         {
           "id": "2c920b84234fc4f1516314c3d5c6f5de5c78b683f5fd12a190da07827f862eb0",
@@ -572,54 +644,6 @@
           "postText": "I love AES and Angie Nixon as much as the next lad but Troy Jackson is not getting the love and attention he deserves... What's that??M4A? $20 min wage? No transphobic bullshit? \n\nI get it he's a boring white dude, but my man is progressive as hell with a nice lead in the polls! Repost this shit!",
           "createdAt": "2026-09-14T01:30:19.276Z",
           "uri": "at://did:plc:sundwyixbornrmi2xb4eiciz/app.bsky.feed.post/3mvgxkcbors2n",
-          "sentiment": 0.8
-        },
-        {
-          "id": "38f25223d3244761169350c18cbd9ef759a6f1eeea8a3ff2d500501e11f00757",
-          "authorHandle": "nlm4.bsky.social",
-          "postText": "Maine senate race - ad attacking Troy Jackson for a bill he signed designating trans prisoners be housed according to their gender identity. Airing mainly alongside local and national news.",
-          "createdAt": "2026-09-14T00:11:48.849Z",
-          "uri": "at://did:plc:hq2gglanq5vr7culo27hnuki/app.bsky.feed.post/3mvgt5w2zcc2p",
-          "sentiment": -0.7
-        },
-        {
-          "id": "29c25e619557bf708b31a11c61f83ab03536f4f6081326b87967b2a57bded3be",
-          "authorHandle": "sklerson.bsky.social",
-          "postText": "www.reddit.com/r/Political_...",
-          "createdAt": "2026-09-14T00:04:32.607Z",
-          "uri": "at://did:plc:7xpborydfgmykie57ehvdyxi/app.bsky.feed.post/3mvgsqvztss2r",
-          "sentiment": 0
-        },
-        {
-          "id": "2aa35ba5168d12651efc8732d6a5517a14aea484793fa00c9a4f78a04166ba67",
-          "authorHandle": "supreme13.org",
-          "postText": "Thank you @troyjackson207.bsky.social for endorsing Supreme Court expansion!\n\nRead this July 16, 2026 story about Maine Senate candidate Troy Jackson: www.bangordailynews.com/2026/07/16/p... \n\nVisit supreme13.org/faqs/ to learn more about Supreme Court expansion.",
-          "createdAt": "2026-09-13T23:53:00.977Z",
-          "uri": "at://did:plc:ftcgt7icscsracnx4k6r6ggu/app.bsky.feed.post/3mvgs4et36y2u",
-          "sentiment": 0.7
-        },
-        {
-          "id": "3aa4c5cef3c5815e9315ae554f83005c00c7dcf8c29e1226c56b9d27294a3edc",
-          "authorHandle": "chathamharrison.bsky.social",
-          "postText": "Yeah, to the extent there's a viable Democratic party in Kansas it depends on Johnson County & Lawrence. Wichita has a lot of union workers but they're more the Sean O'Brien type than the Troy Jackson type",
-          "createdAt": "2026-09-13T23:39:11.865Z",
-          "uri": "at://did:plc:hyszri36usuuawks7s5viu5p/app.bsky.feed.post/3mvgrdlqi7c2x",
-          "sentiment": 0
-        },
-        {
-          "id": "d35a110494b051c2bf6fea2ef954c04e0a0b0ec6afecc32c934599acb8f537de",
-          "authorHandle": "bernie747.bsky.social",
-          "postText": "www.jacksonformaine.com",
-          "createdAt": "2026-09-13T23:18:26.283Z",
-          "uri": "at://did:plc:3xbjbq2m6bwpdilvya32i7ta/app.bsky.feed.post/3mvgq6huckk22",
-          "sentiment": -0.2
-        },
-        {
-          "id": "5f72b4b786e5b51d563444bfb1a51ae1ec72affc206e95fd85209ec320db6c09",
-          "authorHandle": "fingertrapt.bsky.social",
-          "postText": "If you live in Oxford County, Maine, I have Troy Jackson signs!\n#Women4Troy",
-          "createdAt": "2026-09-13T23:02:35.071Z",
-          "uri": "at://did:plc:zm2xlrc6v7qxi7s7jwavdsbm/app.bsky.feed.post/3mvgpc4pmlk2a",
           "sentiment": 0.8
         }
       ],
