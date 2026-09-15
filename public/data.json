@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T21:53:47.523Z",
+  "lastUpdated": "2026-09-15T23:54:39.495Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -41,14 +41,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.03636363636363636,
+      "overallSentiment": -0.0111111111111111,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.22727272727272727,
+      "socialSentiment": 0.2777777777777778,
       "mentions": {
         "news": 1,
-        "social": 11,
+        "social": 9,
         "youtube": 0,
-        "total": 12
+        "total": 10
       },
       "news": [
         {
@@ -133,22 +133,6 @@
           "createdAt": "2026-09-15T14:30:38.785Z",
           "uri": "at://did:plc:vvlzmo2anppmayllpdcipd7x/app.bsky.feed.post/3mvktmkcijc2y",
           "sentiment": 0.7
-        },
-        {
-          "id": "f0eac2812e442aab5c729fe028e155e5ea913e29eeee3775ef1424f881ecbb68",
-          "authorHandle": "terpsichorecmlos.bsky.social",
-          "postText": "open.substack.com/pub/lincolns...",
-          "createdAt": "2026-09-14T22:54:13.192Z",
-          "uri": "at://did:plc:zngkeuqz6d6qsc65kfsmxqlt/app.bsky.feed.post/3mvj7c3kaes2r",
-          "sentiment": 0
-        },
-        {
-          "id": "137c602f495f3aac85dd434c942ce472d36c17f394ace96884f9c1e739388181",
-          "authorHandle": "terpsichorecmlos.bsky.social",
-          "postText": "open.substack.com/pub/lincolns...",
-          "createdAt": "2026-09-14T22:52:05.948Z",
-          "uri": "at://did:plc:zngkeuqz6d6qsc65kfsmxqlt/app.bsky.feed.post/3mvj76c72ns2r",
-          "sentiment": 0
         }
       ],
       "youtube": [],
@@ -157,14 +141,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.30242174510229164,
+      "overallSentiment": 0.3254406130268199,
       "newsSentiment": -0.11034482758620687,
-      "socialSentiment": 0.35094339622641507,
+      "socialSentiment": 0.42,
       "mentions": {
         "news": 87,
-        "social": 53,
+        "social": 45,
         "youtube": 3,
-        "total": 143
+        "total": 135
       },
       "news": [
         {
@@ -953,6 +937,22 @@
       ],
       "social": [
         {
+          "id": "0b54759d1b4b8ff1bf0bcc9686d375ae3791ef3333dcfa4f31fdb007ce7ab112",
+          "authorHandle": "brms52.bsky.social",
+          "postText": "Another reason for voters in Maine to vote for Troy Jackson.",
+          "createdAt": "2026-09-15T22:29:42.033Z",
+          "uri": "at://did:plc:nemkgjkcz55by4ldrz5htmfv/app.bsky.feed.post/3mvlof5ytmk2o",
+          "sentiment": 0.7
+        },
+        {
+          "id": "6c26a374a8a3a9186f61b6be35327049670b97bd3459ae17c3dace2ed02371a3",
+          "authorHandle": "mrspiehole.bsky.social",
+          "postText": "Please, please, people who hate this effing monster, help take back the Senate. Help Mainer's unseat Susan Collins. Donations to Troy Jackson are much appreciated.",
+          "createdAt": "2026-09-15T22:01:51.870Z",
+          "uri": "at://did:plc:5lkb5tglgaucdodg2qrp4j6t/app.bsky.feed.post/3mvlmtf7h4c2d",
+          "sentiment": 0.6
+        },
+        {
           "id": "ad64a165a82d5eccf48cc3ce65eab7a58b39924427ddac6144a296a13d1e4989",
           "authorHandle": "officiallilsilver.bsky.social",
           "postText": "Is Susan Collins’ Senate Campaign in Trouble? | Electionmaxxing with Max Burns\nopen.substack.com/pub/lincolns...",
@@ -1295,86 +1295,6 @@
           "createdAt": "2026-09-15T00:13:18.819Z",
           "uri": "at://did:plc:fum3w4xzx34oraieuoexypw5/app.bsky.feed.post/3mvjdpjdbqk2o",
           "sentiment": 0
-        },
-        {
-          "id": "3b8b9c175b4319bd3c315a2a51f9bf7b205aebf5ec0af538a09083d1c29a6f07",
-          "authorHandle": "mialong.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-09-14T23:37:08.893Z",
-          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3mvjbotwff222",
-          "sentiment": 0
-        },
-        {
-          "id": "bba8a929c48bec612d659ef8edbaab29c7515b8bfd5a2ad4c03e4e4bb487a566",
-          "authorHandle": "terpsichorecmlos.bsky.social",
-          "postText": "open.substack.com/pub/lincolns...",
-          "createdAt": "2026-09-14T23:17:20.648Z",
-          "uri": "at://did:plc:zngkeuqz6d6qsc65kfsmxqlt/app.bsky.feed.post/3mvjalgpzus2r",
-          "sentiment": 0
-        },
-        {
-          "id": "cf55b7c7eee14a4cf6a6a1e09b8a96320c360335c60566bb3a2f7b1a298fdd96",
-          "authorHandle": "jesus-h-fuck.bsky.social",
-          "postText": "Heating oil should be all El-Sayed and Troy Jackson talk about the rest of their campaigns.",
-          "createdAt": "2026-09-14T23:11:55.217Z",
-          "uri": "at://did:plc:iyeypudgyc2eg4cfd4gzaeu4/app.bsky.feed.post/3mvjabqeo622t",
-          "sentiment": 0
-        },
-        {
-          "id": "586218293bc44e17117975eb482b80c47d2bbbf4cd56670162a48c486888c58b",
-          "authorHandle": "capitolhillaccess.bsky.social",
-          "postText": "Lead Maine Committee, Inc. spends $10,148 to OPPOSE Troy Jackson (Sen ME Sen)(D)\n\n#MESen.\r\n\r\n2026 Cycle FEC Data:\n\nhttps://capitolhillaccess.com/tr/tr_ef_filer?&sFECID=C00946921&sCycle=2026\n\nFEC:\n\nhttps://docquery.fec.gov/cgi-bin/forms/C00946921/2011900\n\n@SenatorCollins @SenSusanCollins...",
-          "createdAt": "2026-09-14T23:10:32.577Z",
-          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mvja7dap2g2i",
-          "sentiment": -1
-        },
-        {
-          "id": "c1775e546fb3e399340aa3baee16e7986e3eda9d294a65cb22f0b9894cb8a685",
-          "authorHandle": "gentlem.bsky.social",
-          "postText": "www.jacksonformaine.com\n#JacksonForMaine\n#SolidarityForever\n@troyjackson207.bsky.social …\nJohnny Cash of the Allagash\n#Dirigo\n🌲🦞💪🏼",
-          "createdAt": "2026-09-14T22:17:00.457Z",
-          "uri": "at://did:plc:yto72hgvetlbftg2v76q3qq3/app.bsky.feed.post/3mvj57kb2q22o",
-          "sentiment": 1
-        },
-        {
-          "id": "9607de481e4ccb88152fa6b63df7110b92e3d53b8215c244d7a58683098b3e0e",
-          "authorHandle": "bubbie50.bsky.social",
-          "postText": "There IS a better candidate ~ TROY JACKSON!",
-          "createdAt": "2026-09-14T22:15:31.513Z",
-          "uri": "at://did:plc:33jhagl7ch5ohc6kg4shnyg6/app.bsky.feed.post/3mvj54vgapc2g",
-          "sentiment": 1
-        },
-        {
-          "id": "cc3ad7288980b41596899721c8de000620431aef347abb9dfbfeb52b0e90e0d0",
-          "authorHandle": "conundrumk.bsky.social",
-          "postText": "Lmfao this bitch is DESPERATE. Endorsements from away are not exactly vote movers in Maine in the first place, but THIS GUY?!? People either hate him or don’t know who the hell he is. \n\nTroy Jackson has her on a tilt & I love it. Don’t know who’ll win, but she’s sure sweating it.",
-          "createdAt": "2026-09-14T22:14:23.821Z",
-          "uri": "at://did:plc:ihilhtnulrmj5mwhyoheuzme/app.bsky.feed.post/3mvj52uuk6223",
-          "sentiment": -1
-        },
-        {
-          "id": "242adbcaf6e8a0a164d8a039c61ed939fd3109a42508f8f9b716bd1c39b5b2df",
-          "authorHandle": "almabaruth.bsky.social",
-          "postText": "www.wmtw.com/article/main...",
-          "createdAt": "2026-09-14T22:09:25.769Z",
-          "uri": "at://did:plc:voa3rif6l6tdo5i76h6vxbbc/app.bsky.feed.post/3mvj4rymsos2m",
-          "sentiment": 0
-        },
-        {
-          "id": "cf22b6ac05c05b3bde5f975f32ea4958a3d3550b7f6fd29b648c4d937b8574c2",
-          "authorHandle": "gentlem.bsky.social",
-          "postText": "shop.jacksonformaine.com\n@troyjackson207.bsky.social has #JacksonForMaine merch to help support his campaign to ‘Say Hell No To The Status Quo’, defeat Susan Collins & her dark, self-serving $, & give Mainers the leadership they deserve.\n(I’m loving the orange beanie-a headlamp one would be great!)",
-          "createdAt": "2026-09-14T22:08:55.441Z",
-          "uri": "at://did:plc:yto72hgvetlbftg2v76q3qq3/app.bsky.feed.post/3mvj4r3p6l22b",
-          "sentiment": 1
-        },
-        {
-          "id": "117056b45a830d11078bc1343dcd1b226dbd5ebead9c121b0e1a430761a3ddbd",
-          "authorHandle": "acehannarules.bsky.social",
-          "postText": "open.substack.com/pub/lincolns...",
-          "createdAt": "2026-09-14T22:01:15.242Z",
-          "uri": "at://did:plc:kc4pkiepuybz473bv3tmou5h/app.bsky.feed.post/3mvj4deswkk2x",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -1419,9 +1339,9 @@
       "socialSentiment": 0,
       "mentions": {
         "news": 1,
-        "social": 1,
+        "social": 2,
         "youtube": 0,
-        "total": 2
+        "total": 3
       },
       "news": [
         {
@@ -1435,6 +1355,14 @@
         }
       ],
       "social": [
+        {
+          "id": "34543cc756e5ce45d76ecd1eb5e8e4cdc8f983e5738a1aa4de2f105ed90a3d76",
+          "authorHandle": "allchristmas.bsky.social",
+          "postText": "www.threads.com/share/BAW4AB...\n@mainepublic.org \n@mainemorningstar.com \n@maine",
+          "createdAt": "2026-09-15T22:48:03.293Z",
+          "uri": "at://did:plc:g4zgxybpo7umblq2fnarywhv/app.bsky.feed.post/3mvlpfyanss2s",
+          "sentiment": 0
+        },
         {
           "id": "a2bc2ee597510a0fe706f91554a879f004fc9cac9b60fcbefb655a24063d5760",
           "authorHandle": "timnathchamber.bsky.social",
