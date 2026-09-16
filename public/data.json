@@ -1,44 +1,35 @@
 {
-  "lastUpdated": "2026-09-16T17:12:28.158Z",
+  "lastUpdated": "2026-09-16T17:44:08.705Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": 0,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "6f2ee5aca6d337e4cce9a7bbe6a3c94a27c88002a5803eccecd2be628ab27b0d",
-          "authorHandle": "sully362.bsky.social",
-          "postText": "I'm attending Jackson for Maine's event, “Scarborough Community Conversation with Troy Jackson and Dr. Nirav Shah” - sign up now to join  www.mobilize.us/jacksonforma...",
-          "createdAt": "2026-09-15T15:03:19.170Z",
-          "uri": "at://did:plc:s4fttef2kep7rtooy77ja3ow/app.bsky.feed.post/3mvkvgxupxs2w",
-          "sentiment": 0
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.07727272727272727,
+      "overallSentiment": 0.09999999999999999,
       "newsSentiment": 0,
-      "socialSentiment": 0.15454545454545454,
+      "socialSentiment": 0.19999999999999998,
       "mentions": {
         "news": 2,
-        "social": 11,
+        "social": 6,
         "youtube": 0,
-        "total": 13
+        "total": 8
       },
       "news": [
         {
@@ -108,46 +99,6 @@
           "createdAt": "2026-09-15T20:06:16.232Z",
           "uri": "at://did:plc:efcoja4h2zzps7jo44w3ko5p/app.bsky.feed.post/3mvlgeoum422j",
           "sentiment": 1
-        },
-        {
-          "id": "273c3c329156721658a73fce734f563c1084fda0de497561243f7ee5ce93ef6a",
-          "authorHandle": "jasmius.bsky.social",
-          "postText": "\"Many State election officials are working overtime to ensure that mail-in voting — and the election itself — are protected in the face of Trump’s threats.\" \n\nAlas, a hopeless endeavor. www.lincolnsquare.media/p/trumps-war...",
-          "createdAt": "2026-09-15T17:02:03.984Z",
-          "uri": "at://did:plc:wwc7lucxt2neewhckh7siamy/app.bsky.feed.post/3mvl43cmr6226",
-          "sentiment": -1
-        },
-        {
-          "id": "22f6bfe8b0d321c669c38881b0b9df48131a50516839104f12b548eb37032116",
-          "authorHandle": "onefinekitty.bsky.social",
-          "postText": "open.substack.com/pub/lincolns...",
-          "createdAt": "2026-09-15T16:12:39.554Z",
-          "uri": "at://did:plc:xx42x5smhqxpia7yrdnonad2/app.bsky.feed.post/3mvkzcxjizc2q",
-          "sentiment": 0
-        },
-        {
-          "id": "d30878ec1fee84cf1d2bc2df485ed83058870a6d86060fae6be83d35fc1549df",
-          "authorHandle": "debrabgarries.bsky.social",
-          "postText": "www.lincolnsquare.media/p/trumps-war...\n#CountryBeforeParty #DefendDemocracy",
-          "createdAt": "2026-09-15T15:02:31.132Z",
-          "uri": "at://did:plc:mgf3zfdwb3rnracvqa5rkcz3/app.bsky.feed.post/3mvkvfk2ov225",
-          "sentiment": 0.8
-        },
-        {
-          "id": "30451f8c6443bc7e7ce892a05dc08c547261927ee342c8b16270ca2375561e79",
-          "authorHandle": "jensee77.bsky.social",
-          "postText": "open.substack.com/pub/lincolns...",
-          "createdAt": "2026-09-15T14:48:06.589Z",
-          "uri": "at://did:plc:nv6p5jiik6zzjree3f2mczwz/app.bsky.feed.post/3mvkulrkvn22l",
-          "sentiment": 0
-        },
-        {
-          "id": "0dbe86017d307bae05b90f019f18adf56c1b8b303f9971edd09b5d680b6bff64",
-          "authorHandle": "katemcclanaghan.bsky.social",
-          "postText": "Doxxed & Swatted by MAGA | Maine Secretary of State Shenna Bellows Joins the Frank Figliuzzi Show\nopen.substack.com/pub/lincolns...",
-          "createdAt": "2026-09-15T14:30:38.785Z",
-          "uri": "at://did:plc:vvlzmo2anppmayllpdcipd7x/app.bsky.feed.post/3mvktmkcijc2y",
-          "sentiment": 0.7
         }
       ],
       "youtube": [],
@@ -156,14 +107,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.33456196581196584,
+      "overallSentiment": 0.32149857142857147,
       "newsSentiment": -0.12500000000000003,
-      "socialSentiment": 0.3974358974358974,
+      "socialSentiment": 0.3582457142857143,
       "mentions": {
         "news": 4,
-        "social": 39,
+        "social": 35,
         "youtube": 16,
-        "total": 59
+        "total": 55
       },
       "news": [
         {
@@ -204,6 +155,78 @@
         }
       ],
       "social": [
+        {
+          "id": "1799896c4e49d69be4fee16ed8666b4e3e3eb98171d5498dbc6e9bfdb25ae7f3",
+          "authorHandle": "utahcornelius.bsky.social",
+          "postText": "ACK! I missed one Senate candidate on my list for the best bets to win the world we want to live in.\n\nCorrected list:\n\nTroy Jackson (ME), Abdul El-Sayed (MI), Mary Peltola (AK), Josh Turek (IA), ROY COOPER (NC), Sherrod Brown (OH), James Talarico (TX), Jon Ossoff (GA).\n\nThey rely on our $upport!",
+          "createdAt": "2026-09-16T17:35:50.382Z",
+          "uri": "at://did:plc:stad3lk5bek74z2vht6ya76b/app.bsky.feed.post/3mvnogmmbhk2g",
+          "sentiment": 0.8264
+        },
+        {
+          "id": "dc8f5f437de26fd81b50b07665acf26bdea95a1c3580798b757c0e54ab6ccd17",
+          "authorHandle": "reanderthal.bsky.social",
+          "postText": "I think Troy fits the Maine electorate and the mood a lot better than Gideon did.\n\nThere may be some silent Collins voters so I'm not celebrating yet, but I think Gideon took the centrist lane and Collins ate into her vote there, whereas Jackson takes the outside lane and will eat into independants.",
+          "createdAt": "2026-09-16T17:32:16.234Z",
+          "uri": "at://did:plc:d6jgogtbueqtyuuo547iouhv/app.bsky.feed.post/3mvnoaafj5s2o",
+          "sentiment": -0.0466
+        },
+        {
+          "id": "1fd4021e45b4fece1757b3da2183412fcc9907d1e3501712e593ba62631fa318",
+          "authorHandle": "cmccosky.bsky.social",
+          "postText": "Corrected: Tigers rotation for White Sox series (apologies)\n\nThursday -- Framber Valdez\nFriday -- Andrew Sears\nSaturday -- Jackson Jobe\nSunday -- Troy Melton",
+          "createdAt": "2026-09-16T17:25:54.037Z",
+          "uri": "at://did:plc:htguljkxujej746dcydxys2a/app.bsky.feed.post/3mvnnutvbcc2k",
+          "sentiment": 0
+        },
+        {
+          "id": "a21b3d924da8811c893ead001ce2de0960b424632357b82d7c6e34c99d9f4863",
+          "authorHandle": "brms52.bsky.social",
+          "postText": "This is another reason for all of Maine voters to vote for Troy Jackson",
+          "createdAt": "2026-09-16T16:48:59.570Z",
+          "uri": "at://did:plc:nemkgjkcz55by4ldrz5htmfv/app.bsky.feed.post/3mvnlstz6sc2v",
+          "sentiment": 0
+        },
+        {
+          "id": "c26947455b3a06f4309c1f7fbde49d1335b5e9e1f513bab3ec9f1594292d9b50",
+          "authorHandle": "utahcornelius.bsky.social",
+          "postText": "The billionaires are weighing in for the end-game. If millions of us re$pond, we CAN overwhelm them.\n\nTroy Jackson (ME), Abdul El-Sayed (MI), Mary Peltola (AK), Josh Turek (IA), Sherrod Brown (OH), James Talarico (TX), Jon Ossoff (GA). \n\nOur best Senate bets for the world we want to live in.",
+          "createdAt": "2026-09-16T16:19:29.677Z",
+          "uri": "at://did:plc:stad3lk5bek74z2vht6ya76b/app.bsky.feed.post/3mvnk644aqc2e",
+          "sentiment": 0.5859
+        },
+        {
+          "id": "b91108abd833f80690df22dcaaa559f9c5f0a70de52677bf497175be7539f32e",
+          "authorHandle": "savefrogs2.bsky.social",
+          "postText": "Help Get Out The Vote for #TroyJackson www.jacksonformaine.com",
+          "createdAt": "2026-09-16T16:07:46.787Z",
+          "uri": "at://did:plc:tgnd3cenjjhsatv6xii2wdf6/app.bsky.feed.post/3mvnjj5rpqk23",
+          "sentiment": 0.4019
+        },
+        {
+          "id": "9bb8ad7abf43ce06e81704a29a063036975d7f10fb5a2a8641ed1a03862a19e9",
+          "authorHandle": "savefrogs2.bsky.social",
+          "postText": "#SusanCollins cast ANOTHER #antiAbortion vote!! \n\n29 years in the US Senate, and Senator Susan Collins STILL can't get it right. \n\n#TroyJackson for Maine \nwww.jacksonformaine.com",
+          "createdAt": "2026-09-16T16:05:30.704Z",
+          "uri": "at://did:plc:tgnd3cenjjhsatv6xii2wdf6/app.bsky.feed.post/3mvnjf3yt6223",
+          "sentiment": 0
+        },
+        {
+          "id": "275df59e24fa128f3b37439d8a17372524b9715cd2023275bf4ba029ae34524b",
+          "authorHandle": "aflcio.org",
+          "postText": "Mainers have had enough of Susan Collins.\n\nThey’re ready for a senator who knows what it means to be a working person because he is one. Troy Jackson is a fifth-generation logger and a proud union member.\n\nMaine is ready for one of our own.",
+          "createdAt": "2026-09-16T15:52:34.618768106Z",
+          "uri": "at://did:plc:23tjefyt2vhs2hqxeiooy4t4/app.bsky.feed.post/3mvninxvtdk2c",
+          "sentiment": 0.7964
+        },
+        {
+          "id": "ec0da3997702fc34f1bc6014ce8dd4e1f4dd4ba965fce6c3e29855a9d010a8f2",
+          "authorHandle": "andromeda60.bsky.social",
+          "postText": "Susan Collins the math does not math no matter how you cook the books. Vote! For TROY JACKSON \nandyobrien.substack.com/p/susan-coll...",
+          "createdAt": "2026-09-16T14:51:45.102Z",
+          "uri": "at://did:plc:wzrfdpbi3s43ar7usuxtgdgu/app.bsky.feed.post/3mvnfb7g67k27",
+          "sentiment": 0.2746
+        },
         {
           "id": "ffb422c7337b22d9142620c6f927b1714775878081a7dd9fc07dd8f7cbfaf7fc",
           "authorHandle": "deanclarkak.bsky.social",
@@ -410,110 +433,6 @@
           "postText": "Yup, just another reason to vote for Troy Jackson! 🎉",
           "createdAt": "2026-09-15T18:07:28.369Z",
           "uri": "at://did:plc:pzjtvxys5y6tuedzi6lauqpw/app.bsky.feed.post/3mvl7qb7ifc26",
-          "sentiment": 0.9
-        },
-        {
-          "id": "2ea67f62089f2235c7ac8dd6c8d92d754cbe84723ae4261b5fed860d4b680851",
-          "authorHandle": "kat8655.eurosky.social",
-          "postText": "And you know, Sayed emphasising patient autonomy, and Troy Jackson talking about supporting trans rights because he supports other minority rights are different kind of messaging reflecting consistent values.\n\nSo I'd rather wait to see how her actions pan out after this letter.",
-          "createdAt": "2026-09-15T17:39:21.432Z",
-          "uri": "at://did:plc:nzys65xa2jvttaedbezfqhz5/app.bsky.feed.post/3mvl65ygnoc2w",
-          "sentiment": 0.6
-        },
-        {
-          "id": "7f426f3976e5930c5c7929578da5f8247def6d6e4773d0232a3ab868c6fdbfb2",
-          "authorHandle": "yesrising.bsky.social",
-          "postText": "Vote Collins out. \nCheck your registration and vote for Troy Jackson.\n\niwillvote.com",
-          "createdAt": "2026-09-15T16:53:54.886Z",
-          "uri": "at://did:plc:jraa32xocvhh3earyog63h7q/app.bsky.feed.post/3mvl3mq6ofk2t",
-          "sentiment": 0.8
-        },
-        {
-          "id": "5f9ab36fa9c87beea48e90e978793b9132daba7f282666485080edd103da02ea",
-          "authorHandle": "theupsidedem.bsky.social",
-          "postText": "Troy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table, & no extra money when the month runs long. His pledge includes health care, $20/hour, child care, housing, unions, & Social Security. Maine deserves every bit of it. #BlueWaveIn50Days",
-          "createdAt": "2026-09-15T15:28:44.360Z",
-          "uri": "at://did:plc:3vbyeh5pstubaueurrk4ajlf/app.bsky.feed.post/3mvkwugfy7k2y",
-          "sentiment": 0.8
-        },
-        {
-          "id": "0a6e6813bf753df57e3bf166d6737f357621b61c7a1cadc1eea289e444472a40",
-          "authorHandle": "montrealron.bsky.social",
-          "postText": "Joe Manchin endorses Susan Collins. Troy Jackson is in trouble now!....said no one ever.",
-          "createdAt": "2026-09-15T15:26:26.530Z",
-          "uri": "at://did:plc:l22mw2u44petum55xp244us5/app.bsky.feed.post/3mvkwqcxkqk22",
-          "sentiment": 0.7
-        },
-        {
-          "id": "06ea1d3e7f098e17c3af1791f78f9ecc0e2881ee9e4d401a3131ba9d1ac5dbe1",
-          "authorHandle": "sully362.bsky.social",
-          "postText": "I'm attending Jackson for Maine's event, “Scarborough Community Conversation with Troy Jackson and Dr. Nirav Shah” - sign up now to join  www.mobilize.us/jacksonforma...",
-          "createdAt": "2026-09-15T15:03:19.170Z",
-          "uri": "at://did:plc:s4fttef2kep7rtooy77ja3ow/app.bsky.feed.post/3mvkvgxupxs2w",
-          "sentiment": 0.7
-        },
-        {
-          "id": "872d96419ae88793bc5cb9e5e204909b415a23076ef95d624f782e4657ca7d5e",
-          "authorHandle": "kerravon.bsky.social",
-          "postText": "You're doing to have to explain to me, at length, what exactly these people (like Troy Jackson, who is barely a national figure now) did to get the transphobe label.",
-          "createdAt": "2026-09-15T15:03:17.597Z",
-          "uri": "at://did:plc:st535ku3pt3iqhksgcwtvfvq/app.bsky.feed.post/3mvkvgwenv22k",
-          "sentiment": -0.3
-        },
-        {
-          "id": "01f2b272714fc0e1c0bf00347230efee4c442e09ee422ecc1133ee377add6c5f",
-          "authorHandle": "merrymoth.bsky.social",
-          "postText": "youtube.com/shorts/e7lbr...",
-          "createdAt": "2026-09-15T15:03:10.486Z",
-          "uri": "at://did:plc:nqwf4qstiyq3v7mjlp32lojm/app.bsky.feed.post/3mvkvgplqi22p",
-          "sentiment": 0
-        },
-        {
-          "id": "e188648245878e1048c85ed6643c4e32b7714e9c450015fac17c44cf4c968fbf",
-          "authorHandle": "dmskywalker.bsky.social",
-          "postText": "I never said I’d list a dozen, you may have badgered another decent person for a dozen names, you never said anything of the sort to me. \n\nBut - here - Don Davis, Siobhan Thierry, Josh Turek, Adam Hamilton, Sherrod Brown, Mary Peltola, Jared Golden, Marie Gluesenkamp Perez, Tom Suozzi, Troy Jackson.",
-          "createdAt": "2026-09-15T15:01:52.473Z",
-          "uri": "at://did:plc:m6zp5evzqyqdn24csryy22k4/app.bsky.feed.post/3mvkvef6vxc2c",
-          "sentiment": 0.6
-        },
-        {
-          "id": "8a2360e8d1b83509d7c94f4ebd1e3c6c942ae75195b226e4a60ec899ccbbb80f",
-          "authorHandle": "merrymoth.bsky.social",
-          "postText": "youtube.com/shorts/e7lbr...",
-          "createdAt": "2026-09-15T15:00:14.080Z",
-          "uri": "at://did:plc:nqwf4qstiyq3v7mjlp32lojm/app.bsky.feed.post/3mvkvbhe7zc2v",
-          "sentiment": 0
-        },
-        {
-          "id": "1465226998c6272235e91ddb3679c2f4aa7d9ff7433817d25197c7b3f1c9fbf5",
-          "authorHandle": "semafor.com",
-          "postText": "Manchin raised eyebrows by endorsing Collins against Democrat Troy Jackson, marking the second consecutive cycle Manchin has backed his former colleague.\n\nRead more from Burgess Everett: \n\nwww.semafor.com/article/09/1...",
-          "createdAt": "2026-09-15T14:31:32.908Z",
-          "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mvkto6lb7l2c",
-          "sentiment": -0.4
-        },
-        {
-          "id": "28b0cb858ec1f366cf3e3057feb935d2c2bc207979e0ff31d329945f0170c1ff",
-          "authorHandle": "asfried.bsky.social",
-          "postText": "Besides seeing Troy Jackson contra dancing, videos from last weekend show him and Matt Dunlap hanging out with folks at the UMaine football tailgate. \n\nI don't think I've ever seen Collins and LePage just enjoying themselves with people someplace public. They isolate themselves. #mepolitics",
-          "createdAt": "2026-09-15T14:22:09.214Z",
-          "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3mvkt5edmlk2u",
-          "sentiment": 0.6
-        },
-        {
-          "id": "8752ec774cdb5a053c45f62d71a5bfea3b28fd0857713b9934898d2f80a602f2",
-          "authorHandle": "asfried.bsky.social",
-          "postText": "Troy Jackson certainly has plenty of serious, policy-oriented things to say, but he's also embracing joy. We need more dancing, music, joy and community. #mepolitics",
-          "createdAt": "2026-09-15T14:15:53.797Z",
-          "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3mvkss6csgc2t",
-          "sentiment": 0.8
-        },
-        {
-          "id": "ab5a47f4a48dc763c01e50f49045002e406bff5b70f2cf250e17fffd0b2a4cf6",
-          "authorHandle": "scrimmins.bsky.social",
-          "postText": "We desperately need a new approach to the provision of healthcare in this country and the staffing of our healthcare facilities. That’s why I agree with you and will be voting for Troy Jackson. And since I live in CD1, I’ll be voting for Chellie Pingree.",
-          "createdAt": "2026-09-15T13:59:05.901Z",
-          "uri": "at://did:plc:qzz33oljgvgvkw7cgdwmdxd4/app.bsky.feed.post/3mvkru5dejk2e",
           "sentiment": 0.9
         }
       ],
