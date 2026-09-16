@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T02:59:11.108Z",
+  "lastUpdated": "2026-09-16T08:26:10.408Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -41,14 +41,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.065,
+      "overallSentiment": -0.07272727272727272,
       "newsSentiment": -0.3,
-      "socialSentiment": 0.16999999999999998,
+      "socialSentiment": 0.15454545454545454,
       "mentions": {
         "news": 1,
-        "social": 10,
+        "social": 11,
         "youtube": 0,
-        "total": 11
+        "total": 12
       },
       "news": [
         {
@@ -62,6 +62,14 @@
         }
       ],
       "social": [
+        {
+          "id": "fc079dcd1e39c0231eea50b81723b719540e33a71515c9768e9d4046c46d8e4a",
+          "authorHandle": "lonewolf1970.bsky.social",
+          "postText": "open.substack.com/pub/lincolns...",
+          "createdAt": "2026-09-16T04:29:56.145Z",
+          "uri": "at://did:plc:cvqppn7mcyrsw2plghezyjx7/app.bsky.feed.post/3mvmcjct5vc22",
+          "sentiment": 0
+        },
         {
           "id": "9572184d47cad43a18e07e36efdb4451b085cf0da6128d96ebcbf9c4ab98751a",
           "authorHandle": "aleianjack.bsky.social",
@@ -149,14 +157,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.32598115356736046,
+      "overallSentiment": 0.3246562993013297,
       "newsSentiment": -0.11034482758620687,
-      "socialSentiment": 0.4216216216216216,
+      "socialSentiment": 0.41764705882352937,
       "mentions": {
         "news": 87,
-        "social": 37,
+        "social": 34,
         "youtube": 3,
-        "total": 127
+        "total": 124
       },
       "news": [
         {
@@ -945,6 +953,14 @@
       ],
       "social": [
         {
+          "id": "d4d62d976058e19a184dbb393c13fcd5c0362eb32e4cd8864e289b6ef4b009aa",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "Join Us for an Evening Reception with Troy Jackson for Maine\n\nsecure.actblue.com/donate/9.24....",
+          "createdAt": "2026-09-16T04:14:25.148Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mvmbnkxe5s2e",
+          "sentiment": 1
+        },
+        {
           "id": "67baf026747e0b87863bb2a060a2fec1e448a8ee52bd61a58d527684d060037e",
           "authorHandle": "kimaz58.bsky.social",
           "postText": "Help Troy send Susan Collins walking  :\n\nsecure.actblue.com/donate/loc_t...",
@@ -1207,38 +1223,6 @@
           "createdAt": "2026-09-15T12:09:01.447Z",
           "uri": "at://did:plc:hhteydoawq45y4nvmeipl7zy/app.bsky.feed.post/3mvklpdgios2h",
           "sentiment": 0
-        },
-        {
-          "id": "ff20724ebaa949c8de62c719264841fc9707b2e1e2ad231bb9b2b4141b475ba7",
-          "authorHandle": "maitrijen.bsky.social",
-          "postText": "Maine, nothing is perfect, but for the love of god, GO BLUE!\n\n(It was hard to find a list of candidates on your website...so Troy Jackson is the guy for US Senate in Maine!).\n\nmainedems.org/volunteer/",
-          "createdAt": "2026-09-15T05:20:14.642Z",
-          "uri": "at://did:plc:is2euq7l4mxygotqewyrcpyy/app.bsky.feed.post/3mvjuudznts2p",
-          "sentiment": 0.8
-        },
-        {
-          "id": "791bda0c8fcc592fe721c84aab37c6f598cf4e003a794886d5067ac05ca461af",
-          "authorHandle": "lonewolf1970.bsky.social",
-          "postText": "open.substack.com/pub/lincolns...",
-          "createdAt": "2026-09-15T04:43:06.314Z",
-          "uri": "at://did:plc:cvqppn7mcyrsw2plghezyjx7/app.bsky.feed.post/3mvjsrwwgdc2h",
-          "sentiment": 0
-        },
-        {
-          "id": "87eeecd5fb51e100a6fcb8c5a7ce8ec62de7407badcc7be933271d7fb790d080",
-          "authorHandle": "lindy1347.bsky.social",
-          "postText": "Collins to the rescue for trump.  Time to vote Blue.  Vote Troy Jackson.",
-          "createdAt": "2026-09-15T04:13:17.855Z",
-          "uri": "at://did:plc:x6izkuel7a2dpgzqmfdw7yhk/app.bsky.feed.post/3mvjr4nczcs2c",
-          "sentiment": 0.7
-        },
-        {
-          "id": "71005283a619f5749bd12066812c6a30ea0d5fdf290a93c915cd3aa35d361c62",
-          "authorHandle": "sumoh7.bsky.social",
-          "postText": "Troy Jackson knows what hard work looks like: boots on a logging site, bills on a kitchen table, & no extra money when the month runs long. His pledge includes health care, $20/hour, child care, housing, unions, & Social Security. Maine deserves every bit of it. #BlueWaveIn50Days",
-          "createdAt": "2026-09-15T02:59:22.987Z",
-          "uri": "at://did:plc:2nfexzpaqiyscshuda2gyqzf/app.bsky.feed.post/3mvjmyhvmj22r",
-          "sentiment": 0.9
         }
       ],
       "youtube": [
@@ -1283,9 +1267,9 @@
       "socialSentiment": 0,
       "mentions": {
         "news": 1,
-        "social": 2,
+        "social": 4,
         "youtube": 0,
-        "total": 3
+        "total": 5
       },
       "news": [
         {
@@ -1299,6 +1283,22 @@
         }
       ],
       "social": [
+        {
+          "id": "286189c9bb4ed7ad51e37184aa1d70d3a5b5a2178a960e3b124a7b2b9254220b",
+          "authorHandle": "physicsoptics-bot.bsky.social",
+          "postText": "Jordan R. Stone, Saleha Fatema, Christopher V. Poulton, Michael G. Wood, Gordon A. Keeler, Kartik Srinivasan: Bridging high-Q and Kerr-nonlinear photonics using modal phase matching https://arxiv.org/abs/2609.17444 https://arxiv.org/pdf/2609.17444 https://arxiv.org/html/2609.17444",
+          "createdAt": "2026-09-16T06:58:53.439828+00:00",
+          "uri": "at://did:plc:nzlt4cxdaltj3hyviipywiz6/app.bsky.feed.post/3mvmkto4vwf2m",
+          "sentiment": 0
+        },
+        {
+          "id": "1a78919f67a85cac00492dd622ef46e20ecb67844cc68299f31163b8047bdb4a",
+          "authorHandle": "kathycooper49.bsky.social",
+          "postText": "www.threads.com/@jordanwoodm...",
+          "createdAt": "2026-09-16T04:24:32.326Z",
+          "uri": "at://did:plc:6myoknkoibvmn6hyyciq3tez/app.bsky.feed.post/3mvmc7nyyfk2k",
+          "sentiment": 0
+        },
         {
           "id": "34543cc756e5ce45d76ecd1eb5e8e4cdc8f983e5738a1aa4de2f105ed90a3d76",
           "authorHandle": "allchristmas.bsky.social",
