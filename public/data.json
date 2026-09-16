@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T08:26:10.408Z",
+  "lastUpdated": "2026-09-16T13:38:33.414Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -157,14 +157,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3246562993013297,
+      "overallSentiment": 0.3179192455054524,
       "newsSentiment": -0.11034482758620687,
-      "socialSentiment": 0.41764705882352937,
+      "socialSentiment": 0.3974358974358974,
       "mentions": {
         "news": 87,
-        "social": 34,
+        "social": 39,
         "youtube": 3,
-        "total": 124
+        "total": 129
       },
       "news": [
         {
@@ -953,6 +953,62 @@
       ],
       "social": [
         {
+          "id": "ffb422c7337b22d9142620c6f927b1714775878081a7dd9fc07dd8f7cbfaf7fc",
+          "authorHandle": "deanclarkak.bsky.social",
+          "postText": "justthenews.com/politics-pol...",
+          "createdAt": "2026-09-16T13:24:11.276Z",
+          "uri": "at://did:plc:cukrzcofmdbpk7m47betx3fu/app.bsky.feed.post/3mvnaemy4r22d",
+          "sentiment": 0
+        },
+        {
+          "id": "dac06bb500f9d6d596f9ace549376c8407e3ee5e25cbe906e381af88211765ec",
+          "authorHandle": "denagh.bsky.social",
+          "postText": "It seems that the GOP wants me to vote for Susan Collins because Troy Jackson is unelectable for committing the unforgivable sin of (checks notes) possibly misfiling a travel expenses reimbursement.",
+          "createdAt": "2026-09-16T13:16:04.751Z",
+          "uri": "at://did:plc:bs2higaksbvosgkuez5drutq/app.bsky.feed.post/3mvn7w53cwb2b",
+          "sentiment": 1
+        },
+        {
+          "id": "a2bcc3056bb09a4ac955937988b5e2a009c44a31b536379afc55b0f1e61e984e",
+          "authorHandle": "vtboomer.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-09-16T12:19:15.020Z",
+          "uri": "at://did:plc:p6jenpfq2d2cn2kvb4lmpsgk/app.bsky.feed.post/3mvn4qj7sbs2t",
+          "sentiment": 0
+        },
+        {
+          "id": "c02ebaddf2ba3f41c2bc4914897984c813eb5f5af4904c94a8b3914efcf236b7",
+          "authorHandle": "bluevirginia.bsky.social",
+          "postText": "I mean...sure, but why this Senate race specifically, as opposed to Democratic candidates in crucial races like Sherrod Brown in OH, James Talarico in TX, Mary Peltola in AK, Roy Cooper in NC, Troy Jackson in ME, Chris Pappas in NH, etc, etc? bluevirginia.us/2026/09/wedn...",
+          "createdAt": "2026-09-16T12:06:40.740Z",
+          "uri": "at://did:plc:mlan7kocyn37uzb25btjt2cc/app.bsky.feed.post/3mvn3zzuzp22u",
+          "sentiment": 0
+        },
+        {
+          "id": "3111675a0489d5c1c24ecd418790d2033d2ea8c29e19109ee8edf78713dd614a",
+          "authorHandle": "voynichjean.bsky.social",
+          "postText": "Boots on a logging site\nBills on a kitchen table\n\nBots on a Bluesky",
+          "createdAt": "2026-09-16T11:32:06.379Z",
+          "uri": "at://did:plc:tcalxbsvgyzty225yjsnlujh/app.bsky.feed.post/3mvn247ngu22v",
+          "sentiment": 0
+        },
+        {
+          "id": "28cbcf473ef8cf8bc642e4db15f06cbe74d7ed43bbced54ed0fdaafc821d87ce",
+          "authorHandle": "pressherald.com",
+          "postText": "Maine Senate candidates’ views on healthcare are telling | Opinion",
+          "createdAt": "2026-09-16T11:00:53+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mvmyefgemn2u",
+          "sentiment": 0
+        },
+        {
+          "id": "01ee33efbaa940faf3d96d481e2f019e52b286e6390f136f638f208ecd24c8aa",
+          "authorHandle": "trishzenveg.bsky.social",
+          "postText": "Troy Jackson doesn't need fundraising.  Print up all these Susan tidbits.  That's money.",
+          "createdAt": "2026-09-16T10:10:41.594Z",
+          "uri": "at://did:plc:iuusblz7ckz7j6hbvo2hda6r/app.bsky.feed.post/3mvmvkn4qok2e",
+          "sentiment": 1
+        },
+        {
           "id": "d4d62d976058e19a184dbb393c13fcd5c0362eb32e4cd8864e289b6ef4b009aa",
           "authorHandle": "officiallilsilver.bsky.social",
           "postText": "Join Us for an Evening Reception with Troy Jackson for Maine\n\nsecure.actblue.com/donate/9.24....",
@@ -1207,22 +1263,6 @@
           "createdAt": "2026-09-15T13:59:05.901Z",
           "uri": "at://did:plc:qzz33oljgvgvkw7cgdwmdxd4/app.bsky.feed.post/3mvkru5dejk2e",
           "sentiment": 0.9
-        },
-        {
-          "id": "f457b2f182a42a6e5b1a1ea19f484f5c220b14dd0178cfef72fe61037837f170",
-          "authorHandle": "mainenewsroom.com",
-          "postText": "9/15 Maine Senate candidate Troy Jackson explains how he’d protect Mainers' Social Security by making the wealthiest pay their full share, pushing back on pro-Collins Super PAC attack ad the Bangor Daily news called \"misleading\" #maine #MEpolitics",
-          "createdAt": "2026-09-15T13:31:34.862301Z",
-          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mvkqcwralg2u",
-          "sentiment": 0.7
-        },
-        {
-          "id": "318a72b82316b023893e0c8c86e0434f567658c8dd9a0bc2adeefbeec5887f2b",
-          "authorHandle": "politifact.bsky.social",
-          "postText": "An ad from a Democratic super political action committee about Maine’s U.S. Senate race tries to distinguish between Troy Jackson and Sen. Susan Collins on Medicaid cuts, but misleads.\n\nbuff.ly/uiOniV0",
-          "createdAt": "2026-09-15T12:09:01.447Z",
-          "uri": "at://did:plc:hhteydoawq45y4nvmeipl7zy/app.bsky.feed.post/3mvklpdgios2h",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -1267,9 +1307,9 @@
       "socialSentiment": 0,
       "mentions": {
         "news": 1,
-        "social": 4,
+        "social": 3,
         "youtube": 0,
-        "total": 5
+        "total": 4
       },
       "news": [
         {
@@ -1305,14 +1345,6 @@
           "postText": "www.threads.com/share/BAW4AB...\n@mainepublic.org \n@mainemorningstar.com \n@maine",
           "createdAt": "2026-09-15T22:48:03.293Z",
           "uri": "at://did:plc:g4zgxybpo7umblq2fnarywhv/app.bsky.feed.post/3mvlpfyanss2s",
-          "sentiment": 0
-        },
-        {
-          "id": "a2bc2ee597510a0fe706f91554a879f004fc9cac9b60fcbefb655a24063d5760",
-          "authorHandle": "timnathchamber.bsky.social",
-          "postText": "Timnath Chamber Member: Wood & Slate is a Northern Colorado–based, family-run studio founded by Alexa and Jordan. Find them in the Timnath Chamber member directory. #Timnath #NorthernColorado #FamilyBusiness #WoodAndSlate #ChamberOfCommerce",
-          "createdAt": "2026-09-15T12:05:24Z",
-          "uri": "at://did:plc:2cdr2d27apjs52nrknmv4nxg/app.bsky.feed.post/3mvklitops524",
           "sentiment": 0
         }
       ],
