@@ -1,30 +1,20 @@
 {
-  "lastUpdated": "2026-09-16T13:38:33.414Z",
+  "lastUpdated": "2026-09-16T16:03:35.897Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.05,
-      "newsSentiment": -0.1,
+      "overallSentiment": 0,
+      "newsSentiment": null,
       "socialSentiment": 0,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 1,
         "youtube": 0,
-        "total": 2
+        "total": 1
       },
-      "news": [
-        {
-          "id": "896cf1398408951d0d0988cdc9e4ce9a6e3f4fa26b0e1f6827c2173598ed865e",
-          "title": "Ranked choice tabulation in Maine’s primary cost more than $245,000",
-          "description": "The results of three primary elections were decided by Ranked Choice Voting more than a week after Election Day.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/09/14/ranked-choice-tabulation-maines-primary-cost-more-than-245000/",
-          "publishedAt": "2026-09-14T19:39:37.000Z",
-          "sentiment": -0.1
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "6f2ee5aca6d337e4cce9a7bbe6a3c94a27c88002a5803eccecd2be628ab27b0d",
@@ -41,24 +31,33 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.07272727272727272,
-      "newsSentiment": -0.3,
+      "overallSentiment": 0.07727272727272727,
+      "newsSentiment": 0,
       "socialSentiment": 0.15454545454545454,
       "mentions": {
-        "news": 1,
+        "news": 2,
         "social": 11,
         "youtube": 0,
-        "total": 12
+        "total": 13
       },
       "news": [
         {
-          "id": "8f6e16a93238fe9bbc4912470a7abf370f361382c36e0951f231aea47301f90c",
-          "title": "Ranked choice tabulation in Maine’s primary cost more than $245,000",
-          "description": "The results of three primary elections were decided by Ranked Choice Voting more than a week after Election Day.",
+          "id": "0a56e6111131bde9b4e0dd10970175114a0a421e48d759a30dd40dfb6174b41a",
+          "title": "Maine’s voting operations to proceed as planned following Supreme Court ruling",
+          "description": "Proponents of the lawsuit argued that stricter mail-in deadlines and tighter oversight are necessary to protect election integrity and prevent fraud. State election officials, however, welcomed the high court’s decision.",
           "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/09/14/ranked-choice-tabulation-maines-primary-cost-more-than-245000/",
-          "publishedAt": "2026-09-14T19:39:37.000Z",
-          "sentiment": -0.3
+          "url": "https://www.wabi.tv/2026/09/15/maine-voters-face-familiar-rules-this-fall-following-high-stakes-supreme-court-ruling/",
+          "publishedAt": "2026-09-15T22:23:51.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "74145d50e55be1802e78f96dcbc8cf719ba23be14fdad4598737f57b9d0293a7",
+          "title": "Mainers can register to vote through Election Day – Maine Beacon",
+          "description": "Skip to content A Maine voter wears their “I voted” sticker alongside a “No Kings” pin. Photo by Channa Steinmetz. Today, Sept. 15 marks National Voter Registration Day, and Maine election officials are reminding residents that it’s not too late to register ahead of the Nov. 3 general election. Maine allows eligible voters to register and cast a ballot on the same day, including on Election Day. Mainers can also register online through 5 p.m. on Oct. 13 or through the Bureau of Motor Vehicles through Oct. 27. After those deadlines, registration must be completed in person. “Registering to vote is the first step for every citizen to participate in our democracy and have your voice heard,” Secretary of State Shenna Bellows said. “We like to say that every day in Maine is voter registration day because in our state you can even register to vote on Election Day, but this holiday is an important reminder of the fundamental right to vote and have your voice heard.” Mainers can preregister beginning at age 16, though voters must be 18 by Nov. 3 to cast a ballot in the general election. People who are currently or formerly incarcerated are also eligible",
+          "sourceName": "Social Network Release",
+          "url": "https://socialnetworkrelease.com/mainers-can-register-to-vote-through-election-day-maine-beacon/",
+          "publishedAt": "2026-09-15T20:12:00.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
@@ -157,798 +156,51 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3179192455054524,
-      "newsSentiment": -0.11034482758620687,
+      "overallSentiment": 0.313034188034188,
+      "newsSentiment": -0.12500000000000003,
       "socialSentiment": 0.3974358974358974,
       "mentions": {
-        "news": 87,
+        "news": 4,
         "social": 39,
         "youtube": 3,
-        "total": 129
+        "total": 46
       },
       "news": [
         {
-          "id": "8eed7ae8ca3cc97085f5026c0358e73e2706474152eb4890b462951e2b1d5823",
-          "title": "The one thing Trump won’t give GOP midterm hopefuls: Less Trump",
-          "description": "Here’s what Republican candidates need as midterm elections loom:",
-          "sourceName": "Cnn",
-          "url": "https://www.cnn.com/2026/09/15/politics/trump-republican-midterm-chances",
-          "publishedAt": "2026-09-15T04:01:29.000Z",
-          "sentiment": 0
+          "id": "92c7d3de354d7f8c10301a6dde485531052bacc125d4143601ea761ee6a35e8b",
+          "title": "Fmr Democrat Sen. Joe Manchin announces cross-party support in key Senate races",
+          "description": "Former Senator Joe Manchin has crossed party lines to support two Republican Senate candidates in battleground races that could affect control of the Senate.",
+          "sourceName": "One America News Network",
+          "url": "https://www.oann.com/newsroom/fmr-democrat-sen-joe-manchin-announces-cross-party-support-in-key-senate-races/",
+          "publishedAt": "2026-09-16T01:34:07.000Z",
+          "sentiment": -0.5
         },
         {
-          "id": "b6e6138ed568d1d80afc0419ebe2ef5d0a6696dd1605673ad72a035c2b0a78c4",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (I-W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports \"Medicare for All\" and dismantling Immigration and [...]",
-          "sourceName": "Cbs 42",
-          "url": "https://www.alabamas42.com/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-15T02:30:38.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "7d184caf2b3266b45a985b1857a0474bedb51bcb5c81732b44db03fbbbae8bdf",
-          "title": "Former Democrat Joe Manchin endorses Republican — and calls her the 'soul of the Senate'",
-          "description": "Democrats are raging at Joe Manchin, the former Democrat U.S. senator, after he endorsed Susan Collins, the incumbent Republican in the race for one of two Senate seats in Maine. Manchin had represented West Virginia but was heavily criticized by Democrats for his moderate voting patterns. He left the Democratic Party in 2024 and became an independent. 'Susan is always in there, always in the trenches.' Rather than endorse the progressive candidate of his former party, Manchin told voters 73-year-old Collins needed to stay in the Senate. \"You lose the Susan Collinses of the Senate, you’re losing the soul of the Senate — basically, a person you can talk to, who wants to do the right thing all of the time,\" he said on CNBC Monday. \"Now, everybody says, 'Oh, she doesn’t do this, doesn’t speak up.' Susan is always in there, always in the trenches,\" he added. Collins released a statement about his endorsement. \"Joe is a dear friend and trusted colleague with whom I have always worked closely to solve problems and deliver results for the people of Maine and America,\" she said. \"From helping end government shutdowns and negotiating the Electoral Count Act to delivering COVID relief and historic investments in our nation’s infrastructure, we have shown what is possible when Republicans and Democrats work together to find common ground and get things done. I am honored to have his support,\" she added. Keeping Collins in the Senate is pivotal for Republicans' hopes to maintain their control of at least one house of Congress. RELATED: Graham Platner officially WITHDRAWS from pivotal Senate race While Collins' progressive challenger, Troy Jackson, is not a democratic socialist, he has been endorsed by the organization. Manchin has previously said he could not support a socialist for office. \"How could you support some of the crazy stuff they’re for? Have you seen their platform?” Manchin said to CBS’ Margaret Brennan in an interview last month. Like Blaze News? Bypass the censors, sign up for our newsletters, and get stories like this direct to your inbox. Sign up here !",
-          "sourceName": "Blaze Media",
-          "url": "https://www.theblaze.com/news/manchin-endorse-susan-collins-senate",
-          "publishedAt": "2026-09-15T00:18:18.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "9acdc0b82642f7b8efba7afd86a4c9725513dca637f2fd8d9a4737b8c52e2c21",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Clevelandbanner",
-          "url": "https://www.cadillacnews.com/ap/national/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_65ad4eae-45cc-5729-ba1b-3dc1649623c2.html",
-          "publishedAt": "2026-09-15T00:03:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "affce21a61b570a6064117801f2d4ef606c13ea6b612a52a1501c01a10137d74",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Beloit Daily News",
-          "url": "https://www.beloitdailynews.com/news/national-news/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_df8d6ac4-bb77-5158-9483-e9a60b6f1249.html",
-          "publishedAt": "2026-09-15T00:03:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c87bc7cf7180b077c368734dac8c4284971104d9e5d2e3bd1b29b7625e383c77",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Times Argus",
-          "url": "https://www.timesargus.com/news/national/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_677359cd-a00f-5bae-b24a-7d5590eccc67.html",
-          "publishedAt": "2026-09-15T00:03:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "989fd17cf48ec0817039214bc316e54509f7242c08ce17145d1683f22fb27b82",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Rutland Herald",
-          "url": "https://www.rutlandherald.com/ap/national/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_d853c86b-5f07-5ea4-87bf-6436904304ee.html",
-          "publishedAt": "2026-09-15T00:03:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e2ddd625178a7afc45aae21b2972355647bb72e7276d9093c3950589be7f3edb",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Owensboro Messenger And Inquirer",
-          "url": "https://www.messenger-inquirer.com/ap/elections/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_b8d26829-02bc-5676-bcd5-c6add103483d.html",
-          "publishedAt": "2026-09-15T00:03:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "dcb215f8093397bdc28503c97dd6633a467ffb2d6a64b3a05119bdce671a83dd",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Killeen Daily Herald",
-          "url": "https://kdhnews.com/news/nation/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_64037e06-bae7-5d7d-add3-9811bde817d2.html",
-          "publishedAt": "2026-09-15T00:03:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cd1e3a52a8809e1748432ef8cb7a0428373586c544b0b92c41bab15ab06e0d2f",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Mankato Free Press",
-          "url": "https://www.mankatofreepress.com/news/state_national_news/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_837fa448-4bb7-5006-b43b-9f20dcaf6bac.html",
-          "publishedAt": "2026-09-15T00:03:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "33c117e5ceb757ead70ef2ef89a9a9390805192184557fcc0aa4dc7ddb43a8d8",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_61de2584-54a1-5a68-88dc-8766b9c44cf1.html",
-          "publishedAt": "2026-09-15T00:03:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "27b7342fbc406d13fd9ac163d30df94cebfe594033ac6f48e2ee60736e52f6e2",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Yakima Herald-republic",
-          "url": "https://www.yakimaherald.com/news/nation_and_world/nation/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_7df8dd52-7882-5039-906a-afb390679123.html",
-          "publishedAt": "2026-09-15T00:03:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2518fc649e09cc5d715f22babff52825e250468bb731d50e84d8b043cd351946",
-          "title": "Republicans attack Troy Jackson’s vote to cut taxes for 90% of Mainers",
-          "description": "The 2009 proposal proved highly unpopular with voters, but state estimates at the time projected the overwhelming majority of people would have seen their",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4886570412034-republicans-attack-troy-jackson-s-vote-to-cut-taxes-for-90-of-mainers",
-          "publishedAt": "2026-09-15T00:00:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "c6f40539512ab6a78eff1455804260f12b64255ef638f0983110b9d75834f294",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Dailysentinel",
-          "url": "https://www.dailysentinel.com/anpa/us/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_57a1b2fa-6d40-51fe-9200-2965ab5b0035.html",
-          "publishedAt": "2026-09-14T23:54:57.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2d69660eeabcbacd975c66a343dbce056ea94eef083bf8226a75bd67588823e8",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Idahostatejournal",
-          "url": "https://www.idahostatejournal.com/news/national/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_d7e42d6e-8532-5dde-98f2-27e9e3b18ddd.html",
-          "publishedAt": "2026-09-14T23:54:57.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "23c490b9d8391b3b3847e139f7b3e017c4449642a0566235e3ac650535ec1a13",
-          "title": "The Latest: Supreme Court rejects Trump’s mail ballot restrictions for now ahead of midterms",
-          "description": "The Supreme Court has rejected President Donald Trump’s bid to restrict mail ballots ahead of the midterms. The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters. The Trump administration wanted restrictions in...",
-          "sourceName": "Nvdaily",
-          "url": "https://www.nvdaily.com/associated_press_national/the-latest-supreme-court-rejects-trump-s-mail-ballot-restrictions-for-now-ahead-of-midterms/article_07a2f127-730c-5b11-8a25-c85a24f905a8.html",
-          "publishedAt": "2026-09-14T23:46:22.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "37c83e1ee37040c6972c50a2235f21c5521e270cc0739380f56d79899a0aca86",
-          "title": "Elon Musk PAC Steps Up with Big Bucks to Fund Key Swing-State Races",
-          "description": "With the midterm elections less than two months away, Elon Musk’s America PAC is funneling money into Maine congressional races to help maintain GOP control. Musk’s PAC has dedicated $170,000 [...] The post Elon Musk PAC Steps Up with Big Bucks to Fund Key Swing-State Races appeared first on The Western Journal .",
-          "sourceName": "The Western Journal",
-          "url": "https://www.westernjournal.com/elon-musk-pac-steps-big-bucks-fund-key-swing-state-races/",
-          "publishedAt": "2026-09-14T22:35:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "30895f9dfdf8b032401e33a19057d42f09f9dbf094d4b68d33856d5c8d0e1ab0",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency says the action would save industry more than $300 billion in costs and help “unleash” American...",
-          "sourceName": "Dailyadvance",
-          "url": "https://www.dailyadvance.com/news/national/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_30919367-e151-5f35-96df-bffd263922f9.html",
-          "publishedAt": "2026-09-14T22:31:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bcbfe7c260a3213c075822464a1a58d5281d906336a168af1a203ea6221bfd3f",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency says the action would save industry more than $300 billion in costs and help “unleash” American...",
-          "sourceName": "Batesville Daily Guard",
-          "url": "https://www.guardonline.com/news/national/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_59877830-893b-502c-b89a-1e2f07a39c54.html",
-          "publishedAt": "2026-09-14T22:31:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3b6d6269d81ad679fcc5daadd0ef5df1ca171c55ae7a70e8d8b44b46e729f727",
-          "title": "Must-Win GOP Senator’s ‘Presidential Level’ Private Flights Exposed",
-          "description": "Photo Illustration by Thomas Levinson/The Daily Beast/Getty/Reuters Welcome to Midterms Meltdown, a special pop-up newsletter from The Swamp—bringing you up to the minute with the secrets the politicians don’t want you to know about the race to November 3. It is the most consequential election campaign since 2024, and the nooze will be oozing around the nation to shape D.C. for the next two years and beyond. Our David Gardner, Farrah Tomazin , Sarah Ewall-Wice , and Laura Esposito are getting down and dirty with the inside stories from the battlefields every Monday and Friday. Melting down in The Swamp today are : Barack Obama, Machine Gun Kelly, George W. Bush, Bernie Sanders, Susan Collins, Carlos Santana, Adam Hamilton, Anna Kelly, James Talarico, Graham Platner, Scott Jennings, Sherrod Brown, Ted Cruz, Tin Man, Troy Jackson, Scarecrow, and the Cowardly Lion. Read more at The Daily Beast.",
-          "sourceName": "The Daily Beast",
-          "url": "https://www.thedailybeast.com/must-win-gop-senator-susan-collins-presidential-level-private-jet-flights-exposed/",
-          "publishedAt": "2026-09-14T21:41:58.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6ddaf3aef24aabda493ce94004a8e2be6561955cca61daa4476f913648958e35",
-          "title": "Joe Manchin Says He Will Stump for Susan Collins: ‘There’s Not a Better Person’",
-          "description": "Former Sen. Joe Manchin (I-WV) said that he had not officially \"endorsed\" any candidates but would hit the campaign trail for Sen. Susan Collins (R-ME). The post Joe Manchin Says He Will Stump for Susan Collins: ‘There’s Not a Better Person’ first appeared on Mediaite .",
-          "sourceName": "Mediaite",
-          "url": "https://www.mediaite.com/media/tv/joe-manchin-says-he-will-stump-for-susan-collins-theres-not-a-better-person/",
-          "publishedAt": "2026-09-14T21:19:53.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c8bc42a2f49498f69b81253fa3479ecfd9c6365fe8d2cc5c8f5e94efb8cd1a71",
-          "title": "Former Democrat-Turned-Independent Senator Backs Republican Susan Collins in Maine",
-          "description": "Sen. Joe Manchin (D-W. Va.) speaks at the Planet Word Museum in Washington, on March 19, 2024. (Chip Somodevilla/Getty Images)",
-          "sourceName": "The Epoch Times",
-          "url": "https://www.theepochtimes.com/us/former-democrat-turned-independent-senator-backs-republican-susan-collins-in-maine-6087245",
-          "publishedAt": "2026-09-14T20:41:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3f62b7263bd9e2a83aab18c301c7b995ef2b5753098433fb49283b57350e1b55",
-          "title": "PAC ad misleads about Susan Collins and Medicaid cuts",
-          "description": "An ad from a Democratic super political action committee about Maine’s U.S. Senate race tries to distinguish between Troy Jackson and Sen. Susan Collins on Medicaid cuts, but misleads.",
-          "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/pac-ad-misleads-about-susan-collins-and-medicaid-cuts-87732529",
-          "publishedAt": "2026-09-14T20:37:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "70ed6727725738f4e8a390dce37e2cdd8edd0a0a9a5dfb261a7c5a1c29275746",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency says the action would save industry more than $300 billion in costs and help “unleash” American...",
-          "sourceName": "Dailysentinel",
-          "url": "https://www.dailysentinel.com/anpa/us/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_57a1b2fa-6d40-51fe-9200-2965ab5b0035.html",
-          "publishedAt": "2026-09-14T20:13:51.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6d3459f8206e74da1fcc7770124381bcf001b8980c38682e4f8556f0a3916a2f",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas.",
-          "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/the-latest-epa-says-it-s-eliminating-rule-that-limits-87731085",
-          "publishedAt": "2026-09-14T20:07:38.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ed1b3febbbb432018cb301bea4028751e3ea9b50f9ff56ff279efcb73df9b003",
-          "title": "Ranked choice tabulation in Maine’s primary cost more than $245,000",
-          "description": "The results of three primary elections were decided by Ranked Choice Voting more than a week after Election Day.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/09/14/ranked-choice-tabulation-maines-primary-cost-more-than-245000/",
-          "publishedAt": "2026-09-14T19:39:37.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "dd6dd90e55f586311ae8487f1a2c573f6005115f1d33e6b61abb7d321ca8a96c",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency says the action would save industry more than $300 billion in costs and help “unleash” American...",
-          "sourceName": "Cadillacnews",
-          "url": "https://www.cadillacnews.com/ap/national/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_65ad4eae-45cc-5729-ba1b-3dc1649623c2.html",
-          "publishedAt": "2026-09-14T19:27:51.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9eb2a0c2f90ca4f50ff1f8dd9c91f21ecdb927991a12840599fb95da878c401d",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency says the action would save industry more than $300 billion in costs and help “unleash” American...",
-          "sourceName": "Woonsocketcall",
-          "url": "https://www.woonsocketcall.com/news/national_and_world_news/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_70383476-e3b5-5c62-be9e-c946bbca4779.html",
-          "publishedAt": "2026-09-14T19:27:51.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2dca75ec89d1c724ca84a355d3fe70bf6f3ff3a000f87dc8cd99dd1970d5b91a",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency says the action would save industry more than $300 billion in costs and help “unleash” American...",
-          "sourceName": "Beloit Daily News",
-          "url": "https://www.beloitdailynews.com/news/national-news/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_df8d6ac4-bb77-5158-9483-e9a60b6f1249.html",
-          "publishedAt": "2026-09-14T19:27:51.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d41ffb50fd9699b7741432f218a7985bf369537367880722c3397226f86eb157",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas, an action the agency said would remove more than $300 billion in costs for the industry and help “unleash” American energy. The EPA also announced it is taking a separate but related step...",
-          "sourceName": "Wtop News",
-          "url": "https://wtop.com/national/2026/09/the-latest-2nd-judge-freezes-trump-mail-ballot-order-with-supreme-court-poised-to-rule/",
-          "publishedAt": "2026-09-14T19:27:51.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7afe574e949ef33fd05a063e372081265721f07efe68d4d8708a588c2beeb62b",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency says the action would save industry more than $300 billion in costs and help “unleash” American...",
-          "sourceName": "Killeen Daily Herald",
-          "url": "https://kdhnews.com/news/nation/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_64037e06-bae7-5d7d-add3-9811bde817d2.html",
-          "publishedAt": "2026-09-14T19:27:51.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "79c45ba5a47e4426729ea76c5ab00f89d7abf2a03ceb812a2dc354b67f19f9ac",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency said the action would remove more than $300 billion in costs for the industry and help...",
-          "sourceName": "Union-bulletin",
-          "url": "https://www.union-bulletin.com/news/national/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_02e33b97-dcf6-5373-9aec-7f5972c90078.html",
-          "publishedAt": "2026-09-14T19:08:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ae7dcd045cb74771ccfcdce4ffa3f38040c25c395614ceefa49928048dcf768b",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency said the action would remove more than $300 billion in costs for the industry and help...",
-          "sourceName": "Owensboro Messenger And Inquirer",
-          "url": "https://www.messenger-inquirer.com/ap/elections/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_b8d26829-02bc-5676-bcd5-c6add103483d.html",
-          "publishedAt": "2026-09-14T19:08:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "74a644fdee4b73c62acfb64daf43036e5073716739543ba47c26a65ba4c50f1b",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency said the action would remove more than $300 billion in costs for the industry and help...",
-          "sourceName": "Rutland Herald",
-          "url": "https://www.rutlandherald.com/ap/national/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_d853c86b-5f07-5ea4-87bf-6436904304ee.html",
-          "publishedAt": "2026-09-14T19:08:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ab3b9991b487b1441a92b2be1d9aa3394406652a966dc330314a407b399926b1",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency said the action would remove more than $300 billion in costs for the industry and help...",
-          "sourceName": "Nvdaily",
-          "url": "https://www.nvdaily.com/associated_press_national/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_07a2f127-730c-5b11-8a25-c85a24f905a8.html",
-          "publishedAt": "2026-09-14T19:08:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bb9096229f1215b23aa0fd1225d9bbdfd9c77c668c920c1983eed2b51ed37b2b",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas, an action the agency said would remove more than $300 billion in costs for the industry and help “unleash” American energy.",
-          "sourceName": "Local 10 News",
-          "url": "https://www.local10.com/news/2026/09/14/the-latest-epa-says-its-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power-plants/",
-          "publishedAt": "2026-09-14T19:06:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "241526b26f4d739006c37768221f97f1db8fad2ab24ac6c7d2070768df13c411",
-          "title": "Joe Manchin will campaign for Susan Collins in her reelection bid",
-          "description": "Manchin was a longtime Democrat and centrist who became an independent while nearing the end of his time in office in 2024.",
+          "id": "3ebee70111387f709d40713f60a75148510dedc9ef164a6f975d61d8c85ecfa7",
+          "title": "Susan Collins votes with Democrats against Donald Trump-backed crypto overhaul",
+          "description": "The 50-49 tally dealt a defeat to an industry-backed push for a uniform regulatory framework.",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/14/politics/elections/joe-manchin-will-campaign-for-susan-collins/",
-          "publishedAt": "2026-09-14T18:44:11.000Z",
-          "sentiment": 0
+          "url": "https://www.bangordailynews.com/2026/09/15/politics/washington/susan-collins-votes-with-democrats-against-crypto-bill/",
+          "publishedAt": "2026-09-15T22:46:47.000Z",
+          "sentiment": -0.3
         },
         {
-          "id": "d7a298c17c847032b934823d2ba283055386c3ebf370fc54707c27e1ff9aa19a",
-          "title": "Paul LePage agrees to 2 debates after Matt Dunlap pressed for 4",
-          "description": "The announcement came after Dunlap had accused LePage of ducking debates and forums while not holding town halls.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/14/politics/paul-lepage-matt-dunlap-debates/",
-          "publishedAt": "2026-09-14T18:39:05.000Z",
-          "sentiment": 0
+          "id": "8f046005f05953b490d7eb99613a6db9b8973abc0601ead2989a566ebb9fd2ae",
+          "title": "Oh, Those Durn Democrats and Them Pesky Mortgage Things",
+          "description": "It's almost as if this should just be added to the burgeoning checklist of oopsies for Democrat candidates when they...",
+          "sourceName": "Hotair",
+          "url": "https://hotair.com/tree-hugging-sister/2026/09/15/oh-those-durn-democrats-and-them-pesky-mortgage-things-n3819016",
+          "publishedAt": "2026-09-15T21:20:08.000Z",
+          "sentiment": 0.2
         },
         {
-          "id": "824260ea2ddd986ad9d876970f4cd9a498ee0dfc141ff559ea666126dc24cfca",
-          "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
-          "description": "By Patrick Svitek, CNN (CNN) — Former West Virginia Sen. Joe Manchin, a Democrat-turned-independent, said Monday he supports two Republican Senate candidates running in battleground races in November. During an appearance on CNBC, Manchin expressed support for former Rep. Mike Rogers, who is running for an open seat in Michigan, and Sen. Susan Collins of The post Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan appeared first on News Channel 3-12 .",
-          "sourceName": "News Channel 3-12",
-          "url": "https://keyt.com/politics/cnn-us-politics/2026/09/14/joe-manchin-says-he-supports-republican-candidates-in-battleground-senate-races-in-maine-and-michigan/",
-          "publishedAt": "2026-09-14T18:23:16.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "09cae2d490bca1a76f819908fbd404559510c99bad9badba679b9814e23e34b6",
-          "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
-          "description": "Former West Virginia Sen. Joe Manchin, a Democrat-turned-independent, said Monday he supports two Republican Senate candidates running in battleground races...",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/articles/joe-manchin-says-supports-republican-182316577.html",
-          "publishedAt": "2026-09-14T18:23:16.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ab100b12f7538c557fb86baae86114d8e6bc336f0e2c1864bd0c6b62018839ff",
-          "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
-          "description": "By Patrick Svitek, CNN (CNN) — Former West Virginia Sen. Joe Manchin, a Democrat-turned-independent, said Monday he supports two Republican Senate candidates running in battleground races in November. During an appearance on CNBC, Manchin expressed support for former Rep. Mike Rogers, who is running for an open seat in Michigan, and Sen. Susan Collins of The post Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan appeared first on KESQ .",
-          "sourceName": "Kesq",
-          "url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/09/14/joe-manchin-says-he-supports-republican-candidates-in-battleground-senate-races-in-maine-and-michigan/",
-          "publishedAt": "2026-09-14T18:23:16.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d7876310bd2a63d32ae4bd99341aa47e050a1803f249c9a9160fadfea8a482b8",
-          "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
-          "description": "Former West Virginia Sen. Joe Manchin, a Democrat-turned-independent, said Monday he supports two Republican Senate candidates running in battleground races in November.",
-          "sourceName": "Cnn",
-          "url": "https://www.cnn.com/2026/09/14/politics/joe-manchin-mike-rogers-susan-collins-maine-michigan",
-          "publishedAt": "2026-09-14T18:23:16.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d2590f02e20ec6bdbef13de62e0e9c39266e72aae4161f7f3224db12da699c4b",
-          "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
-          "description": "By Patrick Svitek, CNN (CNN) — Former West Virginia Sen. Joe Manchin, a Democrat-turned-independent, said Monday he supports two Republican Senate candidates running in battleground races in November. During an appearance on CNBC, Manchin expressed support for former Rep. Mike Rogers, who is running for an open seat in Michigan, and Sen. Susan Collins of The post Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan appeared first on ABC17NEWS .",
-          "sourceName": "Abc 17 News",
-          "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/09/14/joe-manchin-says-he-supports-republican-candidates-in-battleground-senate-races-in-maine-and-michigan/",
-          "publishedAt": "2026-09-14T18:23:16.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c9f549e07d751db35af4716888dca46afb611cc24fc329a79c135a980e66dfcd",
-          "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
-          "description": "By Patrick Svitek, CNN (CNN) — Former West Virginia Sen. Joe Manchin, a Democrat-turned-independent, said Monday he supports two Republican Senate candidates running in battleground races in November. During an appearance on CNBC, Manchin expressed support for former Rep. Mike Rogers, who is running for an open seat in Michigan, and Sen. Susan Collins of The post Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan appeared first on KRDO .",
-          "sourceName": "Krdo",
-          "url": "https://krdo.com/politics/cnn-us-politics/2026/09/14/joe-manchin-says-he-supports-republican-candidates-in-battleground-senate-races-in-maine-and-michigan/",
-          "publishedAt": "2026-09-14T18:23:16.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0a5f5d5f74162a569a780c84651d57786f5bf3d38ef8786efa76229f60633e5b",
-          "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
-          "description": "By Patrick Svitek, CNN (CNN) — Former West Virginia Sen. Joe Manchin, a Democrat-turned-independent, said Monday he supports two Republican Senate candidates running in battleground races in November.During an appearance on CNBC, Manchin expressed support for former Rep. Mike Rogers, who is running for an open seat in Michigan, and Sen. Susan Collins of Maine, The post Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan appeared first on KVIA .",
-          "sourceName": "Kvia",
-          "url": "https://kvia.com/politics/cnn-us-politics/2026/09/14/joe-manchin-says-he-supports-republican-candidates-in-battleground-senate-races-in-maine-and-michigan/",
-          "publishedAt": "2026-09-14T18:23:16.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2a4e484390e70736f4147fca5a31df36a7fead1341d7797fc236a98ed1c5eacb",
-          "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
-          "description": "By Patrick Svitek, CNN (CNN) — Former West Virginia Sen. Joe Manchin, a Democrat-turned-independent, said Monday he supports two Republican Senate candidates running in battleground races in November. During an appearance on CNBC, Manchin expressed support for former Rep. Mike Rogers, who is running for an open seat in Michigan, and Sen. Susan Collins of The post Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan appeared first on KTVZ .",
-          "sourceName": "Ktvz",
-          "url": "https://ktvz.com/politics/cnn-us-politics/2026/09/14/joe-manchin-says-he-supports-republican-candidates-in-battleground-senate-races-in-maine-and-michigan/",
-          "publishedAt": "2026-09-14T18:23:16.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "32b798d4b2c26c08567eae39d426621a044b5c0c01bcc506aff88f5af28bcaa5",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency said the action would remove more...",
-          "sourceName": "Beaumont Enterprise",
-          "url": "https://www.beaumontenterprise.com/news/politics/article/the-latest-2nd-judge-freezes-trump-mail-ballot-22430677.php",
-          "publishedAt": "2026-09-14T18:04:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8a189cba3b07294fbe183e2dde22003f4cb3a4917d981a9d1d26a0d222e66b61",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency said the action would remove more than $300 billion in costs for the industry and help...",
-          "sourceName": "Mankato Free Press",
-          "url": "https://www.mankatofreepress.com/news/state_national_news/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_837fa448-4bb7-5006-b43b-9f20dcaf6bac.html",
-          "publishedAt": "2026-09-14T17:58:43.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ecd416b8ca27c9827c5666ea87ceb19546eae427836bb4bcc3c1f6b699638b1d",
-          "title": "The Latest: EPA says it’s eliminating rule that limits greenhouse gas emissions from power plants",
-          "description": "The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas. The agency said the action would remove more than $300 billion in costs for the industry and help...",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/the-latest-epa-says-it-s-eliminating-rule-that-limits-greenhouse-gas-emissions-from-power/article_61de2584-54a1-5a68-88dc-8766b9c44cf1.html",
-          "publishedAt": "2026-09-14T17:58:43.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e949e5422e3cfcb4462e97f9aa35e7e6f0331f0811a27637cbcfecc0f6649c81",
-          "title": "The Latest: Trump dismisses need for guardrails as a 'SICK conspiracy' against AI",
-          "description": "President Donald Trump says he is a sufficient guardrail against rogue artificial intelligence. He’s pushing back against calls by tech leaders at Anthropic, OpenAI, Microsoft and others to have greater regulation of AI to ensure it is developed in ways...",
-          "sourceName": "Mankato Free Press",
-          "url": "https://www.mankatofreepress.com/news/state_national_news/the-latest-trump-dismisses-need-for-guardrails-as-a-sick-conspiracy-against-ai/article_837fa448-4bb7-5006-b43b-9f20dcaf6bac.html",
-          "publishedAt": "2026-09-14T17:23:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e28a4270dad9eb013069b6a01167eae2fe1aeb022c2f423df9b51f816f86a4da",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports Medicare for All and dismantling Immigration and [...]",
-          "sourceName": "Kron4",
-          "url": "https://www.kron4.com/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-14T17:19:47.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "439ea513b4864a589af0fd6742c51db6e4a25f5579d7256062b8c4376f27fbd9",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports Medicare for All and dismantling Immigration and [...]",
-          "sourceName": "Salt Lake City",
-          "url": "https://www.abc4.com/news/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-14T17:19:40.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "83bd6376cacd8c8ab3b742e692b89354b1e515f926c9d5294a8a6380a8b85e1d",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports Medicare for All and dismantling Immigration and [...]",
-          "sourceName": "Cbs17",
-          "url": "https://www.cbs17.com/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-14T17:19:28.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "ca66f98d728a5f9203fec3315fea10b4dfd75bc88818633127fd877b3cb25b76",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports Medicare for All and dismantling Immigration and [...]",
-          "sourceName": "Wsav-tv",
-          "url": "https://www.wsav.com/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-14T17:18:53.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "3f97690cada02b992ea67f229f0297cc366db733d2d717bde6e6789d07b7250f",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports Medicare for All and dismantling Immigration and [...]",
-          "sourceName": "Wfla",
-          "url": "https://www.wfla.com/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-14T17:18:49.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "6f59522e1dc7e2cc931d7f1bae0be28b706a0aea4cc6cb2e543aabc56287b70b",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (I-W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports “Medicare for All” and dismantling Immigration and [...]",
-          "sourceName": "News10",
-          "url": "https://www.news10.com/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-14T17:18:43.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "aee51a51b15ceb0c52470016187ac70c798d661756a5feda8f7d6c97dd97379f",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports Medicare for All and dismantling Immigration and [...]",
-          "sourceName": "Wivb",
-          "url": "https://www.wivb.com/news/political-news/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-14T17:18:34.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "aef8f54ff38983d99b0682639ab70a143860d730eda6d1957f0ad8a7f5cc2039",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports Medicare for All and dismantling Immigration and [...]",
-          "sourceName": "Knwa Fox24",
-          "url": "https://www.nwahomepage.com/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-14T17:18:31.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "4e381801eb1069857278a5eb82de8829ae07d92120d381e88bc28abb6817492b",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports Medicare for All and dismantling Immigration and [...]",
-          "sourceName": "Wgn-tv",
-          "url": "https://wgntv.com/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-14T17:18:20.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "b6003f38c30dea1476d429dad47311f5259c910829b721e8c8a6edffa321101a",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports Medicare for All and dismantling Immigration and [...]",
-          "sourceName": "Fox 5 San Diego",
-          "url": "https://fox5sandiego.com/hill-politics/manchin-endorses-collins-in-maine-senate-race/",
-          "publishedAt": "2026-09-14T17:18:04.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "39f2095fc98ef6fa90f7d8fe7649fd33bb64641504d49686b32ed69095222500",
-          "title": "Manchin endorses Collins in Maine Senate race",
-          "description": "Former Sen. Joe Manchin (W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senate.” Manchin gave his nod to Collins over Troy Jackson, her progressive challenger who supports Medicare for All and dismantling Immigration and...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/senate/6088483-manchin-susan-collins-senate/",
-          "publishedAt": "2026-09-14T17:17:46.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "ae0900781c8f506ac98a5d0f22dd47e0d3dca27f742d170c43b48102c37769cc",
-          "title": "The Latest: Trump dismisses need for guardrails as a 'SICK conspiracy' against AI",
-          "description": "President Donald Trump says he is a sufficient guardrail against rogue artificial intelligence. He’s pushing back against calls by tech leaders at Anthropic, OpenAI, Microsoft and others to have...",
-          "sourceName": "The Courier Of Montgomery County",
-          "url": "https://www.yourconroenews.com/news/politics/article/the-latest-2nd-judge-freezes-trump-mail-ballot-22430677.php",
-          "publishedAt": "2026-09-14T17:14:50.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5bbd907803ca417e98f07a62f16d6014a9d073a6eb5ca86a8a9d5d17101b472b",
-          "title": "Susan Collins endorsed by Democrat Joe Manchin",
-          "description": "The former centrist Democratic senator for West Virginia called Collins 'the soul of the Senate' in a CNBC interview on Monday.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/09/14/susan-collins-endorsed-by-democrat-joe-manchin/",
-          "publishedAt": "2026-09-14T16:44:25.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ee694d8289b6ceabea727d0a489971214f768060d265e85453ebf0b0f4ddac04",
-          "title": "Susan Collins endorsed by Democrat Joe Manchin",
-          "description": "The former centrist Democratic senator for West Virginia called Collins 'the soul of the Senate' in a CNBC interview on Monday.",
+          "id": "557aaff96c402432aa8986e0ac7aae06de160071dfe4b3b946045cbe9b4a7609",
+          "title": "Mainers organize to push ICE out of Scarborough, file petition to congressional delegation",
+          "description": "The Scarborough Democratic Town Committee leadership submitted a petition requesting a meeting to review and remove the ICE facility.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/09/14/susan-collins-endorsed-by-democrat-joe-manchin/",
-          "publishedAt": "2026-09-14T16:44:25.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0916ae8c33431319d6e8d84593b513d0a5b87594fd89f71c72c5ab5c6b6b43c9",
-          "title": "Susan Collins endorsed by Democrat Joe Manchin",
-          "description": "The former centrist Democratic senator for West Virginia called Collins 'the soul of the Senate' in a CNBC interview on Monday.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/09/14/susan-collins-endorsed-by-democrat-joe-manchin/",
-          "publishedAt": "2026-09-14T16:44:25.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c3fb5a71376be0b8a303d351a1f46bbff937220ecb9d5d53430907d97718a82a",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Goldsboro News Argus",
-          "url": "https://www.newsargus.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_6b95ddc5-5c12-5edb-9395-aa03da8be878.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "08d09ddd598386725baee4a5f88514ea9b59c2b0cabcf78b7f24af19576ade20",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Caledonianrecord",
-          "url": "https://www.caledonianrecord.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_a7842c2e-54dc-5d76-835c-8e1a99cd2e1e.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "366a3bdd6e49638d494a8d42a680d5a1caa700f08a3dc80c4750b5f9188aa7d6",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Dailygazette.com",
-          "url": "https://www.dailygazette.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_d3865a22-1d56-5306-8556-6358fe3ec736.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0096200b3cce37c8525583b76035c5787c06811ea1204688bd24bf35e77aaa3b",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "The Mountain Press",
-          "url": "https://www.themountainpress.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_148a7528-a769-5a66-88e8-5d0e70e001d7.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7fa272b66c777671340723207bd0c168c7ac0d7e14ab1e27dabd0dec2e0313d8",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Bhpioneer",
-          "url": "https://www.bhpioneer.com/news/national_world_news/musk-pac-takes-aim-at-maine-congressional-races/article_33970675-e2ea-562d-95db-ffb834745296.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e3d38b1f7ce5026d5dd3f3ce3bc240058c3d1a5b1e8c1ecd5d71c6e9cdbfea78",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Hendersondispatch",
-          "url": "https://www.hendersondispatch.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_d39c3477-ec73-5111-a541-7cbfbb7d2b99.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c4b465721c41bd67329ef918dfde4ef4a252bbaa6bb24737964a33d28eb0e99a",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Communitynewspapergroup",
-          "url": "https://www.communitynewspapergroup.com/news/nation/musk-pac-takes-aim-at-maine-congressional-races/article_15fa3196-0b21-5179-9aa5-6f08db06519a.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3027657c34fc24a52c33e6193b3f8dda56fab598ad24da412b5b03d44f7c53f4",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Wyoming Tribune Eagle",
-          "url": "https://www.wyomingnews.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_b506672d-b052-5270-b660-c998f1b1e659.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c2bfc1d089859c261a83a5ef6a53283bb15d209eb6368385f929aad44d403d16",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "The Sanford Herald",
-          "url": "https://www.sanfordherald.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_ec7addd9-1778-5ee9-adb7-71befe11028b.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f2e147680ecad58b5bbbe179c451e188fca32297afd18f35214a6bd91a7b0ad9",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Elkharttruth.com",
-          "url": "https://www.elkharttruth.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_c2828926-58fa-5d94-85fe-f37111996575.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ce4d8bcc7dc0e183705686fd0ffd1359def0ef56b2f0290419f1767b2f6aae2a",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Chronicle-tribune",
-          "url": "https://www.chronicle-tribune.com/news/wire/musk-pac-takes-aim-at-maine-congressional-races/article_f1b534bb-b4c8-505f-b355-63347e7cbd31.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ec1ed9d9a30347715a8b34a24e47f3fb13c532957e34947de8b17ac437de3b92",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Bryan Times",
-          "url": "https://www.bryantimes.com/news/musk-pac-takes-aim-at-maine-congressional-races/article_f8ed2929-0bd1-5511-9a03-f185f6343417.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "69101919d3c6a72e2ee5233100274d25a2139af8c5b24dd4e55ff1f209ecdb1d",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Owensboro Messenger And Inquirer",
-          "url": "https://www.messenger-inquirer.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_9324637c-a2cd-50a4-ad0d-24fa970e1e3f.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3cd45d3bb00f974f848acbe66b998592381c19fb5b32a2086513481dceec9ee7",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Themercury",
-          "url": "https://themercury.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_995e150a-5fa0-5fb6-92fe-b9a6e8e79c42.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2f8fc7d3d30323babc897ca01d5ef8a53d651eff2662759bc6b8bd911d7510f4",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Griffindailynews",
-          "url": "https://www.griffindailynews.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_dce6c322-c2dc-5540-940b-494885f372dc.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bf217325ea5944c93f5a9fcfa0aae7395ef87684a96e990fe4945e3e73c24a7a",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Kpcnews",
-          "url": "https://www.kpcnews.com/news/national/article_8ee55e2c-8a17-5922-95ac-a6dc9eb77aec.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5c3dcba27c276d4c88f059988b8ea1efc26224d13fd7044f599b05723f137fe9",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Yoursun.com",
-          "url": "https://www.yoursun.com/news/musk-pac-takes-aim-at-maine-congressional-races/article_1c891b0b-43a9-582f-a6fe-87a07e3b09db.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9fc288852c8d70cdbe1db979070d57436cf5f3a9fd4c46ed190d47825e6a1757",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Romesentinel",
-          "url": "https://www.romesentinel.com/ce/news/musk-pac-takes-aim-at-maine-congressional-races/article_ea4f731a-1e20-51cf-9c8b-72e29cd48865.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "38aac0b47e92aff5560853f0ebd64bdc1d89c8c92039fc86f1ed65941c0e133c",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Columbia Gorge News",
-          "url": "https://www.columbiagorgenews.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_e1b2fec3-818c-5db3-b716-420d21c5c641.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "672436a4f5ec50ba1720d5d159ef0ce6743447af9a0cae771d84ec6214d9ad69",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Herald Palladium",
-          "url": "https://www.heraldpalladium.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_c94d1d67-40b8-50f6-948a-a1df7a0fc567.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6ae7998d579f167e8b1b26f0443d471b519da86fd4e1aaec906fff62cff0313b",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Ttownmedia",
-          "url": "https://www.ttownmedia.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_e578cffc-91d5-50a4-8e80-169a6de0700d.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b56a8eb035bc079d56190dff70f5fe113c41e1989541d24c6b949ea2c42a8d06",
-          "title": "Musk PAC takes aim at Maine congressional races",
-          "description": "(The Center Square) — The world's “richest man” is pumping money into Maine's congressional races as part of broader efforts to keep control of Congress in Republican hands.",
-          "sourceName": "Daily Journal",
-          "url": "https://www.djournal.com/news/national/musk-pac-takes-aim-at-maine-congressional-races/article_f8a5090c-e9f4-5d12-a277-4ea6b21d481a.html",
-          "publishedAt": "2026-09-14T16:13:00.000Z",
-          "sentiment": 0
+          "url": "https://www.pressherald.com/2026/09/15/mainers-organize-to-push-ice-out-of-scarborough-file-petition-to-congressional-delegation/",
+          "publishedAt": "2026-09-15T20:33:50.000Z",
+          "sentiment": 0.1
         }
       ],
       "social": [
@@ -1302,26 +554,16 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.1,
-      "newsSentiment": -0.2,
+      "overallSentiment": 0,
+      "newsSentiment": null,
       "socialSentiment": 0,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 3,
         "youtube": 0,
-        "total": 4
+        "total": 3
       },
-      "news": [
-        {
-          "id": "9093bf26979f6402b4b4878a65cbb76c26f07984b86caa71950e1087efe1417a",
-          "title": "Ranked choice tabulation in Maine’s primary cost more than $245,000",
-          "description": "The results of three primary elections were decided by Ranked Choice Voting more than a week after Election Day.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/09/14/ranked-choice-tabulation-maines-primary-cost-more-than-245000/",
-          "publishedAt": "2026-09-14T19:39:37.000Z",
-          "sentiment": -0.2
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "286189c9bb4ed7ad51e37184aa1d70d3a5b5a2178a960e3b124a7b2b9254220b",
