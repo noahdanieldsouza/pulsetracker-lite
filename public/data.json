@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T01:22:54.658Z",
+  "lastUpdated": "2026-09-17T06:22:41.850Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,14 +22,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.2,
+      "overallSentiment": 0,
       "newsSentiment": 0,
-      "socialSentiment": -0.4,
+      "socialSentiment": null,
       "mentions": {
         "news": 2,
-        "social": 2,
+        "social": 0,
         "youtube": 0,
-        "total": 4
+        "total": 2
       },
       "news": [
         {
@@ -51,38 +51,21 @@
           "sentiment": 0
         }
       ],
-      "social": [
-        {
-          "id": "fc079dcd1e39c0231eea50b81723b719540e33a71515c9768e9d4046c46d8e4a",
-          "authorHandle": "lonewolf1970.bsky.social",
-          "postText": "open.substack.com/pub/lincolns...",
-          "createdAt": "2026-09-16T04:29:56.145Z",
-          "uri": "at://did:plc:cvqppn7mcyrsw2plghezyjx7/app.bsky.feed.post/3mvmcjct5vc22",
-          "sentiment": 0
-        },
-        {
-          "id": "9572184d47cad43a18e07e36efdb4451b085cf0da6128d96ebcbf9c4ab98751a",
-          "authorHandle": "aleianjack.bsky.social",
-          "postText": "Doxxed & Swatted by MAGA | Maine Secretary of State Shenna Bellows Joins the Frank Figliuzzi Show\nwww.lincolnsquare.media/p/trumps-war...",
-          "createdAt": "2026-09-16T02:02:42.321Z",
-          "uri": "at://did:plc:fum3w4xzx34oraieuoexypw5/app.bsky.feed.post/3mvm2c2aanc2u",
-          "sentiment": -0.8
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.34060853658536594,
+      "overallSentiment": 0.3334363636363637,
       "newsSentiment": -0.12500000000000003,
-      "socialSentiment": 0.41557560975609753,
+      "socialSentiment": 0.3940590909090909,
       "mentions": {
         "news": 4,
-        "social": 41,
+        "social": 44,
         "youtube": 16,
-        "total": 61
+        "total": 64
       },
       "news": [
         {
@@ -123,6 +106,46 @@
         }
       ],
       "social": [
+        {
+          "id": "41bcf0375dc02fd9aa59609d6108f9f27fe3a26fd80039500b75d6fe8a8d22a0",
+          "authorHandle": "foodandpolitics.bsky.social",
+          "postText": "🔵Troy Jackson leads in a key group of voters that historically swung towards Collins\n\n⚪️Dan Osborn shines in Nebraska’s first nonpartisan poll\n\n🔵El-Sayed consolidates Democratic support\n\n🔴Sununu builds a strong case to flip NH\n\nCheck out all the latest insights in my new article!",
+          "createdAt": "2026-09-17T04:35:06.413Z",
+          "uri": "at://did:plc:u5rqt6cxnmsvjr52bl4ikkqp/app.bsky.feed.post/3mvotbi6lws2g",
+          "sentiment": -0.2
+        },
+        {
+          "id": "f54760f4193d37c6b58be227f665eb2c90fc5922914e00a1ebab0e5743d5a752",
+          "authorHandle": "follow-the-money.us",
+          "postText": "New ME Senate H2H Hypothetical Poll (Quantus Insights, Sep 15)\n\nSusan Collins (R) 47.6%\nTroy Jackson (D) 47.4%\n\nSample: 644 LV\nhttps://integrityindex.us/race/maine-senate-class2-2026",
+          "createdAt": "2026-09-17T04:01:35.110Z",
+          "uri": "at://did:plc:xds4luusktvkqqzea6iwd6bc/app.bsky.feed.post/3mvorfk2yzm2w",
+          "sentiment": 0
+        },
+        {
+          "id": "e3c8bcc7266ed07e5cdcc158e5eeb09e0d82464f85efb0fcb921619fd6e0e262",
+          "authorHandle": "norsemn.bsky.social",
+          "postText": "Poll: Susan Collins Holds Narrow Lead over Democrat Troy Jackson in Maine\nCome on folks, get behind Jackson.",
+          "createdAt": "2026-09-17T03:27:45.979Z",
+          "uri": "at://did:plc:sblvomc66s2v7cpa2ca75ira/app.bsky.feed.post/3mvopj2waok2o",
+          "sentiment": 0.3
+        },
+        {
+          "id": "020ea9a6bb81758ed601abde83fc9b7df4ad949575df44237fce03c03efdd3a2",
+          "authorHandle": "runningred.bsky.social",
+          "postText": "P.S. Unlike Troy Jackson, Susan Collins is such a Washington insider she officially has a Mid-Atlantic accent.",
+          "createdAt": "2026-09-17T01:53:45.330Z",
+          "uri": "at://did:plc:fv2okeisptyaej3dw7e33xxt/app.bsky.feed.post/3mvokaxlcff27",
+          "sentiment": -0.4
+        },
+        {
+          "id": "22fc519f72aee96342f5f2f573dbfd78632e99db84cc12207123f05718e92641",
+          "authorHandle": "runningred.bsky.social",
+          "postText": "If you're a Mainer like me, your mailbox has probably filled up with this shit from the Collins Campaign to Keep Fucking over America.\n\nI don't believe any of the smear campaign against Troy Jackson. It just tells me that Collins is terrified of him. \nAnd the pro-Susan fliers are juts...100% lies.",
+          "createdAt": "2026-09-17T01:51:01.907Z",
+          "uri": "at://did:plc:fv2okeisptyaej3dw7e33xxt/app.bsky.feed.post/3mvok43rz3s27",
+          "sentiment": 0.6
+        },
         {
           "id": "ebe3c8c0fabac001de9d112a0514918b24d096805500289070a13b6e8acfd30e",
           "authorHandle": "democracymatters.bsky.social",
@@ -434,22 +457,6 @@
           "createdAt": "2026-09-16T10:10:41.594Z",
           "uri": "at://did:plc:iuusblz7ckz7j6hbvo2hda6r/app.bsky.feed.post/3mvmvkn4qok2e",
           "sentiment": 1
-        },
-        {
-          "id": "d4d62d976058e19a184dbb393c13fcd5c0362eb32e4cd8864e289b6ef4b009aa",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "Join Us for an Evening Reception with Troy Jackson for Maine\n\nsecure.actblue.com/donate/9.24....",
-          "createdAt": "2026-09-16T04:14:25.148Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mvmbnkxe5s2e",
-          "sentiment": 1
-        },
-        {
-          "id": "67baf026747e0b87863bb2a060a2fec1e448a8ee52bd61a58d527684d060037e",
-          "authorHandle": "kimaz58.bsky.social",
-          "postText": "Help Troy send Susan Collins walking  :\n\nsecure.actblue.com/donate/loc_t...",
-          "createdAt": "2026-09-16T01:35:56.579Z",
-          "uri": "at://did:plc:xnvhdk4xzvkbgonihpekv5n5/app.bsky.feed.post/3mvlys6uy5k27",
-          "sentiment": -1
         }
       ],
       "youtube": [
@@ -619,9 +626,9 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.13333333333333333,
+      "overallSentiment": -0.033333333333333326,
       "newsSentiment": null,
-      "socialSentiment": -0.3333333333333333,
+      "socialSentiment": -0.6666666666666666,
       "mentions": {
         "news": 0,
         "social": 3,
@@ -630,6 +637,14 @@
       },
       "news": [],
       "social": [
+        {
+          "id": "3e7638560b880949880d522f7d6c80fa96a56850befa2bfaa1917cafdf261753",
+          "authorHandle": "dogsaresocool.bsky.social",
+          "postText": "Jordan Wood:\n\nLast night, Susan Collins cast the tie-breaking vote to advance Trump’s radical anti-abortion judicial nominee. Last week, she said she’s “always been pro-choice.” \n\nSenator Collins, you are a liar. A snake. Maine is done with you.",
+          "createdAt": "2026-09-17T01:25:25.427Z",
+          "uri": "at://did:plc:ownlajqkljojjzjvkzoswkpt/app.bsky.feed.post/3mvoiocggt22i",
+          "sentiment": -1
+        },
         {
           "id": "6ac6af70877df2cd0abf61609a571c3532a92ca724ff711e2d27b7807653911e",
           "authorHandle": "loblolly298.bsky.social",
@@ -644,14 +659,6 @@
           "postText": "Jordan R. Stone, Saleha Fatema, Christopher V. Poulton, Michael G. Wood, Gordon A. Keeler, Kartik Srinivasan: Bridging high-Q and Kerr-nonlinear photonics using modal phase matching https://arxiv.org/abs/2609.17444 https://arxiv.org/pdf/2609.17444 https://arxiv.org/html/2609.17444",
           "createdAt": "2026-09-16T06:58:53.439828+00:00",
           "uri": "at://did:plc:nzlt4cxdaltj3hyviipywiz6/app.bsky.feed.post/3mvmkto4vwf2m",
-          "sentiment": 0
-        },
-        {
-          "id": "1a78919f67a85cac00492dd622ef46e20ecb67844cc68299f31163b8047bdb4a",
-          "authorHandle": "kathycooper49.bsky.social",
-          "postText": "www.threads.com/@jordanwoodm...",
-          "createdAt": "2026-09-16T04:24:32.326Z",
-          "uri": "at://did:plc:6myoknkoibvmn6hyyciq3tez/app.bsky.feed.post/3mvmc7nyyfk2k",
           "sentiment": 0
         }
       ],
