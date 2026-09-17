@@ -1,27 +1,10 @@
 {
-  "lastUpdated": "2026-09-17T11:56:41.753Z",
+  "lastUpdated": "2026-09-17T16:10:06.014Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
-      "newsSentiment": null,
-      "socialSentiment": null,
-      "mentions": {
-        "news": 0,
-        "social": 0,
-        "youtube": 0,
-        "total": 0
-      },
-      "news": [],
-      "social": [],
-      "youtube": [],
-      "youtubeSentiment": null
-    },
-    {
-      "id": "shenna-bellows",
-      "name": "Shenna Bellows",
       "overallSentiment": 0,
       "newsSentiment": 0,
       "socialSentiment": null,
@@ -33,21 +16,75 @@
       },
       "news": [
         {
-          "id": "0a56e6111131bde9b4e0dd10970175114a0a421e48d759a30dd40dfb6174b41a",
-          "title": "Maine’s voting operations to proceed as planned following Supreme Court ruling",
-          "description": "Proponents of the lawsuit argued that stricter mail-in deadlines and tighter oversight are necessary to protect election integrity and prevent fraud. State election officials, however, welcomed the high court’s decision.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/09/15/maine-voters-face-familiar-rules-this-fall-following-high-stakes-supreme-court-ruling/",
-          "publishedAt": "2026-09-15T22:23:51.000Z",
+          "id": "9287272e089ddaa002f7cb2870f70ea8bb51aa027d3ea359dcce898310b17fb6",
+          "title": "4 measles-associated deaths in Pennsylvania; zero in the federal count",
+          "description": "Pennsylvania has confirmed four measles-associated deaths in four weeks. The CDC lists zero for 2026, after changing the rule by which deaths are counted.",
+          "sourceName": "World Socialist Web Site",
+          "url": "https://www.wsws.org/en/articles/2026/09/17/brhl-s17.html",
+          "publishedAt": "2026-09-17T00:26:32.000Z",
           "sentiment": 0
         },
         {
-          "id": "74145d50e55be1802e78f96dcbc8cf719ba23be14fdad4598737f57b9d0293a7",
-          "title": "Mainers can register to vote through Election Day – Maine Beacon",
-          "description": "Skip to content A Maine voter wears their “I voted” sticker alongside a “No Kings” pin. Photo by Channa Steinmetz. Today, Sept. 15 marks National Voter Registration Day, and Maine election officials are reminding residents that it’s not too late to register ahead of the Nov. 3 general election. Maine allows eligible voters to register and cast a ballot on the same day, including on Election Day. Mainers can also register online through 5 p.m. on Oct. 13 or through the Bureau of Motor Vehicles through Oct. 27. After those deadlines, registration must be completed in person. “Registering to vote is the first step for every citizen to participate in our democracy and have your voice heard,” Secretary of State Shenna Bellows said. “We like to say that every day in Maine is voter registration day because in our state you can even register to vote on Election Day, but this holiday is an important reminder of the fundamental right to vote and have your voice heard.” Mainers can preregister beginning at age 16, though voters must be 18 by Nov. 3 to cast a ballot in the general election. People who are currently or formerly incarcerated are also eligible",
-          "sourceName": "Social Network Release",
-          "url": "https://socialnetworkrelease.com/mainers-can-register-to-vote-through-election-day-maine-beacon/",
-          "publishedAt": "2026-09-15T20:12:00.000Z",
+          "id": "6bdfd02d71a42e82b7461f2bda8101177c6b0b0ec0d6bad0c345d54e69064b9e",
+          "title": "Brokers feel the pinch of MDR calls for rethink",
+          "description": "The development has had most listed broking firms falling on Wednesday; led by Groww (Billionbrains Garage Ventures) plunging close to 5% primarily because there was a block deals `2,000 crore at a discount on Wednesday",
+          "sourceName": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Sep/16/brokers-feel-the-pinch-of-mdr-calls-for-rethink",
+          "publishedAt": "2026-09-16T18:38:04.000Z",
+          "sentiment": 0
+        }
+      ],
+      "social": [],
+      "youtube": [],
+      "youtubeSentiment": null
+    },
+    {
+      "id": "shenna-bellows",
+      "name": "Shenna Bellows",
+      "overallSentiment": 0,
+      "newsSentiment": 0,
+      "socialSentiment": null,
+      "mentions": {
+        "news": 4,
+        "social": 0,
+        "youtube": 0,
+        "total": 4
+      },
+      "news": [
+        {
+          "id": "31c4eae8516484d1039a56f85557bc870eeef86aee0b0336cdc302ff0a02809b",
+          "title": "Hannah Pingree is already bracing for a constitutional amendment on property taxes",
+          "description": "The Democratic gubernatorial nominee acknowledged this week that her plan to let towns tax out-of-state homeowners at higher rates will likely require amen",
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4890985312847-hannah-pingree-is-already-bracing-for-a-constitutional-amendment-on-property-taxes",
+          "publishedAt": "2026-09-17T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "366a2a8f667c61041283f2563fca542fa69682f5f665f7be259f0ea919d6e662",
+          "title": "Matt Dunlap applauds SCOTUS decision on Trump mail-in ballot changes. Paul LePage has no comment.",
+          "description": "President Donald Trump sought to change mail-in ballot rules ahead of the Nov. 3 election that will determine whether Republicans keep control of Congress.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/09/16/matt-dunlap-applauds-scotus-decision-on-trump-mail-in-ballot-changes-paul-lepage-has-no-comment/",
+          "publishedAt": "2026-09-16T20:01:11.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7b8e8c230f03bdc973a2b2ef4659d2dfc453e50a15110b891e43b96001bf26a7",
+          "title": "Matt Dunlap applauds SCOTUS decision on Trump mail-in ballot changes. Paul LePage has no comment.",
+          "description": "President Donald Trump sought to change mail-in ballot rules ahead of the Nov. 3 election that will determine whether Republicans keep control of Congress.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/09/16/matt-dunlap-applauds-scotus-decision-on-trump-mail-in-ballot-changes-paul-lepage-has-no-comment/",
+          "publishedAt": "2026-09-16T20:01:11.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d77e2c30bd43cec4a248d03cb8f9ad55285a7096ad94504130525f42df09a85b",
+          "title": "Matt Dunlap applauds SCOTUS decision on Trump mail-in ballot changes. Paul LePage has no comment.",
+          "description": "President Donald Trump sought to change mail-in ballot rules ahead of the Nov. 3 election that will determine whether Republicans keep control of Congress.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/09/16/matt-dunlap-applauds-scotus-decision-on-trump-mail-in-ballot-changes-paul-lepage-has-no-comment/",
+          "publishedAt": "2026-09-16T20:01:11.000Z",
           "sentiment": 0
         }
       ],
@@ -58,51 +95,69 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.33915694444444444,
-      "newsSentiment": -0.12500000000000003,
+      "overallSentiment": 0.3752680555555556,
+      "newsSentiment": -0.016666666666666666,
       "socialSentiment": 0.4112208333333333,
       "mentions": {
-        "news": 4,
+        "news": 6,
         "social": 48,
         "youtube": 16,
-        "total": 68
+        "total": 70
       },
       "news": [
         {
-          "id": "92c7d3de354d7f8c10301a6dde485531052bacc125d4143601ea761ee6a35e8b",
-          "title": "Fmr Democrat Sen. Joe Manchin announces cross-party support in key Senate races",
-          "description": "Former Senator Joe Manchin has crossed party lines to support two Republican Senate candidates in battleground races that could affect control of the Senate.",
-          "sourceName": "One America News Network",
-          "url": "https://www.oann.com/newsroom/fmr-democrat-sen-joe-manchin-announces-cross-party-support-in-key-senate-races/",
-          "publishedAt": "2026-09-16T01:34:07.000Z",
-          "sentiment": -0.5
+          "id": "148dd00bbf1a68a607cc5f870663714b82d2e955771c0b01744504a2e2da198f",
+          "title": "Poll: Susan Collins Holds Narrow Lead over Democrat Troy Jackson in Maine",
+          "description": "In a poll published Wednesday, Sen. Susan Collins (R-ME) held a narrow lead over Democrat Troy Jackson in Maine’s U.S. Senate race. The post Poll: Susan Collins Holds Narrow Lead over Democrat Troy Jackson in Maine appeared first on Breitbart .",
+          "sourceName": "Brietbart",
+          "url": "https://www.breitbart.com/politics/2026/09/16/poll-susan-collins-holds-narrow-lead-democrat-troy-jackson-maine/",
+          "publishedAt": "2026-09-17T02:31:58.000Z",
+          "sentiment": -0.1
         },
         {
-          "id": "3ebee70111387f709d40713f60a75148510dedc9ef164a6f975d61d8c85ecfa7",
-          "title": "Susan Collins votes with Democrats against Donald Trump-backed crypto overhaul",
-          "description": "The 50-49 tally dealt a defeat to an industry-backed push for a uniform regulatory framework.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/15/politics/washington/susan-collins-votes-with-democrats-against-crypto-bill/",
-          "publishedAt": "2026-09-15T22:46:47.000Z",
-          "sentiment": -0.3
+          "id": "8934010937f496c69d05b34991c52c6d41bfdfa20892d7342639e54f2ff93b7e",
+          "title": "Poll: Susan Collins Holds Narrow Lead over Democrat Troy Jackson in Maine",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4890816115780-poll-susan-collins-holds-narrow-lead-over-democrat-troy-jackson-in-maine",
+          "publishedAt": "2026-09-17T00:00:00.000Z",
+          "sentiment": -0.1
         },
         {
-          "id": "8f046005f05953b490d7eb99613a6db9b8973abc0601ead2989a566ebb9fd2ae",
-          "title": "Oh, Those Durn Democrats and Them Pesky Mortgage Things",
-          "description": "It's almost as if this should just be added to the burgeoning checklist of oopsies for Democrat candidates when they...",
-          "sourceName": "Hotair",
-          "url": "https://hotair.com/tree-hugging-sister/2026/09/15/oh-those-durn-democrats-and-them-pesky-mortgage-things-n3819016",
-          "publishedAt": "2026-09-15T21:20:08.000Z",
-          "sentiment": 0.2
+          "id": "657496eefabec94c6068036cd8ea18ec806ec7b1830adca6ea6abe25ab57c437",
+          "title": "Replacing a respected, effective senator like Susan Collins will hurt Maine",
+          "description": "“I believe reelecting Susan Collins is both important and urgent for Maine.”",
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4890979646382-replacing-a-respected-effective-senator-like-susan-collins-will-hurt-maine",
+          "publishedAt": "2026-09-17T00:00:00.000Z",
+          "sentiment": 0
         },
         {
-          "id": "557aaff96c402432aa8986e0ac7aae06de160071dfe4b3b946045cbe9b4a7609",
-          "title": "Mainers organize to push ICE out of Scarborough, file petition to congressional delegation",
-          "description": "The Scarborough Democratic Town Committee leadership submitted a petition requesting a meeting to review and remove the ICE facility.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/09/15/mainers-organize-to-push-ice-out-of-scarborough-file-petition-to-congressional-delegation/",
-          "publishedAt": "2026-09-15T20:33:50.000Z",
+          "id": "aaac1b78a0f6220569881d2d959cd1702fb01626ed69c875c1184ebf15f8d014",
+          "title": "These vulnerable House Republicans suddenly oppose Trump’s Iran war",
+          "description": "Two farm-state House Republicans in battleground Iowa districts now on record opposing the Iran war. The post These vulnerable House Republicans suddenly oppose Trump’s Iran war appeared first on MS NOW .",
+          "sourceName": "Ms Now",
+          "url": "https://www.ms.now/news/house-republicans-iran-war-powers-election",
+          "publishedAt": "2026-09-16T22:14:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "bcd16a03b5c0dcabedcaab1cec747b20104062052f3aed932296f52bb6f5434b",
+          "title": "RealClear: Democrats Lead in 6 of 7 Senate Toss-Ups",
+          "description": "*** RealClearPolitics polling averages on Wednesday show Democrats ahead in Texas, Michigan, Maine, Alaska, Ohio, and New Hampshire.*** In Texas, Democrat state Rep. James Talarico leads Republican Attorney General Ken Paxton by 2.6 points in the latest RCP average, 47.6% to 45%. Talarico leads in eight of the 10 polls included in the current RCP average, while Paxton leads in one*** Michigan also shows a narrow Democrat advantage, with Abdul El-Sayed leading Republican Mike Rogers by 1.8 points, 46.5% to 44.7%, in the current RCP average. Seven of the 10 polls in the polling set show El-Sayed ahead, two show...",
+          "sourceName": "Freerepublic",
+          "url": "https://freerepublic.com/focus/f-news/4395760/posts",
+          "publishedAt": "2026-09-16T18:13:42.000Z",
           "sentiment": 0.1
+        },
+        {
+          "id": "1f1eb9b1050dd484a19678fafe17712919c83c6b03076e0110ea48f723c2cfc8",
+          "title": "‘Purge Palantir!’: Union nurses warn Big Tech and Big Brother are invading our healthcare system",
+          "description": "“Palantir has no place in our hospitals, no place in our community... Nurses are advocates first. We're trained to advocate and to speak up when something is wrong, and that's what we're doing.”",
+          "sourceName": "The Real News Network",
+          "url": "https://therealnews.com/palantir-nurses-big-tech-big-brother-healthcare",
+          "publishedAt": "2026-09-16T17:14:46.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
@@ -658,16 +713,26 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": -0.2,
-      "newsSentiment": null,
+      "overallSentiment": -0.13333333333333333,
+      "newsSentiment": 0,
       "socialSentiment": -1,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 2,
         "youtube": 5,
-        "total": 7
+        "total": 8
       },
-      "news": [],
+      "news": [
+        {
+          "id": "1033b44c4748af9fc57ad41f4331dd6da8a84d6110c26652436e2d15dd4debe4",
+          "title": "The Glorious And Prodigious History Of Who's Number One",
+          "description": "How did Who's Number One begin, and what has happened since? We take a look back at the last 13 editions of high school wrestling's premier event!",
+          "sourceName": "Yahoo! News",
+          "url": "https://sports.yahoo.com/articles/glorious-prodigious-history-whos-number-233626432.html",
+          "publishedAt": "2026-09-16T23:36:26.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [
         {
           "id": "3e7638560b880949880d522f7d6c80fa96a56850befa2bfaa1917cafdf261753",
