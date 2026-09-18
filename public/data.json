@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-18T16:37:24.938Z",
+  "lastUpdated": "2026-09-18T17:25:38.054Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.05,
+      "overallSentiment": -0.1,
       "newsSentiment": null,
-      "socialSentiment": -0.05,
+      "socialSentiment": -0.1,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 1,
         "youtube": 0,
-        "total": 2
+        "total": 1
       },
       "news": [],
       "social": [
@@ -23,14 +23,6 @@
           "createdAt": "2026-09-18T01:54:02.928Z",
           "uri": "at://did:plc:s4fttef2kep7rtooy77ja3ow/app.bsky.feed.post/3mvr2qft6uk27",
           "sentiment": -0.1
-        },
-        {
-          "id": "ea5a3e6b87038e0d1d9cd2c7bcd4916b10070af25f1c248c871bcce6eb0d46ac",
-          "authorHandle": "sanfordmainedems.bsky.social",
-          "postText": "www.mobilize.us/jacksonforma...",
-          "createdAt": "2026-09-17T17:10:48.957Z",
-          "uri": "at://did:plc:4vrpadxefhnaeiyytcgjqq2k/app.bsky.feed.post/3mvq5is75522l",
-          "sentiment": 0
         }
       ],
       "youtube": [],
@@ -39,14 +31,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.4,
+      "overallSentiment": 0.325,
       "newsSentiment": 0,
-      "socialSentiment": 0.8,
+      "socialSentiment": 0.65,
       "mentions": {
         "news": 1,
-        "social": 1,
+        "social": 2,
         "youtube": 0,
-        "total": 2
+        "total": 3
       },
       "news": [
         {
@@ -60,6 +52,14 @@
         }
       ],
       "social": [
+        {
+          "id": "ec45cece7c5170bd3d1d21089432450fb3ccc3ee8f60edd788348b1d266cbc63",
+          "authorHandle": "theatlantic.com",
+          "postText": "“Trump is terrified over the midterms,” Maine Secretary of State Shenna Bellows tells Toluse Olorunnipa of the president’s mail-in ballot proposal. “He’s terrified he’s going to lose, and lose hugely. But he can’t change the election laws.” #TAF26",
+          "createdAt": "2026-09-18T15:52:20Z",
+          "uri": "at://did:plc:nyxviptfyic2lvuorkr5yy3y/app.bsky.feed.post/3mvsjlfdriu2d",
+          "sentiment": 0.5
+        },
         {
           "id": "86e6d0bbc66ca4605112d3ed5366b5791a4df8c78e6f40e5348e560a2b13deff",
           "authorHandle": "joshuafaile.bsky.social",
@@ -75,14 +75,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2698488645857067,
+      "overallSentiment": 0.2749244466225598,
       "newsSentiment": 0.03636363636363637,
-      "socialSentiment": 0.20175438596491233,
+      "socialSentiment": 0.2169811320754717,
       "mentions": {
         "news": 11,
-        "social": 57,
+        "social": 53,
         "youtube": 7,
-        "total": 75
+        "total": 71
       },
       "news": [
         {
@@ -186,6 +186,70 @@
         }
       ],
       "social": [
+        {
+          "id": "e57fa170409aef7e8b81ead92581de35649b471ef251834e62873eaeac0d00a2",
+          "authorHandle": "booktweeting.bsky.social",
+          "postText": "hey, Jackson staff, figure out a way to use that clip of Trump saying \"maybe I'll outlaw fishing\" and Troy saying \"I won't let him, but Susan Collins would\" in a campaign ad and you'll get so many Dads out to vote",
+          "createdAt": "2026-09-18T17:00:36.159Z",
+          "uri": "at://did:plc:4ypydtsxlmkfyoyoxb26o4wd/app.bsky.feed.post/3mvsnfharlk2o",
+          "sentiment": 0.8
+        },
+        {
+          "id": "d17a9288110dd0cd68a443bc76210b91b8e06b6b51bb31853028ae97459bfdb5",
+          "authorHandle": "centralmenewsbot.bsky.social",
+          "postText": "The airwaves blitz for the Troy Jackson-Susan Collins race is out of control.... #news #maine  \nhttps://www.centralmaine.com/2026/09/18/haunted-by-the-gentle-royalty-free-piano-of-maine-senate-ads-victoria-hugo-vidal/",
+          "createdAt": "2026-09-18T17:00:04.981764+00:00",
+          "uri": "at://did:plc:3gjcmx6u4jnaudpec3awfyfj/app.bsky.feed.post/3mvsneiz6hs2d",
+          "sentiment": 0
+        },
+        {
+          "id": "7d76d666c45f80b75906762a62777137d3b8575fae25992d6decc698e95e91a0",
+          "authorHandle": "brandyalex7.bsky.social",
+          "postText": "totally non scientific poll — been in Bar Harbor, ME, for the past 4 days and I’ve seen quite a few Troy Jackson yard signs and Hannah Penigree signs but only 1 Susan Collins sign…",
+          "createdAt": "2026-09-18T16:58:10.527Z",
+          "uri": "at://did:plc:p2djkvgo2fy74vmoljmqwimy/app.bsky.feed.post/3mvsnb4emp22b",
+          "sentiment": 0.6
+        },
+        {
+          "id": "596fcc33b8dca6dc8f02c0662822f92c55fee5764ae377131e7a43af9c745872",
+          "authorHandle": "johnjharwood.bsky.social",
+          "postText": "ONE HOUR FROM NOW: Substack Live with Maine's Democratic Senate candidate Troy Jackson.\n\nopen.substack.com/live-stream/...",
+          "createdAt": "2026-09-18T16:51:47.798Z",
+          "uri": "at://did:plc:l6z6zp26hrxbhu3sxl5dgprc/app.bsky.feed.post/3mvsmvpejys2c",
+          "sentiment": 0.7
+        },
+        {
+          "id": "9b332dbcc5a11dd6507a39a8afacbb86e7e19dbf03be3f6ea38ec9f993f073c0",
+          "authorHandle": "pressherald.com",
+          "postText": "Haunted by the gentle, royalty-free piano of Maine Senate ads  | Victoria Hugo-Vidal",
+          "createdAt": "2026-09-18T16:05:51+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mvskdkilai2e",
+          "sentiment": 0
+        },
+        {
+          "id": "1314ea7afc4b626c24b3e4bdf5017c152cf526379d165e58cdb51745e0153a0a",
+          "authorHandle": "commondreams.org",
+          "postText": "\"It's time that Mainers had somebody that's going to fight for their reproductive rights every damn time.\"",
+          "createdAt": "2026-09-18T15:48:52.473063Z",
+          "uri": "at://did:plc:tiriierad73thyvjczaphg6v/app.bsky.feed.post/3mvsjfazl4t2u",
+          "sentiment": 0.7
+        },
+        {
+          "id": "37888f4da66ae9d1321258311aa32c99d36af8858f92cdbab9a11bbeeef5f319",
+          "authorHandle": "chejholloway.bsky.social",
+          "postText": "www.commondreams.org/news/susan-c...",
+          "createdAt": "2026-09-18T15:48:47.236Z",
+          "uri": "at://did:plc:7gnlogflii4kgsxztiijkyl6/app.bsky.feed.post/3mvsjezwuxs2j",
+          "sentiment": 0
+        },
+        {
+          "id": "8d820e5ddfebea6b5c8bafb68102b39408fe6943e0bc3466e3c102ae2a3d0124",
+          "authorHandle": "silvawolves.bsky.social",
+          "postText": "Ok but we’re going to need to know the kitty’s name please.🥺",
+          "createdAt": "2026-09-18T14:49:32.244Z",
+          "uri": "at://did:plc:6udzmxohn3fy2dm6jfbi276e/app.bsky.feed.post/3mvsg33nays22",
+          "sentiment": 0
+        },
         {
           "id": "7fadba1415afd0befe64bc315ca816c97df9d6b0f896212482c73ff6cffb3a01",
           "authorHandle": "rood1girl.bsky.social",
@@ -544,102 +608,6 @@
           "postText": "Support our candidates. Amplify their ads. \n\nThen register Dem voters w @fieldteam6.org and…\n\nVOTE EARLY (in person, drop box if possible). Tell everyone you know to do the same!\n\n#voterizer\n\nyoutu.be/BxR1APFP9HA?...",
           "createdAt": "2026-09-17T17:33:55.426Z",
           "uri": "at://did:plc:kozvebsmgj3lp3yxuxcjtec5/app.bsky.feed.post/3mvq6s4gvp22v",
-          "sentiment": 0
-        },
-        {
-          "id": "e47cb4e2fe0eada2d628d594995db48be1e4182f585526c7b1b71cb35f663240",
-          "authorHandle": "fingertrapt.bsky.social",
-          "postText": "Troy Jackson stands up for PEOPLE not corporations.",
-          "createdAt": "2026-09-17T17:24:43.443Z",
-          "uri": "at://did:plc:zm2xlrc6v7qxi7s7jwavdsbm/app.bsky.feed.post/3mvq6bnznts2j",
-          "sentiment": 0.8
-        },
-        {
-          "id": "c797ba869fb68517d9134be59cc08bd20915bf10962084a748db3caf9bca65c5",
-          "authorHandle": "czarreed.bsky.social",
-          "postText": "This is a huge issue: people everywhere - in red and blue areas - feel screwed by investors buying up things in their community and turning them into shit. More people need to latch onto this the way Troy Jackson is in Maine",
-          "createdAt": "2026-09-17T17:14:57.227Z",
-          "uri": "at://did:plc:vfvam4koafkvzqdpnztw5qfh/app.bsky.feed.post/3mvq5q6xrbs2l",
-          "sentiment": 0.8
-        },
-        {
-          "id": "1508b727db7d7bb12608f10a4c36772d2e16d986ab24d6b7412279d3126394c3",
-          "authorHandle": "sanfordmainedems.bsky.social",
-          "postText": "www.mobilize.us/jacksonforma...",
-          "createdAt": "2026-09-17T17:10:48.957Z",
-          "uri": "at://did:plc:4vrpadxefhnaeiyytcgjqq2k/app.bsky.feed.post/3mvq5is75522l",
-          "sentiment": 0
-        },
-        {
-          "id": "b23fe53b4d9b89577f106f22e53893cc6a9bf1528f857b537c51990d083cdc08",
-          "authorHandle": "fingertrapt.bsky.social",
-          "postText": "WOMEN 4 TROY JACKSON Oxford County, Maine! \n\nSaturday, October 17th! 5pm-8:30pm Potluck and bonfire! \n67 High Street, South Paris. \nRSVP forms.gle/8fKZjxHAy5Sa...",
-          "createdAt": "2026-09-17T16:50:21.643Z",
-          "uri": "at://did:plc:zm2xlrc6v7qxi7s7jwavdsbm/app.bsky.feed.post/3mvq4e7qn6s2j",
-          "sentiment": 0.9
-        },
-        {
-          "id": "dd9ac2a28c9acefa1c14a2221a77b72c554925821feb600453dabe898eaf0202",
-          "authorHandle": "vtboomer.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-09-17T16:37:50.571Z",
-          "uri": "at://did:plc:p6jenpfq2d2cn2kvb4lmpsgk/app.bsky.feed.post/3mvq3nthlkk2g",
-          "sentiment": 0
-        },
-        {
-          "id": "71d9bffe0c2ecf45968267f0e0152a1dd37b86594c32218c7ce818edecea3587",
-          "authorHandle": "boocow16.bsky.social",
-          "postText": "A new day is on the horizon Maine are you ready for change?\n\nwww.jacksonformaine.com",
-          "createdAt": "2026-09-17T16:28:34.573Z",
-          "uri": "at://did:plc:ewdiyroop2hpbhknfiynuntl/app.bsky.feed.post/3mvq35b7ur22t",
-          "sentiment": 0.7
-        },
-        {
-          "id": "21d5073db4132a58963cfeb7c7b14d3f23243e3e07b78c2d5f1881c21301c07d",
-          "authorHandle": "kylora2112.bsky.social",
-          "postText": "I fuckin' hope so. Especially when all she can muster about Troy Jackson is \"HIS SON DID A LOBBYING!\" Like, jfc bitch the call is coming from inside your house.",
-          "createdAt": "2026-09-17T16:17:55.732Z",
-          "uri": "at://did:plc:3dutjdqcyk7kcrqzbxpit5kk/app.bsky.feed.post/3mvq2k7xyls2w",
-          "sentiment": 0.6
-        },
-        {
-          "id": "d10fbadd9da1ebd5a0c752571148fe18c5b742f565aab35650c9f9d87778bd59",
-          "authorHandle": "bangordailynews.bsky.social",
-          "postText": "Maine’s race between Republican U.S. Sen. Susan Collins and Democratic challenger Troy Jackson has generated more than $137.6 million in TV advertising since late July.",
-          "createdAt": "2026-09-17T16:13:12.505Z",
-          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mvq2bsi4eb2r",
-          "sentiment": 0
-        },
-        {
-          "id": "febd50088c95a5dbf2ba8b2e61a105c2a69620d1ac02dcdf2d8a945eb8b96595",
-          "authorHandle": "poltergeist.elderscrolls.social",
-          "postText": "Troy Jackson MAY have taken...... 15 cents from tax payers at some point... A while ago....\n\nPlease ignore the woman actively voting to take your rights away and eagerly continue a genocide",
-          "createdAt": "2026-09-17T15:40:53.416Z",
-          "uri": "at://did:plc:jtowlilfpbqoqffy32bzmtyy/app.bsky.feed.post/3mvpyhymd422m",
-          "sentiment": -1
-        },
-        {
-          "id": "3009cd55d375a20ece47212df682a6251d5d3c45ec1f58d7751da78cbca609de",
-          "authorHandle": "clearlyashley.bsky.social",
-          "postText": "“I can’t stand this bullshit anymore.”\n\n- Troy Jackson\n\nthat’ll play!",
-          "createdAt": "2026-09-17T15:38:03.402Z",
-          "uri": "at://did:plc:zjkfkzunzinds2ozg6uidsiv/app.bsky.feed.post/3mvpycwhvsk2v",
-          "sentiment": 0
-        },
-        {
-          "id": "f080f3a91d60e5ebd09bc433f1da8c6a392f76a73518091d89d96f797637558d",
-          "authorHandle": "pollbot.bsky.social",
-          "postText": "2026 Maine US Senate\nSep 14 - 15, 2026\n\nSusan Collins 47.1%\nTroy Jackson 46.4%\n\nQuantus Insights (B/C)\n621 LV\n\nView Poll",
-          "createdAt": "2026-09-17T15:01:00.078Z",
-          "uri": "at://did:plc:3dobmrc6cl62xehkuscyv36p/app.bsky.feed.post/3mvpwaosw4z2x",
-          "sentiment": 0
-        },
-        {
-          "id": "ea78c7dc6eb746222151c1576212721614e8983a95f0f8cbae9aa75a605cbdb0",
-          "authorHandle": "starbucksgirl51.bsky.social",
-          "postText": "Same. I wanted Haley in MI, not Abdul, but I'm out here reposting his shit. Same with Troy Jackson (Janet would've been better, but as long as it ain't Platner, fine).",
-          "createdAt": "2026-09-17T14:01:06.448Z",
-          "uri": "at://did:plc:erboxabfvlrdvp3dmldwwglq/app.bsky.feed.post/3mvpsvkyko22u",
           "sentiment": 0
         }
       ],
