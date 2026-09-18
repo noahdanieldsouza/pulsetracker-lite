@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T09:43:50.638Z",
+  "lastUpdated": "2026-09-18T13:53:37.790Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -58,14 +58,14 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.5,
+      "overallSentiment": -0.06666666666666665,
       "newsSentiment": 0,
-      "socialSentiment": null,
+      "socialSentiment": 0.8,
       "mentions": {
         "news": 4,
-        "social": 0,
+        "social": 1,
         "youtube": 2,
-        "total": 6
+        "total": 7
       },
       "news": [
         {
@@ -105,7 +105,16 @@
           "sentiment": 0
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "86e6d0bbc66ca4605112d3ed5366b5791a4df8c78e6f40e5348e560a2b13deff",
+          "authorHandle": "joshuafaile.bsky.social",
+          "postText": "Hats off to Maine State Senator Craig Hickman (D) for spearheading this initiative and Secretary of State Shenna Bellows (@shennabellows.bsky.social) for seeing it to fruition!",
+          "createdAt": "2026-09-18T13:33:20.527Z",
+          "uri": "at://did:plc:7ohfo7gpajlhov6cjrua2qq6/app.bsky.feed.post/3mvsbstpkls2r",
+          "sentiment": 0.8
+        }
+      ],
       "youtube": [
         {
           "id": "b0ba6970eb41a3150ab3daed36d5c9c8ef02985e37521145e374588e7823bacd",
@@ -133,14 +142,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.08709981167608287,
+      "overallSentiment": 0.061695906432748554,
       "newsSentiment": -0.016666666666666666,
-      "socialSentiment": 0.27796610169491526,
+      "socialSentiment": 0.20175438596491233,
       "mentions": {
         "news": 6,
-        "social": 59,
+        "social": 57,
         "youtube": 3,
-        "total": 68
+        "total": 66
       },
       "news": [
         {
@@ -199,6 +208,62 @@
         }
       ],
       "social": [
+        {
+          "id": "7fadba1415afd0befe64bc315ca816c97df9d6b0f896212482c73ff6cffb3a01",
+          "authorHandle": "rood1girl.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-09-18T13:33:21.183Z",
+          "uri": "at://did:plc:c2ltrhqocybkqstoqjzk2mvw/app.bsky.feed.post/3mvsbsudgdk2l",
+          "sentiment": -0.1
+        },
+        {
+          "id": "a85d0b6c68db6f4254b513560b72268c3462948193a66d491b82d0bb481364a5",
+          "authorHandle": "sherryac.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-09-18T13:27:50.036Z",
+          "uri": "at://did:plc:en3psevt44i3e4wf6zufwpoy/app.bsky.feed.post/3mvsbiyjokc24",
+          "sentiment": -0.1
+        },
+        {
+          "id": "f4ff435f7690d75ffce8b4d898475a87e15d8288cb3e2b8793d2fda950086ae8",
+          "authorHandle": "mychelvandover.bsky.social",
+          "postText": "📈 Can Susan Collins outrun the polls in Maine again?\n\nThe Republican incumbent narrowly trails Democrat Troy Jackson in the Pine Tree State’s critical Senate contest\n\ndecisiondeskhq.substack.com/p/susan-coll...",
+          "createdAt": "2026-09-18T12:50:19.904Z",
+          "uri": "at://did:plc:z464t5txyazacsjjtmy2mczi/app.bsky.feed.post/3mvs7fwn3222r",
+          "sentiment": 0.2
+        },
+        {
+          "id": "5ff8e4c3360141d5fab299e562e94604b02aa233fda1ef33c191a3f04ab3a521",
+          "authorHandle": "vtboomer.bsky.social",
+          "postText": "substack.com/@troyjackson...",
+          "createdAt": "2026-09-18T12:30:01.054Z",
+          "uri": "at://did:plc:p6jenpfq2d2cn2kvb4lmpsgk/app.bsky.feed.post/3mvs6bmaouc24",
+          "sentiment": -0.1
+        },
+        {
+          "id": "27bfd366eaeab7e17fe9ecbe2aefa00f9d33290ebd71a2be741a5f02b11ad6b3",
+          "authorHandle": "steedpeel23.bsky.social",
+          "postText": "There is not just one strategy. Ossoff is great but that message would not work for Troy Jackson in Maine. \n\nKnow your audience.",
+          "createdAt": "2026-09-18T12:16:08.667Z",
+          "uri": "at://did:plc:gc4ylyyfo6mmnjjynz7f2cqt/app.bsky.feed.post/3mvs5isgetk2p",
+          "sentiment": 0.1
+        },
+        {
+          "id": "025cfe20428ff5d744dce3c285441b277b359de43a9ab86f1c9026254975f1da",
+          "authorHandle": "larrycolvin.bsky.social",
+          "postText": "Susan Collins canvasser steals the package off the doorstep. This person is a thief but Susan Collins has demonstrated something worse: she fails to live up to the duties of her office. Maine needs Troy Jackson! \n#VoteBlue\n#Blues",
+          "createdAt": "2026-09-18T12:09:35.064Z",
+          "uri": "at://did:plc:z5dhbia5ag6kkilnab76i6ab/app.bsky.feed.post/3mvs5532hy22a",
+          "sentiment": 0.8
+        },
+        {
+          "id": "5276174d30edc016ffb7b576f713a61a1f90dd92fb91c7d0296c42577aa5d8cf",
+          "authorHandle": "sam-of-pnw.bsky.social",
+          "postText": "These is what the future of a democratic Senate should look like.\n\nPlease donate to Angie, Abdul, and to Troy Jackson of Maine because they don’t take corporate money.",
+          "createdAt": "2026-09-18T11:14:33.429Z",
+          "uri": "at://did:plc:r4irgi5evkpf7pvdstha6mmw/app.bsky.feed.post/3mvs22oelzk22",
+          "sentiment": 0.7
+        },
         {
           "id": "553195e1dfd2596c854ba3eb0c257f48d1656193c73d2193f16bce4591a5c487",
           "authorHandle": "endora-laduce.bsky.social",
@@ -598,78 +663,6 @@
           "createdAt": "2026-09-17T14:01:06.448Z",
           "uri": "at://did:plc:erboxabfvlrdvp3dmldwwglq/app.bsky.feed.post/3mvpsvkyko22u",
           "sentiment": 0
-        },
-        {
-          "id": "4b245017210e53e8a03fbdd153e593fe9a7239d9f4cea628f3e330b139680d5d",
-          "authorHandle": "frenemyofthepeople.bsky.social",
-          "postText": "I just donated to a bunch of Democratic Senate candidates:\n\nRoy Cooper - North Carolina\nTroy Jackson - Maine\nAbdul El-Sayed - Michigan \nSherrod Brown - Ohio\nMary Peltola - Alaska\nChris Pappas - New Hampshire \nJames Talarico - Texas\nJosh Turek- Iowa\n\n(Hope I spelled these correctly)",
-          "createdAt": "2026-09-17T13:11:05.481Z",
-          "uri": "at://did:plc:htz32xsglzodzeeh7hfecji7/app.bsky.feed.post/3mvpq452tgk2h",
-          "sentiment": 1
-        },
-        {
-          "id": "99f7c162d692c58ab9758c94d99597dec6b759e5260f735c35cad0c6cdf314af",
-          "authorHandle": "darkblueluma.bsky.social",
-          "postText": "Okay so AOC endorsed the following people:\n\nPeggy Flanagan\nAbdul El Sayed\nAngie Nixon\n\nLFG.\n\nJust gotta add in Troy Jackson and we good!",
-          "createdAt": "2026-09-17T13:09:58.308Z",
-          "uri": "at://did:plc:nf3zs3g5wnctwqvhsrwc6f5j/app.bsky.feed.post/3mvpq24yf6c2c",
-          "sentiment": 0
-        },
-        {
-          "id": "55161b951bdc94920f9dccd0c79c9c6cf8c68fc4e02219e2197a48aa1b558764",
-          "authorHandle": "lynnmanyfires.bsky.social",
-          "postText": "Good luck to Troy Jackson and serve the People well!",
-          "createdAt": "2026-09-17T13:00:55.777Z",
-          "uri": "at://did:plc:dafibzejbmsc2mohn4jladqu/app.bsky.feed.post/3mvppjxlls22s",
-          "sentiment": 1
-        },
-        {
-          "id": "c95e4d22b75919d04bee2bed646ccaa858b7756e335e3c24275109f7bad538da",
-          "authorHandle": "wickedpissahme.bsky.social",
-          "postText": "Maine labor union demands CMMC nurses suspended for 'organizing and patient advocacy' be reinstated www.newscentermaine.com/article/news... www.newscentermaine.com/article/news...\nThis is BS!!!! I wonder how much money this parent company donated to the tRump campaign. Vote Troy Jackson-pro union!",
-          "createdAt": "2026-09-17T12:57:36.759Z",
-          "uri": "at://did:plc:t3qggbqupmhdzzv6tmporg63/app.bsky.feed.post/3mvppdzs4a22s",
-          "sentiment": 1
-        },
-        {
-          "id": "51309cd38727f7f06e2c106d987e7930e37afbb53ec59715d002ebbace0ccad7",
-          "authorHandle": "cbowdidge.bsky.social",
-          "postText": "She's currently behind Troy Jackson in the polls 🤞",
-          "createdAt": "2026-09-17T12:49:58.137Z",
-          "uri": "at://did:plc:fsmp65v22rwd3u4fumyz3vd2/app.bsky.feed.post/3mvpoweg27c2f",
-          "sentiment": 1
-        },
-        {
-          "id": "3ffa2e23a521a67a9ce2a51418f1c9878118ba7d4a3cb8eff34c258f0ff9c101",
-          "authorHandle": "shann4america.bsky.social",
-          "postText": "It's GoTV!\nA glorious Fall time when Election Day nears & we Get out The Vote!\nPhonebank, canvas or send postcards 4\nOssoff, Cooper (NC), Brown (OH) & Congress Dems.\n*Troy Jackson, a former logger & past Maine Senate President.\nRegister all 18 yrs+ not in Cults\nGet Souls 2 Polls early & on Nov. 3rd.",
-          "createdAt": "2026-09-17T11:09:25.231Z",
-          "uri": "at://did:plc:7gr2ldqhz55tyef3at53esqg/app.bsky.feed.post/3mvpjckyegs2k",
-          "sentiment": 0.7
-        },
-        {
-          "id": "988308985a1596901bae1e760aa6ba044f2bdd3e8b22cc38b9d0494a65502e89",
-          "authorHandle": "drwh0.bsky.social",
-          "postText": "Consider the source of those ads that claim Troy Jackson voted to raise taxes.\n\nhttps://www.sourcewatch.org/index.php?title=Philip_F._Anschutz ",
-          "createdAt": "2026-09-17T10:46:06.384Z",
-          "uri": "at://did:plc:q4d656rlaj5ynbzmqcvnwrhj/app.bsky.feed.post/3mvphyv5ezf2a",
-          "sentiment": 0.6
-        },
-        {
-          "id": "b312ba2711c61e2a494a4825f9611d643ebc9ecbeaf7ca5fd5adbc038b976d5d",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "Jared Huffman\tCalifornia, 2nd District\nTroy Jackson\tMaine, U.S. Senate\nZoe Lofgren\tCalifornia, 18th District\nKris Mayes\tArizona Attorney General",
-          "createdAt": "2026-09-17T09:55:53.365Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mvpf73iul22s",
-          "sentiment": 0.3
-        },
-        {
-          "id": "c6119fa044f00feb9fb573d4d18bd09389500732566752ae38af48a9927ac1c6",
-          "authorHandle": "pinetreeactivism.org",
-          "postText": "======================\nCANVASS for TROY JACKSON\nTake Action w/Maine AFL-CIO\n\nThis month's opportunities around Maine to \nKNOCK DOORS - BUILD POWER - SOLIDARITY FOREVER\n\n#VOTE #JacksonForMaine #RetireSusie \n\nLink: 👉 www.mobilize.us?country=US&e...",
-          "createdAt": "2026-09-17T09:47:33.285Z",
-          "uri": "at://did:plc:dw4dtjqgp77v7wabugthvy2c/app.bsky.feed.post/3mvpeq6m6rk2c",
-          "sentiment": 0.8
         }
       ],
       "youtube": [
