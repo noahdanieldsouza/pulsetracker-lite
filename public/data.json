@@ -1,39 +1,20 @@
 {
-  "lastUpdated": "2026-09-18T13:53:37.790Z",
+  "lastUpdated": "2026-09-18T15:45:45.119Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.025,
-      "newsSentiment": 0,
+      "overallSentiment": -0.05,
+      "newsSentiment": null,
       "socialSentiment": -0.05,
       "mentions": {
-        "news": 2,
+        "news": 0,
         "social": 2,
         "youtube": 0,
-        "total": 4
+        "total": 2
       },
-      "news": [
-        {
-          "id": "9287272e089ddaa002f7cb2870f70ea8bb51aa027d3ea359dcce898310b17fb6",
-          "title": "4 measles-associated deaths in Pennsylvania; zero in the federal count",
-          "description": "Pennsylvania has confirmed four measles-associated deaths in four weeks. The CDC lists zero for 2026, after changing the rule by which deaths are counted.",
-          "sourceName": "World Socialist Web Site",
-          "url": "https://www.wsws.org/en/articles/2026/09/17/brhl-s17.html",
-          "publishedAt": "2026-09-17T00:26:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6bdfd02d71a42e82b7461f2bda8101177c6b0b0ec0d6bad0c345d54e69064b9e",
-          "title": "Brokers feel the pinch of MDR calls for rethink",
-          "description": "The development has had most listed broking firms falling on Wednesday; led by Groww (Billionbrains Garage Ventures) plunging close to 5% primarily because there was a block deals `2,000 crore at a discount on Wednesday",
-          "sourceName": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Sep/16/brokers-feel-the-pinch-of-mdr-calls-for-rethink",
-          "publishedAt": "2026-09-16T18:38:04.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "15eca911a03a8d07853ea646aadf0e81b050b656a01a52aec3be9ff2b7b167d1",
@@ -62,46 +43,19 @@
       "newsSentiment": 0,
       "socialSentiment": 0.8,
       "mentions": {
-        "news": 4,
+        "news": 1,
         "social": 1,
         "youtube": 2,
-        "total": 7
+        "total": 4
       },
       "news": [
         {
-          "id": "31c4eae8516484d1039a56f85557bc870eeef86aee0b0336cdc302ff0a02809b",
-          "title": "Hannah Pingree is already bracing for a constitutional amendment on property taxes",
-          "description": "The Democratic gubernatorial nominee acknowledged this week that her plan to let towns tax out-of-state homeowners at higher rates will likely require amen",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4890985312847-hannah-pingree-is-already-bracing-for-a-constitutional-amendment-on-property-taxes",
-          "publishedAt": "2026-09-17T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "366a2a8f667c61041283f2563fca542fa69682f5f665f7be259f0ea919d6e662",
-          "title": "Matt Dunlap applauds SCOTUS decision on Trump mail-in ballot changes. Paul LePage has no comment.",
-          "description": "President Donald Trump sought to change mail-in ballot rules ahead of the Nov. 3 election that will determine whether Republicans keep control of Congress.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/09/16/matt-dunlap-applauds-scotus-decision-on-trump-mail-in-ballot-changes-paul-lepage-has-no-comment/",
-          "publishedAt": "2026-09-16T20:01:11.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7b8e8c230f03bdc973a2b2ef4659d2dfc453e50a15110b891e43b96001bf26a7",
-          "title": "Matt Dunlap applauds SCOTUS decision on Trump mail-in ballot changes. Paul LePage has no comment.",
-          "description": "President Donald Trump sought to change mail-in ballot rules ahead of the Nov. 3 election that will determine whether Republicans keep control of Congress.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/09/16/matt-dunlap-applauds-scotus-decision-on-trump-mail-in-ballot-changes-paul-lepage-has-no-comment/",
-          "publishedAt": "2026-09-16T20:01:11.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d77e2c30bd43cec4a248d03cb8f9ad55285a7096ad94504130525f42df09a85b",
-          "title": "Matt Dunlap applauds SCOTUS decision on Trump mail-in ballot changes. Paul LePage has no comment.",
-          "description": "President Donald Trump sought to change mail-in ballot rules ahead of the Nov. 3 election that will determine whether Republicans keep control of Congress.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/09/16/matt-dunlap-applauds-scotus-decision-on-trump-mail-in-ballot-changes-paul-lepage-has-no-comment/",
-          "publishedAt": "2026-09-16T20:01:11.000Z",
+          "id": "6a1a8d86db5ee3243b8bebaa7a94c5ac3771f0d908d43bd8116cd2b5787ede81",
+          "title": "Maine’s new constitution printing restores Native American treaty obligations, adds ‘right to food’",
+          "description": "State leaders gathered in Augusta to unveil only the third official printing in Maine’s history, marking a major milestone in restoring historical visibility to the state’s founding documents.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/09/17/maines-new-constitution-printing-restores-native-american-treaty-obligations-adds-right-food/",
+          "publishedAt": "2026-09-17T23:20:37.000Z",
           "sentiment": 0
         }
       ],
@@ -142,68 +96,113 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.061695906432748554,
-      "newsSentiment": -0.016666666666666666,
+      "overallSentiment": 0.07937267410951623,
+      "newsSentiment": 0.03636363636363637,
       "socialSentiment": 0.20175438596491233,
       "mentions": {
-        "news": 6,
+        "news": 11,
         "social": 57,
         "youtube": 3,
-        "total": 66
+        "total": 71
       },
       "news": [
         {
-          "id": "148dd00bbf1a68a607cc5f870663714b82d2e955771c0b01744504a2e2da198f",
-          "title": "Poll: Susan Collins Holds Narrow Lead over Democrat Troy Jackson in Maine",
-          "description": "In a poll published Wednesday, Sen. Susan Collins (R-ME) held a narrow lead over Democrat Troy Jackson in Maine’s U.S. Senate race. The post Poll: Susan Collins Holds Narrow Lead over Democrat Troy Jackson in Maine appeared first on Breitbart .",
-          "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/politics/2026/09/16/poll-susan-collins-holds-narrow-lead-democrat-troy-jackson-maine/",
-          "publishedAt": "2026-09-17T02:31:58.000Z",
+          "id": "a5f783caaf1285370635cffac3fab98064cb86e1758f1a8cfe7fdf4657f3eecb",
+          "title": "Must-Win Republican’s Canvasser Busted as Porch Pirate",
+          "description": "Police have identified the man and said that charges are forthcoming.",
+          "sourceName": "Headtopics",
+          "url": "https://headtopics.com/news/must-win-republican-s-canvasser-busted-as-porch-pirate-87865259",
+          "publishedAt": "2026-09-18T02:36:36.000Z",
           "sentiment": -0.1
         },
         {
-          "id": "8934010937f496c69d05b34991c52c6d41bfdfa20892d7342639e54f2ff93b7e",
-          "title": "Poll: Susan Collins Holds Narrow Lead over Democrat Troy Jackson in Maine",
+          "id": "066a9c3489d531f229c78d903f670431080e6e451e3d544c0c9f5d0bbd49ea22",
+          "title": "Must-Win Republican’s Canvasser Busted as Porch Pirate",
+          "description": "Graeme Sloan/Getty Images A man canvassing on behalf of embattled GOP Sen. Susan Collins was caught on camera swiping a package from a home he visited. A video circulating on social media showed a man wearing a shirt bearing the name of Stronger Maine, a super PAC supporting the 73-year-old senator, nabbing a homeowner’s package from their doorstep before running away. The Sagadahoc County Sheriff’s Office announced Thursday that the “package thief/political campaigner” had been identified and that charges were forthcoming, but did not share the man’s name. Read more at The Daily Beast.",
+          "sourceName": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/must-win-republican-susan-collins-canvasser-busted-as-porch-pirate-in-maine/",
+          "publishedAt": "2026-09-18T01:53:23.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2098a6d87a06ad9f0a5e4bd1d5b40daccc18598b8db977c8d6bda0d475ef72e0",
+          "title": "Troy Jackson talks funding for Social Security and his healthcare for all plan",
           "description": null,
           "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4890816115780-poll-susan-collins-holds-narrow-lead-over-democrat-troy-jackson-in-maine",
-          "publishedAt": "2026-09-17T00:00:00.000Z",
-          "sentiment": -0.1
+          "url": "https://www.newsbreak.com/news/4892866585794-troy-jackson-talks-funding-for-social-security-and-his-healthcare-for-all-plan",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "sentiment": 0.3
         },
         {
-          "id": "657496eefabec94c6068036cd8ea18ec806ec7b1830adca6ea6abe25ab57c437",
-          "title": "Replacing a respected, effective senator like Susan Collins will hurt Maine",
-          "description": "“I believe reelecting Susan Collins is both important and urgent for Maine.”",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4890979646382-replacing-a-respected-effective-senator-like-susan-collins-will-hurt-maine",
-          "publishedAt": "2026-09-17T00:00:00.000Z",
+          "id": "11e5bfb25fe5d658dee4b7ee42913bc2f0a030d6073b644a214941cdfb96e375",
+          "title": "Police expect to charge pro-Susan Collins canvasser for doorstep package theft",
+          "description": "Ring camera footage from the incident was posted by the homeowner and then shared widely on Facebook and X.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/09/17/politics/elections/pro-susan-collins-canvasser-package-theft/",
+          "publishedAt": "2026-09-17T22:39:33.000Z",
           "sentiment": 0
         },
         {
-          "id": "aaac1b78a0f6220569881d2d959cd1702fb01626ed69c875c1184ebf15f8d014",
-          "title": "These vulnerable House Republicans suddenly oppose Trump’s Iran war",
-          "description": "Two farm-state House Republicans in battleground Iowa districts now on record opposing the Iran war. The post These vulnerable House Republicans suddenly oppose Trump’s Iran war appeared first on MS NOW .",
-          "sourceName": "Ms Now",
-          "url": "https://www.ms.now/news/house-republicans-iran-war-powers-election",
-          "publishedAt": "2026-09-16T22:14:37.000Z",
+          "id": "f093a46eb83fc873f012ddeb63ef9a7596895dca9aa380ac3e9cc9b69232417f",
+          "title": "Maine U.S. Senate Race heats up over health care, taxes, and social security",
+          "description": "In an interview with WABI, Democratic nominee Troy Jackson said health care reform remains his top policy priority heading into the general election.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/09/17/maine-us-senate-race-heats-up-over-health-care-taxes-social-security/",
+          "publishedAt": "2026-09-17T22:26:37.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "d3dcff0d6a972624761b98b4b77a327e9eb8c8379a1a09950924c4bed9165b4a",
+          "title": "National Democrats ease up on Maine governor spending due to confidence in Hannah Pingree",
+          "description": "The PAC tied to the Democratic Governors Association views Hannah Pingree as a safe lock in the Maine gubernatorial race.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/09/17/national-democrats-ease-up-on-maine-governor-spending-due-to-confidence-in-hannah-pingree/",
+          "publishedAt": "2026-09-17T20:54:11.000Z",
           "sentiment": 0
         },
         {
-          "id": "bcd16a03b5c0dcabedcaab1cec747b20104062052f3aed932296f52bb6f5434b",
-          "title": "RealClear: Democrats Lead in 6 of 7 Senate Toss-Ups",
-          "description": "*** RealClearPolitics polling averages on Wednesday show Democrats ahead in Texas, Michigan, Maine, Alaska, Ohio, and New Hampshire.*** In Texas, Democrat state Rep. James Talarico leads Republican Attorney General Ken Paxton by 2.6 points in the latest RCP average, 47.6% to 45%. Talarico leads in eight of the 10 polls included in the current RCP average, while Paxton leads in one*** Michigan also shows a narrow Democrat advantage, with Abdul El-Sayed leading Republican Mike Rogers by 1.8 points, 46.5% to 44.7%, in the current RCP average. Seven of the 10 polls in the polling set show El-Sayed ahead, two show...",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-news/4395760/posts",
-          "publishedAt": "2026-09-16T18:13:42.000Z",
-          "sentiment": 0.1
+          "id": "393f15ce0e36464306a3464a182cbe918401894bfb93236034eab4f48a60fa54",
+          "title": "National Democrats ease up on Maine governor spending due to confidence in Hannah Pingree",
+          "description": "The PAC tied to the Democratic Governors Association views Hannah Pingree as a safe lock in the Maine gubernatorial race.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/09/17/national-democrats-ease-up-on-maine-governor-spending-due-to-confidence-in-hannah-pingree/",
+          "publishedAt": "2026-09-17T20:54:11.000Z",
+          "sentiment": 0
         },
         {
-          "id": "1f1eb9b1050dd484a19678fafe17712919c83c6b03076e0110ea48f723c2cfc8",
-          "title": "‘Purge Palantir!’: Union nurses warn Big Tech and Big Brother are invading our healthcare system",
-          "description": "“Palantir has no place in our hospitals, no place in our community... Nurses are advocates first. We're trained to advocate and to speak up when something is wrong, and that's what we're doing.”",
-          "sourceName": "The Real News Network",
-          "url": "https://therealnews.com/palantir-nurses-big-tech-big-brother-healthcare",
-          "publishedAt": "2026-09-16T17:14:46.000Z",
+          "id": "252e6287aa04a3adc39cb5f6d449978e4eb85ef7d328a5ebe211fc9a2d31da3a",
+          "title": "National Democrats ease up on Maine governor spending due to confidence in Hannah Pingree",
+          "description": "The PAC tied to the Democratic Governors Association views Hannah Pingree as a safe lock in the Maine gubernatorial race.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/09/17/national-democrats-ease-up-on-maine-governor-spending-due-to-confidence-in-hannah-pingree/",
+          "publishedAt": "2026-09-17T20:54:11.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a392ef62183c144c68f084d8994ec4c5d4c3d97336a7215ca9859012b624fc6c",
+          "title": "Sept. 17, 2026: Pervasive dark money is swamping Maine Senate race",
+          "description": "Dark money. If you follow politics, you’ve heard of it. It’s anonymous cash that’s flowing into the U.S. political system, particularly during congressional and presidential elections. And it’s increasing in prevalence as both political parties work to keep their financiers secret.",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/podcast/maines-political-pulse/2026-09-17/sept-17-2026-pervasive-dark-money-is-swamping-maine-senate-race",
+          "publishedAt": "2026-09-17T19:46:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3c52d89b14fcab25920b84aa16842d7caaa20d028cb2734acf6a78745fffea34",
+          "title": "The Issue Pitting Senate Dems Against Some Democratic Candidates",
+          "description": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free . Inside Washington The issue pitting Senate Dems against some Democratic candidates Senate Democrats lost a battle on Tuesday when the Senate Ag Committee voted to advance the GOP’s proposed Farm Bill without the SNAP protections Democrats have been pushing for. But while sitting Dems might be frustrated, a different group might be breathing a sigh of relief: For Democratic and independent candidates in agriculture-heavy states, this means their Republican opponents might stop hitting them over the Farm Bill. Wednesday’s committee meeting came after the committee failed to advance the legislation to the Senate in August. Democrats have been withholding votes from the once-bipartisan bill in an effort to delay rollbacks to SNAP that were set in last year’s One Big Beautiful Bill Act, or OBBBA. OBBBA’s policy forcing states to pay more for the administrative costs of SNAP takes effect October 1 of this year. Another measure, which forces states to pay for more of the cost of SNAP benefits based on their error rates, will take effect on October 1, 2027. Experts say these policies are already hurting states and SNAP recipients. Five million Americans have lost access to SNAP since OBBBA was signed last July, according to the Center on Budget and Policy Priorities, or CBPP. “We’ve been seeing some states taking some pretty extreme steps to try to lower their error rates very quickly,” said Katie Bergh , a senior policy analyst at the CBPP, “and those steps are making it much harder for eligible families to access the help they need to afford groceries.” Senate Democrats have pushed for an extension, to allow states to take more time to fix their error rates and prepare to pay more for the program. In August, committee Chairman Senator John Boozman gave Democrats part of what they wanted—a one-year extension of the error-rate change. But Dems say that’s not enough and that it comes with a poisonous addition that would actually raise some states’ SNAP costs in 2031. Jonathan Coppess , a professor of ag policy at the University of Illinois and former federal agriculture official, said that Boozman’s concession on the error rate shows that even some Republicans think the SNAP cuts are bad policy. “It certainly is some recognition by the committee that there’s a problem with what they enacted last year” in the OBBBA, he said. While Democrats on the Senate Ag Committee are united in their opposition to this version of the Farm Bill, not every Democrat wants to see them blocking the legislation. In Iowa, for example, Republican House and Senate candidates have been hitting Democrats on their resistance to the Farm Bill. GOP Representative Zach Nunn , who is running against State Senator Sarah Trone Garriott in Iowa’s 3rd congressional district, complained about “partisan games” this week and said that “it is completely unacceptable to hold the Farm Bill hostage.” After the bill failed to pass committee in August, Josh Turek , the Democratic Senate candidate in Iowa, posted on X that “Democrats in the Senate failed [Iowa farmers] by letting perfect be the enemy of the good.” He promised that, if elected, he would pass the Farm Bill. Dan Osborn , an independent running for Senate in Nebraska, told The New Republic in a statement that he would vote for the bill if elected. “Senate Democrats are hurting everyone, especially our farmers, by holding up the Farm Bill,” he said. “As always, they’re looking past the middle of the country, working only for the coasts, and using Nebraskans’ lives as a political football.” Bergh, however, pushed back against the common trope of farmers versus SNAP recipients. “We hear a lot from farm state lawmakers about how a Farm Bill needs to deliver for rural America, but SNAP is how about one in seven rural households put food on the table,” she said. “Their needs should really be front and center in a Farm Bill conversation.” —Emma Janssen Outside Washington Most of the backlash against data centers has focused on energy and water consumption, as well as noise and water pollution. But now there’s another reason to worry: The data center boom “will create a ‘tsunami’ of discarded electronics, putting the world on a course to triple its annual generation of toxic e-waste in the next 25 years,” and could “fill enough shipping containers to encircle the globe six times,” The Guardian reports . E-waste “typically contains toxics like lead, mercury, cadmium and forever chemicals, as well as valuable metals that are challenging to reclaim,” the paper’s Erin McCormick writes. The predictions about data centers turbocharging the e-waste problem come from a new report by environmental group Basel Action Network. “The average Maine household has paid an average of $4,300 more for goods and services since President Donald Trump began his second term,” the Maine Morning Star announces , based on recent analysis from the Maine Center for Economic Policy. Susan Collins probably isn’t thrilled with this headline. The long-standing GOP senator, currently polling a couple points behind Democrat Troy Jackson , has been trying to distance herself from the president in recent weeks. —Heather Souvaine Horn The Ideas Factory At the Center for American Progress , Weadé James , Paige Shoemaker DeMio , and Olivia O’Connell release a report on “5 Evidence-Based Strategies to Improve U.S. K-12 Math Achievement,” following news that international tests show America’s 2025 average math score at an “all-time low,” significantly lagging behind those of other rich countries. The report emphasizes standard-setting, “high-quality instructional materials,” and investments in “teacher preparation,” alongside other recommendations. The authors also point to Massachusetts and Alabama as examples of states that have implemented policies significantly boosting average test scores. As home insurance costs continue to rise, Public Citizen releases the results of a survey sent to state and territorial insurance commissioners: “Only 28 percent of responding offices said they support publication of homeowners insurance data at the ZIP-code level,” the watchdog reports . The reason this data is important, Public Citizen’s press release suggests, is in part to be able to figure out how much of the increase in prices is being driven by the climate crisis, and how much is being driven by profiteering and “regulatory capture.” —Heather Souvaine Horn In Closing Political Trivia Question of the Day On the subject of stupid things said by vice presidents: What fairly recent vice president once said, “If we don’t succeed, we run the risk of failure,” and famously misspelled potato on a school visit? ( Sign up for The TNR Blue Book to find the answer in tomorrow’s newsletter.)",
+          "sourceName": "The New Republic",
+          "url": "https://newrepublic.com/post/215551/democrats-snap-farm-bill-senate",
+          "publishedAt": "2026-09-17T18:12:35.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9257c0dac681282f07840c06005d5b553e5a7edc91a687b420902bad340473fb",
+          "title": "Republicans’ chances at holding on to Senate ‘looking good’: Sarah Bedford",
+          "description": "Washington Examiner investigations editor Sarah Bedford said Republicans may have a good chance at holding the Senate in November.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4731659/republicans-senate-chances-looking-good-sarah-bedford/",
+          "publishedAt": "2026-09-17T16:11:32.000Z",
           "sentiment": 0
         }
       ],
@@ -702,26 +701,16 @@
     {
       "id": "jordan-wood",
       "name": "Jordan Wood",
-      "overallSentiment": 0.3333333333333333,
-      "newsSentiment": 0,
+      "overallSentiment": 0.5,
+      "newsSentiment": null,
       "socialSentiment": 0,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 1,
         "youtube": 3,
-        "total": 5
+        "total": 4
       },
-      "news": [
-        {
-          "id": "1033b44c4748af9fc57ad41f4331dd6da8a84d6110c26652436e2d15dd4debe4",
-          "title": "The Glorious And Prodigious History Of Who's Number One",
-          "description": "How did Who's Number One begin, and what has happened since? We take a look back at the last 13 editions of high school wrestling's premier event!",
-          "sourceName": "Yahoo! News",
-          "url": "https://sports.yahoo.com/articles/glorious-prodigious-history-whos-number-233626432.html",
-          "publishedAt": "2026-09-16T23:36:26.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "8d4b75629cf1a6bd406539f7ddd3bd27a0ba9aad085224ff3c6359ff7df097af",
