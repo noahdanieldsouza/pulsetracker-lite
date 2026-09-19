@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T15:59:58.400Z",
+  "lastUpdated": "2026-09-19T16:25:08.363Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,48 +22,31 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.65,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": 0.65,
+      "socialSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 2,
+        "social": 0,
         "youtube": 0,
-        "total": 2
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "ec45cece7c5170bd3d1d21089432450fb3ccc3ee8f60edd788348b1d266cbc63",
-          "authorHandle": "theatlantic.com",
-          "postText": "“Trump is terrified over the midterms,” Maine Secretary of State Shenna Bellows tells Toluse Olorunnipa of the president’s mail-in ballot proposal. “He’s terrified he’s going to lose, and lose hugely. But he can’t change the election laws.” #TAF26",
-          "createdAt": "2026-09-18T15:52:20Z",
-          "uri": "at://did:plc:nyxviptfyic2lvuorkr5yy3y/app.bsky.feed.post/3mvsjlfdriu2d",
-          "sentiment": 0.5
-        },
-        {
-          "id": "86e6d0bbc66ca4605112d3ed5366b5791a4df8c78e6f40e5348e560a2b13deff",
-          "authorHandle": "joshuafaile.bsky.social",
-          "postText": "Hats off to Maine State Senator Craig Hickman (D) for spearheading this initiative and Secretary of State Shenna Bellows (@shennabellows.bsky.social) for seeing it to fruition!",
-          "createdAt": "2026-09-18T13:33:20.527Z",
-          "uri": "at://did:plc:7ohfo7gpajlhov6cjrua2qq6/app.bsky.feed.post/3mvsbstpkls2r",
-          "sentiment": 0.8
-        }
-      ],
+      "social": [],
       "youtube": [],
       "youtubeSentiment": null
     },
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3080246913580247,
+      "overallSentiment": 0.30539568345323737,
       "newsSentiment": 0.1,
-      "socialSentiment": 0.32407407407407407,
+      "socialSentiment": 0.3161870503597122,
       "mentions": {
         "news": 10,
-        "social": 135,
+        "social": 139,
         "youtube": 5,
-        "total": 150
+        "total": 154
       },
       "news": [
         {
@@ -158,6 +141,86 @@
         }
       ],
       "social": [
+        {
+          "id": "9ad490faeccd5b742957ed338c3d67f03886805456e0753f32f5d8f217f81aa6",
+          "authorHandle": "jcc19.bsky.social",
+          "postText": "Paul LePage is 77, Susan Collins is\n73. She doesn’t need or deserve another term.  Matt Dunlop is 61, and Troy Jackson is 58!\nDonald tRump is 80! Let’s get some\nnew younger blood in our elections.",
+          "createdAt": "2026-09-19T16:17:14.719Z",
+          "uri": "at://did:plc:bj5f4c4i2xmi4ifs4v6utbvf/app.bsky.feed.post/3mvv3gtrvss2r",
+          "sentiment": 0.6
+        },
+        {
+          "id": "a92737b1aa1bfceffca8c8a10d63d94c17507a950f0f2cbe68ed3eed2dbf4b51",
+          "authorHandle": "whitney-farm.bsky.social",
+          "postText": "\"The states that (Dems) are worried about are ... MI & ME.  ME because Susan Collins does sit on a throne of skulls of her enemies ... But Troy Jackson seems to be out there, talkin' in a Maine accent...\"  (Complimentary & hopeful from @sarahlongwell25.bsky.social )\n\nwww.youtube.com/watch?v=pQrX...",
+          "createdAt": "2026-09-19T15:17:19.635Z",
+          "uri": "at://did:plc:dbzfrvok5g2jwmgqsywv22z2/app.bsky.feed.post/3mvuy3papkc2f",
+          "sentiment": 0.7
+        },
+        {
+          "id": "b06abd7f0157b38b3a6c98e966a76009e2cd4384acb333da1bf4fa1f567ac7fa",
+          "authorHandle": "sharbell.bsky.social",
+          "postText": "americanjournalnews.com/fact-check-g...",
+          "createdAt": "2026-09-19T15:04:59.229Z",
+          "uri": "at://did:plc:ljtidkre7ohgrl3wju2ynkrf/app.bsky.feed.post/3mvuxfn57v223",
+          "sentiment": 0
+        },
+        {
+          "id": "3ffea8a156a6c2d329c00dc52de3ecb7572caebe116a63b70006af2b8bb1dc54",
+          "authorHandle": "capitolhillaccess.bsky.social",
+          "postText": "STRONGER MAINE spends $50,492 to SUPPORT Susan M. Collins (Sen ME Sen)(R)\n\n#MESen,\n\nand $50,492 to OPPOSE Troy Dale Jackson (Sen ME Sen)(D).\r\n\r\n2026 Cycle FEC Data:\n\nhttps://capitolhillaccess.com/tr/tr_ef_filer?&sFECID=C00922294&sCycle=2026\n\nFEC:...",
+          "createdAt": "2026-09-19T14:41:14.559Z",
+          "uri": "at://did:plc:26kznip2o7nk2ktooy7zsupv/app.bsky.feed.post/3mvuw37wuj52p",
+          "sentiment": -0.8
+        },
+        {
+          "id": "e92b32408e08aa96706c15215544144ca9f6b946089cad08ed907610024c4dec",
+          "authorHandle": "collinswatch.bsky.social",
+          "postText": "Oh wow. The chair of the Aroostook County Republican Committee -- not identified as such, of course -- thinks a column that contrasted the ownership class and working class roots of Susan Collins and Troy Jackson is unfair to Collins and her family. #MEpolitics",
+          "createdAt": "2026-09-19T14:40:08.828Z",
+          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3mvuvz7ru4c2f",
+          "sentiment": 0.4
+        },
+        {
+          "id": "333e683d21d560e58467bc4084f9f1d3c1cf8f80e1ba2d4ffb5f31b8f517dd7a",
+          "authorHandle": "the631resistance.bsky.social",
+          "postText": "Sounds good. Vote for Troy Jackson? 😬",
+          "createdAt": "2026-09-19T14:28:01.772Z",
+          "uri": "at://did:plc:hg6vy2775rkgk5aqqpde5bzh/app.bsky.feed.post/3mvuvdkftj22w",
+          "sentiment": -0.3
+        },
+        {
+          "id": "2c1f864f05f1949afbaf94b310a7af3dd230da9a85494976550b5466455adff9",
+          "authorHandle": "gaylekate.bsky.social",
+          "postText": "youtube.com/shorts/UV9xY...",
+          "createdAt": "2026-09-19T14:21:06.487Z",
+          "uri": "at://did:plc:gqebbn6jslhtcf3hi22f4u7j/app.bsky.feed.post/3mvuux6ecrk2n",
+          "sentiment": 0
+        },
+        {
+          "id": "61cb38d4b069ae6bab334f5900c0a4c0b463c632eb2caddd1df08af1fb65de3c",
+          "authorHandle": "edengk.bsky.social",
+          "postText": "CC RABID MISOGYNY AND FEMICIDE \n\nCC KKKARMA \n\nBLUE TSUNAMIS LOOM \n\nVOTE OR DIE",
+          "createdAt": "2026-09-19T14:12:07.030Z",
+          "uri": "at://did:plc:4xtbdet5keuguykxvcuil4z7/app.bsky.feed.post/3mvuuh3vj7c2l",
+          "sentiment": 0
+        },
+        {
+          "id": "5251f8c912d92bf0ced558211def8ba69df6aa52b809c971a12da587d4232c21",
+          "authorHandle": "politifact.bsky.social",
+          "postText": "An ad from a Democratic super political action committee about Maine’s U.S. Senate race tries to distinguish between Troy Jackson and Sen. Susan Collins on Medicaid cuts, but misleads.\n\npolitifact.com/factchecks/2...",
+          "createdAt": "2026-09-19T14:09:00.825Z",
+          "uri": "at://did:plc:hhteydoawq45y4nvmeipl7zy/app.bsky.feed.post/3mvuubkra7k27",
+          "sentiment": -0.4
+        },
+        {
+          "id": "d8d9d934ae79b2fa85ea1807a89a32caccbe4eb2e0aff2c15cb3b0811dd07b2a",
+          "authorHandle": "unicosmoism.org",
+          "postText": "For once in my town, I'm seeing slightly more blue signage (a lot of Troy Jackson) then I am of Susan Collins and LePage. \n\nDuring the presidential election, there were Trump/Vance signs EVERYWHERE (the people who leave them up for years as permanent decor), and now I'm seeing virtually zero.",
+          "createdAt": "2026-09-19T13:12:06.624Z",
+          "uri": "at://did:plc:q7v35kmxx4shmbn6lux4f6my/app.bsky.feed.post/3mvur3sbpss2p",
+          "sentiment": 0.5
+        },
         {
           "id": "52ed91484ec4ac66535b343c8d8b50d2caac74e97b6d46326c8a8e9adbeaca6e",
           "authorHandle": "fingertrapt.bsky.social",
@@ -1189,54 +1252,6 @@
           "createdAt": "2026-09-18T16:51:47.798Z",
           "uri": "at://did:plc:l6z6zp26hrxbhu3sxl5dgprc/app.bsky.feed.post/3mvsmvpejys2c",
           "sentiment": 0.7
-        },
-        {
-          "id": "9b332dbcc5a11dd6507a39a8afacbb86e7e19dbf03be3f6ea38ec9f993f073c0",
-          "authorHandle": "pressherald.com",
-          "postText": "Haunted by the gentle, royalty-free piano of Maine Senate ads  | Victoria Hugo-Vidal",
-          "createdAt": "2026-09-18T16:05:51+00:00",
-          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mvskdkilai2e",
-          "sentiment": 0
-        },
-        {
-          "id": "1314ea7afc4b626c24b3e4bdf5017c152cf526379d165e58cdb51745e0153a0a",
-          "authorHandle": "commondreams.org",
-          "postText": "\"It's time that Mainers had somebody that's going to fight for their reproductive rights every damn time.\"",
-          "createdAt": "2026-09-18T15:48:52.473063Z",
-          "uri": "at://did:plc:tiriierad73thyvjczaphg6v/app.bsky.feed.post/3mvsjfazl4t2u",
-          "sentiment": 0.7
-        },
-        {
-          "id": "37888f4da66ae9d1321258311aa32c99d36af8858f92cdbab9a11bbeeef5f319",
-          "authorHandle": "chejholloway.bsky.social",
-          "postText": "www.commondreams.org/news/susan-c...",
-          "createdAt": "2026-09-18T15:48:47.236Z",
-          "uri": "at://did:plc:7gnlogflii4kgsxztiijkyl6/app.bsky.feed.post/3mvsjezwuxs2j",
-          "sentiment": 0
-        },
-        {
-          "id": "8d820e5ddfebea6b5c8bafb68102b39408fe6943e0bc3466e3c102ae2a3d0124",
-          "authorHandle": "silvawolves.bsky.social",
-          "postText": "Ok but we’re going to need to know the kitty’s name please.🥺",
-          "createdAt": "2026-09-18T14:49:32.244Z",
-          "uri": "at://did:plc:6udzmxohn3fy2dm6jfbi276e/app.bsky.feed.post/3mvsg33nays22",
-          "sentiment": 0
-        },
-        {
-          "id": "7fadba1415afd0befe64bc315ca816c97df9d6b0f896212482c73ff6cffb3a01",
-          "authorHandle": "rood1girl.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-09-18T13:33:21.183Z",
-          "uri": "at://did:plc:c2ltrhqocybkqstoqjzk2mvw/app.bsky.feed.post/3mvsbsudgdk2l",
-          "sentiment": -0.1
-        },
-        {
-          "id": "a85d0b6c68db6f4254b513560b72268c3462948193a66d491b82d0bb481364a5",
-          "authorHandle": "sherryac.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-09-18T13:27:50.036Z",
-          "uri": "at://did:plc:en3psevt44i3e4wf6zufwpoy/app.bsky.feed.post/3mvsbiyjokc24",
-          "sentiment": -0.1
         }
       ],
       "youtube": [
