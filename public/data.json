@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T14:01:06.428Z",
+  "lastUpdated": "2026-09-21T17:49:00.183Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -39,42 +39,78 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2743412698412698,
-      "newsSentiment": 0.4666666666666666,
+      "overallSentiment": 0.13783333333333334,
+      "newsSentiment": 0.05714285714285713,
       "socialSentiment": 0.21350000000000002,
       "mentions": {
-        "news": 3,
+        "news": 7,
         "social": 100,
         "youtube": 14,
-        "total": 117
+        "total": 121
       },
       "news": [
         {
-          "id": "454427c7a249ba76657c00211e37bcbf788d0a7d62a11bc20eb83a020848c4c7",
-          "title": "I trust Troy Jackson to fight for working-class Mainers | Letter",
-          "description": "Recently I attended a political event for Troy Jackson in Portland. There were about 65 people there and Jackson was relaxed, approachable and friendly. He gave a reasonable speech, putting forth middle-of-the-road Democratic positions that the audience approved. Although he did not have the rousing delivery of Graham Platner, there was a hopeful, enthusiastic feeling [...]",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/09/19/i-trust-troy-jackson-to-fight-for-working-class-mainers-letter/",
-          "publishedAt": "2026-09-19T22:00:00.000Z",
-          "sentiment": 0.7
+          "id": "8b904b901c56948d76b83a32535d9d748405a4ff114b450de3be23475a60e537",
+          "title": "Letter: The ‘dirt’ on Troy Jackson is pretty thin",
+          "description": "\"Don’t let these out-of-state wealthy donors lie to you putting out their negative ads.\"",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/09/21/opinion/letters/letter-the-dirt-on-troy-jackson-is-pretty-thin/",
+          "publishedAt": "2026-09-21T05:00:00.000Z",
+          "sentiment": 0.6
         },
         {
-          "id": "e714d50466691749f6fa2768bb4ceb5af9ea7ee9607b9db8324671f83aceafd2",
-          "title": "I trust Troy Jackson to fight for working-class Mainers | Letter",
-          "description": "Recently I attended a political event for Troy Jackson in Portland. There were about 65 people there and Jackson was relaxed, approachable and friendly. He gave a reasonable speech, putting forth middle-of-the-road Democratic positions that the audience approved. Although he did not have the rousing delivery of Graham Platner, there was a hopeful, enthusiastic feeling [...]",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/09/19/i-trust-troy-jackson-to-fight-for-working-class-mainers-letter/",
-          "publishedAt": "2026-09-19T22:00:00.000Z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "1338c918a1f1f62aba92688c55695cf360e673074b53c331a87c74d1db907296",
-          "title": "Putin's AI Election War on America? Russia Accused of Fresh Midterm Meddling",
-          "description": "The campaign, linked to a Kremlin operation known as Operation Overload, involves fabricating news and videos, particularly targeting Democratic candidates",
-          "sourceName": "Times Now News",
-          "url": "https://www.timesnownews.com/world/us/us-news/russia-putin-us-midterm-election-meddling-warning-president-donald-trump-article-156189010",
-          "publishedAt": "2026-09-19T19:27:33.000Z",
+          "id": "07171b162592d5bef1c04216aed1e9354d8d6b07558648aa3b3e1807f9648181",
+          "title": "A new fire station doesn’t pay the rising bills of Maine’s firefighters",
+          "description": "\"While Collins takes credit for a check, many firefighters are sitting around their kitchen tables at home trying to figure out how to pay their bills.\"",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/09/21/opinion/opinion-contributor/a-new-fire-station-doesnt-pay-the-rising-bills-of-maines-firefighters/",
+          "publishedAt": "2026-09-21T05:00:00.000Z",
           "sentiment": 0
+        },
+        {
+          "id": "cd5bb397c1ba0e95bc9651318de776395114b5800bc625f54abfa2c0fd432b41",
+          "title": "Troy Jackson downplays ties to socialists after prior backing from Maine DSA and Hasan Piker",
+          "description": "Maine Senate hopeful Troy Jackson currently has a 1.8 percentage-point edge over incumbent Sen. Susan Collin (R-Maine), according to the latest RealClearPolitics polling aggregate.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/troy-jackson-downplays-ties-to-socialists-after-prior-87956419",
+          "publishedAt": "2026-09-21T04:06:50.000Z",
+          "sentiment": -0.4
+        },
+        {
+          "id": "c45d35959e1bd4fef38f8420d8fffe5e66e020c3d3916cc4fa3c2e931df795ec",
+          "title": "Matryoshka dolls and midterm panic - Blogs",
+          "description": "Democrats on that alleged Times list did not get a Russian crisis; they got a headline.",
+          "sourceName": "Americanthinker",
+          "url": "https://www.americanthinker.com/blog/2026/09/matryoshka-dolls-and-midterm-panic/",
+          "publishedAt": "2026-09-21T04:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "22803ba384b959d03a5dd3f5c91a245802540e67b192479165e16495cbd3e528",
+          "title": "Troy Jackson downplays ties to socialists after prior backing from Maine DSA and Hasan Piker",
+          "description": "Maine Senate hopeful Troy Jackson currently has a 1.8 percentage-point edge over incumbent Sen. Susan Collin (R-Maine), according to the latest RealClearPolitics polling aggregate.",
+          "sourceName": "New York Post",
+          "url": "https://nypost.com/2026/09/20/us-news/troy-jackson-downplays-ties-to-socialists-after-prior-backing-from-maine-dsa-and-hasan-piker/",
+          "publishedAt": "2026-09-21T03:41:58.000Z",
+          "sentiment": -0.4
+        },
+        {
+          "id": "1f836e98bf56b862a4c4b4cca4b786aa18149c9cc4ad9069501789d4dd54b738",
+          "title": "Trump to meet with Mamdani for the first time on mayor’s home turf",
+          "description": "New York City Mayor Zohran Mamdani will meet with President Donald Trump on Monday at Gracie Mansion, the mayoral residence in Manhattan. A spokesperson for Mamdani said the meeting would “focus on issues affecting New York City and New Yorkers.”",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/trump-to-meet-with-mamdani-for-the-first-time-on-mayor-s-87954816",
+          "publishedAt": "2026-09-21T02:36:12.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8654dc71d6e476016d3456eb805833dcb6770df5fad83d1596a8bbe30272cf4d",
+          "title": "Letter: The ‘dirt’ on Troy Jackson is pretty thin",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4898370214363-letter-the-dirt-on-troy-jackson-is-pretty-thin",
+          "publishedAt": "2026-09-21T00:00:00.000Z",
+          "sentiment": 0.6
         }
       ],
       "social": [
