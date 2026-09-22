@@ -1,21 +1,30 @@
 {
-  "lastUpdated": "2026-09-22T06:18:10.072Z",
+  "lastUpdated": "2026-09-22T11:49:31.364Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
+      "overallSentiment": 0,
       "newsSentiment": null,
-      "socialSentiment": null,
+      "socialSentiment": 0,
       "mentions": {
         "news": 0,
-        "social": 0,
+        "social": 1,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
       "news": [],
-      "social": [],
+      "social": [
+        {
+          "id": "1644ac55321cc9ea6dce4ce76dae24e23670ebbfb7e8f994123042a5ddd14e9f",
+          "authorHandle": "pressherald.com",
+          "postText": "Nirav Shah joins Troy Jackson at Scarborough campaign event",
+          "createdAt": "2026-09-22T10:05:22+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mw3y2ntdxz2j",
+          "sentiment": 0
+        }
+      ],
       "youtube": [],
       "youtubeSentiment": null
     },
@@ -39,14 +48,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2409055425448868,
+      "overallSentiment": 0.2392857142857143,
       "newsSentiment": 0.05714285714285713,
-      "socialSentiment": 0.31557377049180335,
+      "socialSentiment": 0.3107142857142858,
       "mentions": {
         "news": 7,
-        "social": 61,
+        "social": 70,
         "youtube": 20,
-        "total": 88
+        "total": 97
       },
       "news": [
         {
@@ -114,6 +123,126 @@
         }
       ],
       "social": [
+        {
+          "id": "4ff9ced128947d4d8f83a0b9270ef81a3ce9e074afc60b098dbd29899096f160",
+          "authorHandle": "nickgrimes.bsky.social",
+          "postText": "Come on Maine.\n\nYou forced out one tainted POS already this year, you can do it again.\n\nDo the right thing and vote for Troy Jackson!",
+          "createdAt": "2026-09-22T11:43:41.813Z",
+          "uri": "at://did:plc:znrvpilw7pmypxzmfc4jtyxe/app.bsky.feed.post/3mw45khmhx22h",
+          "sentiment": -1
+        },
+        {
+          "id": "92b24f271bc44109ca928309ecfb449e5725a414f842c5ab644d06c055da0138",
+          "authorHandle": "ironprophet.bsky.social",
+          "postText": "Troy Jackson better fucking *pounce* on this shit.",
+          "createdAt": "2026-09-22T11:33:07.184Z",
+          "uri": "at://did:plc:7fio57gm7pyy4znin543aqrz/app.bsky.feed.post/3mw44xkeog22i",
+          "sentiment": 1
+        },
+        {
+          "id": "c7ddf214c55b448c6b6a8e2a1931b1b8cb7c67e6c75362d43fb551098bf6b4b1",
+          "authorHandle": "jeannieme207.bsky.social",
+          "postText": "Hope the DNC runs ads about this to help Troy Jackson",
+          "createdAt": "2026-09-22T11:32:24.386Z",
+          "uri": "at://did:plc:wyhfj2vr2qbtfsaxxn6vfeqn/app.bsky.feed.post/3mw44wbkqes2k",
+          "sentiment": 1
+        },
+        {
+          "id": "765eb7a2f5677bb69255502ff636900f9c54c36c920625592a3746cef5f06891",
+          "authorHandle": "newellbaldelli.bsky.social",
+          "postText": "Susan Collins is a very bad girl, Maine.\n\nVote Troy Jackson.",
+          "createdAt": "2026-09-22T11:18:51.462Z",
+          "uri": "at://did:plc:w3efd2wu5fnen762vullkki5/app.bsky.feed.post/3mw4462c3gc27",
+          "sentiment": 1
+        },
+        {
+          "id": "aa53129574ec4982dfd5691a696f7e245e7465d8b24bd2cf3e6aac29b8530e10",
+          "authorHandle": "newellbaldelli.bsky.social",
+          "postText": "Susan Collins: Dirty, corrupt pedo-protector\n\nTroy Jackson is the only choice for Maine.",
+          "createdAt": "2026-09-22T11:14:10.226Z",
+          "uri": "at://did:plc:w3efd2wu5fnen762vullkki5/app.bsky.feed.post/3mw43vo3lrk27",
+          "sentiment": 1
+        },
+        {
+          "id": "bbdf6e8f306ea9489962fcd16eef9fd9aa5515ea999ad54cb00d3a46660016a4",
+          "authorHandle": "bartsmith.bsky.social",
+          "postText": "I did not remember who Troy Jackson was, which is exactly the response I should have when I see the name of the senator from Maine",
+          "createdAt": "2026-09-22T11:01:32.651Z",
+          "uri": "at://did:plc:i4yqih65sftboupjwcnegqea/app.bsky.feed.post/3mw4373m3kk2t",
+          "sentiment": -1
+        },
+        {
+          "id": "0be98321083ef01d87484b9d3aaffc03e3c23eea723d4041087bdbd74bd766cd",
+          "authorHandle": "portlandphysics.bsky.social",
+          "postText": "shocked, just shocked!and so concerned🙄 VOTE Troy Jackson.",
+          "createdAt": "2026-09-22T11:00:22.538Z",
+          "uri": "at://did:plc:mpoh36fviliyftqekbwo2nz7/app.bsky.feed.post/3mw434yqhrs2r",
+          "sentiment": 1
+        },
+        {
+          "id": "a9d610ceb27b292995c3e9642655d087225eb12942db20e944b83e9498d2972b",
+          "authorHandle": "pressherald.com",
+          "postText": "Nirav Shah joins Troy Jackson at Scarborough campaign event",
+          "createdAt": "2026-09-22T10:05:22+00:00",
+          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mw3y2ntdxz2j",
+          "sentiment": 0
+        },
+        {
+          "id": "d8cb540e0520fe1edef46a2ac5dc617f24a7d694959c1b46e8fcf4b166d6dbf4",
+          "authorHandle": "portlandbriefly.bsky.social",
+          "postText": "A packed Lisbon Falls meet-and-greet for Troy Jackson featured “PEOPLE OVER PARTY,” policy pledges, and strong applause for banning ICE and supporting an arms embargo on Israel.\n",
+          "createdAt": "2026-09-22T09:32:32.813Z",
+          "uri": "at://did:plc:cimtnpntuzrl5eknqgwqtks5/app.bsky.feed.post/3mw3w7x7gda2y",
+          "sentiment": 0
+        },
+        {
+          "id": "67b2ce675c2ae63c9b1831dd2ca2045d3de220e8141ddeb5c1d9c32ce507e614",
+          "authorHandle": "uspoliticsbriefly.bsky.social",
+          "postText": "A packed Lisbon Falls meet-and-greet for Troy Jackson featured “PEOPLE OVER PARTY,” policy pledges, and strong applause for banning ICE and supporting an arms embargo on Israel.\n",
+          "createdAt": "2026-09-22T09:32:12.998Z",
+          "uri": "at://did:plc:ihl667oyujekuvexdhtgwvc5/app.bsky.feed.post/3mw3w7ed4hh2q",
+          "sentiment": 0
+        },
+        {
+          "id": "7dc6a516889b51726d37771e84636de4d989ecf44cd0dcab39267776b5609d95",
+          "authorHandle": "leftwingbriefly.bsky.social",
+          "postText": "A packed Lisbon Falls meet-and-greet for Troy Jackson featured “PEOPLE OVER PARTY,” policy pledges, and strong applause for banning ICE and supporting an arms embargo on Israel.\n",
+          "createdAt": "2026-09-22T09:31:05.941Z",
+          "uri": "at://did:plc:l5iff6hthjnlc3eh5oizvnn4/app.bsky.feed.post/3mw3w5eean627",
+          "sentiment": 0
+        },
+        {
+          "id": "cd0698a74d3ad87b778acd3644cd0e00b80014fc5ec956dd1c967c96c50eed1a",
+          "authorHandle": "thechrispaduan.bsky.social",
+          "postText": "Troy Jackson is going to have fun with this. Wow.",
+          "createdAt": "2026-09-22T09:18:30.074Z",
+          "uri": "at://did:plc:o2ewdtc7ad22a7votkk4jiyb/app.bsky.feed.post/3mw3vgtgtok2x",
+          "sentiment": 1
+        },
+        {
+          "id": "4e84eb6185e47838ed92d3826188392d540217c3c3ed89a734df224e2abac2b1",
+          "authorHandle": "intelligencer.com",
+          "postText": "Troy Jackson emerged from nowhere to succeed Graham Platner in Maine’s Senate race. Now the Democratic Party is taking control.",
+          "createdAt": "2026-09-22T09:10:47.334Z",
+          "uri": "at://did:plc:ely5enkasxbpib2iccxlskgw/app.bsky.feed.post/3mw3uz26dob2d",
+          "sentiment": 0
+        },
+        {
+          "id": "e866f5a660cb512a90bb7574cada93eae608bec6e66dbd5aada6bb24876dca2b",
+          "authorHandle": "nymag.com",
+          "postText": "Troy Jackson emerged from nowhere to succeed Graham Platner in Maine’s Senate race. Now the Democratic Party is taking control.",
+          "createdAt": "2026-09-22T09:10:06.977Z",
+          "uri": "at://did:plc:wwbpna4jtw66gj6c3pksbiad/app.bsky.feed.post/3mw3uxtobyy2k",
+          "sentiment": 0
+        },
+        {
+          "id": "63317dabea049cc5a268f20b7ce326fa33c8cff5458ab5150a5a0b4c6e244847",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "Kathy Castor, FL-14 - Must-Hold House Race\nDon Davis, NC-01 - Must-Hold House Race\nMarcy Kaptur, OH-09 - Must-Hold House Race\nTroy Jackson, ME-SEN - Must-Flip Senate Race",
+          "createdAt": "2026-09-22T08:18:13.704Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mw3s32lxes24",
+          "sentiment": 0
+        },
         {
           "id": "b0795728e5dcab34053708e8d88a41f4c38989515aad6ccbff32ab671d8f7f49",
           "authorHandle": "officiallilsilver.bsky.social",
@@ -451,14 +580,6 @@
           "sentiment": 0
         },
         {
-          "id": "5f4e45f54b60a6e783c816a9a541f4a0b1324ee21d1b0b6439d7788b3ed6c934",
-          "authorHandle": "theelectionnewspaper.com",
-          "postText": "Today in U.S. elections: Democrats are gaining ground in the Senate map, a new poll puts Jackson ahead of Collins in Maine, and the Detroit News backs Rogers in Michigan. The day's five most-reported stories, each linked to its source:\ntheelectionnewspaper.com/briefing/202...",
-          "createdAt": "2026-09-21T16:04:36.646Z",
-          "uri": "at://did:plc:mxyui2b3yvrsjsq4ojvjc7wk/app.bsky.feed.post/3mw23o3qy2k2w",
-          "sentiment": 1
-        },
-        {
           "id": "e4414cb1aaeb5ddcde27b797ce3f74fc80504c98d5121d9c1d62fa954191ed53",
           "authorHandle": "nuthatchme.bsky.social",
           "postText": "It seems to me this \"fact check\" gives short shrift to Jackson's role/position while excusing Collins'.  Politifact must know about Collins' propensity for only voting against Trump when it's safe to do so; everyone else - except the #Maine media - does. #MEpolitics",
@@ -561,46 +682,6 @@
           "createdAt": "2026-09-21T12:09:05.510Z",
           "uri": "at://did:plc:6aycbrtxoyo2mp7lr5hu77ap/app.bsky.feed.post/3mvzoixaroc2s",
           "sentiment": 0
-        },
-        {
-          "id": "ee55f432217132a4b93c81afa9abbf44ddcab94bbcfcd29c661ddb83edd62409",
-          "authorHandle": "a-paul-ed.bsky.social",
-          "postText": "Can Democrat Troy Jackson Oust Republican Senator Susan Collins in Maine?\nopen.substack.com/pub/zeteo/p/...",
-          "createdAt": "2026-09-21T11:26:15.418Z",
-          "uri": "at://did:plc:chvvpet7pgmlgcl2nehx2qvu/app.bsky.feed.post/3mvzm4e7t6k2q",
-          "sentiment": 0
-        },
-        {
-          "id": "2bb6b4ccdefa6bb499061b5b5bc758d88babb5274e623bc21a667c1ac9cf45e1",
-          "authorHandle": "pressherald.com",
-          "postText": "Maine’s Senate race: Where Susan Collins and Troy Jackson stand on immigration policy",
-          "createdAt": "2026-09-21T11:01:08+00:00",
-          "uri": "at://did:plc:d5o3s6f5eynrmd2r74voih2t/app.bsky.feed.post/3mvzkphmep72e",
-          "sentiment": 0
-        },
-        {
-          "id": "1f3a16486abbc2b09274433dc3ac438ea518ba08181edcbd07fa33ba41f005db",
-          "authorHandle": "mrspiehole.bsky.social",
-          "postText": "You can mail a check. If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to:\nP.O. Box 3003\nPortland, ME 04104",
-          "createdAt": "2026-09-21T10:40:20.898Z",
-          "uri": "at://did:plc:5lkb5tglgaucdodg2qrp4j6t/app.bsky.feed.post/3mvzjkbckak2w",
-          "sentiment": 0
-        },
-        {
-          "id": "3c1de855fb8f1a5dab1786359ba69323ef64479b1c2d57c7605394bcc8b55c61",
-          "authorHandle": "mainstream-media.bsky.social",
-          "postText": "Troy Jackson, a Progressive Brawler, Tries to Flip a Senate Seat in Maine\n\nhttps://www.nytimes.com/2026/09/20/u...",
-          "createdAt": "2026-09-21T10:10:42.593299+00:00",
-          "uri": "at://did:plc:fjuk4kzqyvbk4dg5r3c7cums/app.bsky.feed.post/3mvzhvbhsyg2m",
-          "sentiment": 0.6
-        },
-        {
-          "id": "8dc039e3c015e261fbed4057af3d0ebce0225d9d4fd814d1f3a7ab424548f7ee",
-          "authorHandle": "hope42025.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-09-21T06:21:11.247Z",
-          "uri": "at://did:plc:5iabq3iuyq24fc6tdzwj6xot/app.bsky.feed.post/3mvz32tyu6s2q",
-          "sentiment": -0.1
         }
       ],
       "youtube": [
