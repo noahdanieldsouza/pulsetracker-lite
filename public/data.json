@@ -1,20 +1,39 @@
 {
-  "lastUpdated": "2026-09-22T15:45:48.756Z",
+  "lastUpdated": "2026-09-22T16:12:34.415Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0,
-      "newsSentiment": null,
+      "overallSentiment": 0.075,
+      "newsSentiment": 0.15,
       "socialSentiment": 0,
       "mentions": {
-        "news": 0,
+        "news": 2,
         "social": 1,
         "youtube": 0,
-        "total": 1
+        "total": 3
       },
-      "news": [],
+      "news": [
+        {
+          "id": "92c9e77178d78905702512c6e45f16b870972db009f08aa40cdada39b51115b5",
+          "title": "Nirav Shah joins Troy Jackson at Scarborough campaign event",
+          "description": "Shah and Jackson sat down to discuss healthcare and how Jackson, the Democratic U.S. Senate candidate, would achieve his agenda in Washington, D.C.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/09/21/nirav-shah-joins-troy-jackson-at-scarborough-campaign-event/",
+          "publishedAt": "2026-09-22T02:43:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "456153942f08b4f358cd94710e13623f2891fc962434e4b0d439556344fbbbc2",
+          "title": "Dr. Nirav Shah joins Troy Jackson campaign event advocating for universal healthcare",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news-center-maine-524552/4900390269618-dr-nirav-shah-joins-troy-jackson-campaign-event-advocating-for-universal-healthcare",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "sentiment": 0.3
+        }
+      ],
       "social": [
         {
           "id": "1644ac55321cc9ea6dce4ce76dae24e23670ebbfb7e8f994123042a5ddd14e9f",
@@ -31,16 +50,26 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.8,
-      "newsSentiment": null,
+      "overallSentiment": -0.09999999999999998,
+      "newsSentiment": -1,
       "socialSentiment": 0.8,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 1,
         "youtube": 0,
-        "total": 1
+        "total": 2
       },
-      "news": [],
+      "news": [
+        {
+          "id": "51a789db8b6040fd19caf6c4e9526ee9dbb78bf5124803383344c82f942272f8",
+          "title": "Nirav Shah joins Troy Jackson at Scarborough campaign event",
+          "description": "Shah and Jackson sat down to discuss healthcare and how Jackson, the Democratic U.S. Senate candidate, would achieve his agenda in Washington, D.C.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/09/21/nirav-shah-joins-troy-jackson-at-scarborough-campaign-event/",
+          "publishedAt": "2026-09-22T02:43:28.000Z",
+          "sentiment": -1
+        }
+      ],
       "social": [
         {
           "id": "1979a63665f351caa136bea57a836d41f8b8a03f99c415b5647b36ab8b9a27f7",
@@ -57,78 +86,204 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.2548199767711962,
-      "newsSentiment": 0.05714285714285713,
+      "overallSentiment": 0.29450251645373593,
+      "newsSentiment": 0.17619047619047615,
       "socialSentiment": 0.35731707317073164,
       "mentions": {
-        "news": 7,
+        "news": 21,
         "social": 123,
         "youtube": 20,
-        "total": 150
+        "total": 164
       },
       "news": [
         {
-          "id": "8b904b901c56948d76b83a32535d9d748405a4ff114b450de3be23475a60e537",
-          "title": "Letter: The ‘dirt’ on Troy Jackson is pretty thin",
-          "description": "\"Don’t let these out-of-state wealthy donors lie to you putting out their negative ads.\"",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/21/opinion/letters/letter-the-dirt-on-troy-jackson-is-pretty-thin/",
-          "publishedAt": "2026-09-21T05:00:00.000Z",
-          "sentiment": 0.6
+          "id": "f64d815f6e14ac356b2d8d1d7cc6cf34d95ecc55d339ea121f5b9e549b1f31fd",
+          "title": "Troy Jackson campaigns for Medicare for All, lower prescription drug prices",
+          "description": "Jackson holds town hall-style event with former rival to underscore differences with Sen. Susan Collins",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/politics/troy-jackson-campaigns-for-medicare-for-all-lower-prescription-drug-prices/97-39a4d77f-96e3-474d-ac23-2ed917d61cfa",
+          "publishedAt": "2026-09-22T04:06:11.000Z",
+          "sentiment": 0.7
         },
         {
-          "id": "07171b162592d5bef1c04216aed1e9354d8d6b07558648aa3b3e1807f9648181",
-          "title": "A new fire station doesn’t pay the rising bills of Maine’s firefighters",
-          "description": "\"While Collins takes credit for a check, many firefighters are sitting around their kitchen tables at home trying to figure out how to pay their bills.\"",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/21/opinion/opinion-contributor/a-new-fire-station-doesnt-pay-the-rising-bills-of-maines-firefighters/",
-          "publishedAt": "2026-09-21T05:00:00.000Z",
-          "sentiment": 0
+          "id": "c71f735bc67b2ecb87e3fe35a604a104cdbad323d100e4530e7aabec30622ffb",
+          "title": "Nirav Shah joins Troy Jackson at Scarborough campaign event",
+          "description": "Shah and Jackson sat down to discuss healthcare and how Jackson, the Democratic U.S. Senate candidate, would achieve his agenda in Washington, D.C.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/09/21/nirav-shah-joins-troy-jackson-at-scarborough-campaign-event/",
+          "publishedAt": "2026-09-22T02:43:28.000Z",
+          "sentiment": 0.7
         },
         {
-          "id": "cd5bb397c1ba0e95bc9651318de776395114b5800bc625f54abfa2c0fd432b41",
-          "title": "Troy Jackson downplays ties to socialists after prior backing from Maine DSA and Hasan Piker",
-          "description": "Maine Senate hopeful Troy Jackson currently has a 1.8 percentage-point edge over incumbent Sen. Susan Collin (R-Maine), according to the latest RealClearPolitics polling aggregate.",
+          "id": "857cdfa2d162a103b0e1d39d6117d72e4d2817b04787b9b5897e66333e9a6a19",
+          "title": "Mamdani doubles down on criticism of Netanyahu, calls him a ‘war criminal’",
+          "description": "New York City Mayor Zohran Mamdani doubled down on his criticism of Israeli Prime Minister Benjamin Netanyahu, calling him a war criminal while acknowledging he does not have the power to arrest him as he previously threatened to do during the mayoral campaign.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/troy-jackson-downplays-ties-to-socialists-after-prior-87956419",
-          "publishedAt": "2026-09-21T04:06:50.000Z",
-          "sentiment": -0.4
-        },
-        {
-          "id": "c45d35959e1bd4fef38f8420d8fffe5e66e020c3d3916cc4fa3c2e931df795ec",
-          "title": "Matryoshka dolls and midterm panic - Blogs",
-          "description": "Democrats on that alleged Times list did not get a Russian crisis; they got a headline.",
-          "sourceName": "Americanthinker",
-          "url": "https://www.americanthinker.com/blog/2026/09/matryoshka-dolls-and-midterm-panic/",
-          "publishedAt": "2026-09-21T04:00:00.000Z",
+          "url": "https://us.headtopics.com/news/mamdani-doubles-down-on-criticism-of-netanyahu-calls-him-a-87992741",
+          "publishedAt": "2026-09-22T02:37:06.000Z",
           "sentiment": 0
         },
         {
-          "id": "22803ba384b959d03a5dd3f5c91a245802540e67b192479165e16495cbd3e528",
-          "title": "Troy Jackson downplays ties to socialists after prior backing from Maine DSA and Hasan Piker",
-          "description": "Maine Senate hopeful Troy Jackson currently has a 1.8 percentage-point edge over incumbent Sen. Susan Collin (R-Maine), according to the latest RealClearPolitics polling aggregate.",
-          "sourceName": "New York Post",
-          "url": "https://nypost.com/2026/09/20/us-news/troy-jackson-downplays-ties-to-socialists-after-prior-backing-from-maine-dsa-and-hasan-piker/",
-          "publishedAt": "2026-09-21T03:41:58.000Z",
-          "sentiment": -0.4
-        },
-        {
-          "id": "1f836e98bf56b862a4c4b4cca4b786aa18149c9cc4ad9069501789d4dd54b738",
-          "title": "Trump to meet with Mamdani for the first time on mayor’s home turf",
-          "description": "New York City Mayor Zohran Mamdani will meet with President Donald Trump on Monday at Gracie Mansion, the mayoral residence in Manhattan. A spokesperson for Mamdani said the meeting would “focus on issues affecting New York City and New Yorkers.”",
+          "id": "72dfcb660b4c9b943f98e45e9d904369d56225bfd354abb8653e8485e58b1fc5",
+          "title": "‘I believe in a free press’: Mamdani weighs in on Trump’s media ban",
+          "description": "New York City Mayor Zohran Mamdani says he believes “in a free press” and that he ensured there would be no restrictions on the media during Monday’s meeting with President Donald Trump.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/trump-to-meet-with-mamdani-for-the-first-time-on-mayor-s-87954816",
-          "publishedAt": "2026-09-21T02:36:12.000Z",
+          "url": "https://us.headtopics.com/news/i-believe-in-a-free-press-mamdani-weighs-in-on-trump-s-87992259",
+          "publishedAt": "2026-09-22T02:06:52.000Z",
           "sentiment": 0
         },
         {
-          "id": "8654dc71d6e476016d3456eb805833dcb6770df5fad83d1596a8bbe30272cf4d",
-          "title": "Letter: The ‘dirt’ on Troy Jackson is pretty thin",
+          "id": "1ff87015858469d49fe3deabefbf2f056ad11fed0a7bbf3c4852319a6431ecd9",
+          "title": "El-Sayed on working with Trump: ‘I absolutely will’ sit down with him",
+          "description": "“This race has never been about me or my feelings.” Abdul El-Sayed, the Democratic nominee for U.S Senate in Michigan, brushed off President Trump’s past racial and religious attacks, telling OutFront he would still sit down with the president.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/el-sayed-on-working-with-trump-i-absolutely-will-sit-87992256",
+          "publishedAt": "2026-09-22T02:06:52.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "87305783986535484d85f81361dcca2212321123b9655cc262f158182d79401c",
+          "title": "What is the TV pool and why is it under threat",
+          "description": "Four major television networks are standing with CNN by declining to replace its White House pool crew after the Trump administration barred the network from fulfilling its assigned duties on Monday. CNN’s Alayna Treene explains how the tv pool works and what this could mean moving forward.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/what-is-the-tv-pool-and-why-is-it-under-threat-87991171",
+          "publishedAt": "2026-09-22T01:06:23.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3cb26e8cf4326a4a8cc8884cdd3df8cd0656dafcd6bea3246708a18699a96fbf",
+          "title": "Dr. Nirav Shah joins Troy Jackson campaign event advocating for universal healthcare",
           "description": null,
           "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4898370214363-letter-the-dirt-on-troy-jackson-is-pretty-thin",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "sentiment": 0.6
+          "url": "https://www.newsbreak.com/news-center-maine-524552/4900390269618-dr-nirav-shah-joins-troy-jackson-campaign-event-advocating-for-universal-healthcare",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "sentiment": 0.7
+        },
+        {
+          "id": "e91d90f5f497daef2c2bfcecb98e727014ba00d18ecd2195fd987fbbae0a20d3",
+          "title": "Letter: Troy Jackson understands working Mainers",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4900459589969-letter-troy-jackson-understands-working-mainers",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "sentiment": 0.8
+        },
+        {
+          "id": "11afa0bc025332ac54b9448892bd902a6bbf1a9211add5b3b853e525badc618e",
+          "title": "Susan Collins Warns Trump on NIH Grant Plan as Polls Show Tight Maine Race",
+          "description": "The Republican senator is pushing back on a reported Trump administration effort to increase political oversight of NIH grants.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/susan-collins-trump-nih-power-grab-maine-race-polls-12470189",
+          "publishedAt": "2026-09-21T23:07:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8006b9f39b8b8df320346007c6af1ee900b693cb902dd0cb48108004c75ddf23",
+          "title": "Troy Jackson called Donald Trump a ‘child rapist’ online. Then he cursed at a critic.",
+          "description": "The exchanges show the former Maine Senate president and logger from Allagash still mixing it up online even as he runs one of the biggest Senate campaigns in the country.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/09/21/politics/elections/troy-jackson-called-donald-trump-a-child-rapist-online/",
+          "publishedAt": "2026-09-21T22:04:40.000Z",
+          "sentiment": -0.8
+        },
+        {
+          "id": "3f4e5796dd260eca87d72042f25faca194460d3728728464134c0fe56d873fcc",
+          "title": "In the Next 43 Days, Nobody Should Underestimate Trump and the GOP",
+          "description": null,
+          "sourceName": "The New York Sun",
+          "url": "https://www.nysun.com/article/in-the-next-43-days-nobody-should-underestimate-trump-and-the-gop",
+          "publishedAt": "2026-09-21T21:18:10.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5e6085ba8777d3702fce256e422ade3a7ed1511ea1c3f557105b31221d0aa78b",
+          "title": "These two New England races are 'toss ups.' They could decide who controls Congress",
+          "description": "Race forecasters have changed two New England races to “toss-up” as the high-stakes midterm elections creep closer.",
+          "sourceName": "Portsmouth Herald",
+          "url": "https://www.seacoastonline.com/story/news/politics/2026/09/21/these-2-new-england-races-could-decide-who-controls-the-senate/91822981007/",
+          "publishedAt": "2026-09-21T21:01:12.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "62a5a3952b38d3f661bf977898b83abb5b68fd01b4f16525edb7fa624b30bb0a",
+          "title": "Troy Jackson, not Susan Collins, makes Mainers proud | Letter",
+          "description": "Recently, I had the misfortune of finding an unsolicited flyer attached to my front door promoting the behind-in-the-polls reelection campaign of Sen. Susan Collins. I’m no litterbug, so I read it and was struck by its vague claim that Collins is “a leader we can be proud of.” I think it’s revealing that the flyer [...]",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/09/21/troy-jackson-not-susan-collins-makes-mainers-proud-letter/",
+          "publishedAt": "2026-09-21T21:00:00.000Z",
+          "sentiment": 0.8
+        },
+        {
+          "id": "8bd6fcb88e635b13f762ed17859b2f95134ccb4f61b31f94e44eeb011664fd4f",
+          "title": "Troy Jackson, not Susan Collins, makes Mainers proud | Letter",
+          "description": "Recently, I had the misfortune of finding an unsolicited flyer attached to my front door promoting the behind-in-the-polls reelection campaign of Sen. Susan Collins. I’m no litterbug, so I read it and was struck by its vague claim that Collins is “a leader we can be proud of.” I think it’s revealing that the flyer [...]",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/09/21/troy-jackson-not-susan-collins-makes-mainers-proud-letter/",
+          "publishedAt": "2026-09-21T21:00:00.000Z",
+          "sentiment": 0.8
+        },
+        {
+          "id": "61bb8d8868ab4ea8537ebe8fb63d3cb0a033b79d531e0cf9c60ed82d86363a42",
+          "title": "Di Leo: Why 2026 Might Break the Midterm Curse",
+          "description": "The conventional wisdom says that the party that holds the White House always loses seats in the midterms. Since the GOP has such terribly slim margins, this makes it a virtual guarantee that the Democrats will win both houses of Congress this year, doesn’t it? Well, no, it doesn’t. To begin with, it really doesn’t “always” happen that way. There have been several occasions in the past century in which the party in the White House has gained seats in the midterms; who’s to say this won’t follow those examples instead? For example, just to look at the midterms of...",
+          "sourceName": "Freerepublic",
+          "url": "https://freerepublic.com/focus/f-bloggers/4396369/posts",
+          "publishedAt": "2026-09-21T20:09:57.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a2d2a0387d66dd9c04c8d1f19f9dc8ef9c2c07be9ae638a674be6456b3618bfe",
+          "title": "Jared Golden Joins Growing List of Democrats Endorsing Republicans",
+          "description": "A Democrat may have just secured a midterm win for Republicans with one unexpected endorsement. House Democrat Jared Golden of Maine endorsed House Republican Mike Lawler of New York for reelection in an op-ed published in a newspaper in Lawler’s district Monday morning. Golden published a glowing review of Lawler and their history of working...",
+          "sourceName": "The Daily Signal",
+          "url": "https://www.dailysignal.com/2026/09/21/golden-joins-democrats-endorsing-republicans/",
+          "publishedAt": "2026-09-21T20:05:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fbc1ba88238cd681b9559c307bfdbc189a7be70520020564480a07f90f6b026d",
+          "title": "Can Democrats flip the Senate? Here's the latest in key races",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/can-democrats-flip-the-senate-heres-the-latest-in-key-races-8CA19578-8A2D-4750-9882-47F02CDB9562",
+          "publishedAt": "2026-09-21T19:29:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "cbe3e68317b76739f878697e7ed50bd8fe9aa8eb7441fa63d99c860f444c2eb2",
+          "title": "Can Democrats flip the Senate? Here's the latest in key races",
+          "description": "Democrats need to gain at least four seats, and not lose any, to retake control of the Senate. Here are five races to watch in the final weeks before Nov. 3.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/can-democrats-flip-the-senate-here-s-the-latest-in-key-87984419",
+          "publishedAt": "2026-09-21T19:09:05.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8c8ecc0caf924bfc72db98d81fd63f6642c5648704a016ed7c268cb8c10f0c22",
+          "title": "Can Democrats flip the Senate? Here's the latest in key races",
+          "description": "Democrats need to gain at least four seats, and not lose any, to retake control of the Senate. Here are five races to watch in the final weeks before Nov. 3.",
+          "sourceName": "Los Angeles Times",
+          "url": "https://www.latimes.com/politics/story/2026-09-21/can-democrats-flip-senate-heres-latest-in-key-races",
+          "publishedAt": "2026-09-21T18:14:54.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8c8b87cca56d06e12c701b8d5420f72e59b756994e478d13f0bf9f349714e8a0",
+          "title": "Prediction Markets Movers - Week 1",
+          "description": "Week 1 [EXPERT skin=\"red\"] authorId=942 name=Tanner Lux subtitle=Prediction Markets Expert Which prediction markets saw the biggest moves in the last week? In the first of our new weekly recaps, professional trader and organizer of Voliti...",
+          "sourceName": "Pokernews",
+          "url": "https://www.pokernews.com/prediction-markets/news/2026/09/prediction-markets-movers-a-senate-setback-a-bitcoin-rebound-52437.htm",
+          "publishedAt": "2026-09-21T16:59:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0e03ad9dcda057cdf047917ef3475e99725e1da13bb1b8d437f035f1bfef6f9a",
+          "title": "The 2026 midterms are 6 weeks away. What the latest polls say.",
+          "description": "The 2026 midterm elections are just 43 days away. All of the key primaries have been decided . With summer officially behind us, the fall campaign is now underway. So where do things stand — nationwide — in the race to control Congress? Which party has a better chance of, you know, winning? To get a sense of that, it helps to zoom out ... and geek out over some cold, hard data. The usual caveats apply, of course. Polls aren't predictions; they're momentary snapshots of public opinion. Big events can, and often do, change the course of elections. And six weeks can be an eternity in politics. Yet the stakes in November couldn't be higher, especially for President Trump, who has enjoyed complete Republican control of Congress for the first half of his second term. Flipping the House would give Democrats the power to block the president's agenda, investigate his administration and even impeach him (again); flipping the Senate would allow them to stymie his Supreme Court nominees too. The state-by-state midterm landscape is finally taking shape — and a few clear polling trends are emerging. Here are the numbers to watch as Election Day nears. The generic congressional ballot Every pollster asks a version of the same question: If an election for U.S. Congress were held today, which party's candidate would you vote for in your district? In fact, this particular polling prompt is so pervasive, it's known as the \"generic ballot\" (at least among politics nerds). You obviously can't divine the outcome of an entire midterm election from a single question that flattens 435 House contests into a binary choice between \"the Democrat\" and \"the Republican.\" But the generic ballot can suggest which direction voters are heading. History is helpful here, courtesy of the RealClear Politics polling average : At this point in 2022 — after more than a year and a half of Democratic President Joe Biden and Democratic majorities in the House and Senate — Democrats had a narrow lead (1.3 percentage points) on the generic ballot. Six weeks later, the GOP translated its final polling lead of 3 percentage points into nine seats — enough to flip the House . At this point in 2018 — with Trump as president and Republican majorities in the House and Senate — Democrats were leading by an average of 8 points on the generic ballot. Six weeks later, they picked up 41 seats and flipped the House . Polarization wasn't as extreme in 2014 and 2010, the two midterms under Democratic President Barack Obama; minds weren't made up quite so early. But six weeks out, voters were starting to break against Democrats. In 2014, a final Republican polling lead of 2.4 points translated into a net gain of 13 seats in the House ; in 2010, those numbers were 9.4 points and 63 seats, respectively . So what does that mean for 2026? Historically speaking, a president's party almost always loses seats when voters return to the polls to judge his first two years in office. Sometimes, the backlash is so pervasive that the president's party loses pretty much every close-ish contest — a phenomenon known as a \"wave\" election. Right now, Democrats have a wave-sized lead on the generic ballot — about 8 percentage points , on average — and it has been steadily growing over the last two weeks. Democrats probably won't reprise 2018 and flip 41 House seats again in November, in part because red-state Republican lawmakers have recently redrawn congressional maps across the South to benefit their party in ways that blue-state Democrats have been unable to keep up with . But they only need to pick up three seats to win back the House. Advantage? Democrats. 10 specific Senate races National dynamics tend to define the composition of the incoming House. But Senate contests are quirkier — more state-specific and personality-driven. Democrats currently hold 47 Senate seats; they'd need 51 to control the chamber. (A 50-50 split would give Vice President JD Vance the tiebreaking vote). Polls suggest that flipping four Republican seats is possible — but Dems are also playing defense in places like Michigan, Georgia and New Hampshire. Here are the 10 races to follow: Maine (Republican seat) Republican Susan Collins (incumbent) Democrat Troy Jackson What the latest polls say : Jackson, who replaced Graham Platner , the Democrats' previous scandal-plagued nominee, tends to lead Collins by anywhere from 2 to 8 percentage points . One recent poll shows a tie . Michigan (Democratic seat) Republican Mike Rogers (former member of Congress) Democrat Abdul El-Sayed (public-health epidemiologist and former Wayne County, Mich. health director) What the latest polls say : Eight polls have been conducted over the last month. Seven of them showed El-Sayed in the lead, by anywhere from 2 to 5 percentage points . Ohio (Republican seat) Republican Jon Husted (incumbent) Democrat Sherrod Brown (former senator) What the latest polls say : Every poll conducted since July shows Brown leading Husted , with margins ranging from 4 to 8 percentage points. Georgia (Democratic seat) Democrat Jon Ossoff (incumbent) Republican Mike Collins (member of Congress) What the latest polls say : Ossoff holds a solid lead over Collins, with the two most recent polls putting him ahead by 4 to 7 percentage points . North Carolina (Republican seat) Republican Michael Whatley (former Republican National Committee chairman) Democrat Roy Cooper (former governor) What the latest polls say : Cooper leads by more than 8 points, on average . One poll conducted in Septemeber showed him ahead by 15 . New Hampshire (Democratic seat) Republican John E. Sununu (former U.S. senator) Democrat Chris Pappas (four-term U.S. representative) What the latest polls say: Pappas and Sununu, who both won their Sept. 8 primaries, have traded leads in recent polls in the race to replace retiring Democratic Sen. Jeanne Shaheen. But the most recent survey, conducted from Sept. 16 to 17, showed Pappas ahead by 8 . Alaska (Republican seat) Republican Dan Sullivan (incumbent) Democrat Mary Peltola (former member of Congress) What the latest polls say : Most surveys conducted since Alaska's Aug. 18 primary have given Peltola a slim lead ; a mid-September AARP poll showed her ahead by 7. But the most recent sounding suggests this could be a photo finish. Iowa (Republican seat) Republican Ashley Hinson (member of Congress) Democrat Josh Turek (state legislator and former Paralympic athlete) What the latest polls say : Hinson and Turek have traded small leads in surveys released since Iowa's June 2 primaries . Texas (Republican seat) Republican Ken Paxton (state attorney general) Democrat James Talarico (state legislator) What the latest polls say : Nearly every poll conducted over the summer has shown Talarico leading Paxton, though the margins are small — between 1 and 6 points. Nebraska (Republican seat) Republican Pete Ricketts (incumbent and former governor) Independent Dan Osborn (veteran and former union leader with Democratic support) What the latest polls say : Surveys are few and far between. But the most recent results suggest Osborn could be competitive. Advantage? Too close to call — though Democrats seem to have gained ground over the last two weeks. Trump's approval rating — especially on affordability To one degree or another, midterm elections are always referendums on how the president is performing. So Trump is the final piece of the puzzle. At the moment, that's unfortunate news for Republicans on Capitol Hill and those looking to join them. According to the data journalists at Silver Bulletin , 59% of Americans, on average, currently disapprove of how Trump is handling his job vs. 39% who approve. That puts the president's net disapproval rating at 20%. An American Research Group poll released on Monday measured Trump's approval rating at 29% — his lowest mark ever. The same survey showed the president's disapproval rating at 68%. Again, history can provide perspective . In mid-September 2018, Trump was about 12 points \"underwater\"; Republicans went on to lose 41 seats that November. Trump is earning even lower marks on voters' top 2026 issue: the cost of living . Shortly after he returned to office, roughly equal numbers of Americans approved and disapproved of how the president was handling inflation. But today, 71% disapprove and 26% approve. That's a 45-point gap. In comparison, Biden's approval rating on inflation was rarely underwater by more than 30 points during his presidency — a period that coincided with the economic shocks of COVID-19 and ended with him choosing not to stand for reelection. Advantage? Democrats. This article originally appeared on Yahoo News at https://www.yahoo.com/news/politics/article/the-2026-midterms-are-6-weeks-away-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-154536831.html",
+          "sourceName": "Yahoo! News",
+          "url": "https://www.yahoo.com/news/politics/article/the-2026-midterms-are-6-weeks-away-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-154536831.html",
+          "publishedAt": "2026-09-21T16:43:19.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
