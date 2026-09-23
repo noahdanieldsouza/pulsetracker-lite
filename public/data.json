@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-23T16:01:36.659Z",
+  "lastUpdated": "2026-09-23T17:21:12.524Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0,
+      "overallSentiment": -0.5,
       "newsSentiment": null,
       "socialSentiment": 0,
       "mentions": {
         "news": 0,
         "social": 1,
-        "youtube": 0,
-        "total": 1
+        "youtube": 1,
+        "total": 2
       },
       "news": [],
       "social": [
@@ -25,8 +25,19 @@
           "sentiment": 0
         }
       ],
-      "youtube": [],
-      "youtubeSentiment": null
+      "youtube": [
+        {
+          "id": "b67bbacee22e93baa640f987301fc55787eb1608da52e81f7546799b17c738ee",
+          "authorName": "@swampdog11b",
+          "commentText": "Nirav shah the shit skin squatter.",
+          "publishedAt": "2026-09-22T19:43:28Z",
+          "videoId": "6T0JZ8NJjfQ",
+          "videoTitle": "Dr. Nirav Shah joins Troy Jackson campaign event advocating for universal healthcare",
+          "commentId": "UgxOqeXtLuKPoobyVzN4AaABAg",
+          "sentiment": -1
+        }
+      ],
+      "youtubeSentiment": -1
     },
     {
       "id": "shenna-bellows",
@@ -97,14 +108,14 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.33546969041059954,
+      "overallSentiment": 0.4128506427915519,
       "newsSentiment": 0.24375,
       "socialSentiment": 0.3698019283746558,
       "mentions": {
         "news": 32,
         "social": 364,
-        "youtube": 14,
-        "total": 410
+        "youtube": 8,
+        "total": 404
       },
       "news": [
         {
@@ -3312,147 +3323,87 @@
       ],
       "youtube": [
         {
-          "id": "c3de0611ae7a90172b3c609d6b6f29c736f6f68ffe797d400780fb79c21212ca",
-          "authorName": "@scpoe81178",
-          "commentText": "No one voted for you king jackson.",
-          "publishedAt": "2026-09-22T11:24:22Z",
-          "videoId": "6T0JZ8NJjfQ",
-          "videoTitle": "Dr. Nirav Shah joins Troy Jackson campaign event advocating for universal healthcare",
-          "commentId": "UgwBqTQ46yK32YJF1et4AaABAg",
-          "sentiment": -1
-        },
-        {
-          "id": "3cf42edc07486aff2afac2f554de4fbf1c950e12ac9c6af0234b65d23872b20b",
-          "authorName": "@scpoe81178",
-          "commentText": "No one voted for you king jackson.",
-          "publishedAt": "2026-09-22T11:00:05Z",
-          "videoId": "hW3QqlHYzV0",
-          "videoTitle": "Nirav Shah, Troy Jackson hold discussion on healthcare",
-          "commentId": "UgwOrwuLq3fAkCnyGq54AaABAg",
-          "sentiment": -1
-        },
-        {
-          "id": "a80fcba40a10370359833d04bf0dea52d2262000867879a01d5e5628fa850f31",
-          "authorName": "@mick136",
-          "commentText": "Godspeed, Mr. Jackson! This GOP nightmare has to end",
-          "publishedAt": "2026-09-22T07:44:23Z",
-          "videoId": "DNbfkbTKgk8",
-          "videoTitle": "Thank you, Sen. Warren!",
-          "commentId": "UgxxaaTf5bgdP1tgdMN4AaABAg",
+          "id": "0544a130c71a3b96b38e88638368126258507bfff9a2c8e7484e410059919e40",
+          "authorName": "@Leila-u4x",
+          "commentText": "It&#39;s time for the US people to have representatives who are going to &quot;help&quot; rather than &quot;hinder&quot; US, namely Troy Jackson!!!",
+          "publishedAt": "2026-09-23T10:19:42Z",
+          "videoId": "KvXLLB-jb84",
+          "videoTitle": "&#39;She Voted With...&#39;: Democrat Troy Jackson DESTROYS Susan Collins&#39; Trump Record Ahead Of Midterms",
+          "commentId": "Ugz4kH4AYS00Dy45rNx4AaABAg",
           "sentiment": 1
         },
         {
-          "id": "2c627b5c64d93b8b6745a7b7fe3f40909bcd7050478fa22dc083ddf86b828218",
-          "authorName": "@guinevereofearth",
-          "commentText": "go Troy!!!",
-          "publishedAt": "2026-09-22T05:09:31Z",
-          "videoId": "DNbfkbTKgk8",
-          "videoTitle": "Thank you, Sen. Warren!",
-          "commentId": "UgyBag_U-URWFD6UozZ4AaABAg",
-          "sentiment": 1
-        },
-        {
-          "id": "746799108847e259d4f6457decdc99fb0beff2512dbc4eeb5d5ba78b33a0e4b9",
-          "authorName": "@robsmith5368",
-          "commentText": "She has a good chance of getting in again. When you are in the Senate as long as she has been, you get on a lot of committees and can get a lot of money for Maine. There is a Republican president so she will be able to get more for Maine than Jackson and the Democrats can get. He will be new to the Senate and there is a Republican president.",
-          "publishedAt": "2026-09-22T04:41:45Z",
-          "videoId": "SFhMgHDug40",
-          "videoTitle": "Why Trump&#39;s Canada tariffs could cost him the Maine Senate race",
-          "commentId": "UgyaoutDzqhL9FkS1Nt4AaABAg",
-          "sentiment": -1
-        },
-        {
-          "id": "7a47bf24ccb780052e5c4f7193ab96f541289d4059e7465ae87aa9a157765514",
-          "authorName": "@PaigeTurner8",
-          "commentText": "I donated to Troy Jackson’s campaign and I don’t even live in Maine! Please help him out if you can 👍",
-          "publishedAt": "2026-09-22T03:49:01Z",
-          "videoId": "SFhMgHDug40",
-          "videoTitle": "Why Trump&#39;s Canada tariffs could cost him the Maine Senate race",
-          "commentId": "Ugy4YMaboqRCwZ1ZbNh4AaABAg",
-          "sentiment": 1
-        },
-        {
-          "id": "f7ce755d454886780885f5176b2453f785f50422eb6e372c6f40f74f9e8e8c4f",
+          "id": "29a6a5e6f24aa99ad09b711512bdf0d9e78f35038ff36e856fc23cbaec9deb2f",
           "authorName": "@shuggebearz4eva",
-          "commentText": "Lets go Troy ❤",
-          "publishedAt": "2026-09-22T03:12:37Z",
-          "videoId": "DNbfkbTKgk8",
-          "videoTitle": "Thank you, Sen. Warren!",
-          "commentId": "UgxxsL7sGFmRV-VOVJ54AaABAg",
+          "commentText": "Lets go Troy! He is a good man and we would be lucky to have him.",
+          "publishedAt": "2026-09-23T05:16:44Z",
+          "videoId": "NtnKKocTbZg",
+          "videoTitle": "Susan Collins Bribery Report Throws Wrench Into Razor-Thin Senate Battle",
+          "commentId": "Ugw1XEJ-wiyCP5X-q4F4AaABAg",
           "sentiment": 1
         },
         {
-          "id": "7767ffd3d1acb90c83ed48748fbe3f2eb5ab44fcc0fedbf11e90bfc61ca521b4",
-          "authorName": "@winkmartendale",
-          "commentText": "Did Elizabeth call him “Tori” Jackson?",
-          "publishedAt": "2026-09-22T00:18:24Z",
-          "videoId": "DNbfkbTKgk8",
-          "videoTitle": "Thank you, Sen. Warren!",
-          "commentId": "Ugy-XJUAhfkqRLToqEJ4AaABAg",
+          "id": "398145545b0220119c11777edb8f1a7ed8d40c697e59e22b1a8ca25a44affab2",
+          "authorName": "@emmma326",
+          "commentText": "Rooting for you Troy from GA! 💙🇺🇸",
+          "publishedAt": "2026-09-23T01:42:11Z",
+          "videoId": "KvXLLB-jb84",
+          "videoTitle": "&#39;She Voted With...&#39;: Democrat Troy Jackson DESTROYS Susan Collins&#39; Trump Record Ahead Of Midterms",
+          "commentId": "UgyFeOPK_smVVp6b5K14AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "7cb4cb83e04ff5b87566879785fda95e2be94f86d6b361aa1e6aae50e657cff1",
+          "authorName": "@heidimelodynachtigallen6514",
+          "commentText": "Go Troy!",
+          "publishedAt": "2026-09-23T01:32:14Z",
+          "videoId": "KvXLLB-jb84",
+          "videoTitle": "&#39;She Voted With...&#39;: Democrat Troy Jackson DESTROYS Susan Collins&#39; Trump Record Ahead Of Midterms",
+          "commentId": "Ugyj67YeDf9w8rD-kMR4AaABAg",
+          "sentiment": 1
+        },
+        {
+          "id": "9549feaf135b84cfdf1a96e6495ec3260f32b58bf067b10f7256cb4631319eeb",
+          "authorName": "@colinmitchell3466",
+          "commentText": "Mark Jackson&#39;s brother",
+          "publishedAt": "2026-09-22T23:33:23Z",
+          "videoId": "KAOO_WAE0NE",
+          "videoTitle": "Troy ”Escalade” Jackson #troyjackson #NBA #basketball",
+          "commentId": "UgyjD5iVxH5E-HsPEH54AaABAg",
           "sentiment": 0
         },
         {
-          "id": "953bee4070b45d21005242f057b553ca3596c20aa87f2caa58458ac292d6ab42",
-          "authorName": "@grantsmith3808",
-          "commentText": "Collins was a good Senator.  In the past decade, however, she&#39;s progressively more wishy-washy and a Trump enabler.<br>At 73, she has 15 years on Troy Jackson.  Some could say that&#39;s valuable experience, but others might argue she&#39;s been at it a few years past her Best Before...",
-          "publishedAt": "2026-09-21T21:59:41Z",
-          "videoId": "SFhMgHDug40",
-          "videoTitle": "Why Trump&#39;s Canada tariffs could cost him the Maine Senate race",
-          "commentId": "UgzeIsT3HsuJHbuaRFV4AaABAg",
-          "sentiment": 0.5
+          "id": "6021afd0c7f0e817a5b9e0a6221fe08bcab3f5e77a7c7c10c81d0ba1cf5e30cc",
+          "authorName": "@PhillippeThomas-x7c",
+          "commentText": "Smear campaign, Troy wants it badly and it&#39;s election period, so imagine what they&#39;re going to come up with.",
+          "publishedAt": "2026-09-22T21:59:16Z",
+          "videoId": "NtnKKocTbZg",
+          "videoTitle": "Susan Collins Bribery Report Throws Wrench Into Razor-Thin Senate Battle",
+          "commentId": "UgwqGyZ4yNpDpQGRfMd4AaABAg",
+          "sentiment": -1
         },
         {
-          "id": "bfe0330fdb8731a2f75a284d34e29f9a26906fe714bd5451822c7d0e9ca1c55c",
-          "authorName": "@JConlon96",
-          "commentText": "Jackson for Senate",
-          "publishedAt": "2026-09-21T21:42:31Z",
-          "videoId": "SFhMgHDug40",
-          "videoTitle": "Why Trump&#39;s Canada tariffs could cost him the Maine Senate race",
-          "commentId": "UgyNeZepVsYiirRX5Gd4AaABAg",
+          "id": "597466819aa41daa3047fabce4f3bc6c0b4009c88d6111d0c4630adc1d275f37",
+          "authorName": "@janetcole3971",
+          "commentText": "I&#39;m voting for Troy!  💙🗳🌊",
+          "publishedAt": "2026-09-22T21:57:55Z",
+          "videoId": "uUMdiEoLo4g",
+          "videoTitle": "80 Hours",
+          "commentId": "UgyPTNmLalgbwLJ6Nel4AaABAg",
           "sentiment": 1
         },
         {
-          "id": "2f37f14129b3de41f120547d59fdf595fd95dc8d4f5f23f97e4b2b7ed7840136",
-          "authorName": "@Jay-j1e8h",
-          "commentText": "Maybe Elizebeth should offer Troy a beer. She is so authentic.",
-          "publishedAt": "2026-09-21T21:08:36Z",
-          "videoId": "DNbfkbTKgk8",
-          "videoTitle": "Thank you, Sen. Warren!",
-          "commentId": "UgxSI8wErZ-uPROozYB4AaABAg",
-          "sentiment": 0
-        },
-        {
-          "id": "6454e98d1f87195c6b211903f81b29060c9f88bff600428a139b663efb160967",
-          "authorName": "@MonicaOutdoors",
-          "commentText": "Good change is coming. Everybody needs to vote, so the result will be too big to rig. Go, Troy.  Go, Maine! 🗳️👍",
-          "publishedAt": "2026-09-21T20:36:46Z",
-          "videoId": "DNbfkbTKgk8",
-          "videoTitle": "Thank you, Sen. Warren!",
-          "commentId": "Ugws7lOFd3R1Ma8UfOd4AaABAg",
-          "sentiment": 1
-        },
-        {
-          "id": "a693d028dc5917541401a2943e3cd6f02ed73b25f1f61c91f41091c832f24245",
-          "authorName": "@RamenNoodle1985",
-          "commentText": "You go Troy!",
-          "publishedAt": "2026-09-21T19:46:21Z",
-          "videoId": "DNbfkbTKgk8",
-          "videoTitle": "Thank you, Sen. Warren!",
-          "commentId": "Ugz_DK3WcevuyI9V1zJ4AaABAg",
-          "sentiment": 1
-        },
-        {
-          "id": "adf3cf0f09509250e114a8dbe02ca5c6201ecf2a0a981d8199db9cc0f8c44e83",
-          "authorName": "@MonicaOutdoors",
-          "commentText": "Good change is coming. Go, Troy. 🗳️👍",
-          "publishedAt": "2026-09-21T17:32:33Z",
-          "videoId": "5add_d21cZE",
-          "videoTitle": "I won&#39;t let Mainers settle for less.",
-          "commentId": "UgzS8yIC9NZMme5ikud4AaABAg",
+          "id": "9c27825231852fd337dbf307ca1d02c888664d97e54d34d2322e1605c0afcec7",
+          "authorName": "@YorkRiverFarm",
+          "commentText": "“The drums began to beat, &amp; the oars lifted &amp; fell, taking us to TROY JACKSON” 🗳️💙🌊<br><br>(Madeline Miller from The Song of Achilles) FSC",
+          "publishedAt": "2026-09-22T18:57:07Z",
+          "videoId": "r5Yuxkfxmn0",
+          "videoTitle": "Dirty Water.",
+          "commentId": "Ugz5PVi09vsg0KSsR3l4AaABAg",
           "sentiment": 1
         }
       ],
-      "youtubeSentiment": 0.39285714285714285
+      "youtubeSentiment": 0.625
     },
     {
       "id": "jordan-wood",
