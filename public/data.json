@@ -1,20 +1,57 @@
 {
-  "lastUpdated": "2026-09-24T14:21:08.062Z",
+  "lastUpdated": "2026-09-24T16:26:22.824Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -1,
-      "newsSentiment": null,
+      "overallSentiment": -0.5,
+      "newsSentiment": 0,
       "socialSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 4,
         "social": 0,
         "youtube": 1,
-        "total": 1
+        "total": 5
       },
-      "news": [],
+      "news": [
+        {
+          "id": "8f07e703f552141f887d8147a66abe3a67ca7bacbf6e3aacbb78677c78863a71",
+          "title": "Sen. Collins responds to pay-to-play scheme allegations",
+          "description": "A day after a report alleged that Sen. Susan Collins was the target of a federal bribery investigation, Collins is now speaking out.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/09/23/sen-collins-responds-pay-to-play-scheme-allegations/",
+          "publishedAt": "2026-09-23T21:10:08.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a00e8d247e4c73dc1037916868a84a4389625abaa8ec351e0cfb58dd56972d48",
+          "title": "Facing heat from Democrats, Collins team calls corruption allegations ‘outrageous’",
+          "description": "Collins campaign manager Steve Abbott said the story was a rerun of similar claims made during her 2020 campaign.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/09/23/facing-heat-from-democrats-collins-team-calls-corruption-allegations-outrageous/",
+          "publishedAt": "2026-09-23T18:42:57.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "722b6d89fb3b24e3472776eb4165ca5be605a2286db52027b5cc992eb07ee19b",
+          "title": "Facing heat from Democrats, Collins team calls corruption allegations ‘outrageous’",
+          "description": "Collins campaign manager Steve Abbott said the story was a rerun of similar claims made during her 2020 campaign.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/09/23/facing-heat-from-democrats-collins-team-calls-corruption-allegations-outrageous/",
+          "publishedAt": "2026-09-23T18:42:57.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "462bea4f13d40acda6ae2be5629a9e6a7868b9ceae24cf1889fbb69945adce93",
+          "title": "Facing heat from Democrats, Collins team calls corruption allegations ‘outrageous’",
+          "description": "Collins campaign manager Steve Abbott said the story was a rerun of similar claims made during her 2020 campaign.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/09/23/facing-heat-from-democrats-collins-team-calls-corruption-allegations-outrageous/",
+          "publishedAt": "2026-09-23T18:42:57.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [],
       "youtube": [
         {
@@ -33,16 +70,26 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.3,
-      "newsSentiment": null,
+      "overallSentiment": -0.65,
+      "newsSentiment": -1,
       "socialSentiment": -0.3,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 1,
         "youtube": 0,
-        "total": 1
+        "total": 2
       },
-      "news": [],
+      "news": [
+        {
+          "id": "62229f00cc359e87efd067e1bc2308a812a07d2a06f0f8dd67ad6ba7498e200b",
+          "title": "Nessel discusses threats of federal monitors, law enforcement at polling places during voter forum",
+          "description": "Federal threats to election processes in states where President Donald Trump lost in previous elections are top of mind for law enforcement officials and the clerks who run elections in Michigan’s 83 counties, Attorney General Dana Nessel said Wednesday during...",
+          "sourceName": "Herald Palladium",
+          "url": "https://www.heraldpalladium.com/news/state/nessel-discusses-threats-of-federal-monitors-law-enforcement-at-polling-places-during-voter-forum/article_1a681a48-82f9-53fd-a586-bc8e85ab833b.html",
+          "publishedAt": "2026-09-23T17:57:47.000Z",
+          "sentiment": -1
+        }
+      ],
       "social": [
         {
           "id": "8963b9dfc8d018742329e433a4e66aece3cdcd5eb3cfc9f3eba5de8256137bf8",
@@ -59,303 +106,762 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.375,
-      "newsSentiment": 0.24375,
+      "overallSentiment": 0.27583273092369476,
+      "newsSentiment": -0.053751807228915656,
       "socialSentiment": 0.2562499999999999,
       "mentions": {
-        "news": 32,
+        "news": 83,
         "social": 224,
         "youtube": 8,
-        "total": 264
+        "total": 315
       },
       "news": [
         {
-          "id": "b6a70e9cb7b786c64c8084f398172f1b10957c7c466ca1b31ea295a2b3549037",
-          "title": "The quiet campaign to stop Kamala 2028 is growing louder",
-          "description": "Welcome to The Midterms, Actually. Every week I’ll be writing about two things: one big idea or trend I see forming across the 2026 primaries, and one thing I’m hearing from a voice on the ground. You can sign up here to get it in your inbox every week. Let’s...",
-          "sourceName": "Gnn Hd",
-          "url": "https://gnnhd.tv/news/56455/the-quiet-campaign-to-stop-kamala-2028-is-growing-louder",
-          "publishedAt": "2026-09-23T02:00:26.000Z",
+          "id": "7cbebd59be474928f480e67453bb83b94bb8cb1bdbf8c855b89480fd08775835",
+          "title": "Sen. Tim Scott says GOP in \"fight for our lives,\" sees path to holding Senate",
+          "description": "With just under six weeks until the midterms, Sen. Tim Scott of South Carolina laid out the NRSC's strategy to try to hold onto the Senate amid a tough political environment.",
+          "sourceName": "Aol.com",
+          "url": "https://www.aol.com/articles/gop-senator-says-party-fight-025322000.html",
+          "publishedAt": "2026-09-24T03:38:01.000Z",
           "sentiment": 0
         },
         {
-          "id": "094e9a1433c5a43568201d08537317a74674fa3a4071770ee24ae9cb43bc0e8f",
-          "title": "Dark Money Pushes a Quickly Debunked Hit Piece Against Susan Collins",
-          "description": "The propaganda spread around from fake, unreliable sources is awful this election. The dark money-funded Pro Publica ‘research’ organization came out with a hit piece on Susan Collins in time for the election. They want to tip far-left Troy Jackson over the top. The only problem is that th Read more... The post Dark Money Pushes a Quickly Debunked Hit Piece Against Susan Collins appeared first on CBNC .",
-          "sourceName": "Cbnc",
-          "url": "https://cbnc.com/dark-money-pushes-a-quickly-debunked-hit-piece-against-susan-collins/",
-          "publishedAt": "2026-09-23T00:08:00.000Z",
-          "sentiment": 0.7
+          "id": "903565d272570c5e959fe1befa8625589c6ebab1ad4202163ddc8d917e53fe9e",
+          "title": "Key GOP senator privately says party is infight for our lives in midterms, but sees path to holding onto Senate",
+          "description": "With just under six weeks until the midterms, Sen. Tim Scott of South Carolina laid out the NRSC's strategy to try to hold onto the Senate amid a tough political environment.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/key-gop-senator-privately-says-party-is-infight-for-our-88073842",
+          "publishedAt": "2026-09-24T03:01:00.000Z",
+          "sentiment": 0
         },
         {
-          "id": "e670db0a843a44bdf6c8ae768a011d648892abfd06a57498d681cd44521f1734",
-          "title": "FBI probed Sen. Susan Collins campaign corruption until 2025: reports",
-          "description": "The ProPublica and New York Times reports come amid the senator's tight race for reelection in Maine, a crucial state for control of the Senate.",
+          "id": "f96b75e71537d14c20d4c442601304ca981380e494d562620745778d7fd22caf",
+          "title": "GOP senator says party in \"fight for our lives,\" sees path to holding Senate",
+          "description": "With just under six weeks until the midterms, Sen. Tim Scott of South Carolina laid out the NRSC's strategy to try to hold onto the Senate amid a tough political environment.",
+          "sourceName": "Cbs News",
+          "url": "https://www.cbsnews.com/news/tim-scott-republican-midterm-senate-fight-of-our-lives/",
+          "publishedAt": "2026-09-24T02:53:22.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "917ea39229961a317afbb89eb157556c1591757f8f59e848b8e4ea6e671d1818",
+          "title": "Republicans rally around Susan Collins amid pay-to-play scheme allegations",
+          "description": "\"It's a bunch of BS,\" Sen. John Cornyn, who has worked alongside Collins for more than two decades, told USA TODAY.",
           "sourceName": "Usa Today",
-          "url": "https://www.usatoday.com/story/news/politics/elections/2026/09/22/maine-susan-collins-campaign-propublica-investigation/91885844007/",
-          "publishedAt": "2026-09-23T00:00:35.000Z",
+          "url": "https://www.usatoday.com/story/news/politics/2026/09/23/susan-collins-propublica-maine-senate-race/91911535007/",
+          "publishedAt": "2026-09-24T00:48:43.000Z",
           "sentiment": 0
         },
         {
-          "id": "5a7f9c6a53fa3e3cda87eeabdbb1a894731facf4072720f5d286fc53817f02fe",
-          "title": "FBI probed Sen. Susan Collins campaign corruption until 2025: reports",
-          "description": "The FBI in 2025 ended an investigation into allegations that a fundraiser for Sen. Susan Collins, R-Maine, had participated in an illegal campaign donation scheme, reports say.",
-          "sourceName": "Lufkindailynews",
-          "url": "https://lufkindailynews.com/news_reuters/national/fbi-probed-sen-susan-collins-campaign-corruption-until-2025-reports/article_696c37e3-ddcd-586b-ac8e-f3c8b5dd42ba.html",
-          "publishedAt": "2026-09-23T00:00:35.000Z",
+          "id": "1cec54c9e323e44239ffbf7f8ee0a3f56a003023091f2ae1b1df2ce44874fec4",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "U.S. Sen. Susan Collins is defending herself over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Wxyz",
+          "url": "https://www.wxyz.com/politics/political-scandals/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
+          "publishedAt": "2026-09-24T00:24:50.000Z",
           "sentiment": 0
         },
         {
-          "id": "a7df27e86cfb48c43dc0d6898204eaa9ecfc7fa72813ffe2faf8a7af5526cc8f",
-          "title": "Sen. Collins, Troy Jackson set to face off in CBS13/FOX23 U.S. Senate debate",
+          "id": "44deab50a51f0a3f3964f6aaf0d4f5b596d5d296a72e3382a0673d91eceb5895",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "U.S. Sen. Susan Collins is defending herself over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Newschannel 5",
+          "url": "https://www.newschannel5.com/politics/political-scandals/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
+          "publishedAt": "2026-09-24T00:24:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ee05facc74edd96179ea969e0d9be5f4eae8f0964c2b3502f163aeb9727c4378",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "U.S. Sen. Susan Collins is defending herself over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Kgun 9",
+          "url": "https://www.kgun9.com/politics/political-scandals/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
+          "publishedAt": "2026-09-24T00:24:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "18f7c41f37566eb4004d71ec3aeb4172d3848bbe0ff6f913862281a11f6c7d2c",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "U.S. Sen. Susan Collins is defending herself over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Scripps News",
+          "url": "https://www.scrippsnews.com/politics/political-scandals/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
+          "publishedAt": "2026-09-24T00:24:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5c59c17d88493dfdb32e672fb2fea75dc6a04938b02666f30b7f9c06c6fe28eb",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "U.S. Sen. Susan Collins is defending herself over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Wmar 2 News Baltimore",
+          "url": "https://www.wmar2news.com/politics/political-scandals/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
+          "publishedAt": "2026-09-24T00:24:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "dc205aeef5a8f2a4de3001145add9127dcb5f3b725108f42a790b5db6e5d1fb8",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "U.S. Sen. Susan Collins is defending herself over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Wcpo",
+          "url": "https://www.wcpo.com/politics/political-scandals/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
+          "publishedAt": "2026-09-24T00:24:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "05a79077faf058967cbced077385ab58dfcea2ec3e0f98d0b0007f71c8c4cb40",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "U.S. Sen. Susan Collins is defending herself over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Abc 15",
+          "url": "https://www.abc15.com/politics/political-scandals/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
+          "publishedAt": "2026-09-24T00:24:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e246b6485855d4b2420daf49297e1e5450d4901b78774c1010aa86c0d2a02901",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "U.S. Sen. Susan Collins is defending herself over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Tmj4 News",
+          "url": "https://www.tmj4.com/politics/political-scandals/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
+          "publishedAt": "2026-09-24T00:24:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "bca188e66d4eb36074eae575a8f357734ce8ca73bce70f8592e1cc1635b9da64",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "U.S. Sen. Susan Collins is defending herself over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Wkbw",
+          "url": "https://www.wkbw.com/politics/political-scandals/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
+          "publishedAt": "2026-09-24T00:24:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6bb538b9fa342015b97c77aaa51999e20a0c4a01ec7905265648eb5746cbea96",
+          "title": "Democrat Troy Jackson accuses Republican Sen. Susan Collins of ‘corruption of the highest order’",
           "description": null,
           "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4902560235076-sen-collins-troy-jackson-set-to-face-off-in-cbs13-fox23-u-s-senate-debate",
-          "publishedAt": "2026-09-23T00:00:00.000Z",
+          "url": "https://www.newsbreak.com/knewz-1594593/4904675633483-democrat-troy-jackson-accuses-republican-sen-susan-collins-of-corruption-of-the-highest-order",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "9dab51cad217e3859f8fa4b73323926e81b7d4b2516367cd41d3c976b04b0e00",
+          "title": "Ronald Brownstein: Can blue-collar Democrats win back blue-collar voters?",
+          "description": "Sam Forstag recently joined a text chain to better keep up with a few friends. There’s nothing unusual about that, except Forstag’s texting buddies are a group of Democratic candidates for the U.S. House who share one unusual characteristic: ...",
+          "sourceName": "Arcamax",
+          "url": "https://www.arcamax.com/opeds/s-4304856",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "b30942e55567ffc271989e88d803dd55013a4da085b9a87e1780768a6ffdd169",
-          "title": "Letter: Troy Jackson is the choice to protect reproductive rights",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4902663889186-letter-troy-jackson-is-the-choice-to-protect-reproductive-rights",
-          "publishedAt": "2026-09-23T00:00:00.000Z",
-          "sentiment": 0.8
+          "id": "b4d6503b51bace9d1c366ab4f6ab240609713b41ad7c75ca990f335aeae78402",
+          "title": "Bridgeport preps for Homecoming matchup with Robert C. Byrd",
+          "description": "BRIDGEPORT, W.Va. - The Bridgeport football team hasn't lost to Robert C. Byrd since 2010.",
+          "sourceName": "Wv News",
+          "url": "https://www.wvnews.com/bridgeportnews/sports/bridgeport-preps-for-homecoming-matchup-with-robert-c-byrd/article_601850f9-513e-4e1e-af8e-0fb336bd4692.html",
+          "publishedAt": "2026-09-23T23:07:00.000Z",
+          "sentiment": 0
         },
         {
-          "id": "81db157ed937bebd67258bfd8ce3569c59183f8ef3e76391e427182aefb4462b",
-          "title": "How a ‘bombshell’ report on Susan Collins washed over Maine politics",
-          "description": "The ProPublica story brought to light an FBI investigation into an alleged pay-to-play relationship between Collins and a defense contractor.",
+          "id": "714293839b5b57a6a4e1e80d21285989dd5373dd3831d5de810e0736eab620f7",
+          "title": "Operative at center of ProPublica report is still a top outside money man for Susan Collins",
+          "description": "Scott Reed now helms Pine Tree Results PAC, which has booked more than $28 million in ads in Collins' reelection bid against Democrat Troy Jackson.",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/22/politics/elections/susan-collins-propublica-corruption-investigation-maine-politics/",
-          "publishedAt": "2026-09-22T23:12:43.000Z",
+          "url": "https://www.bangordailynews.com/2026/09/23/politics/elections/scott-reed-propublica-susan-collins-report/",
+          "publishedAt": "2026-09-23T22:24:37.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "64b64c95cfc656d20354a1ec2ea33cfb20d0d6f5be2d8c0d42c0e5120b064005",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Pbs",
+          "url": "https://www.pbs.org/newshour/politics/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
+          "publishedAt": "2026-09-23T22:17:35.000Z",
           "sentiment": 0
         },
         {
-          "id": "1b4fbd61b56c7fbfcadf5a2132c980f2b87ab35eb3fbee1c4222102bbf7b9474",
+          "id": "6a6365d9eb866465c41ccb630058c36da644d576da69b446f6f2db3ae3e87885",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘totally false'",
+          "description": "Maine Democrats criticized Sen. Susan Collins after a report revealed the FBI investigated her knowledge of illegal campaign contributions from a donor later...",
+          "sourceName": "Nbc Chicago",
+          "url": "https://www.nbcchicago.com/news/politics/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/3992938/",
+          "publishedAt": "2026-09-23T21:26:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6c6f33a3db677ac84d307af7abf776e19b0c4df27220d9316d8246c905c6c9f0",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘totally false'",
+          "description": "Maine Democrats criticized Sen. Susan Collins after a report revealed the FBI investigated her knowledge of illegal campaign contributions from a donor later...",
+          "sourceName": "Nbc 6 South Florida",
+          "url": "https://www.nbcmiami.com/news/politics/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/3863385/",
+          "publishedAt": "2026-09-23T21:26:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7100336e9bc9f1778e3b497e60656fe86dc83d04821c8e29fbc577b2bbef0234",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘totally false'",
+          "description": "Maine Democrats criticized Sen. Susan Collins after a report revealed the FBI investigated her knowledge of illegal campaign contributions from a donor later...",
+          "sourceName": "Nbc Los Angeles",
+          "url": "https://www.nbclosangeles.com/news/politics/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/3946294/",
+          "publishedAt": "2026-09-23T21:26:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "284c92548660a14216d6eefdee73a26a8cba378db91d8e528f84346040364ebb",
+          "title": "Democrats accuse Susan Collins of corruption after bombshell ‘pay-to-play’ report",
+          "description": "Republican senator calls bribery allegation ‘categorically false’ as ProPublica reports Trump derailed FBI inquiry Democrats in Maine on Wednesday accused Republican senator Susan Collins of corruption after a major media outlet reported that the FBI had proposed investigating her for allegedly accepting bribes – before Donald Trump derailed the inquiry. The article from the investigative newsroom ProPublica rocked the race for Collins’s Senate seat, which is crucial to Democrats’ hopes of winning control of the chamber in the 3 November midterm election. The outlet reported that in the run-up to Collins’s successful bid for a fifth term in 2020, the head of her Super Pac had solicited a campaign donation from contracting firm Navatek, which demanded assurances of business from the government in return. Continue reading...",
+          "sourceName": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/sep/23/susan-collins-corruption-allegation-report-propublica",
+          "publishedAt": "2026-09-23T21:12:39.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "259c62da3ae51cbbee97471ba088e073972df181ccc154d3a07165adef830579",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘totally false'",
+          "description": "Maine Democrats criticized Sen. Susan Collins after a report revealed the FBI investigated her knowledge of illegal campaign contributions from a donor later...",
+          "sourceName": "Nbc Connecticut",
+          "url": "https://www.nbcconnecticut.com/news/politics/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/3777887/",
+          "publishedAt": "2026-09-23T21:04:58.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d890df11bef52045147589cd6563f018b8ba3543dc0033d0191ce432bf209cf1",
+          "title": "Collins denies allegations in corruption report: ‘Absolutely outrageous’",
+          "description": "U.S. Sen. Susan Collins (R-ME) walks to the Senate floor on Sept. 23, 2026, in Washington, DC. Collins is in a tight Senate race against Democrat Troy Jackson. (Kevin Dietsch/Getty Images) (WASHINGTON) — Maine Republican Sen. Susan",
+          "sourceName": "My Central Oregon",
+          "url": "https://www.mycentraloregon.com/2026/09/23/collins-denies-allegations-in-corruption-report-absolutely-outrageous/",
+          "publishedAt": "2026-09-23T20:51:20.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "bcc43bf4e4fe34556bcb8f2d69f984e6281ea8d7def7b9fc32113c2539fbacd5",
+          "title": "Collins denies allegations in corruption report: ‘Absolutely outrageous’",
+          "description": "U.S. Sen. Susan Collins (R-ME) walks to the Senate floor on Sept. 23, 2026, in Washington, DC. Collins is in a tight Senate race against Democrat Troy Jackson. (Kevin Dietsch/Getty Images) (WASHINGTON) — Maine Republican Sen. Susan",
+          "sourceName": "Radio Pacific Inc",
+          "url": "https://www.myclallamcounty.com/2026/09/23/collins-denies-allegations-in-corruption-report-absolutely-outrageous/",
+          "publishedAt": "2026-09-23T20:51:20.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "cc2d50703ba202bd65f036b17e1ec15f45b8e852a96c857d236442899427ab92",
+          "title": "Maine Democrats hammer Collins over report of pay-to-play probe. GOP senator calls it 'totally false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions",
+          "sourceName": "Los Angeles Times",
+          "url": "https://www.latimes.com/world-nation/story/2026-09-23/maine-democrats-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-totally-false",
+          "publishedAt": "2026-09-23T20:44:18.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5e860481d5014ec38975c561fdf37c931c3e814f3fa446934caa4b813f24b8de",
+          "title": "Susan Collins’ Campaign Is Eager to Put Corruption Allegations to Rest",
+          "description": "The senator is fighting a tough reelection race in a year when corruption is a sticky message.",
+          "sourceName": "washingtonsun",
+          "url": "https://www.washingtonsun.com/campaigns/susan-collins-campaign-corruption-allegations-response",
+          "publishedAt": "2026-09-23T20:43:27.000Z",
+          "sentiment": -0.128
+        },
+        {
+          "id": "ea0904dd685bdf043281f75714c3b60b38c735bf63dcbb75ae9b1b821c0de138",
+          "title": "Collins denies allegations in corruption report: 'Absolutely outrageous'",
+          "description": "The ProPublica report said a GOP consultant asked a defense firm for big donations to her campaign in exchange for millions in federal funding.",
+          "sourceName": "Abc News",
+          "url": "https://abcnews.com/Politics/collins-denies-allegations-corruption-report-absolutely-outrageous/story?id=136685553",
+          "publishedAt": "2026-09-23T20:09:42.000Z",
+          "sentiment": -0.3182
+        },
+        {
+          "id": "09b2fee41e699f408c27cbae12b4abbec80a4c81a24b913b1a0e5dd5f147fe80",
+          "title": "GOP Ads Mislead on Public Option Proposals’ Impact on Rural Hospitals",
+          "description": "As Democrats release a flurry of midterm ads portraying GOP cuts to Medicaid as a threat to rural healthcare, Republicans have countered with ads claiming Democratic candidates in Texas and Pennsylvania would put dozens of rural hospitals out of business by creating a public health insurance option. But the ads cite an industry-backed study whose assumptions don’t apply to all public option proposals. The post GOP Ads Mislead on Public Option Proposals’ Impact on Rural Hospitals appeared first on FactCheck.org .",
+          "sourceName": "Factcheck.org",
+          "url": "https://www.factcheck.org/2026/09/gop-ads-mislead-on-public-option-proposals-impact-on-rural-hospitals/",
+          "publishedAt": "2026-09-23T19:55:21.000Z",
+          "sentiment": -0.5267
+        },
+        {
+          "id": "dafa0a17ed7ccbe8c28070288700223626cef71d514cbc505ac0a2c62d437d65",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘completely false’",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims “completely false” and politically motivated. The ProPublica report, published Tuesday, states that the FBI in 2024 planned to launch an investigation into Collins’ dealings with Navatek, a Hawaii defense contractor and donor to her campaign. The investigation, which focused on an alleged pay-to-play scheme, failed to commence after President Donald Trump took office. The report arrived six weeks before Mainers are set to vote in Collins’ reelection campaign against Democrat Troy Jackson. An FBI spokesperson said nothing was found to implicate Collins or her campaign. The post Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘completely false’ appeared first on WHEC.com .",
+          "sourceName": "Whec News10nbc",
+          "url": "https://www.whec.com/ap-top-news/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false/",
+          "publishedAt": "2026-09-23T19:46:51.000Z",
+          "sentiment": 0.4215
+        },
+        {
+          "id": "6e1263ba5424ab713cda46d2e429fca772f2387f873c7fea060f54155f634045",
+          "title": "Susan Collins tears into bribery allegations as new claims emerge during critical Senate battle",
+          "description": "Maine Sen. Susan Collins dismissed the FBI bribery probe as a \"political hit job,\" questioning convicted fraudster Martin Kao's credibility.",
+          "sourceName": "Fox News",
+          "url": "https://www.foxnews.com/politics/susan-collins-tears-bribery-allegations-new-claims-emerge-during-critical-senate-battle",
+          "publishedAt": "2026-09-23T19:24:09.000Z",
+          "sentiment": -0.8658
+        },
+        {
+          "id": "ab463e8fea980f4cb485a8fbb099508630998a0f095bf68f9cae962cbb170392",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘completely false’",
+          "description": "The ProPublica report, published Tuesday, states that the FBI in 2024 planned to launch an investigation into Collins' dealings with Navatek, a Hawaii defense contractor and donor to her campaign. The post Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘completely false’ appeared first on Boston.com .",
+          "sourceName": "Boston",
+          "url": "https://www.boston.com/news/politics/2026/09/23/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false/",
+          "publishedAt": "2026-09-23T19:20:57.000Z",
+          "sentiment": 0.128
+        },
+        {
+          "id": "965452454b0e93ecb9bf499fddf3de1520741ae8956d680ad78adae26535979a",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-88064448",
+          "publishedAt": "2026-09-23T19:16:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3b5fcedcf78036ec1461ff84b2c9914aec721da09aad9ac776edf17baf3bfe93",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘completely false’",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/09/23/maine-dems-hammer-collins-over-report-pay-to-play-probe-gop-senator-calls-it-completely-false/",
+          "publishedAt": "2026-09-23T19:06:38.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "02fa8d7ec8072d5c2a0ff13941415650f7840ea12346e8ec09c809ae77ec45ad",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘completely false’",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison. The ProPublica report, published Tuesday, states that the FBI in 2024 planned to launch an investigation into Collins’...",
+          "sourceName": "Mymotherlode.com - The Mother Lode's Local News, S",
+          "url": "https://mymotherlode.com/news/national/general-election/11162528/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false.html",
+          "publishedAt": "2026-09-23T19:03:54.000Z",
+          "sentiment": -0.7845
+        },
+        {
+          "id": "2f866b6e2e1785cb73e8fefd5bb1c913f629e812b875b4c72cb4246f0248377b",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims...",
+          "sourceName": "Times Union",
+          "url": "https://www.timesunion.com/news/politics/article/maine-dems-hammer-collins-over-report-of-22445809.php",
+          "publishedAt": "2026-09-23T18:57:30.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1b8b41a24010f08ea7541fa3464c5b2cdd7636d7acc763607e8607ff3460e1e0",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims...",
+          "sourceName": "Houston Chronicle",
+          "url": "https://www.houstonchronicle.com/news/politics/article/maine-dems-hammer-collins-over-report-of-22445809.php",
+          "publishedAt": "2026-09-23T18:57:30.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b585e69424a32b99ab0c90f482f1997627a20426479abeb3c292a87b1edb2b53",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims...",
+          "sourceName": "Plainview Daily Herald",
+          "url": "https://www.myplainview.com/news/politics/article/maine-dems-hammer-collins-over-report-of-22445809.php",
+          "publishedAt": "2026-09-23T18:57:30.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "36e39cc21e50b82396a03156b9011aece6dfbebb35cb03c5004e4bef4c2e200b",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims “completely false” and politically motivated. The ProPublica report, published...",
+          "sourceName": "Nvdaily",
+          "url": "https://www.nvdaily.com/associated_press_national/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it/article_66b9cf24-a48d-5ee7-a7b3-9d8ffa01d5c5.html",
+          "publishedAt": "2026-09-23T18:55:27.000Z",
+          "sentiment": 0.4588
+        },
+        {
+          "id": "054bcd2409d1b8d427d60ae4850f1d49faaeae1999b30827fbe710ea3982f0a6",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims...",
+          "sourceName": "Alton Telegraph",
+          "url": "https://www.thetelegraph.com/news/politics/article/maine-dems-hammer-collins-over-report-of-22445809.php",
+          "publishedAt": "2026-09-23T18:55:27.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "aa7701861468efc257ef390d5201d8c90e4b2415bb19c1611aaef5a794a0667a",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims “completely false” and politically motivated. The ProPublica report, published...",
+          "sourceName": "Rutland Herald",
+          "url": "https://www.rutlandherald.com/ap/national/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it/article_7d3945cc-a783-5f3d-ac9b-3bdb2f74466d.html",
+          "publishedAt": "2026-09-23T18:55:27.000Z",
+          "sentiment": 0.4588
+        },
+        {
+          "id": "b31a21556317aa62a9d8a9b8053a4843c0749a2b5109d44944adb91212b7168a",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims “completely false” and politically motivated. The ProPublica report, published...",
+          "sourceName": "Killeen Daily Herald",
+          "url": "https://kdhnews.com/news/nation/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it/article_1fc8b43c-8aed-57c8-b974-b698b2f4a43f.html",
+          "publishedAt": "2026-09-23T18:55:27.000Z",
+          "sentiment": 0.4588
+        },
+        {
+          "id": "e2406024af0fb1bf0dcab08a864f6f8423e0e6f8999c321528f255acc2bfc53c",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "PORTLAND, Maine (AP) -- Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent",
+          "sourceName": "The Daily Independent At Yourvalley.net",
+          "url": "https://www.yourvalley.net/stories/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false,722658",
+          "publishedAt": "2026-09-23T18:55:27.000Z",
+          "sentiment": -0.5574
+        },
+        {
+          "id": "a6c112979896f1308f5e141836d97ca0a5d13e8717dbb533bc1752d12cfadd91",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims “completely false” and politically motivated. The ProPublica report, published...",
+          "sourceName": "Times Argus",
+          "url": "https://www.timesargus.com/news/national/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it/article_fb8b58a7-7ff2-5a1a-bc7c-b9a4b863cc4e.html",
+          "publishedAt": "2026-09-23T18:55:27.000Z",
+          "sentiment": 0.4588
+        },
+        {
+          "id": "5d5e09f06383313bc03f6b4f046a06aff737e04ed0cf20bd889d79f40dd8475c",
+          "title": "Facing heat from Democrats, Collins team calls corruption allegations ‘outrageous’",
+          "description": "Collins campaign manager Steve Abbott said the story was a rerun of similar claims made during her 2020 campaign.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/09/23/facing-heat-from-democrats-collins-team-calls-corruption-allegations-outrageous/",
+          "publishedAt": "2026-09-23T18:42:57.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "de6d3dbd3bb047e5d1d268f7a0e03b9274369f02963c08c42c769b16f28a91d1",
+          "title": "Facing heat from Democrats, Collins team calls corruption allegations ‘outrageous’",
+          "description": "Collins campaign manager Steve Abbott said the story was a rerun of similar claims made during her 2020 campaign.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/09/23/facing-heat-from-democrats-collins-team-calls-corruption-allegations-outrageous/",
+          "publishedAt": "2026-09-23T18:42:57.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2064b46f76f302cfb84b7f3f4f1d45f4bb7df0254cdfe6002144086fb4b8e254",
+          "title": "Facing heat from Democrats, Collins team calls corruption allegations ‘outrageous’",
+          "description": "Collins campaign manager Steve Abbott said the story was a rerun of similar claims made during her 2020 campaign.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/09/23/facing-heat-from-democrats-collins-team-calls-corruption-allegations-outrageous/",
+          "publishedAt": "2026-09-23T18:42:57.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6039e7c003d84d138fc5934736b686f1336892d6d45f72b9882ac6c9bcf10902",
+          "title": "Maine Dems hammer Susan Collins over report of pay-to-play probe. GOP senator calls it ‘completely false’",
+          "description": "PORTLAND, Maine — Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Home | Triblive.com",
+          "url": "https://triblive.com/news/world/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:37:41.000Z",
+          "sentiment": -0.7845
+        },
+        {
+          "id": "b7b30277397831f9947b64574707d257422830dd0c82fb3e46c71d85f65afe40",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "ProPublica reported FBI planned to investigate Collins’ dealings with a defense contractor.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-88063260",
+          "publishedAt": "2026-09-23T18:35:00.000Z",
+          "sentiment": 0.128
+        },
+        {
+          "id": "36f832bdbcd20bc8cd85bd50b856adbc921d24f7514d42e70bd5d0c19903c1fe",
+          "title": "The New “Hot” Issue: Home Heating Bills Spiking Due to the Iran War",
+          "description": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free . Inside Washington The new “hot” issue: Home heating bills spiking due to the Iran war As autumn begins and temperatures start to dip across the Northeast, many Americans who rely on heating oil to warm their homes are facing massive price increases due to the war in Iran. Democrats have started talking about utility costs on the campaign trail, and voters facing a cold and expensive winter seem to be listening. Some of the cycle’s most watched elections are in states where heating oil keeps houses warm in the wintertime: Maine, Alaska, and Pennsylvania. Democratic candidates in these states are already running on the high cost of heating as winter approaches. On Tuesday, the House Majority PAC released an ad slamming Paul LePage , the Republican candidate running against Democrat Matt Dunlap in Maine’s 2nd congressional district. “LePage supports a foreign war that’s sending gas and oil prices in Maine through the roof,” the ad says. Dunlap hammered that point in a statement to The New Republic, writing that “Mainers are already being forced to choose between heating their homes, buying groceries, and paying for health care.” Meanwhile, he said, “Paul LePage supports the Iran war that’s raising prices and refuses to challenge his party bosses in Washington.” Maine Senate candidate Troy Jackson ’s campaign tied heating oil prices to Senator Susan Collins in a statement to The New Republic : “Susan Collins has spent decades selling out Mainers by supporting an agenda that raises their energy costs, dismantling programs aimed at lowering prices, signing off on Trump’s war that’s jacking up the cost of heating oil as Mainers schedule their tank fill-ups for winter,” said campaign spokesperson Cheyenne Gallivan. In Alaska, Senate candidate Mary Peltola echoed that sentiment, releasing a statement tying her opponent to the cost of home heating. “A dozen times Dan Sullivan has voted to continue the war in Iran. A dozen times Dan Sullivan has voted to jack up our prices. Sullivan’s fuel price hikes affect everyone—from our smallest fishing boat in the ocean, to families heating their homes through winter,” the statement reads. Earlier this month, the price of oil topped $100 per barrel for the first time since July, and estimates from the National Energy Assistance Directors Association, or NEADA, project that U.S. households will spend on average nearly 9 percent more than last year—an extra $82—to heat their homes this winter. The figure is even higher for households that rely on heating oil, though; NEADA estimates that households using heating oil could pay $707 more than they did last winter to stay warm. In New York, the cost of heating oil has shot up 66 percent from last year’s price. Across the Northeast, some homeowners are already making tough decisions about how they plan to heat their homes. Experts stressed that utility costs have already been higher than usual, and the Iran war has only added to that burden. The increased cost of energy comes as the war in Iran nears its seven-month mark. This week, Senate Democrats are planning to push another vote curbing Trump’s war-making power to the floor, hoping to get Republicans on record in their support for the expensive and devastating conflict. In previous war powers votes, Republican Senators Susan Collins of Maine, Lisa Murkowski of Alaska, and Rand Paul of Kentucky have voted with Democrats to oppose the war. Retiring Senator Thom Tillis of North Carolina has said that he would support the resolution this time, after voting against it previously. Aside from trying to halt the war in Iran, some Democrats are pushing to strengthen energy assistance programs that help the lowest-income and most vulnerable Americans, like the Low Income Home Energy Assistance Program, or LIHEAP. “Last year was Vermont’s coldest winter in almost two decades, and the weather will only continue to get more extreme—in red and blue states alike,” said Vermont Senator Peter Welch . “Yet the Trump administration has threatened to eliminate LIHEAP—not just once, but six times.” On Thursday, Senator Kirsten Gillibrand of New York sent a letter to RFK Jr. requesting that the Department of Health and Human Services release LIHEAP funding to the states earlier, “in light of the alarming rise in global oil prices prompted by this administration’s war in Iran.” In the early days of the Trump administration, DOGE fired the entire staff responsible for LIHEAP. “Making sure that there is a federal workforce that is able to administer the LIHEAP program and release the funds at least on time is definitely super important,” said Rachel Jacobson , the lead researcher on state climate policy at the Center on Budget and Policy Priorities. Meanwhile, she explained, states could put into place moratoria on utility shutoffs, preventing utilities from cutting off energy to residents who can’t afford it during the coldest months of the year. While it could be an expensive winter for some in the Northeast and beyond, Sandeep Vaheesan , legal director at the Open Markets Institute, cautiously suggested there could be a bright side. “One sort of positive feature of the moment is energy costs have been politicized,” he said. “Will the public and political interest be sustained and be enough to activate elected officials? I don’t think the affordability crisis is going away, so I’m cautiously optimistic.” —Emma Janssen Outside Washington Reaction continues to ProPublica’s blockbuster report published Tuesday morning. GOP Senator Susan Collins of Maine, the ProPublica team revealed, was being investigated by the FBI over surprisingly detailed and specific pay-to-play allegations when the Trump administration gutted the anti-corruption arm of the Justice Department, shuttering an investigation that was rapidly widening to include other members of Congress. Democrat Troy Jackson , who faces Collins in November, quickly issued a statement Tuesday calling Collins’s actions “corruption of the highest order” and saying that Maine residents “deserve answers.” Collins’s team, meanwhile, has called the ProPublica story “categorically false.” The final line of ProPublica’s Tuesday piece implicated another senator, as well: the late Lindsey Graham . As of Wednesday morning there has been no reaction from the campaign of Darline Graham Nordone —Graham’s sister, appointed to replace him, who is now defending the seat against Democratic challenger Annie Andrews . At Spotlight PA, Stephen Caruso lays out possible scenarios for Democrats to flip Pennsylvania’s state Senate, after decades of GOP control. “Pennsylvania Democrats have their best shot in recent memory,” writes Caruso, “at winning a vaunted trifecta—meaning control of the governorship and both legislative chambers.” Democrats Eileen Hartnett Albillar , Mark Pinsley , Chris Thomas , and Brian Wrightson are challenging Republican incumbents in the 6th, 16th, 24th, and 40th districts, respectively, and the limited polling available suggests some of these may be close. “The latter two races,” Caruso notes, “have been defined by the ongoing data center debate.” —Heather Souvaine Horn The Ideas Factory Open Markets Institute isn’t loving the Paramount–Warner Bros. merger settlement, in which Paramount agreed to various niceties in exchange for state attorneys general dropping the suit to block the company’s acquisition of Warner Bros. “It is increasingly obvious,” OMI executive director Barry Lynn said in an aggressive statement on the organization’s website, “that many top political leaders and officials are either beholden to corporate monopolies, or feel unable to stand up to their power.” Lynn singles out California Governor Gavin Newsom , Democratic gubernatorial nominee Xavier Becerra , and Los Angeles Mayor Karen Bass for particular censure, alleging they pressured California Attorney General Rob Bonta to settle. As is traditional ahead of state visits like the one Washington will see this week, several think tanks and outlets have published ideas and recommendations for better U.S.-China relations in the lead-up to Chinese President Xi Jinping ’s White House visit on Thursday. Here’s a particularly interesting one: At the Carnegie Endowment for International Peace , visiting researcher Lucy Luo last week tackled the question of what an AI crisis “hotline”—as some have recommended to deal with the risk of rogue AI agents—would need to look like in order to be effective. Prior U.S.-China hotlines “repeatedly failed in moments of need,” Luo notes. For this one to work, she writes, it should be text-based, would need to “establish different lines for routine communication and emergencies,” as well as “thresholds” for hotline use, and would need to “design for AI.” Have a read . —Heather Souvaine Horn In Closing Political Trivia Question of the Day Trump’s threat to “annihilate” Iran brings to mind the 1953 CIA-backed coup that installed the Shah (who in turn was deposed in 1979 by the revolution that ushered in the current government). Who was the CIA operative long credited with orchestrating the coup? ( Sign up for The TNR Blue Book to find the answer in tomorrow’s newsletter.) —Michael Tomasky",
+          "sourceName": "The New Republic",
+          "url": "https://newrepublic.com/post/215773/heating-oil-bills-iran-prices",
+          "publishedAt": "2026-09-23T18:27:11.000Z",
+          "sentiment": 0.991
+        },
+        {
+          "id": "8c1771e4324b7c929d66937513ffc9c3ae65472d941bce11368247e559c6861c",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "ProPublica reported FBI planned to investigate Collins’ dealings with a defense contractor.",
+          "sourceName": "Troy Record",
+          "url": "https://www.troyrecord.com/2026/09/23/election-2026-maine-senate-collins-pay-to-play/",
+          "publishedAt": "2026-09-23T18:26:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fa7d1607eef940f3334976925ae7ee2f0e11f06d307e4a6b5599dbe877e6963e",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "ProPublica reported FBI planned to investigate Collins’ dealings with a defense contractor.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/09/23/election-2026-maine-senate-collins-pay-to-play/",
+          "publishedAt": "2026-09-23T18:26:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f3fb5a551747c96231a19d0eef03f3240bdf771d4455b4759f3661b255c3c855",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "ProPublica reported FBI planned to investigate Collins’ dealings with a defense contractor.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/09/23/election-2026-maine-senate-collins-pay-to-play/",
+          "publishedAt": "2026-09-23T18:26:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6f8c942f71e93759d6996176776ea331be8386cbb7acb1156584f260cf040695",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "ProPublica reported FBI planned to investigate Collins’ dealings with a defense contractor.",
+          "sourceName": "Fortmorgantimes",
+          "url": "https://www.fortmorgantimes.com/2026/09/23/election-2026-maine-senate-collins-pay-to-play/",
+          "publishedAt": "2026-09-23T18:26:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "55d687d399a01016dfb4be633dcf020b0ecb1e628b3f80cf4a75b6d4f8d23e5e",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "ProPublica reported FBI planned to investigate Collins’ dealings with a defense contractor.",
+          "sourceName": "Boulder Daily Camera",
+          "url": "https://www.dailycamera.com/2026/09/23/election-2026-maine-senate-collins-pay-to-play/",
+          "publishedAt": "2026-09-23T18:26:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b7f80170e30beca56d0a74ea0b62e43fb239f791f902530e02957cf82f15b823",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it ‘completely false’",
+          "description": "ProPublica reported FBI planned to investigate Collins’ dealings with a defense contractor.",
+          "sourceName": "The News Herald",
+          "url": "https://www.thenewsherald.com/2026/09/23/election-2026-maine-senate-collins-pay-to-play/",
+          "publishedAt": "2026-09-23T18:26:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b4b8bec81b75251624eefe50c3b03c865a6536a12872c0bb3fdcb9e9192b1341",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "ProPublica reported FBI planned to investigate Collins’ dealings with a defense contractor.",
+          "sourceName": "Greeley Tribune",
+          "url": "https://www.greeleytribune.com/2026/09/23/election-2026-maine-senate-collins-pay-to-play/",
+          "publishedAt": "2026-09-23T18:26:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "16ae628a7e9b08075fe0538b92ca1f23eba516011e74e436b6513d98c9ab76df",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "ProPublica reported FBI planned to investigate Collins’ dealings with a defense contractor.",
+          "sourceName": "Longmont Times Call",
+          "url": "https://www.timescall.com/2026/09/23/election-2026-maine-senate-collins-pay-to-play/",
+          "publishedAt": "2026-09-23T18:26:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1400355070544ff6f34692cad772eec307a578aa13d4a2c94e1e2bba7af10041",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "ProPublica reported FBI planned to investigate Collins’ dealings with a defense contractor.",
+          "sourceName": "Canon City Daily Record",
+          "url": "https://www.canoncitydailyrecord.com/2026/09/23/election-2026-maine-senate-collins-pay-to-play/",
+          "publishedAt": "2026-09-23T18:26:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0b78d6dd3239ae52fbcfd87c7b234c81d19b581604d837c8303d44abb2a4854a",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions.",
+          "sourceName": "Wsls",
+          "url": "https://www.wsls.com/news/politics/2026/09/23/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:20:52.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c66aded123669d01f7861ff95b219de9aa84b5c47d6d3542aaac8697c649c17b",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions.",
+          "sourceName": "Wkmg",
+          "url": "https://www.clickorlando.com/news/politics/2026/09/23/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:20:45.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4b0893c08ee2415066af97c43e21eed9064c6fc3ae5dcafc09ad090732fc064e",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Local 10 News",
+          "url": "https://www.local10.com/news/politics/2026/09/23/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:20:18.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f5804fc91b50b268498284a0bd44c6a4742dc6e8e39a5ab88911b81b8417db57",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims...",
+          "sourceName": "Beaumont Enterprise",
+          "url": "https://www.beaumontenterprise.com/news/politics/article/maine-dems-hammer-collins-over-report-of-22445809.php",
+          "publishedAt": "2026-09-23T18:19:52.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "26b2fc91ae8f814e2aa35f41ffce37b5569ee72c4ee4de0c7259bb90f67f24ab",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims...",
+          "sourceName": "News Times",
+          "url": "https://www.newstimes.com/news/politics/article/maine-dems-hammer-collins-over-report-of-22445809.php",
+          "publishedAt": "2026-09-23T18:19:52.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c26456141d38e075c7296357c8e0214be14436ce01b1cf3b93d399e6f36fc52e",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/09/23/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false",
+          "publishedAt": "2026-09-23T18:19:49.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "868d676de9595e592332f8e2bb7d863a967531535c26d0267048615614c90863",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison. The ProPublica report, published Tuesday, states that the FBI in 2024 planned to launch an investigation into Collins’ [...]",
+          "sourceName": "Infonews.ca",
+          "url": "https://infonews.ca/news/7881639/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:19:49.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5ad53411b5f79a4755241fdf88c1816b7fcad81c54a4f652bf3068431c56c174",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+          "sourceName": "The Star",
+          "url": "https://www.thestar.com/news/world/united-states/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/article_dfb6f521-f43f-5dcb-830b-359f64e26b9e.html",
+          "publishedAt": "2026-09-23T18:19:49.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "23fd3fe8f9e5d41f24c10af5551a80ff2addacc82bbe27eb3c192d0cf9c456aa",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison. The ProPublica report, published Tuesday, states that the FBI in 2024 planned to launch an investigation into Collins’...",
+          "sourceName": "Wtop News",
+          "url": "https://wtop.com/news/2026/09/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:19:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3b9628cc0f6f3f8b4e48288ca7323bc98dd664bed063a6844bd322bb0e87fbac",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions.",
+          "sourceName": "Newsday",
+          "url": "https://www.newsday.com/long-island/politics/susan-collins-maine-senate-troy-jackson-r33516",
+          "publishedAt": "2026-09-23T18:18:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1b7e0a0593c494ad59e98a4adba854abf52317d1a12af0b8661ee75b1a442a81",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison. The ProPublica report, published Tuesday, states that the FBI in 2024 planned to launch an investigation into Collins' [...]",
+          "sourceName": "Kxan",
+          "url": "https://www.kxan.com/news/national-news/ap-maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:18:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ed98d48d5e367b3565b284da99fdc6c682376240adfa8675b14f683643b9b2a6",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims “totally false” and politically motivated. The ProPublica report, published...",
+          "sourceName": "Winchesterstar",
+          "url": "https://www.winchesterstar.com/associated_press/washington/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls/article_6028afdf-e088-5434-9445-556229dd17ee.html",
+          "publishedAt": "2026-09-23T18:18:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "bde624e0a90a4b29ebd2f287a1629e13ffbde2aafd994485718577a36eac2805",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison. The ProPublica report, published Tuesday, states that the FBI in 2024 planned to launch an investigation into Collins' [...]",
+          "sourceName": "Wcbd-tv News Channel 2",
+          "url": "https://www.counton2.com/news/national-news/ap-maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:18:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a9d275802b2545f5acd3450261748f4706fe4fed052a353f0d9f79fc4ee1b359",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims “totally false” and politically motivated. The ProPublica report, published...",
+          "sourceName": "Dnronline",
+          "url": "https://www.dnronline.com/associated_press/national/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls/article_05dfc583-d67d-50c1-aeb3-c1a1e15ed6dd.html",
+          "publishedAt": "2026-09-23T18:18:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "654824aa59c17f8a4aaffebbb166999c106f248f46ceacf6ad14146279d6fd77",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions. Collins calls the claims “totally false” and politically motivated. The ProPublica report, published...",
+          "sourceName": "Wink News",
+          "url": "https://www.winknews.com/news/international/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls/article_a9d537b6-3735-59fa-9c36-218066817c8e.html",
+          "publishedAt": "2026-09-23T18:18:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "449f5defdadea3d43e07c5959278cdb6458056b778956c4bc6648d88d6d1f458",
+          "title": "Maine Dems Hammer Collins Over Report of Pay-To-Play Probe. GOP Senator Calls It 'Completely False'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions",
+          "sourceName": "Usnews",
+          "url": "https://www.usnews.com/news/politics/articles/2026-09-23/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false",
+          "publishedAt": "2026-09-23T18:18:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c62e469974ce3d455afcfc617cab0e62a990fd425f57c648930c56bc69cfc3de",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions.",
+          "sourceName": "Ksat",
+          "url": "https://www.ksat.com/news/politics/2026/09/23/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false/",
+          "publishedAt": "2026-09-23T18:18:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "1f9996698295607dea3d5521b4e8366cbb7420b9f8af69d01c7476f96405729d",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions.",
+          "sourceName": "Clickondetroit",
+          "url": "https://www.clickondetroit.com/news/politics/2026/09/23/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:18:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "d4b84443704ee8d09a20f3eb7f97e9a33e57f0ef01f7b7f5450a382134adcce5",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions.",
+          "sourceName": "Click2houston",
+          "url": "https://www.click2houston.com/news/politics/2026/09/23/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false/",
+          "publishedAt": "2026-09-23T18:18:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "c6f9bde3e6b3a345fbf7ccac84fb7f4363a4185a8b13cce07c7ba609a2f2f6c1",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "PORTLAND, Maine (AP) — Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison. The ProPublica report, published Tuesday, states that the FBI in 2024 planned to launch an investigation into Collins’ [...]",
+          "sourceName": "Tri-city Record Nm",
+          "url": "https://www.tricityrecordnm.com/articles/associated-press-new-mexico/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:18:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "ab9b3c22e4e63db1cc34c99c0bf24c8d9f3fd05fbe3fd08f7d1ab88563d7c60d",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it 'totally false'",
+          "description": "Maine Democrats are calling for Republican Sen. Susan Collins to account for a report that alleged she was the target of a federal investigation over campaign contributions.",
+          "sourceName": "News4jax",
+          "url": "https://www.news4jax.com/news/politics/2026/09/23/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-the-gop-senator-calls-it-totally-false/",
+          "publishedAt": "2026-09-23T18:18:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "b2f1e564c8eb2baa35ff205ba798077211dfc69a59e55c971041ea55edfdf260",
+          "title": "Maine Dems hammer Collins over report of pay-to-play probe. The GOP senator calls it ‘totally false’",
+          "description": "The ProPublica report, published Tuesday, states that the FBI in 2024 planned to launch an investigation into Collins' dealings with Navatek, a Hawaii defense contractor and donor to her campaign.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/09/23/politics/elections/maine-dems-hammer-collins-over-propublica-report/",
+          "publishedAt": "2026-09-23T18:18:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "de39f36adb2f3858710c27d0d942990f4d5f4e98e03433e3770ee3af0b85c758",
           "title": "Democrats accuse Susan Collins of 'corruption' following report on alleged pay-to-play scheme",
           "description": "Collins' office as well as FBI officials have said the allegations — contained in an investigative report from ProPublica — are completely false. But Democrats clearly hope to convince voters otherwise in the final six weeks of the fall election campaign.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/politics/2026-09-22/democrats-accuse-susan-collins-of-corruption-following-report-on-alleged-pay-to-play-scheme",
-          "publishedAt": "2026-09-22T23:09:30.000Z",
-          "sentiment": 0
+          "sourceName": "Wgbh",
+          "url": "https://www.wgbh.org/news/politics/2026-09-23/democrats-accuse-susan-collins-of-corruption-following-report-on-alleged-pay-to-play-scheme",
+          "publishedAt": "2026-09-23T18:17:25.000Z",
+          "sentiment": -1
         },
         {
-          "id": "27f3e3b5326a8491b44bcdc488c92b6fc913189f716ff15d3a297fb412f099f2",
-          "title": "What to know about the pay-to-play allegations against Susan Collins",
-          "description": "Collins' team was questioned by federal agents after the 2020 election. An aide said any allegations of corruption are \"categorically false.\"",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/09/22/what-to-know-about-the-pay-to-play-allegations-against-susan-collins/",
-          "publishedAt": "2026-09-22T22:15:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bfc64fb4e1a3464b832ead1575c35b85694519309222a0f4b296e00e8815b122",
-          "title": "What to know about the pay-to-play allegations against Susan Collins",
-          "description": "Collins' team was questioned by federal agents after the 2020 election. An aide said any allegations of corruption are \"categorically false.\"",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/09/22/what-to-know-about-the-pay-to-play-allegations-against-susan-collins/",
-          "publishedAt": "2026-09-22T22:15:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ab309628a29e53175f896a38d9b5ca2e22d4a4a2450f791b3d749b461d5807d5",
-          "title": "What to know about the pay-to-play allegations against Susan Collins",
-          "description": "Collins' team was questioned by federal agents after the 2020 election. An aide said any allegations of corruption are \"categorically false.\"",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/09/22/what-to-know-about-the-pay-to-play-allegations-against-susan-collins/",
-          "publishedAt": "2026-09-22T22:15:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7d13ec133e39a95bdfdb4802b46b382eebd55f8e29b2d2c986c16b02b8cbf7a4",
-          "title": "Victor Davis Hanson: A Midterm Elections Update",
-          "description": "Editor’s note: This is a lightly edited transcript of today’s video from Daily Signal senior contributor Victor Davis Hanson. Subscribe to our YouTube channel to see more of his videos. Hello, this is Victor Davis Hanson for the Daily Signal. We’re about five weeks from the midterms, and maybe we should have another update. Both...",
-          "sourceName": "The Daily Signal",
-          "url": "https://www.dailysignal.com/2026/09/22/hanson-polls-story-2026-midterms/",
-          "publishedAt": "2026-09-22T21:40:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "35640c12cb34e52c571ad74505228069dcfe137a24908e4c6aa7c9943f6bdf9a",
-          "title": "FBI was looking at key Republican senator in bribery probe — then Trump took office",
-          "description": "Susan Collins’ office denies new details of allegations made by CEO as he tried to reduce prison sentence",
-          "sourceName": "The Independent",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/susan-collins-fbi-bribery-investigation-b3054556.html",
-          "publishedAt": "2026-09-22T20:31:21.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "76de53b3a50044c0d3d2bf5aef155243d03038e7a1267b6344b4a48f95c208bd",
-          "title": "F.B.I. Shut Down Inquiry Into Top Ally of Senator Susan Collins - The New York Times",
-          "description": "F.B.I. Shut Down Inquiry Into Top Ally of Senator Susan Collins The New York Times The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way ProPublica Collins opponent says ‘jig is up’ after ProPublica report; her aide calls it ‘categorically false’ The Hill Susan Collins Faces Bribery Accusations Amid Senate Race—Troy Jackson Cries ‘Corruption’ Forbes What to know about ProPublica’s report on an FBI investigation surrounding Susan Collins’s 2020 election bid The Boston Globe",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObDlJNUU4MGtVcGpkNnpzYkNid1J6NnExM3Rta2lsdGgzNVZuUDNHYWdxQ3M1MmNFdzY3enR4UldVXzVQY3AxMXgzMURUV0FpQTRPYzQ1SERzMUlDTnhKRnBQZ3BLclVQaklIazBKVnNhQzNTR2poMEtqaHppbzJkaQ?oc=5",
-          "publishedAt": "2026-09-22T19:51:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d3ab81280b04df129a2cb1f73df3e5dec3ef6548e80354736e1c3e0faaa5f18c",
-          "title": "Susan Collins Blasted by Troy Jackson Over FBI Probe Report—‘Corruption’",
-          "description": "GOP Senator Susan Collins is facing her most competitive race yet in Maine against Democrat Troy Jackson.",
-          "sourceName": "Newsweek",
-          "url": "https://www.newsweek.com/susan-collins-blasted-by-troy-jackson-over-fbi-probe-reportcorruption-12474119",
-          "publishedAt": "2026-09-22T19:16:07.000Z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "6eaa3008c82d88197842897c67dbaa716d128c1838c26245734b17bcbecaafd9",
-          "title": "Susan Collins blasted by Troy Jackson over report on FBI probe—\"Corruption\"",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/susan-collins-blasted-by-troy-jackson-over-report-on-fbi-probecorruption-AB9C36F2-012B-4E27-8D5F-63A1273C54F9",
-          "publishedAt": "2026-09-22T19:16:07.000Z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "ba111eb027846da5c6522bdfac4782b0a0d30e6c5f15b0a31533543a65603eee",
-          "title": "Susan Collins in trouble: Pay-for-play scheme exposed",
-          "description": "Susan Collins, the Republican U.S. senator from Maine, is in a close election battle that could determine which party controls that chamber after Nov. 3. She benefited from illegal contributions from a defense contractor she helped win federal money. A report from ProPublica published on Tuesday said that by the end of 2024 the FBI [...]",
-          "sourceName": "People's World",
-          "url": "https://www.peoplesworld.org/article/susan-collins-in-trouble-pay-for-play-scheme-exposed/",
-          "publishedAt": "2026-09-22T19:03:16.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "40b70b8ba9a3d6d441afa76c106996ecfe92ea4099531e38c502d324d92c230e",
-          "title": "Report claims Collins was target of FBI campaign finance probe",
-          "description": "A newly released report puts Senator Susan Collins at the center of an FBI probe into possible campaign finance law violations.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/09/22/report-claims-collins-was-target-fbi-campaign-finance-probe/",
-          "publishedAt": "2026-09-22T18:47:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ba4356966b8d0c47aa03e3dbb2afc598430f89c7c3c5c813379253eaaa7dc439",
-          "title": "Susan Collins Denies Wrongdoing After Bombshell Report on FBI Corruption Probe",
-          "description": "The FBI reportedly investigated ties between Collins’ campaign and a military contractor roughly seven years ago.",
-          "sourceName": "washingtonsun",
-          "url": "https://www.washingtonsun.com/senate/susan-collins-fbi-corrpution-maine",
-          "publishedAt": "2026-09-22T18:41:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4f161c4a057217bdcdd899b6ce6803b56b14413f411e7676446ce44ac30b02df",
-          "title": "Susan Collins aide dismisses ProPublica corruption allegation as ‘categorically false’",
-          "description": "The story was published as polls show Collins tied or narrowly behind in one of the most pivotal Senate races of the 2026 cycle.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4737762/susan-collins-aide-dismisses-propublica-categorically-false-contribution-contracts/",
-          "publishedAt": "2026-09-22T18:35:58.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "68d699df51b720bc16f15a69a71ad12561f7038d461e4aa963018909389ae9a4",
-          "title": "Susan Collins Bribery Investigation Rock Maine Senate Race: Ex-Navatek CEO Martin Kao Accusations Spark FBI Probe",
-          "description": "A ProPublica investigation reports that the FBI examined allegations linking Sen. Susan Collins to a potential pay-to-play scheme involving Navatek contracts and campaign donations from former CEO Martin Kao.",
-          "sourceName": "Times Now News",
-          "url": "https://www.timesnownews.com/world/us/us-news/susan-collins-bribery-investigation-rock-maine-senate-race-ex-navatek-ceo-martin-kao-accusations-spark-fbi-probe-article-156206077",
-          "publishedAt": "2026-09-22T18:32:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5e7a844db2eed5e3238b61e4a78fe05c1c611c912d735f389a9f958d2d2832e8",
-          "title": "Troy Jackson Accuses Susan Collins of Corruption in Contract Deals",
-          "description": "Jackson demands answers on alleged corruption by Senator Susan Collins, citing defense contractor Navatek and campaign contributions tied to federal contracts, and calls for investigation into bribery claims involving lawmakers and lobbyists.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/troy-jackson-accuses-susan-collins-of-corruption-in-88021851",
-          "publishedAt": "2026-09-22T17:47:00.000Z",
-          "sentiment": 0.8
-        },
-        {
-          "id": "b863626645473cffb21a68456c3a09d513ac94ffa73f4f699980f945cf220dd5",
-          "title": "Key takeaways from a ProPublica report on the FBI’s anti-corruption squad looking into Senator Susan Collins",
-          "description": "The details of the FBI investigation published 42 days before Collins faces a tough reelection bid against progressive Troy Jackson.",
-          "sourceName": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/09/22/nation/propublica-report-susan-collins-takeaways/",
-          "publishedAt": "2026-09-22T17:40:32.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "75f9be9394e48b4993af518621ea00f7e389abc8a110e360e259a394b03fa86e",
-          "title": "Susan Collins Faces Bribery Accusations Amid Senate Race—Troy Jackson Cries ‘Corruption’ - Forbes",
-          "description": "Susan Collins Faces Bribery Accusations Amid Senate Race—Troy Jackson Cries ‘Corruption’ Forbes The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way ProPublica Sen. Susan Collins' staff denies corruption allegations made in ProPublica report WMTW Collins opponent says ‘jig is up’ after ProPublica report; her aide calls it ‘categorically false’ The Hill Susan Collins Was Target of Federal Bribery Case ... Until Trump Gutted the FBI Rolling Stone",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXFPaUxiYWZ4U0dmNzhZaXNBMGVOSE5jRWMwZWdBa0s5WTdXVjJCNTFzWFpNVGpVR1p4Rk1JSEx2YlZiekY3Z3l6QWpBM2d1ZmxuUW0zcy10ZmpxS2NpM1ZibkQzZzlBWGRrTEpSMU5GdDc2ZTBacm94TTBYNjNPLWlraGxadUg5aE5mQXJZREVqNG5XRDJ5X3E1SXg2aDVsLWwtcWxNZDc2QWlJaTY3Tk00SlR6aGpGUThLUUNKLTZDUmgy?oc=5",
-          "publishedAt": "2026-09-22T17:35:31.000Z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "34b3ffb440f2d6f621f7f4e3eb50f653705e052339e9be1318909f3644b808ba",
-          "title": "Susan Collins Bribery Report Throws Wrench Into Razor-Thin Senate Battle",
-          "description": "The senator’s office has “vigorously” denied any wrongdoing, while Collins’ opponent Troy Jackson called the report “corruption of the highest order.”",
-          "sourceName": "Forbes",
-          "url": "https://www.forbes.com/sites/alisondurkee/2026/09/22/susan-collins-bribery-report-throws-wrench-into-razor-thin-senate-battle/",
-          "publishedAt": "2026-09-22T17:35:31.000Z",
-          "sentiment": 0.8
-        },
-        {
-          "id": "6b1932c8096c3e6b5eb2339159b764954119982b947b9d7f04acb6e8a1b53dac",
-          "title": "FBI’s anti-corruption team eyed Susan Collins’ operation. Then Trump’s purge began.",
-          "description": "With time running out ahead of Election Day, the Maine Republican’s Democratic rival said of the allegations, “This is corruption of the highest order.” The post FBI’s anti-corruption team eyed Susan Collins’ operation. Then Trump’s purge began. appeared first on MS NOW .",
-          "sourceName": "Ms Now",
-          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/susan-collins-fbi-navatek-navy-contract-corruption-allegations",
-          "publishedAt": "2026-09-22T17:21:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "40ce4c673051e5c9516bd1517c59262c9f8e8f4f90d12b5b56a39fcf6f7c7ed5",
-          "title": "Collins opponent says ‘jig is up’ after ProPublica report; her aide calls it ‘categorically false’",
-          "description": "Maine Democratic Senate nominee Troy Jackson criticized his opponent, Sen. Susan Collins (R-Maine), saying “the jig is up,” following a ProPublica corruption report into the senator which her aide calls “categorically false.” “This is corruption of the highest order. Susan Collins delivered millions in taxpayer dollars for a corrupt donor bankrolling her campaign, and then...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/senate/6104394-jackson-attacks-collins-corruption-navatek/",
-          "publishedAt": "2026-09-22T17:14:03.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "7ecd8785a6d017461e3426fe5f8e5c63d24cb83551a617cd9d06d5664b729ef4",
-          "title": "Collins opponent says ‘jig is up’ after ProPublica report; her aide calls it ‘categorically false’ - The Hill",
-          "description": "Collins opponent says ‘jig is up’ after ProPublica report; her aide calls it ‘categorically false’ The Hill The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way ProPublica F.B.I. Shut Down Inquiry Into Top Ally of Senator Susan Collins nytimes.com Susan Collins Faces Bribery Accusations Amid Senate Race—Troy Jackson Cries ‘Corruption’ Forbes What to know about ProPublica’s report on an FBI investigation surrounding Susan Collins’s 2020 election bid The Boston Globe",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNTYzU3djbDdxOEZJTmtCVkVlcFkteHo0aHZLbFB5ZkJsM0R5N09nYWpGNE9hckhkUzhMV2pDVmdLZUMwNVNjU1RYWEUxUkVHV0FWSk1MdzlzQ2ozT1dYZnlSeWF3N3U5NjZfMTB2ZTF3cVdmdkZQbUtBcERBS0tPcndPeVNNU1dIcGhPVXRPNznSAZYBQVVfeXFMTXpkd01SQ0lKOVJ0Um1zbXh3anNDM1FVcVpRQ1N6dmFBUFBFM3JGdjVSWG5zNjhWQkxUYUZraXNlb0VTSkxSSXhqY0VhLUQ2N0FjR2NwV3A5WVdLNktBWHE3eElMUlhfbjdHLVNHTUpYa2twX2tmY3BaRFNxSWE2YVI3NC10cmNGeVhHYkNrbzFCUks4bWRR?oc=5",
-          "publishedAt": "2026-09-22T17:14:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1c8aa3526b7c5a2ea429a278334baac833071b30c62dd100523b6b98ee9b5c47",
-          "title": "Susan Collins Was Target of Federal Bribery Case ... Until Trump Gutted the FBI",
-          "description": "Documents obtained by ProPublica suggest the senator flexed her power to secure government contracts for donors",
-          "sourceName": "Rolling Stone",
-          "url": "https://www.rollingstone.com/politics/politics-news/susan-collins-target-fbi-bribery-probe-1235629871/",
-          "publishedAt": "2026-09-22T16:55:22.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b04182c056223ef9bdd03906e79058b77a7b143f985f11c3d7c2efe15505e56c",
-          "title": "Susan Collins Was Target of Federal Bribery Case ... Until Trump Gutted the FBI - Rolling Stone",
-          "description": "Susan Collins Was Target of Federal Bribery Case ... Until Trump Gutted the FBI Rolling Stone The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way ProPublica Sen. Collins, Troy Jackson set to face off in CBS13/FOX23 U.S. Senate debate WGME F.B.I. Shut Down Inquiry Into Top Ally of Senator Susan Collins The New York Times ProPublica report includes claims that Sen. Collins took bribes for re-election money WGME",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3hpREFkaS1JUDNKaUljeGhuZDZEeDRha25oSmhDTXprNW1XdElZYXRJb25ObW9DeXZnX1hoRFFUekY2YnBoUjUwZDBfV3Q3aEF3ZG1EQk9iTTJqbFJxR2Vpc2c0MFNWbTAyMklsdVR3Y3dTYmh1dTlSalFpVEU3WGdNeVhpLURUVXNycmtCOGhpVjlVTmhPODE2Z0FtYUJOOUc3TQ?oc=5",
-          "publishedAt": "2026-09-22T16:55:22.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "81527710e1de75fa147e04d3261e8aaab0ecbcf602846305bc0539b69d84a60a",
-          "title": "Troy Jackson accuses Susan Collins of corruption following ProPublica report",
-          "description": "Collins’ team has denied any wrongdoing and called Navatek CEO Martin Kao’s claims of a widescale bribery scheme “outlandish.”",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/22/politics/elections/maine-election-senate-2026-troy-jackson-corruption-susan-collins-propublica/",
-          "publishedAt": "2026-09-22T16:29:21.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "46db0b8d2c34e5b7e6a434270633d494b51e93f54255c8ade049213224c09439",
-          "title": "Rating changes: A dozen more races move toward Democrats",
-          "description": "Troy Jackson, the Democratic Senate nominee in Maine, holds an ax given to him during a July campaign event in the Bangor area. Inside Elections now rates his race against GOP Sen. Susan Collins as a Toss-up. (Tom Williams/CQ Roll Call)",
-          "sourceName": "Roll Call",
-          "url": "https://rollcall.com/2026/09/22/rating-changes-a-dozen-more-races-move-toward-democrats/",
-          "publishedAt": "2026-09-22T16:28:00.000Z",
-          "sentiment": 0
+          "id": "7b59462bf5d38b327caccfa6dd5cdae50f6bcc740619b59fa28709ec29a7f805",
+          "title": "FBI shut down inquiry tied to Hawaii contractor’s claims",
+          "description": "The FBI in 2025 shut down an inquiry into allegations that a political adviser to Sen. Susan Collins had participated in a scheme to funnel illegal campaign contributions from a defense contractor seeking lucrative federal contracts, current and former officials said.",
+          "sourceName": "Hawaii News",
+          "url": "https://www.staradvertiser.com/2026/09/23/breaking-news/fbi-shut-down-inquiry-tied-to-hawaii-contractors-claims/",
+          "publishedAt": "2026-09-23T18:00:00.000Z",
+          "sentiment": -1
         }
       ],
       "social": [
