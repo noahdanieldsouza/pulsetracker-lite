@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T16:42:12.760Z",
+  "lastUpdated": "2026-10-02T17:23:21.960Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -22,16 +22,26 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.6666666666666666,
-      "newsSentiment": null,
+      "overallSentiment": -0.3333333333333333,
+      "newsSentiment": 0,
       "socialSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 0,
         "youtube": 6,
-        "total": 6
+        "total": 7
       },
-      "news": [],
+      "news": [
+        {
+          "id": "833dad2e6b906d1345a19f14e96c040a9be96102492896429269418b564dbd48",
+          "title": "Gone for 150 years: The case of the missing constitutional articles",
+          "description": "For the past 11 days, Ladd Library has played the role of first host to a deceptively simple exhibition touring various state cultural institutions. Starting on Sept. 21, three pages of the Maine State Constitution were on display in a glass box on the first floor of Ladd.",
+          "sourceName": "Bates College",
+          "url": "https://www.bates.edu/news/2026/10/01/gone-for-150-years-the-case-of-the-missing-constitutional-articles/",
+          "publishedAt": "2026-10-01T18:32:02.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [],
       "youtube": [
         {
@@ -100,447 +110,168 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": -0.04316834967320262,
-      "newsSentiment": -0.4166666666666667,
+      "overallSentiment": 0.154544068627451,
+      "newsSentiment": 0.17647058823529413,
       "socialSentiment": 0.08529411764705881,
       "mentions": {
-        "news": 48,
+        "news": 17,
         "social": 102,
         "youtube": 40,
-        "total": 190
+        "total": 159
       },
       "news": [
         {
-          "id": "520f10708a814f0af59189289901cca51c5f332e1f248db5226aa31be64db8f8",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "San Bernardino Sun",
-          "url": "https://www.sbsun.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:46:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bca704b30008f8c016eaf7475e34b16c38a8309b9d90a132dd7da60a0fdb8da3",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Paradise Post",
-          "url": "https://www.paradisepost.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:46:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "70a951721986deb310f9d908fb271dc08d0031ba3b6cc717d3b0bbeb2fdecc82",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Redlands Daily Facts",
-          "url": "https://www.redlandsdailyfacts.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:46:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6b70651d272596cb7129090d0caa7dd1303425b1afaeae47efb9e739f2559dde",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Press Enterprise",
-          "url": "https://www.pressenterprise.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:46:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e58a9472fa864d01a9af5b3323002c3f115b52890aa6bfcf5d7660b79a70f69c",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "The Press Democrat",
-          "url": "https://www.pressdemocrat.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:46:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "08d25a8d8731e389dd0e9a5bde97b6568c063ab627e0ecd39156a71d9f1ecd76",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Inland Valley Daily Bulletin",
-          "url": "https://www.dailybulletin.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:46:10.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b016ae52834c8efad9c7411e4cef16a16b2fe736abd773a722dc63d7aced962b",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Monterey Herald",
-          "url": "https://www.montereyherald.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "eec422d8c314e054a8c18d5d91c1462b90aa86f836a10d975abd4f8e1cee4261",
-          "title": "2026-10-01T05:45:46+00:00",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Los Angeles Daily News",
-          "url": "https://www.dailynews.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4778852c0c59a1bac09f5dd99554210e35e41299e7d2bcb20d8e20c333334ba9",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "The Reporter",
-          "url": "https://www.thereporter.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "08c4b50e0b9d27b1ce1bb44b18a8323502092512d24d923406fbe9f05b8ec6df",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "The San Diego Union-tribune",
-          "url": "https://www.sandiegouniontribune.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4d65430267b06e67e1245142926b7ebe4444d5fc73518d746887f2df05000839",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Times Herald Online",
-          "url": "https://www.timesheraldonline.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6d343501fd9119607cc8461f08116d06c884aea5f49fde904b42f2f8218c70a2",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "The Mendocino Beacon",
-          "url": "https://www.mendocinobeacon.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a5950e21659626956a15fff4d5d06e98086290de6d27ad8d43975c308d8db9c9",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Santacruzsentinel.com",
-          "url": "https://www.santacruzsentinel.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "502056842bad7a9a701d405d3a43604c85732f873be68a759cc17b69089037f8",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Marin Independent Journal",
-          "url": "https://www.marinij.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c8b59b2d3c8e7a7762b654408afc8a925df7fcb885113285b87af386ac8d35b4",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Lake County Record-bee",
-          "url": "https://www.record-bee.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ce0b6c6d6080124159c605ed8e532eaaca79ca5c6a00f29980203412f81fdd4f",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Ukiah Daily Journal",
-          "url": "https://www.ukiahdailyjournal.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a94dce351bd9ae2dfef580f17bce5b3e6445904e680e400dfae8cec253a44307",
-          "title": "The most vulnerable senators of 2026, about a month out from Election Day",
-          "description": "Strong recruits, and a favorable political environment, have changed the Senate battleground in recent weeks.",
-          "sourceName": "Daily Democrat",
-          "url": "https://www.dailydemocrat.com/2026/10/01/vulnerable-senators-2026-midterms/",
-          "publishedAt": "2026-10-01T05:45:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c35f59948aa78a0a8b7c128d060f2550614024d63187513082ffe815db198ba9",
-          "title": "Letter: Susan Collins brings home money, but at what cost?",
-          "description": "“One of the things that many independents and even Democrats seemed to agree on was that Susan brings home the bacon.”",
+          "id": "1ce123e69f4feb15729f647552032166d8def116c421aefabe50ee59b2731f46",
+          "title": "Letter: Troy Jackson is the reason Maine students get free school meals",
+          "description": "“Maine first passed universal free school meals legislation in 2022 under the leadership of then-Senate President Troy Jackson.”",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/01/opinion/letters/letter-susan-collins-brings-home-money-but-at-what-cost-joam40zk0w/",
-          "publishedAt": "2026-10-01T05:00:00.000Z",
-          "sentiment": 0
+          "url": "https://www.bangordailynews.com/2026/10/02/opinion/letters/letter-troy-jackson-is-the-reason-maine-students-get-free-school-meals-joam40zk0w/",
+          "publishedAt": "2026-10-02T05:00:00.000Z",
+          "sentiment": 1
         },
         {
-          "id": "e0c638511bcbe009699fc25780c4f522571cdd5dd8951927c571ce5b4bf5bd7e",
-          "title": "Hegseth’s 20 Percent Military Cuts, California Governor Race, Maine Senate Fight: Panel Reacts",
-          "description": "Tiffany Meier Tonight to discuss Defense Secretary Pete Hegseth’s plan to reduce the number of generals and admirals, the California governor’s race between Xavier Becerra and Steve Hilton, and the Maine Senate contest between Susan Collins and Troy Jackson. The panel also examines the candidates’ competing messages, campaign records, and the issues shaping both races.",
-          "sourceName": "Ntd",
-          "url": "https://www.ntd.com/ntdplus/hegseths-20-percent-military-cuts-california-governor-race-maine-senate-fight-panel-reacts_1176096.html",
-          "publishedAt": "2026-10-01T03:56:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2367e3c7a2f3c1990e5154d9502874edc64e3b97acbebb7eddd853edb98208cc",
-          "title": "Collins' Husband And Adviser Worked For Lobbyists Behind Data Center Push",
-          "description": "Maine Sen. Susan Collins’ husband did consulting work for Chesapeake Enterprises, a lobbying firm that has pushed for more data center development. This was in 2025 when the firm’s only registered lobbyist was Scott Reed, the man at the center of an alleged pay-to-play scheme that is now threatening to derail Collins’ reelection campaign. Concerns about data centers and political corruption have consistently ranked as top issues for voters this year. Now, Collins is playing defense on both matters simultaneously. Collins married Thomas Daffron in 2012. Daffron had worked as a lobbyist, business consultant, and Republican political advisor. Collins’ net worth went from $250,000 to $2.9 million when they tied the knot. Today, it’s up to $4.1 million. Collins’ personal financial disclosures filed in May indicate that Daffron was paid at least $1,000 in consulting fees last year by Chesapeake Enterprises. Senate rules require spouses to report any income exceeding $1,000, but not the exact amount. Daffron previously served as the firm’s executive vice president from 2001 to 2004. Daffron was advising Chesapeake Enterprises when they lobbied the federal government last year on behalf of Hillwood Investments, a real estate development company that is chaired by billionaire H. Ross Perot Jr., a Collins campaign donor . Hillwood Investments helped build at least six data centers now operating in the U.S., including a Texas facility run by Meta, the parent company of Facebook. These centers, which provide the computing power needed to train and run AI systems, have become controversial for their excessive use of electricity and water, which has contributed to rising utility bills across the country. A recent New York Times /Siena poll found that 61 percent of Americans oppose building data centers in their communities. Multiple communities in Maine have now enacted moratoriums on building more data centers. Reed was Chesapeake Enterprises’s registered lobbyist for the Hillwood Investments account in 2025. Disclosures indicate that Reed lobbied the House and Senate on topics related to “real estate investments.” Reed is also the head of Pine Tree Results, a super PAC supporting Collins. In 2019, the FBI investigated Reed over a large donation he solicited from Navatek, a defense contractor. Former Navatek CEO Martin Kao, who is currently serving a prison sentence for wire fraud, told investigators that he gave the donation with the understanding that Collins would then help his company secure millions of dollars worth of federal contracts, which she ultimately did. The FBI investigation into Reed was dropped shortly after President Donald Trump returned to the White House. The alleged scheme was first reported by ProPublica on September 22. Collins has questioned the legitimacy of the report and steadfastly denied that any scheme existed. She has also publicly defended Reed. ProPublica has stood by its story and pushed back on Collins’ denials. Collins voted for the Ratepayer Protection Act, a bill that would theoretically require large data centers to cover their own electricity costs rather than passing them onto consumers. Senate Democrats say the legislation is toothless, noting that while it requires state public utility commissions to hold hearings and consider standards for data center cost-sharing, it is not mandatory that those standards actually be enacted. “It’s just fakery to try to fool voters into forgetting that Republicans spent the entire term trying to stop states from regulating AI,” Connecticut Sen. Chris Murphy told Yahoo Finance . The Ratepayer Protection Act failed to pass the Senate on September 30. Collins is seeking a sixth term this year and is widely regarded as one of the most vulnerable Republican incumbents facing reelection. Her Democratic opponent, state Sen. Troy Jackson, says data center development should only be greenlit if it has a measurable benefit for Mainers. Reprinted with permission from American Journal News",
-          "sourceName": "The National Memo",
-          "url": "https://www.nationalmemo.com/susan-collins-2677970515",
-          "publishedAt": "2026-10-01T02:31:32.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "05894d492a42f790c9e8193df9a97216b2e0626953e94a4f34e4e1d79255cb9e",
-          "title": "Maine Democrats replaced one sleazy bigot with another",
-          "description": "Maine Democrats have tapped one sleazy, antisemitic goon to replace another.",
+          "id": "355591c0eea434ed7adf6343cef14020d562c0d46749d80e2102c68de6572466",
+          "title": "The midterms come down to more than just Trump’s unpopularity",
+          "description": "President Donald Trump’s flagging popularity isn’t the only problem Republicans face this fall.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/maine-democrats-replaced-one-sleazy-bigot-with-another-88324570",
-          "publishedAt": "2026-10-01T01:42:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "30cab1b8abf5b99c00dd2c78ba3ba2c56962f5e1312ffed53cd68b94256351b1",
-          "title": "IT’S (D)IFFERENT: ABC Selectively Reports Senate Candidate Gaffes",
-          "description": "IT’S (D)IFFERENT: ABC Selectively Reports Senate Candidate Gaffes Color us shocked: it appears that the Disney-owned American Broadcasting Company, with its status as a purveyor of bona fide news programming currently in dispute , is selective about which perceived candidate misstatements or gaffes make it to air. Take one guess as to what that selection criteria is. ABC World News Tonight ended its A-block by hyping Texas Senate candidate Ken Paxton’s quote questioning the effectiveness of the GOP midterm convention. Watch below: WATCH: @ABCWorldNews is selective about which Senate candidate faux pas to cover. Pouncing on \"Republicans in Disarray\" and \"POLLS DOOM!1!\" angle for Ken Paxton's critique of the midterm convention, absolute zero on Troy Jackson's awful Holocaust quote, to wit: \"It’s unfortunate… pic.twitter.com/tMqn3mje1z — Jorge Bonilla (@BonillaJL) October 1, 2026 ABC WORLD NEWS TONIGHT 9/30/26 6:45 PM DAVID MUIR: Now to the midterm elections tonight, just weeks away, now. This evening, the Texas Senate race and what the Republican in that race is caught on audio saying about President Trump and the president's recent convention in Texas. Here's Mary Bruce tonight. MARY BRUCE: Tonight, in audio obtained by the New York Times, Ken Paxton, the Republican candidate in the closely watched Texas Senate race, can be heard complaining President Trump's recent midterm convention in Dallas hurt Republican campaigns, including his own. KEN PAXTON: When we did that convention- it dropped our numbers. Everybody's numbers dropped. Right now, yeah. Not good. BRUCE: In a remarkable leadup to the midterms, polls in the reliably red state now give Paxton's Democratic opponent, James Talarico, a slight edge. Paxton, the Texas attorney general, has weathered personal scandals and corruption allegations. Talarico, a former middle school teacher and student minister, making inroads into even some of the reddest parts of the state. During the Republican midterm convention, Talarico held a food drive nearby. JAMES TALARICO: They are toasting to their own corruption. BRUCE: Late today, the president asked about Paxton's comments, blaming Trump's convention for his campaign woes. DONALD TRUMP: Well, I haven't heard that, but I can tell you that the convention was amazing. BRUCE: But polls put his approval rating at or near record lows, in some cases as bad as in the aftermath of January 6th. And tonight, Texas’s outgoing Republican Senator, John Cornyn, with a warning. JOHN CORNYN: The president wants to make all these elections about himself when his favorability ratings are not what they once were. That's not a plus. That's a negative. MUIR: And, Mary, we should point out that despite that audio capture, President Trump is scheduled to be in Texas tomorrow to campaign with Ken Paxton. I know you're going to track that. In the meantime, while we have you tonight, the other major headline. This involves changes at the Pentagon and a shift for the U.S. in Iraq? BRUCE: And David, in the middle of this war with Iran, Secretary Pete Hegseth today announcing he is slashing the number of generals and admirals at the Pentagon by 20%. It comes on the same day that U.S. forces have now formally withdrawn from Iraq after more than two decades. MUIR: Mary Bruce at The White House tonight. Mary, thank you. For ABC, this is a no-brainer. They get to do “Republicans in Disarray” AND run another “Polling DOOM” story in which no actual polls are cited. For their “Republicans in Disarray” angle they got a quote from outgoing Texas Senator John Cornyn. Were the shoe on the other party’s foot, you’d never hear a quote from a primary-losing Democrat. In fact, when’s the last time any of these networks got a quote from Jasmine Crockett on James Talarico? ABC managed to sneak THIS story in at the end of their A-block but there was another story they could’ve done, with a more damaging quote from the Senate candidate. THAT candidate, though, is a Democrat. And not just a Democrat, but the Democrat that was selected to replace Nazi-adjacent Graham “Herr Totenkopf” Platner in Maine. Per NBC News Center Maine : Maine Democratic U.S. Senate candidate Troy Jackson is apologizing for comments he made this week in a NEWS CENTER Maine candidate profile interview about Israeli “genocide” in Gaza. In reiterating his view that that the three-year-old Israel-Gaza war “is a genocide,” Jackson said in the interview, “There are people here in Maine that don't like to use that term only because, you know, they're Jewish and, you know, what that means to them with the Holocaust.” Imagine the media reaction had a Republican said such a thing about the Holocaust. The dudgeon would be through the roof, if for no other reason than to deflect from the left’s very real antisemitism problem. You’d have at least a weeklong cycle atop A-block on both network news and cable. ABC displays a blatant double standard here by running the Paxton story while omitting Jackson. As we often say: if it weren’t for double standards there would be none at all. Jorge Bonilla Wed, 09/30/2026 - 21:34 Marketing Timing Regular Search Engine Title IT’S (D)IFFERENT: ABC Selectively Reports Senate Candidate Gaffes CNS Commentary Off Media Images Image Screenshot via ABC/Snapstream",
-          "sourceName": "Newsbusters",
-          "url": "https://www.newsbusters.org/blogs/nb/jorge-bonilla/2026/09/30/its-different-abc-selectively-reports-senate-candidate-gaffes",
-          "publishedAt": "2026-10-01T01:34:59.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "47edda0d279b69385decad69593e7ea1bbc4cd05be4459ee216fdba69ef9f00d",
-          "title": "Maine Democrats replaced one sleazy bigot with another",
-          "description": "Maine Democrats have tapped one sleazy, antisemitic goon to replace another.",
-          "sourceName": "New York Post",
-          "url": "https://nypost.com/2026/09/30/opinion/maine-democrats-replaced-one-sleazy-bigot-with-another/",
-          "publishedAt": "2026-10-01T01:30:04.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "79d31fd98df43d7ff690558d4da296db6783a674ca136c683203f72767aae653",
-          "title": "Why Susan Collins Has Lasted So Long",
-          "description": "Even if Maine’s longtime senator is finally defeated by a Democrat, her lengthy tenure speaks to the power of bringing federal money home—and asking voters to overlook other misgivings.",
-          "sourceName": "The New Yorker",
-          "url": "https://www.newyorker.com/podcast/political-scene/why-susan-collins-has-lasted-so-long",
-          "publishedAt": "2026-10-01T01:00:00.000Z",
+          "url": "https://us.headtopics.com/news/the-midterms-come-down-to-more-than-just-trump-s-88367316",
+          "publishedAt": "2026-10-02T04:22:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "a9f51b5ecaf2f554a90ca416b132cc3e5c60fc351515a85b35447a20840d4486",
-          "title": "'I Got A Ball In My Mouth': Jesse Watters Roasted For Awkward Boba Taste Test",
-          "description": "“You can’t watch me while I suck the straw; it’s private,” the Fox News host said.",
-          "sourceName": "Huffpost",
-          "url": "https://www.huffpost.com/entry/jesse-watters-boba-tasting_n_6abd8cede4b02a789b32c89c",
-          "publishedAt": "2026-10-01T00:51:18.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "dc09f02e20fd013681a3eed1e8c7faf6cbd1758c33035e2f2d64ce8b63d5cf30",
-          "title": "Midterm Election Odds 2026: US Prediction Market Prices & Predictions",
-          "description": "Midterm election odds give you a quick way to see how traders currently expect the 2026 US elections to play out. Unlike polls, which can take weeks to conduct and publish, prediction market prices move as new information comes in. With control of Congress at stake, this gives you another way to follow how expectations […] The post Midterm Election Odds 2026: US Prediction Market Prices & Predictions appeared first on Tucson Weekly .",
-          "sourceName": "Tucson Weekly",
-          "url": "https://www.tucsonweekly.com/uncategorized/midterm-election-odds-2026-us-prediction-market-prices-predictions/",
-          "publishedAt": "2026-10-01T00:00:30.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "4880eac74df0f42dfbdd7cbf77f84b32f6ecf4ba352ea77b5f519fc08b128f0a",
-          "title": "Along U.S. Route 1, Maine voters worry about heating oil, gas and Canadian tariffs",
-          "description": "Home to both Republican Sen. Susan Collins and Democratic candidate Troy Jackson, Maine's senate race has put rural Aroostook County in the spotlight.",
-          "sourceName": "Kpbs Public Broadcasting Service",
-          "url": "https://www.kpbs.org/news/politics/2026/10/01/along-u-s-route-1-maine-voters-worry-about-heating-oil-gas-and-canadian-tariffs",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0b48970ba7f37110cb67cac00b3244e0654e8ccd11d1920cf8b2eaae78284fe9",
-          "title": "NRSC Chair Tim Scott: Republicans Will ‘Hold the Senate Majority Without Question’",
-          "description": "National Republican Senatorial Committee chairman Sen. Tim Scott (R-SC) said during a press call Wednesday that Republicans are positioned to retain control of the Senate and could even expand their majority, identifying several states as potential pickup opportunities as the party enters the final 34 days before the election. The post NRSC Chair Tim Scott: Republicans Will ‘Hold the Senate Majority Without Question’ appeared first on Breitbart .",
-          "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/politics/2026/09/30/nrsc-chair-tim-scott-republicans-will-hold-the-senate-majority-without-question/",
-          "publishedAt": "2026-09-30T22:58:31.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "1ccd196bd191fa7e2dc70a3b64aa6c3232e9deae201cc0b72406b0386e299483",
-          "title": "Dem Senate Candidate Apologizes For ‘Pain’ Caused By His ‘Generalization About Jewish Mainers’",
-          "description": "\"I misspoke and made a generalization about Jewish Mainers’ views that doesn’t reflect what I meant to say. I apologize for the pain that caused.\" The post Dem Senate Candidate Apologizes For ‘Pain’ Caused By His ‘Generalization About Jewish Mainers’ first appeared on Mediaite .",
-          "sourceName": "Mediaite",
-          "url": "https://www.mediaite.com/media/news/dem-senate-candidate-apologizes-for-pain-caused-by-his-generalization-about-jewish-mainers/",
-          "publishedAt": "2026-09-30T21:58:21.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "2d60165a23694434cd5def66ea249130c1616f2910b7d227c3b81b40fa528f30",
-          "title": "Susan Collins Continues to Lead Maine Senate Polls",
-          "description": "Long-time Maine Republican Sen. Susan Collins continues to have the edge over far-left Democrat Troy Jackson in the latest poll of the critical Senate race in the Pine Tree State. The post Susan Collins Continues to Lead Maine Senate Polls appeared first on Breitbart .",
-          "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/politics/2026/09/30/susan-collins-continues-lead-maine-senate-polls/",
-          "publishedAt": "2026-09-30T21:51:50.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "be21bbe4140ca2d586623fb0bb0402243195e5d9a4d4a1e70b7d5c707cf006ed",
-          "title": "Susan Collins, Troy Jackson Must Convince Voters on 5 Issues at 1st Debate",
-          "description": "Collins and Jackson will face off in the first of four debates on Tuesday, in one of of this year's most competitive Senate races.",
-          "sourceName": "Newsweek",
-          "url": "https://www.newsweek.com/susan-collins-troy-jackson-must-convince-voters-on-5-issues-at-1st-debate-12509499",
-          "publishedAt": "2026-09-30T21:42:44.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "235278ec342ee0bc9f351136aa18c577afa0bc7706231fb40e0ea9a68ecdaa53",
-          "title": "Troy Jackson apologizes for comments he made during a conversation about why he considers Israel's war in Gaza a 'genocide'",
-          "description": "In a NEWS CENTER Maine profile interview, Jackson had said some people don't like that term only because they're Jewish.",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/elections/troy-jackson-apologizes-for-comments-made-conversation-why-considers-israels-war-gaza-genocide/97-cc3038f6-05ad-4c79-8d98-3dbc0de2471b",
-          "publishedAt": "2026-09-30T21:41:09.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "efd044c5be1789fa56e6dcfee6634e397945e14026cc4e80734740e30ada8875",
-          "title": "Susan Collins Slightly Ahead in Maine Senate Race",
-          "description": "A new co/efficient (R) poll in Maine finds Susan Collins (R) leading Troy Jackson (D) in the U.S. Senate race, 48% to 46%. Maine Senate Race Susan Collins (R) 48% Troy Jackson (D) 46% co/efficient poll · likely voters · ±2.77%",
-          "sourceName": "Political Wire",
-          "url": "https://politicalwire.com/2026/09/30/susan-collins-slightly-ahead-in-maine-senate-race/",
-          "publishedAt": "2026-09-30T21:35:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6d3bb06d1f10f8fef2944e97b1e7747e3fd89a488b28696c21fa2e378a60927d",
-          "title": "Troy Jackson’s Gaza misstep shows him struggling with a big step up to national politics",
-          "description": "Jackson is working through one of the most divisive issues on the left while running against strongly pro-Israel Republican Sen. Susan Collins.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/09/30/politics/elections/troy-jackson-gaza-misstep-step-up-to-national-politics-n6hjn1me0n/",
-          "publishedAt": "2026-09-30T21:24:26.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "4fbfed61e9b0206fb48a682c559bd6730c3a9a451658491b23b1344c8986e9d9",
-          "title": "Afternoon Sun: Like Stockwork",
-          "description": null,
-          "sourceName": "The Washington Sun",
-          "url": "https://www.washingtonsun.com/afternoon-sun-newsletter/afternoon-sun-like-stockwork",
-          "publishedAt": "2026-09-30T20:48:01.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "36b7bb3a4365d5e9a69d53c830d9cdcfff5afdc3869b1da452d3d59b8763db15",
-          "title": "Susan Collins Faced An FBI Investigation Over Dark Money. It’s Still Flowing To Her Reelection Campaign.",
-          "description": "The Maine Republican’s reelection campaign is backed by at least $7.4 million in dark-money contributions that resemble the shell donations that drew FBI scrutiny.",
-          "sourceName": "Huffpost",
-          "url": "https://www.huffpost.com/entry/susan-collins-faced-an-fbi-investigation-over-dark-money-its-still-flowing-to-her-reelection-campaign_n_6abd5e87e4b02a789b327709",
-          "publishedAt": "2026-09-30T20:14:40.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cf61ba63d63b8a9381e0c6e5bde80bf1f95c41d92c11028ba95222151bf37f91",
-          "title": "Margin-of-Error Races as Far as the Eye Can See",
-          "description": "Charlie Cook: “Today there are at least seven Senate contests in which serious polls put the difference between the two candidates within the margin of error. There are five Republican-held Senate seats with margin-of-error races. Three are held by incumbents: Sens. Dan Sullivan of Alaska, Susan Collins of Maine, and Jon Husted of Ohio. The […]",
-          "sourceName": "Political Wire",
-          "url": "https://politicalwire.com/2026/09/30/margin-of-error-races-as-far-as-the-eye-can-see/",
-          "publishedAt": "2026-09-30T20:10:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "693474862f12629b1b829ad7d0ffa9ba1c73575deffc4353ba02918dad3853cb",
-          "title": "Troy Jackson apologizes for comments on Jewish Mainers' views of Gaza war (Ben Binday/Washington Post)",
-          "description": "Ben Binday / Washington Post : Troy Jackson apologizes for comments on Jewish Mainers' views of Gaza war — The Senate nominee's bid to unseat incumbent Susan Collins (R-Maine) is critical to Democrats' hopes for reclaiming control of the chamber. — Just now — Troy Jackson, the Democratic nominee for U.S. Senate in Maine …",
-          "sourceName": "Memeorandum",
-          "url": "https://www.memeorandum.com/260930/p102",
-          "publishedAt": "2026-09-30T19:35:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4ee5f9993c884d048e7d1736b528d34fcc093f914646c77d7c3d7b426634b6bf",
-          "title": "Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war",
-          "description": "By Patrick Svitek, CNN (CNN) — Troy Jackson, the Democratic nominee in Maine’s battleground Senate race, apologized on Wednesday for saying it is “unfortunate” that Jewish residents of the state do not like to label the war in Gaza a genocide. “I believe what’s happening in Gaza is genocide, and I also understand that word The post Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war appeared first on KESQ .",
-          "sourceName": "Kesq",
-          "url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/09/30/troy-jackson-apologizes-for-remarks-about-jewish-maine-residents-views-of-gaza-war/",
-          "publishedAt": "2026-09-30T19:14:43.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "1f58c0fc814bcc23bacb7a917b6d0b9a3039626110d8f9d703c73a336817da92",
-          "title": "Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war",
-          "description": "By Patrick Svitek, CNN (CNN) — Troy Jackson, the Democratic nominee in Maine’s battleground Senate race, apologized on Wednesday for saying it is “unfortunate” that Jewish residents of the state do not like to label the war in Gaza a genocide.“I believe what’s happening in Gaza is genocide, and I also understand that word carries The post Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war appeared first on KVIA .",
-          "sourceName": "Kvia",
-          "url": "https://kvia.com/politics/cnn-us-politics/2026/09/30/troy-jackson-apologizes-for-remarks-about-jewish-maine-residents-views-of-gaza-war/",
-          "publishedAt": "2026-09-30T19:14:43.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "e45ccf1756767e3884d4d631e30dce60fad4a256a2df853097ccc19add01a7ed",
-          "title": "Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war",
-          "description": "By Patrick Svitek, CNN (CNN) — Troy Jackson, the Democratic nominee in Maine’s battleground Senate race, apologized on Wednesday for saying it is “unfortunate” that Jewish residents of the state do not like to label the war in Gaza a genocide. “I believe what’s happening in Gaza is genocide, and I also understand that word The post Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war appeared first on KRDO .",
-          "sourceName": "Krdo",
-          "url": "https://krdo.com/politics/cnn-us-politics/2026/09/30/troy-jackson-apologizes-for-remarks-about-jewish-maine-residents-views-of-gaza-war/",
-          "publishedAt": "2026-09-30T19:14:43.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "6b9f4c4c371c21c5fdcc562492fac92da82e0cf9b55aae1ca9de673836092cab",
-          "title": "Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war",
-          "description": "By Patrick Svitek, CNN (CNN) — Troy Jackson, the Democratic nominee in Maine’s battleground Senate race, apologized on Wednesday for saying it is “unfortunate” that Jewish residents of the state do not like to label the war in Gaza a genocide. “I believe what’s happening in Gaza is genocide, and I also understand that word The post Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war appeared first on News Channel 3-12 .",
-          "sourceName": "News Channel 3-12",
-          "url": "https://keyt.com/politics/cnn-us-politics/2026/09/30/troy-jackson-apologizes-for-remarks-about-jewish-maine-residents-views-of-gaza-war/",
-          "publishedAt": "2026-09-30T19:14:43.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "ff22b0550b8cd3e0945a46b73440109581a21b7e3bca0a8d26b8f80306c36703",
-          "title": "Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war",
-          "description": "By Patrick Svitek, CNN (CNN) — Troy Jackson, the Democratic nominee in Maine’s battleground Senate race, apologized on Wednesday for saying it is “unfortunate” that Jewish residents of the state do not like to label the war in Gaza a genocide. “I believe what’s happening in Gaza is genocide, and I also understand that word The post Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war appeared first on ABC17NEWS .",
-          "sourceName": "Abc 17 News",
-          "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/09/30/troy-jackson-apologizes-for-remarks-about-jewish-maine-residents-views-of-gaza-war/",
-          "publishedAt": "2026-09-30T19:14:43.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "d91e7dde65e22938c1184e8fd75f65a042da1b6bfa1c5338460f948b83162aa8",
-          "title": "Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war",
-          "description": "By Patrick Svitek, CNN (CNN) — Troy Jackson, the Democratic nominee in Maine’s battleground Senate race, apologized on Wednesday for saying it is “unfortunate” that Jewish residents of the state do not like to label the war in Gaza a genocide. “I believe what’s happening in Gaza is genocide, and I also understand that word The post Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war appeared first on KTVZ .",
-          "sourceName": "Ktvz",
-          "url": "https://ktvz.com/politics/cnn-us-politics/2026/09/30/troy-jackson-apologizes-for-remarks-about-jewish-maine-residents-views-of-gaza-war/",
-          "publishedAt": "2026-09-30T19:14:43.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "7d72e09d86a8dd271b247bdcab39189b7b651b6f24b0ef0f9f9a089b9c071d01",
-          "title": "Troy Jackson apologizes for remarks about Jewish Maine residents’ views of Gaza war",
-          "description": "Troy Jackson, the Democratic nominee in Maine’s battleground Senate race, apologized Wednesday for saying it is “unfortunate” that Jewish residents of the state do not like to label the war in Gaza a genocide.",
+          "id": "96424080c145a0fba946b1b6ec37a3096c822b92a891bd7494f357780a39d589",
+          "title": "With a new breed of candidate, Democrats are challenging in states they usually lose",
+          "description": "President Donald Trump’s flagging popularity isn’t the only problem Republicans face this fall.",
           "sourceName": "Cnn",
-          "url": "https://www.cnn.com/2026/09/30/politics/troy-jackson-maine-senate-gaza-genocide",
-          "publishedAt": "2026-09-30T19:14:43.000Z",
+          "url": "https://www.cnn.com/2026/10/02/politics/midterms-democrats-trump-unpopularity",
+          "publishedAt": "2026-10-02T04:01:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "05500fa86c77ca3e06869cafc144886fee68dad101a0888b7d6d63c0b5d13d2d",
+          "title": "COLUMN: Democrats should be rushing to sway more Trump skeptics",
+          "description": "The most important measure to watch in the campaign’s final weeks is how Democratic candidates are performing among voters who disapprove of President Donald Trump.",
+          "sourceName": "Thederrick",
+          "url": "https://www.thederrick.com/opinion/column-democrats-should-be-rushing-to-sway-more-trump-skeptics/article_a9dccf03-c278-4341-9645-3cdf09c72c0f.html",
+          "publishedAt": "2026-10-02T04:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "93d31f1d6a6ea2ab26a914c3f4aaa406b36a72c9f0e74d994b171af9f80198e4",
+          "title": "Schumer vies for the Senate majority with a looming leadership headache",
+          "description": "Schumer is expected to welcome new senators who believe it’s time for him to step aside and make room for the next generation of leadership.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/senate/4750736/schumer-senate-majority-leadership-headache-democrats-need-four-seats/",
+          "publishedAt": "2026-10-02T03:06:45.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6072ea28cd4439a0335f4b51364bfec6e8e269f960de94f5a0cdf28b9030778d",
+          "title": "NewsBusters Podcast: Democrat Candidates Can Do No Wrong",
+          "description": "NewsBusters Podcast: Democrat Candidates Can Do No Wrong As we watch TV news during the midterm season, what we've mostly noticed is that there's not much news about candidates -- just some general tilt against Trump's bad approval ratings. But Democrats get a pass, and Republican flubs are news. So Sen. Eric Schmitt getting his facts wrong in a question to former special counsel Jack Smith is the only story of that hearing. There was no time to consider that Smith was an out-of-control partisan trying to make sure Trump didn't get re-elected in 2024. GOP Senate candidate Ken Paxton caught on audio by The New York Times complaining Trump's midterm convention hurt him politically becomes a TV story. Because good news for Democrats is what is considered \"newsworthy.\" They just do not care how it makes them look like DNC Media. NewsBusters Associate Editor Nick Fondacaro and Senior Research Analyst Bill D'Agostino joined the show. The media ignored Maine Democrat Troy Jackson this week having to apologize after claiming “It’s unfortunate that there are people here in Maine that don’t like to use that term [genocide] only because they’re Jewish and what that means to them with the Holocaust,” Jackson told News Center Maine about Israel. “It fits that description, and it is [a genocide].” Nick explained all the drama over The View co-host Sunny Hostin boasting that she was a holdout juror on behalf of the \"Butcher of Tompkins Square Park,\" who killed someone and then cooked their corpse and fed it to homeless people. She wanted to explain how passionately she favors an insanity defense. As network shows begin returning to television for the fall season, CBS’s liberal, TDS-laden “Sitcom King” Chuck Lorre, who we’ve covered extensively, has once again taken shots at President Trump as a “bloated orange piece of” excrement who he wishes would die of a heart attack on the toilet, and insulted First Lady Melania Trump as a “surgically enhanced, cold-hearted Yugoslavian escort who clearly hates her husband. Finally, NBC's Saturday Night Live loves the socialist mayor of New York so much that they turned President Trump into a desperate Mamdani fan. The fake president told the fake mayor: “I just love hanging out with you. We’re like one of those unlikely animal friendships, like when a tiger gets together with a baby goat. When I see stuff like that, I want to text it to you and say, this could be us!” We even get this fake gush: “You're in most of my dreams. I call you Mam-dreamy. Pick me, choose me, love me!” Enjoy the show below. Tim Graham Thu, 10/01/2026 - 22:50 Marketing Timing Regular Search Engine Title NewsBusters Podcast Discusses Media Favoritism Toward Democrat Candidates CNS Commentary Off Media Images Image MRC Graphic",
+          "sourceName": "Newsbusters",
+          "url": "https://www.newsbusters.org/blogs/nb/tim-graham/2026/10/01/newsbusters-podcast-democrat-candidates-can-do-no-wrong",
+          "publishedAt": "2026-10-02T02:50:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0d4a38555e450bb0fa4d150090c4e88a1912d2202605230243021efe880d687e",
+          "title": "ABC Continues to Milk Paxton Gaffe While Pushing Poll DOOM",
+          "description": "ABC Continues to Milk Paxton Gaffe While Pushing Poll DOOM For a second consecutive evening Disney-owned ABC World News Tonight, the most Trump-deranged of the Elitist Media evening newscasts, has elected to run a news item highlighting Texas Senate candidate Ken Paxton’s remarks complaining on the GOP Midterm Convention. For the second consecutive night, ABC pushed “Republicans in Disarray” and polling DOOM!!11!! Watch the report in its entirety as aired on ABC World News Tonight on Thursday, October 1st, 2026: WATCH: For a second consecutive day, @ABCWorldNews milks the Paxton post-convention remarks and pushes polling DOOM while omitting Troy Jackson's brutal \"genocide\" remarks DAVID MUIR: This evening, the midterm election of course, now 33 days away. And President Trump, amid some… pic.twitter.com/3eSYK8kt9C — Jorge Bonilla (@BonillaJL) October 2, 2026 DAVID MUIR: This evening, the midterm election of course, now 33 days away. And President Trump, amid some of his lowest poll numbers on record and deep concern over inflation, the president now traveling to five deep red states. Here's Rachel Scott tonight. RACHEL SCOTT: Tonight, President Trump in Texas, where one of the fiercest Senate races could decide control of Congress. He arrived with a new poll showing his national approval rating at 31%, a record low. The president won Texas handily, but now polls in the Senate race show the Democrat, James Talarico, leading Republican Ken Paxton. After the president held his midterm convention in Dallas, The New York Times obtained audio of Paxton complaining it hurt his campaign. KEN PAXTON: When we did that convention, it dropped our numbers. Everybody’s numbers dropped. Right now, yeah, not good. SCOTT: Today in Texas, Trump praising Paxton. DONALD TRUMP: Ken Paxton was at my side more than anybody. And I have to always remember that because he could be a pain in the ass sometimes, I'll be honest. SCOTT: Other Republicans keeping the president at arm's length. Still, President Trump today giving himself a grade A-plus. TRUMP: I give us an A-plus on the government, on economics, on everything. Look at inflation. I inherited the worst inflation in history under Biden, worst in history. And now it's great. SCOTT: But the reality is inflation has jumped since Trump took office from 2.8% to 3.4%. 80% of Americans disapprove of how he's handling it. And today, Vice President JD Vance with a very different message from the president, urging Republicans to not, quote, “ignore people's concerns.” JD VANCE: Listen to people who are upset with the state of the economy. If we don't listen to people, we will turn into the very thing that we hate. SCOTT: This is the president's first major midterm campaign swing. He'll be here in Oklahoma tonight. Then over the next few days, we'll see him in Alabama, Ohio and Nebraska, all states he has won before as he tries to energize his core supporters to turn out to the polls. David. MUIR: Rachel Scott live with us tonight. Rachel, thanks. The report, a rehash of the previous evening’s slop , obviously serves little purpose except to assist Democrat Senate candidate James Talarico and discourage Republicans from voting in the midterm. This explains the steady drumbeat of consistently citing negative poll numbers for President Trump. So devoted to this mission is ABC that they’ve broadly stopped reporting on some of the other Senate races that previously dominated coverage, such as Michigan and Maine. Speaking of Maine, the networks all continue to omit Democrat Senate candidate Troy Jackson’s comments on the Holocaust. Per NBC News Center Maine : Maine Democratic U.S. Senate candidate Troy Jackson is apologizing for comments he made this week in a NEWS CENTER Maine candidate profile interview about Israeli “genocide” in Gaza. In reiterating his view that that the three-year-old Israel-Gaza war “is a genocide,” Jackson said in the interview, “There are people here in Maine that don't like to use that term only because, you know, they're Jewish and, you know, what that means to them with the Holocaust.” Jackson has since apologized for those remarks. An apology would have extended the news cycle into the weekend had a Republican proffered similar remarks. Instead, it is all swept under the rug. Between omitting the Jackson scandal while continuing to flog the Paxton remarks, ABC demonstrates why their news content is under scrutiny. Jorge Bonilla Thu, 10/01/2026 - 22:18 Marketing Timing Regular Search Engine Title ABC Continues to Milk Paxton Gaffe While Pushing Poll DOOM CNS Commentary Off Media Images Image Screenshot via ABC/Snapstream",
+          "sourceName": "Newsbusters",
+          "url": "https://www.newsbusters.org/blogs/nb/jorge-bonilla/2026/10/01/abc-continues-milk-paxton-gaffe-while-pushing-poll-doom",
+          "publishedAt": "2026-10-02T02:18:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "76c3626c0dc70f5f5ea746225ca968518e308a524116c179d639ee5288005ad6",
+          "title": "The Susan Collins firewall",
+          "description": "Susan Collins faces another difficult Maine reelection as Democrats turn to Troy Jackson after their first candidate collapsed.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/premium/4746505/susan-collins-firewall/",
+          "publishedAt": "2026-10-02T01:13:06.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "c3b018ffbe765d5d2f19036de38f6019cf119880e7550be67cd5addcf1f9d992",
+          "title": "Democrats feel good about Troy Jackson’s odds in Maine despite recent missteps",
+          "description": "Maine Democrats rallied around Troy Jackson to be their standard-bearer following Graham Platner’s exit from the race in July.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4751305/troy-jackson-election-odds-maine-senate/",
+          "publishedAt": "2026-10-02T00:37:47.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "c73b20b8880b8467002cad09a8446af247d5448aa1eaeb591a90226d1e6e2b97",
+          "title": "Letter: Troy Jackson is the reason Maine students get free school meals",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4920677484125-letter-troy-jackson-is-the-reason-maine-students-get-free-school-meals",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "9c5429567e739ae79047e449d3a5dca514ebc4c41ea745f14eb4abba5d886a06",
+          "title": "Democratic Ads Misleadingly Connect Susan Collins to Epstein",
+          "description": "In the Maine Senate race, ads from a Democratic super PAC misleadingly claim Republican Sen. Susan Collins cast a vote to \"cover up the Epstein files\" and received \"$3 million to her super PAC\" from \"Jeffrey Epstein's business partner.\" The post Democratic Ads Misleadingly Connect Susan Collins to Epstein appeared first on FactCheck.org .",
+          "sourceName": "Factcheck.org",
+          "url": "https://www.factcheck.org/2026/10/democratic-ads-misleadingly-connect-susan-collins-to-epstein/",
+          "publishedAt": "2026-10-01T20:56:27.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "cc356f692434fb7b2b73cf99c9908d3980c814b075f5bbafaa614832523cda01",
+          "title": "Troy Jackson Apologizes for ‘Genocide’ Remarks—Where Other Democrats Stand",
+          "description": "Troy Jackson, the Democratic candidate in the Maine Senate race, apologized for recent remarks about how Jewish people view the term “genocide” amid the war in Gaza. Jackson’s recent comments come as Israel remains a major dividing line between him and Republican Senator Susan Collins. The Maine…",
+          "sourceName": "Biztoc",
+          "url": "https://biztoc.com/x/bf1446a680c3fd55",
+          "publishedAt": "2026-10-01T19:18:16.000Z",
           "sentiment": -1
         },
         {
-          "id": "38b6d083502437dfb512111b6c18b8328bed65a3792dad27e9071743343c9040",
-          "title": "Troy Jackson Walks Back His Comment on Jewish Mainers Views on Gaza",
-          "description": "The Democratic candidate for Senate said he had made a “generalization” about residents’ views.",
-          "sourceName": "The Washington Sun",
-          "url": "https://www.washingtonsun.com/campaigns/troy-jackson-walks-back-comment-jewish-maine-views-gaza",
-          "publishedAt": "2026-09-30T18:58:49.000Z",
-          "sentiment": -1
+          "id": "9b8b8f5d6a96f37f0cb599896a6474cc1f11dd858f4c0bc78815283a7f06c151",
+          "title": "Troy Jackson Apologizes for ‘Genocide’ Remarks—Where Other Democrats Stand",
+          "description": "While Jackson has said Israel conducted a \"genocide\" in Gaza, other Democratic Senate candidates have taken differing approaches.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/troy-jackon-maine-senate-israel-gaza-genocide-democrats-12513502",
+          "publishedAt": "2026-10-01T19:12:03.000Z",
+          "sentiment": 0
         },
         {
-          "id": "f6b525cc707eebf43ed428aa204a6d0b6229d8399d836071f7d53ee1cd51c85d",
-          "title": "Dem Apologizes After Saying Maine Jews Reject ‘Genocide’ Label ‘Only Because They’re Jewish’",
-          "description": "Maine Democratic Senate nominee Troy Jackson is apologizing for comments about Jewish Mainers after saying it was “unfortunate” that some of them refuse to describe the war in Gaza as a “genocide” because of the term’s connection to the Holocaust. It’s the latest fumble for the Democrat, who has embraced the “genocide” label since entering ...",
-          "sourceName": "The Daily Wire",
-          "url": "https://www.dailywire.com/news/dem-apologizes-after-saying-maine-jews-reject-genocide-label-only-because-theyre-jewish",
-          "publishedAt": "2026-09-30T18:44:27.000Z",
-          "sentiment": -1
+          "id": "c7682f139a17a281943c6551ec83a37a89aace7e8383e2094e304e2462248947",
+          "title": "Democrats' optimism in battleground states may be a mirage, data shows",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/democrats-optimism-in-battleground-states-may-be-a-mirage-data-shows-4DD647C9-A726-519C-BAF3-63E4BD953C14",
+          "publishedAt": "2026-10-01T18:49:49.000Z",
+          "sentiment": 0
         },
         {
-          "id": "47588bf0626b0a7f00fb28dfc26a609cf5d94286097916a155830a484152a09c",
-          "title": "Troy Jackson apologizes for Gaza 'genocide' comment in NEWS CENTER Maine profile interview",
-          "description": "Jackson had said some people don't like that term only because they're Jewish.",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/elections/troy-jackson-apologizes-for-gaza-genocide-comment-in-news-center-maine-profile-interview/97-cc3038f6-05ad-4c79-8d98-3dbc0de2471b",
-          "publishedAt": "2026-09-30T18:35:08.000Z",
-          "sentiment": -1
+          "id": "72ae92af688d27a6a0058f092795367d7bd92b02856e7ff998a8dc10f91f50a3",
+          "title": "Democrat Optimism in Six Senate Races May Be a Mirage—What the Polls Reveal",
+          "description": "Democrats are optimistic about their chances of flipping the Senate, but polls have overestimated them in the past.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/democrat-optimism-in-six-senate-races-may-be-a-mirage-what-the-polls-reveal-12512862",
+          "publishedAt": "2026-10-01T18:49:49.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "879dfd766f276fec3315e4633b56741bdbd9473e8242bebe2a49fa842c46ce44",
+          "title": "AARP Poll: Older Maine voters show sharp ticket-splitting in Senate, governor races",
+          "description": "Voters 50 and older make up about 44% of Maine’s population, but casted 59% of all ballots in the 2024 presidential election.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/10/01/aarp-poll-older-maine-voters-show-sharp-ticket-splitting-senate-governor-races/",
+          "publishedAt": "2026-10-01T18:10:27.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ee16af285942ec98a9222352333937bf8af3cbcb09de4abb74d9f4920f6b0fa1",
+          "title": "Older swing voters in Maine favor Republican Collins and Democrat Pingree in upcoming election",
+          "description": null,
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/politics/2026-10-01/older-swing-voters-in-maine-favor-republican-collins-and-democrat-pingree-in-upcoming-election",
+          "publishedAt": "2026-10-01T17:58:03.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
