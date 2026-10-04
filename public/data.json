@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T15:51:31.027Z",
+  "lastUpdated": "2026-10-04T16:23:10.206Z",
   "windowHours": 24,
   "politicians": [
     {
@@ -31,26 +31,16 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": 0.19999999999999998,
-      "newsSentiment": -0.3,
+      "overallSentiment": 0.7,
+      "newsSentiment": null,
       "socialSentiment": 0.7,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 1,
         "youtube": 0,
-        "total": 2
+        "total": 1
       },
-      "news": [
-        {
-          "id": "aaebcc8d4c34eb6df3c2e865a23f888a1643c8013331292f596add909d25972f",
-          "title": "250 Ballots in Amazon Package Prompts Maine GOP Leader’s Skepticism About Expanded Mail Voting",
-          "description": "Maine expanded mail-in voting during one of the most closely watched U.S. Senate races in the country, just a year after 250 mail ballots ended up in an Amazon package. Early in-person voting and “no-excuse” absentee voting—in which ballots can be mailed in even if voters are not sick or out of town—begins Oct. 4,...",
-          "sourceName": "The Daily Signal",
-          "url": "https://www.dailysignal.com/2026/10/02/250-ballots-in-amazon-package-prompts-maine-gop-leaders-skepticism-about-expanding-mail-voting/",
-          "publishedAt": "2026-10-02T17:53:42.000Z",
-          "sentiment": -0.3
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "0ba25b54a73a7e30afd3ecf88d5cc4e0a1946e425761c3a04426ba80052e7caf",
@@ -67,446 +57,95 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.26652975538517704,
-      "newsSentiment": 0.075,
+      "overallSentiment": 0.20449271834814,
+      "newsSentiment": -0.1111111111111111,
       "socialSentiment": 0.3427710843373493,
       "mentions": {
-        "news": 48,
+        "news": 9,
         "social": 83,
         "youtube": 11,
-        "total": 142
+        "total": 103
       },
       "news": [
         {
-          "id": "1d33ec33b2e784c789ba8b09bf80a85348b5050d4a80b7b290f39f815f9c0327",
-          "title": "Trump planning a 10-state travel blitz in the midterms' closing stages — visiting all but one battleground",
-          "description": "Trump's planned travel will take him to nearly every major battleground except for Maine, where Sen. Susan Collins (R-ME) is defending her seat.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4752850/trump-plans-10-state-travel-blitz-midterms-closing-stages/",
-          "publishedAt": "2026-10-03T02:30:12.000Z",
+          "id": "3151f767a9851d1a9d74d37ab5a5654e1ac4da9c67bdcd304179e9167ad65336",
+          "title": "THE OTHER SIDE: Make America Grift Again",
+          "description": "Sometimes grifting and grafting is pretty easy to spot.",
+          "sourceName": "Homepage - The Berkshire Edge",
+          "url": "https://theberkshireedge.com/the-other-side-make-america-grift-again/",
+          "publishedAt": "2026-10-04T04:05:33.000Z",
           "sentiment": 0
         },
         {
-          "id": "e90eb1167c1149c21fce163ed333b3c3e35435052bba44187df2588c97640985",
-          "title": "Trump planning a 10-state travel blitz in midterms’ closing stages",
-          "description": "President Donald Trump is planning to visit at least 10 states during the final month before the midterm elections, embarking on an aggressive blitz as Republicans fight to maintain control of Congress. Trump’s planned travel will take him to nearly every major battleground except for Maine, where Sen. Susan Collins (R-ME) is defending her seat […] The post Trump planning a 10-state travel blitz in midterms’ closing stages appeared first on CBNC .",
-          "sourceName": "Cbnc",
-          "url": "https://cbnc.com/trump-planning-a-10-state-travel-blitz-in-midterms-closing-stages/",
-          "publishedAt": "2026-10-03T02:30:00.000Z",
+          "id": "3820edd8377fc6a2fd0d616a7c51b42f16789a2bfce7863e8eb56929db06d8d0",
+          "title": "Troy Jackson bids Jews forget their silly Holocaust fixation - Blogs",
+          "description": "October 7 has given some American Jews a somewhat different idea of what’s good for them.",
+          "sourceName": "Americanthinker",
+          "url": "https://www.americanthinker.com/blog/2026/10/troy-jackson-bids-jews-forget-their-silly-holocaust-fixation/",
+          "publishedAt": "2026-10-04T04:00:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "40a6ec444c05991774cdd0282deaa09b9e791c902f5cbec7d02eb84d898fc7ed",
+          "title": "Democrats hit 50% or more in Texas, Alaska polls as Senate battle heats up",
+          "description": "The nation's two biggest states delivered an outsized message about the fierce battle for Senate control Saturday, with Democratic candidates hitting the 50 percent threshold in Texas and Alaska.",
+          "sourceName": "New York Post",
+          "url": "https://nypost.com/2026/10/03/us-news/democrats-hit-key-threshold-in-texas-and-alaska-in-new-poll/",
+          "publishedAt": "2026-10-03T21:49:45.000Z",
           "sentiment": 0
         },
         {
-          "id": "1256a5ccf31d027ea6e4fbd605fe5768bb1e64422c14bbd3839290dbfb0f9641",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He attended a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Cadillacnews",
-          "url": "https://www.cadillacnews.com/ap/national/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_78a306a8-92c8-526b-91cf-0a9b73694a01.html",
-          "publishedAt": "2026-10-03T00:53:33.000Z",
+          "id": "ad39178f0e94fe23ea4c11f188c442b6c969064a54cf5f30ade8aebbd4e341a3",
+          "title": "Editorial cartoon on write-in voting was misleading | Letter",
+          "description": "I’m writing to set the record straight after your misleading editorial cartoon on Sept. 20. Thanks to ranked-choice voting, if a voter casts a write-in vote, whether for the declared write-ins or Graham Platner, and votes for Troy Jackson as their second choice, Jackson can win. Susan Collins needs to win by 50.01% of all […]",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/03/editorial-cartoon-on-write-in-voting-was-misleading-letter/",
+          "publishedAt": "2026-10-03T21:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "98244a86f3c5c70cb533fbc4b733f0ae9aad47e68ef705cea25824a0e349740b",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He attended a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Beloit Daily News",
-          "url": "https://www.beloitdailynews.com/news/national-news/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_ef74ac1b-2e48-5b3b-94dd-02b79938034d.html",
-          "publishedAt": "2026-10-03T00:53:33.000Z",
+          "id": "34094164e8280ab152966ec902d3013006384a91103c0315811b91f502ff5fc9",
+          "title": "Editorial cartoon on write-in voting was misleading | Letter",
+          "description": "I’m writing to set the record straight after your misleading editorial cartoon on Sept. 20. Thanks to ranked-choice voting, if a voter casts a write-in vote, whether for the declared write-ins or Graham Platner, and votes for Troy Jackson as their second choice, Jackson can win. Susan Collins needs to win by 50.01% of all […]",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/03/editorial-cartoon-on-write-in-voting-was-misleading-letter/",
+          "publishedAt": "2026-10-03T21:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "1f9d71e6016ebac247a9e6cc173051d061cc649f8715961b163962f4cace8e8a",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He attended a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Rutland Herald",
-          "url": "https://www.rutlandherald.com/ap/national/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_9c45c5fe-5700-5d87-b3ad-1568a3279780.html",
-          "publishedAt": "2026-10-03T00:53:33.000Z",
+          "id": "cb916509d9f19a49596df852b4c28ddb651fdb4c5d2ca87461e8ca59fd5b8cc7",
+          "title": "Maine’s Democratic voters should not fall for Collins’ pitch | Letter",
+          "description": "Insanity, as the adage goes, is doing the same thing over and over again and expecting a different result. Yet — again and again — Maine voters send Susan Collins back to the U.S. Senate. The result of this action has never changed: always concerned but never taking action, always siding with Republican hardliners except […]",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/03/maines-democratic-voters-should-not-fall-for-collins-pitch-letter/",
+          "publishedAt": "2026-10-03T20:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "c62f69ff2647d7c528291cfb3e2092d4fce0cfda2c4427dca9567d9e9ae1f025",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He attended a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Dailysentinel",
-          "url": "https://www.dailysentinel.com/anpa/us/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_e74d4ad0-870a-5784-9e6a-0d98b34cfad9.html",
-          "publishedAt": "2026-10-03T00:53:33.000Z",
+          "id": "4980861c9b2cde16bbc2abd93fa06b0e07fa5e9e2581650af0054c850a7856d8",
+          "title": "Maine’s Democratic voters should not fall for Collins’ pitch | Letter",
+          "description": "Insanity, as the adage goes, is doing the same thing over and over again and expecting a different result. Yet — again and again — Maine voters send Susan Collins back to the U.S. Senate. The result of this action has never changed: always concerned but never taking action, always siding with Republican hardliners except […]",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/03/maines-democratic-voters-should-not-fall-for-collins-pitch-letter/",
+          "publishedAt": "2026-10-03T20:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "3c55d03e7d0ab07036999a457646765d0ad2f51d8927b78a9bed4ccfb14ff4d7",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He attended a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Times Argus",
-          "url": "https://www.timesargus.com/news/national/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_8c008910-88d5-55ef-b03f-1219191761a6.html",
-          "publishedAt": "2026-10-03T00:53:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a6938b02e3c3bd4a01bc037f83f1f29a3340df58c3cc727a17eb62ea48b8b4f1",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He attended a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Idahostatejournal",
-          "url": "https://www.idahostatejournal.com/news/national/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_6c99fe82-99bd-521c-85a8-d7c4d4718d42.html",
-          "publishedAt": "2026-10-03T00:53:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5cb0a35f34ef8d069c42324ccb2391194567ff2b159c900b3bf7ee1a7b392e00",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He attended a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Santa Maria Times",
-          "url": "https://santamariatimes.com/ap/national/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_e4807bee-5c0d-50cc-964e-2b6bfd79beaa.html",
-          "publishedAt": "2026-10-03T00:53:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7909551acd7aacf17f2923b25db96aedb811768283342d2b3e653b421142cf00",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He attended a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Owensboro Messenger And Inquirer",
-          "url": "https://www.messenger-inquirer.com/ap/elections/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_68f8e791-9c08-5e90-a756-557d4210780c.html",
-          "publishedAt": "2026-10-03T00:26:39.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4ce31cf8dc0078515fa5e39ec5941ebe9744c0722aadff9b581f42d58f4ddd9f",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He attended a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_86bf2e55-9548-548f-9a3f-e5b4dc89491f.html",
-          "publishedAt": "2026-10-03T00:26:39.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "85f041452adf59ec5aa055b02965e203b326f53a46c36230c1f9022258936eb1",
-          "title": "We served with Troy Jackson. We’re excited to support him for US Senate.",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4922735367491-we-served-with-troy-jackson-we-re-excited-to-support-him-for-us-senate",
-          "publishedAt": "2026-10-03T00:00:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "b8d10977b9a0223acaef9acd38726942b549cec25c62f308e4fc5891ded958b8",
-          "title": "Ewing’s Still Spewing",
-          "description": "To the Editor: The Democrat Party has a long anti-democratic history; now it’s fielding Democrat Socialists of America (DSA) candidates who want to replace the American Constitution that protects our rights, and implement policies that will make American life more dangerous, less free, and much poorer. Democrats use government to violate our rights or allow them to be violated. E.g., FDR refused to criminalize lynchings (Trump did in 2018), Democrats established poll taxes and tests to prevent blacks from voting, the KKK went unchecked, Democrat gun laws prevented blacks from being able to defend themselves, and Biden opened our border letting about 15 million illegal ... Read more",
-          "sourceName": "The New Hampshire Gazette",
-          "url": "https://www.nhgazette.com/2026/10/02/ewings-still-spewing/",
-          "publishedAt": "2026-10-02T23:42:55.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "818c3a3a9ca4fd5556556a7bc611853c7aa8a94e21df8740826ba5ad83e5f5f8",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He’s attending a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Hastingstribune",
-          "url": "https://www.hastingstribune.com/ap/health/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_15e1493d-b62d-565a-859b-6fe5e1a9b1f6.html",
-          "publishedAt": "2026-10-02T23:40:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c89d12deeb7a11b4148822a4e8056e0b43cd7c4ea0a929f98ba46c2276e4086e",
-          "title": "Susan Collins tied with Troy Jackson in Maine Senate race, new CBS News poll shows",
-          "description": "Democrat Troy Jackson has pulled into a tie with Republican Sen. Susan Collins in Maine's battle for U.S. Senate. Zachary Donnini, head of data science at VoteHub, joins \"The Takeout\" to discuss.",
-          "sourceName": "Cbs News",
-          "url": "https://www.cbsnews.com/video/susan-collins-tied-with-troy-jackson-in-maine-senate-race-new-cbs-news-poll-shows/",
-          "publishedAt": "2026-10-02T23:39:59.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bbe02822287db0556763679a7c848577a2f95eccef2fc14f258e41be147507ce",
-          "title": "Susan Collins tied with Troy Jackson in Maine Senate race, new CBS News poll shows (Video)",
-          "description": "Democrat Troy Jackson has pulled into a tie with Republican Sen. Susan Collins in Maine's battle for U.S. Senate. Zachary Donnini, head of data science at VoteHub, joins \"The Takeout\" to discuss. CBS News 24/7... The post Susan Collins tied with Troy Jackson in Maine Senate race, new CBS News poll shows (Video) appeared first on Social News XYZ .",
-          "sourceName": "Social News Xyz",
-          "url": "https://www.socialnews.xyz/2026/10/02/susan-collins-tied-with-troy-jackson-in-maine-senate-race-new-cbs-news-poll-shows-video/",
-          "publishedAt": "2026-10-02T23:21:05.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8e563226f419c2ed50b7550c754714a2249a1ffc4dd887b0fd54c80faeddc7af",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He’s attending a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Postregister",
-          "url": "https://www.postregister.com/news/national/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_ee5147e6-f7b4-5988-8a3c-6a84ea624ffd.html",
-          "publishedAt": "2026-10-02T22:46:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e839f2d2d821d4af576d85ee75fcf81832a12447995b4ccebb985aeda7996e1b",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He’s attending a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Killeen Daily Herald",
-          "url": "https://kdhnews.com/news/nation/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_56270a0e-d7ed-5eee-86c8-5400171c7a52.html",
-          "publishedAt": "2026-10-02T22:46:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "067f7824dd88dbf6c73afefef86639eb541a114904fc597d058edd56e632e19f",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He’s attending a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Dailyadvance",
-          "url": "https://www.dailyadvance.com/news/national/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_43822da1-a38f-5a3b-a0a1-c07452ea6b0f.html",
-          "publishedAt": "2026-10-02T22:46:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "437687a3266e9a7375ff51764f9f905ef9209302fadaeea1e4231bd48fb08dc6",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He’s attending a rally in Alabama on Friday and travels to Ohio on Saturday.…",
-          "sourceName": "Nvdaily",
-          "url": "https://www.nvdaily.com/associated_press_national/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/article_d81bf328-605f-5000-b75d-53f0c378f8ac.html",
-          "publishedAt": "2026-10-02T22:46:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5ea589fd5089e9320bc0d9b897d85f6ebbd3e70d86d29105c83ed925162452ba",
-          "title": "Maine Senate Race Is a Dead Heat",
-          "description": "A new CBS News/YouGov poll in Maine finds Troy Jackson (D) and Susan Collins (R) tied in the U.S. Senate race, 50% to 50%. Maine Senate Race Troy Jackson (D) 50% Susan Collins (R) 50% CBS News/YouGov poll · likely voters · ±4.7% The same poll in Maine finds Hannah Pingree (D) leading […]",
-          "sourceName": "Political Wire",
-          "url": "https://politicalwire.com/2026/10/02/maine-senate-race-is-a-dead-heat/",
-          "publishedAt": "2026-10-02T22:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a2c1800c1223d26017bc0cce62768a90b0d69bd78e9e25887cd28df7c9506365",
-          "title": "Sanders to rally for Troy Jackson in Maine (Will Steakin/Politico)",
-          "description": "Will Steakin / Politico : Sanders to rally for Troy Jackson in Maine — Sen. Bernie Sanders will hit the road for Troy Jackson in Maine starting Oct. 10, the first time the progressive leader will stump for the candidate this cycle. The Vermont independent plans to hold three rallies with Jackson …",
-          "sourceName": "Memeorandum",
-          "url": "https://www.memeorandum.com/261002/p98",
-          "publishedAt": "2026-10-02T21:20:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "d0a21e8f00c80d5ffdf96e5ce4863a8a5286633a7a19a61354613db6e6eb6fb4",
-          "title": "CBS News poll finds voters split on state v. national focus in Maine Senate race",
-          "description": "Troy Jackson is boosted by those looking for change, while Collins peels off some Trump disapprovers.",
-          "sourceName": "Aol.com",
-          "url": "https://www.aol.com/articles/cbs-news-poll-finds-voters-210020000.html",
-          "publishedAt": "2026-10-02T21:00:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "42923ebae3c76f2e81b8de301a56adfc73157c8b58d0e4265023a02913bdecc8",
-          "title": "CBS News poll finds voters split on state v. national focus in Maine Senate race",
-          "description": "Troy Jackson is boosted by those looking for change, while Collins peels off some Trump disapprovers.",
-          "sourceName": "Cbs News",
-          "url": "https://www.cbsnews.com/news/maine-senate-poll-2026-10-02/",
-          "publishedAt": "2026-10-02T21:00:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9202685c0854a16cb31e9d796053371eb4fffaf3185562e020158a26bb994443",
-          "title": "Sanders to Rally for Troy Jackson in Maine",
-          "description": "“Sen. Bernie Sanders will hit the road for Troy Jackson in Maine starting Oct. 10, the first time the progressive leader will stump for the candidate this cycle,” Politico reports. “The Vermont independent plans to hold three rallies with Jackson.”",
-          "sourceName": "Political Wire",
-          "url": "https://politicalwire.com/2026/10/02/sanders-to-rally-for-troy-jackson-in-maine/",
-          "publishedAt": "2026-10-02T20:54:34.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "c981b7387629f1d5303e36b9d33984d055afc682c4887a060496754c3b452ff1",
-          "title": "US Senate Odds See Democrats Surging Ahead: Trade on Midterm Elections",
-          "description": "On Nov. 4, 2026, the results of the midterms (presumably) will be in, and current US Senate odds from prediction markets show Democrats are increasingly likely to win big. Checking President Donald J. Trump’s feed on Truth Social will be a better indicator than watching the news to see how the day went for the … Continued The post US Senate Odds See Democrats Surging Ahead: Trade on Midterm Elections appeared first on Sports Betting Dime .",
-          "sourceName": "Sports Betting Dime",
-          "url": "https://www.sportsbettingdime.com/news/politics/us-senate-odds-democrats-surging-ahead-trade-midterm-elections/",
-          "publishedAt": "2026-10-02T20:52:27.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4ccc3cc32a286b98720f6da878db3e568718f1757fbc002564694a694474e603",
-          "title": "Bernie Sanders to rally 3 times with Troy Jackson in Maine",
-          "description": "The Vermont independent and two-time presidential candidate will join Jackson on stage in Bangor on Saturday, Oct. 10.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/02/politics/elections/bernie-sanders-to-rally-with-troy-jackson-in-maine/",
-          "publishedAt": "2026-10-02T20:30:00.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "e43c166627f2b81b63e910a572804a8d2c237e6038d2c203659c12469a399bd0",
-          "title": "Sanders to rally for Troy Jackson in Maine",
-          "description": "The Vermont independent plans to hold three rallies with Jackson, according to an itinerary shared first with POLITICO.",
-          "sourceName": "Politico",
-          "url": "https://www.politico.com/live-updates/2026/10/02/congress/sanders-maine-jackson-rallies-01105437",
-          "publishedAt": "2026-10-02T20:29:07.000Z",
-          "sentiment": 0.5
-        },
-        {
-          "id": "e96963837e869855eb1d9f7e6a1482877637560e4102780d6492bb0d31e2e11a",
-          "title": "Schumer & The Democrats' \"Alinsky-Grade Cloud Of Gaslight\"",
-          "description": "Schumer & The Democrats' \"Alinsky-Grade Cloud Of Gaslight\" Authored by James Howard Kunstler via Clusterfuck Nation , The Ancient Parable \"I will throw you in prison. I want Chinese style communism to happen inside of the democratic party right now. I want to do cultural revolution shit.\" - Hasan Piker, DSA Spox Translation: Chuck Schumer knows that the Democrats have already been thwarted from rigging the election , from flooding the polls with illegal immigrant voters, with dead voters, with voters who moved out of state but still got mail-in ballots sent to their old addresses, with voters registered as living in Walmart parking lots, and so on. Chuck Schumer knows that the Civil Rights Division of DOJ is sending hundreds of lawyers to observe the action in swing state polling places. ICE might even be on hand to see who turns up. So, Chuck Schumer is pretending that the Republicans will try to do what the Democrats actually did in several previous elections (including the last midterm, 2022, viz., AZ, GA, NV), and would have liked to do in this midterm, but can't. The Democrats will holler like crazy about it before the election to plant this idea in credulous minds. They will jump up and down going woo-woo-woo on Election Day itself to water the idea. And after the election they will blitz every critical precinct with lawsuits to prevent the vote from being certified, using select \"activist\" judges to issue TROs and writs to delay election results and de-legitimize the vote. And if none of that avails - which it won't - they'll call out their ground troops, Antifa, BLM, Free Palestine, LGBTQ2S+, the furious transsexuals, the hysterical cat ladies, and suchlike to make a giant ruckus so as to provoke the president to invoke emergency powers to quell the mayhem. And then they'll point at Mr. Trump shrieking, \"See! Tyrant!\" Chuck Schumer is such a shithead. Everybody knows that he intends for the Democratic Party to inflict lawfare and commit warfare on the midterm election (in that order), and hence on the American people, behind an Alinsky-grade cloud of gaslight claiming the other side is doing it . Of course, it's the president's constitutional duty (Article II, Section 3) to take care that the laws be faithfully executed . You have seen that Mr. Trump is taking a good deal of care vis-à-vis this midterm election to avoid any hint of interference. You can infer that's at least one reason we have seen no indictments of the Deep State sedition artists operating so brazenly since 2016. By the way, doing what's possible to make sure that only citizens can vote is taking care to faithfully execute the law , in case there's any question about that. A September 25 SCOTUS decision in Department of Homeland Security v. League of Women Voters (No. 26A308), a 6-3 majority (usual suspects dissenting) paused by lower-court judge Sparkle Sooknanan that had blocked the Dept. of Homeland Security's Systematic Alien Verification for Entitlements system - further proof that the Lefty-left won't abide any restrictions on who can vote. The SCOTUS stay allows state and local officials to match their voter rolls against federal Social Security records, to sort out who can legally vote. AI could do this with novel efficiency. The catch is, states' participation is voluntary. Only twenty-seven states have moved to participate in this record-sharing. Another catch is that SCOTUS waited, for unknown reasons, before issuing their ruling until well into the \"90-day rule window\" (in the National Voter Registration Act) that doesn't allow actual changes in the voter rolls during this period, only identification of problems. We'll see if any of that dissuades non-citizens from attempting to cast a vote. You have to wonder why the Democratic Party is acting like they've already won the midterms. After ten years of narrative control through their allies in the network media and what's left of the major newspapers, the Democrats apparently believe that if you assert an outcome often enough, Oprah Winfrey style, it will come true. It's just another gaslighting op. Look at the Democratic Party's marquee candidates, a ragtag and bobtail of avowed jihadis, communists, neo-Jacobins, and plain old creeps such as Abdul El-Sayed in Michigan, Melat Kiros in Colorado, Darializa Avila Chevalier and Claire Valdez in New York, Angie Nixon in Florida, James Talarico in Texas, and Troy Jackson up in Maine. The old Chuck Schumer / Hakeem Jeffries wing of the party pretends to support this rabble, who have declared they are merely running under the party's banner for convenience and aim to deep-six the likes of Schumer and Jeffries at the first opportunity. Will the Democrats still try to cheat their way through the midterms despite the obstacles and disincentives piling up around them? Probably, yes, because that will trigger conflict between the states and the Feds, and post-election chaos is what the party needs to keep hope alive , as they like to say. They want the results to remain in limbo as long as possible, with maximum lawfare around it to further confuse and confound the outcome. It's in their nature. They are the scorpion riding the frog across the river in the ancient parable. Tyler Durden Fri, 10/02/2026 - 16:20",
-          "sourceName": "Zerohedge",
-          "url": "https://www.zerohedge.com/markets/schumer-democrats-alinsky-grade-cloud-gaslight",
-          "publishedAt": "2026-10-02T20:20:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6cb8b555137092ddaad9c0780a89118da57966907f12b26f1d0f80cb9e25f772",
-          "title": "Politics panel: Is woke dead? Is Healey in trouble? Could New England decide the US Senate?",
-          "description": "On the latest episode of “Say More,” Jim Dao, Joan Vennochi, and Abdallah Fayyad discuss everything from the Last Ditch bar to New England politics. Plus, an exclusive interview with Seth Moulton.",
-          "sourceName": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/10/02/opinion/last-ditch-healey-senate-moulton-say-more-podcast/",
-          "publishedAt": "2026-10-02T19:59:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3f4a3e6ce53dc493f797a7d4aa4542518a5fc7e0d4d4eab4ee814d5e67dd089c",
-          "title": "Midterms monitor: NH and Maine could decide control of the U.S. Senate",
-          "description": "As national headlines reverberate at the local level, voters have no shortage of concerns. Journalists from New Hampshire and Maine joined 1A’s weekly news roundup Friday to help take the pulse of the 2026 midterm elections.",
-          "sourceName": "Nhpr",
-          "url": "https://www.nhpr.org/politics/2026-10-02/midterms-2026-nh-maine-senate-elections",
-          "publishedAt": "2026-10-02T19:19:53.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "63f849c508d8dc797e53206118d4173077147937f76c486321b132490c2f6597",
-          "title": "With a month to go, Republicans’ midterm prospects are ‘catastrophically bad’",
-          "description": "The same issues that catapulted Donald Trump back to power – the cost of living and a promise of no new foreign wars – are coming back to bite the GOP in 2026, even as the president insists everything is fine.",
-          "sourceName": "The Age",
-          "url": "https://www.theage.com.au/world/north-america/with-a-month-to-go-republicans-midterm-prospects-are-catastrophically-bad-20261003-p611kg.html",
-          "publishedAt": "2026-10-02T19:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cb66392b62c004a00733f4c019af057c3efa6a66cdbb516aa512b018d88d0267",
-          "title": "With a month to go, Republicans’ midterm prospects are ‘catastrophically bad’",
-          "description": "The same issues that catapulted Donald Trump back to power – the cost of living and a promise of no new foreign wars – are coming back to bite the GOP in 2026, even as the president insists everything is fine.",
-          "sourceName": "Brisbane Times",
-          "url": "https://www.brisbanetimes.com.au/world/north-america/with-a-month-to-go-republicans-midterm-prospects-are-catastrophically-bad-20261003-p611kg.html",
-          "publishedAt": "2026-10-02T19:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "45cd49a12126629549217951d863cb19b126f782f3d148bd3ee80254586dc17c",
-          "title": "With a month to go, Republicans’ midterm prospects are ‘catastrophically bad’",
-          "description": "The same issues that catapulted Donald Trump back to power – the cost of living and a promise of no new foreign wars – are coming back to bite the GOP in 2026, even as the president insists everything is fine.",
-          "sourceName": "The Sydney Morning Herald",
-          "url": "https://www.smh.com.au/world/north-america/with-a-month-to-go-republicans-midterm-prospects-are-catastrophically-bad-20261003-p611kg.html",
-          "publishedAt": "2026-10-02T19:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "25f71d351794bc84b20bd35598af8ea9a75a4d03b31d8b32497e0f5bcdff7880",
-          "title": "With a month to go, Republicans’ midterm prospects are ‘catastrophically bad’",
-          "description": "The same issues that catapulted Donald Trump back to power – the cost of living and a promise of no new foreign wars – are coming back to bite the GOP in 2026, even as the president insists everything is fine.",
-          "sourceName": "Watoday",
-          "url": "https://www.watoday.com.au/world/north-america/with-a-month-to-go-republicans-midterm-prospects-are-catastrophically-bad-20261003-p611kg.html",
-          "publishedAt": "2026-10-02T19:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d3634b207a71c28b61b31189421547ed54bd4b889b7618c80550fd16e3adabed",
-          "title": "The Latest: Trump campaigns in Alabama ahead of the midterm elections",
-          "description": "President Donald Trump is back on the campaign trail as he seeks to shore up lagging enthusiasm in his party ahead of next month’s midterm elections. He’s attending a rally in Alabama on Friday and travels to Ohio on Saturday. He could have his work cut out for him. A new poll says only 26% of U.S. adults approve of his handling of the economy. That marks a new low. Meanwhile, Trump’s immigration policies are finding renewed attention in the Supreme Court, which agreed Thursday to review his administration’s denial of bond hearings for immigrants during its sweeping crackdown. The post The Latest: Trump campaigns in Alabama ahead of the midterm elections appeared first on WHEC.com .",
-          "sourceName": "Whec News10nbc",
-          "url": "https://www.whec.com/ap-top-news/the-latest-trump-campaigns-in-alabama-ahead-of-the-midterm-elections/",
-          "publishedAt": "2026-10-02T18:58:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d3b0a0715988da39185977bde7c2d9bd159adaa70ddd80b31d44bafc7747d472",
-          "title": "How Jon Ossoff and Susan Collins are turning a mundane part of their jobs into a reelection pitch",
-          "description": "Democratic Sen. Jon Ossoff and Republican Sen. Susan Collins began this election cycle widely viewed as their respective parties’ most vulnerable members. But their campaigns have played out differently than expected in part because of a mundane part of their jobs: helping the people back home. Ossoff faces Republican congressman Mike Collins as he seeks a second term representing Georgia. Susan Collins is seeking her sixth term against Democratic former state legislative leader Troy Jackson. Both are known back home for focusing on what Washington calls “constituent services.” They're hoping it matters to voters in November. The post How Jon Ossoff and Susan Collins are turning a mundane part of their jobs into a reelection pitch appeared first on WHEC.com .",
-          "sourceName": "Whec News10nbc",
-          "url": "https://www.whec.com/ap-top-news/how-jon-ossoff-and-susan-collins-are-turning-a-mundane-part-of-their-jobs-into-a-reelection-pitch/",
-          "publishedAt": "2026-10-02T18:57:02.000Z",
-          "sentiment": 0.3
-        },
-        {
-          "id": "e2e585787963974f1c2fd1c4b00a9cc7a49938ea1becc48cb55e32abeeeb0bbf",
-          "title": "Bernie Moreno Warns Democrat Congress Would Threaten Trump Agenda and Voter ID",
-          "description": "Sen. Bernie Moreno warns that Democrat control of Congress would threaten Trump's agenda and state voter ID laws, during a Breitbart News Fight Club Roundtable.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/bernie-moreno-warns-democrat-congress-would-threaten-trump-88394398",
-          "publishedAt": "2026-10-02T18:56:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8c0f5475505e4cf30ba7af61367293da9de5ff3ac0f2f194742b25cd13f9e764",
-          "title": "How Trump changed the way US women vote",
-          "description": "A decade after his infamous Access Hollywood tape, the gender divide is again shaping a pivotal midterm election A decade ago, Donald Trump’s improbable presidential campaign was rocked – and nearly derailed – by the now-infamous Access Hollywood tape, a 2005 recording in which the real estate developer turned reality TV star boasted about kissing and grabbing women without their consent. “When you’re a star, they let you do it,” he said, a remark he later downplayed as “ locker-room talk ” before musing that the tape might be fake . ( It wasn’t .) ‘Of course I’m the underdog’: the British former spin doctor trying to turn California red A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see? Most Americans don’t know Hasan Piker. The rest say he is changing this year’s elections Trump campaign ads paid with public money violate federal law, critics say Trump allies could use midterms ‘counting window’ to disrupt results, experts warn What Democrats are getting right – and wrong – in run-up to midterms: ‘We can’t just be anti-Trump’ Continue reading...",
-          "sourceName": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/01/trump-women-vote",
-          "publishedAt": "2026-10-02T18:38:03.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8165354c5f181ec0799ca8b9a13fff2d432e4b171d1aa3d1d86c0c5e9c36656e",
-          "title": "Exclusive — Bernie Moreno: Democrats Would Make Voter ID Illegal in All 50 States, ‘That’s Their Dream’",
-          "description": "Sen. Bernie Moreno (R-OH) warned that Democratic control of Congress would threaten President Donald Trump’s agenda and state voter ID requirements during a Breitbart News Fight Club Roundtable hosted by Editor-in-Chief Alex Marlow and Washington Bureau Chief Matthew Boyle. The post Exclusive — Bernie Moreno: Democrats Would Make Voter ID Illegal in All 50 States, ‘That’s Their Dream’ appeared first on Breitbart .",
+          "id": "6fe392bf158e7eea61b8efa984ff68d2f62ad9ba26e7935e502e0a169d23a134",
+          "title": "Tim Scott Says Democrat Midterms Candidates 'Dangerous, Radical and Weird'",
+          "description": "On Friday on FNC's \"Hannity,\" Sen. Tim Scott (R-SC), chairman of the National Republican Senatorial Committee, urged viewers to keep supporting Republican efforts to defeat their Democrat opponents in the November midterms. The post Tim Scott Says Democrat Midterms Candidates ‘Dangerous, Radical and Weird’ appeared first on Breitbart .",
           "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/politics/2026/10/02/exclusive-bernie-moreno-democrats-would-make-voter-id-illegal-in-all-50-states-thats-their-dream/",
-          "publishedAt": "2026-10-02T18:32:07.000Z",
+          "url": "https://www.breitbart.com/clips/2026/10/03/tim-scott-says-democrat-midterms-candidates-dangerous-radical-and-weird/",
+          "publishedAt": "2026-10-03T17:30:19.000Z",
           "sentiment": 0
         },
         {
-          "id": "304ee19202e2abd9013a289f5c14a743702cfa4d2710265f9540dabad59f8093",
-          "title": "The Ancient Parable",
-          "description": "\"I will throw you in prison. I want Chinese style communism to happen inside of the democratic party right now. I want to do cultural revolution shit.\" —Hasan Piker, DSA Spox Translation: Chuck Schumer knows that the Democrats have already been thwarted from rigging the election, from flooding the polls with illegal immigrant voters, with dead voters, with voters who moved out of state but still got mail-in ballots sent to their old addresses, with voters registered as living in Walmart parking lots, and so on. Chuck Schumer knows that the Civil Rights Division of DOJ is sending hundreds of...",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-news/4397714/posts",
-          "publishedAt": "2026-10-02T17:57:57.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a517604a1acd7726762f16843beca5653eba07d9817a04d1045e13a2ea0467b4",
-          "title": "250 Ballots in Amazon Package Prompts Maine GOP Leader’s Skepticism About Expanded Mail Voting",
-          "description": "Maine expanded mail-in voting during one of the most closely watched U.S. Senate races in the country, just a year after 250 mail ballots ended up in an Amazon package. Early in-person voting and “no-excuse” absentee voting—in which ballots can be mailed in even if voters are not sick or out of town—begins Oct. 4,...",
+          "id": "10023b3d8fc621cd3085248548ef2cc635ff857288f613a431b08ef98a574e5a",
+          "title": "The Election Issue Few Pollsters Are Talking About",
+          "description": "Dearborn, Michigan, a suburb of Detroit, was once known as the birthplace of Henry Ford and home of Ford Motor Co.’s headquarters. Today it proudly boasts the title “Arab Capital of America,” with the highest concentration of Arab Americans in the United States. In 2023, it officially became the country’s first majority-Arab city, with about...",
           "sourceName": "The Daily Signal",
-          "url": "https://www.dailysignal.com/2026/10/02/250-ballots-in-amazon-package-prompts-maine-gop-leaders-skepticism-about-expanding-mail-voting/",
-          "publishedAt": "2026-10-02T17:53:42.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "61ef53ae87a358b29a5ae09535edde42a580107b3747519cbb32691175372fbe",
-          "title": "Democrats launch $3.4M corruption-focused ad campaign against Susan Collins",
-          "description": "As Election Day nears, WinSenate's campaign aims to weaken Collins' political strength of bringing federal money to Maine.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/10/02/democrats-launch-3-4m-corruption-focused-ad-campaign-against-susan-collins/",
-          "publishedAt": "2026-10-02T17:44:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "81187fd212bb1740716755e3cc3a3a84d25f5ee638b9619e9daba48a91e96f3f",
-          "title": "Democrats launch $3.4M corruption-focused ad campaign against Susan Collins",
-          "description": "As Election Day nears, WinSenate's campaign aims to weaken Collins' political strength of bringing federal money to Maine.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/10/02/democrats-launch-3-4m-corruption-focused-ad-campaign-against-susan-collins/",
-          "publishedAt": "2026-10-02T17:44:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "63246e2845f32e22634fdf791e3a07f80ab78cbc8cf1a3a36acdf421448f9ba6",
-          "title": "Democrats launch $3.4M corruption-focused ad campaign against Susan Collins",
-          "description": "As Election Day nears, WinSenate's campaign aims to weaken Collins' political strength of bringing federal money to Maine.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/10/02/democrats-launch-3-4m-corruption-focused-ad-campaign-against-susan-collins/",
-          "publishedAt": "2026-10-02T17:44:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8c3eacdcc702d239f6602bcbe93a317f434249cda5bcb645922624b81245d891",
-          "title": "ADL CEO: Troy Jackson Is Ignorant, I'm Bothered El-Sayed Is So Close in Polls",
-          "description": "On Thursday's broadcast of Fox News Radio's 'Brian Kilmeade Show,' ADL Director and CEO Jonathan Greenblatt reacted to Maine Democratic U.S. Senate | Clips",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/adl-ceo-troy-jackson-is-ignorant-i-m-bothered-el-sayed-is-88390954",
-          "publishedAt": "2026-10-02T16:50:00.000Z",
-          "sentiment": -0.7
-        },
-        {
-          "id": "73e7e0f0bf6d31f4137fb16c0ba74306d475d6c7b3ca608c763af4b7dbc44753",
-          "title": "Here’s why Troy Jackson speaks the way he does | Opinion",
-          "description": "The Democratic Senate candidate and Allagash resident articulates new ideas in a very old way of speaking. Let's trace it back.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/10/02/heres-why-troy-jackson-speaks-the-way-he-does-opinion/",
-          "publishedAt": "2026-10-02T16:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c189caf9737746cd542439b75fac39ec26358babb2e06474758fdff35ffb969b",
-          "title": "Here’s why Troy Jackson speaks the way he does | Opinion",
-          "description": "The Democratic Senate candidate and Allagash resident articulates new ideas in a very old way of speaking. Let's trace it back.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/10/02/heres-why-troy-jackson-speaks-the-way-he-does-opinion/",
-          "publishedAt": "2026-10-02T16:00:00.000Z",
+          "url": "https://www.dailysignal.com/2026/10/03/muslim-migration-key-senate-races/",
+          "publishedAt": "2026-10-03T16:42:47.000Z",
           "sentiment": 0
         }
       ],
