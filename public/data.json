@@ -1,20 +1,30 @@
 {
-  "lastUpdated": "2026-10-06T15:53:07.934Z",
+  "lastUpdated": "2026-10-06T17:52:09.081Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
-      "newsSentiment": null,
+      "overallSentiment": -0.1,
+      "newsSentiment": -0.1,
       "socialSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 0,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
-      "news": [],
+      "news": [
+        {
+          "id": "3a7d909f3ce2d39ac5c9aa0730ddde3c889b20def1d8d76473d79db15f21dece",
+          "title": "Utah enters the Wild West of AI healthcare. How far will it go?",
+          "description": "Lower-cost prescription renewals by AI? Utah-exclusive health apps unveiled.",
+          "sourceName": "Deseret",
+          "url": "https://www.deseret.com/politics/2026/10/05/utah-announces-partnership-with-major-healthcare-providers-to-create-artificial-intelligence-clinical-pilot-programs/",
+          "publishedAt": "2026-10-06T00:35:37.000Z",
+          "sentiment": -0.1
+        }
+      ],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -22,16 +32,26 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -1,
-      "newsSentiment": null,
+      "overallSentiment": -0.5,
+      "newsSentiment": 0,
       "socialSentiment": -1,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 1,
         "youtube": 0,
-        "total": 1
+        "total": 2
       },
-      "news": [],
+      "news": [
+        {
+          "id": "ede790d6458db4d061ce1febd0abe964686dfe95159107d733c5bb85056dfe13",
+          "title": "Absentee voting in Maine begins today",
+          "description": "Secretary of State Shenna Bellows said that only ballots received by the close of polls on election day are counted, regardless of their postmark. Voters should mail them at least a week before election day.",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/politics/2026-10-05/absentee-voting-in-maine-begins-today",
+          "publishedAt": "2026-10-05T20:05:01.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [
         {
           "id": "976815df893582727250a1d37689c59a6b6ffbbb4146f59bd529123ea2037753",
@@ -48,95 +68,464 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.22843304843304846,
-      "newsSentiment": -0.1111111111111111,
+      "overallSentiment": 0.2788034188034188,
+      "newsSentiment": 0.039999999999999994,
       "socialSentiment": 0.30641025641025654,
       "mentions": {
-        "news": 9,
+        "news": 50,
         "social": 156,
         "youtube": 10,
-        "total": 175
+        "total": 216
       },
       "news": [
         {
-          "id": "3151f767a9851d1a9d74d37ab5a5654e1ac4da9c67bdcd304179e9167ad65336",
-          "title": "THE OTHER SIDE: Make America Grift Again",
-          "description": "Sometimes grifting and grafting is pretty easy to spot.",
-          "sourceName": "Homepage - The Berkshire Edge",
-          "url": "https://theberkshireedge.com/the-other-side-make-america-grift-again/",
-          "publishedAt": "2026-10-04T04:05:33.000Z",
+          "id": "6436bf69b73d5577a77c14dc93fba954308be52665274cbd43daa794f11b6721",
+          "title": "Week 6 College Football Predictions: Expert Picks & Lines",
+          "description": "The college football Week 6 expert picks, highlighted by Arch Manning and Texas vs Oklahoma, Georgia at Alabama, and Indiana at Nebraska.",
+          "sourceName": "Yahoo! News",
+          "url": "https://sports.yahoo.com/articles/week-6-college-football-predictions-051855584.html",
+          "publishedAt": "2026-10-06T05:18:55.000Z",
           "sentiment": 0
         },
         {
-          "id": "3820edd8377fc6a2fd0d616a7c51b42f16789a2bfce7863e8eb56929db06d8d0",
-          "title": "Troy Jackson bids Jews forget their silly Holocaust fixation - Blogs",
-          "description": "October 7 has given some American Jews a somewhat different idea of what’s good for them.",
-          "sourceName": "Americanthinker",
-          "url": "https://www.americanthinker.com/blog/2026/10/troy-jackson-bids-jews-forget-their-silly-holocaust-fixation/",
-          "publishedAt": "2026-10-04T04:00:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "40a6ec444c05991774cdd0282deaa09b9e791c902f5cbec7d02eb84d898fc7ed",
-          "title": "Democrats hit 50% or more in Texas, Alaska polls as Senate battle heats up",
-          "description": "The nation's two biggest states delivered an outsized message about the fierce battle for Senate control Saturday, with Democratic candidates hitting the 50 percent threshold in Texas and Alaska.",
-          "sourceName": "New York Post",
-          "url": "https://nypost.com/2026/10/03/us-news/democrats-hit-key-threshold-in-texas-and-alaska-in-new-poll/",
-          "publishedAt": "2026-10-03T21:49:45.000Z",
+          "id": "77c63d5f507b22ed71afa46853612f6f333fd69ca8f9f099cd081c3318023e49",
+          "title": "The flashpoints to look for in Susan Collins and Troy Jackson’s 1st debate",
+          "description": "Abortion, healthcare, taxes, the Iran war, President Donald Trump, and Jackson's 20-plus years in Augusta and informal style are all fair game.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/06/politics/elections/susan-collins-troy-jackson-debate-preview-joam40zk0w/",
+          "publishedAt": "2026-10-06T05:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "ad39178f0e94fe23ea4c11f188c442b6c969064a54cf5f30ade8aebbd4e341a3",
-          "title": "Editorial cartoon on write-in voting was misleading | Letter",
-          "description": "I’m writing to set the record straight after your misleading editorial cartoon on Sept. 20. Thanks to ranked-choice voting, if a voter casts a write-in vote, whether for the declared write-ins or Graham Platner, and votes for Troy Jackson as their second choice, Jackson can win. Susan Collins needs to win by 50.01% of all […]",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/10/03/editorial-cartoon-on-write-in-voting-was-misleading-letter/",
-          "publishedAt": "2026-10-03T21:00:00.000Z",
+          "id": "47130a725611a25b654010ba4f08a4cda9bc14c3ee6dad840e3e660014a6c98d",
+          "title": "Maine’s candidates for US Senate answer your questions",
+          "description": "To put the focus on the topics and concerns that matter most to you, the BDN opinion section asked subscribers for their questions for the candidates for governor, U.S. Senate and U.S. House.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/06/opinion/opinion-contributor/maine-candidate-for-us-senate-answer-your-questions-joam40zk0w/",
+          "publishedAt": "2026-10-06T05:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "34094164e8280ab152966ec902d3013006384a91103c0315811b91f502ff5fc9",
-          "title": "Editorial cartoon on write-in voting was misleading | Letter",
-          "description": "I’m writing to set the record straight after your misleading editorial cartoon on Sept. 20. Thanks to ranked-choice voting, if a voter casts a write-in vote, whether for the declared write-ins or Graham Platner, and votes for Troy Jackson as their second choice, Jackson can win. Susan Collins needs to win by 50.01% of all […]",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/10/03/editorial-cartoon-on-write-in-voting-was-misleading-letter/",
-          "publishedAt": "2026-10-03T21:00:00.000Z",
+          "id": "1bffe5a9220667534e0ec254f2a26cb4a3a4e8a81d1f8d2e1775a2efeec225bc",
+          "title": "Susan Collins, Troy Jackson set to face off in first Maine Senate debate",
+          "description": "Maine Senate candidates Susan Collins and Troy Jackson.",
+          "sourceName": "Necn",
+          "url": "https://www.nbcboston.com/news/local/susan-collins-troy-jackson-set-to-face-off-in-first-maine-senate-debate/4026546/",
+          "publishedAt": "2026-10-06T04:37:21.000Z",
           "sentiment": 0
         },
         {
-          "id": "cb916509d9f19a49596df852b4c28ddb651fdb4c5d2ca87461e8ca59fd5b8cc7",
-          "title": "Maine’s Democratic voters should not fall for Collins’ pitch | Letter",
-          "description": "Insanity, as the adage goes, is doing the same thing over and over again and expecting a different result. Yet — again and again — Maine voters send Susan Collins back to the U.S. Senate. The result of this action has never changed: always concerned but never taking action, always siding with Republican hardliners except […]",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/10/03/maines-democratic-voters-should-not-fall-for-collins-pitch-letter/",
-          "publishedAt": "2026-10-03T20:00:00.000Z",
+          "id": "0aa4a7b7ec24760b2c1ec7279f949d5cf1604d6532a51b00f63b4836d5bbf52b",
+          "title": "Democrat Troy Jackson and Planned Parenthood tout his support for reproductive rights on eve of first debate with Sen. Susan Collins",
+          "description": "Jackson criticizes Collins on eighth anniversary of her vote to confirm Brett Kavanaugh to US Supreme Court",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/democrat-troy-jackson-and-planned-parenthood-tout-his-support-for-reproductive-rights-on-eve-of-first-debate-with-sen-susan-collins/97-53676239-0d0d-4054-83c0-494388e4823a",
+          "publishedAt": "2026-10-06T04:13:45.000Z",
+          "sentiment": 0.3
+        },
+        {
+          "id": "836b326443803ca67defa8831c85500c9e5fa8d0c6561677c8399059cefbf016",
+          "title": "This rural corner of Maine produced both Susan Collins and Troy Jackson — and set them on collision course in Senate battle",
+          "description": "Both candidates in Maine's US Senate race are natives of Aroostook County, whose distinct identity shaped each of them.",
+          "sourceName": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/06/nation/this-rural-corner-maine-produced-both-susan-collins-troy-jackson-set-them-collision-course-senate-battle/",
+          "publishedAt": "2026-10-06T04:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "4980861c9b2cde16bbc2abd93fa06b0e07fa5e9e2581650af0054c850a7856d8",
-          "title": "Maine’s Democratic voters should not fall for Collins’ pitch | Letter",
-          "description": "Insanity, as the adage goes, is doing the same thing over and over again and expecting a different result. Yet — again and again — Maine voters send Susan Collins back to the U.S. Senate. The result of this action has never changed: always concerned but never taking action, always siding with Republican hardliners except […]",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/10/03/maines-democratic-voters-should-not-fall-for-collins-pitch-letter/",
-          "publishedAt": "2026-10-03T20:00:00.000Z",
+          "id": "22cda9254c22e8c483f10dcdf380c0dbba1cc46dd86486f16e5148423a6510e7",
+          "title": "Trump Says He Thinks He’s ‘Going to Maine Too’ as Early Voting Begins",
+          "description": "President Donald Trump told reporters at the White House on Monday that a Maine stop may be on his schedule, though he did not give a date. “I don’t know about Maine, I think we’re going to Maine too but we’re going to Michigan in a week and a half,” Trump said during a gaggle, according to the in-town pool report. Asked about mail-in voting, Trump said, “I’d rather have them vote in-person, but they can vote by mail if they want… a lot of people want to vote by mail, but a lot of very good people also want...",
+          "sourceName": "Freerepublic",
+          "url": "https://freerepublic.com/focus/f-news/4398082/posts",
+          "publishedAt": "2026-10-06T02:15:54.000Z",
           "sentiment": 0
         },
         {
-          "id": "6fe392bf158e7eea61b8efa984ff68d2f62ad9ba26e7935e502e0a169d23a134",
-          "title": "Tim Scott Says Democrat Midterms Candidates 'Dangerous, Radical and Weird'",
-          "description": "On Friday on FNC's \"Hannity,\" Sen. Tim Scott (R-SC), chairman of the National Republican Senatorial Committee, urged viewers to keep supporting Republican efforts to defeat their Democrat opponents in the November midterms. The post Tim Scott Says Democrat Midterms Candidates ‘Dangerous, Radical and Weird’ appeared first on Breitbart .",
-          "sourceName": "Brietbart",
-          "url": "https://www.breitbart.com/clips/2026/10/03/tim-scott-says-democrat-midterms-candidates-dangerous-radical-and-weird/",
-          "publishedAt": "2026-10-03T17:30:19.000Z",
+          "id": "5628c974b1720087f4c194cc33501cef5cf27cd92f3e50bad3ef91417d7957c4",
+          "title": "Susan Collins and Troy Jackson tied in new poll as Jeffries praises Democrats' midterm prospects",
+          "description": "The latest CBS News and YouGov polling shows that Republican incumbent Sen. Susan Collins and Democratic challenger Troy Jackson are running virtually neck-and-neck in Maine's highly-watched Senate race. CBS News congressional correspondent Nikole Killion reports.",
+          "sourceName": "Cbs News",
+          "url": "https://www.cbsnews.com/video/republican-democrat-maine-senate-race-neck-poll-shows/",
+          "publishedAt": "2026-10-06T01:23:33.000Z",
           "sentiment": 0
         },
         {
-          "id": "10023b3d8fc621cd3085248548ef2cc635ff857288f613a431b08ef98a574e5a",
-          "title": "The Election Issue Few Pollsters Are Talking About",
-          "description": "Dearborn, Michigan, a suburb of Detroit, was once known as the birthplace of Henry Ford and home of Ford Motor Co.’s headquarters. Today it proudly boasts the title “Arab Capital of America,” with the highest concentration of Arab Americans in the United States. In 2023, it officially became the country’s first majority-Arab city, with about...",
-          "sourceName": "The Daily Signal",
-          "url": "https://www.dailysignal.com/2026/10/03/muslim-migration-key-senate-races/",
-          "publishedAt": "2026-10-03T16:42:47.000Z",
+          "id": "c7a703454e1ebda3a7191e64960e94041bd6ad8e4098182853e147e4151d4d89",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Chronicle Online",
+          "url": "https://www.chronicleonline.com/news/national/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_ac9e2c53-aaba-592c-9fc9-09cdaf169327.html",
+          "publishedAt": "2026-10-06T01:03:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5c0551d56457f81784dfb8f3f385dee97813a7503553fcbbe01e230de221ed86",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Idahostatejournal",
+          "url": "https://www.idahostatejournal.com/news/national/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_6a8d07e3-c9ec-5ca0-8f7f-125eda95a718.html",
+          "publishedAt": "2026-10-06T01:03:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3c92f5bd6a41c5ed71a5acd63a5c37cdbd0be3a81489adcbab259fbec03e5bf5",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Hastingstribune",
+          "url": "https://www.hastingstribune.com/ap/health/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_8b29a9ec-446d-5cf8-8b3f-49617a0a6622.html",
+          "publishedAt": "2026-10-06T01:03:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "adfaddeba4d5797da9a2cb502f6364b2e8d83ed31df0844511f6a185b33f5bac",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Dailysentinel",
+          "url": "https://www.dailysentinel.com/anpa/us/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_0fd6bb23-87b3-5647-a423-a142e02ca038.html",
+          "publishedAt": "2026-10-06T01:03:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "21d7a04d83ad9b4c031d72abace75c529bc2ed063bff3f62ed39170ea7bb97c8",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Woonsocketcall",
+          "url": "https://www.woonsocketcall.com/news/national_and_world_news/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_dca0df7e-aa49-5c63-80a1-4b4c6d3375ed.html",
+          "publishedAt": "2026-10-06T01:03:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "927a6038f0877635255f195bee0201575b416c3c79a61acbc4b638d8f89a7677",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Goskagit",
+          "url": "https://www.goskagit.com/news/politics/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_cdee9352-c239-5d15-a643-34cfff67dfb9.html",
+          "publishedAt": "2026-10-06T01:03:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2318ccd39c6d476eb06edefda4186c7a3c5866e39ac37f6b1d9c0729b5f6bb26",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Rutland Herald",
+          "url": "https://www.rutlandherald.com/ap/national/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_3442a0e8-e915-5849-b114-c547bae74c5b.html",
+          "publishedAt": "2026-10-06T01:03:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d7593d74936fc0bd5078929bf7613773454208b50613c5e8327abf9ec294c7db",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Mankato Free Press",
+          "url": "https://www.mankatofreepress.com/news/state_national_news/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_9fa50c94-10b0-5e0b-9983-143557058b23.html",
+          "publishedAt": "2026-10-06T00:22:15.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "77c7cb7be6921b0415e5e741d7e39b60abeb02c0515b72007883c5f582168c08",
+          "title": "Senate candidate Troy Jackson touts support for reproductive rights at town hall",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news-center-maine-524552/4927688822296-senate-candidate-troy-jackson-touts-support-for-reproductive-rights-at-town-hall",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
+          "sentiment": 0.4
+        },
+        {
+          "id": "0fec41076b61baceb3442e8b4df900638ebfad95609fe036ef6e22066d39f735",
+          "title": "Troy Jackson cares about all Maine families",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4927617992455-troy-jackson-cares-about-all-maine-families",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "9b63eb7ac7e1111a63f7309cc92737c54740d5cdb08a01dbef3ac757d3db7608",
+          "title": "Kalshi to Deliver Real-Time Prediction Market Data to CBS News for Contested 2026 Midterm Elections",
+          "description": "Kalshi will provide CBS News with prediction market data for its coverage of the US midterm elections. The elections are expected to be tightly contested, with control of both the House of Representatives and Senate at stake. The platform currently gives Democrats a 63% chance of controlling the Sen…",
+          "sourceName": "Sccg Management",
+          "url": "https://sccgmanagement.com/sccg-articles/2026/10/06/kalshi-to-deliver-real-time-prediction-market-data-to-cbs-news-for-contested-2026-midterm-elections/",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4562fa42e57a7624f4d1bb5069d1a1798f89236f3dc619a792c435767244d6eb",
+          "title": "Donald Trump: ‘I think we’re going to Maine’",
+          "description": "Speaking outside the White House, the president confirmed that he is going to Michigan but was less clear about Maine.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/05/politics/elections/donald-trump-i-think-were-going-to-maine/",
+          "publishedAt": "2026-10-05T23:48:39.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "99be61c3d6ad2aae5009d7e3afc938df91513435f90e949ba84f19026ef4b460",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Nvdaily",
+          "url": "https://www.nvdaily.com/associated_press_national/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_9e40fd0d-13f8-5bb3-b51b-ac91c008640a.html",
+          "publishedAt": "2026-10-05T22:53:23.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "52fc9c5f92a25c819f3c7a391d0f1da3b2f122e88282af18e6301ee46743f5aa",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Yakima Herald-republic",
+          "url": "https://www.yakimaherald.com/news/nation_and_world/nation/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_5287793b-91e3-5b7f-a90d-f20ef73d29bf.html",
+          "publishedAt": "2026-10-05T21:45:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4ed1b9bced2020cb65d37b1b6649858a13dbd55c0adccafc64c13f9e80e18859",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Times Argus",
+          "url": "https://www.timesargus.com/news/national/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_7d106a7f-aad0-52e9-94c6-6b4d2427e62f.html",
+          "publishedAt": "2026-10-05T21:45:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6e94c2acfa7c0a18f69c069ffdf375c7bc4273472d2cb28fc6d80ef638326dbe",
+          "title": "The election should not be this crucial, but it is",
+          "description": "'Democrats have inexplicably embraced the most destructive ideologies in the world – Islamism and socialism'",
+          "sourceName": "Worldnetdaily",
+          "url": "https://www.wnd.com/2026/10/election-should-not-be-this-crucial-it-is/",
+          "publishedAt": "2026-10-05T21:36:21.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c79564ee08069d92fd7ecdf600b4a72dfcd3b423444d3af9af41cacc99757121",
+          "title": "The election should not be this crucial, but it is * WorldNetDaily * by Robert Knight",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/the-election-should-not-be-this-crucial-but-it-is-worldnetdaily-by-robert-knight-A5BEEC2F-C7FB-58B2-A493-68347FEA3613",
+          "publishedAt": "2026-10-05T21:36:21.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "cb68791f4d0aeab914ad02b4a6c5bec646b271fe66cbb1a52a8c8443d9b50fe1",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is taking his Republican midterm rescue mission to Nebraska on Monday, campaigning alongside GOP Sen. Pete Ricketts, who is running against an independent candidate backed by national Democrats.",
+          "sourceName": "Local 10 News",
+          "url": "https://www.local10.com/news/politics/2026/10/05/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the-economy/",
+          "publishedAt": "2026-10-05T21:35:17.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "49579d518f0a6b4cddc52e32e70cb2069599ad7549777ea5f27a2147077b7d6b",
+          "title": "Troy Jackson is scrambling to defeat Maine Sen. Susan Collins. Time is not on his side",
+          "description": "SCARBOROUGH, Maine — It’s a Monday night, and Troy Jackson has drawn about 250 people into a converted church to hear him talk about healthcare and labor in Maine.",
+          "sourceName": "Sentinelsource",
+          "url": "https://www.keenesentinel.com/news/national_world/troy-jackson-is-scrambling-to-defeat-maine-sen-susan-collins-time-is-not-on-his/article_ab332d29-8f5b-4add-8baa-b92417896a79.html",
+          "publishedAt": "2026-10-05T21:30:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "745a78452ec9ba68061bcff7d61399a2b8ac7407d2776448e399bba80079d012",
+          "title": "Here’s why Maine’s famous election slogan will be disproven in midterms",
+          "description": "Susan Collins might be the one Republican who survives a GOP electoral bloodbath, Eric Garcia writes, defying the old saw, 'As goes Maine, so goes the nation'",
+          "sourceName": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/here-s-why-maine-s-famous-election-slogan-will-be-disproven-in-midterms-b3061709.html",
+          "publishedAt": "2026-10-05T20:52:17.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "43b7dc8671dd18a2d5b8b00d6210257b3c71d758b1b3f6a06e956c227bc7c23a",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump's visit is part of a 32-day rally blitz",
+          "sourceName": "The Daily Independent At Yourvalley.net",
+          "url": "https://www.yourvalley.net/stories/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the-economy,725987",
+          "publishedAt": "2026-10-05T20:44:30.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3f2ce5c7358b7a5cc562fd3a892b2756fbdd2834e79cbc2c6891b5a6d814c0aa",
+          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
+          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
+          "sourceName": "Killeen Daily Herald",
+          "url": "https://kdhnews.com/news/nation/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_f7ed5ce3-4481-54b9-baa4-9f1ce93dfe71.html",
+          "publishedAt": "2026-10-05T20:44:30.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "75d82304f621a896a4ff9ce99166ce190d2d569b4f5af1545a8a2e9d8bfc2728",
+          "title": "Democrats vow revenge for Supreme Court shenanigans if they gain majority",
+          "description": "Senate Democrats are warning that if they win control of the chamber this November, any Supreme Court vacancy President Donald Trump tries to fill could meet the same fate Republicans once handed Barack Obama's nominee: a seat left open and a nominee left waiting. Senate Minority Leader Chuck Schumer (D-NY) put the president on notice in response to a question from NBC News , saying a major reason Democrats want the majority is to stop Trump from stocking the courts with ideological allies. \"The bottom line is: One of the reasons we want to do everything we can to take back the Senate is not to let Trump put such horrible justices — MAGA justices — on the Supreme Court and the lower courts,\" Schumer said. The pledge lands days after Justice Samuel Alito acknowledged in a CBS News interview that he considered retiring this year and will weigh it again in 2027, raising the prospect of a fourth Trump appointment. Democrats would need to pick up four seats to flip the Senate, a majority that would let them decide which judicial nominees get a hearing at all. Several Democrats pointed directly to Republicans' 2016 decision to sit on Obama's pick, Merrick Garland, for most of a year. Arizona Sen. Ruben Gallego was blunt about what the party should do in response. \"No, we've got to do exactly what McConnell did to us,\" Gallego said. Hawaii Sen. Mazie Hirono, a Judiciary Committee member, laughed when asked whether Democrats would consider a Trump nominee and pivoted to talk of court reform, floating a limit of two nominations per president. Josh Orton, president of the progressive group Demand Justice, said his organization will fight any Trump nominee whenever a vacancy opens, arguing Trump wants judges loyal to him personally. Republicans are already using the warning as a midterm motivator. Sen. Darline Graham (R-SC) warned on X that a GOP-controlled Senate is needed to confirm any Alito successor, claiming Democrats wouldn't even hold a vote. Louisiana Sen. John Kennedy, also on the Judiciary Committee, agreed, saying a Trump pick shouldn't expect to get through a Democratic-led Senate. Meanwhile, Maine Democratic Senate nominee Troy Jackson is already turning the vacancy question on Sen. Susan Collins, pointing to her votes for justices who later helped overturn Roe v. Wade. Republicans hold a 53-47 Senate majority, though recent polling shows Democrats within striking distance of flipping it.",
+          "sourceName": "Raw Story",
+          "url": "https://www.rawstory.com/democrats-supreme-court/",
+          "publishedAt": "2026-10-05T19:49:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "05e3c8fb44fed7acda7d6be8e61af80d8a2d992f60b95f041a1cf2651925c895",
+          "title": "The Red Tide Goes Out—With a Blue Splashback",
+          "description": "Democrats are surging in Republican states but have some problems in their own strongholds. The post The Red Tide Goes Out—With a Blue Splashback appeared first on The American Prospect .",
+          "sourceName": "The American Prospect",
+          "url": "https://prospect.org/2026/10/05/red-tide-goes-out-blue-splashback-republicans-democrats-midterm-election/",
+          "publishedAt": "2026-10-05T19:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f4099585aaaf53ecbb71f0b5572b05e752f71f3ad550977669f3a1da97193aac",
+          "title": "The top 10 House and Senate races to watch that will determine whether Republicans or Democrats take control in November",
+          "description": "Check out the 10 US Senate and US House Seats most likely to determine control of Congress in November.",
+          "sourceName": "Mail Online",
+          "url": "https://www.dailymail.com/news/article-16041949/top-house-senate-races-determine-power-midterm-elections.html",
+          "publishedAt": "2026-10-05T18:55:39.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ab5c71570b601f579920ec54dc1fc0cbce1377ef5b02f32c626821be2a70b1f2",
+          "title": "Bernie Sanders to join Troy Jackson in Maine rallies",
+          "description": "The Independent Senator from Vermont has been touring the country with various candidates in key races coming up in November.",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/bernie-sanders-to-join-troy-jackson-in-maine-rallies-us-senate-race/97-e80f7456-caeb-4bc2-ac20-3bb95c08ab63",
+          "publishedAt": "2026-10-05T18:47:44.000Z",
+          "sentiment": 0.7
+        },
+        {
+          "id": "0a7d68fdd31128b62c7683e6a0b68bec7a89e89f3b41e03b495457e331f3f444",
+          "title": "The Latest: Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them",
+          "description": "U.S. soldiers wounded in the Iran war’s deadliest strike yet on American troops are raising concerns publicly, many for the first time, about whether commanders underestimated the threat. Some also said the military medical system failed them. The Pentagon has…",
+          "sourceName": "Yankton Net",
+          "url": "https://www.yankton.net/news/national_ap/article_aa7995c4-9c39-5eac-9f94-94f4d6de6fc0.html",
+          "publishedAt": "2026-10-05T18:27:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d38fde38e739bbe3c333a5a546c355ada6794a713a7154f6998e34efa7ba49fc",
+          "title": "The Latest: Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them",
+          "description": "U.S. soldiers wounded in the Iran war’s deadliest strike yet on American troops are raising concerns publicly, many for the first time, about whether commanders underestimated the threat. Some also said the military medical system failed them. The Pentagon has…",
+          "sourceName": "Hastingstribune",
+          "url": "https://www.hastingstribune.com/ap/health/the-latest-soldiers-seriously-wounded-in-iranian-drone-strike-tell-ap-the-us-military-failed/article_8b29a9ec-446d-5cf8-8b3f-49617a0a6622.html",
+          "publishedAt": "2026-10-05T18:27:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3811fa7954b26e5ed90a0b6f7ae75e3871d8ca965afe71f2840e6a9be86d99ad",
+          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
+          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
+          "sourceName": "Fortmorgantimes",
+          "url": "https://www.fortmorgantimes.com/2026/10/05/trump-education-harvard-appeals-court/",
+          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "dc5e7e05a4764b2d7d6dac637099516f56d9140a4b43e27577bca8233e3b6d8a",
+          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
+          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
+          "sourceName": "Troy Record",
+          "url": "https://www.troyrecord.com/2026/10/05/trump-education-harvard-appeals-court/",
+          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5c8520c32d3bd8353382b450fd840bcba12615ad2ed01692a14a72ee8934ea9c",
+          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
+          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/10/05/trump-education-harvard-appeals-court/",
+          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1e5f1d81b4280b927ffe5f68457761fccd52f2d5208c628c9f6b6441c5024512",
+          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
+          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
+          "sourceName": "Boulder Daily Camera",
+          "url": "https://www.dailycamera.com/2026/10/05/trump-education-harvard-appeals-court/",
+          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "23bb63f61645e9c71a10d3e79957d3c8ae6cc488f97dd697f152a121197024f6",
+          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
+          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
+          "sourceName": "Longmont Times Call",
+          "url": "https://www.timescall.com/2026/10/05/trump-education-harvard-appeals-court/",
+          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "feb47368b156f033c7dd18a07330d58c756d6d0fa142cf2c47b780d522e864a1",
+          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
+          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
+          "sourceName": "Greeley Tribune",
+          "url": "https://www.greeleytribune.com/2026/10/05/trump-education-harvard-appeals-court/",
+          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "04496608a2812fe2684f920f7a05de548dd22d4292254469cf797fa03de37ce7",
+          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
+          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/10/05/trump-education-harvard-appeals-court/",
+          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "bbb6ed34ca96f303dd1195473d6c0169ffc9642a7f7103b0e80849bbef502a24",
+          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
+          "description": "The court's decision could impact similar cases across the country.",
+          "sourceName": "Troy Record",
+          "url": "https://www.troyrecord.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
+          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3dcab21c1dab3d5b897783bb5c062eccd8306fa18c6c31e9cd56a2336a24560c",
+          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
+          "description": "The court's decision could impact similar cases across the country.",
+          "sourceName": "Fortmorgantimes",
+          "url": "https://www.fortmorgantimes.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
+          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e088fa10299b1051f20fec111a5713decdebf996d7e3c9ed252c492b4c05d927",
+          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
+          "description": "The court's decision could impact similar cases across the country.",
+          "sourceName": "Loveland Reporter-herald",
+          "url": "https://www.reporterherald.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
+          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6c4a10654f7bfeebcca96e79256f1fa0fa022ea27e041011979e020f5e75eaa3",
+          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
+          "description": "The court's decision could impact similar cases across the country.",
+          "sourceName": "Boulder Daily Camera",
+          "url": "https://www.dailycamera.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
+          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "eb61f7485488520a680f175d79eb9b0488f60ec8847082d7775359024d80ecac",
+          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
+          "description": "The court's decision could impact similar cases across the country.",
+          "sourceName": "Longmont Times Call",
+          "url": "https://www.timescall.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
+          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "910b84cbd82ae5374f8100579ffd8c16753af7f7b0732562f1e525f12de47a6b",
+          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
+          "description": "The court's decision could impact similar cases across the country.",
+          "sourceName": "Greeley Tribune",
+          "url": "https://www.greeleytribune.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
+          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e380e779eee44807327acf8ff4ab519aeb507a7967aa2a94745a77ca21c28b74",
+          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
+          "description": "The court's decision could impact similar cases across the country.",
+          "sourceName": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
+          "publishedAt": "2026-10-05T18:13:36.000Z",
           "sentiment": 0
         }
       ],
