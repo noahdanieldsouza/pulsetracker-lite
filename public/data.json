@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-10-07T13:13:55.781Z",
+  "lastUpdated": "2026-10-07T18:23:09.386Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": -0.2,
-      "newsSentiment": -0.1,
+      "overallSentiment": -0.15,
+      "newsSentiment": 0,
       "socialSentiment": -0.3,
       "mentions": {
         "news": 1,
@@ -16,13 +16,13 @@
       },
       "news": [
         {
-          "id": "3a7d909f3ce2d39ac5c9aa0730ddde3c889b20def1d8d76473d79db15f21dece",
-          "title": "Utah enters the Wild West of AI healthcare. How far will it go?",
-          "description": "Lower-cost prescription renewals by AI? Utah-exclusive health apps unveiled.",
-          "sourceName": "Deseret",
-          "url": "https://www.deseret.com/politics/2026/10/05/utah-announces-partnership-with-major-healthcare-providers-to-create-artificial-intelligence-clinical-pilot-programs/",
-          "publishedAt": "2026-10-06T00:35:37.000Z",
-          "sentiment": -0.1
+          "id": "a0e8283b8f0d2ca3defe44a6185f42f3547bcdc432e7a3053212cc40fa85dfee",
+          "title": "Meta tests Reels-first Facebook feed in India",
+          "description": "The company, which is experimenting with the option on Instagram, is expanding its trials of the feature before expanding it to more countries.",
+          "sourceName": "Socialmediatoday",
+          "url": "https://www.socialmediatoday.com/news/meta-tests-reels-first-facebook-feed-in-india/832295/",
+          "publishedAt": "2026-10-06T18:53:54.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
@@ -41,8 +41,8 @@
     {
       "id": "shenna-bellows",
       "name": "Shenna Bellows",
-      "overallSentiment": -0.3833333333333333,
-      "newsSentiment": 0,
+      "overallSentiment": -0.4166666666666667,
+      "newsSentiment": -0.1,
       "socialSentiment": -0.15000000000000002,
       "mentions": {
         "news": 1,
@@ -52,13 +52,13 @@
       },
       "news": [
         {
-          "id": "ede790d6458db4d061ce1febd0abe964686dfe95159107d733c5bb85056dfe13",
-          "title": "Absentee voting in Maine begins today",
-          "description": "Secretary of State Shenna Bellows said that only ballots received by the close of polls on election day are counted, regardless of their postmark. Voters should mail them at least a week before election day.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/politics/2026-10-05/absentee-voting-in-maine-begins-today",
-          "publishedAt": "2026-10-05T20:05:01.000Z",
-          "sentiment": 0
+          "id": "88e1564f91f974eba8e5bd305e23954721d0a1c1e3ee1f1cee46b436f6e9dabb",
+          "title": "How Susan Collins’ and Troy Jackson’s Aroostook roots are shaping their US Senate race",
+          "description": "In no race in Maine’s modern memory have the candidates so heavily wielded their roots to lure voters.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/07/aroostook/aroostook-culture/how-susan-collins-and-troy-jacksons-aroostook-roots-are-shaping-their-us-senate-race/",
+          "publishedAt": "2026-10-07T05:00:00.000Z",
+          "sentiment": -0.1
         }
       ],
       "social": [
@@ -96,464 +96,1319 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.4513068478260869,
-      "newsSentiment": 0.039999999999999994,
+      "overallSentiment": 0.4372838593203398,
+      "newsSentiment": -0.002068965517241378,
       "socialSentiment": 0.3139205434782607,
       "mentions": {
-        "news": 50,
+        "news": 145,
         "social": 922,
         "youtube": 8,
-        "total": 980
+        "total": 1075
       },
       "news": [
         {
-          "id": "6436bf69b73d5577a77c14dc93fba954308be52665274cbd43daa794f11b6721",
-          "title": "Week 6 College Football Predictions: Expert Picks & Lines",
-          "description": "The college football Week 6 expert picks, highlighted by Arch Manning and Texas vs Oklahoma, Georgia at Alabama, and Indiana at Nebraska.",
-          "sourceName": "Yahoo! News",
-          "url": "https://sports.yahoo.com/articles/week-6-college-football-predictions-051855584.html",
-          "publishedAt": "2026-10-06T05:18:55.000Z",
+          "id": "93c4406b789cd069ca130f394a9263779631f2a63f5685042268fc4c72ca4701",
+          "title": "Maine Senate candidates spar over military aid to Israel",
+          "description": "Democrat Jackson opposes “giving a blank check” to Israel, Republican Collins says the current level of military aid is “good.” -- The post Maine Senate candidates spar over military aid to Israel appeared first on Jewish Telegraphic Agency .",
+          "sourceName": "Jewish Telegraphic Agency",
+          "url": "https://www.jta.org/2026/10/07/politics/maine-senate-candidates-spar-over-military-aid-to-israel",
+          "publishedAt": "2026-10-07T06:12:49.000Z",
           "sentiment": 0
         },
         {
-          "id": "77c63d5f507b22ed71afa46853612f6f333fd69ca8f9f099cd081c3318023e49",
-          "title": "The flashpoints to look for in Susan Collins and Troy Jackson’s 1st debate",
-          "description": "Abortion, healthcare, taxes, the Iran war, President Donald Trump, and Jackson's 20-plus years in Augusta and informal style are all fair game.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/06/politics/elections/susan-collins-troy-jackson-debate-preview-joam40zk0w/",
-          "publishedAt": "2026-10-06T05:00:00.000Z",
+          "id": "f628a47502ac036a9d68174b8b22ffdb584fdeac413fcf551f499488192c770e",
+          "title": "Susan Collins, Troy Jackson Clash Over Trump And Abortion In Maine Senate Debate",
+          "description": "Troy Jackson questions Susan Collins’ independence from Trump as the Republican senator defends her record on abortion, tariffs and the Supreme Court.",
+          "sourceName": "Outlook",
+          "url": "https://www.outlookindia.com/international/susan-collins-troy-jackson-clash-over-trump-and-abortion-in-maine-senate-debate",
+          "publishedAt": "2026-10-07T06:09:55.000Z",
           "sentiment": 0
         },
         {
-          "id": "47130a725611a25b654010ba4f08a4cda9bc14c3ee6dad840e3e660014a6c98d",
-          "title": "Maine’s candidates for US Senate answer your questions",
-          "description": "To put the focus on the topics and concerns that matter most to you, the BDN opinion section asked subscribers for their questions for the candidates for governor, U.S. Senate and U.S. House.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/06/opinion/opinion-contributor/maine-candidate-for-us-senate-answer-your-questions-joam40zk0w/",
-          "publishedAt": "2026-10-06T05:00:00.000Z",
+          "id": "70226d82af6acc1ff651cf45c36fccc29a50b823c0cd82380a683b35cb9687d2",
+          "title": "Abortion and Trump spotlighted in Maine Senate debate",
+          "description": "GOP Sen. Susan Collins and her Democratic challenger, Troy Jackson, sparred over President Donald Trump and abortion rights in their first debate Tuesday night in Maine’s all-important Senate race with control of the chamber at stake.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/abortion-and-trump-spotlighted-in-maine-senate-debate-88538430",
+          "publishedAt": "2026-10-07T05:58:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "1bffe5a9220667534e0ec254f2a26cb4a3a4e8a81d1f8d2e1775a2efeec225bc",
-          "title": "Susan Collins, Troy Jackson set to face off in first Maine Senate debate",
-          "description": "Maine Senate candidates Susan Collins and Troy Jackson.",
-          "sourceName": "Necn",
-          "url": "https://www.nbcboston.com/news/local/susan-collins-troy-jackson-set-to-face-off-in-first-maine-senate-debate/4026546/",
-          "publishedAt": "2026-10-06T04:37:21.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0aa4a7b7ec24760b2c1ec7279f949d5cf1604d6532a51b00f63b4836d5bbf52b",
-          "title": "Democrat Troy Jackson and Planned Parenthood tout his support for reproductive rights on eve of first debate with Sen. Susan Collins",
-          "description": "Jackson criticizes Collins on eighth anniversary of her vote to confirm Brett Kavanaugh to US Supreme Court",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/democrat-troy-jackson-and-planned-parenthood-tout-his-support-for-reproductive-rights-on-eve-of-first-debate-with-sen-susan-collins/97-53676239-0d0d-4054-83c0-494388e4823a",
-          "publishedAt": "2026-10-06T04:13:45.000Z",
-          "sentiment": 0.3
-        },
-        {
-          "id": "836b326443803ca67defa8831c85500c9e5fa8d0c6561677c8399059cefbf016",
-          "title": "This rural corner of Maine produced both Susan Collins and Troy Jackson — and set them on collision course in Senate battle",
-          "description": "Both candidates in Maine's US Senate race are natives of Aroostook County, whose distinct identity shaped each of them.",
-          "sourceName": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/10/06/nation/this-rural-corner-maine-produced-both-susan-collins-troy-jackson-set-them-collision-course-senate-battle/",
-          "publishedAt": "2026-10-06T04:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "22cda9254c22e8c483f10dcdf380c0dbba1cc46dd86486f16e5148423a6510e7",
-          "title": "Trump Says He Thinks He’s ‘Going to Maine Too’ as Early Voting Begins",
-          "description": "President Donald Trump told reporters at the White House on Monday that a Maine stop may be on his schedule, though he did not give a date. “I don’t know about Maine, I think we’re going to Maine too but we’re going to Michigan in a week and a half,” Trump said during a gaggle, according to the in-town pool report. Asked about mail-in voting, Trump said, “I’d rather have them vote in-person, but they can vote by mail if they want… a lot of people want to vote by mail, but a lot of very good people also want...",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-news/4398082/posts",
-          "publishedAt": "2026-10-06T02:15:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5628c974b1720087f4c194cc33501cef5cf27cd92f3e50bad3ef91417d7957c4",
-          "title": "Susan Collins and Troy Jackson tied in new poll as Jeffries praises Democrats' midterm prospects",
-          "description": "The latest CBS News and YouGov polling shows that Republican incumbent Sen. Susan Collins and Democratic challenger Troy Jackson are running virtually neck-and-neck in Maine's highly-watched Senate race. CBS News congressional correspondent Nikole Killion reports.",
-          "sourceName": "Cbs News",
-          "url": "https://www.cbsnews.com/video/republican-democrat-maine-senate-race-neck-poll-shows/",
-          "publishedAt": "2026-10-06T01:23:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c7a703454e1ebda3a7191e64960e94041bd6ad8e4098182853e147e4151d4d89",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Chronicle Online",
-          "url": "https://www.chronicleonline.com/news/national/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_ac9e2c53-aaba-592c-9fc9-09cdaf169327.html",
-          "publishedAt": "2026-10-06T01:03:37.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5c0551d56457f81784dfb8f3f385dee97813a7503553fcbbe01e230de221ed86",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Idahostatejournal",
-          "url": "https://www.idahostatejournal.com/news/national/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_6a8d07e3-c9ec-5ca0-8f7f-125eda95a718.html",
-          "publishedAt": "2026-10-06T01:03:37.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3c92f5bd6a41c5ed71a5acd63a5c37cdbd0be3a81489adcbab259fbec03e5bf5",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Hastingstribune",
-          "url": "https://www.hastingstribune.com/ap/health/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_8b29a9ec-446d-5cf8-8b3f-49617a0a6622.html",
-          "publishedAt": "2026-10-06T01:03:37.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "adfaddeba4d5797da9a2cb502f6364b2e8d83ed31df0844511f6a185b33f5bac",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Dailysentinel",
-          "url": "https://www.dailysentinel.com/anpa/us/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_0fd6bb23-87b3-5647-a423-a142e02ca038.html",
-          "publishedAt": "2026-10-06T01:03:37.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "21d7a04d83ad9b4c031d72abace75c529bc2ed063bff3f62ed39170ea7bb97c8",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Woonsocketcall",
-          "url": "https://www.woonsocketcall.com/news/national_and_world_news/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_dca0df7e-aa49-5c63-80a1-4b4c6d3375ed.html",
-          "publishedAt": "2026-10-06T01:03:37.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "927a6038f0877635255f195bee0201575b416c3c79a61acbc4b638d8f89a7677",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Goskagit",
-          "url": "https://www.goskagit.com/news/politics/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_cdee9352-c239-5d15-a643-34cfff67dfb9.html",
-          "publishedAt": "2026-10-06T01:03:37.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2318ccd39c6d476eb06edefda4186c7a3c5866e39ac37f6b1d9c0729b5f6bb26",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Rutland Herald",
-          "url": "https://www.rutlandherald.com/ap/national/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_3442a0e8-e915-5849-b114-c547bae74c5b.html",
-          "publishedAt": "2026-10-06T01:03:37.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d7593d74936fc0bd5078929bf7613773454208b50613c5e8327abf9ec294c7db",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Mankato Free Press",
-          "url": "https://www.mankatofreepress.com/news/state_national_news/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_9fa50c94-10b0-5e0b-9983-143557058b23.html",
-          "publishedAt": "2026-10-06T00:22:15.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "77c7cb7be6921b0415e5e741d7e39b60abeb02c0515b72007883c5f582168c08",
-          "title": "Senate candidate Troy Jackson touts support for reproductive rights at town hall",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news-center-maine-524552/4927688822296-senate-candidate-troy-jackson-touts-support-for-reproductive-rights-at-town-hall",
-          "publishedAt": "2026-10-06T00:00:00.000Z",
-          "sentiment": 0.4
-        },
-        {
-          "id": "0fec41076b61baceb3442e8b4df900638ebfad95609fe036ef6e22066d39f735",
-          "title": "Troy Jackson cares about all Maine families",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4927617992455-troy-jackson-cares-about-all-maine-families",
-          "publishedAt": "2026-10-06T00:00:00.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "9b63eb7ac7e1111a63f7309cc92737c54740d5cdb08a01dbef3ac757d3db7608",
-          "title": "Kalshi to Deliver Real-Time Prediction Market Data to CBS News for Contested 2026 Midterm Elections",
-          "description": "Kalshi will provide CBS News with prediction market data for its coverage of the US midterm elections. The elections are expected to be tightly contested, with control of both the House of Representatives and Senate at stake. The platform currently gives Democrats a 63% chance of controlling the Sen…",
-          "sourceName": "Sccg Management",
-          "url": "https://sccgmanagement.com/sccg-articles/2026/10/06/kalshi-to-deliver-real-time-prediction-market-data-to-cbs-news-for-contested-2026-midterm-elections/",
-          "publishedAt": "2026-10-06T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4562fa42e57a7624f4d1bb5069d1a1798f89236f3dc619a792c435767244d6eb",
-          "title": "Donald Trump: ‘I think we’re going to Maine’",
-          "description": "Speaking outside the White House, the president confirmed that he is going to Michigan but was less clear about Maine.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/05/politics/elections/donald-trump-i-think-were-going-to-maine/",
-          "publishedAt": "2026-10-05T23:48:39.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "99be61c3d6ad2aae5009d7e3afc938df91513435f90e949ba84f19026ef4b460",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Nvdaily",
-          "url": "https://www.nvdaily.com/associated_press_national/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_9e40fd0d-13f8-5bb3-b51b-ac91c008640a.html",
-          "publishedAt": "2026-10-05T22:53:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "52fc9c5f92a25c819f3c7a391d0f1da3b2f122e88282af18e6301ee46743f5aa",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Yakima Herald-republic",
-          "url": "https://www.yakimaherald.com/news/nation_and_world/nation/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_5287793b-91e3-5b7f-a90d-f20ef73d29bf.html",
-          "publishedAt": "2026-10-05T21:45:04.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4ed1b9bced2020cb65d37b1b6649858a13dbd55c0adccafc64c13f9e80e18859",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Times Argus",
-          "url": "https://www.timesargus.com/news/national/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_7d106a7f-aad0-52e9-94c6-6b4d2427e62f.html",
-          "publishedAt": "2026-10-05T21:45:04.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6e94c2acfa7c0a18f69c069ffdf375c7bc4273472d2cb28fc6d80ef638326dbe",
-          "title": "The election should not be this crucial, but it is",
-          "description": "'Democrats have inexplicably embraced the most destructive ideologies in the world – Islamism and socialism'",
-          "sourceName": "Worldnetdaily",
-          "url": "https://www.wnd.com/2026/10/election-should-not-be-this-crucial-it-is/",
-          "publishedAt": "2026-10-05T21:36:21.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c79564ee08069d92fd7ecdf600b4a72dfcd3b423444d3af9af41cacc99757121",
-          "title": "The election should not be this crucial, but it is * WorldNetDaily * by Robert Knight",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/the-election-should-not-be-this-crucial-but-it-is-worldnetdaily-by-robert-knight-A5BEEC2F-C7FB-58B2-A493-68347FEA3613",
-          "publishedAt": "2026-10-05T21:36:21.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cb68791f4d0aeab914ad02b4a6c5bec646b271fe66cbb1a52a8c8443d9b50fe1",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is taking his Republican midterm rescue mission to Nebraska on Monday, campaigning alongside GOP Sen. Pete Ricketts, who is running against an independent candidate backed by national Democrats.",
-          "sourceName": "Local 10 News",
-          "url": "https://www.local10.com/news/politics/2026/10/05/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the-economy/",
-          "publishedAt": "2026-10-05T21:35:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "49579d518f0a6b4cddc52e32e70cb2069599ad7549777ea5f27a2147077b7d6b",
-          "title": "Troy Jackson is scrambling to defeat Maine Sen. Susan Collins. Time is not on his side",
-          "description": "SCARBOROUGH, Maine — It’s a Monday night, and Troy Jackson has drawn about 250 people into a converted church to hear him talk about healthcare and labor in Maine.",
-          "sourceName": "Sentinelsource",
-          "url": "https://www.keenesentinel.com/news/national_world/troy-jackson-is-scrambling-to-defeat-maine-sen-susan-collins-time-is-not-on-his/article_ab332d29-8f5b-4add-8baa-b92417896a79.html",
-          "publishedAt": "2026-10-05T21:30:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "745a78452ec9ba68061bcff7d61399a2b8ac7407d2776448e399bba80079d012",
-          "title": "Here’s why Maine’s famous election slogan will be disproven in midterms",
-          "description": "Susan Collins might be the one Republican who survives a GOP electoral bloodbath, Eric Garcia writes, defying the old saw, 'As goes Maine, so goes the nation'",
+          "id": "1e5186f32af777be04ef465b523597a140cbe1b3113ce8c4eb03fb68483f782a",
+          "title": "Susan Collins tells voters she’s ‘not exactly’ Trump’s favorite senator",
+          "description": "Democrats are targeting the Maine seat to gain control of the Senate",
           "sourceName": "The Independent",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/here-s-why-maine-s-famous-election-slogan-will-be-disproven-in-midterms-b3061709.html",
-          "publishedAt": "2026-10-05T20:52:17.000Z",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/susan-collins-troy-jackson-maine-senate-debate-b3062505.html",
+          "publishedAt": "2026-10-07T05:16:53.000Z",
           "sentiment": 0
         },
         {
-          "id": "43b7dc8671dd18a2d5b8b00d6210257b3c71d758b1b3f6a06e956c227bc7c23a",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump's visit is part of a 32-day rally blitz",
-          "sourceName": "The Daily Independent At Yourvalley.net",
-          "url": "https://www.yourvalley.net/stories/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the-economy,725987",
-          "publishedAt": "2026-10-05T20:44:30.000Z",
+          "id": "78a4346eb17fa2a6b468bf4eeee999d3585acebd019d2c08f2ebe48932b9ecaa",
+          "title": "Collins Avoids Question on Whether She Will Campaign with Trump",
+          "description": "Republican Senator Susan Collins awkwardly sidestepped a direct question about joining President Trump in Maine during a televised debate, highlighting her strained relationship with the former president amid his struggling campaign efforts.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/collins-avoids-question-on-whether-she-will-campaign-with-88537020",
+          "publishedAt": "2026-10-07T05:08:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "3f2ce5c7358b7a5cc562fd3a892b2756fbdd2834e79cbc2c6891b5a6d814c0aa",
-          "title": "The Latest: Trump visits Nebraska in pre-midterms blitz to reassure GOP voters about the economy",
-          "description": "President Donald Trump is campaigning in Nebraska alongside GOP Sen. Pete Ricketts, who faces an independent candidate backed by national Democrats. Trump’s visit is part of a 32-day rally blitz ahead of the midterm elections. Voters are frustrated with Trump’s…",
-          "sourceName": "Killeen Daily Herald",
-          "url": "https://kdhnews.com/news/nation/the-latest-trump-visits-nebraska-in-pre-midterms-blitz-to-reassure-gop-voters-about-the/article_f7ed5ce3-4481-54b9-baa4-9f1ce93dfe71.html",
-          "publishedAt": "2026-10-05T20:44:30.000Z",
+          "id": "8ef440eb81d8fa9cb76b44b6d5764ab15d9234d002a5c9bd627ba935c0dcdd76",
+          "title": "How Susan Collins’ and Troy Jackson’s Aroostook roots are shaping their US Senate race",
+          "description": "In no race in Maine’s modern memory have the candidates so heavily wielded their roots to lure voters.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/07/aroostook/aroostook-culture/how-susan-collins-and-troy-jacksons-aroostook-roots-are-shaping-their-us-senate-race/",
+          "publishedAt": "2026-10-07T05:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "75d82304f621a896a4ff9ce99166ce190d2d569b4f5af1545a8a2e9d8bfc2728",
-          "title": "Democrats vow revenge for Supreme Court shenanigans if they gain majority",
-          "description": "Senate Democrats are warning that if they win control of the chamber this November, any Supreme Court vacancy President Donald Trump tries to fill could meet the same fate Republicans once handed Barack Obama's nominee: a seat left open and a nominee left waiting. Senate Minority Leader Chuck Schumer (D-NY) put the president on notice in response to a question from NBC News , saying a major reason Democrats want the majority is to stop Trump from stocking the courts with ideological allies. \"The bottom line is: One of the reasons we want to do everything we can to take back the Senate is not to let Trump put such horrible justices — MAGA justices — on the Supreme Court and the lower courts,\" Schumer said. The pledge lands days after Justice Samuel Alito acknowledged in a CBS News interview that he considered retiring this year and will weigh it again in 2027, raising the prospect of a fourth Trump appointment. Democrats would need to pick up four seats to flip the Senate, a majority that would let them decide which judicial nominees get a hearing at all. Several Democrats pointed directly to Republicans' 2016 decision to sit on Obama's pick, Merrick Garland, for most of a year. Arizona Sen. Ruben Gallego was blunt about what the party should do in response. \"No, we've got to do exactly what McConnell did to us,\" Gallego said. Hawaii Sen. Mazie Hirono, a Judiciary Committee member, laughed when asked whether Democrats would consider a Trump nominee and pivoted to talk of court reform, floating a limit of two nominations per president. Josh Orton, president of the progressive group Demand Justice, said his organization will fight any Trump nominee whenever a vacancy opens, arguing Trump wants judges loyal to him personally. Republicans are already using the warning as a midterm motivator. Sen. Darline Graham (R-SC) warned on X that a GOP-controlled Senate is needed to confirm any Alito successor, claiming Democrats wouldn't even hold a vote. Louisiana Sen. John Kennedy, also on the Judiciary Committee, agreed, saying a Trump pick shouldn't expect to get through a Democratic-led Senate. Meanwhile, Maine Democratic Senate nominee Troy Jackson is already turning the vacancy question on Sen. Susan Collins, pointing to her votes for justices who later helped overturn Roe v. Wade. Republicans hold a 53-47 Senate majority, though recent polling shows Democrats within striking distance of flipping it.",
+          "id": "5e13d89434a3c8a697d192cd52a07423179cf759cd23a7e90c3feef6d02b47b7",
+          "title": "Susan Collins' Boast About Her Biggest Success Backfires Immediately",
+          "description": "Troy Jackson put her on blast “because she won’t talk back against Donald Trump.”",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/susan-collins-boast-about-her-biggest-success-backfires-88536696",
+          "publishedAt": "2026-10-07T04:56:00.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "93a44b21a6f3fdbc7ca1a14fb5f05c08f32cea20f8f040a3ddc4e725f06a66d1",
+          "title": "GOP Sen. Susan Collins nudges Trump to stay away from Maine: ‘I’m not exactly his favorite senator’",
+          "description": "During her first debate against Democrat Troy Jackson, Sen. Susan Collins (R-Maine) twice dodged a question on whether she would stump with Trump if her were to swing through the Pine Tree State.",
+          "sourceName": "New York Post",
+          "url": "https://nypost.com/2026/10/07/us-news/susan-collins-nudges-trump-to-stay-away-from-maine-im-not-exactly-his-favorite-senator/",
+          "publishedAt": "2026-10-07T04:45:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4c9a9ea72c59f1d42091623b8124f684637b69b940ad289dd3d2bba92036807a",
+          "title": "Susan Collins vs. Troy Jackson: 5 takeaways from Maine Senate debate",
+          "description": "Susan Collins and Troy Jackson clashed over President Trump and their records in first debate for Senate seat that could decide control of Congress.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/susan-collins-vs-troy-jackson-5-takeaways-from-maine-88536344",
+          "publishedAt": "2026-10-07T04:33:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c097b3206888b0861a225de8315b1faf8ba12d1c45c612d73a430beb11696f8b",
+          "title": "Susan Collins' Boast About Her Biggest Success Backfires Immediately",
+          "description": "Troy Jackson put her on blast “because she won’t talk back against Donald Trump.”",
+          "sourceName": "Huffpost",
+          "url": "https://www.huffpost.com/entry/susan-collins-road-salt-debate_n_6ac5af85e4b0613dcc571cc9",
+          "publishedAt": "2026-10-07T04:27:11.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "29f22debfd226002c4e5b7665672e6234190c43165df17cbc861ef3469cade92",
+          "title": "In Maine Senate debate, Collins says she's 'not exactly' Trump's 'favorite senator'",
+          "description": "In an often-testy debate, GOP Sen. Susan Collins of Maine touted her five terms in Congress and took aim at some Trump policies — while Democrat Troy Jackson argued Collins has failed to effectively push back.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/in-maine-senate-debate-collins-says-she-s-not-exactly-88536161",
+          "publishedAt": "2026-10-07T04:26:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1c49f56015037a6f6f5928e60ab3860cb07094b17e390dfd7d855e7be8beccd0",
+          "title": "Takeaways from the Maine Senate debate between Susan Collins, Troy Jackson - The Washington Post",
+          "description": "Takeaways from the Maine Senate debate between Susan Collins, Troy Jackson The Washington Post 5 Takeaways From the First Maine Senate Debate The New York Times Takeaways: Trump and abortion rights take center stage in first Maine Senate debate CNN ‘Not exactly his favorite senator’: Susan Collins distances herself from Trump in Maine debate The Guardian Susan Collins and Troy Jackson brace for debate gantlet in close, pivotal Maine Senate race NBC News",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1dibWNFc21FSF9oeElKX1I4eUE4RndyVlZyX29hNkx3eloxbU93bTI2T1RQWHEzWC1qTVNPT3R4SExxNXd1b0QzVXdhWGtBOTdoSVhFQlYzSDZSNTRZR1Qzdm03ZjVHRzBBUVcwREstcTl1RUtGeV9sOEVINm1PYTdYU2FqMXd5dDl3OWVQTFlyVmJqRjIxb09vQ3MxejB0V2RHbDVSdWY0c2ZPdTBDanNqS2VoeGc?oc=5",
+          "publishedAt": "2026-10-07T04:25:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4feaac6df19b3115153b25cb5016e661b1f883a43b2f42f4c16c35132c6be30a",
+          "title": "'Let's go, Little Donnie!': Maine Democrat taunts Trump with invite to 'help' Susan Collins",
+          "description": "Jen Psaski interviews Troy Jackson, Democratic candidate for Senate from Maine, fresh from his debate with his Republican ...",
+          "sourceName": "Biztoc",
+          "url": "https://biztoc.com/x/4ec1c5d258626ae5",
+          "publishedAt": "2026-10-07T04:20:49.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "71147fd3dad791458c2aa6a7113330a8a66684ac3786093cd50777cce8575678",
+          "title": "In Maine Senate debate, Collins and Jackson both criticize Trump — but spar over how",
+          "description": "In an often-testy debate, GOP Sen. Susan Collins of Maine touted her five terms in Congress and took aim at some Trump policies — while Democrat Troy Jackson argued Collins has failed to effectively push back.",
+          "sourceName": "Cbs News",
+          "url": "https://www.cbsnews.com/news/maine-senate-debate-collins-jackson-trump/",
+          "publishedAt": "2026-10-07T04:03:34.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "33062fa13d0af46f694b59503c7eabbe977c28b82d0aa8f2ce9ed1f543ef0b12",
+          "title": "In Maine Senate debate, Collins and Jackson both criticize Trump — but spar over how",
+          "description": "In an often-testy debate, GOP Sen. Susan Collins of Maine touted her five terms in Congress and took aim at some Trump policies — while Democrat Troy Jackson argued Collins has failed to effectively push back.",
+          "sourceName": "Aol.com",
+          "url": "https://www.aol.com/articles/maine-senate-debate-collins-jackson-040334000.html",
+          "publishedAt": "2026-10-07T04:03:34.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b6958d252d0dfffbe83098839f08f63a0ab645b2f5018d00cbed42f78cc6f23a",
+          "title": "France Protests, Maine Senate Debate, and Trump’s Midterm Campaign Blitz: Panel Reacts",
+          "description": "Gerard Filitti, political strategist and attorney; Denny Salas, Democratic strategist; and Chris Bob, NTD political correspondent, join Tiffany Meier Tonight to discuss escalating protests across France, the first debate between Sen. Susan Collins and Democratic nominee Troy Jackson in Maine, and President Donald Trump’s campaign push ahead of the midterms.",
+          "sourceName": "Ntd",
+          "url": "https://www.ntd.com/ntdplus/france-protests-maine-senate-debate-and-trumps-midterm-campaign-blitz-panel-reacts_1177311.html",
+          "publishedAt": "2026-10-07T03:56:17.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b21eed6556e87cc349f886e8faef6c2e0f8518da51626376f9be183b91191496",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson.",
+          "sourceName": "Kens5.com",
+          "url": "https://www.kens5.com/article/syndication/associatedpress/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/616-910dfdf6-13b6-4338-aaeb-340588fc3cef",
+          "publishedAt": "2026-10-07T03:55:18.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "53f569c51323dc4fbe5d0860b5aff85fcf7ae57f3641bdb9108a46a469ccff70",
+          "title": "'Devastating': Glee erupts as Susan Collins' 'road salt' boast blows up in her face",
+          "description": "Sen. Susan Collins (R-ME) bragged about a road salt win at a Maine Senate debate , and her challenger's comeback had observers cheering. On Tuesday, Collins faced Democratic challenger Troy Jackson in a debate weeks before the midterms. Asked what she would do about President Donald Trump's tariffs on Canada , Collins pointed to a specific victory. \"I was successful at getting road salt removed from the tariff list,\" Collins said. Jackson responded by pouncing on the answer. \"What about everything else? We can't eat road salt,\" Jackson said. \"With everything she's doing with the Iran war, there will be so many less people that can afford to drive that I'm not even sure the road salt will be worth anything.\" The exchange spread quickly after clips of the moment were posted, with many users zeroing in on Jackson's five-word retort. \"'We can't eat road salt' is devastating,\" wrote Democratic political strategist Chris Sosa in a post on X. \"I must report: 'You can't eat road salt' is a bar,\" laughed Democratic Pennsylvania state Rep. Malcolm Kenyatta, referring to the term for a line of rap. Others compared Collins' answer to the infamous line attributed to Marie Antoinette. \"Susan Collins' amazing let-them-eat-road-salt moment,\" declared journalist and political commentator David Sirota. \"'Let them eat road salt.'—Susan Collins, basically,\" remarked disinformation expert and Kash Patel foe Jim Stewartson. Social media personality and liberal political commentator Brian Krassenstein marveled how \"Troy Jackson just destroyed Susan Collins in 4 seconds.\" Some suggested the moment could have real consequences at the ballot box. \"'We can't eat road salt' is the kind of line that could genuinely sway an election,\" warned policy consultant and journalist Adam Cochran. \"Team Jackson has to be very happy with that soundbite.\" Author and activist Hemant Mehta framed the race around the exchange. \"If cheaper road salt is what you want, vote Collins,\" he wrote . \"If you want better health care and a real check on Trump and the Supreme Court, vote Jackson.\" \"We can't eat road salt\" is devastating. — Chris Sosa (@ChrisSosa) October 7, 2026",
           "sourceName": "Raw Story",
-          "url": "https://www.rawstory.com/democrats-supreme-court/",
-          "publishedAt": "2026-10-05T19:49:13.000Z",
-          "sentiment": 0
+          "url": "https://www.rawstory.com/susan-collins-debate/",
+          "publishedAt": "2026-10-07T03:52:27.000Z",
+          "sentiment": 0.5
         },
         {
-          "id": "05e3c8fb44fed7acda7d6be8e61af80d8a2d992f60b95f041a1cf2651925c895",
-          "title": "The Red Tide Goes Out—With a Blue Splashback",
-          "description": "Democrats are surging in Republican states but have some problems in their own strongholds. The post The Red Tide Goes Out—With a Blue Splashback appeared first on The American Prospect .",
-          "sourceName": "The American Prospect",
-          "url": "https://prospect.org/2026/10/05/red-tide-goes-out-blue-splashback-republicans-democrats-midterm-election/",
-          "publishedAt": "2026-10-05T19:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f4099585aaaf53ecbb71f0b5572b05e752f71f3ad550977669f3a1da97193aac",
-          "title": "The top 10 House and Senate races to watch that will determine whether Republicans or Democrats take control in November",
-          "description": "Check out the 10 US Senate and US House Seats most likely to determine control of Congress in November.",
-          "sourceName": "Mail Online",
-          "url": "https://www.dailymail.com/news/article-16041949/top-house-senate-races-determine-power-midterm-elections.html",
-          "publishedAt": "2026-10-05T18:55:39.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ab5c71570b601f579920ec54dc1fc0cbce1377ef5b02f32c626821be2a70b1f2",
-          "title": "Bernie Sanders to join Troy Jackson in Maine rallies",
-          "description": "The Independent Senator from Vermont has been touring the country with various candidates in key races coming up in November.",
+          "id": "7ce930cd6be71dd55e12ec826e26c722e7754e8f44cd5fed5aee9dd5082556c3",
+          "title": "Collins and Jackson show stark contrasts in Maine Senate debate",
+          "description": "Republican Susan Collins and Democrat Troy Jackson sparred over abortion, aid to Israel, and voter ID laws in WGME's U.S. Senate debate",
           "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/bernie-sanders-to-join-troy-jackson-in-maine-rallies-us-senate-race/97-e80f7456-caeb-4bc2-ac20-3bb95c08ab63",
-          "publishedAt": "2026-10-05T18:47:44.000Z",
+          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/collins-and-jackson-show-stark-contrasts-in-maine-senate-debate/97-1b1cb6d1-1e59-41f2-84ba-6e38d2fedbea",
+          "publishedAt": "2026-10-07T03:25:53.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "141c0951a31d8d26fce7dcef2240ddc31b4e617365e7d491b3a7195f1ed8d7d5",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "“I voted against my party more than another other senator on either side of the aisle,” Collins said. The post In first Maine Senate debate, Collins seeks to distance herself from Trump appeared first on Boston.com .",
+          "sourceName": "Boston",
+          "url": "https://www.boston.com/news/politics/2026/10/06/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/",
+          "publishedAt": "2026-10-07T03:10:14.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b2ce4a912ffb4f9889fc0b880ee50fdf18a55c31dc87534c4b813e3552a4e728",
+          "title": "Collins distances herself from Trump, Jackson won’t confirm DSA ties: Takeaways from Maine Senate debate",
+          "description": "Sen. Susan Collins (R-ME) underscored her differences with Trump, telling viewers that she is “not exactly his favorite senator.”",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4756720/takeaways-maine-senate-debate-susan-collins-troy-jackson/",
+          "publishedAt": "2026-10-07T02:59:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3e995312850b836e14acb17fc2ff99317338ba7c131913ff54482240a036b771",
+          "title": "Takeaways from Maine Senate debate between Susan Collins and Troy Jackson",
+          "description": "Sen. Susan Collins (R-ME) underscored her differences with President Donald Trump during Maine’s first Senate debate Tuesday, telling viewers that she is “not exactly his favorite senator.” Collins, who is the only Republican to represent a state former Vice President Kamala Harris won in 2024, sought to distance herself from Trump and his policies on […] The post Takeaways from Maine Senate debate between Susan Collins and Troy Jackson appeared first on CBNC .",
+          "sourceName": "Cbnc",
+          "url": "https://cbnc.com/takeaways-from-maine-senate-debate-between-susan-collins-and-troy-jackson/",
+          "publishedAt": "2026-10-07T02:59:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d3eed8993a80e88180302dff0984b0cf13ec1c427e9cbc73a9e45578c94cb6f2",
+          "title": "‘We Can’t Eat Road Salt’: Democrat Hits Susan Collins Over Trump Tariffs in Senate Debate",
+          "description": "Maine Democratic Senate candidate Troy Jackson hammered Sen. Susan Collins (R-ME) for touting a tariff exemption she secured, firing back, “We can’t eat road salt.” The post ‘We Can’t Eat Road Salt’: Democrat Hits Susan Collins Over Trump Tariffs in Senate Debate first appeared on Mediaite .",
+          "sourceName": "Mediaite",
+          "url": "https://www.mediaite.com/politics/we-cant-eat-road-salt-democrat-hits-susan-collins-over-trump-tariffs-in-senate-debate/",
+          "publishedAt": "2026-10-07T02:52:36.000Z",
+          "sentiment": 0.5
+        },
+        {
+          "id": "8a770e0430aca782aa627a7a5322454bdcbe72556bd0d4bd74facab503040c87",
+          "title": "Takeaways From the First Maine Senate Debate Between Susan Collins and Troy Jackson",
+          "description": "Senator Susan Collins, one of the most vulnerable Republicans in the midterms, clashed with the Democratic challenger Troy Jackson over President Trump, ICE and more.",
+          "sourceName": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/06/us/politics/maine-senate-debate-takeaways.html",
+          "publishedAt": "2026-10-07T02:43:16.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "89a03bba1e233727ad47021df42769640748dda7ba3a498ea89d731f300b5b7c",
+          "title": "Takeaways From the First Maine Senate Debate Between Susan Collins and Troy Jackson",
+          "description": "Senator Susan Collins, one of the most vulnerable Republicans in the midterms, clashed with the Democratic challenger Troy Jackson over President Trump, ICE and more.",
+          "sourceName": "Keep Facts",
+          "url": "https://www.keepfacts.com/takeaways-from-the-first-maine-senate-debate-between-susan-collins-and-troy-jackson/",
+          "publishedAt": "2026-10-07T02:43:16.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7cf21142320a78500bb8e19bce4a86467906ae7d12701df22c46ec3def3c4db1",
+          "title": "Takeaways From the First Maine Senate Debate Between Susan Collins and Troy Jackson - The New York Times",
+          "description": "Takeaways From the First Maine Senate Debate Between Susan Collins and Troy Jackson The New York Times ‘Not exactly his favorite senator’: Susan Collins distances herself from Trump in Maine debate The Guardian Susan Collins and Troy Jackson brace for debate gantlet in close, pivotal Maine Senate race NBC News Takeaways: Trump and abortion rights take center stage in first Maine Senate debate CNN Everyone in this small town in Maine knows Troy Jackson. That’s not the same as supporting him. MS NOW",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjdqcFhweFV3eFo3REVlYmlqMnFIdHliMUxFSjFZWTdnOExGTWRQcGRISVlTeDkxbm1vUjRnVlhnelZMekRPS1FGQXdTN183ang5ZzA5MzExQmx4a05kZUpIWUtQUDg3a1o0cHFXQmNScE1LX1BVTm1NclJ4TjQ4ZWQ4SDR3Y0pX?oc=5",
+          "publishedAt": "2026-10-07T02:33:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "230ae727742291c3f7c5877b7805ef1771ac1cf0b7567e4197529e528c047f01",
+          "title": "Collins and Jackson Trade Blame on High Costs in Maine Senate Debate (Chase Pellegrini de Paur/The Washington ...)",
+          "description": "Chase Pellegrini de Paur / The Washington Sun : Collins and Jackson Trade Blame on High Costs in Maine Senate Debate — In the first of several debates, Republican Sen. Susan Collins and her Democratic challenger, Troy Jackson, agreed that life is too expensive for Mainers. They disagreed on pretty much everything else.",
+          "sourceName": "Memeorandum",
+          "url": "https://www.memeorandum.com/261006/p148",
+          "publishedAt": "2026-10-07T02:20:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b87e2659b77322ab5744b183be0b583d409c433a1c0114f873afd703e9627e2b",
+          "title": "Takeaways from the Maine Senate debate between Susan Collins and Troy Jackson",
+          "description": "The debate in a race for a critical Senate seat featured lots of talk about President Trump, high prices and the war in Iran.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/takeaways-from-the-maine-senate-debate-between-susan-88533727",
+          "publishedAt": "2026-10-07T02:17:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "29d5116610c9f4ac98727d8ab7b1d3a150027d545a77bf52948aa74715696dd7",
+          "title": "Live Updates: Collins and Jackson Clash in First Debate of Crucial Maine Senate Race (Tim Balk/New York Times)",
+          "description": "Tim Balk / New York Times : Live Updates: Collins and Jackson Clash in First Debate of Crucial Maine Senate Race — Senator Susan Collins and her Democratic challenger, Troy Jackson, faced off on Supreme Court appointees, health care, Immigration and Customs Enforcement and their approach to governing. — Here's the latest.",
+          "sourceName": "Memeorandum",
+          "url": "https://www.memeorandum.com/261006/p147",
+          "publishedAt": "2026-10-07T02:15:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "762d736b8ea9ca5fa76c9b5618a4fb0f7d03d766637022273c4be0c6d3920ab1",
+          "title": "Must-Win Republican Candidate Brutally Snubs Trump on Debate Stage",
+          "description": "Eric Lee / REUTERS Republican Sen. Susan Collins has given President Donald Trump the cold shoulder during a televised debate that could make or break her re-election hopes. Collins, a vulnerable five-term senator from Maine, was asked if she would welcome Trump to campaign alongside her—a question that comes on the heels of Trump telling reporters Monday that he is considering traveling to Maine to campaign. Moderator Gregg Lagerquist asked Collins, “We’ve heard Donald Trump’s name several times here, so let me ask you directly. President Trump this week said that he might actually visit Maine. Will you stand with him if he does?” Read more at The Daily Beast.",
+          "sourceName": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/must-win-republican-candidate-susan-collins-brutally-snubs-trump-on-debate-stage/",
+          "publishedAt": "2026-10-07T02:13:23.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "25dfc8116ef8255b20b7abcb9be24ee29d64dace7cca0428bed56bd615cd33fe",
+          "title": "Susan Collins vs. Troy Jackson: 5 takeaways from Maine Senate debate",
+          "description": "Susan Collins and Troy Jackson clashed over President Trump and their records in first debate for Senate seat that could decide control of Congress.",
+          "sourceName": "Usa Today",
+          "url": "https://www.usatoday.com/story/news/politics/2026/10/06/collins-jackson-clash-over-trump-scandals-in-maine-senate-debate/92122813007/",
+          "publishedAt": "2026-10-07T02:12:40.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "cde18686196c2a791e211e87cb2a193bf22170bf4069c094311fc6b3ca25189c",
+          "title": "Collins and Jackson Trade Blame on High Costs in Maine Senate Debate",
+          "description": "The Republican incumbent heralded her independence as the Democratic challenger tied her back to Trump.",
+          "sourceName": "The Washington Sun",
+          "url": "https://www.washingtonsun.com/campaigns/collins-jackson-debate-maine-senate-affordability",
+          "publishedAt": "2026-10-07T02:08:54.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "70953e689a22101969805e886a8fc73e587211156f6dc69965e2458333e85c38",
+          "title": "Collins, Jackson clash in first Maine Senate debate: 3 takeaways",
+          "description": "\"...What will it take for you to admit that you were wrong..\"",
+          "sourceName": "Knwa Fox24",
+          "url": "https://www.nwahomepage.com/news/national/collins-jackson-clash-in-first-maine-senate-debate-3-takeaways/",
+          "publishedAt": "2026-10-07T02:07:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2735b66a031676594c008c9f0b76c2b6cdcd17b4d0742765158b3f030ae2d869",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/in-first-maine-senate-debate-collins-seeks-to-distance-88533460",
+          "publishedAt": "2026-10-07T02:05:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "df10bea05793486d327ec542c186be6b4fca2f1e773e50150e99e6d9600d3150",
+          "title": "Takeaways: Trump and abortion rights take center stage in first Maine Senate debate",
+          "description": "GOP Sen. Susan Collins and her Democratic challenger, Troy Jackson, sparred over President Donald Trump and abortion rights in their first debate Tuesday night in Maine’s all-important Senate race with control of the chamber at stake.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/takeaways-trump-and-abortion-rights-take-center-stage-in-88533457",
+          "publishedAt": "2026-10-07T02:05:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a17f3f873a2faaed046923972e51c17b6d796d004bfb54c4f878fba8570f785f",
+          "title": "Troy Jackson trashes voter ID requirement, relies on big fat binder of notes in first Maine Senate debate with Susan Collins",
+          "description": "Tuesday marked the first of four debates between Collins and Jackson.",
+          "sourceName": "New York Post",
+          "url": "https://nypost.com/2026/10/06/us-news/troy-jackson-trashes-voter-id-relies-on-big-fat-binder-of-notes-in-first-debate-with-maine-sen-susan-collins/",
+          "publishedAt": "2026-10-07T01:57:14.000Z",
+          "sentiment": -0.2
+        },
+        {
+          "id": "2ec8fcc3f39efe56ce1c4ebc708c8ccfed3ef74e62ad10c0b7d23fc525e641bd",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins distanced herself from President Donald Trump during her first Maine Senate debate with Democrat Troy Jackson, arguing she has maintained her political independence by repeatedly voting against Trump’s agenda and saying that she’s “not exactly his favorite senator.” Democrats are trying to flip the Maine Senate seat as they work...",
+          "sourceName": "Mymotherlode.com - The Mother Lode's Local News, S",
+          "url": "https://mymotherlode.com/news/national/general-election/11200062/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump.html",
+          "publishedAt": "2026-10-07T01:55:29.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d3409afce931112421115b6b782a7d1e0d3725c58acd51b0922dca2364d82a7f",
+          "title": "Takeaways: Trump and abortion rights take center stage in first Maine Senate debate",
+          "description": "By Patrick Svitek, CNN (CNN) — GOP Sen. Susan Collins and her Democratic challenger, Troy Jackson, sparred over President Donald Trump and abortion rights in their first debate Tuesday night in Maine’s all-important Senate race with control of the chamber at stake. Appearing in Portland, the state’s largest city, the two had a spirited — The post Takeaways: Trump and abortion rights take center stage in first Maine Senate debate appeared first on KESQ .",
+          "sourceName": "Kesq",
+          "url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/10/06/takeaways-trump-and-abortion-rights-take-center-stage-in-first-maine-senate-debate/",
+          "publishedAt": "2026-10-07T01:52:43.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fee0df2c0b17ef487595d7e70d8add20b217ad0867cc77627dae04b2a48a732a",
+          "title": "Takeaways: Trump and abortion rights take center stage in first Maine Senate debate",
+          "description": "By Patrick Svitek, CNN (CNN) — GOP Sen. Susan Collins and her Democratic challenger, Troy Jackson, sparred over President Donald Trump and abortion rights in their first debate Tuesday night in Maine’s all-important Senate race with control of the chamber at stake.Appearing in Portland, the state’s largest city, the two had a spirited — but The post Takeaways: Trump and abortion rights take center stage in first Maine Senate debate appeared first on KVIA .",
+          "sourceName": "Kvia",
+          "url": "https://kvia.com/politics/cnn-us-politics/2026/10/06/takeaways-trump-and-abortion-rights-take-center-stage-in-first-maine-senate-debate/",
+          "publishedAt": "2026-10-07T01:52:43.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "eb7aa8238c6d8e2e6accc790ed523e7104d310d1835092b71a63e99fd5bd8464",
+          "title": "Takeaways: Trump and abortion rights take center stage in first Maine Senate debate",
+          "description": "GOP Sen. Susan Collins and her Democratic challenger, Troy Jackson, sparred over President Donald Trump and abortion rights in their first debate Tuesday night in Maine’s all-important Senate race with control of the chamber at stake.",
+          "sourceName": "Cnn",
+          "url": "https://www.cnn.com/2026/10/06/politics/maine-senate-debate-susan-collins-troy-jackson-takeaways",
+          "publishedAt": "2026-10-07T01:52:43.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "54e92d18b65e632bc6f19f0c6a6ea192c9e26de632d4a10120e8579f8acf0b31",
+          "title": "Takeaways: Trump and abortion rights take center stage in first Maine Senate debate",
+          "description": "By Patrick Svitek, CNN (CNN) — GOP Sen. Susan Collins and her Democratic challenger, Troy Jackson, sparred over President Donald Trump and abortion rights in their first debate Tuesday night in Maine’s all-important Senate race with control of the chamber at stake. Appearing in Portland, the state’s largest city, the two had a spirited — The post Takeaways: Trump and abortion rights take center stage in first Maine Senate debate appeared first on ABC17NEWS .",
+          "sourceName": "Abc 17 News",
+          "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/10/06/takeaways-trump-and-abortion-rights-take-center-stage-in-first-maine-senate-debate/",
+          "publishedAt": "2026-10-07T01:52:43.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fa24759e5439e8f9e09fb6f519ee0c0e86ff077248e9081ba663faea40a8416e",
+          "title": "Takeaways: Trump and abortion rights take center stage in first Maine Senate debate",
+          "description": "By Patrick Svitek, CNN (CNN) — GOP Sen. Susan Collins and her Democratic challenger, Troy Jackson, sparred over President Donald Trump and abortion rights in their first debate Tuesday night in Maine’s all-important Senate race with control of the chamber at stake. Appearing in Portland, the state’s largest city, the two had a spirited — The post Takeaways: Trump and abortion rights take center stage in first Maine Senate debate appeared first on KTVZ .",
+          "sourceName": "Ktvz",
+          "url": "https://ktvz.com/politics/cnn-us-politics/2026/10/06/takeaways-trump-and-abortion-rights-take-center-stage-in-first-maine-senate-debate/",
+          "publishedAt": "2026-10-07T01:52:43.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2a1f7cf47a5f105bd55fd6644776b041fcb63cb53d21fa572458ef80c11618f8",
+          "title": "Takeaways: Trump and abortion rights take center stage in first Maine Senate debate",
+          "description": "By Patrick Svitek, CNN (CNN) — GOP Sen. Susan Collins and her Democratic challenger, Troy Jackson, sparred over President Donald Trump and abortion rights in their first debate Tuesday night in Maine’s all-important Senate race with control of the chamber at stake. Appearing in Portland, the state’s largest city, the two had a spirited — The post Takeaways: Trump and abortion rights take center stage in first Maine Senate debate appeared first on News Channel 3-12 .",
+          "sourceName": "News Channel 3-12",
+          "url": "https://keyt.com/politics/cnn-us-politics/2026/10/06/takeaways-trump-and-abortion-rights-take-center-stage-in-first-maine-senate-debate/",
+          "publishedAt": "2026-10-07T01:52:43.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5d8d6157751743cbcd61d61340bd428ce23b4d3ed8ab6b8b809f05ea508ec35f",
+          "title": "Takeaways: Trump and abortion rights take center stage in first Maine Senate debate",
+          "description": "By Patrick Svitek, CNN (CNN) — GOP Sen. Susan Collins and her Democratic challenger, Troy Jackson, sparred over President Donald Trump and abortion rights in their first debate Tuesday night in Maine’s all-important Senate race with control of the chamber at stake. Appearing in Portland, the state’s largest city, the two had a spirited — The post Takeaways: Trump and abortion rights take center stage in first Maine Senate debate appeared first on KRDO .",
+          "sourceName": "Krdo",
+          "url": "https://krdo.com/politics/cnn-us-politics/2026/10/06/takeaways-trump-and-abortion-rights-take-center-stage-in-first-maine-senate-debate/",
+          "publishedAt": "2026-10-07T01:52:43.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "29d2f95f8c8f9180413ba7727751f9d1429c107b2bf8288f5bc6a8a68b8b46d3",
+          "title": "Takeaways from the Maine Senate debate between Susan Collins and Troy Jackson",
+          "description": "The debate in a race for a critical Senate seat featured lots of talk about President Trump, high prices and the war in Iran.",
+          "sourceName": "Adn",
+          "url": "https://www.adn.com/nation-world/2026/10/06/takeaways-from-the-maine-senate-debate-between-susan-collins-and-troy-jackson/",
+          "publishedAt": "2026-10-07T01:52:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "742e4407aa33c6d115fd88972914d2c70d416fcc54578a21cd8c2fca5e2dd929",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins distanced herself from President Donald Trump during her first Maine Senate debate with Democrat Troy Jackson, arguing she has maintained her political independence by repeatedly voting against Trump’s agenda and saying that she’s “not exactly his favorite senator.” Democrats are trying to flip the Maine Senate seat as they work...",
+          "sourceName": "Wtop News",
+          "url": "https://wtop.com/national/2026/10/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/",
+          "publishedAt": "2026-10-07T01:52:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "586ade4bd2fecf458e9b8717f830c24296b5c2566e0e75ec3e2b468d33e536b4",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson.",
+          "sourceName": "Wsls",
+          "url": "https://www.wsls.com/news/politics/2026/10/07/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/",
+          "publishedAt": "2026-10-07T01:50:52.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4e0b3092303011dffed020c45df6be3554c282ddb91d232df54cc44456105638",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson.",
+          "sourceName": "Wkmg",
+          "url": "https://www.clickorlando.com/news/politics/2026/10/07/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/",
+          "publishedAt": "2026-10-07T01:50:45.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "59a5fb3038ef88a23e66edf552afaaf2b3cf467e0b38c5ee2605cb89e5fdf202",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins distanced herself from President Donald Trump during her first Maine Senate debate with Democrat Troy Jackson, arguing she has maintained her political independence by repeatedly voting against Trump's agenda and saying that she's “not exactly his favorite senator.”",
+          "sourceName": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/10/06/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump",
+          "publishedAt": "2026-10-07T01:50:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6e1959bf04d8c4327c1d79a1720cb9317da1062f4bcd2f299788acc5cc3d3bb1",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins distanced herself from President Donald Trump during her first Maine Senate debate with Democrat Troy Jackson, arguing she has maintained her political independence by repeatedly voting against Trump’s agenda and saying that she’s “not exactly his favorite senator.” Democrats are trying to flip the Maine Senate seat as they work […]",
+          "sourceName": "Infonews.ca",
+          "url": "https://infonews.ca/news/7947886/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/",
+          "publishedAt": "2026-10-07T01:50:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9d2663c7e18ccd63b33f646b91fcfddc8ea427091c27808ebc4c7054cffbb890",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins distanced herself from President Donald Trump during her first Maine Senate debate with Democrat Troy Jackson, arguing she has maintained her political independence by repeatedly voting against Trump's agenda and saying that she's “not exactly…",
+          "sourceName": "The Star",
+          "url": "https://www.thestar.com/news/world/united-states/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_0d13b9d0-2a9d-562f-b7d3-d4cea0b12a78.html",
+          "publishedAt": "2026-10-07T01:50:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "bbf299a0e5519c6609568905bec7fb5b2d1bd341dbe3f55985fe47fa753d41ce",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson.",
+          "sourceName": "Newsday",
+          "url": "https://www.newsday.com/long-island/politics/maine-collins-jackson-senate-y57062",
+          "publishedAt": "2026-10-07T01:49:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5edce9e1d460604d117cd223bf6f7332c41da904181a8a523651227511131c4d",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson.",
+          "sourceName": "The Seattle Times",
+          "url": "https://www.seattletimes.com/nation-world/nation/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/",
+          "publishedAt": "2026-10-07T01:49:08.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "69e5db6fec2f90a88421ad22bde3ae8e3a57db1c48e75c1a26df1055c4cb9d15",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Oskaloosa",
+          "url": "https://www.oskaloosa.com/news/national_news/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_0d6bbca2-7bde-5074-85f7-e3d68150d032.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "21d6ff6e2fe76c2df3d311baf4fae9d8f5dc749be3a5412df6b7b83e9f269011",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson....",
+          "sourceName": "Kgw",
+          "url": "https://www.kgw.com/article/syndication/associatedpress/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/616-910dfdf6-13b6-4338-aaeb-340588fc3cef",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "21b36026c167c29d16ecdc2b582749273ac7105f30c7e183cddbb4e476d00e7d",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson....",
+          "sourceName": "Wfaa",
+          "url": "https://www.wfaa.com/article/syndication/associatedpress/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/616-910dfdf6-13b6-4338-aaeb-340588fc3cef",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4249b084aeaedcf166c85578303d3fede1d61bc6bfa1ff8b9a769f4a0d23525d",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Times Argus",
+          "url": "https://www.timesargus.com/news/national/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_3e898623-777c-5371-85f6-693d30cd41f6.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fd5019bb88aa436fa8e36b5336b6ff56ee0828383a9ccda41a62d7d7cc0130f6",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson....",
+          "sourceName": "12news",
+          "url": "https://www.12news.com/article/syndication/associatedpress/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/616-910dfdf6-13b6-4338-aaeb-340588fc3cef",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6fb010d34feafcac1513eee444144cf15b1ec8c435703daa7cb3400e535cd6fe",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Dailysentinel",
+          "url": "https://www.dailysentinel.com/anpa/us/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_50ac761f-7878-5023-a5c6-5a13b9382218.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b67279609420a7f9503eba39394b9903ee48eaf22310b9b4fd693e183dd30bc6",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Henryherald",
+          "url": "https://www.henryherald.com/news/world_nation/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_e5bc7efa-6d2e-5ff0-9738-de4ae816ba72.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9a341bd61bc0d93886875914599414ae3450774d43edf4c7fb710dc0ef149cc5",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Nvdaily",
+          "url": "https://www.nvdaily.com/associated_press_national/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_6e7cc36e-5e25-56dd-8c4e-72519087db53.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "49b79290624ed1d275002aef449d2b5037aa2aecbd320ff5bba3cdf59ae425c3",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins distanced herself from President Donald Trump during her first Maine Senate debate with Democrat Troy Jackson, arguing she has maintained her political independence by repeatedly voting against Trump's agenda and saying that she's “not exactly…",
+          "sourceName": "The Sun Chronicle",
+          "url": "https://www.thesunchronicle.com/news/state/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_1a5c9f21-bb3c-5131-9541-39fcb5b24640.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b9fa33582459cd448003261da43078671490670a6636c6b674997c4485ad2c64",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Palestineherald.com",
+          "url": "https://www.palestineherald.com/national/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_1dded5d7-c694-5462-9586-0d46dce5edc4.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9154f91fa9a4cac2c5bdd2fb6e1ebd7ab88c0277b7d7a68f7195d57f8e7484de",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson....",
+          "sourceName": "Kvue",
+          "url": "https://www.kvue.com/article/syndication/associatedpress/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/616-910dfdf6-13b6-4338-aaeb-340588fc3cef",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7e38b97c27d21ba07536b31a9943c93e4cdb80200ad32853cf371f6475a3b422",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Chronicle Online",
+          "url": "https://www.chronicleonline.com/news/national/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_b4ed77ee-f46a-5e98-bff5-916eff578cf5.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0fdb37904a88a751c535fb01de2711c133feb8fd1898d134690ce06510e7c52e",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Rutland Herald",
+          "url": "https://www.rutlandherald.com/ap/national/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_494b9770-2107-5b13-8741-9aeefe4cd346.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "17706263885ec16b9cd4384f3f7686f9bd97d3c7caca02772f01c2a6a7837693",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Tdtnews.com",
+          "url": "https://www.tdtnews.com/news/nation_world/article_cb6d9820-47da-5140-b8a5-3fd93fd03408.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "314e9a0c780a0765d8d7d58876a1a43b4c42ea0dd9c83e5176cf6c6837ab06c8",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Eagletribune",
+          "url": "https://www.eagletribune.com/region/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_462c831c-9d8a-5fcb-abef-69430e7102d5.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d95b6079142e0db7d772957b10ff09ca4c7e31761b3ef0c969a92f05887fb377",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Wink News",
+          "url": "https://www.winknews.com/news/international/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_ac6facaa-89a6-58f2-b0c1-f5f691218565.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8e8f5bdcbdd93cab0fd4c7eca0fcaed1dfbbbe241696b11cef8e1db54c5bb647",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson....",
+          "sourceName": "Wthr",
+          "url": "https://www.wthr.com/article/syndication/associatedpress/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/616-910dfdf6-13b6-4338-aaeb-340588fc3cef",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "11fe87dfd5376d50926c640ac464ece7af5ec001749e4cb61a83b4279d37e63c",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Winchesterstar",
+          "url": "https://www.winchesterstar.com/associated_press/washington/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_354d66dc-e29f-5d93-99e6-af3320021bde.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2869589e67b0aa32efaa4ba215d11872c349e997e4ef0f5189c55e9404e08e77",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins distanced herself from President Donald Trump during her first Maine Senate debate with Democrat Troy Jackson, arguing she has maintained her political independence",
+          "sourceName": "The Daily Independent At Yourvalley.net",
+          "url": "https://www.yourvalley.net/stories/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump,726402",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "10b830a0442c4f204da6a26ac1b992c7d52eccfa364d38db75b96ea061cd519b",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Dailygazette.com",
+          "url": "https://www.dailygazette.com/ap/national/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_0ebca1fb-37b3-5e81-9a16-4f84090bb1ca.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8b7d529d9472064ce8e72cac84deca438c9e3a2bce6805b49357f2d236646c5a",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Dnronline",
+          "url": "https://www.dnronline.com/associated_press/national/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_f3da2219-444a-5a18-8990-825e217118d7.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a80077a0b93c9097f933be6bf9a167c563a81e79e8f3dec1f00b6a2a1f0fa8c4",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins distanced herself from President Donald Trump during her first Maine Senate debate with Democrat Troy Jackson, arguing she has maintained her political independence by repeatedly voting against Trump's agenda and saying that she's “not exactly…",
+          "sourceName": "Woonsocketcall",
+          "url": "https://www.woonsocketcall.com/news/national_and_world_news/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_57ad2e87-6a4b-5a8d-ad78-6c87f75726b4.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "67a71cec820f7f2dba0be195d340d545f0fcdcdcf1b3715632b4fc30a720752d",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Swoknews",
+          "url": "https://www.swoknews.com/ap/national/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_915a0bdb-c77d-5d3c-9384-3cf28e869970.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "797b5541b3fc56ec0ee5569359775d6208a42179f03375d19d5e2037a21c6f78",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson. Collins argues she has maintained political independence by voting against Trump's agenda. Collins is running for reelection…",
+          "sourceName": "Caledonianrecord",
+          "url": "https://www.caledonianrecord.com/news/national/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/article_a99a5a4d-2cdc-5bf6-8274-9577c77f033c.html",
+          "publishedAt": "2026-10-07T01:48:46.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1981dbf2e553c1a2bba1ff66cc162d2e423407cbe14639004a032b7d6142df19",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson.",
+          "sourceName": "News4jax",
+          "url": "https://www.news4jax.com/news/politics/2026/10/07/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/",
+          "publishedAt": "2026-10-07T01:48:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a9dc0586d434628ccc583047661a5f639e6937aa0fd621f0268c22ba8b2820c9",
+          "title": "In First Maine Senate Debate, Collins Seeks to Distance Herself From Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson",
+          "sourceName": "Usnews",
+          "url": "https://www.usnews.com/news/politics/articles/2026-10-06/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump",
+          "publishedAt": "2026-10-07T01:48:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4f6f645fc4d051655207cb18a4f84e12e67729e7d09a0008ac7a5ff496dd0dd6",
+          "title": "In first Maine Senate debate, Collins seeks to distance herself from Trump",
+          "description": "Republican U.S. Sen. Susan Collins has distanced herself from President Donald Trump during her first Maine Senate debate with Democratic opponent Troy Jackson.",
+          "sourceName": "Clickondetroit",
+          "url": "https://www.clickondetroit.com/news/politics/2026/10/07/in-first-maine-senate-debate-collins-seeks-to-distance-herself-from-trump/",
+          "publishedAt": "2026-10-07T01:48:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9ea7e84fff2d268350f369c8970645906ed534e2f47b31dcc6ea4da08d824f46",
+          "title": "‘Not exactly his favorite senator’: Susan Collins distances herself from Trump in Maine debate",
+          "description": "Republican challenged by Democrat Troy Jackson in critical Senate race says she opposes Iran war and Canada tariffs Susan Collins, the Republican senator for Maine, pointedly distanced herself from Donald Trump in a televised debate with Democratic challenger Troy Jackson on Tuesday, as she sought to present an image of independence in a state that has voted against Trump three times. Proclaiming herself as not the US president’s “favorite senator”, Collins made the highly unusual boast for a Republican that she had voted with Joe Biden, a Democrat, more than 90% of the time when he was president. She also emphasized her differences with her fellow Republicans, saying she voted against her own party more than any other senator. Continue reading...",
+          "sourceName": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/06/susan-collins-maine-debate-senate",
+          "publishedAt": "2026-10-07T01:43:25.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "01e1893a6403128e09653833f535ad2645245d65efca26e133a295a532f9b86b",
+          "title": "‘Not exactly his favorite senator’: Susan Collins distances herself from Trump in Maine debate - The Guardian",
+          "description": "‘Not exactly his favorite senator’: Susan Collins distances herself from Trump in Maine debate The Guardian Takeaways From the First Maine Senate Debate Between Susan Collins and Troy Jackson The New York Times Takeaways: Trump and abortion rights take center stage in first Maine Senate debate CNN Susan Collins and Troy Jackson brace for debate gantlet in close, pivotal Maine Senate race NBC News Susan Collins, a political survivor, tries to outrun Trump The Washington Post",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3R2TmJaLVQ1bDJERl8wRXUwMmdSd3FYc19ET19MeGtuWEVCOG1Zc3NsclU5OURNWm9xT3lCWmNlQW9wT1VuLUVYUElTMDRDSWY0alB0QWkxNDR6ZXBPNVJNc0pIMzdaQko5YTZLYnM5R3kzTU9KeE9aV18td0J2TktFS3NfV1Vn?oc=5",
+          "publishedAt": "2026-10-07T01:43:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "17d7105ac5f1761f05d0b3204c8e00c4830e904d5075bcde9c5ad32a892e4ae4",
+          "title": "Blagojevich: 'Fake Polling' Aims to Suppress GOP Turnout in 2026 Midterm Elections - Predicts GOP Wins",
+          "description": "Former Illinois Gov. Rod Blagojevich claims misleading polls favoring Democrats are a strategy to deter Republican voters and predicts GOP victories in key 2026 races, including Maine, Texas, and Kansas.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/blagojevich-fake-polling-aims-to-suppress-gop-turnout-in-88533036",
+          "publishedAt": "2026-10-07T01:41:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0584dfa5363b253ed5f99e9326bfae7ddedce4bc12ccd5d493a5e419913ebcd4",
+          "title": "Collins, Jackson clash in first Maine Senate debate: 3 takeaways",
+          "description": "Republican Sen. Susan Collins and Democrat Troy Jackson faced off Tuesday in the first debate of their neck-and-neck Senate race in Maine. A rare Republican to win statewide in blue-leaning Maine, five-term Collins used the debate stage to spotlight times she’s bucked her party, from her pro-choice position to her vote against President Trump’s signature…",
+          "sourceName": "The Hill",
+          "url": "https://thehill.com/homenews/campaign/6132984-maine-senate-debate-collins-jackson/",
+          "publishedAt": "2026-10-07T01:34:17.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c3ab846c361d55d555b62176f6b8eb3bc7a1651cb9f0f9758c1671cd36ba0356",
+          "title": "Collins, Jackson clash in first Maine Senate debate: 3 takeaways - The Hill",
+          "description": "Collins, Jackson clash in first Maine Senate debate: 3 takeaways The Hill 5 Takeaways From the First Maine Senate Debate The New York Times ‘Not exactly his favorite senator’: Susan Collins distances herself from Trump in Maine debate The Guardian Susan Collins, a political survivor, tries to outrun Trump The Washington Post Troy Jackson is racing against time in his bid to unseat Susan Collins PBS",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHMxX1E5bFJCekVCRGpFbFlWVEwyT19mXzJfQ3lLVG5vYTR2cWZIOXlGSnYwdEdkM0N5eWszX3lPSjlWX2pkRmJVd0p4SFdrVzh5R2djZWVIS0ptVmhBWG1zdWt2Q3RtNzRhUUVaM2dyMVpxLUdLbEExTnNhWnhZMncxZ2k1THBaZlHSAY8BQVVfeXFMUFNpNlI5LWk3OHdmS2ZNNnRUNnJBeFFKdkh3aWZWQXdJcVVMSlVOZF92SFZCOGx2bDhGbHVOZEM5blp3WG5lQUdaemhEbkU1VVBGSEpXZjh1Y1NRQXB1d09Yb1dRU1VkM0tvSmtXeUVVUjZlOXNIbHUxNC11R0RZTUlrVmxiTlJGYi1sTDV6ZzA?oc=5",
+          "publishedAt": "2026-10-07T01:34:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "97b072c170e99693b8040ed5304484e6eb8e36d555947b8f3a8b37b492dd6af7",
+          "title": "Three takeaways from the first Susan Collins and Troy Jackson Maine Senate debate",
+          "description": "The debate is the first of four the candidates will have before Election Day.",
+          "sourceName": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/06/nation/susan-collins-troy-jackson-debate-maine-senate/",
+          "publishedAt": "2026-10-07T01:27:02.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8f960e28561dade0a02b863c5df3eb1202b8dccb08d3bd505b918ad51e9494d5",
+          "title": "4 takeaways from the first debate between Susan Collins and Troy Jackson",
+          "description": "It was the first of 4 meetings between the candidates in the next 2 weeks.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/10/06/4-takeaways-from-the-first-debate-between-susan-collins-and-troy-jackson/",
+          "publishedAt": "2026-10-07T01:26:49.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8bf339f9512d2ea288211a3aa81ab919098fa0d40201c5f7a38549e63edc6a9b",
+          "title": "4 takeaways from the first debate between Susan Collins and Troy Jackson",
+          "description": "It was the first of four meetings between the candidates in the next two weeks.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/06/4-takeaways-from-the-first-debate-between-susan-collins-and-troy-jackson/",
+          "publishedAt": "2026-10-07T01:26:49.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8984cffe8341b8a641cdb2f837fefd5bca91ee0f6e57a65f49c9870028fd297b",
+          "title": "4 takeaways from the first debate between Susan Collins and Troy Jackson",
+          "description": "It was the first of 4 meetings between the candidates in the next 2 weeks.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/06/4-takeaways-from-the-first-debate-between-susan-collins-and-troy-jackson/",
+          "publishedAt": "2026-10-07T01:26:49.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3753082b1aab9d23ca80b2a0da0d2252c1ebead737bd3ba6787350f6b63c5d6d",
+          "title": "Takeaways from the Maine Senate debate between Susan Collins, Troy Jackson",
+          "description": "The debate in a race for a critical Senate seat featured lots of talk about President Trump, high prices and the war in Iran.",
+          "sourceName": "The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2026/10/06/takeaways-maine-senate-debate-between-susan-collins-troy-jackson/",
+          "publishedAt": "2026-10-07T01:25:23.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7fc0830a98e0a57912159307b199d9fe93fabd9c8aa20837e6f82167c77d0f5d",
+          "title": "Not 'his favorite senator': Susan Collins says Trump not coming to Maine",
+          "description": "Sen. Susan Collins, R-Maine, did not say whether she would appear with President Donald Trump if he came to Maine on his midterm campaign tour.",
+          "sourceName": "Lufkindailynews",
+          "url": "https://lufkindailynews.com/news_reuters/national/not-his-favorite-senator-susan-collins-says-trump-not-coming-to-maine/article_0c9435b6-c408-5e1e-a159-0aee3b1d7c38.html",
+          "publishedAt": "2026-10-07T01:15:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "76f0c9269f0ada01a15cbe2498178d471974c830249289d2fbb9ff02611207d6",
+          "title": "Not 'his favorite senator': Susan Collins says Trump not coming to Maine",
+          "description": "Sen. Susan Collins, R-Maine, and Democrat Troy Jackson faced off in their first debate for Maine's Senate race. She said Trump won't stump in Maine.",
+          "sourceName": "Usa Today",
+          "url": "https://www.usatoday.com/story/news/politics/2026/10/06/susan-collins-donald-trump-maine-senate-race/92126850007/",
+          "publishedAt": "2026-10-07T01:15:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f17596674144db4a3d6e483469016f93925955bf8afa34d11289697af556484a",
+          "title": "Outrage after Susan Collins tries to 'feel' her way out of Kavanaugh question: 'Pathetic'",
+          "description": "Onlookers were outraged Tuesday after Sen. Susan Collins (R-ME) gave an underwhelming answer to a key question during the state's Senate debate. Collins faced off in a debate with Democratic challenger Troy Jackson, where Collins was asked to defend her record supporting Trump's policies. At one time, the moderator asked Collins point-blank if Supreme Court Justice Brett Kavanaugh lied to her when he said he considered Roe v. Wade to be settled law, a case that he later sided with the conservative majority to overturn. \"I do not feel that he lied, but I think he should not have said it is settled law,\" Collins said. \"And to be fair, you can't ask a nominee how he might vote in some hypothetical future case.\" Collins' answer sparked a firestorm on social media. \"Pathetic. He lied to your face and you rolled over like a dog,\" Adam Cochran, a policy analyst, posted on X. \"You can’t 'feel' that someone lied or did not lie. A lie is a lie, as proven by a record we call 'reality' as it ensues thereafter. Did he vote to overturn Roe or not? And if he didn’t lie, does that mean he told you privately he’d overturn it? And you still voted to confirm?\" Julian Andreone, Capitol Hill reporter at Drop Site News, posted on X. \"It doesn't really matter what she 'feels.' Objective facts still exist, believe it or not,\" the MeidasTouch Network posted on X. \"Well, if he didn’t lie, she got fooled,\" Josh Dorner, a Democratic communications strategist, posted on X. \"You can't be both pro-choice and not be pissed at Kavanaugh for lying to you about Roe v. Wade. People are sick of being lied to. And she looks like the one doing the lying. I think that's going to be the difference in 4 weeks when it gets right down to it,\" lawyer Jeffrey Evan Gold posted on X. Q: You said that Kavanaugh said that he considered Roe v. Wade settled law. Do you feel at any level that Kavanaugh lied to you?Collins: I do not feel that he lied https://t.co/qS9f8WgzHM — Acyn (@Acyn) October 6, 2026",
+          "sourceName": "Raw Story",
+          "url": "https://www.rawstory.com/susan-collins-2678017153/",
+          "publishedAt": "2026-10-07T01:01:06.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "35fbf125e6fbd6b95ee36c572915bc624afafe2d6efad6d3e24230c962332681",
+          "title": "'I'm Not Going to Apologize': Troy Jackson Denies Mortgage Fraud Allegations After Claiming Primary Residence on Second Home",
+          "description": "Maine Democratic Senate candidate Troy Jackson said he's “not going to apologize” for claiming two different homes as his primary residences while serving as president of the Maine Senate, claims that prompted allegations of mortgage fraud. The post 'I'm Not Going to Apologize': Troy Jackson Denies Mortgage Fraud Allegations After Claiming Primary Residence on Second Home appeared first on .",
+          "sourceName": "Freebeacon",
+          "url": "https://freebeacon.com/democrats/im-not-going-to-apologize-troy-jackson-denies-mortgage-fraud-allegations-after-claiming-primary-residence-on-second-home/",
+          "publishedAt": "2026-10-07T01:00:37.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "7437dc6db681be5d4dde00da889e98b3d5c5a099eb49a97c2ba47646ac4c8597",
+          "title": "Susan Collins and Troy Jackson clash over Trump and seniority in Maine’s first Senate debate",
+          "description": "The two candidates clashed repeatedly on their records and about national politics in the first of four debates in the key battleground race.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/susan-collins-and-troy-jackson-clash-over-trump-and-88532182",
+          "publishedAt": "2026-10-07T00:47:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "bb4f75fc0ad64c0bc573163ea99437615fd4a594d41513ae9d9312923051f95a",
+          "title": "Susan Collins hammered with corruption claims during Senate debate: 'I don't owe Trump'",
+          "description": "Democrat Troy Jackson hammered Sen. Susan Collins (R-ME) over a reported FBI corruption probe during their first debate Tuesday night. Jackson, the former Maine Senate president, laid out the allegations from a September ProPublica investigation as the two candidates clashed over Collins' ethics . \"As late as 2024, the FBI was circling around Senator Collins,\" Jackson said. \"They had emails, they knew about meetings. They've got a great big check for $150,000. It's a pay-to-play scheme involving her office and our taxpayer dollars. And then when Trump came back, his administration dismantled the investigation.\" He then tied Collins directly to the president. \"Now, she votes with Donald Trump 96 percent of the time,\" Jackson said. \"I don't owe Trump. I don't owe the billionaires. I've spent my life fighting back against billionaires, but I do owe the people of Maine everything.\" Collins again dismissed the ProPublica reporting as false, according to reporting by the Portland Press Herald, and Jackson kept pressing her on how the Trump administration ended the probe. Collins fired back by raising an ethics complaint a Republican lawmaker once filed against Jackson over his use of an Augusta home while he served in the Legislature. ProPublica reported that the head of a pro-Collins super PAC met with executives from Hawaii defense contractor Navatek in 2019 and asked for a $500,000 donation, the Bangor Daily News reported . Then-CEO Martin Kao sent $150,000 through a shell company and later told company executives in an internal email that Collins had committed to getting Navatek $32 million in Navy contracts. Kao is now in prison for money laundering, bank fraud, and defrauding the federal government, WBUR reported . An FBI spokesperson told ProPublica the bureau's earlier investigation found nothing implicating Collins or her campaign, Newsweek reported . During the debate, Jackson drove his point home, saying, \"I refuse corporate PAC money. I want to ban congressional stock trading. I fight for Mainers every day. I'm not taking money from corporations like Senator Collins does.\"",
+          "sourceName": "Raw Story",
+          "url": "https://www.rawstory.com/susan-collins-2678017122/",
+          "publishedAt": "2026-10-07T00:38:45.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "20db7f0bcfe07e9b03c5a7cff90fb5f20e9bb405b69de50844f2640ffe28e06a",
+          "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
+          "description": "President Donald Trump headed to Maryland to tout a $3.7 billion investment by Anduril in nuclear-powered submarines. The Trump administration aims to revive America’s shipbuilding capabilities for national security and economic reasons. This visit is part of a series of…",
+          "sourceName": "Killeen Daily Herald",
+          "url": "https://kdhnews.com/news/ap/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_72f4c9db-53cb-58b4-99ff-5c0d21c9401a.html",
+          "publishedAt": "2026-10-07T00:36:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "eb81027086778e15715467c6fffe3c7ae055edbc9e13ec73d42492cc1afb5be1",
+          "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
+          "description": "President Donald Trump headed to Maryland to tout a $3.7 billion investment by Anduril in nuclear-powered submarines. The Trump administration aims to revive America’s shipbuilding capabilities for national security and economic reasons. This visit is part of a series of…",
+          "sourceName": "Union-bulletin",
+          "url": "https://www.union-bulletin.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_33fcd361-b2c6-5928-8d02-8eed1c742296.html",
+          "publishedAt": "2026-10-07T00:36:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4560dc8e3c4160353025a183328a3068aa21ff9dea8103669cec02f2c5e6e5ee",
+          "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
+          "description": "President Donald Trump headed to Maryland to tout a $3.7 billion investment by Anduril in nuclear-powered submarines. The Trump administration aims to revive America’s shipbuilding capabilities for national security and economic reasons. This visit is part of a series of…",
+          "sourceName": "Rutland Herald",
+          "url": "https://www.rutlandherald.com/ap/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_1ba81494-bf81-5448-9ec9-a5f380038b93.html",
+          "publishedAt": "2026-10-07T00:36:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8eed94d615a5fe09615a8519e8512f8ff1c5c67b7dba134264b373c3ef7075c5",
+          "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
+          "description": "President Donald Trump headed to Maryland to tout a $3.7 billion investment by Anduril in nuclear-powered submarines. The Trump administration aims to revive America’s shipbuilding capabilities for national security and economic reasons. This visit is part of a series of…",
+          "sourceName": "News-gazette",
+          "url": "https://www.news-gazette.com/news/nation-world/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_17a7b7ad-5609-5372-ab68-dba9ca958ee5.html",
+          "publishedAt": "2026-10-07T00:36:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7c1b268839d82458c624127beda0ccd1671fd9f39fc2b2cf976fb39a3bb93983",
+          "title": "Susan Collins and Troy Jackson clash over Trump and seniority in Maine’s first Senate debate",
+          "description": "Republican Sen. Susan Collins and Democratic challenger Troy Jackson debated for the first time Tuesday in Maine, trading attacks over President Donald Trump, the cost of living and abortion in one of the most closely watched Senate races in the country.",
+          "sourceName": "Nbc News",
+          "url": "https://www.nbcnews.com/politics/2026-election/susan-collins-troy-jackson-clash-trump-seniority-maines-first-senate-d-rcna601346",
+          "publishedAt": "2026-10-07T00:35:16.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "538fbea6359d2889fb0da26a82582d8d1446f8eac6a6137ec9fe1d333f504980",
+          "title": "Susan Collins doesn’t back down from Brett Kavanaugh vote in 1st debate with Troy Jackson",
+          "description": "Tuesday's meeting was first of four debates in 10 days, less than a month before an election that could decide control of the U.S. Senate.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/06/politics/elections/susan-collins-troy-jackson-first-debate/",
+          "publishedAt": "2026-10-07T00:31:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "29b4ee5b8593c92fde94a4d3b71eda39aef27091c278802d30df256c5bb9ec1a",
+          "title": "'Arsonist' Susan Collins torched by Democrat in savage showdown as she stiff-arms Trump",
+          "description": "A Maine Senate Democratic hopeful ridiculed his veteran GOP senator rival as an 'arsonist' during a debate where she turned her back on President Donald Trump.",
+          "sourceName": "Mail Online",
+          "url": "https://www.dailymail.com/news/article-16188163/Arsonist-Susan-Collins-torched-Democrat-savage-showdown-stiff-arms-Trump.html",
+          "publishedAt": "2026-10-07T00:21:24.000Z",
           "sentiment": 0.7
         },
         {
-          "id": "0a7d68fdd31128b62c7683e6a0b68bec7a89e89f3b41e03b495457e331f3f444",
-          "title": "The Latest: Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them",
-          "description": "U.S. soldiers wounded in the Iran war’s deadliest strike yet on American troops are raising concerns publicly, many for the first time, about whether commanders underestimated the threat. Some also said the military medical system failed them. The Pentagon has…",
-          "sourceName": "Yankton Net",
-          "url": "https://www.yankton.net/news/national_ap/article_aa7995c4-9c39-5eac-9f94-94f4d6de6fc0.html",
-          "publishedAt": "2026-10-05T18:27:31.000Z",
+          "id": "a5e093d6762db35f67aa394db31d5dc2f1b7e94959dfe7e34a4927af20d230a0",
+          "title": "Jackson tries to tie Collins to Trump, high cost of living amid war with Iran in Maine Senate debate",
+          "description": "The Maine Senate debate Tuesday pitted veteran Republican Sen. Susan Collins against far-left Democrat Troy Jackson, who is working to frame his opponent as a disciple of the increasingly unpopular President Trump.",
+          "sourceName": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/oct/6/susan-collins-touts-anti-trump-record-maine-senate-debate-troy/",
+          "publishedAt": "2026-10-07T00:03:58.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "64a3ad3812893cb9a79f531be8ce3ceaab5d3046217d2602d96816011defa5c5",
+          "title": "Susan Collins Goes After Democrat Troy Jackson’s Anti-Abortion Record",
+          "description": "“I would point out that there's only one of us on this stage who has always been pro-choice, and that's me,” the Maine Republican said.",
+          "sourceName": "The Washington Sun",
+          "url": "https://www.washingtonsun.com/campaigns/maine-susan-collins-troy-jackson-abortion",
+          "publishedAt": "2026-10-07T00:01:59.000Z",
           "sentiment": 0
         },
         {
-          "id": "d38fde38e739bbe3c333a5a546c355ada6794a713a7154f6998e34efa7ba49fc",
-          "title": "The Latest: Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them",
-          "description": "U.S. soldiers wounded in the Iran war’s deadliest strike yet on American troops are raising concerns publicly, many for the first time, about whether commanders underestimated the threat. Some also said the military medical system failed them. The Pentagon has…",
-          "sourceName": "Hastingstribune",
-          "url": "https://www.hastingstribune.com/ap/health/the-latest-soldiers-seriously-wounded-in-iranian-drone-strike-tell-ap-the-us-military-failed/article_8b29a9ec-446d-5cf8-8b3f-49617a0a6622.html",
-          "publishedAt": "2026-10-05T18:27:31.000Z",
+          "id": "47345f4ab8e40582b77211f8ad21aa028078a38fb0794b3feb141ca25521d7f4",
+          "title": "Sparks fly as Maine's Susan Collins and Troy Jackson clash in brutal first Senate debate",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/tag24-news-351957343/4929974212793-sparks-fly-as-maine-s-susan-collins-and-troy-jackson-clash-in-brutal-first-senate-debate",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "3811fa7954b26e5ed90a0b6f7ae75e3871d8ca965afe71f2840e6a9be86d99ad",
-          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
-          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
-          "sourceName": "Fortmorgantimes",
-          "url": "https://www.fortmorgantimes.com/2026/10/05/trump-education-harvard-appeals-court/",
-          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "id": "680af471ab9d7657c1bad021e4971d44fc45c60edbe957e08f8c5b6aca2d8c16",
+          "title": "Susan Collins and Troy Jackson clash over Trump and seniority in Maine’s first Senate debate",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/nbc-news-510074/4929642441684-susan-collins-and-troy-jackson-clash-over-trump-and-seniority-in-maine-s-first-senate-debate",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "dc5e7e05a4764b2d7d6dac637099516f56d9140a4b43e27577bca8233e3b6d8a",
-          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
-          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
-          "sourceName": "Troy Record",
-          "url": "https://www.troyrecord.com/2026/10/05/trump-education-harvard-appeals-court/",
-          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "id": "9ed2e8038fd7c3cbf63fafc317d6603c0c798f1d2499694d0a4f5b9039d7b031",
+          "title": "Troy Jackson calls for ICE to be disbanded during US Senate debate",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4929917499840-troy-jackson-calls-for-ice-to-be-disbanded-during-us-senate-debate",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
+          "sentiment": 0.3
+        },
+        {
+          "id": "8fb72d1a46d2667eb5af22fe36051557f238c5908b3fea35be15c9e0da9862e0",
+          "title": "Susan Collins tells voters she’s ‘not exactly’ Trump’s favorite senator",
+          "description": "Your browser does not support the video tag. In her first Maine Senate debate against Democrat Troy Jackson, Republican Sen. Susan Collins sought to distan",
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/the-independent-517119/4929975393038-susan-collins-tells-voters-she-s-not-exactly-trump-s-favorite-senator",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "5c8520c32d3bd8353382b450fd840bcba12615ad2ed01692a14a72ee8934ea9c",
-          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
-          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
-          "sourceName": "Loveland Reporter-herald",
-          "url": "https://www.reporterherald.com/2026/10/05/trump-education-harvard-appeals-court/",
-          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "id": "3cf169b7f34d9a1fd00e350c90efe8c950db3e1d466d40c5094fcc63cfedfb63",
+          "title": "Sen. Collins, Troy Jackson clash on how to stop private equity from buying Maine homes",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4929614830786-sen-collins-troy-jackson-clash-on-how-to-stop-private-equity-from-buying-maine-homes",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "1e5f1d81b4280b927ffe5f68457761fccd52f2d5208c628c9f6b6441c5024512",
-          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
-          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
-          "sourceName": "Boulder Daily Camera",
-          "url": "https://www.dailycamera.com/2026/10/05/trump-education-harvard-appeals-court/",
-          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "id": "3fe842b510e997d630545b071f526e103bb649c8aa752cc70fb86a69a85209bf",
+          "title": "‘Not exactly his favorite senator’: Susan Collins distances herself from Trump in Maine debate",
+          "description": "Republican challenged by Democrat Troy Jackson in critical Senate race says she opposes Iran war and Canada tariffs",
+          "sourceName": "Inkl",
+          "url": "https://www.inkl.com/news/not-exactly-his-favorite-senator-susan-collins-distances-herself-from-trump-in-maine-debate",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "23bb63f61645e9c71a10d3e79957d3c8ae6cc488f97dd697f152a121197024f6",
-          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
-          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
-          "sourceName": "Longmont Times Call",
-          "url": "https://www.timescall.com/2026/10/05/trump-education-harvard-appeals-court/",
-          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "id": "a4a665bc58f6e035e155a84225f28398a9c00db89b331cbacfd199cfbc30f7df",
+          "title": "Kalshi Volumes Show Traders Prioritizing 2028 Presidential Markets Over 2026 Midterms",
+          "description": "InGame reports three of Kalshi’s top four election markets by volume focus on 2028 races, led by the Democratic nominee at $232 million. Senate odds favor Democrats at 65% across platforms while House control sits at 89-90%. The Maine Senate race has tightened per new polls. (48 words) SCCG Take, K…",
+          "sourceName": "Sccg Management",
+          "url": "https://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "feb47368b156f033c7dd18a07330d58c756d6d0fa142cf2c47b780d522e864a1",
-          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
-          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
-          "sourceName": "Greeley Tribune",
-          "url": "https://www.greeleytribune.com/2026/10/05/trump-education-harvard-appeals-court/",
-          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "id": "5a25d4e86b01336f607eeafe7b7a36b19bb96698ab64d4ce3c694d4dc30b82f3",
+          "title": "Susan Collins doesn’t back down from Brett Kavanaugh vote in 1st debate with Troy Jackson",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4929641155610-susan-collins-doesn-t-back-down-from-brett-kavanaugh-vote-in-1st-debate-with-troy-jackson",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "04496608a2812fe2684f920f7a05de548dd22d4292254469cf797fa03de37ce7",
-          "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
-          "description": "Prior ruling restored more than $2.6 billion in research funding for the Ivy League school.",
-          "sourceName": "Boston Herald",
-          "url": "https://www.bostonherald.com/2026/10/05/trump-education-harvard-appeals-court/",
-          "publishedAt": "2026-10-05T18:21:56.000Z",
+          "id": "69b348a44a0ec1dbcc96908c305b60fa5957a1f5af1c30deed4c9ae99615f9c5",
+          "title": "Troy Jackson calls for independent investigation into healthcare fraud during debate",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4929798016197-troy-jackson-calls-for-independent-investigation-into-healthcare-fraud-during-debate",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "064c79c3c2cea9bb7f901bf2ca8a481d4fde4ef895af14b78d5829355cf4c45d",
+          "title": "First Senate debate highlights stark differences between Troy Jackson and Susan Collins",
+          "description": "The two candidates took the stage in Portland, hosted by WGME.",
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news-center-maine-524552/4929825274456-first-senate-debate-highlights-stark-differences-between-troy-jackson-and-susan-collins",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "bbb6ed34ca96f303dd1195473d6c0169ffc9642a7f7103b0e80849bbef502a24",
-          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
-          "description": "The court's decision could impact similar cases across the country.",
-          "sourceName": "Troy Record",
-          "url": "https://www.troyrecord.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
-          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "id": "d9bb333fb9675f8c7365aa6d11fc8c5bea2052e3da29c17f96f7f651d40c07e3",
+          "title": "Sen. Collins, Troy Jackson agree that war in Iran was not well thought out",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4929874974332-sen-collins-troy-jackson-agree-that-war-in-iran-was-not-well-thought-out",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "3dcab21c1dab3d5b897783bb5c062eccd8306fa18c6c31e9cd56a2336a24560c",
-          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
-          "description": "The court's decision could impact similar cases across the country.",
-          "sourceName": "Fortmorgantimes",
-          "url": "https://www.fortmorgantimes.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
-          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "id": "92073f3df443678f5a98f5fedf010c82f4ead52fdc248f18134b5b67ef62a36c",
+          "title": "Susan Collins tells voters she’s ‘not exactly’ Trump’s favorite senator",
+          "description": "Democrats are targeting the Maine seat to gain control of the Senate",
+          "sourceName": "Inkl",
+          "url": "https://www.inkl.com/news/susan-collins-tells-voters-shes-not-exactly-trumps-favorite-senator",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "e088fa10299b1051f20fec111a5713decdebf996d7e3c9ed252c492b4c05d927",
-          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
-          "description": "The court's decision could impact similar cases across the country.",
-          "sourceName": "Loveland Reporter-herald",
-          "url": "https://www.reporterherald.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
-          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "id": "85120bb2a6b9c60d051b58a98f7f9445e3725bd38f329e3bb39253543f36438b",
+          "title": "Watch live: Susan Collins and Troy Jackson debate",
+          "description": "The first debate in the key U.S. Senate race is hosted by CBS News 13, at 7 p.m. Tuesday.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/06/politics/elections/watch-live-susan-collins-and-troy-jackson-debate/",
+          "publishedAt": "2026-10-06T23:04:17.000Z",
           "sentiment": 0
         },
         {
-          "id": "6c4a10654f7bfeebcca96e79256f1fa0fa022ea27e041011979e020f5e75eaa3",
-          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
-          "description": "The court's decision could impact similar cases across the country.",
-          "sourceName": "Boulder Daily Camera",
-          "url": "https://www.dailycamera.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
-          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "id": "b72c5ae31698b8ed36844fd7ab340feb2f11ae2376f6635a4564e42284680f60",
+          "title": "Live updates: Susan Collins and Troy Jackson face off in 1st Senate debate",
+          "description": "The 7 p.m. Tuesday debate is hosted by CBS News 13 at its Portland studio.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/06/politics/elections/live-updates-susan-collins-and-troy-jackson-face-off-in-1st-senate-debate/",
+          "publishedAt": "2026-10-06T22:32:15.000Z",
           "sentiment": 0
         },
         {
-          "id": "eb61f7485488520a680f175d79eb9b0488f60ec8847082d7775359024d80ecac",
-          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
-          "description": "The court's decision could impact similar cases across the country.",
-          "sourceName": "Longmont Times Call",
-          "url": "https://www.timescall.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
-          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "id": "2a5381828f845acc6198e1050f2cdf12cd784eae6005b18b1569af51ee7dec2e",
+          "title": "Live updates: Susan Collins and Troy Jackson debate for the first time",
+          "description": null,
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/06/susan-collins-and-troy-jackson-debate-for-the-first-time/",
+          "publishedAt": "2026-10-06T22:30:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "910b84cbd82ae5374f8100579ffd8c16753af7f7b0732562f1e525f12de47a6b",
-          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
-          "description": "The court's decision could impact similar cases across the country.",
-          "sourceName": "Greeley Tribune",
-          "url": "https://www.greeleytribune.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
-          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "id": "3be3b8bdc9614f9e19b8585a29c28cc529d5430933be41c1980939c9057a7174",
+          "title": "Live updates: Susan Collins and Troy Jackson debate for the first time",
+          "description": null,
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/10/06/susan-collins-and-troy-jackson-debate-for-the-first-time/",
+          "publishedAt": "2026-10-06T22:30:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "e380e779eee44807327acf8ff4ab519aeb507a7967aa2a94745a77ca21c28b74",
-          "title": "Supreme Court weighs local governments’ climate change lawsuits against oil and gas companies",
-          "description": "The court's decision could impact similar cases across the country.",
-          "sourceName": "Boston Herald",
-          "url": "https://www.bostonherald.com/2026/10/05/supreme-court-local-climate-change-lawsuits/",
-          "publishedAt": "2026-10-05T18:13:36.000Z",
+          "id": "1377aa993662c505ad3de23ea38559b21555466ec3211047eac6a9bb47ffed57",
+          "title": "Live updates: Susan Collins and Troy Jackson debate for the first time",
+          "description": null,
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/06/susan-collins-and-troy-jackson-debate-for-the-first-time/",
+          "publishedAt": "2026-10-06T22:30:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f2322324fd5a70e7aa3be86a1b0817333df289d397b96d9559f7062682965896",
+          "title": "Trump’s midterm prep includes travel blitz to key states with aim to highlight achievements",
+          "description": "President Trump is hosting rallies across the country to get out the vote before the 2026 midterm election",
+          "sourceName": "Deseret",
+          "url": "https://www.deseret.com/politics/2026/10/06/president-trump-midterm/",
+          "publishedAt": "2026-10-06T22:18:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e296ba65665e8e58178efc21aa32f237e77b534cbe897c332de2e124826d9ae8",
+          "title": "Susan Collins gets more national scrutiny for campaign donations",
+          "description": "Executives at a company that produces trucks donated to Collins after lawmakers funded vehicles the Army said it didn't need, the Intercept reported.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/10/06/susan-collins-gets-more-national-scrutiny-for-campaign-donations/",
+          "publishedAt": "2026-10-06T22:15:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1ed60a0c240200fa47de0c343ce115cc8ade0479965277757f93856d51ac1e53",
+          "title": "Susan Collins gets more national scrutiny for campaign donations",
+          "description": "Executives at a company that produces trucks donated to Collins after lawmakers funded vehicles the Army said it didn't need, the Intercept reported.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/06/susan-collins-gets-more-national-scrutiny-for-campaign-donations/",
+          "publishedAt": "2026-10-06T22:15:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "11771ab135fe1ca36077dd80d02ff7d122048df95e97dd78065a7e6201b3fd35",
+          "title": "Susan Collins gets more national scrutiny for campaign donations",
+          "description": "Executives at a company that produces trucks donated to Collins after lawmakers funded vehicles the Army said it didn't need, the Intercept reported.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/06/susan-collins-gets-more-national-scrutiny-for-campaign-donations/",
+          "publishedAt": "2026-10-06T22:15:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a7056f9b07a9510701c5905829c601431902a2e17a0a72437145d3989df3d1b9",
+          "title": "Rod Blagojevich Unmasks ‘Fake Polling’ Favoring Democrats: ‘There Will Be No Blue Wave’",
+          "description": "Former Illinois Gov. Rod Blagojevich (D) contended Tuesday that \"fake polling\" favoring Democrats ahead of the 2026 midterm elections is designed to convince Republicans not to show up at the ballot box. The post Rod Blagojevich Unmasks ‘Fake Polling’ Favoring Democrats: ‘There Will Be No Blue Wave’ appeared first on Breitbart .",
+          "sourceName": "Brietbart",
+          "url": "https://www.breitbart.com/politics/2026/10/06/rod-blagojevich-unmasks-fake-polling-favoring-democrats-there-will-be-no-blue-wave/",
+          "publishedAt": "2026-10-06T22:11:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a0ddf20e52c726e3f3beabd0770d6af867098344493c65eef4ec8e0629621b9b",
+          "title": "CNN smacks Susan Collins with brutal flashback ahead of debate: 'Life comes at you fast'",
+          "description": "CNN hit Sen. Susan Collins (R-ME) with a brutal reminder of her past vote for Supreme Court Justice Brett Kavanaugh just hours before she was set to face her Democratic opponent in their first debate. “Life comes at you fast,” CNN’s Kasie Hunt said Tuesday after airing a 2018 interview in which Dana Bash pressed Collins about Kavanaugh and Roe V. Wade. “You’re 100% certain, without a doubt, that Brett Kavanaugh will not overturn Roe v. Wade?” Bash asked. “I do not believe that Brett Kavanaugh will overturn Roe v. Wade,” Collins replied. Kavanaugh ultimately joined the Supreme Court majority to knock down Roe in the landmark 2022 Dobbs decision. But CNN wasn’t done handing it to Collins just yet. Hunt then turned to the Maine Republican’s first debate Tuesday night against Democratic challenger Troy Jackson, whose campaign released a new video signaling that her Kavanaugh vote would be “front and center.” “I would not support a nominee who demonstrated hostility to Roe v. Wade ,” Collins says in another flashback montage featured in the ad. “To her credit, she only voted for four of them,” comedian Jon Stewart says in an archived clip. \"Get your priorities straight!\" a woman is heard shouting at Collins during an event in another clip. “Ouch,” Hunt said as the video ended. CNN analyst Ron Brownstein said Collins faces an even tougher political environment this year than she did during her successful 2020 reelection campaign. “The gravity pulling her down is even stronger than it was in 2020,” Brownstein said Tuesday, noting that Kavanaugh had not yet voted to overturn Roe at the time. “No one will ever count out Susan Collins,” he added, “but I think she will have to defy gravity to an even greater extent than she did six years ago.”",
+          "sourceName": "Raw Story",
+          "url": "https://www.rawstory.com/cnn-susan-collins/",
+          "publishedAt": "2026-10-06T22:06:38.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "160556a37b8d7a06542e563967b5c187bb0c617b86a1f1fd71fe273f23e5f6ad",
+          "title": "Where parties are spending the most — and pulling away — in tight midterm races",
+          "description": "The 2026 midterms are on track to be the most expensive midterm cycle in history. Where is the money going?",
+          "sourceName": "Deseret",
+          "url": "https://www.deseret.com/politics/2026/10/06/where-parties-are-spending-the-most-in-midterm-races/",
+          "publishedAt": "2026-10-06T22:06:21.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "526c5153c4db5f86d9726dd60aed8bd50cb52119050ea652c5a50336742942e2",
+          "title": "Susan Collins camp releases new info disputing alleged pay-to-play scheme",
+          "description": "The campaign released documents and photos they say undermine a recent ProPublica report.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/06/susan-collins-camp-releases-new-info-disputing-alleged-pay-to-play-scheme/",
+          "publishedAt": "2026-10-06T21:51:33.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7e8ea11fab84b0797d3dc277ab1bee1666de72adb07f12aba9f1b87685703744",
+          "title": "Susan Collins camp releases new info disputing alleged pay-to-play scheme",
+          "description": "The campaign released documents and photos they say undermine a recent ProPublica report.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/06/susan-collins-camp-releases-new-info-disputing-alleged-pay-to-play-scheme/",
+          "publishedAt": "2026-10-06T21:51:33.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3570c6ea64e49f1527703d8364f918162b8aa52e2c3f8678f04e482f7296bbf2",
+          "title": "Susan Collins camp releases new info disputing alleged pay-to-play scheme",
+          "description": "The campaign released documents and photos they say undermine a recent ProPublica report.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/10/06/susan-collins-camp-releases-new-info-disputing-alleged-pay-to-play-scheme/",
+          "publishedAt": "2026-10-06T21:51:33.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "54892b2f94b6724a0112fc0072ac76276604d54d3815863622ff31a39ef54a97",
+          "title": "Donald Trump unveils his midterms blitz across 10 states in four weeks – is president coming to a city near you?",
+          "description": "PRESIDENT Donald Trump is making his way through the US ahead of the midterm elections - but will he visit your area? The high-stakes midterm elections will decide which party gets control on Capitol Hill, leaving Trump ready to rally as the winners will help shape the final two years of his presidency. Trump is...",
+          "sourceName": "The Sun",
+          "url": "https://www.the-sun.com/news/17107347/donald-trump-midterm-rally-locations-texas-ohio-michigan/",
+          "publishedAt": "2026-10-06T21:04:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e0d4a1a0cee210c02b990c419d2e1c3d5ac168e342032bd558b787f731c26797",
+          "title": "Democrats need to reel in more men. These Mainers say the party needs better bait",
+          "description": "Democrats are trying to win back male voters ahead of the midterms. In Maine, some fly fishermen say frustration with both parties is shaping their votes.",
+          "sourceName": "Wamc Northeast Public Radio",
+          "url": "https://www.wamc.org/2026-10-06/democrats-need-to-reel-in-more-men-these-mainers-say-the-party-needs-better-bait",
+          "publishedAt": "2026-10-06T19:56:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a0e14d58005ac882e1a5bc5dd1256dfd80f8372a96444f478f5a047c54f882d0",
+          "title": "Democrats need to reel in more men. These Mainers say the party needs better bait",
+          "description": "Democrats are trying to win back male voters ahead of the midterms. In Maine, some fly fishermen say frustration with both parties is shaping their votes.",
+          "sourceName": "Michigan Public",
+          "url": "https://www.michiganpublic.org/2026-10-06/democrats-need-to-reel-in-more-men-these-mainers-say-the-party-needs-better-bait",
+          "publishedAt": "2026-10-06T19:56:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b7252ed985957d7425531c7cc1e14ac6e8fc0a3f0a73658147c1d6b5c2e7f94f",
+          "title": "Democrats need to reel in more men. These Mainers say the party needs better bait",
+          "description": "Democrats are trying to win back male voters ahead of the midterms. In Maine, some fly fishermen say frustration with both parties is shaping their votes.",
+          "sourceName": "Kbia",
+          "url": "https://www.kbia.org/2026-10-06/democrats-need-to-reel-in-more-men-these-mainers-say-the-party-needs-better-bait",
+          "publishedAt": "2026-10-06T19:56:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1231f272d1233dc3ced3fb398362e1a95b61d8eb94ac8ad9bcc8770f2ea4509b",
+          "title": "Democrats need to reel in more men. These Mainers say the party needs better bait",
+          "description": "Democrats are trying to win back male voters ahead of the midterms. In Maine, some fly fishermen say frustration with both parties is shaping their votes.",
+          "sourceName": "Stlpr",
+          "url": "https://www.stlpr.org/npr/2026-10-06/democrats-need-to-reel-in-more-men-these-mainers-say-the-party-needs-better-bait",
+          "publishedAt": "2026-10-06T19:56:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "73e157d70dbc2939b26479a799831c4b23e33ab4c6279f513d158bc1b04739a6",
+          "title": "Democrats need to reel in more men. These Mainers say the party needs better bait",
+          "description": "Democrats are trying to win back male voters ahead of the midterms. In Maine, some fly fishermen say frustration with both parties is shaping their votes.",
+          "sourceName": "Wrvo Public Media",
+          "url": "https://www.wrvo.org/2026-10-06/democrats-need-to-reel-in-more-men-these-mainers-say-the-party-needs-better-bait",
+          "publishedAt": "2026-10-06T19:56:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "57e66657672d7bbf06c79f03d6ed129a4278e5b7129a7c4029ae87b83fa66ef3",
+          "title": "Democrats need to reel in more men. These Mainers say the party needs better bait",
+          "description": "Democrats are trying to win back male voters ahead of the midterms. In Maine, some fly fishermen say frustration with both parties is shaping their votes.",
+          "sourceName": "Wskg",
+          "url": "https://www.wskg.org/npr-news/2026-10-06/democrats-need-to-reel-in-more-men-these-mainers-say-the-party-needs-better-bait",
+          "publishedAt": "2026-10-06T19:56:41.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "f140258433696f81e08e7f7f7ed4cd4e1221f47efd1668ee7ace4f236ae3af46",
+          "title": "Why the GOP’s Typical Attacks Aren’t Working on This Maine Candidate",
+          "description": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free . Inside Washington Maine’s 2nd congressional district, covering 92 percent of the state, is the largest congressional district east of the Mississippi River. And right now, the largely rural, white population is getting ready to choose between two candidates: Democrat Matt Dunlap , who is a progressive and an avid hunter, or Republican and former two-term Governor Paul LePage , who once said “ tell them to kiss my butt ” when asked about criticism from the NAACP. In the race to replace Democratic Representative Jared Golden , who isn’t seeking reelection, polling is mixed. Dunlap, a member of the Democratic Congressional Campaign Committee’s, or DCCC, Red to Blue program supporting candidates in close races, was up six points in a University of New Hampshire poll from late September. Other surveys , however, show a dead heat or LePage slightly ahead. On Monday, Dunlap held a health care–focused press conference, amid a cost-of-living crisis exacerbated by the Trump administration’s war on Iran and tariff policies. These issues are a particularly powerful weapon against LePage, who vetoed Medicaid expansion six times as governor and called last year’s One Big, Beautiful Bill Act “the greatest thing that can happen to the Maine people” (LePage was referring to the bill’s “no tax on tips” provision, but the legislation also cut Medicaid by nearly $1 trillion). Dunlap said that the cost of health care is one of the main issues he’s heard about from Mainers. In a conversation with The New Republic, he described a conversation with a resident who was considering selling their home to afford health care costs and another person whose insurance costs went from $560 to $2,700 per month when Affordable Care Act subsidies expired in December. Mainers are also worried about the cost of gas and heating oil, which could hurt LePage like it hurts every other Republican candidate in 2026. Maine is more reliant on heating oil than any other state in the country, and prices have skyrocketed this year. “The first frost warning for much of the state is tomorrow night, maybe tonight,” said Mark Brewer , the chair of the Political Science Department at the University of Maine, which is located in the second district. “It’s cold here. Winters are long here.” LePage has tried to distance himself somewhat from President Trump’s agenda. He came out against Trump’s tariffs on Canadian goods and has emphasized his focus on affordability as governor. The district is historically conservative, and voted for Trump all three times he was on the ballot. But, said Amy Fried , a retired professor of political science at the University of Maine, “This district is one where people are OK with splitting their tickets.” She explained that, in election years past, it wasn’t unusual to see houses with signs for Trump, GOP Senator Susan Collins , and Democratic Representative Jared Golden together in one yard. “Or pretty much any combination you could think of,” she added. Republicans in past elections have typically portrayed their opponents as out-of-touch leftists. So far, LePage has struggled to apply that playbook to Dunlap. “He doesn’t look like a wild-eyed radical in any way,” said Fried of Dunlap. “His personality is extremely even-keeled, and a friend of mine said the other day that he looks like an insurance salesman.” Asked about LePage recently telling Fox News Digital that the race is about “common sense versus crazy,” Dunlap seemed unfazed: “That’s what they say when they don’t have anything else to throw at you,” he told The New Republic. “MAGA Republicans,” Dunlap said, “are very good at demonizing and bringing up the wedge [issues] about the woke agenda and the Democratic Socialists of America.” But, he added, “I’m less susceptible to that because I hadn’t heard of the Democratic Socialists of America until we heard about the Mamdani campaign.” Dunlap has also played up his experience as a fisherman and hunter. He’s a founding board member of the Maine Youth Fish and Game Association, and the former executive director of the Sportsman’s Alliance of Maine. One ad shows him fishing, boating, hunting, and shooting a rifle. At the end of the video, he puts down the gun and turns to the camera, saying: “I’ve always defended our Second Amendment rights, and in Congress, I’ll do the same.” “You can’t question his bona fides on outdoors kind of stuff, or guns,” said Brewer. “He can go toe-to-toe with any Republican on those issues.” Golden, who won this district four times, is a Marine Corps veteran who has similar credibility on guns, an important issue in the district. Both Brewer and Fried echoed what polls have suggested: This is a tight race that could go either way. Brewer said that much could hinge on the support that Dunlap gets from national Democrats in the next month. He pointed to the DCCC’s apparent hesitancy to add him to the Red to Blue program—Dunlap beat out the DCCC’s preferred candidate in June, but wasn’t added to the program until late August—as a potential issue. “The support still, to me, doesn’t seem like what it would be, or what it could be, or maybe should be in this tight of a race,” he said. “I think he could use some more money.” —Emma Janssen Outside Washington Early voting is now in progress across multiple states, having started on Monday in Maine , California , Nebraska , and Montana (although there it’s technically called a “late registration” period for absentee voting). New Mexico, Indiana, Wyoming, and Ohio begin on Tuesday, and Arizona starts on Wednesday. Early voting and early absentee voting (differentiated by whether a ballot is cast directly into a ballot counter) has been underway in Illinois and Minnesota for weeks. Several other states join next week. Pennsylvania technically doesn’t have early in-person voting, but it actually sort of does , since you can show up, get a mail-in ballot, and then hand it back. Voting rights advocates have typically urged people to vote early if possible, in part for convenience and to avoid lines , and in part so that there’s time to sort things out if there’s a problem. On Saturday, President Trump urged Republicans to vote early or by mail—measures he has previously opposed and tried to restrict. As key Senate and House races in Texas, Maine, Iowa, Michigan, Alaska, Ohio, and more continue to dominate headlines, fewer people are watching California. But over the weekend, Bernie Sanders stopped by California’s conservative Central Valley to give Democrat Randy Villegas a boost in his attempt to unseat David Valadao in the race for California’s 22nd district. Ever since Villegas’s victory over moderate, DCCC-backed Jasmeet Bains in the primary, part of the narrative in this race has focused on whether Villegas is too far left for this “historically conservative, low-turnout area,” as CalMatters puts it. But as Sanders’s visit shows, Villegas isn’t running away from his progressivism. Dems have been fixated on beating Valadao for years , so if a progressive is finally the one to do it, it’ll be quite the story. While public polling in the 22nd has been almost nonexistent this cycle, a Democratic PAC poll in June showed Villegas up four points . —Heather Souvaine Horn The Ideas Factory The Natural Resources Defense Council issued a statement on Suncor v. Boulder, the big climate case the Supreme Court heard oral arguments for on Monday. Suncor Energy is asking SCOTUS to throw out the suit from the city and county of Boulder, Colorado, over the devastating damages of climate change, including from the Marshall fire in 2021. “Coal, oil, and gas companies have made trillions of dollars in profits from the sale of fuels that are driving the climate crisis. They have knowingly misled the public for decades” and lobbied to delay climate policies, said NRDC senior vice president for environmental health Matthew Tejada . “Now a staggering bill is coming due.… The fossil fuel industry has a responsibility to help pay for the damage its products have caused.” On Wednesday at 4 p.m., the Center for Strategic and International Studies will host a webcast looking back at the anthrax postal attacks 25 years ago. Retired Maj. Gen. Paul Friedrichs will moderate a discussion between Wendi Kuhnert of the Centers for Disease Control and Prevention and former GOP Senator Richard Burr . On Thursday, the Institute for Policy Studies will hold its 50th annual Letelier-Moffitt Human Rights Awards, honoring Unidos MN and La Liga Sindical Obrera Mexicana for their work mobilizing “communities” to “defend their rights.” Unidos MN gained widespread recognition training people to document ICE abuses in Minnesota, and in recent months has shifted to getting out the vote for the midterm elections. La Liga, also known as the Mexican Workers’ League, is a relatively recent independent union—as opposed to the dominant so-called “ protection unions ” in Mexico that tend to favor employers’ interests . —Heather Souvaine Horn In Closing Four Questions For: Aaron Eisenberg , political director for United Auto Workers Region 9A Q: Who are you, and what are you working on right now? A: Region 9A represents 50,000 active and retired members across New York, New England, and Puerto Rico. After notching some amazing victories in New York this year, right now, our priorities are electing our former member Troy Jackson to the U.S. Senate in Maine, training our members to run campaigns and run for office, passing local and state legislation to strengthen worker power, winning unemployment for striking workers, and making it easier to unionize. Q: The UAW backed insurgent—and ultimately victorious—candidates like Claire Valdez and Darializa Avila Chevalier in New York primaries this year, while many established unions supported their opponents. What did the UAW understand about this political moment that others missed? A: In the last few years, we have had many strikes, pickets, and actions where we have called on politicians for their support. Those who showed up consistently in solidarity proved themselves to our members and earned their support in the future; those who did not were also remembered. Mayor Zohran Mamdani had been on the picket line with all eight of our UAW locals in New York City in the two years prior to his run. Claire Valdez was a unit chair in Local 2110 and was a UAW leader. Darializa Avila Chevalier was a leader within her public defense unit in Local 2325. Our members were ready to throw down for them as candidates when they ran. Q: Winning elections is one thing. How does the union ensure that union-backed candidates deliver for working people once in office? A: Everything we do, including endorsements, aims to build beyond elections. In New York City, we have now seen the fruits of this with the creation of the Mayor’s Office of Worker Power—an office that we and other allies proposed to the administration, and which will be led by a former UAW organizing director, Tony Perlstein. We are also in consistent dialogue with our elected champions to support our members during legislative fights and contract battles, as well as on specific issues like unemployment for striking workers, universal childcare, and Medicare for All. Q: What’s your favorite part about working in the labor movement? A: Waking up with a sense of purpose. We have an immense challenge in front of us, and yet the power of working people coming together has overcome insurmountable obstacles time and time again. Working with members, trusting people to grow, developing new leaders, and shifting power away from the billionaire class to a multiracial, working-class mass movement is the battle of our times, and I can think of no more worthy cause. Interview by Indigo Olivier Political Trivia Question of the Day With Trump having visited Nebraska: A Nebraska Republican senator once defended a Nixon Supreme Court nominee criticized as mediocre by saying: “Even if he were mediocre, there are a lot of mediocre judges and people and lawyers. They are entitled to a little representation, aren’t they, and a little chance?” Who was he? ( Sign up for The TNR Blue Book to find the answer in tomorrow’s newsletter.) —Michael Tomasky",
+          "sourceName": "The New Republic",
+          "url": "https://newrepublic.com/post/216280/lepage-matt-dunlap-maine-hunter",
+          "publishedAt": "2026-10-06T19:50:21.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "041ef45b00f0b44c829d69e9e78ea0c50c28e836c6e47d31ab072933c8a12719",
+          "title": "Everyone in this small town in Maine knows Troy Jackson. That’s not the same as supporting him",
+          "description": "ALLAGASH, Maine — When the pandemic kept much of the world indoors, Troy Jackson came out of lockdown to officiate Ronnie Pelletier’s wedding. This fall, Pelletier plans to vote for Republican Sen. Susan Collins. In Jackson’s hometown of 234 people, deep in the northern Maine wilderness, nearly…",
+          "sourceName": "Biztoc",
+          "url": "https://biztoc.com/x/f2729271e77b5750",
+          "publishedAt": "2026-10-06T19:40:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ae689f87604e3ac56ac1b26862bafa914d898e4db5559546a72095ad06a25003",
+          "title": "Everyone in this small town in Maine knows Troy Jackson. That’s not the same as supporting him.",
+          "description": "Troy Jackson has spent his life in a small town where nearly everyone knows him. Now he has less than a month to get the rest of Maine to do the same. The post Everyone in this small town in Maine knows Troy Jackson. That’s not the same as supporting him. appeared first on MS NOW .",
+          "sourceName": "Ms Now",
+          "url": "https://www.ms.now/news/everyone-in-this-small-town-in-maine-knows-troy-jackson-thats-not-the-same-as-supporting-him",
+          "publishedAt": "2026-10-06T19:36:34.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "39f080f18222027a6cc44e4ae4323b76e47cea2a0ebfa37be21358d2575848c3",
+          "title": "Democrats need to reel in more men. These Mainers say the party needs better bait",
+          "description": "Democrats are trying to win back male voters ahead of the midterms. In Maine, some fly fishermen say frustration with both parties is shaping their votes.",
+          "sourceName": "Georgia Public Broadcasting",
+          "url": "https://www.gpb.org/news/2026/10/06/democrats-need-reel-in-more-men-these-mainers-say-the-party-needs-better-bait",
+          "publishedAt": "2026-10-06T19:33:17.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e92d252b5da5ad215600ba0735dbfcba3512e86d5f024908d9b5ddd6ca7d829b",
+          "title": "Troy Jackson Touted New Cell Phone Tower for His Rural Town. It Was Built on His Family's Land.",
+          "description": "In March 2023, U.S. Senate hopeful Troy Jackson, then the president of the Maine Senate, took credit for having \"secured\" a new cell phone tower in his rural town of Allagash, a project he dedicated to the town's \"hardworking families\" who \"have been left behind when it comes to this essential service.\" Unmentioned in his statement was the fact that the tower was built on his family's land, an arrangement that can generate landowners' thousands of dollars a month in profits, real estate records reviewed by the Washington Free Beacon show. The post Troy Jackson Touted New Cell Phone Tower for His Rural Town. It Was Built on His Family's Land. appeared first on .",
+          "sourceName": "Freebeacon",
+          "url": "https://freebeacon.com/democrats/troy-jackson-touted-new-cell-phone-tower-for-his-rural-town-it-was-built-on-his-familys-land/",
+          "publishedAt": "2026-10-06T19:15:09.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "c12aa2a39f09cc17a17fe20677ff341dd3293137052b12f868013987e0df923b",
+          "title": "Obama to Campaign in Michigan for El-Sayed — Because It’s the Next Phase of the Revolution",
+          "description": "When he ran for president in 2008, the junior senator from Illinois was firmly, resolutely, 100% against gay marriage. It...",
+          "sourceName": "Pjmedia.com",
+          "url": "https://pjmedia.com/scott-pinsker/2026/10/06/obama-to-campaign-in-michigan-for-el-sayed-because-its-the-next-phase-of-the-revolution-n4958029",
+          "publishedAt": "2026-10-06T18:44:00.000Z",
           "sentiment": 0
         }
       ],
