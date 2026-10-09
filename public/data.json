@@ -1,10 +1,46 @@
 {
-  "lastUpdated": "2026-10-09T15:47:21.887Z",
+  "lastUpdated": "2026-10-09T17:55:44.816Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
+      "overallSentiment": -0.5,
+      "newsSentiment": -0.5,
+      "socialSentiment": null,
+      "mentions": {
+        "news": 2,
+        "social": 0,
+        "youtube": 0,
+        "total": 2
+      },
+      "news": [
+        {
+          "id": "050900fcd61c41edf2563741bb666362b4123cd58450150c0469726c9bd60793",
+          "title": "‘Ranabaali’ trailer: Vijay Deverakonda, Rashmika Mandanna rise against British rule in period drama",
+          "description": "Vijay Deverakonda and Rashmika Mandanna star in Rahul Sankrityan’s ‘Ranabaali’, a Telugu period drama set against the backdrop of the devastating Madras famine of 1876-78. The film is set to release on October 16.",
+          "sourceName": "Mathrubhumi English",
+          "url": "https://english.mathrubhumi.com/movies-music/news/ranabaali-trailer-vijay-deverakonda-rashmika-mandanna-rise-against-british-rule-in-period-drama-allecgyu",
+          "publishedAt": "2026-10-09T05:14:18.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "c261fa149cec4bbdcd32caa647ff93f42121f96421861fa12b3e0b76cbc20943",
+          "title": "Troy Jackson was being paid by unions throughout his run for governor",
+          "description": "The Democratic U.S. Senate nominee's campaign has offered few details about what the work entailed, describing it only as consulting and organizing services on national and labor issues.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/08/politics/elections/troy-jackson-paid-by-unions-during-run-for-governor/",
+          "publishedAt": "2026-10-08T21:36:24.000Z",
+          "sentiment": 0
+        }
+      ],
+      "social": [],
+      "youtube": [],
+      "youtubeSentiment": null
+    },
+    {
+      "id": "shenna-bellows",
+      "name": "Shenna Bellows",
       "overallSentiment": 0,
       "newsSentiment": 0,
       "socialSentiment": null,
@@ -16,40 +52,13 @@
       },
       "news": [
         {
-          "id": "43eccf6cf494669d71ba4d0136199d266c67182486145e52f6fa11e6a97feff4",
-          "title": "Trump tamps down speculation Russia plague lab worker died from bioweapon: ‘Going to find out soon enough’",
-          "description": "Shipilova died on Friday, prompting a flurry of speculation that her illness was related to her work at the nearby Anti-Plague Research Institute.",
-          "sourceName": "New York Post",
-          "url": "https://nypost.com/2026/10/07/us-news/trump-tamps-down-speculation-russia-plague-lab-worker-died-from-bioweapon/",
-          "publishedAt": "2026-10-07T20:50:19.000Z",
+          "id": "c70e4d28a6afec43f7cccd7d1e5259915f77dd4a51e1151aee9588d227609b2e",
+          "title": "Maine Debate — Troy Jackson Vows to Defund ICE: ‘Unreformable’",
+          "description": "Maine Democrat Senate candidate Troy Jackson said Thursday he would cut off funding for Immigration and Customs Enforcement (ICE) and move its duties to Customs and Border Protection (CBP), calling the agency unreformable during a WMTW debate against Sen. Susan Collins (R-ME). The post Maine Debate — Troy Jackson Vows to Defund ICE: ‘Unreformable’ appeared first on Breitbart.",
+          "sourceName": "Brietbart",
+          "url": "https://www.breitbart.com/politics/2026/10/08/troy-jackson-defund-ice-maine-debate-susan-collins/",
+          "publishedAt": "2026-10-09T03:27:27.000Z",
           "sentiment": 0
-        }
-      ],
-      "social": [],
-      "youtube": [],
-      "youtubeSentiment": null
-    },
-    {
-      "id": "shenna-bellows",
-      "name": "Shenna Bellows",
-      "overallSentiment": -0.1,
-      "newsSentiment": -0.1,
-      "socialSentiment": null,
-      "mentions": {
-        "news": 1,
-        "social": 0,
-        "youtube": 0,
-        "total": 1
-      },
-      "news": [
-        {
-          "id": "f5aef24a4598eb72b64e00b2803e496690e8c3b406cf9e46e098704e4a0e8c20",
-          "title": "Worried about election interference? Vote now.",
-          "description": "\"Early voting began in Maine this week. It runs through Oct. 29.\"",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/08/opinion/editorials/worried-about-election-interference-vote-now-joam40zk0w/",
-          "publishedAt": "2026-10-08T05:00:00.000Z",
-          "sentiment": -0.1
         }
       ],
       "social": [],
@@ -59,491 +68,644 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.1663037829601078,
-      "newsSentiment": -0.18867924528301888,
+      "overallSentiment": 0.25443495995920934,
+      "newsSentiment": 0.0757142857142857,
       "socialSentiment": 0.36940877598152416,
       "mentions": {
-        "news": 53,
+        "news": 70,
         "social": 434,
         "youtube": 22,
-        "total": 509
+        "total": 526
       },
       "news": [
         {
-          "id": "7ffd26939e9ed1c2fea682f3b97fbe4f256b063e11c16f7bb340672a5a1284e2",
-          "title": "Why Trump supporters are showing up in Texas",
-          "description": "CNN’s Betsy Klein speaks with attendees of President Donald Trump’s rally in San Antonio, Texas, his third event held in the state this month ahead of November’s midterm elections.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/why-trump-supporters-are-showing-up-in-texas-88575772",
-          "publishedAt": "2026-10-08T05:03:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "bd17b8652a13ae794d39d3048f6ae1c8f27de126b0becbeb51a2279ef9508d03",
-          "title": "Letter: Troy Jackson would be a sorry replacement for Susan Collins",
-          "description": "“I believe the claim that she caves to President Donald Trump is absurd.”",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/08/opinion/letters/letter-troy-jackson-would-be-a-sorry-replacement-for-susan-collins-joam40zk0w/",
-          "publishedAt": "2026-10-08T05:00:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "6e4e4c35ef872683c661adec7b66f47d4e1f028338bc52a2a64f0e3cccec44b4",
-          "title": "Sen. Susan Collins, Troy Jackson Debate Healthcare, Fuel Prices Amid Competitive Senate Race",
-          "description": "Incumbent Republican Senator Susan Collins and Democratic nominee Troy Jackson participated in their first televised debate on Tuesday evening.",
-          "sourceName": "Ntd",
-          "url": "https://www.ntd.com/ntdplus/sen-susan-collins-troy-jackson-debate-healthcare-fuel-prices-amid-competitive-senate-race_1177536.html",
-          "publishedAt": "2026-10-08T03:24:50.000Z",
+          "id": "adc5debc43e1f7a5e366aaad06e3050b56e311429cc4c78daa885eac5b13b2a6",
+          "title": "Maine Debate: Susan Collins Demands Troy Jackson Apologize for Claim She Is Profiting from Iran War",
+          "description": "Maine Democrat Senate candidate Troy Jackson claimed at Thursday’s WMTW debate that Sen. Susan Collins (R-ME) and her husband are profiting from the war in Iran, prompting the five-term incumbent to demand an apology on camera. The post Maine Debate: Susan Collins Demands Troy Jackson Apologize for Claim She Is Profiting from Iran War appeared first on Breitbart.",
+          "sourceName": "Brietbart",
+          "url": "https://www.breitbart.com/politics/2026/10/08/troy-jackson-susan-collins-profit-iran-war-maine-debate/",
+          "publishedAt": "2026-10-09T05:16:30.000Z",
           "sentiment": 0
         },
         {
-          "id": "4fad420da71bc5ddb20a5d47fb759d420e6c5f2cdb91fa63eff8f06b58644e58",
-          "title": "Trump stumps for Paxton in Texas | CNN Politics",
-          "description": "President Donald Trump was forced to stop his speech again and again during a rally in San Antonio, Texas, after a number of protesters disrupted the event.",
+          "id": "09507bdd84db30bad66a5968467cfca0149e4c83e8a0c87c449538ae251b091b",
+          "title": "Letter: Troy Jackson offers a welcome contrast to Susan Collins",
+          "description": "“Jackson has a strong record of supporting reproductive rights, universal free school meals, expanded childcare affordability, paid family medical leave, among other policies that make life more affordable and equitable for all Mainers.”",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/09/opinion/letters/letter-troy-jackson-offers-a-welcome-contrast-to-susan-collins-joam40zk0w/",
+          "publishedAt": "2026-10-09T05:00:00.000Z",
+          "sentiment": 0.7
+        },
+        {
+          "id": "061092a70347b56aa69936f3692158839d6bde7049ed4280d9fc0774d77f3ee3",
+          "title": "US midterms: key takeaways from Senate debates in Michigan, Georgia and Maine",
+          "description": "Candidates traded personal attacks and clashed over a range of issues in closely watched US Senate debates on Thursday, with control of Congress at stake With just weeks left in the contentious midterm election campaign, candidates in a trio of highly-competitive Senate races debated Thursday night, clashing over the economy, tariffs, the Iran war and abortion rights, with control of the upper chamber at stake. In Georgia, incumbent Democratic senator Jon Ossoff faced GOP representative Mike Collins. In Michigan, Democrat Abdul Al-Sayed and Republican Mike Rogers debated over the state’s open Senate seat. And in Maine, longtime senator Susan Collins met Democratic challenger Troy Jackson. Democrats need to flip four Republican-held Senate seats to win the majority. Continue reading...",
+          "sourceName": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/09/us-midterms-michigan-georgia-maine-senate-debate-key-takeaways",
+          "publishedAt": "2026-10-09T04:48:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "92efa7bd90a806d115d4a23250f3621e38ba22a21c69981c87351637eea0bc12",
+          "title": "Second Maine Senate debate takes testy turn: 3 takeaways",
+          "description": null,
+          "sourceName": "Knwa Fox24",
+          "url": "https://www.nwahomepage.com/news/national/second-maine-senate-debate-takes-testy-turn-3-takeaways/",
+          "publishedAt": "2026-10-09T03:49:50.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "cc985e7499baf1a4a06c492a6d031f5a18514b4f9bc20f8a46a3c1ce1a184ab1",
+          "title": "Second Maine Senate debate takes testy turn: 3 takeaways",
+          "description": null,
+          "sourceName": "News10",
+          "url": "https://www.news10.com/news/national/second-maine-senate-debate-takes-testy-turn-3-takeaways/",
+          "publishedAt": "2026-10-09T03:49:38.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8bb8b9444e0ab56617bef5257563362d7e79a3eb7d3e58d0fa3afd055ad07803",
+          "title": "5 Key Moments From a Testy Maine Senate Debate",
+          "description": "The second debate between Senator Susan Collins, a vulnerable Republican, and Troy Jackson, her Democratic challenger, quickly grew heated.",
+          "sourceName": "Keep Facts",
+          "url": "https://www.keepfacts.com/5-key-moments-from-a-testy-maine-senate-debate/",
+          "publishedAt": "2026-10-09T03:48:30.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0988449ea686d2017989bfa6687a24ae5cac767e633b9cf812154050d4df5238",
+          "title": "Maine Debate — Troy Jackson Vows to Defund ICE: ‘Unreformable’",
+          "description": "Maine Democrat Senate candidate Troy Jackson said Thursday he would cut off funding for Immigration and Customs Enforcement (ICE) and move its duties to Customs and Border Protection (CBP), calling the agency unreformable during a WMTW debate against Sen. Susan Collins (R-ME). The post Maine Debate — Troy Jackson Vows to Defund ICE: ‘Unreformable’ appeared first on Breitbart.",
+          "sourceName": "Brietbart",
+          "url": "https://www.breitbart.com/politics/2026/10/08/troy-jackson-defund-ice-maine-debate-susan-collins/",
+          "publishedAt": "2026-10-09T03:27:27.000Z",
+          "sentiment": 0.4
+        },
+        {
+          "id": "709a9e8cb366bb0cfaae510acc6fbab2fdb0192d8b05bfa87bb062e876a3ba03",
+          "title": "Susan Collins and Troy Jackson spar over public corruption allegations in second debate",
+          "description": "The moderator forced both candidates to address questions that have presented unwanted scrutiny for their campaigns in the final weeks of the race.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4760617/susan-collins-troy-jackson-corruption-allegations-second-debate/",
+          "publishedAt": "2026-10-09T03:03:02.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "36d09f130d99efb67b28d03d961a124c133757799d0b52f73554433413084a06",
+          "title": "Maine Senate debate: Collins and Jackson defend capitalism, austerity and war",
+          "description": "During the debate on Tuesday evening, both Republican incumbent Susan Collins and Democratic challenger Troy Jackson defended the capitalist healthcare system, attacks on immigrant rights and the war aims of US imperialism internationally.",
+          "sourceName": "World Socialist Web Site",
+          "url": "https://www.wsws.org/en/articles/2026/10/09/wjpp-o09.html",
+          "publishedAt": "2026-10-09T02:46:01.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "9a8d86ff7cba601875fa172da7848dd3f320204827457e9472d55777eac39ea0",
+          "title": "Jackson Claims Collins Profits from War as Candidates Clash in Maine Senate Debate",
+          "description": "Former Senate President Troy Jackson accused incumbent Sen. Susan Collins of profiting from the Middle East conflict through oil and gas stocks, a claim Collins dismissed as outrageous. The debate also featured heated exchanges regarding Collins' voting record on war powers resolutions and Jackson's past stance on abortion.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/trump-stumps-for-paxton-in-texas-cnn-politics-88573542",
-          "publishedAt": "2026-10-08T03:23:00.000Z",
-          "sentiment": -1
+          "url": "https://us.headtopics.com/news/jackson-claims-collins-profits-from-war-as-candidates-clash-88612734",
+          "publishedAt": "2026-10-09T02:43:00.000Z",
+          "sentiment": 0.2
         },
         {
-          "id": "3d59e5bc145b02ee7c9f9faf3d621785f1684680cbc5b18a0ce7651bcd013f39",
-          "title": "Nets Vary Their Approaches But Push Midterm DOOM Just the Same",
-          "description": "Nets Vary Their Approaches But Push Midterm DOOM Just the Same With the midterms less than a month away, the Elitist Media Evening News continue to run their polling DOOM!!11! Play against President Donald Trump and the GOP. Tonight’s edition offers varying approaches. ABC World News Tonight went the traditional route, if you will: Polling trouble, and “Republicans in Disarray.” Here’s how the Mary Bruce report opened up: WATCH: @ABCWorldNews continues its midterm laser focus on its polling DOOM and \"Republicans in Disarray\" angles, playing up the continued drip-drip-drip of Paxton secret tapes. No mention of Talarico, away for 11 days due to the flu, per his campaign pic.twitter.com/HBgygvSYzf — Jorge Bonilla (@BonillaJL) October 8, 2026 DAVID MUIR: The midterm elections tonight. President Trump now making his third campaign trip to Texas in a month. Both the Republican governor and the Republican Senate candidate trailing their Democrat opponents. And tonight, a new audio. The Republican Senate candidate blaming the president's war in Iran and gas prices. Here's Mary Bruce. MARY BRUCE: President Trump tonight heading to Texas, his third visit in a month as polls show Republicans trailing in the races for both Senate and governor. Trump there to prop up the struggling Senate campaign of Republican Ken Paxton. In recorded conversations with donors, Paxton blames his problems on the president, saying Trump's midterm convention in Dallas hurt his campaign and that the war with Iran is dragging him down. KEN PAXTON: The war. It’s gas prices. It's diesel. We have a lot of trucks who use a lot- who are feeling the pinch. So that’s a- that's probably the biggest problem. And then that pushes up the food prices and everything else. ABC continues to run the drip-drip-drip of Paxton’s recorded chat with a donor, highlighting every single point of concern as expressed by the Texas Attorney General. Interestingly enough there is zero mention of the fact that his opponent, James Talarico, has been missing from the campaign trail for 11 days (due to a bout with the flu, per campaign officials). Mary Bruce’s item did the polling, “Republicans in Disarray” bit and then ran an exchange from the Maine Senate debate. Bruce presented Collins as a Republican distancing herself from Trump in a race that “isn’t supposed to be close.” But this is Susan Collins, who’s ALWAYS distanced herself from Trump. Here again, the coverage of the distancing is selective. The record reflects that there is ZERO mention of Gov. Janet Mills refusing to endorse Troy Jackson. The tilt always tilts one way. NBC took a different approach. Instead of running the polling playbook, they went with the data center boogeyman. Here is part of Ryan Nobles’ dispatch from Ohio: WATCH: @NBCNightlyNews takes a different approach to the midterms, playing up data center fears in Ohio. pic.twitter.com/kCWrWpHd2h — Jorge Bonilla (@BonillaJL) October 8, 2026 RYAN NOBLES: Data center campuses like these that are popping up all over Ohio have become a very big political issue. But it's way more complicated than just Republican or Democrat. SHERROD BROWN: Jon Husted led the charge to bring these data centers to our state. NOBLES: Democrat and former Ohio senator Sherrod Brown is hammering Husted for past support of data centers, tapping into voter anger. BROWN: They've seen what Jon Husted has done- more than let them down. He's been the lead guy on this.NOBLES: And in a state President Trump won three times, Brown is leading the race in several recent polls. A leaked memo obtained by NBC News in August from the National Republican Senatorial Committee claimed that “data centers are the anchor hanging around Husted's neck.” Do you regret at all the effort that you made when you did encourage them to come to the state and your other roles that you had in Ohio? JON HUSTED: Local- local citizens and communities make those decisions, not me. Local decisions decide whether they want data centers in their community, not me. “Way more complicated than Republican or Democrat\", says Ryan Nobles, before pitting Democrat against Republican. The report broadly follows the AI hysteria template, but injected with midterm politics. There is no soundbite of anyone in favor of data centers or AI at all. There are only angry Trump voters and Republicans to take the fall for AI. Each of the networks took divergent approaches, but the outcome is the same: anti-news in service of Democrats returning to power. Click “expand” to view the full transcripts of the aforementioned reports as aired on their respective newscasts on Wednesday, October 7th, 2026: ABC WORLD NEWS TONIGHT10/7/26 6:42 PM DAVID MUIR: The midterm elections tonight. President Trump now making his third campaign trip to Texas in a month. Both the Republican governor and the Republican Senate candidate trailing their Democrat opponents. And tonight, a new audio. The Republican Senate candidate blaming the president's war in Iran and gas prices. Here's Mary Bruce. MARY BRUCE: President Trump tonight heading to Texas, his third visit in a month as polls show Republicans trailing in the races for both Senate and governor. Trump there to prop up the struggling Senate campaign of Republican Ken Paxton. In recorded conversations with donors, Paxton blames his problems on the president, saying Trump's midterm convention in Dallas hurt his campaign and that the war with Iran is dragging him down. KEN PAXTON: The war. It’s gas prices. It's diesel. We have a lot of trucks who use a lot- who are feeling the pinch. So that’s a- that's probably the biggest problem. And then that pushes up the food prices and everything else. MARY BRUCE: I asked the president about that.Do you agree with Ken Paxton that the war and gas prices is the biggest challenge for Republicans? DONALD TRUMP: I think the war is when you go to war, it's a war that's been won from the standpoint of what we have to do. We have to get rid- of no nuclear weapons for, as you know, for Iran. (VIDEO SWIPE) It'll be over very quickly. And when it does and when it does, oil prices will come tumbling down. BRUCE: But across the country, Republicans are distancing themselves from Trump in many races that weren't supposed to be close. In Maine, Republican Senate candidate Susan Collins debating Democrat Troy Jackson. Collins calling herself a, quote, “outspoken opponent of Trump's trade war with Canada.” As an example, she says she was able to get road salt exempted from the tariffs. SUSAN COLLINS: Troy mocked it. But I was successful in getting concrete, pulp and road salt removed from the tariff list. TROY JACKSON: I didn't mock the fact that she got road salt back. I mocked the fact that what about everything else? I mean, we can't eat road salt. BRUCE: And back to Texas, where the president is tonight. David, it is remarkable that both the races for governor and Senate are so tight. The president today was asked if he regrets endorsing Senate candidate Ken Paxton. Trump says he has no regrets. David. MUIR: Mary Bruce live at The White House tonight. Mary, thank you. NBC NIGHTLY NEWS 10/7/26 6:46 PM TOM LLAMAS: We are back now with our series The Data Center Divide. The huge structures needed to power AI are popping over- popping up all over the country, and they've become a political lightning rod. So much so they just might be the issue that determines the balance of power in Congress. Ryan Nobles traveled to Ohio to see how they’re changing the landscape CITIZEN: They don't care… RYAN NOBLES: At this town meeting in a Trump stronghold near Cincinnati, the message for politicians was clear. CITIZEN: I retired out here. Now, all of a sudden, I may not be able to get back what I put into my home. Who wants to live next to a data center? Nobody. NOBLES: Nobody knows it better than Angel Shelton. Here in rural southwest Ohio, she says there is one thing that will determine her vote in the Senate race between Democrat Sherrod Brown and Republican Jon Husted. You voted for President Trump. You voted for Republicans in the past. ANGEL SHELTON: Yes I did. NOBLES: John Husted is on the ballot. Is that- does this issue take that into account, how you're going to vote? SHELTON: Absolutely. And he's not getting our vote. NOBLES: That one issue: data centers. Earlier this year, Angel learned an Amazon data center was being planned here right down the road from her hay farm. SHELTON: It absolutely kills our dreams. NOBLES: Now she worries about its impact to her property and quiet way of life. SHELTON: Who do I blame? I blame Jon Husted, President Trump, along with our local commissioners. They don't care about other people's lives. NOBLES: Data center campuses like these that are popping up all over Ohio have become a very big political issue. But it's way more complicated than just Republican or Democrat. SHERROD BROWN: Jon Husted led the charge to bring these data centers to our state. NOBLES: Democrat and former Ohio senator Sherrod Brown is hammering Husted for past support of data centers, tapping into voter anger. BROWN: They've seen what Jon Husted has done- more than let them down. He's been the lead guy on this. NOBLES: And in a state President Trump won three times, Brown is leading the race in several recent polls. A leaked memo obtained by NBC News in August from the National Republican Senatorial Committee claimed that “data centers are the anchor hanging around Husted's neck.” Do you regret at all the effort that you made when you did encourage them to come to the state and your other roles that you had in Ohio? JON HUSTED: Local- local citizens and communities make those decisions, not me. Local decisions decide whether they want data centers in their community, not me. JODI WILSON: I'm very patriotic. I put my two big flags right here. NOBLES: Voters like Jodi Wilson used to make up the MAGA Republican faithful. But now, she says the politicians don't get it. WILSON: We're frustrated. We're angry. Why would our public officials that we voted in keep this behind our backs? Some of them probably will not be reelected- reelected in. NOBLES: At 68, she's become an activist to petition against data centers. A three-time Trump voter, she says she can't bring herself to vote for Husted in November. Do you think the people in office realize what's about to hit them in November? WILSON: No.NOBLES: It could be a wake-up call. WILSON: I hope it is.NOBLES: Ryan Nobles, NBC News, Williamsburg, Ohio. Jorge Bonilla Wed, 10/07/2026 - 23:10 Marketing Timing Regular Search Engine Title Nets Vary Their Approaches But Push Midterm DOOM Just the Same CNS Commentary Off Media Images Image Screenshot via ABC/Snapstream",
-          "sourceName": "Newsbusters",
-          "url": "https://www.newsbusters.org/blogs/nb/jorge-bonilla/2026/10/07/nets-vary-their-approaches-push-midterm-doom-just-same",
-          "publishedAt": "2026-10-08T03:10:07.000Z",
-          "sentiment": -1
+          "id": "de8fb19e37c19cdbdba0ef10624260e6f20c96ad5e991915298376895896fe10",
+          "title": "5 Key Moments From a Testy Maine Senate Debate",
+          "description": "The second debate between Senator Susan Collins, a vulnerable Republican, and Troy Jackson, her Democratic challenger, quickly grew heated.",
+          "sourceName": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/08/us/maine-senate-debate-key-moments.html",
+          "publishedAt": "2026-10-09T02:38:21.000Z",
+          "sentiment": 0
         },
         {
-          "id": "01df45ac96580f46db77e588fd9f4c7c8f521c18618e129631dbe15c3316b238",
-          "title": "Trump pokes fun at himself about his hair",
-          "description": "President Trump took a moment to joke with the crowd about his hair during a rally in San Antonio, Texas.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/trump-pokes-fun-at-himself-about-his-hair-88571504",
-          "publishedAt": "2026-10-08T01:35:00.000Z",
-          "sentiment": -1
+          "id": "4aae9a27e7e46b345b5b4cc4d20b11fd4f6cbbdb726ada5b9c9218b63ebeb4ed",
+          "title": "5 Key Moments From a Testy Maine Senate Debate: ‘You Owe Me an Apology’ - The New York Times",
+          "description": "5 Key Moments From a Testy Maine Senate Debate: ‘You Owe Me an Apology’ The New York Times ‘We can’t eat road salt’: Jackson rips Sen. Collins in first Maine Senate debate CNN In Maine Senate debate, Collins says she's \"not exactly\" Trump's \"favorite senator\" CBS News How to watch the Maine's Total Coverage Senate debate between Sen. Susan Collins and Troy Jackson WMTW Susan Collins has put too many lives at risk | Opinion Portland Press Herald - Maine Sunday Telegram",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3MWtXcEZTYWJibC1sZGJicFMzYUpna2Q0czFwZlo3cm1wRGFmdVR2bjRwLVhsWFBxdVg3OVpvM19RNGFmRFEzODlyODdiSTFpc0F3XzlSNkkzZjBUeEROM3lhWmlZNFMwWVpiT3BxeENmNHM3c0NYajBoTldMdFk?oc=5",
+          "publishedAt": "2026-10-09T02:38:21.000Z",
+          "sentiment": 0
         },
         {
-          "id": "93cabf3b955c6965b41781ccc784c706334032943187498d74466b3c85edf4b8",
-          "title": "Trump floats firing top political advisers after New York Times report",
-          "description": "President Donald Trump floated firing two of his top political advisers after a New York Times report revealed they traveled to the Balkans last week for paid work on behalf of a pro-Russian government. CNN’s Kristen Holmes reports.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/trump-floats-firing-top-political-advisers-after-new-york-88571501",
-          "publishedAt": "2026-10-08T01:35:00.000Z",
-          "sentiment": -1
+          "id": "f01f3f2ce652582c39f458d7d63ebe9e952b80949fed0e5a3b2412f5300decb9",
+          "title": "Collins vs. Jackson Debate Takeaways: Key Moments From Second Face-Off",
+          "description": "Republican Senator Susan Collins demanded an apology from Democratic challenger Troy Jackson during Thursday night's Senate debate after Jackson accused her of benefiting financially from the war in Iran, marking the sharpest exchange in a debate dominated by allegations of corruption, arguments…",
+          "sourceName": "Biztoc",
+          "url": "https://biztoc.com/x/67dfd5865b0424e3",
+          "publishedAt": "2026-10-09T02:37:12.000Z",
+          "sentiment": 0
         },
         {
-          "id": "94f8a3bccceed73e94cc8eca4c78bdc9ebf97b2a27f2b0083e266e4a0d09a6b6",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
-          "sourceName": "Batesville Daily Guard",
-          "url": "https://www.guardonline.com/news/national/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_774b68e7-49e3-553f-8c10-12a6a0fb6a50.html",
-          "publishedAt": "2026-10-08T01:01:36.000Z",
-          "sentiment": -1
+          "id": "7f20fb1a01757b890e6b4bac2f2476a632ebe58b5e0e54c5b3d377f2e01cbde1",
+          "title": "5 notable moments from Susan Collins and Troy Jackson’s second debate",
+          "description": null,
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/08/5-notable-moments-from-susan-collins-and-troy-jacksons-second-debate/",
+          "publishedAt": "2026-10-09T02:35:10.000Z",
+          "sentiment": 0
         },
         {
-          "id": "67c5e72f927f5297190161c0ac6b9baa55a99d496ecc52015537c7434faa8a56",
-          "title": "Letter: Troy Jackson would be a sorry replacement for Susan Collins",
+          "id": "0a60865b527d0602cd04f6c04069f416bffc293fbe6beb54db6fdfa80faaa1c9",
+          "title": "5 notable moments from Susan Collins and Troy Jackson’s second debate",
+          "description": null,
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/10/08/5-notable-moments-from-susan-collins-and-troy-jacksons-second-debate/",
+          "publishedAt": "2026-10-09T02:35:10.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e4cab82d70f6f14ad869b7bc28f6813dfd2ed85215055a474676e0d42f164218",
+          "title": "5 notable moments from Susan Collins and Troy Jackson’s second debate",
+          "description": null,
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/08/5-notable-moments-from-susan-collins-and-troy-jacksons-second-debate/",
+          "publishedAt": "2026-10-09T02:35:10.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "545bdbb538ee4d682f9f23e7d4bcff79e7ed777fb8c7efa21f4dfebcc65c9f90",
+          "title": "Troy Jackson, Running for Senate Against 'Greedy Corporations,' Says He 'Can't Help' That a PAC He Led Took Corporate Money",
+          "description": "Maine Democrat Troy Jackson, who is running for U.S. Senate as an opponent of \"greedy corporations,\" said he couldn't do anything to stop a PAC he led from taking tens of thousands of dollars from corporations. The post Troy Jackson, Running for Senate Against 'Greedy Corporations,' Says He 'Can't Help' That a PAC He Led Took Corporate Money appeared first on .",
+          "sourceName": "Freebeacon",
+          "url": "https://freebeacon.com/democrats/troy-jackson-running-for-senate-against-greedy-corporations-says-he-cant-help-that-a-pac-he-led-took-corporate-money/",
+          "publishedAt": "2026-10-09T02:30:15.000Z",
+          "sentiment": -0.6
+        },
+        {
+          "id": "c62b5aec75d78a83b5b1d34c0247652ee5cdecb784d99673568697c646b10927",
+          "title": "Collins vs. Jackson Debate Takeaways: Key Moments From Second Face-Off",
+          "description": "Susan Collins and Troy Jackson square off again in a debate for the Maine Senate seat.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/maine-collins-jackson-debate-12543799",
+          "publishedAt": "2026-10-09T02:28:25.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "dd2073c55a384c6bf461e36ab83168d3a1a528f031d72ae8b983ea83204c2053",
+          "title": "Second Maine Senate debate takes testy turn: 3 takeaways",
+          "description": "Republican Sen. Susan Collins and Democrat Troy Jackson squared off Thursday in the second Maine Senate debate of the week, sparring over the Iran war and high prices as their battleground race barrels toward Election Day. The hourlong debate, hosted by WMTW, turned testy at times as the rivals defended their records and re-upped many…",
+          "sourceName": "The Hill",
+          "url": "https://thehill.com/homenews/campaign/6138012-second-maine-senate-debate-collins-jackson-takeaways/",
+          "publishedAt": "2026-10-09T02:17:40.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4bc0aa8db9f3a4583eafe5a50ca96e175d1823e44657f306bfe6b5513bd52e2a",
+          "title": "Second Maine Senate debate takes testy turn: 3 takeaways - The Hill",
+          "description": "Second Maine Senate debate takes testy turn: 3 takeaways The Hill 5 Key Moments From a Testy Maine Senate Debate: ‘You Owe Me an Apology’ The New York Times ‘We can’t eat road salt’: Jackson rips Sen. Collins in first Maine Senate debate CNN How to watch the Maine's Total Coverage Senate debate between Sen. Susan Collins and Troy Jackson WMTW Live fact-checking Susan Collins and Troy Jackson in second debate for U.S. Senate in Maine PolitiFact",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHJ0OXh0Q0ozeTB1eFBKalMzY1diR0lCZW96bDB0NlppYVU3SnV4RVpnVnZ3UUFQTnhXQlozTmlLOWNhRHQ5OHMwdFRCcjZCbkx3RFF4dWhmZmxSVjBDVjJCLWg2WjE3VWtubnp2d3hsSmpEQmg3U2puTFBQd1YwMzdoN3dQRnNsQS01VHRXSTJlYmVEUjFuVWRfRkJLRnAw0gGmAUFVX3lxTE05SnFJYV9Ydy1GNmZMZFo2akJ1Q0lTX2ZlbmhkOWgxMmZMUEh1T0NTaGlUWHV3QXVKZVk2enBCTVZXQ0cwOXhUM0tNTW52S2w3OUN1VVpRMUp5eGNpTzBOS0VXSkVrSlBMZE1YVzJoRXlCNTNJQnV0SV8yRjZmQ04wazI0Sml5U1NjZjZqM294RWhQREtiYzBvNVZRSmFSUnZ2ajdRMFE?oc=5",
+          "publishedAt": "2026-10-09T02:17:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b9bcdd627e7e8d46a525078bc1391f1947e7c60080d67e7ec43ce458af165019",
+          "title": "Three takeaways from the second - more substantive - Susan Collins and Troy Jackson Maine Senate debate",
+          "description": "Thursday night’s second debate did offer a chance for both candidates to make a little bit more clarity or headway. Indeed it might have just done that.",
+          "sourceName": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/08/nation/susan-collins-troy-jackson-maine-denate/",
+          "publishedAt": "2026-10-09T02:06:38.000Z",
+          "sentiment": 0.2
+        },
+        {
+          "id": "9177486c1b76df7763396dfaf24d3fb324486fcb9025f30c0699ecc531fbf1d9",
+          "title": "Collins, Jackson trade corruption barbs during Maine Senate debate",
+          "description": "Republican Sen. Susan Collins and Democratic challenger Troy Jackson accused each other of corruption during a heated debate Thursday in the Maine Senate race, one of the most closely watched midterm contests and one that could determine control of the upper chamber next year.",
+          "sourceName": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/oct/8/susan-collins-troy-jackson-maine-senate-debate-trade-corruption-barbs/",
+          "publishedAt": "2026-10-09T01:52:49.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "22b7484df8bbceff97d139efbb7442c2ddab6a2b1a7b68de22d86b124897b92b",
+          "title": "Susan Collins backs raising Social Security taxes on high earners in debate with Troy Jackson",
+          "description": "It was a rare moment of agreement in a debate that was arguably sharper than Tuesday’s opener, which centered on abortion and ethics.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/08/politics/elections/susan-collins-backs-raising-social-security-taxes-debate-troy-jackson/",
+          "publishedAt": "2026-10-09T01:31:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2ffeead8d8fd207111f6bf7917172a875df9ea51149b7a8ed0ab9384ef363195",
+          "title": "Outraged Susan Collins demands apology after rival Troy Jackson accuses her of ‘making money’ off Iran war during Maine Senate debate",
+          "description": "An outraged Sen. Susan Collins demanded an apology from Troy Jackson at the Maine Senate debate Thursday after the Democratic candidate accused her of profiting off the war in Iran. Jackson argued the incumbent isn’t using “her leverage to stop” the conflict in the Middle East because “Collins and her husband are making money off...",
+          "sourceName": "New York Post",
+          "url": "https://nypost.com/2026/10/08/us-news/susan-collins-demands-apology-after-troy-jackson-accuses-her-of-making-money-off-iran-war-during-maine-senate-debate/",
+          "publishedAt": "2026-10-09T01:21:08.000Z",
+          "sentiment": 0.1
+        },
+        {
+          "id": "048401e55f59bf758f70794710ee900176b0acc4682a43ad9593bbefd6a4d51f",
+          "title": "Troy Jackson reacts to Barack Obama endorsement for Maine Senate seat",
+          "description": "Democratic Senate candidate Troy Jackson addressed former President Barack Obama’s endorsement of his campaign after a tour of the Augusta Food Pantry this morning.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/10/09/troy-jackson-reacts-barack-obama-endorsement-maine-senate-seat/",
+          "publishedAt": "2026-10-09T00:59:02.000Z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "23dde14c4e5ed8951eb55c6ad298c6417200db31996d5894068e48c1c564f979",
+          "title": "Pentagon Says Firing Squad Execution Of Fort Hood Shooter Will Be Livestreamed",
+          "description": "Hegseth, speaking to the conservative TV outlet Real America’s Voice News on Wednesday, said Hasan's execution will take place at Fort Hood on Dec. 3.",
+          "sourceName": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/world/pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed-1994302",
+          "publishedAt": "2026-10-09T00:43:34.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "09662f76483c0fb102fc9f5cc66600f5a7326c24c411aeb23827532338105ac5",
+          "title": "The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+          "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed. Hasan was convicted of killing 13 people and wounding 32 others in a shooting at the military base in 2009. Meanwhile, attorneys for…",
+          "sourceName": "Yakima Herald-republic",
+          "url": "https://www.yakimaherald.com/news/nation_and_world/nation/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_a2f8cf4a-3996-58d5-9e67-0e8b5b7f6dda.html",
+          "publishedAt": "2026-10-09T00:11:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "621203f5f1089dcbd61f368285c11a6d3b3810303afa95a3596a51bfb933ef1f",
+          "title": "The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+          "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed. Hasan was convicted of killing 13 people and wounding 32 others in a shooting at the military base in 2009. Meanwhile, attorneys for…",
+          "sourceName": "Dailyadvance",
+          "url": "https://www.dailyadvance.com/news/national/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_9cd79451-d311-5e29-8063-f0e58152b29b.html",
+          "publishedAt": "2026-10-09T00:11:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "eebab0a6adccdb46a8c12332eb07aa44cf9d6696edb9d5f71aad234cee7eb1f3",
+          "title": "The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+          "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed. Hasan was convicted of killing 13 people and wounding 32 others in a shooting at the military base in 2009. Meanwhile, attorneys for…",
+          "sourceName": "Times Argus",
+          "url": "https://www.timesargus.com/news/national/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_13060a78-3137-5502-a3f8-dd66bb8598c3.html",
+          "publishedAt": "2026-10-09T00:11:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "000e0b233d96f74177c2a8272e0cb32ce7821ab9909f52a28f8fe61e945bfcf6",
+          "title": "The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+          "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed. Hasan was convicted of killing 13 people and wounding 32 others in a shooting at the military base in 2009. Meanwhile, attorneys for…",
+          "sourceName": "Rutland Herald",
+          "url": "https://www.rutlandherald.com/ap/national/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_dae0a4c0-d71d-5d2a-a20a-ba070bad5138.html",
+          "publishedAt": "2026-10-09T00:11:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "442c9e91eab863a4a04f6a5b7fbafc9326dfe4c4f4d2601a5ee97bc6b5260330",
+          "title": "The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+          "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed. Hasan was convicted of killing 13 people and wounding 32 others in a shooting at the military base in 2009. Meanwhile, attorneys for…",
+          "sourceName": "Hastingstribune",
+          "url": "https://www.hastingstribune.com/ap/agriculture/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_226da697-1b2d-5962-9ce1-0ff1c8316ab2.html",
+          "publishedAt": "2026-10-09T00:11:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "18316a74a8459ddfe19b71d3a4f0ffc34da32cfc28dff8826edf50eac4b66942",
+          "title": "The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+          "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed. Hasan was convicted of killing 13 people and wounding 32 others in a shooting at the military base in 2009. Meanwhile, attorneys for…",
+          "sourceName": "Dailysentinel",
+          "url": "https://www.dailysentinel.com/anpa/us/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_f4a31b5b-bcfe-5e16-9729-4bfbb773bc0d.html",
+          "publishedAt": "2026-10-09T00:11:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "054c35eaec54ade024586bfefc4d071d93368ea21def8aff77bc815f6e8a7dc8",
+          "title": "The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+          "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed. Hasan was convicted of killing 13 people and wounding 32 others in a shooting at the military base in 2009. Meanwhile, attorneys for…",
+          "sourceName": "Chronicle Online",
+          "url": "https://www.chronicleonline.com/news/national/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_eea89fbf-c643-54ea-95c3-31386c634a84.html",
+          "publishedAt": "2026-10-09T00:11:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d5946527dc805ea3dd3e131d1333def3551bae70317d6dc36d552560effbaeb7",
+          "title": "‘Con man’ and ‘cowardly’: Personal insults fly in heated Michigan, Georgia Senate debates",
+          "description": "By Eric Bradner, Steve Contorno, Patrick Svitek, CNN (CNN) — It didn’t take long for the personal attacks to fly in Thursday night’s debates for two marquee Senate races in Georgia and Michigan. Georgia Sen. Jon Ossoff opened by effectively putting Republican Rep. Mike Collins’ record on trial, highlighting his association with a white nationalist and The post ‘Con man’ and ‘cowardly’: Personal insults fly in heated Michigan, Georgia Senate debates appeared first on KVIA.",
+          "sourceName": "Kvia",
+          "url": "https://kvia.com/politics/cnn-us-politics/2026/10/08/con-man-and-cowardly-personal-insults-fly-in-heated-michigan-georgia-senate-debates/",
+          "publishedAt": "2026-10-09T00:07:51.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6b73413480b1bf50ceeabce5a198512a7a00eb8fb073388af727546f2a5e9253",
+          "title": "Maine Debate: Susan Collins Demands Troy Jackson Apologize for Claim She Is Profiting from Iran War",
           "description": null,
           "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4932290690937-letter-troy-jackson-would-be-a-sorry-replacement-for-susan-collins",
-          "publishedAt": "2026-10-08T00:00:00.000Z",
+          "url": "https://www.newsbreak.com/news/4934543575577-maine-debate-susan-collins-demands-troy-jackson-apologize-for-claim-she-is-profiting-from-iran-war",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
           "sentiment": -1
         },
         {
-          "id": "4aae2dedde54a310f9977a2cefa692750489bf09b13fb92c3fd998f6dc684132",
-          "title": "Susan Collins' disastrous debate gaffe revealed she was 'in on the lie': ex-GOP operative",
-          "description": "Sen. Susan Collins (R-ME) insists Brett Kavanaugh never lied to her about Roe v. Wade, and an ex-GOP strategist thinks he knows why. Former Republican strategist Steve Schmidt seized on the exchange in a Wednesday episode of \"The Warning,\" a day after Collins faced Democratic challenger Troy Jackson in a debate . The moderator asked Collins whether Kavanaugh, who called Roe \"settled law\" before his confirmation vote, had lied to her. \"I do not feel that he lied, but I think that he should not have said it was settled law because to me that meant that it would not be overturned,\" Collins answered. \"But to be fair, you cannot ask a nominee how he might vote on some hypothetical future case.\" Schmidt said that was the rare moment Collins told the truth. \"And that, for once, from the hand-wringing, letter-writing Susan Collins, is the truth,\" Schmidt said. \"Because she was in on the lie.\" He argued Collins and Kavanaugh \"had the same fundamental position\" and that the senator's \"entire public legacy\" now rests on ending a right American women would still have if she had lost a race in time. Schmidt contrasted Collins with Margaret Chase Smith, the Maine Republican senator remembered for standing on principle during a dangerous era. Collins, he said, is the \"complete opposite.\" \"She's a kneeling MAGA sycophant who appeased a fascist for power, who sold out her people, her state, her country, and betrayed her oath, and is addicted to her Senate seat like a junkie in the street,\" Schmidt said. He also mocked Collins for touting her success in getting \"concrete, pulp, and road salt removed from the tariff list,\" summing up her pitch as \"let them eat rock salt.\" Jackson made the same point onstage, telling voters, \"We can't eat road salt.\" Jackson also compared Collins to \"an arsonist who helped set the fire, and then she wants credit for bringing a cup of water to put it out,\" noting she votes with President Donald Trump 96 percent of the time. \"It doesn't matter if she stands with him in public,\" Schmidt said. \"She stands with him in the back room, and everybody knows it.\" He added, \"Mainers, vote her out.\"",
-          "sourceName": "Raw Story",
-          "url": "https://www.rawstory.com/susan-collins-2678052832/",
-          "publishedAt": "2026-10-07T23:53:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6947d59b6b566c6edaeb5e41650578c8263b4ed2a336046a5d87f911a81faec3",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
-          "sourceName": "Dailysentinel",
-          "url": "https://www.dailysentinel.com/anpa/us/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_3238da6d-f299-5fca-8dc3-469353a4b0b6.html",
-          "publishedAt": "2026-10-07T23:23:33.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "ecde27bd128b4730b37b0af25327d0edcde976b98faa40748e3a7795e15138ad",
-          "title": "Planned Parenthood Will Spend $1 Million, Helping Abdul El-Sayed",
-          "description": "Planned Parenthood Votes will spend another $1 million on digital ads attacking Republican Senate candidates in Maine and Michigan, an outlay that boosts radical pro-abortion Democrat Abdul El-Sayed in the race to replace retiring Sen. Gary Peters. The super PAC affiliated with Planned Parenthood said the new buy targets Sen. Susan Collins of Maine and pro-life former Rep. Mike Rogers of Michigan. In Michigan, Rogers faces El-Sayed, a former Wayne County health official. In Maine, Collins is seeking a sixth term against former state Senate President Troy Jackson. The $1 million comes on top of $800,000 already spent on ads...",
-          "sourceName": "Freerepublic",
-          "url": "https://freerepublic.com/focus/f-news/4398332/posts",
-          "publishedAt": "2026-10-07T23:05:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "382151ba5855be350013fb2e9fb5a6a0d364de598e59db02ff360d69817ef74f",
-          "title": "Susan Collins' debate blunder baffles MS NOW's Nicolle Wallace: 'Ripe for SNL mockery'",
-          "description": "Sen. Susan Collins (R-ME) walked into a trap at her Senate debate with Democratic challenger Troy Jackson on Tuesday, bragging about how she got road salt exempted from President Donald Trump's tariffs on Canada, only for Jackson to point out that she's just chipping around the edges at a policy broadly hurting Maine and that \"we can't eat road salt.\" The moment left MS NOW's Nicolle Wallace astounded — and she was quick to analyze it alongside correspondent John Heilemann. \"I was a staffer, and so I'm sure a staffer was involved,\" said Wallace, noting that congressional staffers have had a bad couple of weeks with the Eric Schmitt incident . \"This is a staffer who was told to go find something that Susan Collins was helpful with. And so someone said, I got one, I got one. They ... went to AI [and asked] 'Is there anything that we've made cheaper?' And they found one. They found road salt.\" This was obviously going to backfire, said Wallace: \"This is ripe for an SNL mockery. People are struggling to put gas in their car. Truckers are struggling to put diesel in their car. People are struggling to buy groceries. They were already more expensive in Maine. And you're going to tell people the road salt is cheaper. What?\" Heilemann agreed, calling it basic campaign malpractice. \"She slipped ... in terms of her political instincts,\" he said. Nor was it her only slip, said Heilemann, who noted that the defense of her vote to confirm Supreme Court Justice Brett Kavanaugh was also weak. Despite all of this, he noted, the race remains highly close, at a moment when Democrats are polling better in red states like Alaska and Ohio. \"It's closer than it would be, I think, if Troy Jackson had been the nominee throughout, if he had run in the primary,\" rather than replace scandal-plagued Graham Platner, he said. \"He's the Kamala Harris of this race. He had to come in late.\" - YouTube www.youtube.com",
-          "sourceName": "Raw Story",
-          "url": "https://www.rawstory.com/nicolle-wallace-susan-collins/",
-          "publishedAt": "2026-10-07T22:58:23.000Z",
+          "id": "86254040ed5fe90093dd57b3a448bd11c6811e812b8aebe1ae099bf1f54cafef",
+          "title": "Troy Jackson reacts to Barack Obama endorsement for Maine Senate seat",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4934225803842-troy-jackson-reacts-to-barack-obama-endorsement-for-maine-senate-seat",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
           "sentiment": 1
         },
         {
-          "id": "de7b2c035b93e44f2f43e754fce7f9656a59f7523314d461cb943906b5240279",
-          "title": "Susan Collins Couldn't Answer One Simple Question About Trump",
-          "description": "Will Saletan breaks down the Maine Senate debate between Republican incumbent Susan Collins and Democratic challenger Troy Jackson, and why Collins is struggling to separate herself from Donald Trump in a state where the president remains deeply unpopular.",
-          "sourceName": "Thebulwark",
-          "url": "https://www.thebulwark.com/p/susan-collins-couldnt-answer-one",
-          "publishedAt": "2026-10-07T22:51:39.000Z",
+          "id": "bcc8aa5cdf2c9cb229a9d3f973a317461e9d2499ff1655a5255bb9037fcb0704",
+          "title": "US midterms: key takeaways from Senate debates in Michigan, Georgia and Maine",
+          "description": "Candidates traded personal attacks, sparred over affordability, the economy and abortion win three closely watched US Senate debates on Thursday",
+          "sourceName": "Inkl",
+          "url": "https://www.inkl.com/news/us-midterms-key-takeaways-from-senate-debates-in-michigan-georgia-and-maine",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "614ad51be9f68cde6a03f7e119f186d7cb25338e653440df06be349cd25bec60",
+          "title": "Susan Collins backs raising Social Security taxes on high earners in debate with Troy Jackson",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4934259895353-susan-collins-backs-raising-social-security-taxes-on-high-earners-in-debate-with-troy-jackson",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "bca53cbe92b1b7aae4645936d2737b8717a32e8b1ace8fdfe12ee33d0058c53b",
+          "title": "Maine Debate — Troy Jackson Vows to Defund ICE: ‘Unreformable’",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4934420086570-maine-debate-troy-jackson-vows-to-defund-ice-unreformable",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2cab2e438bfab1757596e84bcddf9eae7ca8090da733880e0bda67f37069c2de",
+          "title": "Fact-checking Maine debate between Susan Collins, Troy Jackson on Roe v. Wade, electric rates, Iran",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4934492060956-fact-checking-maine-debate-between-susan-collins-troy-jackson-on-roe-v-wade-electric-rates-iran",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6462267f14bd5a3767750eb8612019a35fa48714aae1b5cec2e53275326fd13b",
+          "title": "Letter: Troy Jackson offers a welcome contrast to Susan Collins",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4934523879546-letter-troy-jackson-offers-a-welcome-contrast-to-susan-collins",
+          "publishedAt": "2026-10-09T00:00:00.000Z",
           "sentiment": 1
         },
         {
-          "id": "31b3fb832e9cecf40c32567007d22ed17f73a675003794316f6537d537fdc3c4",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
+          "id": "1a02592deec3170a9a30b5301d912a9bc1ef8822eedf39b6e0781b5e124a6b43",
+          "title": "Live updates: Susan Collins and Troy Jackson square off on WMTW",
+          "description": "The 8 p.m. debate hosted by WMTW will be their second of four.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/08/politics/elections/live-updates-susan-collins-troy-jackson-debate/",
+          "publishedAt": "2026-10-08T23:46:21.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3646def77363f2074dba94b560f61e5efc783f517479cdeb6cd4a5c3b8e661c6",
+          "title": "Collins, Jackson set to debate Thursday night",
+          "description": "Sen. Susan Collins, R-Maine, and Democratic candidate Troy Jackson will take the stage for their second televised debate.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/10/08/collins-jackson-set-debate-thursday-night/",
+          "publishedAt": "2026-10-08T23:19:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5d4f2579e3c55f55dfaf28a820c9178a57b6a5dcf155382cb658b93221dc8b70",
+          "title": "Spiking Heating Oil Costs Put Susan Collins On Defensive",
+          "description": "“As the Senate race in Maine heats up, the state is getting cold,” the New York Times reports. “And for many Maine voters, chilly weather could present a particular challenge this year: New England’s northernmost state is singularly reliant on heating oil, and the price of the product is surging because of President Trump’s war […]",
+          "sourceName": "Political Wire",
+          "url": "https://politicalwire.com/2026/10/08/spiking-heating-oil-costs-put-susan-collins-on-defensive/",
+          "publishedAt": "2026-10-08T23:04:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8ebd88b2e3f023574c5987af4c4bbea57723bc43dd19843f14b358c9619b9c28",
+          "title": "Live fact-checking Susan Collins and Troy Jackson in second debate for U.S. Senate in Maine - PolitiFact",
+          "description": "Live fact-checking Susan Collins and Troy Jackson in second debate for U.S. Senate in Maine PolitiFact 5 Key Moments From a Testy Maine Senate Debate: ‘You Owe Me an Apology’ The New York Times How to watch the Maine's Total Coverage Senate debate between Sen. Susan Collins and Troy Jackson WMTW ‘We can’t eat road salt’: Jackson rips Sen. Collins in first Maine Senate debate CNN U.S. Senate candidates, Maine voters debate mandating voter ID at the polls WGME",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnM4RzRkaVdEbE5KT1c2dS1BYlNKVS1KeWozdEV5SEwyWllPdElJNDFZWXU1amVlX2VPc1FJRVVoYzRlVVBXUlZ3YUNwRXlzcVlzd3JTc1IwRk5sOEhOY0daYThyU3BiYjFsNjc3RzhlV19BbUx4UFhGZW9FaTgyTE1kUGt5VlltNGVDbkhxSkp2Zw?oc=5",
+          "publishedAt": "2026-10-08T23:00:08.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "933fa352296beede46118c113a17fd233312d385b841c7abc4dccf503de2ae25",
+          "title": "The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+          "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed. Hasan was convicted of killing 13 people and wounding 32 others in a shooting at the military base in 2009. Meanwhile, attorneys for…",
           "sourceName": "Cadillacnews",
-          "url": "https://www.cadillacnews.com/ap/national/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_676b09d7-5f7c-52fb-88b9-6726f62f745a.html",
-          "publishedAt": "2026-10-07T22:47:36.000Z",
+          "url": "https://www.cadillacnews.com/ap/national/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_b2b2ca97-99a3-5607-acff-64094bc3e272.html",
+          "publishedAt": "2026-10-08T22:42:54.000Z",
           "sentiment": 0
         },
         {
-          "id": "5d6ac93628969460e0dbdcea09ff69ffea907595ccf23e8e0955762639d08241",
-          "title": "Republicans Are Moving Big Money to Red States and Abandoning North Carolina",
-          "description": "Top leaders scramble to protect incumbents who are facing increasingly competitive races.",
-          "sourceName": "The Washington Sun",
-          "url": "https://www.washingtonsun.com/campaigns/republicans-shift-money-red-states-midterms",
-          "publishedAt": "2026-10-07T22:29:07.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "e5e1fe6983930872641b93ca604b04e0d43cb8a5bf311fa3734a35ad3f069d58",
-          "title": "There’s No Debate in Many Virginia Races This Year",
-          "description": "In the highly contested Senate race in Maine, Republican Sen. Susan Collins and her Democrat opponent Troy Jackson plan to go head-to-head in four debates. Unfortunately, voters in Virginia won’t have the luxury of getting many chances to hear from congressional candidates. In fact, in many races, there will be no debate at all this...",
-          "sourceName": "The Daily Signal",
-          "url": "https://www.dailysignal.com/2026/10/07/fewer-debates-in-virginia/",
-          "publishedAt": "2026-10-07T22:21:00.000Z",
+          "id": "d1de64e71c9701e347aef2a4afd35a1cf7a999f6f3eedbb65060c53f6b6c58b9",
+          "title": "The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+          "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed. Hasan was convicted of killing 13 people and wounding 32 others in a shooting at the military base in 2009. Meanwhile, attorneys for…",
+          "sourceName": "Nvdaily",
+          "url": "https://www.nvdaily.com/associated_press_national/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_5db29380-5a56-5007-9b0d-38ae8df73000.html",
+          "publishedAt": "2026-10-08T22:42:54.000Z",
           "sentiment": 0
         },
         {
-          "id": "a9da3e0d70c829c2b4c5e7a7392afb7bb6a858a091be026970d5372a6475a9cc",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
-          "sourceName": "Times Argus",
-          "url": "https://www.timesargus.com/news/national/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_89d57267-ce62-5858-ab62-e032db1e49d1.html",
-          "publishedAt": "2026-10-07T22:17:20.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "a6dee5592e4cb83240e7720378ca9fec3666ca2b0fee1dc5cfa6f288662ac392",
-          "title": "Troy Jackson got his viral moment in Tuesday's debate. Will it move the needle?",
-          "description": "Jackson quipped that Maine residents “can’t eat road salt\" in response to Collins touting her efforts to get items removed from the list of tariffed items.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4758298/troy-jackson-got-his-viral-moment-in-tuesdays-debate-will-it-move-the-needle/",
-          "publishedAt": "2026-10-07T22:01:33.000Z",
+          "id": "f01fe8add02d0d95873e22beac67d9fbdfeac3aa4b410422bb237d766046b56c",
+          "title": "Obama endorses Troy Jackson in Maine Senate race",
+          "description": "Former President Barack Obama is lending his support to boost donations and turnout ahead of the midterms, headlining a fundraiser and making multiple endorsements, including Troy Jackson in Maine's Senate race. Republican strategist Mark Bednar and UnidosUS' Clarissa Martínez De Castro join to discuss the state of the November elections.",
+          "sourceName": "Cbs News",
+          "url": "https://www.cbsnews.com/video/obama-endorses-troy-jackson-maine-senate-race/",
+          "publishedAt": "2026-10-08T22:25:36.000Z",
           "sentiment": 1
         },
         {
-          "id": "8600bb17028cdc79904cb0364cdaa16945ac6763ff5864c6564f80e9aa00328b",
-          "title": "Susan Collins and Troy Jackson clash in Maine Senate debate",
-          "description": "Republican Sen. Susan Collins and Maine Democratic Senate candidate Troy Jackson faced off in a debate on Tuesday night. Alex Seitz-Wald, deputy editor of Maine's Midcoast Villager, joins \"The Takeout\" to discuss.",
-          "sourceName": "Cbs News",
-          "url": "https://www.cbsnews.com/video/susan-collins-troy-jackson-clash-maine-senate-debate/",
-          "publishedAt": "2026-10-07T21:56:52.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e6c6aa6576dfb625ad853289d8bd97e15134c5a0501d06622f1c82898b83ed24",
-          "title": "Troy Jackson details personal finances in new disclosure",
-          "description": "The Democratic Senate candidate was paid a total of more than $130,000 this year and last by union organizations based in Maryland.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/10/07/troy-jackson-details-personal-finances-in-new-disclosure/",
-          "publishedAt": "2026-10-07T21:56:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "77c47d759509bdbcd07dda2353d46a1eee3893187e248cc8751877a47b5b42a6",
-          "title": "Troy Jackson details personal finances in new disclosure",
-          "description": "The Democratic Senate candidate was paid a total of more than $130,000 this year and last by union organizations based in Maryland.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/10/07/troy-jackson-details-personal-finances-in-new-disclosure/",
-          "publishedAt": "2026-10-07T21:56:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cdcccf3261f935f1b317a4f3d112cca20c3db772696e0e4b24949cf40d3bee36",
-          "title": "Troy Jackson details personal finances in new disclosure",
-          "description": "The Democratic Senate candidate was paid a total of more than $130,000 for consulting work this year and last by union organizations based in Maryland.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/10/07/troy-jackson-details-personal-finances-in-new-disclosure/",
-          "publishedAt": "2026-10-07T21:56:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cd83ecae06826337d6fd7572d4cc91cf152f70e614e7f3b70d81763d0fb09cd2",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
-          "sourceName": "Yakima Herald-republic",
-          "url": "https://www.yakimaherald.com/news/nation_and_world/nation/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_28f8b4fc-d892-5cda-b186-78fa10a5614e.html",
-          "publishedAt": "2026-10-07T21:50:39.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "21131bb0e1ea96f128f8ddc968462de3ef9387ed9f1896e223f7b13bfe56b0f1",
-          "title": "Susan Collins and Troy Jackson clash in Maine Senate debate (Video)",
-          "description": "Republican Sen. Susan Collins and Maine Democratic Senate candidate Troy Jackson faced off in a debate on Tuesday night. Alex Seitz-Wald, deputy editor of Maine's Midcoast Villager, joins \"The Takeout\" to discuss. CBS News 24/7... The post Susan Collins and Troy Jackson clash in Maine Senate debate (Video) appeared first on Social News XYZ .",
+          "id": "9a7ef58ca6d41a76b4722b8f60a838d5dc07e0e6b4055b74d5a9d478ce6fddd7",
+          "title": "Obama endorses Troy Jackson in Maine Senate race (Video)",
+          "description": "Former President Barack Obama is lending his support to boost donations and turnout ahead of the midterms, headlining a fundraiser and making multiple endorsements, including Troy Jackson in Maine's Senate race. Republican strategist Mark Bednar... The post Obama endorses Troy Jackson in Maine Senate race (Video) appeared first on Social News XYZ.",
           "sourceName": "Social News Xyz",
-          "url": "https://www.socialnews.xyz/2026/10/07/susan-collins-and-troy-jackson-clash-in-maine-senate-debate-video/",
-          "publishedAt": "2026-10-07T21:47:39.000Z",
-          "sentiment": 0
+          "url": "https://www.socialnews.xyz/2026/10/08/obama-endorses-troy-jackson-in-maine-senate-race-video/",
+          "publishedAt": "2026-10-08T22:22:30.000Z",
+          "sentiment": 1
         },
         {
-          "id": "d59b83dd3d4e7ec4361e1c164e1693baa8fc78c578e7d6a558d9e36faa925ddf",
-          "title": "'Troy Doesn't Know Ball': Social Media Reacts to Maine Senate Debate",
-          "description": "During Maine’s Senate debate between Republican Susan Collins and Democrat Troy Jackson on Tuesday, Collins put on a masterclass of...",
-          "sourceName": "Townhall",
-          "url": "https://townhall.com/news/tayte-christensen/2026/10/07/troy-doesnt-know-ball-social-media-reacts-to-maine-senate-debate-n2684309",
-          "publishedAt": "2026-10-07T21:20:54.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "5af824796bc8b69c997b3ecf2c9e5fdb022c9b3b8eaabdf3a13af0cf7a8a1526",
-          "title": "Trump’s Texas two-step: From the Politics Desk",
-          "description": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/politics/politics-news/trumps-texas-two-step-politics-desk-rcna602127",
-          "publishedAt": "2026-10-07T21:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c846913bb088f1f17decc0ee067ca9cf77ca21f16069a56e3ce8cabb9ed6c287",
-          "title": "Daily Audio Newscast Afternoon Update - October 7, 2026",
-          "description": "Daily Audio Newscast Afternoon Update - October 7, 2026 mps-post Wed, 10/07/2026 - 14:59 Image (Public News Service) News from around the nation. Audio file Collins and Jackson face off in Maine’s first Senate debate, the Trump administration's immigration policies are linked to increased psychological harm in US children, and drought conditions and rising fuel costs could impact Mississippi's waterfowl hunting season. Transcript The Public News Service Wednesday afternoon update. I'm Mike Clifford. It was the first debate ahead of midterms in the pivotal state of Maine. On Tuesday night, the longtime incumbent Susan Collins clashed with her Democratic challenger, Troy Jackson. The New York Times notes Jackson repeatedly attacked Collins over her vote to confirm Justice Brett Kavanaugh, who voted to overturn Roe v. Wade. Jackson accused her of not pushing back strongly enough against Trump's agenda. He said, would you trust her to select the next Supreme Court justice? Collins defended her record, saying, I have been the most outspoken opponent of tariffs with Canada. Canada is not China. It is our neighbor, our friend, our closest ally, and our biggest trading partner. Collins added, I've been working behind the scenes and was successful in getting concrete pulp and rolled salt removed from the tariff list. Meantime, groups that help immigrant families are speaking out against the Trump administration's policies, calling them a comprehensive assault on children's well-being. The Trump administration says it has deported more than 605,000 undocumented people since 2025. According to reporting from KFF Health News, data show that one in four American children lives with an immigrant parent and that more than 205,000 U.S.-born children have seen at least one parent detained by immigration authorities since President Trump returned to office. Norma Gomez with the Mixteco Indígena Community Organizing Project in Ventura County says many kids are living in fear. Kids are hurting because either they've lost their father or mother or both. I'm Suzanne Potter. Credit goes to Claudia Boyd-Barnett for original reporting on this story for KFF Health News. And conservationists in Mississippi say drought conditions, rising fuel costs, and fewer farmers planting rice in the state could have an impact on this year's waterfowl hunting season. During the winter months, farmers and landowners typically flood their harvested rice fields to attract migratory birds. The Mississippi Flyway is one of the busiest bird migration corridors in North America, Ryan Delaney with the Theodore Roosevelt Conservation Partnership says many rice farmers have filed for bankruptcy and rice production in the state has decreased from several hundred thousand acres to just around 100,000 acres. We have concerns that we would not be able to support as much waterfowl habitat this year and that would limit the amount of opportunities potentially for duck hunters to experience quality hunts. I'm Freda Ross reporting. Next to Florida on a farm in Hardy County where dead citrus trees are subjected to high heat and out comes biochar, a black charcoal-like substance that holds water and nutrients that can be worked back into the soil. Zach Farr is the president of Biotech Applied Research, the non-profit behind the project. For every acre of citrus trees, we're emitting about 11 tons of CO2 when we burn them. That CO2 does have carbon that we could use, so rather than burn the carbon, we can store that carbon. The live demonstration is for Volo Foundation's Florida Climate Week. This is Public News Service. A regulatory case in Minnesota is drawing a lot of attention. It's related to tribal sovereignty and the pursuit of clean energy. The Public Utilities Commission recently found that Minnesota Valley Cooperative Light and Power Association acted unlawfully by threatening to disconnect the Upper Sioux community over its behind-the-meter solar and battery project. Despite the outcome, Hudson Kingston, with the rule-focused group Cure, says a leftover issue is whether tribal governments have the right to switch utilities. He says the commission didn't make a call on that question. It's very unfortunate because utilities are risk-averse, and without that sort of clear certainty, there is ambiguity. He suggests that could make it harder for all of Minnesota's tribal governments wanting to pursue renewables and still partner with a receptive utility. Kingston also expects the PUC outcome to be challenged by the cooperative. I'm Mike Moen. And ICE agents arrested more than 400 people in Indiana last month. Many Hoosiers question if the agents will appear at polling sites in the state and across the country at the midterms. Speaking on an American community media panel recently, some voting rights activists representing Asian, indigenous, black, and Hispanic populations discussed President Donald Trump's hints of placing ICE agents and military personnel at voting locations near or in their neighborhoods. President and executive director of Asian Americans Advancing Justice John Yang says he does not want to minimize voters' uneasiness and says there are ways voters can respond if encountered by an ICE agent. One of the things that generally you can do is just simply ask, am I being detained? I am being stopped for some reason. And unless they give you a clear reason for being stopped, you can always ask, am I free to go? I'm Terry Dee reporting. Finally, Colorado voters get to decide whether the state constitution should be amended to prioritize hunting over all other wildlife management tools. Proponents of Amendment 83 on the November ballot say it would protect hunting rights, a practice integral to the state's heritage, cultural identity, and economy. Aubyn Royal, with the Humane World for Animals Colorado chapter, says she's especially alarmed by the measure's explicit protection of traditional methods. She says if passed, it would be much harder to restrict trophy hunting, bear baiting, trapping, or chasing wildlife with dogs. These practices do cause suffering to wildlife, and in some cases, Colorado voters have already outlawed these practices as unsupporting and unethical. A right to hunt should never become a constitutional shield for cruelty. Supporters maintain that the right to hunt and fish should not be subject to any future laws, ballot initiatives, or Wildlife Commission preferences. I'm Eric Galatas. This is Mike Clifford for Public News Service. Member and listener supported. Find our trust indicators at publicnewsservice.org. Audio Stories and Podcasts national Public News Service",
-          "sourceName": "Kiowa County Press",
-          "url": "https://kiowacountypress.net/content/daily-audio-newscast-afternoon-update-october-7-2026",
-          "publishedAt": "2026-10-07T20:59:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a2074083ff60ab1f1d6974f13d1da48d779154e3305b39d4de1d02eeaae4240e",
-          "title": "Jackson, Collins tangle on Canada tariffs: ‘We can’t eat road salt’",
-          "description": "Sen. Susan Collins (R-Maine) and Democrat Troy Jackson tangled over the Trump administration’s tariffs on Canada during the first debate of their battleground Senate race in Maine. Collins stressed her opposition to the tariffs on Canada, hailing America’s longtime ally as a vital trading partner for the state she’s represented for five terms in the…",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/homenews/campaign/6134910-collins-jackson-senate-debate/",
-          "publishedAt": "2026-10-07T20:36:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2ac5012a133944d4b80d38114c1080536567e1ff3eada3323f37237dd7b6102a",
-          "title": "Trump hits the trail as some GOP candidates strike a 'delicate balance' on his policies",
-          "description": "NBC News correspondents Monica Alba and Shaquille Brewster join Meet the Press NOW to report on President Trump's latest campaign trip to Texas as some Republicans lightly distance themselves from his tariffs and the war in Iran. NBC News senior national political reporter Matt Dixon discusses the latest campaign trends in Florida. KXAS reporter Phil Prazan breaks down the Texas Senate and gubernatorial races. Alex Seitz-Wald, editor of the Midcoast Villager, analyzes the Senate debate between S",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/meet-the-press/video/trump-hits-the-trail-as-some-gop-candidates-strike-a-delicate-balance-on-his-policies-271205445758",
-          "publishedAt": "2026-10-07T20:28:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ef912b671f7ece28841d1cf2019f208072e3f7ab0709d748d9e0338f897b9517",
-          "title": "Trump wants to turn Florida golf club into Camp David-style retreat",
-          "description": "President Donald Trump acknowledged that he is seeking to build a Camp David-style presidential retreat at his West Palm Beach golf club and said it would be for “all future presidents” to utilize.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/trump-wants-to-turn-florida-golf-club-into-camp-david-style-88565594",
-          "publishedAt": "2026-10-07T20:17:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1d98a63fd306f21676d5de8352c0f8b0bbfb9fc66944a3820d9351af20c46a1c",
-          "title": "Sales are down at Trump merch store | CNN Politics",
-          "description": "Business isn’t what it used to be at Trump Town USA. When CNN visited Trump Town USA in 2023, business was booming as Donald Trump campaigned to return to the White House. Nearly three years later, owner Whitey Taylor says sales have fallen dramatically. CNN’s Elle Reeve reports.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/sales-are-down-at-trump-merch-store-cnn-politics-88565587",
-          "publishedAt": "2026-10-07T20:17:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a61587eef7415cd1398b356df5b9162cd88159fc2f0b0eab01a9ea8166496f17",
-          "title": "Trump asked about Russia lab deaths",
-          "description": "President Donald Trump said Wednesday that the US does not believe that a Russian laboratory worker died from exposure to a bioweapon, adding that the Kremlin has since insisted the situation at an anti-plague institute is “under control.”",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/trump-asked-about-russia-lab-deaths-88565579",
-          "publishedAt": "2026-10-07T20:17:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0c3a91de1490e7a4d40901a0ac1ac62778cd9bfa513cd44958e111de324287cd",
-          "title": "Will the US-Canada trade war sway elections in border state battlegrounds? What Michigan voters said",
-          "description": "Will the U.S.-Canada trade war sway elections in border state battlegrounds? Michiganders had mixed views about President Donald Trump's approach, but told us that the trade war won't sway their vote.",
-          "sourceName": "Kcra",
-          "url": "https://www.kcra.com/article/us-canada-trade-war-midterms-michigan-voters/74067657",
-          "publishedAt": "2026-10-07T19:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "77e89b8069769383b9052dc9fa4f3dcec9798109477503aab15319e4627aae4d",
-          "title": "Will the US-Canada trade war sway elections in border state battlegrounds? What Michigan voters said",
-          "description": "Will the U.S.-Canada trade war sway elections in border state battlegrounds? Michiganders had mixed views about President Donald Trump's approach, but told us that the trade war won't sway their vote.",
-          "sourceName": "Wcvb",
-          "url": "https://www.wcvb.com/article/us-canada-trade-war-midterms-michigan-voters/74067657",
-          "publishedAt": "2026-10-07T19:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "87b47731ad40602e93bfdad98415d6299103b786e8406d2e3514fe419fa9d6a3",
-          "title": "Will the US-Canada trade war sway elections in border state battlegrounds? What Michigan voters said",
-          "description": "Will the U.S.-Canada trade war sway elections in border state battlegrounds? Michiganders had mixed views about President Donald Trump's approach, but told us that the trade war won't sway their vote.",
-          "sourceName": "Wisn 12 News",
-          "url": "https://www.wisn.com/article/us-canada-trade-war-midterms-michigan-voters/74067657",
-          "publishedAt": "2026-10-07T19:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "172209b24a5e735d60c84583f4a713c800cc0d7691708e1a53b2d0055ce13982",
-          "title": "Will the US-Canada trade war sway elections in border state battlegrounds? What Michigan voters said",
-          "description": "Will the U.S.-Canada trade war sway elections in border state battlegrounds? Michiganders had mixed views about President Donald Trump's approach, but told us that the trade war won't sway their vote.",
-          "sourceName": "Wvtm13",
-          "url": "https://www.wvtm13.com/article/us-canada-trade-war-midterms-michigan-voters/74067657",
-          "publishedAt": "2026-10-07T19:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b98af346d0606f85ddfe010faf6abd77e515058fd2106d688b2466dd597902c2",
-          "title": "Will the US-Canada trade war sway elections in border state battlegrounds? What Michigan voters said",
-          "description": "Will the U.S.-Canada trade war sway elections in border state battlegrounds? Michiganders had mixed views about President Donald Trump's approach, but told us that the trade war won't sway their vote.",
-          "sourceName": "Wmur",
-          "url": "https://www.wmur.com/article/us-canada-trade-war-midterms-michigan-voters/74067657",
-          "publishedAt": "2026-10-07T19:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0b3ea9244d47c2a5db1bbe7190338198318b634b7baeca18d461cc25b45e057f",
-          "title": "Will the US-Canada trade war sway elections in border state battlegrounds? What Michigan voters said",
-          "description": "Will the U.S.-Canada trade war sway elections in border state battlegrounds? Michiganders had mixed views about President Donald Trump's approach, but told us that the trade war won't sway their vote.",
-          "sourceName": "Mor Tv",
-          "url": "https://www.mor-tv.com/article/us-canada-trade-war-midterms-michigan-voters/74067657",
-          "publishedAt": "2026-10-07T19:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a7cc63a1ae581a4adff10157301a8dcd38f9be5f5cb84171fdc9408a1b3cf156",
-          "title": "Will the US-Canada trade war sway elections in border state battlegrounds? What Michigan voters said",
-          "description": "Will the U.S.-Canada trade war sway elections in border state battlegrounds? Michiganders had mixed views about President Donald Trump's approach, but told us that the trade war won't sway their vote.",
-          "sourceName": "Koco News Channel Five",
-          "url": "https://www.koco.com/article/us-canada-trade-war-midterms-michigan-voters/74067657",
-          "publishedAt": "2026-10-07T19:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4247679f1a0281e4662f3dfb0409967714c2ff69d49bf990a3a16c04cd408d53",
-          "title": "Sen. Collins Scores in Debate as Maine Race Is Dead Even",
-          "description": "Sen. Susan Collins, R-Maine, rallied supporters last night through what many of them considered a combative and strong showing in her first televised debate with Democrat Troy Jackson, a longtime state legislator.",
-          "sourceName": "Newsmax.com",
-          "url": "https://www.newsmax.com/politics/susan-collins-troy-jackson-maine/2026/10/07/id/1272044",
-          "publishedAt": "2026-10-07T19:39:14.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "4a2ca043ef9dfdf51c4b47006b29584a0bb1b1cf20092e1d8e08a8c047582a5a",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using the program’s website or mobile phone app. Meanwhile, Trump’s push to highlight his economic agenda comes as Republicans are increasingly anxious that the $1 billion at their disposal may not be enough to fend off sweeping midterm election losses due to late spending, the president’s unpopularity, persistent cost concerns and the fallout from the war in Iran. The post The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices appeared first on WHEC.com .",
-          "sourceName": "Whec News10nbc",
-          "url": "https://www.whec.com/ap-top-news/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/",
-          "publishedAt": "2026-10-07T19:18:51.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "021bafef1eb58f88d8acda712f7ceb2061482c257e4d3f49c5290873191f4b87",
-          "title": "Planned Parenthood Will Spend $1 Million, Helping Abdul El-Sayed",
-          "description": "Planned Parenthood Votes will spend another $1 million on digital ads attacking Republican Senate candidates in Maine and Michigan, an outlay that boosts radical pro-abortion Democrat Abdul El-Sayed in the race to replace retiring Sen. Gary Peters. The super PAC affiliated with Planned Parenthood said the new buy targets Sen. Susan Collins of Maine and […] The post Planned Parenthood Will Spend $1 Million, Helping Abdul El-Sayed appeared first on LifeNews.com .",
-          "sourceName": "Lifenews",
-          "url": "https://www.lifenews.com/2026/10/07/planned-parenthood-will-spend-1-million-helping-abdul-el-sayed/",
-          "publishedAt": "2026-10-07T19:01:08.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "46cb8eae2015e1fa029f9e8f7dc308190f383d6b066f52c9d0241508d4613666",
-          "title": "The Political Economy of Diesel",
-          "description": "Trump is trying every possible short-term trick to cut diesel prices. None of it will work; he might as well command the tide to recede. The post The Political Economy of Diesel appeared first on The American Prospect .",
-          "sourceName": "The American Prospect",
-          "url": "https://prospect.org/2026/10/07/political-economy-of-diesel-trump-iran-war/",
-          "publishedAt": "2026-10-07T19:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3ab2b6cf7cba49d80b2bd6a48dc0c821db25954b0056aff9e2706e0c048579bb",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump announced Wednesday that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need to formally claim the accounts by using the program’s website or mobile phone app.",
-          "sourceName": "Local 10 News",
-          "url": "https://www.local10.com/news/politics/2026/10/07/the-latest-gop-fears-grow-that-even-1-billion-may-not-buy-midterm-victory/",
-          "publishedAt": "2026-10-07T18:50:11.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "aa971428e47d7616b7ee891a754ca333fb61c71007e4ffd113142f54d7e5f149",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
-          "sourceName": "Hjnews",
-          "url": "https://www.hjnews.com/nation/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_9703d4ba-9c56-5f1a-8120-64cfe750a822.html",
-          "publishedAt": "2026-10-07T18:45:26.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "124fbd0fc0095f2adbe152c3c73321c61c3ad9ac4a54a063e339f802502a48f4",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
-          "sourceName": "Rutland Herald",
-          "url": "https://www.rutlandherald.com/ap/national/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_20cc6df7-44d3-50de-ba75-f9484b8d66c5.html",
-          "publishedAt": "2026-10-07T18:45:26.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f227efc5fcb3923184c82de8b545f39d89d06a0d7c79a1ee66c0683914af5015",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
+          "id": "8190ac5491fda352103db0fb7be00b8a93af9dedb28baf228224756580be4f44",
+          "title": "The Latest: News organizations banned from White House are back in court",
+          "description": "Attorneys for three news organizations banished from the White House by the Trump administration were back in court. U.S. District Judge Timothy Kelly is hearing arguments nearly three weeks after CNN, MS NOW and Politico were abruptly banned from White…",
           "sourceName": "Santa Maria Times",
-          "url": "https://santamariatimes.com/ap/national/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_e9979115-6566-5af9-9b3a-d3b295983bc1.html",
-          "publishedAt": "2026-10-07T18:45:26.000Z",
+          "url": "https://santamariatimes.com/ap/national/the-latest-news-organizations-banned-from-white-house-are-back-in-court/article_d09f6b37-4ad9-53ad-a447-f7734021aa6a.html",
+          "publishedAt": "2026-10-08T22:10:10.000Z",
           "sentiment": 0
         },
         {
-          "id": "4bc1f8c5a84e77246d6b385342f1b7aa4cfeaaa03548dea20ee67ab02e220cd7",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
-          "sourceName": "Nvdaily",
-          "url": "https://www.nvdaily.com/associated_press_national/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_8005f68c-fdb9-5baa-a6db-b90d0a5f0e55.html",
-          "publishedAt": "2026-10-07T18:45:26.000Z",
+          "id": "9992156d3e15f0c77383adbc2d6ea2b789dc19ec76661c703a9ebd1d30cb81d6",
+          "title": "Troy Jackson was being paid by unions throughout his run for governor",
+          "description": "The Democratic U.S. Senate nominee's campaign has offered few details about what the work entailed, describing it only as consulting and organizing services on national and labor issues.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/08/politics/elections/troy-jackson-paid-by-unions-during-run-for-governor/",
+          "publishedAt": "2026-10-08T21:36:24.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "3e81367fd21631aef31a227856cfa8f102395cdd91e772476aa83fb88c26a2e9",
+          "title": "Republicans Admit They Are Terrified of an Obama ‘Takeover’",
+          "description": "Republicans are freaking out about the possibility of a Barack Obama “takeover” in the midterms. The National Republican Senatorial Committee has blasted out an email to its supporters with the subject line “Obama plots Senate takeover,” warning conservatives to “brace” themselves for what is to come. The message, obtained by the progressive outlet Crooks&Liars, went on to make a damning admission about the state of the Republican Party ahead of what is expected to be a GOP bloodbath on Election Day. Read more at The Daily Beast.",
+          "sourceName": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/republicans-admit-they-are-terrified-of-an-obama-takeover",
+          "publishedAt": "2026-10-08T20:56:12.000Z",
           "sentiment": 0
         },
         {
-          "id": "40ec495d59067ffdff5bab126e81fc88d5fdead1a5ee256ad66b1e5e85a87d8d",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
+          "id": "43374ad481f2869b3284c61db3012855b3adcaa175233e70628f279454a077db",
+          "title": "'Straight-up bribery': Insider tears apart Trump 'plan' to loot Social Security",
+          "description": "Editor's Note: After this article was published, AlterNet received the following email from the White House. “The doomers and naysayers have consistently doubted President Trump: when he pledged to create the historic Trump Accounts, lowered prescription prices with Most Favored Nations, secured the border with no crossings, cleaned up our streets, ended taxes on tips, grew real wages, renegotiated broken trade deals, and reshored key manufacturing back to the United States,\" White House spokesperson Davis Ingle told AlterNet. \"President Trump has consistently proven his doubters wrong, drawing a clear contrast with the Democrats’ record of historic inflation, unfettered illegal immigration, skyrocketing crime, and weakness on the world stage. With the continued support of the American people, President Trump will keep delivering real results.” President Donald Trump and his closest advisers, including Secretary of the Treasury Scott Bessent and the world's richest man Elon Musk, claim they want to fix waste in America's biggest and most important social safety net. Their critics say they are simply coming up with excuses to loot Social Security. America's $2.56 trillion worth of Social Security funds are a constant point of contention in current political debate. Liberals want to protect the program and accuse conservatives of using terms like \"reform\" and \"modernize\" as codes for cutting benefits and ultimately privatizing it into institutions they can access. To address these issues Trump is sending $90 checks to senior citizens, although those checks are of mysterious propriety. He is also offering to pay every American adult $5,000 if Republicans retain control of Congress during the midterm elections. Democrats, by contrast, are trying to save the program. Democratic Senate candidates like Josh Turek of Iowa, James Talarico of Texas and Troy Jackson of Maine have argued that any serious financial issues facing Social Security can be addressed by simply forcing the rich to pay their fair share. Specifically, to keep the funds solvent past 2032, raise the current cap that says recipients are only taxed on earnings up to $184,500. To learn more about the political dilemma facing Social Security, AlterNet spoke with President Joe Biden's Social Security Commissioner, Martin O'Malley. This interview has been lightly edited for clarity, context and length. ROZSA: I’m reading from NBC News. \"A swath of Senate candidates across blue and red states are campaigning on raising Social Security taxes on higher incomes to prevent a benefit cut from taking effect in less than six years. Currently, Americans are taxed on earnings up to $184,500 to fund Social Security. These candidates, most of them Democrats, are calling for lifting that cap to boost revenues ahead of a fast-approaching 2032 deadline for insolvency.\" What are your thoughts on that? O'MALLEY: Well, it’s the most straightforward way to strengthen Social Security for the far future, as well as increased benefits here and now. Right now, a person making a billion dollars pays nothing more into Social Security than a family making $184,000. So most Americans think that’s unfair, and that wealthier people should pay the same Social Security tax rate that all of the rest of us do, or rather the most wealthy people in America should pay the same Social Security tax rate that all of the rest of us do. ROZSA: What do you expect the political backlash to this to be? Where do you think it will come from? O'MALLEY: Ooh, I think if there’s any pushback from it, it’ll come from the 6% of Americans who make more than $250,000 or more than $400,000, depending on where Congress decides to scrap the cap. So people like Donald Trump have always hated Social Security. They feel like employers pay into it, but employers don’t get anything back from it like individual workers do. And that’s been true from the beginning of the program. But in terms of organized opposition, there aren’t many small businesses that are paying salaries in excess of $184,000. So I actually think as people come to understand the solution and what’s at stake as that cliff gets closer and closer, I think you’re going to find broad public support for requiring that the wealthiest of Americans pay the same Social Security tax rate that all of the rest of us do. ROZSA: Trump is saying that he will pay every American adult $5,000 if Republicans retain the midterms, which to me sounds like socialism, but then they say that Social Security is socialism. And so my argument is there seems to be an inconsistency, a, dare I say, expediency to what is or is not defined as socialism. Does that make sense? O'MALLEY: Yeah, but look, I don’t think that’s socialism or capitalism, that’s bribery. That’s paying people to vote a certain way. If he stood outside a polling place in Baltimore and around the corner from it was offering to give people $5,000 to vote for him, they’d put handcuffs on him, if he were a citizen. So that’s not capitalism or socialism, that’s just straight-up bribery. ROZSA: All right. So overall, what are your thoughts on what needs to be done to keep Social Security solvent? O'MALLEY: Yeah, the solution is very straightforward. The reason Social Security’s Baby Boomer surplus is being depleted sooner than they thought way back in the ’80s is because of income inequality. It’s because of the fact that as it’s currently structured, the wealthiest people in America pay almost nothing into Social Security, and they need to pay the same Social Security tax rate on their earnings that all of the rest of us do. And whether you’re an Independent or Republican or a Democrat, every American wants to see Social Security strengthened except for people like Donald Trump or Elon Musk or Vivek Ramaswamy or these other multimillionaires and billionaires who are the folks who have resented the program ever since its beginning. ROZSA: I’ve never understood that resentment. I don’t understand why the people who have so much money are so upset about people who have less money receiving a little bit of extra help. O'MALLEY: Yeah. Well, if they don’t have money to spend, they’re not gonna— If we go back to the days when millions of seniors died in poverty, when orphan kids had to sell themselves on the streets, that’s not very good for anybody’s profits in America. So, yeah, it’s the age of gilded greed, and with a lot of shades of eugenicist philosophy. The notion that some people are useless, as Elon Musk said, non-character players. That guy, he said that empathy is the greatest weakness in the Western mind. The rest of the world, though, thought that empathy is what allowed us to create this land of opportunity, the strongest democracy once upon a time in the world, and the strongest economy, and the post-World War II era, up until the present, as hard as they worked to undermine it and its currency. Yeah, so the reason Elon Musk doesn’t like Social Security is not because he was able to find any gross inefficiencies and waste or even single prosecution of an illegal immigrant receiving benefits. No, he dislikes the program because he thinks that some human beings are waste. People that are too disabled to work in his economy are waste, just elderly. They’re waste. ROZSA: I’m now going to bring up a personal observation here. Elon Musk, like me, is autistic. Donald Trump, although he has never been diagnosed, shows signs of ADD, which means if he is ADD, he’s also on the neurodiversity spectrum. I find it galling that they view disabled people as wastes when they are themselves disabled, and if they hadn’t been born rich, could also have been viewed as wastes. What are your thoughts on that observation? O'MALLEY: Yeah. The biggest waste of money in America is the buckets and buckets of tax breaks that we continue to shower on the wealthiest of individuals and corporations. That’s the biggest waste in America. ROZSA: I agree. So again, is there anything else you’d like to say before I close the interview? O'MALLEY: Given how many Americans have earned their Social Security benefits and how much support there is for the program, it’s surprising to me, not that some candidates are saying that wealthier people should pay the same tax rate as the rest of us, but what’s surprising to me is knowing that people like Ken Paxton and Vivek Ramaswamy and Ashley Hinson are still talking about cutting it or privatizing it. That’s what surprises me. It’s not that people would want the fairness of the same tax rate for wealthier people, for the wealthiest people, but that some of these politicians, Republicans, are still talking about privatizing and cutting it. I don’t get that.",
+          "sourceName": "Alternet.org",
+          "url": "https://www.alternet.org/alternet-exclusives/social-security-trump/",
+          "publishedAt": "2026-10-08T20:45:43.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c2c13657e60d9a8e57e0c553d654db4927fb65f07f994e81f1eaa12b3c881b09",
+          "title": "Michigan debate live: El-Sayed and Rogers meet in high-stakes clash",
+          "description": "After skipping their first debate, Republican Mike Rogers takes the stage against Democrat Abdul El Sayed in crucial toss-up Senate race.",
+          "sourceName": "Usa Today",
+          "url": "https://www.usatoday.com/story/news/politics/elections/2026/10/08/michigan-debate-el-sayed-rogers-updates--live/92142650007/",
+          "publishedAt": "2026-10-08T20:30:41.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "753c9252cb1b4250248f52fd0fbf13c510af003c195173133b2be14985582f98",
+          "title": "The Latest: News organizations banned from White House are back in court",
+          "description": "Attorneys for three news organizations banished from the White House by the Trump administration were back in court. U.S. District Judge Timothy Kelly is hearing arguments nearly three weeks after CNN, MS NOW and Politico were abruptly banned from White…",
           "sourceName": "Owensboro Messenger And Inquirer",
-          "url": "https://www.messenger-inquirer.com/ap/elections/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_92d1c120-6039-5559-851d-90ea4f16c12c.html",
-          "publishedAt": "2026-10-07T18:45:26.000Z",
+          "url": "https://www.messenger-inquirer.com/ap/elections/the-latest-news-organizations-banned-from-white-house-are-back-in-court/article_e4ed1518-4ceb-5508-8c94-ddf986766317.html",
+          "publishedAt": "2026-10-08T19:36:32.000Z",
           "sentiment": 0
         },
         {
-          "id": "52a4ef863fe839d33db07cea3cf8c432edbd43731f4f769cecaf5a31cd8c09f0",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
-          "sourceName": "Woonsocketcall",
-          "url": "https://www.woonsocketcall.com/news/national_and_world_news/the-latest-white-house-highlights-trump-accounts-for-kids-amid-frustrations-over-rising-prices/article_52d84665-bbfa-5d66-98e2-251750e001eb.html",
-          "publishedAt": "2026-10-07T18:45:26.000Z",
+          "id": "c3034f59a6a7929b3f8d2182239ddf18e085c61b4bf94e41f217101c45051637",
+          "title": "The Latest: News organizations banned from White House are back in court",
+          "description": "Attorneys for three news organizations banished from the White House by the Trump administration were back in court. U.S. District Judge Timothy Kelly is hearing arguments nearly three weeks after CNN, MS NOW and Politico were abruptly banned from White…",
+          "sourceName": "Cadillacnews",
+          "url": "https://www.cadillacnews.com/ap/national/the-latest-news-organizations-banned-from-white-house-are-back-in-court/article_b2b2ca97-99a3-5607-acff-64094bc3e272.html",
+          "publishedAt": "2026-10-08T19:36:32.000Z",
           "sentiment": 0
         },
         {
-          "id": "f97104803040e011d0b72a8bbbd69825b028e8101d00fa478500784ac7883fe5",
-          "title": "The Latest: White House highlights Trump Accounts for kids amid frustrations over rising prices",
-          "description": "President Donald Trump has announced that all Americans under age 18 are being automatically enrolled in Trump Accounts, which are set up by the government to invest in stocks. Parents and legal guardians need formally claim the accounts by using…",
-          "sourceName": "Yankton Net",
-          "url": "https://www.yankton.net/news/national_ap/article_ac26e8c1-a33f-5f29-ab59-2dfb67725b7b.html",
-          "publishedAt": "2026-10-07T18:45:26.000Z",
+          "id": "e8016fd78fd02b511879cc8999b8d7450efe58298153764673e036036b4db5ba",
+          "title": "The Latest: News organizations banned from White House are back in court",
+          "description": "Attorneys for three news organizations banished from the White House by the Trump administration were back in court. U.S. District Judge Timothy Kelly is hearing arguments nearly three weeks after CNN, MS NOW and Politico were abruptly banned from White…",
+          "sourceName": "Dailyadvance",
+          "url": "https://www.dailyadvance.com/news/national/the-latest-news-organizations-banned-from-white-house-are-back-in-court/article_9cd79451-d311-5e29-8063-f0e58152b29b.html",
+          "publishedAt": "2026-10-08T19:36:32.000Z",
           "sentiment": 0
         },
         {
-          "id": "f51bb29f117188271f40d221f0898679613b3dacea30df233aa2c9cd161b293c",
-          "title": "Susan Collins' debate-stage excuses for corruption scandal dismantled by reporter",
-          "description": "ProPublica reporter Molly Redden spent Wednesday morning taking apart the defenses Sen. Susan Collins (R-ME) offered Tuesday night in her Senate debate with Democrat Troy Jackson, calling several of them inaccurate or misleading. The dispute centers on ProPublica's reporting that the FBI was investigating whether Collins and her staff took part in a bribery scheme, an inquiry that fizzled after President Donald Trump's Justice Department gutted the bureau's ranks. The story rests on Martin Kao, a former government contractor facing prison who told agents he traded campaign donations for overvalued or worthless military contracts. Agents corroborated parts of his account and opened an investigation. Collins pointed to a photo in the debate showing her with Kao at a meeting \"months before there was ever a contribution.\" Her campaign has since released it. But Redden said that doesn't contradict the story, which reports Kao's claim that Collins wanted a donation commitment before meeting. The photo shows a February 2018 meeting, and Kao gave $4,000 that June. Kao declined an interview, so what he agreed to isn't clear, but Redden noted that in politics money is often promised first and paid later. She added that Collins hasn't addressed a bigger episode in 2019. Kao told investigators a top Collins fundraiser asked him for a large donation, and he gave $150,000. Two months later, Redden said, he emailed colleagues saying Collins had promised $32 million in new funding. Collins also repeated her earlier claim that Biden's DOJ thoroughly investigated Kao and found his allegations false. Redden said the investigation at the heart of the story ended in 2025 under Trump and reached no conclusions. According to ProPublica, the agents working it were purged for having worked on cases Trump disliked, leaving no one to carry it forward. Redden also took aim at campaign manager Steve Abbott's claims at a Tuesday event. He said Kao shopped the story to the FBI and \"They didn't buy it.\" Redden said agents actually sifted through hundreds of thousands of documents to corroborate Kao and pushed for a full investigation. When Abbott accused ProPublica of swallowing Kao's account whole, she said reporters did no such thing. They reviewed evidence the FBI collected and interviewed dozens of people before publishing. \"Then we published the receipts,\" Redden wrote. Collins has called the story a political hit job. Her campaign says it was never the target of any investigation and cooperated fully.",
-          "sourceName": "Raw Story",
-          "url": "https://www.rawstory.com/susan-collins-2678021513/",
-          "publishedAt": "2026-10-07T18:41:04.000Z",
+          "id": "052029ea2d3387714cd1d0b692533e6badbb21d1991782a8bac4702b032f8f7e",
+          "title": "The Latest: News organizations banned from White House are back in court",
+          "description": "Attorneys for three news organizations banished from the White House by the Trump administration were back in court. U.S. District Judge Timothy Kelly is hearing arguments nearly three weeks after CNN, MS NOW and Politico were abruptly banned from White…",
+          "sourceName": "Nvdaily",
+          "url": "https://www.nvdaily.com/associated_press_national/the-latest-news-organizations-banned-from-white-house-are-back-in-court/article_5db29380-5a56-5007-9b0d-38ae8df73000.html",
+          "publishedAt": "2026-10-08T19:36:32.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e14900d9af89ac8ba2bd74ae72fbb3747f270109b018f47a4c67bbc495731a4e",
+          "title": "The Latest: News organizations banned from White House are back in court",
+          "description": "Attorneys for three news organizations banished from the White House by the Trump administration were back in court. U.S. District Judge Timothy Kelly is hearing arguments nearly three weeks after CNN, MS NOW and Politico were abruptly banned from White…",
+          "sourceName": "Idahostatejournal",
+          "url": "https://www.idahostatejournal.com/news/national/the-latest-news-organizations-banned-from-white-house-are-back-in-court/article_9e663ece-c29f-51eb-84e5-b9069043cafb.html",
+          "publishedAt": "2026-10-08T19:36:32.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0cbbb6144a66230affbd2ad4d85a70263274047ee92523685679a3ad8058baf8",
+          "title": "The Latest: News organizations banned from White House are back in court",
+          "description": "Attorneys for three news organizations banished from the White House by the Trump administration were back in court. U.S. District Judge Timothy Kelly is hearing arguments nearly three weeks after CNN, MS NOW and Politico were abruptly banned from White…",
+          "sourceName": "Mankato Free Press",
+          "url": "https://www.mankatofreepress.com/news/state_national_news/the-latest-news-organizations-banned-from-white-house-are-back-in-court/article_4d0b64bc-efda-5e94-a0ac-a2c358e1b424.html",
+          "publishedAt": "2026-10-08T19:36:32.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4f9ab9f594d0983a729d7f2614fdaa3ba5d91b7dd3d483c4639cdf0c7faa7afc",
+          "title": "In Maine Senate race, spiking heating oil costs put Susan Collins on defensive",
+          "description": "New England’s northernmost state is singularly reliant on heating oil, and the price of the product is surging because of President Trump’s war with Iran.",
+          "sourceName": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/08/metro/susan-collinsn-maine-senate-race-heating-oil/",
+          "publishedAt": "2026-10-08T19:00:13.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "024271676c7baa23137e8a53fd52c2c06d0fe29f0d23b22c138087c12c8ffc63",
+          "title": "Uneasy about Susan Collins’ backers | Letter",
+          "description": "I am writing to express my concerns regarding Sen. Susan Collins’ reelection campaign receiving at least $50,000 from Marc Rowan, CEO of Apollo Global Management, through supporting PACs. Apollo Global Management purchased and sold off the assets of paper mills in Bucksport and Jay, resulting in the loss of more than 1,000 jobs for working-class […]",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/08/uneasy-about-susan-collins-backers-letter/",
+          "publishedAt": "2026-10-08T19:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c6c04ba657ecd7fe214d7c3f86902dcd3affc10ca7e8060a8c8f74eed121adb6",
+          "title": "Uneasy about Susan Collins’ backers | Letter",
+          "description": "I am writing to express my concerns regarding Sen. Susan Collins’ reelection campaign receiving at least $50,000 from Marc Rowan, CEO of Apollo Global Management, through supporting PACs. Apollo Global Management purchased and sold off the assets of paper mills in Bucksport and Jay, resulting in the loss of more than 1,000 jobs for working-class […]",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/08/uneasy-about-susan-collins-backers-letter/",
+          "publishedAt": "2026-10-08T19:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f576579429090d307bc64603cb66677d41c0488b5de8153ce6e23393acfe63c3",
+          "title": "The Latest: News organizations banned from White House are back in court",
+          "description": "Attorneys for three news organizations banished from the White House by the Trump administration were back in court. U.S. District Judge Timothy Kelly is hearing arguments nearly three weeks after CNN, MS NOW and Politico were abruptly banned from White House grounds, with President Donald Trump decrying their “fake news.” Meanwhile, the Trump administration is suspending tech giant Microsoft from a program to apply for green cards for workers who come to the U.S. to live and work using an H-1B visa. Vice President JD Vance accuses the company of fraud. The post The Latest: News organizations banned from White House are back in court appeared first on WHEC.com.",
+          "sourceName": "Whec News10nbc",
+          "url": "https://www.whec.com/ap-top-news/the-latest-news-organizations-banned-from-white-house-are-back-in-court/",
+          "publishedAt": "2026-10-08T18:58:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "336bdecf04869a88b687fe6636414f8db3edfeca992a55757c0f4fb49bc4e2ca",
+          "title": "The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed",
+          "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed. Hasan was convicted of killing 13 people and wounding 32 others in a shooting at the military base in 2009. Meanwhile, attorneys for three news organizations banished from the White House by the Trump administration are back in court. U.S. District Judge Timothy Kelly is hearing arguments nearly three weeks after CNN, MS NOW and Politico were abruptly banned from White House grounds, with President Donald Trump decrying their “fake news.” The post The Latest: Pentagon says firing squad execution of Fort Hood shooter will be livestreamed appeared first on WHEC.com.",
+          "sourceName": "Whec News10nbc",
+          "url": "https://www.whec.com/ap-top-news/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/",
+          "publishedAt": "2026-10-08T18:58:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "14b223b97a388055471fd27cfbccf09487af469dc86a20aa0a13b5e80b233ec1",
+          "title": "There’s No Debate In Many Virginia Races This Year",
+          "description": "By RICH TUCKER, The Daily Signal | October 07, 2026 In the highly contested Senate race in Maine, Republican Sen. Susan Collins and her Democrat opponent Troy Jackson plan to go head-to-head in four debates. Unfortunately, voters in Virginia won’t have the luxury of getting many chances to hear…",
+          "sourceName": "Biztoc",
+          "url": "https://biztoc.com/x/1a90af4161e87e68",
+          "publishedAt": "2026-10-08T18:48:26.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7cc423a2bbb482ad74f8ba93285d59d22043c2ce87967f8d2db51913ef7392e9",
+          "title": "Oct. 8, 2026: Takeaways from the first Collins-Jackson debate",
+          "description": "The first of four debates in the Maine U.S. Senate race is in the books. Some may have been tempted to prewrite how it would unfold. And who could blame them?",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/podcast/maines-political-pulse/2026-10-08/oct-8-2026-takeaways-from-the-first-collins-jackson-debate",
+          "publishedAt": "2026-10-08T18:43:54.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "4703b86af05f7a3be7f8d160f2847a3026e7f8ec1f1185ee47e40e464e7d438d",
+          "title": "The states that aren’t cooperating with Democrats’ Senate majority hopes",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/the-states-that-arent-cooperating-with-democrats-senate-majority-hopes-4215A843-F391-5A00-A1FC-79AB01F54E98",
+          "publishedAt": "2026-10-08T18:40:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d97b90fdd8cde4e07840427e75e18aea1616199680a62fc73036675b2042acd3",
+          "title": "If Susan Collins wins, Donald Trump wins | Steve Collins",
+          "description": "A vote for Troy Jackson is the best way to hinder the president’s wayward agenda.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/08/if-susan-collins-wins-donald-trump-wins-steve-collins/",
+          "publishedAt": "2026-10-08T18:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "04d1827b82d9c49812bb995e5c5f0bc942e618288c79751adfd8228a8b2cfcee",
+          "title": "If Susan Collins wins, Donald Trump wins | Steve Collins",
+          "description": "A vote for Troy Jackson is the best way to hinder the president’s wayward agenda.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/08/if-susan-collins-wins-donald-trump-wins-steve-collins/",
+          "publishedAt": "2026-10-08T18:00:00.000Z",
           "sentiment": 1
         }
       ],
