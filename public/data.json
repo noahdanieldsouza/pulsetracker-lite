@@ -1,30 +1,20 @@
 {
-  "lastUpdated": "2026-10-12T19:17:32.133Z",
+  "lastUpdated": "2026-10-12T20:51:37.021Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": 0,
-      "newsSentiment": 0,
+      "overallSentiment": null,
+      "newsSentiment": null,
       "socialSentiment": null,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
-      "news": [
-        {
-          "id": "eca6f382e43d6fa3c7b6559765a41b87fec89dbc03c61e7b0f6fb15c73febc08",
-          "title": "Vijay Sethupathi completes shooting of his upcoming ‘Pocket Novel’",
-          "description": "Vijay Sethupathi took to the social media to share a promotional video full of behind-the-scenes action.",
-          "sourceName": "The Hans India",
-          "url": "https://www.thehansindia.com/cinema/vijay-sethupathi-completes-shooting-of-his-upcoming-pocket-novel-1131162",
-          "publishedAt": "2026-10-10T21:12:57.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -49,114 +39,276 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.48622226657462714,
-      "newsSentiment": 0.49090909090909085,
+      "overallSentiment": 0.3628157879957347,
+      "newsSentiment": 0.1206896551724138,
       "socialSentiment": 0.12160386266094421,
       "mentions": {
-        "news": 11,
+        "news": 29,
         "social": 234,
         "youtube": 13,
-        "total": 258
+        "total": 276
       },
       "news": [
         {
-          "id": "8c4c4df603c3f9ed444142e7359d9f4475db02c456df2500ed3a68e29e928105",
-          "title": "Sanders Backs Maine Senate Candidate; Trump Blasts Ukraine Deal; Deadly Shootings in Erie and Florida",
-          "description": "Senator Bernie Sanders endorsed Troy Jackson at a campaign rally, while President Trump criticized Ukrainian leadership for a fuel agreement with Russia. A fatal shooting in Pennsylvania and Hurricane Isaias' aftermath in the Southeast are also reported, along with New York police video of an ICE enforcement operation.",
+          "id": "370428bec20c668b9b5647bd10c87d9db5fe7e3f2a9bee2940edbfa3df6f52c6",
+          "title": "Barack Obama Dusts Off His Most Famous Weapon for Fight Against Trump",
+          "description": "Barack Obama is bringing back the slogan that defined his 2008 presidential campaign as he campaigns for Democrats ahead of the midterms against Donald Trump‘s party. The former president released a video message on Friday urging supporters to help his party win control of Congress. Barack Obama is reprising his “hope” message to mobilize Democrats […] The post Barack Obama Dusts Off His Most Famous Weapon for Fight Against Trump appeared first on Mandatory.",
+          "sourceName": "Mandatory",
+          "url": "https://www.mandatory.com/news/1869123-barack-obama-midterms-message-democrats-donald-trump",
+          "publishedAt": "2026-10-12T08:32:27.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "dce5a6a4cf064a0d235bf3aa0721cde6280d62c67e7fe6d82ecb1e166fdba072",
+          "title": "ProPublica report, outrageous? Yes it is, senator. | Letter",
+          "description": "Confronted with credible accusations that Sen. Susan Collins received large contributions from someone seeking a lucrative contract with the federal government, the senator and her campaign responded by calling it “outrageous.” I agree. It certainly is outrageous that such payments appear to have been accepted under those circumstances. It’s also outrageous that we have an electoral […]",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/12/propublica-report-outrageous-yes-it-is-senator-letter/",
+          "publishedAt": "2026-10-12T08:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f31672fa0b0fbc4a5e30d7175c2652075e77b8b6f746b5bae6ff02d5ebb38500",
+          "title": "What happens to Maine’s economy without congressional clout? | Letter",
+          "description": "Whatever our politics next month, the time for a serious plan is now.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/12/what-happens-to-maines-economy-without-congressional-clout-letter/",
+          "publishedAt": "2026-10-12T08:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9363fc16b1a4d7fe59c6d7dc77acf43ee3f0ea880668032f6a2a0c9874fc91ee",
+          "title": "ProPublica report, outrageous? Yes it is, senator. | Letter",
+          "description": "Confronted with credible accusations that Sen. Susan Collins received large contributions from someone seeking a lucrative contract with the federal government, the senator and her campaign responded by calling it “outrageous.” I agree. It certainly is outrageous that such payments appear to have been accepted under those circumstances. It’s also outrageous that we have an electoral […]",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/12/propublica-report-outrageous-yes-it-is-senator-letter/",
+          "publishedAt": "2026-10-12T08:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "666a7421d62991fdbf311008a414485181a074d27671ec3e623464bb57929170",
+          "title": "What happens to Maine’s economy without congressional clout? | Letter",
+          "description": "Whatever our politics next month, the time for a serious plan is now.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/12/what-happens-to-maines-economy-without-congressional-clout-letter/",
+          "publishedAt": "2026-10-12T08:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "be95c6486cd723180911c9b817e73b16989071ae944c19a55aef5374d4818182",
+          "title": "Democrats Outpace Early Voting Share Compared to 2024, 2022 in Key States",
+          "description": "Hispanic voters are turning out at record rates as President Trump’s approval craters among the demographic.",
+          "sourceName": "The New York Sun",
+          "url": "https://www.nysun.com/article/democrats-outpace-early-voting-share-compared-to-2024-2022-in-key-states",
+          "publishedAt": "2026-10-12T07:59:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "826f012ff302e65654e5c7ca892f936a000dc5241328623cda6894c1e677d80e",
+          "title": "Trump Campaign Rally Amidst Midterm Stakes and Economic Shifts",
+          "description": "An analysis of the 2026 midterm election landscape highlights President Trump's campaign activities in red states and a rally in San Antonio, while examining economic collisions between appointees Warsh and Bessent, conservative gains in Latin America, and the intense financial and strategic battle between Democrats and Republicans for the House majority.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/sanders-backs-maine-senate-candidate-trump-blasts-ukraine-88679312",
-          "publishedAt": "2026-10-11T03:27:00.000Z",
-          "sentiment": 0.6
+          "url": "https://us.headtopics.com/news/trump-campaign-rally-amidst-midterm-stakes-and-economic-88711593",
+          "publishedAt": "2026-10-12T07:42:00.000Z",
+          "sentiment": 0
         },
         {
-          "id": "cdb377749b3fe35b0ee60c21b3d98e273f6ad3d87f5d362a16851e935018c3fd",
-          "title": "Bernie Sanders joins Troy Jackson for ‘Solidarity Forever’ tour in Maine",
-          "description": "Jackson and Sanders are scheduled to travel to Lewiston and Biddeford on Sunday.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/10/11/bernie-sanders-joins-troy-jackson-solidarity-forever-tour-maine/",
-          "publishedAt": "2026-10-11T02:59:47.000Z",
-          "sentiment": 0.7
+          "id": "1b551f9413de4bb7a2bf6f90ca124448e1206b1241be8c651d9b32d2a72f93d1",
+          "title": "The blue wave looks real until you look a little closer",
+          "description": "It’s like watching some sci-fi game with players competing on 470 different fields. Which is... The post The blue wave looks real until you look a little closer appeared first on Democratic Accent .",
+          "sourceName": "Democratic Accent",
+          "url": "https://www.democraticaccent.com/the-blue-wave-looks-real-until-you-look-a-little-closer/",
+          "publishedAt": "2026-10-12T07:00:07.000Z",
+          "sentiment": 0
         },
         {
-          "id": "b0fbb2c8fc243e05985b3cb7eedb01d147ec38d20d4b6158069ee5ae63165a43",
-          "title": "Maine Democratic candidates in high-profile races rally canvassers in Lewiston ahead of Election Day",
-          "description": "Democrats Troy Jackson, Hannah Pingree, and Matt Dunlap spoke to volunteers, focusing on economic and social issues critical.",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/elections/maine-democratic-candidates-in-high-profile-races-rally-canvassers-in-lewiston-ahead-of-election-day-lewiston-maine/97-9cb58da4-5b1d-4788-a8fd-85b632b051a4",
-          "publishedAt": "2026-10-11T00:47:04.000Z",
-          "sentiment": 0.5
+          "id": "67e61a2a3b19a57bbe3c81e42271e596c0660c5e2a065678069877637f9b5450",
+          "title": "The blue wave looks real until you look a little closer",
+          "description": "The 2026 midterm elections are heating up as Republicans and Democrats battle for control of Congress. From Texas and Maine to Michigan, key Senate races, shifting polls and campaign spending battles add to the uncertainty, while both parties look ahead to the 2028 presidential race.",
+          "sourceName": "Fox News",
+          "url": "https://www.foxnews.com/opinion/blue-wave-looks-real-until-you-look-little-closer",
+          "publishedAt": "2026-10-12T07:00:07.000Z",
+          "sentiment": 0
         },
         {
-          "id": "89243ced4b4068b5ea60520fb140f294f46e6df7bd710defaf9ae9352a5b868a",
-          "title": "Troy Jackson campaigns with Bernie Sanders in Bangor",
+          "id": "044e68840dffebec41ae142a6a1aec5c289f056b0e73b732c579566119fa3170",
+          "title": "VV: SC Senate debate takeaways | CNN Politics",
+          "description": "In a contentious South Carolina Senate debate, Republican Darline Graham sought to portray Democrat Annie Andrews as too far left, while Andrews challenged Graham’s qualifications and criticized her votes on the Iran war. CNN’s Dianne Gallagher breaks it down.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/vv-sc-senate-debate-takeaways-cnn-politics-88710098",
+          "publishedAt": "2026-10-12T06:54:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3fe863d6a369e7fc36ea77c2d496c51d60dc0dc4793bc4093461cb7d3008c968",
+          "title": "Letter: Many Mainers don’t regret Susan Collins’ vote on Brett Kavanaugh",
+          "description": "\"Can you really trust Troy Jackson to be the next U.S. senator from the great state of Maine?\"",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/12/opinion/letters/letter-many-mainers-dont-regret-susan-collins-vote-on-brett-kavanaugh/",
+          "publishedAt": "2026-10-12T05:00:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "1c7715d0fb408e40f4e6e6dbf4f72546103ed2bd0b32fedd4c7bb62031631f83",
+          "title": "Letter: Susan Collins has proven her worth to Mainers",
+          "description": null,
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/12/opinion/letters/letter-susan-collins-has-proven-her-worth-to-mainers/",
+          "publishedAt": "2026-10-12T05:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "739f7d55e336bb30ef360b66d7239a928cf49d486705421311250eb7ab85532a",
+          "title": "Letter: Don’t let Susan Collins vote for any more Supreme Court justices",
+          "description": "\"I believe a credible account of sexual assault committed by a nominee should be disqualifying.\"",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/12/opinion/letters/letter-dont-let-susan-collins-vote-for-any-more-supreme-court-justices/",
+          "publishedAt": "2026-10-12T05:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "25568c2f1198b5f284194b6783a5450758f341217b663942c60a9052ac15cc2c",
+          "title": "‘Billionaires should not buy elections’: Bernie Sanders calls out Trump, Musk and big tech",
+          "description": "Bernie Sanders criticised Donald Trump, Elon Musk and the influence of billionaires during a rally in Bangor, Maine, alongside Troy Jackson. Sanders attacked Trump’s healthcare agenda, warned about the impact of artificial intelligence and Big Tech, and said the Maine Senate race could influence control of Congress. He called for Medicare for All, higher wages and limits on billionaire campaign spending, urging working-class voters to mobilise ahead of the 2026 midterm elections.",
+          "sourceName": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/billionaires-should-not-buy-elections-bernie-sanders-calls-out-trump-musk-and-big-tech/videoshow/134882437.cms",
+          "publishedAt": "2026-10-12T04:30:30.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "1524cf9db45a088fd6252630be592f8aaeada9f215465f66f61bd22de9b76612",
+          "title": "Early voting data: Trump strongholds in Ohio shift left",
+          "description": "CNN’s Tom Foreman takes a look at early voter data from the midterm elections, where Democrats are seemingly outpacing Republicans in enthusiasm.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/early-voting-data-trump-strongholds-in-ohio-shift-left-88706326",
+          "publishedAt": "2026-10-12T04:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9c8f9d868110af7a021bf6b8d09c856239000d6de2210a2993ea90eeaa4970ea",
+          "title": "Bernie Sanders joins Troy Jackson on campaign trail to rally Maine voters",
+          "description": "LEWISTON, ME (WGME) – Democratic U.S. Senate candidate Troy Jackson held get-out-the-vote rallies across Maine this weekend, and he was joined by Vermont Sen. Bernie Sanders. Jackson’s “Solidarity Forever” tour included a Sunday rally at the Agora Palace Events Center, his second stop of the weekend. Jackson held a rally Saturday in Bangor and made […] The post Bernie Sanders joins Troy Jackson on campaign trail to rally Maine voters appeared first on News Pub.",
+          "sourceName": "News Pub",
+          "url": "https://newspub.live/northeast/maine/bernie-sanders-joins-troy-jackson-on-campaign-trail-to-rally-maine-voters/",
+          "publishedAt": "2026-10-12T03:45:04.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "4085aa67227f61ca2439de2409536b639ee18a8d266c024ef29b81e72004baaa",
+          "title": "1 dead, 2 injured after multi-car crash in Poland",
+          "description": "نُشر هذا المقال أولاً عبر Cedarnews.net. لمتابعة المزيد من الأخبار والتقارير الحصرية، زورونا على موقعنا. 1 dead 2: The development was reported about 5 minutes ago. The initial verified report was . The verified report states: It happened on Bakerstown Road. It. تم نشر هذا الخبر عبر موقع Cedarnews الإخباري. للاطلاع على مزيد من الأخبار العاجلة والتقارير الحصرية، زوروا موقعنا الرسمي.",
+          "sourceName": "Cedar News",
+          "url": "https://cedarnews.net/newstasks/1052974/1-dead-2-injured-multi-car-crash/",
+          "publishedAt": "2026-10-12T01:41:23.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f5deeab0fe66efc2e308df03e74db7e421c4584af762035289a2562ea10a1066",
+          "title": "Letter: Don’t let Susan Collins vote for any more Supreme Court justices",
+          "description": "I believe a credible account of sexual assault committed by a nominee should be disqualifying.",
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4940555998200-letter-don-t-let-susan-collins-vote-for-any-more-supreme-court-justices",
+          "publishedAt": "2026-10-12T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2d8f1c411078102a8c8203a0e3e8d57c16a6e06fdaf495bd3f38347da41a5f52",
+          "title": "Bernie Sanders joins Troy Jackson on campaign trail to rally Maine voters",
           "description": null,
           "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4938013833371-troy-jackson-campaigns-with-bernie-sanders-in-bangor",
-          "publishedAt": "2026-10-11T00:00:00.000Z",
-          "sentiment": 0.6
+          "url": "https://www.newsbreak.com/news/4940307277610-bernie-sanders-joins-troy-jackson-on-campaign-trail-to-rally-maine-voters",
+          "publishedAt": "2026-10-12T00:00:00.000Z",
+          "sentiment": 1
         },
         {
-          "id": "887612c474f2d06249fed33441d64b989e7e8b3dda035a81665dcac0e6ad694f",
-          "title": "Bernie Sanders joins Troy Jackson for ‘Solidarity Forever’ tour in Maine",
-          "description": "BANGOR, Maine (WABI) - With Election Day about three weeks away, Vermont Sen. Bernie Sanders is in Maine this weekend, drumming up support for Democratic S",
+          "id": "6431400ec7c90b0d514f55eac0c6043986f1a3fce58d26c85768cced1bd4c238",
+          "title": "Letter: Susan Collins has proven her worth to Mainers",
+          "description": null,
           "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4938035380131-bernie-sanders-joins-troy-jackson-for-solidarity-forever-tour-in-maine",
-          "publishedAt": "2026-10-11T00:00:00.000Z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "8eb586dfe57bf0c05d30738d041dc3db599087175159850a3061e0045f111d17",
-          "title": "Bernie Sanders rallies with Troy Jackson in Bangor as Senate race tightens",
-          "description": "The Bangor rally was the first of three planned appearances with Democratic nominee Troy Jackson this weekend.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/10/politics/bernie-sanders-troy-jackson-bangor-maine-rally/",
-          "publishedAt": "2026-10-10T23:34:29.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "870dcae05b0a3fda485d28dd5c29b0581ead5bf61de82b1a28a064091b808573",
-          "title": "WATCH LIVE: Sen. Bernie Sanders speaks at campaign rally in Maine",
-          "description": "Sen. Bernie Sanders speaks alongside Democratic Senate nominee Troy Jackson at a campaign rally in Biddeford, Maine. Sanders rallies voters and highlights progressive economic policies ahead of the upcoming midterm elections. Read more… The post WATCH LIVE: Sen. Bernie Sanders speaks at campaign rally in Maine appeared first on CBNC.",
-          "sourceName": "Cbnc",
-          "url": "https://cbnc.com/watch-live-sen-bernie-sanders-speaks-at-campaign-rally-in-maine/",
-          "publishedAt": "2026-10-10T22:18:00.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "d054c662fe53547f5eae03a702298386e570d26bdbebc8668e40af6daa9f6fdc",
-          "title": "Midterm battle map grows as Republicans play defense in Nebraska, Ohio",
-          "description": "The map of competitive races keeps getting bigger, as Republicans try to put out brush fires all over the country in the all-out fight for control of the House and Senate.",
-          "sourceName": "New York Post",
-          "url": "https://nypost.com/2026/10/10/us-news/political-map-grows-as-republicans-eye-midwest-and-dixie/",
-          "publishedAt": "2026-10-10T21:54:32.000Z",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4940556017784-letter-susan-collins-has-proven-her-worth-to-mainers",
+          "publishedAt": "2026-10-12T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "83c9a35d94cf41cde37977e038b030fa102d56417ed90d5162b611f695868211",
-          "title": "Bernie Sanders Campaigns With Jackson for First Time Since Platner Fallout",
-          "description": "Independent Vermont Senator Bernie Sanders is campaigning with Troy Jackson, the Democratic candidate in Maine’s Senate race, this weekend, his first public appearance in the Pine Tree State since the fallout over Graham Platner’s campaign this summer. Sanders is set to appear at events with…",
-          "sourceName": "Biztoc",
-          "url": "https://biztoc.com/x/a4c022065841540a",
-          "publishedAt": "2026-10-10T20:35:16.000Z",
-          "sentiment": 0.5
+          "id": "f04785d17097f5be8a606ae5f24270fa70383177882a3c9b2dbf5e5e5bb37423",
+          "title": "Letter: Many Mainers don’t regret Susan Collins’ vote on Brett Kavanaugh",
+          "description": "Can you really trust Troy Jackson to be the next U.S. senator from the great state of Maine?",
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4940556022212-letter-many-mainers-don-t-regret-susan-collins-vote-on-brett-kavanaugh",
+          "publishedAt": "2026-10-12T00:00:00.000Z",
+          "sentiment": -1
         },
         {
-          "id": "69608d66b9a726974db1a313e4432f53bcf5bdeb4b00ade94c293575018ea895",
-          "title": "Bernie Sanders Campaigns With Jackson for First Time Since Platner Fallout",
-          "description": "Sanders' appearance comes as Troy Jackson is in striking distance of flipping the Maine seat held by GOP Senator Susan Collins.",
-          "sourceName": "Newsweek",
-          "url": "https://www.newsweek.com/bernie-sanders-campaigns-with-jackson-for-first-time-since-platner-fallout-12551518",
-          "publishedAt": "2026-10-10T20:19:42.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "e9830c45b68828a35021f72c85964f07eaf148cc19b3dff284809d4a8a564597",
-          "title": "In Maine Senate Race, Spiking Heating Oil Costs Put Susan Collins on Defensive",
-          "description": "BATH, Maine -- As the Senate race in Maine heats up, the state is getting cold.",
-          "sourceName": "Dailygazette.com",
-          "url": "https://www.dailygazette.com/nyt-feed/in-maine-senate-race-spiking-heating-oil-costs-put-susan-collins-on-defensive/article_1b9a4756-a8cc-54cb-a0a6-db1bbe395866.html",
-          "publishedAt": "2026-10-10T17:44:46.000Z",
+          "id": "de6a3a5c99aa3583882f62988fb9f337b20d973688839e70c4096ddee8f6352c",
+          "title": "Top Senate Dem to Trump Underlings: Lawyer Up",
+          "description": "Sen. Brian Schatz talks fundraising, oversight, and whether JD Vance has the juice to win the presidency.",
+          "sourceName": "Thebulwark",
+          "url": "https://www.thebulwark.com/p/top-senate-democrat-to-trump-underlings-lawyer-up-brian-schatz-interview",
+          "publishedAt": "2026-10-11T23:31:44.000Z",
           "sentiment": 0
+        },
+        {
+          "id": "f8de33367331b949433b220e1241a0bece6980253105e6bd862201830859ea61",
+          "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt - The New York Times",
+          "description": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt The New York Times Bernie Sanders rallies with Troy Jackson in Bangor as Senate race tightens Bangor Daily News Bernie Sanders Campaigns With Jackson for First Time Since Platner Fallout Newsweek Troy Jackson, Bernie Sanders bring ‘Solidarity Forever’ tour to Lewiston The Portland Press Herald Bernie Sanders boosts Troy Jackson's US Senate campaign with trio of weekend rallies in Maine newscentermaine.com",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblQzQjQ5Uk4wel93MjRNY0JoeE9IVEcwMFVPN3VkaFFXNGVod2NmbFFQeEluZENxZ0NmQzdwUFJWQUh2dWVVWktYZUhkcG5qSDZhUGJrWmhlampkajdjd0lmR3BWTWw2NWNLampMR1VUcGV6ZmZ1NWNBT2JlclVES2tjUVJtV2NXWjJfWm9KSklyYjMzMVJncUJISEU1TkRRRkpTWg?oc=5",
+          "publishedAt": "2026-10-11T22:22:16.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "ace9e5300551715a92e558b22fe955da4373d6a55978f6862c0afc13c622418d",
+          "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt (Tim Balk/New York Times)",
+          "description": "Tim Balk / New York Times: In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt — Three months after a jarring summer candidate switch, some Democrats in the state are worried about the enthusiasm for their nominee, Troy Jackson, who is in a close race. — When Graham Platner dropped …",
+          "sourceName": "Memeorandum",
+          "url": "https://www.memeorandum.com/261011/p58",
+          "publishedAt": "2026-10-11T21:25:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "5fa28f5770c30089f547eb87a64451ae20c2cc8774c0eadb396b26f2c78e3976",
+          "title": "Troy Jackson, Bernie Sanders bring ‘Solidarity Forever’ tour to Lewiston",
+          "description": "The Democratic Senate candidate for Maine and Vermont senator told voters they are prioritizing healthcare, affordability and protecting workers ahead of the Nov. 3 election.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/11/troy-jackson-bernie-sanders-bring-solidarity-forever-tour-to-lewiston/",
+          "publishedAt": "2026-10-11T21:08:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "08a5b43fcd61d44b75bbf5c79e96daeb2df536a9c7ff2cdc5d694c5dd35c6592",
+          "title": "Troy Jackson, Bernie Sanders bring ‘Solidarity Forever’ tour to Lewiston",
+          "description": "The Democratic Senate candidate for Maine and Vermont senator told voters they are prioritizing healthcare, affordability and protecting workers ahead of the Nov. 3 election.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/10/11/troy-jackson-bernie-sanders-bring-solidarity-forever-tour-to-lewiston/",
+          "publishedAt": "2026-10-11T21:08:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ca5717d93d4dc58da76d32b0b15b3641f4c6d0d6210132c76d14bb9e271d6cf2",
+          "title": "Troy Jackson, Bernie Sanders bring ‘Solidarity Forever’ tour to Lewiston",
+          "description": "The Democratic Senate candidate for Maine and Vermont senator told voters they are prioritizing healthcare, affordability and protecting workers ahead of the Nov. 3 election.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/10/11/troy-jackson-bernie-sanders-bring-solidarity-forever-tour-to-lewiston/",
+          "publishedAt": "2026-10-11T21:08:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1ea06018e57370f2cc54711726e6d9b1ed3c2a14b3d796249e9884a77fb148a0",
+          "title": "Anxious Maine Democrats Turn to Bernie Sanders for a Jolt",
+          "description": "“When Graham Platner dropped out of the Senate race in Maine in July after a rape allegation he denied, it deflated many Democrats who had rallied to his campaign,” the New York Times reports. “Three months later, some Democrats in the state are worried about the enthusiasm for Mr. Platner’s last-minute replacement, Troy Jackson, in […]",
+          "sourceName": "Political Wire",
+          "url": "https://politicalwire.com/2026/10/11/anxious-maine-democrats-turn-to-bernie-sanders-for-a-jolt/",
+          "publishedAt": "2026-10-11T21:04:19.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "653e21dbb8cd2ae08237666a5fb80c94ba648d2f93d371c6aaf3500bb461efeb",
+          "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
+          "description": "Three months after a jarring summer candidate switch, some Democrats in the state are worried about the enthusiasm for their nominee, Troy Jackson, who is in a close race.",
+          "sourceName": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/11/us/politics/maine-bernie-sanders-troy-jackson-seante-democrats.html",
+          "publishedAt": "2026-10-11T20:53:01.000Z",
+          "sentiment": -0.2
         }
       ],
       "social": [
