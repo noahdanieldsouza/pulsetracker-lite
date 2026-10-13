@@ -1,20 +1,30 @@
 {
-  "lastUpdated": "2026-10-13T15:51:08.653Z",
+  "lastUpdated": "2026-10-13T18:49:52.203Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "nirav-shah",
       "name": "Nirav Shah",
-      "overallSentiment": null,
-      "newsSentiment": null,
+      "overallSentiment": -1,
+      "newsSentiment": -1,
       "socialSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 0,
         "youtube": 0,
-        "total": 0
+        "total": 1
       },
-      "news": [],
+      "news": [
+        {
+          "id": "15f2927586010d95c54d37e35efa721456bace0783fec68c579a03351f666184",
+          "title": "Vijay Deverakonda and Rashmika Mandanna Meet Tamil Nadu CM C Joseph Vijay Ahead Of 'Ranabaali' Release",
+          "description": "Vijay Deverakonda and Rashmika Mandanna met the Tamil Nadu Chief Minister and former Tamil film star C Joseph Vijay at his Chennai residence on October 12.",
+          "sourceName": "The Hollywood Reporter India",
+          "url": "https://www.hollywoodreporterindia.com/features/insight/vijay-deverakonda-and-rashmika-mandanna-meet-tamil-nadu-cm-c-joseph-vijay-ahead-of-ranabaali-release",
+          "publishedAt": "2026-10-13T05:40:03.000Z",
+          "sentiment": -1
+        }
+      ],
       "social": [],
       "youtube": [],
       "youtubeSentiment": null
@@ -48,276 +58,546 @@
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3174924775374551,
-      "newsSentiment": 0.1206896551724138,
+      "overallSentiment": 0.1755676772257465,
+      "newsSentiment": -0.3050847457627119,
       "socialSentiment": 0.21640316205533602,
       "mentions": {
-        "news": 29,
+        "news": 59,
         "social": 507,
         "youtube": 26,
-        "total": 562
+        "total": 592
       },
       "news": [
         {
-          "id": "370428bec20c668b9b5647bd10c87d9db5fe7e3f2a9bee2940edbfa3df6f52c6",
-          "title": "Barack Obama Dusts Off His Most Famous Weapon for Fight Against Trump",
-          "description": "Barack Obama is bringing back the slogan that defined his 2008 presidential campaign as he campaigns for Democrats ahead of the midterms against Donald Trump‘s party. The former president released a video message on Friday urging supporters to help his party win control of Congress. Barack Obama is reprising his “hope” message to mobilize Democrats […] The post Barack Obama Dusts Off His Most Famous Weapon for Fight Against Trump appeared first on Mandatory.",
-          "sourceName": "Mandatory",
-          "url": "https://www.mandatory.com/news/1869123-barack-obama-midterms-message-democrats-donald-trump",
-          "publishedAt": "2026-10-12T08:32:27.000Z",
+          "id": "5d46ad9f68a8d902f9df8de7c240fda91d93fa3a425d0cd0d46eb9854e6b0d05",
+          "title": "The Top 37 Races to Watch This Midterm",
+          "description": "From the American South to the tundras of Alaska, voters’ decisions this November are set to rebalance political power in the United States.",
+          "sourceName": "The Epoch Times",
+          "url": "https://www.theepochtimes.com/article/the-top-37-races-to-watch-this-midterm-6080510",
+          "publishedAt": "2026-10-13T06:42:29.000Z",
           "sentiment": 0
         },
         {
-          "id": "dce5a6a4cf064a0d235bf3aa0721cde6280d62c67e7fe6d82ecb1e166fdba072",
-          "title": "ProPublica report, outrageous? Yes it is, senator. | Letter",
-          "description": "Confronted with credible accusations that Sen. Susan Collins received large contributions from someone seeking a lucrative contract with the federal government, the senator and her campaign responded by calling it “outrageous.” I agree. It certainly is outrageous that such payments appear to have been accepted under those circumstances. It’s also outrageous that we have an electoral […]",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/10/12/propublica-report-outrageous-yes-it-is-senator-letter/",
-          "publishedAt": "2026-10-12T08:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f31672fa0b0fbc4a5e30d7175c2652075e77b8b6f746b5bae6ff02d5ebb38500",
-          "title": "What happens to Maine’s economy without congressional clout? | Letter",
-          "description": "Whatever our politics next month, the time for a serious plan is now.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/10/12/what-happens-to-maines-economy-without-congressional-clout-letter/",
-          "publishedAt": "2026-10-12T08:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9363fc16b1a4d7fe59c6d7dc77acf43ee3f0ea880668032f6a2a0c9874fc91ee",
-          "title": "ProPublica report, outrageous? Yes it is, senator. | Letter",
-          "description": "Confronted with credible accusations that Sen. Susan Collins received large contributions from someone seeking a lucrative contract with the federal government, the senator and her campaign responded by calling it “outrageous.” I agree. It certainly is outrageous that such payments appear to have been accepted under those circumstances. It’s also outrageous that we have an electoral […]",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/10/12/propublica-report-outrageous-yes-it-is-senator-letter/",
-          "publishedAt": "2026-10-12T08:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "666a7421d62991fdbf311008a414485181a074d27671ec3e623464bb57929170",
-          "title": "What happens to Maine’s economy without congressional clout? | Letter",
-          "description": "Whatever our politics next month, the time for a serious plan is now.",
-          "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/10/12/what-happens-to-maines-economy-without-congressional-clout-letter/",
-          "publishedAt": "2026-10-12T08:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "be95c6486cd723180911c9b817e73b16989071ae944c19a55aef5374d4818182",
-          "title": "Democrats Outpace Early Voting Share Compared to 2024, 2022 in Key States",
-          "description": "Hispanic voters are turning out at record rates as President Trump’s approval craters among the demographic.",
-          "sourceName": "The New York Sun",
-          "url": "https://www.nysun.com/article/democrats-outpace-early-voting-share-compared-to-2024-2022-in-key-states",
-          "publishedAt": "2026-10-12T07:59:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "826f012ff302e65654e5c7ca892f936a000dc5241328623cda6894c1e677d80e",
-          "title": "Trump Campaign Rally Amidst Midterm Stakes and Economic Shifts",
-          "description": "An analysis of the 2026 midterm election landscape highlights President Trump's campaign activities in red states and a rally in San Antonio, while examining economic collisions between appointees Warsh and Bessent, conservative gains in Latin America, and the intense financial and strategic battle between Democrats and Republicans for the House majority.",
+          "id": "7199006238dc8265df016ac153a3f10e6c959424476d2197f408801bd4ef4f82",
+          "title": "Trump’s challenge in Ohio wasn’t only winning support — it was filling seats",
+          "description": "President Donald Trump on Monday kicked off a week of red-state campaigning with a raucous rally in Ohio, where large sections of seating in the arena were also empty. Republicans are fighting to hold onto a Senate seat that could be key to their majority. CNN’s Betsy Klein reports.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/trump-campaign-rally-amidst-midterm-stakes-and-economic-88711593",
-          "publishedAt": "2026-10-12T07:42:00.000Z",
+          "url": "https://us.headtopics.com/news/trump-s-challenge-in-ohio-wasn-t-only-winning-support-it-88745484",
+          "publishedAt": "2026-10-13T05:46:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "1b551f9413de4bb7a2bf6f90ca124448e1206b1241be8c651d9b32d2a72f93d1",
-          "title": "The blue wave looks real until you look a little closer",
-          "description": "It’s like watching some sci-fi game with players competing on 470 different fields. Which is... The post The blue wave looks real until you look a little closer appeared first on Democratic Accent .",
-          "sourceName": "Democratic Accent",
-          "url": "https://www.democraticaccent.com/the-blue-wave-looks-real-until-you-look-a-little-closer/",
-          "publishedAt": "2026-10-12T07:00:07.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "67e61a2a3b19a57bbe3c81e42271e596c0660c5e2a065678069877637f9b5450",
-          "title": "The blue wave looks real until you look a little closer",
-          "description": "The 2026 midterm elections are heating up as Republicans and Democrats battle for control of Congress. From Texas and Maine to Michigan, key Senate races, shifting polls and campaign spending battles add to the uncertainty, while both parties look ahead to the 2028 presidential race.",
-          "sourceName": "Fox News",
-          "url": "https://www.foxnews.com/opinion/blue-wave-looks-real-until-you-look-little-closer",
-          "publishedAt": "2026-10-12T07:00:07.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "044e68840dffebec41ae142a6a1aec5c289f056b0e73b732c579566119fa3170",
-          "title": "VV: SC Senate debate takeaways | CNN Politics",
-          "description": "In a contentious South Carolina Senate debate, Republican Darline Graham sought to portray Democrat Annie Andrews as too far left, while Andrews challenged Graham’s qualifications and criticized her votes on the Iran war. CNN’s Dianne Gallagher breaks it down.",
+          "id": "1c9c6eba3723330a827e60df066b4ae0739c1de9926cfce96edda5290e51ee0b",
+          "title": "MAGA donor denies owing Guilfoyle money in alleged access-for-pay",
+          "description": "Former lawyer and Trump donor Eric Deters disputed owning any money to Ambassador Kimberly Guilfoyle after her lawyers said he owed money for speeches and consulting work. Lawyers for Guilfoyle have denied allegations about her seeking money and said reports about her travel were misleading.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/vv-sc-senate-debate-takeaways-cnn-politics-88710098",
-          "publishedAt": "2026-10-12T06:54:00.000Z",
+          "url": "https://us.headtopics.com/news/maga-donor-denies-owing-guilfoyle-money-in-alleged-88745482",
+          "publishedAt": "2026-10-13T05:46:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "3fe863d6a369e7fc36ea77c2d496c51d60dc0dc4793bc4093461cb7d3008c968",
-          "title": "Letter: Many Mainers don’t regret Susan Collins’ vote on Brett Kavanaugh",
-          "description": "\"Can you really trust Troy Jackson to be the next U.S. senator from the great state of Maine?\"",
+          "id": "e715d409534889a5662b08c9e2a9f2efe3c95fe12d00a7bf35adae4c7ab46367",
+          "title": "Letter: Why I no longer support Susan Collins",
+          "description": "“After nearly three decades in office, I wanted Collins’ seniority to mean more than appropriations and occasional independence.”",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/12/opinion/letters/letter-many-mainers-dont-regret-susan-collins-vote-on-brett-kavanaugh/",
-          "publishedAt": "2026-10-12T05:00:00.000Z",
+          "url": "https://www.bangordailynews.com/2026/10/13/opinion/letters/letter-why-i-no-longer-support-susan-collins-joam40zk0w/",
+          "publishedAt": "2026-10-13T05:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "aa2f7e501e24318ae30c9dc8f62b58ad4c3581279a629aa6c2eb8d9a8e9380c8",
+          "title": "Bernie Sanders Slams Trump, Musk and Billionaires at Maine Rally Ahead of 2026 Midterm Elections",
+          "description": "Bernie Sanders took aim at US President Donald Trump, Elon Musk and the growing influence of billionaires during a rally in Bangor, Maine, alongside Troy Jackson. Sanders criticised Trump’s healthcare agenda, warned about the potential impact of artificial intelligence and Big Tech, and called for Medicare for All, higher wages and limits on billionaire campaign spending. He also highlighted the importance of the Maine Senate race in determining control of Congress, urging working-class voters to mobilise ahead of the 2026 US midterm elections. n18oc_world n18oc_breaking-news CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world. CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date. Subscribe Now and join our community of informed and engaged viewers. Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18 with latest headlines on politics, sports and entertainment on news18.comNews18 Mobile App - https://onelink.to/desc-youtube",
+          "sourceName": "News 18",
+          "url": "https://www.news18.com/videos/world/bernie-sanders-slams-trump-musk-and-billionaires-at-maine-rally-ahead-of-2026-midterm-elections-10379172.html",
+          "publishedAt": "2026-10-13T02:15:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "0ba197570034168a7b2ca234bf860aa6bc4354e54ab5a34510fa3bb115ae299f",
+          "title": "An ad targeting Susan Collins’ opponent airs in the wrong Portland",
+          "description": "An executive with the Republican super PAC that paid for the ad attacking Troy Jackson, the Democratic Senate candidate in Maine, blamed its vendor for running the ad in Oregon. The post An ad targeting Susan Collins’ opponent airs in the wrong Portland appeared first on Boston.com.",
+          "sourceName": "Boston",
+          "url": "https://www.boston.com/news/politics/2026/10/12/an-ad-targeting-susan-collins-opponent-airs-in-the-wrong-portland/",
+          "publishedAt": "2026-10-13T02:04:33.000Z",
           "sentiment": -1
         },
         {
-          "id": "1c7715d0fb408e40f4e6e6dbf4f72546103ed2bd0b32fedd4c7bb62031631f83",
-          "title": "Letter: Susan Collins has proven her worth to Mainers",
-          "description": null,
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/12/opinion/letters/letter-susan-collins-has-proven-her-worth-to-mainers/",
-          "publishedAt": "2026-10-12T05:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "739f7d55e336bb30ef360b66d7239a928cf49d486705421311250eb7ab85532a",
-          "title": "Letter: Don’t let Susan Collins vote for any more Supreme Court justices",
-          "description": "\"I believe a credible account of sexual assault committed by a nominee should be disqualifying.\"",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/10/12/opinion/letters/letter-dont-let-susan-collins-vote-for-any-more-supreme-court-justices/",
-          "publishedAt": "2026-10-12T05:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "25568c2f1198b5f284194b6783a5450758f341217b663942c60a9052ac15cc2c",
-          "title": "‘Billionaires should not buy elections’: Bernie Sanders calls out Trump, Musk and big tech",
-          "description": "Bernie Sanders criticised Donald Trump, Elon Musk and the influence of billionaires during a rally in Bangor, Maine, alongside Troy Jackson. Sanders attacked Trump’s healthcare agenda, warned about the impact of artificial intelligence and Big Tech, and said the Maine Senate race could influence control of Congress. He called for Medicare for All, higher wages and limits on billionaire campaign spending, urging working-class voters to mobilise ahead of the 2026 midterm elections.",
-          "sourceName": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/billionaires-should-not-buy-elections-bernie-sanders-calls-out-trump-musk-and-big-tech/videoshow/134882437.cms",
-          "publishedAt": "2026-10-12T04:30:30.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "1524cf9db45a088fd6252630be592f8aaeada9f215465f66f61bd22de9b76612",
-          "title": "Early voting data: Trump strongholds in Ohio shift left",
-          "description": "CNN’s Tom Foreman takes a look at early voter data from the midterm elections, where Democrats are seemingly outpacing Republicans in enthusiasm.",
+          "id": "bbb8891d25574aa6eb34de2ef406ba5d687e3f69cd37008b4e17b956b3a05bb2",
+          "title": "Trump jokes about candidate’s ‘ass’ at rally",
+          "description": "During a midterms rally in Youngstown, Ohio, President Trump joked about observing Republican Sen. Jon Husted’s physique.",
           "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/early-voting-data-trump-strongholds-in-ohio-shift-left-88706326",
-          "publishedAt": "2026-10-12T04:00:00.000Z",
+          "url": "https://us.headtopics.com/news/trump-jokes-about-candidate-s-ass-at-rally-88740491",
+          "publishedAt": "2026-10-13T01:36:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "9c8f9d868110af7a021bf6b8d09c856239000d6de2210a2993ea90eeaa4970ea",
-          "title": "Bernie Sanders joins Troy Jackson on campaign trail to rally Maine voters",
-          "description": "LEWISTON, ME (WGME) – Democratic U.S. Senate candidate Troy Jackson held get-out-the-vote rallies across Maine this weekend, and he was joined by Vermont Sen. Bernie Sanders. Jackson’s “Solidarity Forever” tour included a Sunday rally at the Agora Palace Events Center, his second stop of the weekend. Jackson held a rally Saturday in Bangor and made […] The post Bernie Sanders joins Troy Jackson on campaign trail to rally Maine voters appeared first on News Pub.",
-          "sourceName": "News Pub",
-          "url": "https://newspub.live/northeast/maine/bernie-sanders-joins-troy-jackson-on-campaign-trail-to-rally-maine-voters/",
-          "publishedAt": "2026-10-12T03:45:04.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "4085aa67227f61ca2439de2409536b639ee18a8d266c024ef29b81e72004baaa",
-          "title": "1 dead, 2 injured after multi-car crash in Poland",
-          "description": "نُشر هذا المقال أولاً عبر Cedarnews.net. لمتابعة المزيد من الأخبار والتقارير الحصرية، زورونا على موقعنا. 1 dead 2: The development was reported about 5 minutes ago. The initial verified report was . The verified report states: It happened on Bakerstown Road. It. تم نشر هذا الخبر عبر موقع Cedarnews الإخباري. للاطلاع على مزيد من الأخبار العاجلة والتقارير الحصرية، زوروا موقعنا الرسمي.",
-          "sourceName": "Cedar News",
-          "url": "https://cedarnews.net/newstasks/1052974/1-dead-2-injured-multi-car-crash/",
-          "publishedAt": "2026-10-12T01:41:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f5deeab0fe66efc2e308df03e74db7e421c4584af762035289a2562ea10a1066",
-          "title": "Letter: Don’t let Susan Collins vote for any more Supreme Court justices",
-          "description": "I believe a credible account of sexual assault committed by a nominee should be disqualifying.",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4940555998200-letter-don-t-let-susan-collins-vote-for-any-more-supreme-court-justices",
-          "publishedAt": "2026-10-12T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2d8f1c411078102a8c8203a0e3e8d57c16a6e06fdaf495bd3f38347da41a5f52",
-          "title": "Bernie Sanders joins Troy Jackson on campaign trail to rally Maine voters",
+          "id": "2d60962e2688a33dc94238f83f2709d2a6fef1c510c9c5304cb7a49fa8561f72",
+          "title": "Schumer has broad support from his caucus, but midterms could decide his future as leader",
           "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4940307277610-bernie-sanders-joins-troy-jackson-on-campaign-trail-to-rally-maine-voters",
-          "publishedAt": "2026-10-12T00:00:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "6431400ec7c90b0d514f55eac0c6043986f1a3fce58d26c85768cced1bd4c238",
-          "title": "Letter: Susan Collins has proven her worth to Mainers",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4940556017784-letter-susan-collins-has-proven-her-worth-to-mainers",
-          "publishedAt": "2026-10-12T00:00:00.000Z",
+          "sourceName": "Olean Times Herald",
+          "url": "https://www.oleantimesherald.com/2026/10/12/schumer-broad-support-caucus-midterms-decide-future-leader/?ta_paidstory=",
+          "publishedAt": "2026-10-13T00:56:32.000Z",
           "sentiment": 0
         },
         {
-          "id": "f04785d17097f5be8a606ae5f24270fa70383177882a3c9b2dbf5e5e5bb37423",
-          "title": "Letter: Many Mainers don’t regret Susan Collins’ vote on Brett Kavanaugh",
-          "description": "Can you really trust Troy Jackson to be the next U.S. senator from the great state of Maine?",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4940556022212-letter-many-mainers-don-t-regret-susan-collins-vote-on-brett-kavanaugh",
-          "publishedAt": "2026-10-12T00:00:00.000Z",
+          "id": "a028ba98496e2940ef270f70b16fc04c3ac11321164bc373e508a5018e7a32a5",
+          "title": "The Latest: Rep. Omar says she will ‘not be silenced’ after Homeland Security searches her home",
+          "description": "Federal agents have searched the home of Democratic U.S. Rep. Ilhan Omar. It's a startling escalation in a criminal investigation that brings renewed scrutiny to the frequent target of Trump administration derision in the final weeks of her reelection bid.…",
+          "sourceName": "News-gazette",
+          "url": "https://www.news-gazette.com/news/nation-world/the-latest-rep-omar-says-she-will-not-be-silenced-after-homeland-security-searches-her/article_0b754b69-6a00-5d30-a28a-1282e81e106f.html",
+          "publishedAt": "2026-10-13T00:55:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1afc7a735f49f726a7e158e2ab362116cd4ab9ff50e74e18001d0ce450eaff62",
+          "title": "The Latest: Rep. Omar says she will ‘not be silenced’ after Homeland Security searches her home",
+          "description": "Federal agents have searched the home of Democratic U.S. Rep. Ilhan Omar. It's a startling escalation in a criminal investigation that brings renewed scrutiny to the frequent target of Trump administration derision in the final weeks of her reelection bid.…",
+          "sourceName": "Union-bulletin",
+          "url": "https://www.union-bulletin.com/news/national/the-latest-rep-omar-says-she-will-not-be-silenced-after-homeland-security-searches-her/article_467a1d83-4d74-574f-9525-fb8300f1653d.html",
+          "publishedAt": "2026-10-13T00:55:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2c960bf205ec4e3460e6a76134a461733a90add618f40403a52938b4cc09b611",
+          "title": "The Latest: Rep. Omar says she will ‘not be silenced’ after Homeland Security searches her home",
+          "description": "Federal agents have searched the home of Democratic U.S. Rep. Ilhan Omar. It's a startling escalation in a criminal investigation that brings renewed scrutiny to the frequent target of Trump administration derision in the final weeks of her reelection bid.…",
+          "sourceName": "Yakima Herald-republic",
+          "url": "https://www.yakimaherald.com/news/nation_and_world/nation/the-latest-rep-omar-says-she-will-not-be-silenced-after-homeland-security-searches-her/article_52b14113-cbdb-5a7b-881f-2bb61ed23baa.html",
+          "publishedAt": "2026-10-13T00:55:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "7cf321175d4d9c2da1263b9e0228fa60869e6e1d5815ef0803cc97a4cec94965",
+          "title": "The Latest: Rep. Omar says she will ‘not be silenced’ after Homeland Security searches her home",
+          "description": "Federal agents have searched the home of Democratic U.S. Rep. Ilhan Omar. It's a startling escalation in a criminal investigation that brings renewed scrutiny to the frequent target of Trump administration derision in the final weeks of her reelection bid.…",
+          "sourceName": "Rutland Herald",
+          "url": "https://www.rutlandherald.com/ap/national/the-latest-rep-omar-says-she-will-not-be-silenced-after-homeland-security-searches-her/article_e6639dd2-8b28-5d4b-890e-f89fd72dcedd.html",
+          "publishedAt": "2026-10-13T00:55:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f2708a11461f5022bb74bea83ca91c25763f9a83fa1d833eff9bddbb9897569b",
+          "title": "CNN talks to Trump supporters about gas prices",
+          "description": "CNN’s Betsy Klein speaks to supporters of Donald Trump in Youngstown, Ohio, ahead of the president’s midterms rally.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/cnn-talks-to-trump-supporters-about-gas-prices-88739758",
+          "publishedAt": "2026-10-13T00:44:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5b68e98cb2a922066f87e9775d5b3b5b628ae9a1395cc0f838364ddb8a23a497",
+          "title": "Day Around the Bay: Minnesota Farmer Wins Pumpkin Weigh-Off For Fifth Time",
+          "description": "Retired SFPD officer was reportedly telling friends she was happy to be getting divorced before Sunday's murder-suicide; Republicans spent money on pro Susan Collins ads in the wrong Portland; and a farmer just became a five-time winner of Half Moon Bay's annual giant pumpkin weigh-off.",
+          "sourceName": "Sfist",
+          "url": "https://sfist.com/2026/10/12/minnesota-farmer-wins-pumpkin-weigh-off-for-fifth-time/",
+          "publishedAt": "2026-10-13T00:20:56.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a1f538930052341c0b4239fed98e0dfda783babb0048d5ecf9dfacfc38e1835e",
+          "title": "GOP ad buyer mixes up his Portlands and spends big for Maine Sen. Susan Collins. In Oregon.",
+          "description": "‘I’ve gotten 5 anti-Troy Jackson ads in the last 24 hours,’ an Oregon resident wrote on social media. ‘I choose to believe they mixed up Portlands’",
+          "sourceName": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/republican-ad-mistake-portland-oregon-maine-b3065492.html",
+          "publishedAt": "2026-10-13T00:02:25.000Z",
           "sentiment": -1
         },
         {
-          "id": "de6a3a5c99aa3583882f62988fb9f337b20d973688839e70c4096ddee8f6352c",
-          "title": "Top Senate Dem to Trump Underlings: Lawyer Up",
-          "description": "Sen. Brian Schatz talks fundraising, oversight, and whether JD Vance has the juice to win the presidency.",
-          "sourceName": "Thebulwark",
-          "url": "https://www.thebulwark.com/p/top-senate-democrat-to-trump-underlings-lawyer-up-brian-schatz-interview",
-          "publishedAt": "2026-10-11T23:31:44.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f8de33367331b949433b220e1241a0bece6980253105e6bd862201830859ea61",
-          "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt - The New York Times",
-          "description": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt The New York Times Bernie Sanders rallies with Troy Jackson in Bangor as Senate race tightens Bangor Daily News Bernie Sanders Campaigns With Jackson for First Time Since Platner Fallout Newsweek Troy Jackson, Bernie Sanders bring ‘Solidarity Forever’ tour to Lewiston The Portland Press Herald Bernie Sanders boosts Troy Jackson's US Senate campaign with trio of weekend rallies in Maine newscentermaine.com",
+          "id": "5b69318fa5e8a825ee707d4677389af4cc149426494af6b5fd886e36765e949f",
+          "title": "An Ad Targeting Susan Collins’s Opponent Airs in the Wrong Portland - The New York Times",
+          "description": "An Ad Targeting Susan Collins’s Opponent Airs in the Wrong Portland The New York Times Voters in Portland (Oregon) get ads meant for Portland (Maine) The Washington Post GOP ad buyer mixes up Portlands, spends money meant to help Maine Sen. Susan Collins in Oregon NBC News A GOP PAC ran an ad opposing Maine Democrat Troy Jackson — in the wrong Portland MS NOW The $25,000 mistake that had Oregon viewers watching ads about Maine's Senate race OregonLive.com",
           "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblQzQjQ5Uk4wel93MjRNY0JoeE9IVEcwMFVPN3VkaFFXNGVod2NmbFFQeEluZENxZ0NmQzdwUFJWQUh2dWVVWktYZUhkcG5qSDZhUGJrWmhlampkajdjd0lmR3BWTWw2NWNLampMR1VUcGV6ZmZ1NWNBT2JlclVES2tjUVJtV2NXWjJfWm9KSklyYjMzMVJncUJISEU1TkRRRkpTWg?oc=5",
-          "publishedAt": "2026-10-11T22:22:16.000Z",
-          "sentiment": 1
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmRGeVNEeU53Z1dSN1lKS2x6LW1TSkNtWEFUZ0hYNTZHVWotdDc2Y0huZEFTNVAwYXNFdGNOS2cyX1RXN0otMWJKNkZUSkhwbVVVck8wRnFuMVQ5b29iQ21oWHpwSUdZdkJwc1FLMGhvcU9DLWZIT2ktcFRjZG1EbGlGLWtvQjFkUExQNUxKMVRucUk?oc=5",
+          "publishedAt": "2026-10-13T00:00:27.000Z",
+          "sentiment": -1
         },
         {
-          "id": "ace9e5300551715a92e558b22fe955da4373d6a55978f6862c0afc13c622418d",
-          "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt (Tim Balk/New York Times)",
-          "description": "Tim Balk / New York Times: In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt — Three months after a jarring summer candidate switch, some Democrats in the state are worried about the enthusiasm for their nominee, Troy Jackson, who is in a close race. — When Graham Platner dropped …",
-          "sourceName": "Memeorandum",
-          "url": "https://www.memeorandum.com/261011/p58",
-          "publishedAt": "2026-10-11T21:25:00.000Z",
-          "sentiment": 1
+          "id": "2eef50c35a37a597d6025ffc6a1f1548f837ff109dad1c7c68d7fca72a4db913",
+          "title": "Troy Jackson attack ad, meant for Portland, Maine market, accidentally runs in Portland, Oregon area",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4942522249927-troy-jackson-attack-ad-meant-for-portland-maine-market-accidentally-runs-in-portland-oregon-area",
+          "publishedAt": "2026-10-13T00:00:00.000Z",
+          "sentiment": -1
         },
         {
-          "id": "5fa28f5770c30089f547eb87a64451ae20c2cc8774c0eadb396b26f2c78e3976",
-          "title": "Troy Jackson, Bernie Sanders bring ‘Solidarity Forever’ tour to Lewiston",
-          "description": "The Democratic Senate candidate for Maine and Vermont senator told voters they are prioritizing healthcare, affordability and protecting workers ahead of the Nov. 3 election.",
-          "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/10/11/troy-jackson-bernie-sanders-bring-solidarity-forever-tour-to-lewiston/",
-          "publishedAt": "2026-10-11T21:08:00.000Z",
-          "sentiment": 1
+          "id": "a468f99df3616e24bd9be5d6dab19b8f2a4b61ed31bb16e1b7730c1a54e81cf7",
+          "title": "Buyer Confuses Portlands, Runs Susan Collins Ad in Oregon",
+          "description": "A recent poll found Republican Sen. Susan Collins trailing Democrat Troy Jackson by 4 percentage points in their race in Maine. It's less clear how she's doing in Oregon, though she might expect a bounce now. A GOP group supporting Collins has mistakenly spent almost $25,000 to air an...",
+          "sourceName": "Newser",
+          "url": "https://www.newser.com/story/398001/susan-collins-ad-runs-in-the-wrong-portland.html",
+          "publishedAt": "2026-10-12T23:44:00.000Z",
+          "sentiment": -1
         },
         {
-          "id": "08a5b43fcd61d44b75bbf5c79e96daeb2df536a9c7ff2cdc5d694c5dd35c6592",
-          "title": "Troy Jackson, Bernie Sanders bring ‘Solidarity Forever’ tour to Lewiston",
-          "description": "The Democratic Senate candidate for Maine and Vermont senator told voters they are prioritizing healthcare, affordability and protecting workers ahead of the Nov. 3 election.",
+          "id": "aff306588d4336f8d8e24052db24ef9996adfa3fbc56d3087eab93c375ff556e",
+          "title": "Super PAC buys Troy Jackson attack ad in Portland, Oregon",
+          "description": "Defending Main Street, a Republican-supporting Super PAC, ran the ads in more than 260 zip codes in Oregon between Oct. 8 and 11.",
           "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/10/11/troy-jackson-bernie-sanders-bring-solidarity-forever-tour-to-lewiston/",
-          "publishedAt": "2026-10-11T21:08:00.000Z",
-          "sentiment": 0
+          "url": "https://www.centralmaine.com/2026/10/12/super-pac-buys-troy-jackson-attack-ad-in-portland-oregon/",
+          "publishedAt": "2026-10-12T23:32:55.000Z",
+          "sentiment": -1
         },
         {
-          "id": "ca5717d93d4dc58da76d32b0b15b3641f4c6d0d6210132c76d14bb9e271d6cf2",
-          "title": "Troy Jackson, Bernie Sanders bring ‘Solidarity Forever’ tour to Lewiston",
-          "description": "The Democratic Senate candidate for Maine and Vermont senator told voters they are prioritizing healthcare, affordability and protecting workers ahead of the Nov. 3 election.",
+          "id": "0a792bb2375aa4a49ce5baccc49b8e7d54b71fa7314ab8a00d8145a7a114abe9",
+          "title": "Super PAC buys Troy Jackson attack ad in Portland, Oregon",
+          "description": "Defending Main Street, a Republican-supporting Super PAC, ran the ads in more than 260 zip codes in Oregon between Oct. 8 and 11.",
           "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/10/11/troy-jackson-bernie-sanders-bring-solidarity-forever-tour-to-lewiston/",
-          "publishedAt": "2026-10-11T21:08:00.000Z",
+          "url": "https://www.sunjournal.com/2026/10/12/super-pac-buys-troy-jackson-attack-ad-in-portland-oregon/",
+          "publishedAt": "2026-10-12T23:32:55.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "cd9ccef0b533de7af91dcdfcec12635ccf943f4c8cc7b3501cd8a0aefd8e07c6",
+          "title": "Super PAC buys Troy Jackson attack ad in Portland, Oregon",
+          "description": "Defending Main Street, a Republican-supporting Super PAC, ran the ads in more than 260 zip codes in Oregon between Oct. 8 and 11.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/10/12/super-pac-buys-troy-jackson-attack-ad-in-portland-oregon/",
+          "publishedAt": "2026-10-12T23:32:55.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "b426d4572d5a49769ad2824ef7ec9356e24341a6822fe4f9ac7dbf9aa597cd0b",
+          "title": "Midterms On Map: 10 Senate Races That Will Decide Control Of Future Trump Presidency",
+          "description": "Democrats, who have to flip at least 4 seats to take control of the US Senate from Republicans, are now eyeing as many as 7 pickups in the upcoming 2026 Midterm Elections.",
+          "sourceName": "Times Now News",
+          "url": "https://www.timesnownews.com/world/us/us-news/midterms-on-map-10-senate-races-that-will-decide-control-of-future-trump-presidency-article-156325802",
+          "publishedAt": "2026-10-12T23:29:23.000Z",
           "sentiment": 0
         },
         {
-          "id": "1ea06018e57370f2cc54711726e6d9b1ed3c2a14b3d796249e9884a77fb148a0",
-          "title": "Anxious Maine Democrats Turn to Bernie Sanders for a Jolt",
-          "description": "“When Graham Platner dropped out of the Senate race in Maine in July after a rape allegation he denied, it deflated many Democrats who had rallied to his campaign,” the New York Times reports. “Three months later, some Democrats in the state are worried about the enthusiasm for Mr. Platner’s last-minute replacement, Troy Jackson, in […]",
-          "sourceName": "Political Wire",
-          "url": "https://politicalwire.com/2026/10/11/anxious-maine-democrats-turn-to-bernie-sanders-for-a-jolt/",
-          "publishedAt": "2026-10-11T21:04:19.000Z",
-          "sentiment": -0.3
+          "id": "d24dadaff84f66ed43c77b2845266d40ee85966352790808f275f743c1768402",
+          "title": "Troy Jackson Holds a Narrow Lead Over Collins — But History and Money Could Change",
+          "description": "Troy Jackson leads Sen. Susan Collins by 1 to 4 points in Maine's most-watched Senate race, but history and massive GOP spending make this a true tossup. (154 chars)",
+          "sourceName": "Latin Times",
+          "url": "https://www.latintimes.com/troy-jackson-holds-narrow-lead-over-collins-history-money-could-change-600083",
+          "publishedAt": "2026-10-12T23:18:56.000Z",
+          "sentiment": 0
         },
         {
-          "id": "653e21dbb8cd2ae08237666a5fb80c94ba648d2f93d371c6aaf3500bb461efeb",
-          "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
-          "description": "Three months after a jarring summer candidate switch, some Democrats in the state are worried about the enthusiasm for their nominee, Troy Jackson, who is in a close race.",
+          "id": "b7eb1518a3cc38194d3f2428b999407673d5c2bbeae89025b65077c8282713d4",
+          "title": "The Senate races most likely to flip less than a month from Election Day",
+          "description": "The race for control of the Senate is heating up, with forecasters increasingly moving races in the Democrats' direction less than a month out from the election.",
+          "sourceName": "Kxan",
+          "url": "https://www.kxan.com/news/political-news/the-senate-races-most-likely-to-flip-less-than-a-month-from-election-day/",
+          "publishedAt": "2026-10-12T22:49:32.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5c799e81acb9a46475c53472f639840db0e6848893ef134093cb788db5a5027a",
+          "title": "Susan Collins’ allies spent $25,000 attacking her rival in the Oregon version of Portland: ‘They can’t even find it on a map’",
+          "description": "Since 1997, Susan Collins has served as one of Maine’s senators, and she may be the epitome of Maine. She, like her opponent Troy Jackson, grew up in the state’s northern tip. Her family ran a lumber business for generations in Caribou, and she’s well regarded by Mainers as someone from “the…",
+          "sourceName": "Biztoc",
+          "url": "https://biztoc.com/x/899d0075f8cb8dc7",
+          "publishedAt": "2026-10-12T22:35:38.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "679cf9857521d59ef16036b86f0068babd8ba76492366e649ee61779a1f818bb",
+          "title": "The Latest: Rep. Omar says she will ‘not be silenced’ after Homeland Security searches her home",
+          "description": "Federal agents have searched the home of Democratic U.S. Rep. Ilhan Omar. It's a startling escalation in a criminal investigation that brings renewed scrutiny to the frequent target of Trump administration derision in the final weeks of her reelection bid.…",
+          "sourceName": "Postregister",
+          "url": "https://www.postregister.com/news/national/the-latest-rep-omar-says-she-will-not-be-silenced-after-homeland-security-searches-her/article_5bdc5f06-121f-5663-a5b0-bdd4fd73386e.html",
+          "publishedAt": "2026-10-12T21:58:31.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2ad5e8dacb02dafdd087a5ee9568519fcd53d2399fce7fc7be0b0af8ce77a817",
+          "title": "Republican-Aligned Super PAC Buys Ads in the Wrong Portland",
+          "description": "Defending Main Street said a media vendor mistakenly placed about $25,000 worth of digital ads in Portland, Oregon, instead of Portland, Maine.",
+          "sourceName": "The Washington Sun",
+          "url": "https://www.washingtonsun.com/campaigns/susan-collins-republican-aligned-super-pac-vendor-ad-buy-wrong-portland-oregon-maine",
+          "publishedAt": "2026-10-12T21:57:32.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c5ff149f1b475f83ec2e681a86bd9ce32a7ccf4ba7578015dc1c5fb2a91a08c2",
+          "title": "A costly political blunder sent a Senate ad to the completely wrong Portland",
+          "description": "You might have recently seen a political advertisement about Maine’s Senate race. That’s because the advertisement mistakenly played in Portland, Oregon, instead of Portland, Maine. The advertisement, paid for by Republican PAC Defending Main Street, decries “Taxin’ Troy Jackson,” the Democratic candidate facing off against Susan Collins. Sarah Chamberlain, president of the Republican Main Street Partnership, said she was “very unhappy” about the mix-up. “I’m really upset,” she said. “I cannot believe that this happened.”",
+          "sourceName": "Freerepublic",
+          "url": "https://freerepublic.com/focus/f-chat/4398941/posts",
+          "publishedAt": "2026-10-12T21:53:54.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "24d40d15beb31e35b32b76beef72516f84110f20c79b3ea1eaf2f191150114cc",
+          "title": "Susan Collins’ allies spent $25,000 attacking her rival in the Oregon version of Portland: ‘They can’t even find it on a map’",
+          "description": "\"Good luck convincing Mainers you know what’s best for them when you don’t know which Portland they live in,\" blasted her Democratic rival.",
+          "sourceName": "Fortune",
+          "url": "https://fortune.com/2026/10/12/susan-collins-allies-25000-attacking-rival-portland-oregon/",
+          "publishedAt": "2026-10-12T21:51:11.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "eb54fcc17253f36d6a09c68dbe3ec977018b1c1139e1f499c6f517736a13d062",
+          "title": "Republicans waste up to $25,000 on ad for Maine's Susan Collins in the wrong state",
+          "description": "The ads were meant to assist Republican Sen. Susan Collins of Maine, who is running in Portland, but they aired in Portland, Oregon, due to an embarrassing mix-up",
+          "sourceName": "The Mirror Us",
+          "url": "https://www.themirror.com/news/politics/republicans-waste-up-25000-ad-2066040",
+          "publishedAt": "2026-10-12T21:32:25.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9e3eb9b8709e8d5c1299a014486c1da213b326ce6699ba2e02d4cc5b1c63cc40",
+          "title": "An Ad Targeting Susan Collins’s Opponent, Troy Jackson, Airs in the Wrong Portland",
+          "description": "An executive with the Republican super PAC that paid for the ad attacking Mr. Jackson, the Democratic Senate candidate in Maine, blamed its vendor for running the ad in Oregon.",
           "sourceName": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/11/us/politics/maine-bernie-sanders-troy-jackson-seante-democrats.html",
-          "publishedAt": "2026-10-11T20:53:01.000Z",
-          "sentiment": -0.2
+          "url": "https://www.nytimes.com/2026/10/12/us/politics/maine-troy-jackson-ad-portland-oregon.html",
+          "publishedAt": "2026-10-12T21:29:53.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "1efd35d1200218dd66633203461cdf5dfa58ded8b0a45c29ab52901d74241b7b",
+          "title": "Schatz Tells Democrats to Plan for Divided Government Even If They Win Both Chambers",
+          "description": "Sen. Brian Schatz (D-Hawaii) speaks in Washington on May 21, 2026. (Madalina Kilroy/The Epoch Times)",
+          "sourceName": "The Epoch Times",
+          "url": "https://www.theepochtimes.com/us/schatz-tells-democrats-to-plan-for-divided-government-even-if-they-win-both-chambers-6102526",
+          "publishedAt": "2026-10-12T21:29:12.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "9732e01cccc7597bc66e73d37df79c150b0aa1ede84f0a810c4ef06a1e9dd4d6",
+          "title": "MAGA Goons Launch Attack Ad Campaign 3,100 Miles From Target",
+          "description": "A Republican political group working to help Maine Sen. Susan Collins in her reelection bid launched a costly ad buy—in the wrong state. Collins, 73, who has represented Maine in the Senate for nearly 30 years, was the subject of campaign ads mistakenly aired in Portland, Oregon, just over 3,000 miles from her target audience in Portland, Maine. Republican organizers spent between $20,000 and $25,000 on an ad buy targeting viewers in the Portland, Oregon, market, which includes parts of Washington state, according to the Google Political Ad Transparency Center. Read more at The Daily Beast.",
+          "sourceName": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/susan-collins-maga-goons-launch-attack-ad-campaign-3100-miles-from-target-in-oregon",
+          "publishedAt": "2026-10-12T21:23:58.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "7c0816a2c04df35594a42603421b485a39b893b855879852cab7159e85817ebd",
+          "title": "The $25,000 mistake that had Oregon viewers watching ads about Maine's Senate race - OregonLive.com",
+          "description": "The $25,000 mistake that had Oregon viewers watching ads about Maine's Senate race OregonLive.com An Ad Targeting Susan Collins’s Opponent, Troy Jackson, Airs in the Wrong Portland The New York Times Oops: GOP group mistakenly bought ad for Maine Senate candidate in wrong Portland Oregon Public Broadcasting - OPB Oops, wrong Portland! Ad blunder carries $25K price tag The Seattle Times Voters in Portland (Oregon) get ads meant for Portland (Maine) The Washington Post",
+          "sourceName": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0hvNXdlWlRPV1BRRVoyem5Hbm90UUNPYzJMQ3Z3VEpadmhBRm4wYzRMSFNxMmkteFBzRFBWRGRsRXgxUkFBaHNvVUk2YVUxM255dW5HcmQtamItM3dnLU5BZkZJd01nZUNTTmljcmtTY3ozd3VxWkpFb0RVR1dpT3Y3ZUtnZnRMem0tYzQyNS1mM2laWDhyZGlLOV9aRlRT?oc=5",
+          "publishedAt": "2026-10-12T21:16:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6905cb13c7ff54c76f6c727f7173e3aef2d0068c63f3b2f332135be7443c54d9",
+          "title": "Breaking down the Maine Senate race | CNN Politics",
+          "description": "Sen. Bernie Sanders hit the campaign trail over the weekend to support Democrat Troy Jackson as he attempts to block Republican Sen. Susan Collins from a sixth term. CNN’s Arlette Saenz explains the state of the crucial race that Democrats believe is a possible pickup opportunity.",
+          "sourceName": "Headtopics",
+          "url": "https://headtopics.com/news/breaking-down-the-maine-senate-race-cnn-politics-88735947",
+          "publishedAt": "2026-10-12T21:07:36.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "8a94830e49c41f296834259c5e6e29c1401bbc1821b5fb7600a862bfea9732ce",
+          "title": "A super PAC trying to influence the Maine Senate election seems to have advertised to the wrong Portland",
+          "description": "In most cases, confusing Portland, Maine, with Portland, Oregon, might be seen as an innocent faux pas. But in the case of political actors ahead of an election, it can be a costly—and frankly comedic—blunder. A recent attack ad targeting Troy Jackson—the Democratic candidate in the Maine Senate…",
+          "sourceName": "Biztoc",
+          "url": "https://biztoc.com/x/1ecbbb5db487e14f",
+          "publishedAt": "2026-10-12T21:05:31.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "8eb06f6929f9ad6858ad67ec26783a26668d77b2f0040e1f304854572033c12c",
+          "title": "GOP Group Drops $25K On Ads for Maine Sen. Susan Collins in Portland… Oregon",
+          "description": "A GOP ad buyer got a rough lesson in geography after spending nearly $25,000 running ads to promote Sen. Susan Collins (R-ME) in Portland...Oregon. The post GOP Group Drops $25K On Ads for Maine Sen. Susan Collins in Portland… Oregon first appeared on Mediaite.",
+          "sourceName": "Mediaite",
+          "url": "https://www.mediaite.com/media/news/gop-group-drops-25k-on-ads-for-maine-sen-susan-collins-in-portland-oregon/",
+          "publishedAt": "2026-10-12T20:52:58.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "86954ad6075f974be78fb548b24b6adee19a2fc2e367703208e0157ceaae2f56",
+          "title": "A super PAC trying to influence the Maine Senate election seems to have advertised to the wrong Portland",
+          "description": "In most cases, confusing Portland, Maine, with Portland, Oregon, might be seen as an innocent faux pas. But in the case of political actors ahead of an election, it can be a costly—and frankly comedic—blunder. A recent attack ad targeting Troy Jackson—the Democratic candidate in the Maine Senate race who is running against incumbent Republican Senator Susan Collins—has appeared in front of users far from Maine, leading many to believe its placement was a mistake. Funded by the Defending Main Street super PAC, the 30-second ad titled “Too Many Taxes” focuses on taxes and the cost-of-living crisis, which both Collins and Jackson have made central to their campaigns in the lead-up to the election in November. But despite the ad reportedly costing Defending Main Street around $25,000, the message might not be effective. Shown for the first time on October 8, it has racked up over 1.2 million views—but to viewers in Oregon, not Maine. “I’ve gotten 5 anti-Troy Jackson ads in the last 24 hours. I choose to believe they mixed up Portlands,” one user, whose location is set to Oregon, said on X. Many others with an Oregon location chimed in to share their similar experiences, with one saying “I’ve gotten them too lol.” Another added, “Ive gotten so many this week.” Some social media users shared screenshots of the ad’s Google Ads Transparency Center page—a public repository of ads served on Google—which showed the selected region for the ads as zip codes from Oregon. The Google Ads page has since been updated with Maine zip codes. The Intercept reported on the mixup earlier. “So out of touch” The apparent error is not the first Republican mixup this election cycle. In September, Senator Eric Schmitt of Missouri tried to catch former special counsel Jack Smith in a gotcha moment during a Senate hearing—only to confuse two basketball teams, collapsing his line of questioning and sparking widespread mockery online. While Collins’s campaign and Defending Main Street have yet to speak out on the mishap—or respond to a request for comment—Jackson’s campaign has already noticed the situation. “Susan Collins’ allies are so out of touch with Maine, they can’t even find it on a map,” Dan Gottlieb, spokesperson for Jackson’s campaign, tells Fast Company. “Good luck convincing Mainers you know what’s best for them when you don’t know which Portland they live in.”",
+          "sourceName": "Fast Company",
+          "url": "https://www.fastcompany.com/91622456/maine-senate-race-pro-susan-collins-super-pac-targets-wrong-portland",
+          "publishedAt": "2026-10-12T20:42:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "2787541673bc6a09660ec8694830764b9db60ae548894e9221ac8fbdf7169026",
+          "title": "A super PAC trying to influence the Maine Senate election seems to have advertised to the wrong Portland",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/technology/a-super-pac-trying-to-influence-the-maine-senate-election-seems-to-have-advertised-to-the-wrong-portland-CB2FCCFC-AFA3-535E-94CF-BC5AF8CDC102",
+          "publishedAt": "2026-10-12T20:42:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6c661a51486b3187b3741f56f4bedc15fcd91edc770b0c2cfe2a1c64ab4244ad",
+          "title": "Susan Collins delivers millions for roads, bridges, fire stations. Mainers blame her for high prices",
+          "description": "Sen. Susan Collins is in the toughest reelection battle of her career despite steering massive sums of federal funding to Maine communities and businesses.",
+          "sourceName": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/oct/12/susan-collins-delivers-millions-roads-bridges-fire-stations-mainers/",
+          "publishedAt": "2026-10-12T20:25:30.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e021130697d68010521c70e6009de73838f68bc327f97b99c69c96ce74e2f00c",
+          "title": "These Fake Independents Held a Media Call to Lie to Voters About Their Radical Agendas",
+          "description": "Last week, fake independent candidate Dan Osborn, who is running for the Senate in Nebraska, was caught on audio saying...",
+          "sourceName": "Townhall",
+          "url": "https://townhall.com/news/amy-curtis/2026/10/12/dan-osborn-ad-media-call-n2684541",
+          "publishedAt": "2026-10-12T20:15:40.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "ade1d728b4415a5470a160639f336ebf7004302acc234d61d0a311975cb915c6",
+          "title": "Mistake by Super PAC: Ads Attacking Maine Democrat Troy Jackson Placed in Oregon Instead of Maine",
+          "description": "A Republican-aligned super PAC bought ads attacking Maine Democratic Senate candidate Troy Jackson, but mistakenly placed them in the wrong state. The issue has been resolved, but not before millions of people had seen the ad. The Maine Senate race is one of the most competitive in 2026, with both candidates polling close. Democrats believe they have a good chance of flipping the seat, but Collins remains a formidable opponent. Prediction markets give Troy Jackson a good chance of winning, while polls are split.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/mistake-by-super-pac-ads-attacking-maine-democrat-troy-88735344",
+          "publishedAt": "2026-10-12T20:12:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3c6f389ae0d26d5cfb6f247f3f0743b0fa122d1610382159ddb98d531a591a94",
+          "title": "Which Portland? GOP ad buyer chooses wrong state for Senate campaign",
+          "description": "A Republican group supporting Susan Collins accidentally ran ads targeting her opponent Troy Jackson in Portland, Oregon, instead of Portland, Maine.",
+          "sourceName": "Usa Today",
+          "url": "https://www.usatoday.com/story/news/politics/elections/2026/10/12/portland-oregon-maine-susan-collins-ad-mixup/92222391007/",
+          "publishedAt": "2026-10-12T20:11:18.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "28e26f181b0d13dc86076799a7e43984ee33dcbffda7c6cf09d2456425b04e32",
+          "title": "The Latest: Rep. Omar says she will ‘not be silenced’ after Homeland Security searches her home",
+          "description": "Federal agents have searched the home of Democratic U.S. Rep. Ilhan Omar. It's a startling escalation in a criminal investigation that brings renewed scrutiny to the frequent target of Trump administration derision in the final weeks of her reelection bid.…",
+          "sourceName": "Dailysentinel",
+          "url": "https://www.dailysentinel.com/anpa/us/the-latest-rep-omar-says-she-will-not-be-silenced-after-homeland-security-searches-her/article_a8fdef9d-62e5-5efc-8783-702d85aac321.html",
+          "publishedAt": "2026-10-12T20:10:34.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f1563a88987b85a4fcf3920626a558966739fa834ea49b3aff00114c011ec9dc",
+          "title": "The Latest: Rep. Omar says she will ‘not be silenced’ after Homeland Security searches her home",
+          "description": "Federal agents have searched the home of Democratic U.S. Rep. Ilhan Omar. It's a startling escalation in a criminal investigation that brings renewed scrutiny to the frequent target of Trump administration derision in the final weeks of her reelection bid.…",
+          "sourceName": "Chronicle Online",
+          "url": "https://www.chronicleonline.com/news/national/the-latest-rep-omar-says-she-will-not-be-silenced-after-homeland-security-searches-her/article_28feefed-e8c6-5f47-a28d-99a9a4c68244.html",
+          "publishedAt": "2026-10-12T20:10:34.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "03c8166ec2b520e02baf08a63a796fd07014c0696584ebdf6854a46196010b31",
+          "title": "The Latest: Rep. Omar says she will ‘not be silenced’ after Homeland Security searches her home",
+          "description": "Federal agents have searched the home of Democratic U.S. Rep. Ilhan Omar. It's a startling escalation in a criminal investigation that brings renewed scrutiny to the frequent target of Trump administration derision in the final weeks of her reelection bid.…",
+          "sourceName": "Mankato Free Press",
+          "url": "https://www.mankatofreepress.com/news/state_national_news/the-latest-rep-omar-says-she-will-not-be-silenced-after-homeland-security-searches-her/article_4eee9aa6-faf4-5cc1-a158-b119f1bcff99.html",
+          "publishedAt": "2026-10-12T20:10:34.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2031231162eec50abc06d1f730fee57116311b7f2fcdc259938eb932f5e6d26b",
+          "title": "ICE Raid on Ilhan Omar Shows How Dangerous Two Years of Flailing Trump Could Get",
+          "description": "With his popularity tanking and his grip on power growing tenuous, Trump is becoming a decrepit tyrant — and the checks to stop him are failing. The post ICE Raid on Ilhan Omar Shows How Dangerous Two Years of Flailing Trump Could Get appeared first on The Intercept.",
+          "sourceName": "The Intercept",
+          "url": "https://theintercept.com/2026/10/12/ilhan-omar-raid-ice-trump/",
+          "publishedAt": "2026-10-12T19:50:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "cc89f0c2de75394417f525220297bf3ba20206cdb21dc8fc522e7623b85ff7aa",
+          "title": "WATCH: Will gas, grocery and heating oil prices cost Republicans control of Congress?",
+          "description": "Susan Ferrechio and Seth McLaughlin explain how heating oil, gas and grocery prices are putting Republican seats in play, how Republicans are fighting back with a Democratic Socialism message, and why turnout may decide it all.",
+          "sourceName": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/oct/12/gas-grocery-heating-oil-prices-cost-republicans-control-congress/",
+          "publishedAt": "2026-10-12T19:39:32.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "310c097be7324d21c04188d57ec3c101130ca62ffa3c344f862333f3a8550239",
+          "title": "November 3rd Will Be A Defining Moment In Your Voting Life.",
+          "description": "By James B. Ewers Jr. Ed.D. We are getting closer to a day that most Americans want. I suspect every time we go to the grocery store, we think about what might be. Each experience we have at the gas pumps, we want the day to come sooner. Well citizens of our beloved nation, election [...]",
+          "sourceName": "Tntribune",
+          "url": "https://tntribune.com/november-3rd-will-be-a-defining-moment-in-your-voting-life/",
+          "publishedAt": "2026-10-12T19:29:48.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b89b33d5fa6079ffd9afc7ebbf4d7800ef8696fd8c79b196377cebfe9d1c3020",
+          "title": "Pro-Susan Collins ads accidentally run in Portland, Oregon",
+          "description": "A spokesperson for the company that placed the ad in the Oregon market chalked it up to working on thousands of campaigns.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/10/12/politics/elections/pro-susan-collins-pac-accidentally-buys-ads-portland-oregon/",
+          "publishedAt": "2026-10-12T19:20:19.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f2c580affd305125209942ece76d4275be21bea11b44842b87cedfdbc272c69b",
+          "title": "Pro-Susan Collins Group Spends $25,000 in the Wrong Portland",
+          "description": "A Republican-aligned super PAC mistakenly bought ads attacking Maine Democratic Senate candidate Troy Jackson in the wrong state, the PAC confirmed to Newsweek on Monday. “During a recent independent expenditure, our media vendor mistakenly placed approximately $25,000 in digital advertising in…",
+          "sourceName": "Biztoc",
+          "url": "https://biztoc.com/x/cfe5a44305f7773b",
+          "publishedAt": "2026-10-12T19:19:29.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "8368af37a256a84917aaf33fb52bcc97f43ce5c1c710ad628881d40a99bebc7a",
+          "title": "GOP Group Spends Thousands to Help Susan Collins—in Wrong Portland",
+          "description": "A Republican Super PAC sent at least $20,000 to Portland, Oregon, in support of Senator Susan Collins’s re-election campaign. Collins is a senator from Maine. This multi-thousand-dollar gaffe was made by the Defending Main Street Super PAC Inc, which sent a commercial calling Collins’s Democratic opponent Troy Jackson “taxin’ Troy Jackson.” Too bad virtually none of the people who will see it can vote in that election. Republican Main Street Partnership President Sarah Chamberlain told NBC News Monday she was “absolutely furious” and blamed the ad buyer, Cross Screen Media, for a “ridiculous” error. “The buyers made a mistake on one of the placements. It’s down now and they’re running it in Portland, Maine,” Chamberlain said. “It has nothing to do with us. I would never run an ad in Portland, Oregon, for Susan Collins, for Christ’s sake.” Collins certainly could’ve used that money, as multiple polls have the incumbent slightly behind Jackson in the upcoming November election.",
+          "sourceName": "The New Republic",
+          "url": "https://newrepublic.com/post/216529/republican-group-spends-thousands-susan-collins-portland-oregon",
+          "publishedAt": "2026-10-12T19:16:11.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "74da8fd69385cf9475dd588f609616376ac7651f95d2d67712fd6967f6ff8c84",
+          "title": "Pro-Susan Collins group spends $25,000 in the wrong Portland",
+          "description": null,
+          "sourceName": "Bundle",
+          "url": "https://www.bundle.app/en/breaking-news/pro-susan-collins-group-spends-25000-in-the-wrong-portland-14411BB6-2084-54C9-A8DD-CBD8128DD8B2",
+          "publishedAt": "2026-10-12T19:15:02.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "28bb388a2d7099f0ec303fdcfdf74616525b163483ea67a0532f25f9ae1fbc97",
+          "title": "Pro-Susan Collins Group Spends $25,000 in the Wrong Portland",
+          "description": "Oregonians may have wondered why they were seeing online ads about the Maine Senate race over the past few days.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/pro-susan-collins-group-spends-25000-wrong-portland-12557719",
+          "publishedAt": "2026-10-12T19:15:02.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "458716e48fde4e395cbf737a09977dcbf51f319023acb1b7a87dcb3b43243c35",
+          "title": "Chuck Schumer has broad support from his caucus. But the midterms could decide his future as leader",
+          "description": "Chuck Schumer has won and lost Senate majorities since becoming Democratic leader a decade ago. But this year's midterm elections could be the New York senator's most important yet as some in the party have said he needs to step down",
+          "sourceName": "Pbs",
+          "url": "https://www.pbs.org/newshour/politics/chuck-schumer-has-broad-support-from-his-caucus-but-the-midterms-could-decide-his-future-as-leader",
+          "publishedAt": "2026-10-12T19:14:01.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f98eb30a153e3fa6450f03774614a38ae4aa3e8883c91d82f6e2717909acdaf1",
+          "title": "The Latest: Rep. Omar says she will ‘not be silenced’ after Homeland Security searches her home",
+          "description": "Federal agents have searched the home of Democratic U.S. Rep. Ilhan Omar. It's a startling escalation in a criminal investigation that brings renewed scrutiny to the frequent target of Trump administration derision in the final weeks of her reelection bid.…",
+          "sourceName": "Times Argus",
+          "url": "https://www.timesargus.com/news/national/the-latest-rep-omar-says-she-will-not-be-silenced-after-homeland-security-searches-her/article_b1da90ff-b454-5e2d-bbf0-2285bb6c1854.html",
+          "publishedAt": "2026-10-12T19:12:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "6d5e2b414d9b1047150f2f75e14c489c85297ef8d63993d2d1aad5625f0811d2",
+          "title": "The Latest: Rep. Omar says she will ‘not be silenced’ after Homeland Security searches her home",
+          "description": "Federal agents have searched the home of Democratic U.S. Rep. Ilhan Omar. It's a startling escalation in a criminal investigation that brings renewed scrutiny to the frequent target of Trump administration derision in the final weeks of her reelection bid.…",
+          "sourceName": "Idahostatejournal",
+          "url": "https://www.idahostatejournal.com/news/national/the-latest-rep-omar-says-she-will-not-be-silenced-after-homeland-security-searches-her/article_0e2afd50-3d11-57d1-be24-7aea76429df8.html",
+          "publishedAt": "2026-10-12T19:12:28.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "21a8e6855881e3783f043068d28b4e822a2807245c124641c079557d1ad52992",
+          "title": "Pro-Susan Collins PAC accidentally spends thousands attacking Troy Jackson in the wrong Portland",
+          "description": "The ad campaign was placed through a media vendor, according to a spokesperson for Defending Main Street, and has since been pulled.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4763316/susan-collins-pac-spends-thousands-troy-jackson-wrong-portland/",
+          "publishedAt": "2026-10-12T19:01:54.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "06ed2820e2db8b6c76468ac8d44bec1af2374c517b8413038a8f86d9e5cec779",
+          "title": "GOP buyer's blunder sends Susan Collins ad money to wrong Portland",
+          "description": "A Republican political group trying to boost the Maine senator's reelection campaign mistakenly spent nearly $25,000 on ads in the wrong state.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/gop-buyer-s-blunder-sends-susan-collins-ad-money-to-wrong-88733502",
+          "publishedAt": "2026-10-12T18:57:00.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
