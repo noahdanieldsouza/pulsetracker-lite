@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-11-06T21:30:27.158Z",
+  "lastUpdated": "2026-11-06T21:39:05.269Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3026902515434928,
+      "overallSentiment": 0.3036737363513679,
       "newsSentiment": 0.03266184210526316,
-      "socialSentiment": 0.2438299651567943,
+      "socialSentiment": 0.24678041958041952,
       "mentions": {
         "news": 76,
-        "social": 287,
+        "social": 286,
         "youtube": 19,
-        "total": 382
+        "total": 381
       },
       "news": [
         {
@@ -701,6 +701,30 @@
         }
       ],
       "social": [
+        {
+          "id": "ac66ba84a2bc3b488b01a8da4e6af3af0d4ea09484a00d6336cd290e24fade42",
+          "authorHandle": "cricketmice.bsky.social",
+          "postText": "Troy Jackson going “no I won’t apologize, i won’t let Susan Collins disrespect me” was another mild example of this",
+          "createdAt": "2026-11-06T21:37:23.810Z",
+          "uri": "at://did:plc:bfctdt64ifpjcajketysws2t/app.bsky.feed.post/3mzodpj4src2h",
+          "sentiment": -0.3
+        },
+        {
+          "id": "8c0cadcfa4f409dd84abef067569e882ddb5ee82302ca9f50ccbb43d04d299f1",
+          "authorHandle": "navyvet1972.bsky.social",
+          "postText": "Ask Troy Jackson if he supports Chuck",
+          "createdAt": "2026-11-06T21:36:51.245Z",
+          "uri": "at://did:plc:6xawlqzhuiggfeklgz3rjwww/app.bsky.feed.post/3mzodok2yz223",
+          "sentiment": 0
+        },
+        {
+          "id": "83a0d6a01ac73cefc211ca6f1bfa5f203e1b61c0682d49ef7dcd540e1e624602",
+          "authorHandle": "gregglade.bsky.social",
+          "postText": "Troy Jackson disagrees. 🤷🏻",
+          "createdAt": "2026-11-06T21:34:44.581Z",
+          "uri": "at://did:plc:gngfbxrvror5t4fpadw6y3jz/app.bsky.feed.post/3mzodkrblnk2j",
+          "sentiment": -0.2
+        },
         {
           "id": "1f4069d8252d35943b5d48ad8e91e16bbcc69486bcf4f12ff7d3b938d1935e3c",
           "authorHandle": "alexisaskani.bsky.social",
@@ -2964,38 +2988,6 @@
           "createdAt": "2026-11-05T21:41:08.089Z",
           "uri": "at://did:plc:stfycbi5dk4tt5vlwazamajr/app.bsky.feed.post/3mzlthbkja22o",
           "sentiment": -0.9
-        },
-        {
-          "id": "683b7c9f9b0e2a1b812788d91ae840c0925259a67ea72f3a0fac2df4632969f7",
-          "authorHandle": "rosserford.bsky.social",
-          "postText": "The sheer fucking hubris of these people",
-          "createdAt": "2026-11-05T21:38:33.177Z",
-          "uri": "at://did:plc:dzf7v2jyvbw2lqb2dcce4xfa/app.bsky.feed.post/3mzltcnsyxc2l",
-          "sentiment": -0.9
-        },
-        {
-          "id": "72261851da2748808b7a28f4c9ad559aa9a3529ec8b4ab82e98deda2fa25ef8d",
-          "authorHandle": "cygnusxyz.bsky.social",
-          "postText": " Dear Susan:\n\nRowe v. Wade. 'Nuff said.\n\nKindly go fuck yourself.\n\nHugs & Kisses\n\nwww.rawstory.com/susan-collin...",
-          "createdAt": "2026-11-05T21:36:36.055Z",
-          "uri": "at://did:plc:yb5gzufwuqtu4qyr5mqetl66/app.bsky.feed.post/3mzlt764pys2i",
-          "sentiment": -0.9
-        },
-        {
-          "id": "ffbbd4430ec6106a9769dd404c486eac1ae133ec7d003c57a38312073782ceb1",
-          "authorHandle": "megaweapon5.bsky.social",
-          "postText": "Kenny is livid that he had 500 or so gloating tweets ready to go if Troy Jackson lost that he couldn’t post.",
-          "createdAt": "2026-11-05T21:36:25.283Z",
-          "uri": "at://did:plc:ml5jagxxsjv62fkp3qskhare/app.bsky.feed.post/3mzlt6ttxik2l",
-          "sentiment": 0.6
-        },
-        {
-          "id": "91efe899c797a83138ad8bcc091432490baefbde2f38f383063933febcfc0219",
-          "authorHandle": "shuberfuber.bsky.social",
-          "postText": "Angie Nixon also would likely have done better if Schumer didn't have to pour resources into unfucking El-Sayed and Platner/Troy Jackson (no fault to Troy Jackson).",
-          "createdAt": "2026-11-05T21:29:57.611Z",
-          "uri": "at://did:plc:aue4fu5cdnnevzbubu6kiby3/app.bsky.feed.post/3mzlstc55kk2o",
-          "sentiment": 0.1
         }
       ],
       "youtube": [
@@ -3195,15 +3187,15 @@
     {
       "id": "hannah-pingree",
       "name": "Hannah Pingree",
-      "overallSentiment": -0.14933333333333335,
+      "overallSentiment": -0.028126984126984136,
       "newsSentiment": -0.09866666666666667,
-      "socialSentiment": null,
+      "socialSentiment": 0.21428571428571427,
       "youtubeSentiment": -0.2,
       "mentions": {
         "news": 3,
-        "social": 0,
+        "social": 28,
         "youtube": 1,
-        "total": 4
+        "total": 32
       },
       "news": [
         {
@@ -3234,7 +3226,232 @@
           "sentiment": -0.296
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "965113f2d3bd2739f437b5bd7b867cd324b0f392e124157befd88063fb4ca706",
+          "authorHandle": "dickius.bsky.social",
+          "postText": "Ezra is *certain* that you’re too stupid to remember that Troy Jackson wasn’t a candidate in the Maine Senate Primary, as he was running in the gubernatorial primary. ",
+          "createdAt": "2026-11-06T20:00:16.512Z",
+          "uri": "at://did:plc:kwnkemsioiw7g36ywf4i3jss/app.bsky.feed.post/3mzo6btrswb33",
+          "sentiment": 0
+        },
+        {
+          "id": "ad49c45e227fa751707bee2eb342a3c899f1ee640527e10743c8a7eb44813942",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.6% reported:\n🔵 Pingree – 387,226 (54.5%)\n🔴 Charles – 265,982 (37.4%)\n⚪ Bennett – 57,478 (8.1%)\n⚪ Other – 243 (0.0%)\n\nResults per NPR\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T19:25:14.207Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzo4d6wouh2p",
+          "sentiment": 0
+        },
+        {
+          "id": "79165e3bad9c2c6506a63e6927faf0988a94846c4755c00742f339170cb55c99",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.6% reported:\n🔵 Hannah Pingree – 387,226 (54.5%)\n🔴 Robert Charles – 265,982 (37.4%)\n⚪ Rick Bennett – 57,478 (8.1%)\n🔴 Randy Wilcox (write-in) – 186 (0.0%)\n⚪ John Glowa (write-in) – 57 (0.0%)\n\nResults per AP\n\n#Maine\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T19:23:03.268Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzo47c2osc2k",
+          "sentiment": 0
+        },
+        {
+          "id": "be19608bb7ce9328abf2ff293fe33a3d23eb214ca265715a3e02dbd842f1ea7f",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.6% reported:\n🔵 Hannah Pingree – 387,226 (59.3%)\n🔴 Bobby Charles – 265,982 (40.7%)\n\nResults per NBC\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T19:22:28.466Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzo46aunk52s",
+          "sentiment": 0
+        },
+        {
+          "id": "29115436ac86adf82771bf853145f06f69ebfd66f8fc4f8d6898c9a8d4e6d3d3",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nAroostook County:\n🔴 Charles – 14,557 (55.2%)\n🔵 Pingree – 9,790 (37.2%)\n⚪ Bennett – 1,986 (7.5%)\n⚪ Glowa (write-in) – 10 (0.0%)\n🔴 Wilcox (write-in) – 5 (0.0%)\n\nResults per Fox\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T19:20:14.849Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzo42blind2r",
+          "sentiment": 0
+        },
+        {
+          "id": "19a8747fe48cb69e390dc95c5fe629750abb837b99a37941af5bb4b9202a26dc",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nPenobscot County:\n🔴 Charles – 33,779 (47.4%)\n🔵 Pingree – 32,449 (45.5%)\n⚪ Bennett – 5,070 (7.1%)\n⚪ Glowa (write-in) – 6 (0.0%)\n🔴 Wilcox (write-in) – 3 (0.0%)\n\nResults per Fox\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T18:35:19.053Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mznzjwjptf2k",
+          "sentiment": 0
+        },
+        {
+          "id": "e96d0ca62fb9ef292d5eba1ba8772be533006abfd42f201af9ac40489736c71c",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.4% reported:\n🔵 Pingree – 386,653 (54.5%)\n🔴 Charles – 265,308 (37.4%)\n⚪ Bennett – 57,351 (8.1%)\n⚪ Other – 243 (0.0%)\n\nResults per NPR\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T18:25:21.115Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mznyy4c4wo26",
+          "sentiment": 0
+        },
+        {
+          "id": "5dd76c32e232220c55a529270dfa2ce0652435b91282c65e5eb12c50ee3c2866",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.4% reported:\n🔵 Hannah Pingree – 386,653 (54.5%)\n🔴 Robert Charles – 265,308 (37.4%)\n⚪ Rick Bennett – 57,351 (8.1%)\n🔴 Randy Wilcox (write-in) – 186 (0.0%)\n⚪ John Glowa (write-in) – 57 (0.0%)\n\nResults per AP\n\n#Maine\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T18:23:05.612Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mznyu32w3l24",
+          "sentiment": 0
+        },
+        {
+          "id": "166a1f66d9d43bda05decdbb5a22ac28b3607e2b8608166bdeffb3983898c108",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.4% reported:\n🔵 Hannah Pingree – 386,653 (59.3%)\n🔴 Bobby Charles – 265,308 (40.7%)\n\nResults per NBC\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T18:22:29.419Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mznysykfa52s",
+          "sentiment": 0
+        },
+        {
+          "id": "0f79ddc570fa7148ec416b68c9accf52dd65b573d8af1c26761c18ccf567bb02",
+          "authorHandle": "cbguitar321.bsky.social",
+          "postText": "Yay!! And one of them is my friend Hannah Pingree in Maine.",
+          "createdAt": "2026-11-06T17:29:58.443Z",
+          "uri": "at://did:plc:upn5gy7xqfxus57pb7hdxuot/app.bsky.feed.post/3mznvv3i7z227",
+          "sentiment": 1
+        },
+        {
+          "id": "0f05d42488635eba341229c781d30f5f183690459436da135308af00ade18855",
+          "authorHandle": "banmarnj.bsky.social",
+          "postText": "Maine Governor-elect Hannah Pingree meets with Gov. Janet Mills to discuss transition of power",
+          "createdAt": "2026-11-06T17:11:30.867Z",
+          "uri": "at://did:plc:y5xpslr2bnzbnbyzkexm4ork/app.bsky.feed.post/3mznuu37nts2k",
+          "sentiment": 1
+        },
+        {
+          "id": "a2b88c296334f558c7e11e9bebbf793ce5ad2c6204ec4bbc32bc48082ae922c5",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nWaldo County:\n🔵 Pingree – 11,501 (53.6%)\n🔴 Charles – 8,710 (40.6%)\n⚪ Bennett – 1,259 (5.9%)\n⚪ Glowa (write-in) – 2 (0.0%)\n🔴 Wilcox (write-in) – 2 (0.0%)\n\nResults per Fox\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T16:35:11.251Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mznst4n6lt2d",
+          "sentiment": 0
+        },
+        {
+          "id": "81aa3425b8344fc98b22ca6d37a43625da27ad60afbfbdf4d1005e27c7b9cb33",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.3% reported:\n🔵 Pingree – 386,373 (54.5%)\n🔴 Charles – 264,934 (37.4%)\n⚪ Bennett – 57,282 (8.1%)\n⚪ Other – 243 (0.0%)\n\nResults per NPR\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T16:25:15.957Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mznsbewarx2r",
+          "sentiment": 0
+        },
+        {
+          "id": "d446ee8f9de9f8da0eb37891045f1f881eff6fe83941c8cedc9ecc3cb424d08c",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.3% reported:\n🔵 Hannah Pingree – 386,373 (54.5%)\n🔴 Robert Charles – 264,934 (37.4%)\n⚪ Rick Bennett – 57,282 (8.1%)\n🔴 Randy Wilcox (write-in) – 186 (0.0%)\n⚪ John Glowa (write-in) – 57 (0.0%)\n\nResults per AP\n\n#Maine\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T16:23:04.523Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzns5hl56m2n",
+          "sentiment": 0
+        },
+        {
+          "id": "cbbda150b6110d5c25735e07338074b857863682ca3f2aedd55f7c86ee65c7df",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.3% reported:\n🔵 Hannah Pingree – 386,373 (59.3%)\n🔴 Bobby Charles – 264,934 (40.7%)\n\nResults per NBC\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T16:22:20.895Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzns45y7jh2l",
+          "sentiment": 0
+        },
+        {
+          "id": "ced950509b4f13751e4d9250b7728b458d2af1bb523b7bcb3e493146d93cba84",
+          "authorHandle": "coco.sheshed.rocks",
+          "postText": "Thirteen of the 21 women featured in this graphic I made a few days back have won governor’s races, making history and opening doors 💜\n\nTheir victories show what becomes possible when women lead and communities participate and #VOTE 🗳️\n\n#VivaHerAlliance #SheShed",
+          "createdAt": "2026-11-06T16:05:20.506Z",
+          "uri": "at://did:plc:ig2wp6nfsjuk4szpbzk2i2ax/app.bsky.feed.post/3mznr5qsnl22h",
+          "sentiment": 0
+        },
+        {
+          "id": "77822180cc5764206172ab5bc87f5cd4eb6cc2452a51a181f3b409f409694b94",
+          "authorHandle": "bangordailynews.bsky.social",
+          "postText": "As the governor elect walked off the ferry in the dark, she was met by a cheering crowd holding signs and waving flags. (via Midcoast Villager) www.bangordailynews.com/2026/11/06/p...",
+          "createdAt": "2026-11-06T15:58:03.698Z",
+          "uri": "at://did:plc:u2iiont4xl7izbwj6pzdqkob/app.bsky.feed.post/3mznqqqsnpd24",
+          "sentiment": 1
+        },
+        {
+          "id": "b14e7a920f5371267533ab5ce8d1ba3ad90381382dc84ad6015ffeeacfab333c",
+          "authorHandle": "brucebourgoine.bsky.social",
+          "postText": "Let's talk about mandates. It's very worth noting that not only did Hannah Pingree and Troy Jackson win their races but it was accomplished within an enthusiastic 65% turnout that was the highest in the country. We turned out because we wanted their leadership.\n\n#mepolitics #MESen #MEGov #VoteBlue",
+          "createdAt": "2026-11-06T14:42:11.257Z",
+          "uri": "at://did:plc:kz26jy4m7lu64h5vadojpud7/app.bsky.feed.post/3mznmj2o2pc2c",
+          "sentiment": 1
+        },
+        {
+          "id": "bc67daa9516d3e84a42fe90290fb71c110021fd12f48ee69b885c884f667beef",
+          "authorHandle": "davemurch.bsky.social",
+          "postText": "After 8 years of the awesome Janet Mills, I'm looking froward to 8 years of Hannah Pingree. And all those other woman governors??? Something really great just happened. It will take a lot to rid this country of the MAGA stench and what a great start.",
+          "createdAt": "2026-11-06T11:58:15.216Z",
+          "uri": "at://did:plc:jydrvnu2ton2ngxmsfc3xiti/app.bsky.feed.post/3mznddwbuws2z",
+          "sentiment": 1
+        },
+        {
+          "id": "7d779a1edd36dc033439cd7bc712fda24a5eeae94cbc67f7a2ee67c131589f9a",
+          "authorHandle": "officiallilsilver.bsky.social",
+          "postText": "STATEWIDE\nHannah Pingree - ME Gov\nJocelyn Benson - MI Gov\nSarah Godlewski - WI Lt. Gov\nJena Griswold - CO Attorney General",
+          "createdAt": "2026-11-06T11:17:31.013Z",
+          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3mznb33cqwc26",
+          "sentiment": 0
+        },
+        {
+          "id": "36d1b8fd3059577a4b7b7cdb63e676cd6f57113cc17444f934e7275e3e1a57a8",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.3% reported:\n🔵 Hannah Pingree – 386,236 (54.5%)\n🔴 Robert Charles – 264,793 (37.4%)\n⚪ Rick Bennett – 57,263 (8.1%)\n🔴 Randy Wilcox (write-in) – 186 (0.0%)\n⚪ John Glowa (write-in) – 57 (0.0%)\n\nResults per AP\n\n#Maine\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T06:36:34.108Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzmrepey3z2s",
+          "sentiment": 0
+        },
+        {
+          "id": "7ec615749a7b2ff2f5ffac90d3af7fe65ab506560fbb128d92ca6995813a5925",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.1% reported:\n🔵 Hannah Pingree – 386,236 (54.5%)\n🔴 Robert Charles – 264,793 (37.4%)\n⚪ Rick Bennett – 57,263 (8.1%)\n🔴 Randy Wilcox (write-in) – 186 (0.0%)\n⚪ John Glowa (write-in) – 57 (0.0%)\n\nResults per AP\n\n#Maine\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-06T03:57:15.842Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzmihtwdob2b",
+          "sentiment": 0
+        },
+        {
+          "id": "d347777afb5689c0b84164f7b9503349d97e1cebc5e944388f8b77f3a698fe52",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.3% reported:\n🔵 Pingree – 386,236 (54.5%)\n🔴 Charles – 264,793 (37.4%)\n⚪ Bennett – 57,263 (8.1%)\n⚪ Other – 243 (0.0%)\n\nResults per NPR\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-05T23:11:26.326Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlyir24xr2z",
+          "sentiment": 0
+        },
+        {
+          "id": "f89badaa31de378d6f65bcd47b6ac7eb4d0cd444023a51bff27a3b6a4f89684e",
+          "authorHandle": "mary1086.bsky.social",
+          "postText": "Congratulations to Maulian Dana for her role in leading the transition team for our next Maine governor, Hannah Pingree! \n\n#maine #mainepolitics",
+          "createdAt": "2026-11-05T23:07:11.577Z",
+          "uri": "at://did:plc:2fxi6r2jt4x643ruwiumkpjf/app.bsky.feed.post/3mzlyb5tqvs2f",
+          "sentiment": 1
+        },
+        {
+          "id": "0c335fc1223d2f542c00ff18b7dbd9bb09509f5d2bc33ca062002235c9c2ba49",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93.1% reported:\n🔵 Hannah Pingree – 386,236 (59.3%)\n🔴 Bobby Charles – 264,793 (40.7%)\n\nResults per NBC\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-05T22:53:41.554Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlxizgcyi22",
+          "sentiment": 0
+        },
+        {
+          "id": "f4e259fde7387b249609c6716675f3a3c2557048ed40b534c0d3b634caac3172",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nPiscataquis County:\n🔴 Charles – 4,546 (58.4%)\n🔵 Pingree – 2,711 (34.8%)\n⚪ Bennett – 520 (6.7%)\n⚪ Glowa (write-in) – 4 (0.1%)\n🔴 Wilcox (write-in) – 0 (0.0%)\n\nResults per Fox\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-05T22:51:00.889Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlxea77ke2f",
+          "sentiment": 0
+        },
+        {
+          "id": "63c3688b91ff618b2a7ac9656f25b5f4638c8beba9cc960e1f3c72858e43c905",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 93% reported:\n🔵 Hannah Pingree – 386,085 (54.5%)\n🔴 Robert Charles – 264,530 (37.4%)\n⚪ Rick Bennett – 57,232 (8.1%)\n🔴 Randy Wilcox (write-in) – 186 (0.0%)\n⚪ John Glowa (write-in) – 57 (0.0%)\n\nResults per AP\n\n#Maine\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-05T22:37:33.744Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlwm6h5wk25",
+          "sentiment": 0
+        },
+        {
+          "id": "5e704037bfde0824175828c7c50977b3b0459b2a5a957c0904ff2639436ff20e",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine Governor\n\nStatewide – 92.9% reported:\n🔵 Hannah Pingree – 385,642 (54.6%)\n🔴 Robert Charles – 263,744 (37.3%)\n⚪ Rick Bennett – 57,138 (8.1%)\n🔴 Randy Wilcox (write-in) – 186 (0.0%)\n⚪ John Glowa (write-in) – 56 (0.0%)\n\nResults per AP\n\n#Maine\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-05T22:23:14.288Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlvsksmdt24",
+          "sentiment": 0
+        }
+      ],
       "youtube": [
         {
           "id": "560897b3031628f5e5b27250a9dda288988872e1dc4a70f5336c1ee8f0a3dc7a",
@@ -3251,15 +3468,15 @@
     {
       "id": "paul-lepage",
       "name": "Paul LePage",
-      "overallSentiment": -0.1293831168831168,
+      "overallSentiment": -0.22665826839826833,
       "newsSentiment": 0.3840909090909093,
-      "socialSentiment": null,
+      "socialSentiment": -0.42120857142857143,
       "youtubeSentiment": -0.6428571428571429,
       "mentions": {
         "news": 44,
-        "social": 0,
+        "social": 71,
         "youtube": 14,
-        "total": 58
+        "total": 129
       },
       "news": [
         {
@@ -3659,7 +3876,576 @@
           "sentiment": 0
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "0af89e86ba2a8f71bf343d8e94e2b558e1537717833e14af97414e38317e6584",
+          "authorHandle": "startledsquirrel.bsky.social",
+          "postText": "It’s no consolation, but Maine had a MAGA just barely win in the 2nd district and it’s awful. He’s racist as hell, sexist, vulgar, he once threatened to sitting law maker’s life. They had a chance for a pretty good guy and instead they chose Paul LePage, who really lives in Florida. Disgraceful.",
+          "createdAt": "2026-11-06T21:13:49.699Z",
+          "uri": "at://did:plc:h7vbeln6osknacosx4hv6htx/app.bsky.feed.post/3mzocfejlxs2c",
+          "sentiment": -1
+        },
+        {
+          "id": "f728ec7aa515ad28c63581a36fe6213927c85b32c6f04111bf8cb9ad502dd83a",
+          "authorHandle": "nbdatapoints.bsky.social",
+          "postText": "Maine may have given the heave-ho to Senator Collins, but the voters in Maine's Congressional District 2 look like they're sending former governor Paul LePage to the House of Representatives. 🤪",
+          "createdAt": "2026-11-06T20:28:42.061Z",
+          "uri": "at://did:plc:b2d4bll66skwj7ddqi6l4ou7/app.bsky.feed.post/3mzo7uodoqk2y",
+          "sentiment": 0
+        },
+        {
+          "id": "61ddff0aa71eff3b9c2beec9eda31f763d1f032eb71fe50c8776920f2e629f06",
+          "authorHandle": "effcons.bsky.social",
+          "postText": "Paul LePage is a douche",
+          "createdAt": "2026-11-06T20:24:44.733Z",
+          "uri": "at://did:plc:dra6cr5ai5cewdzrfypqst3p/app.bsky.feed.post/3mzo7nlygks23",
+          "sentiment": -1
+        },
+        {
+          "id": "793934b447609aaf9d904d6a117be9fc04c0843b7d8ff7dee9cd2cd80f267c2d",
+          "authorHandle": "joewrote.bsky.social",
+          "postText": "The centrist argument for Golden is that \"moderation\" wins over Republicans and Independents. Golden disproves that. He has lower favorability with Independents than ultra-conservative Paul LePage.",
+          "createdAt": "2026-11-06T19:31:05.076Z",
+          "uri": "at://did:plc:puwixtbyncx3skjop7x4wu7a/app.bsky.feed.post/3mzo4nniad22f",
+          "sentiment": -1
+        },
+        {
+          "id": "aaf70ef044af99c16a556e86bfcb2bebeff8c84401fb927d058e2aecd65512dd",
+          "authorHandle": "chaoscontrolchaos.bsky.social",
+          "postText": "My congressional district (ME-02) has the ignominious distinction of being the only district nationwide to flip from D to R in 2026.\n\nI will now be represented by the odious former governor Paul LePage.\n\nwww.youtube.com/watch?v=dta6...",
+          "createdAt": "2026-11-06T17:01:07.759Z",
+          "uri": "at://did:plc:takwguutmtvq2ol2fyr5sdbm/app.bsky.feed.post/3mznubixvws2h",
+          "sentiment": -1
+        },
+        {
+          "id": "b05f9681f25b7cbda4870eaec4675a833734e3e3490653a830bf2378b7c3425c",
+          "authorHandle": "djinnandtonic.bsky.social",
+          "postText": "\"Is Paul LePage Latino?\" the greatest thread in the history of Maine politics forums, locked after 37,442 pages of heated debate,",
+          "createdAt": "2026-11-06T16:34:21.057Z",
+          "uri": "at://did:plc:xfjlu7iu6xl7uyi4wybbgx3z/app.bsky.feed.post/3mznsrmpkrs2m",
+          "sentiment": 0
+        },
+        {
+          "id": "db30dcdad9c174e9e1ff2a911be85d4c4404d01d9d1f98d943dcf1150286aa7a",
+          "authorHandle": "muchovafanclub.bsky.social",
+          "postText": "Paul LePage *barely* winning Jared Golden's district in Maine kind of breaks my heart, but can't win 'em all. Back to celebrating other House districts!\n\nwww.wabi.tv/2026/11/05/m...",
+          "createdAt": "2026-11-06T16:23:34.491Z",
+          "uri": "at://did:plc:fn3ap4tas35yh5zmkik4qjy5/app.bsky.feed.post/3mzns6e3lwk2e",
+          "sentiment": -1
+        },
+        {
+          "id": "8ef47b41ad6d7d83d41516bc8f38d4174c1ffc2e744e2207b625f7ff12678d20",
+          "authorHandle": "rayanselmo.bsky.social",
+          "postText": "Dang. And if Paul LePage holds onto his lead in ME-2, he will be New England's ONLY R representative. If he doesn't, the total will be 0.",
+          "createdAt": "2026-11-06T15:51:24.070Z",
+          "uri": "at://did:plc:hxnuzpppyxaxc7wjzm7ltuwk/app.bsky.feed.post/3mznqet3t6c2x",
+          "sentiment": 0
+        },
+        {
+          "id": "96599ea5c56bf19f673b8f28394a92116d969a2894f4a5d0cc077081e1bda74d",
+          "authorHandle": "spooknine.bsky.social",
+          "postText": "Still cannot believe Paul LePage is back. But he's 78, so hopefully not for much longer.",
+          "createdAt": "2026-11-06T15:23:48.454Z",
+          "uri": "at://did:plc:fvdxmcpuxyohkq7oyywyoiar/app.bsky.feed.post/3mznoti6jm225",
+          "sentiment": -1
+        },
+        {
+          "id": "2659fe3334e8cb211826ea3a1acfbc4fdc19e7e413770d97e50d40b2e18a1fa9",
+          "authorHandle": "schmedlap.bsky.social",
+          "postText": "Maine giveth and Maine…also does this www.bostonglobe.com/2026/11/05/m...",
+          "createdAt": "2026-11-06T14:55:59.773Z",
+          "uri": "at://did:plc:pyhrqxprglbjvqjljshmzcgh/app.bsky.feed.post/3mznnbqshc225",
+          "sentiment": 0
+        },
+        {
+          "id": "ee6ef856c5611b2039a984d96f9cb9a4bdc0ab8d94ccc2565313fe304cd6f99c",
+          "authorHandle": "wrenispinkle.bsky.social",
+          "postText": "TBC I’m not just picking on NH, Paul fucking LePage is somehow now in Congress thanks to Mainers 🙃",
+          "createdAt": "2026-11-06T14:43:19.960Z",
+          "uri": "at://did:plc:w7z7vx3hpdt577cpmdiwyhtz/app.bsky.feed.post/3mznml46pi22d",
+          "sentiment": -1
+        },
+        {
+          "id": "c85ab47d29962618988d8b2b107d88231aae4a68c8ad97045c30bfa21eed9bd5",
+          "authorHandle": "scrimmins.bsky.social",
+          "postText": "So I don’t know how we would track this, but anyone want to start an office pool on what percentage of votes Paul Lepage misses over his (one) term of office?\n#MePolitics",
+          "createdAt": "2026-11-06T14:33:29.483Z",
+          "uri": "at://did:plc:qzz33oljgvgvkw7cgdwmdxd4/app.bsky.feed.post/3mznlzj2qsk2w",
+          "sentiment": -1
+        },
+        {
+          "id": "b7fd14931d206de8093ac47ea817b5f0a5819a0e57310c175a4adb984e0064a3",
+          "authorHandle": "chanda.blacksky.app",
+          "postText": "Dunlap conceded and Maine CD-02 sends climate change-denying, anti-abortion rights, anti-immigrant homophobe Paul LePage to Congress.\n\nPlease stop acting like progressive wins in Maine are guaranteed or easy to come by. Jackson didn’t even win the primary he actually ran in.",
+          "createdAt": "2026-11-06T14:29:23.932Z",
+          "uri": "at://did:plc:3le7dvxqc2rhvyswiida2cgf/app.bsky.feed.post/3mznls6v6uc2w",
+          "sentiment": -1
+        },
+        {
+          "id": "9c879602ccb0ed7b9374e88cc3fd0679c10b0a4ca0797cbdbfa24106f7512fef",
+          "authorHandle": "trollbreath.com",
+          "postText": "Small disappointment here in Maine with former governor and MAGA asshole Paul LePage eking out a close win in our Congressional 2nd district, flipping it red. But he'll be a 78 year old freshman in a severe minority in Congress, and I suspect he'll be one-term and run back to Florida again.",
+          "createdAt": "2026-11-06T13:50:53.694Z",
+          "uri": "at://did:plc:d74ucg6irmxw7zk4a5qa2zo6/app.bsky.feed.post/3mznjndob4c2c",
+          "sentiment": -1
+        },
+        {
+          "id": "ce3126a93e9bd4edd4e2ccb36fc3123242f7f657a9820247be1115d1a7b18964",
+          "authorHandle": "thatandromeda.bsky.social",
+          "postText": "Hilariously deep cut on the trending stories sidebar of @bostonglobe.com",
+          "createdAt": "2026-11-06T13:47:21.754Z",
+          "uri": "at://did:plc:a55ia2ojiv2cnshifmrc7wr6/app.bsky.feed.post/3mznjgzkgfs2j",
+          "sentiment": 0
+        },
+        {
+          "id": "bbe2d51337741ef1e27cef841cf1e3fd10ce617fdeaaf16bd6b691874976f148",
+          "authorHandle": "davidnir.com",
+          "postText": "And I have a feeling that 78yo Florida Man Paul LePage won’t exactly become a fixture in the House …",
+          "createdAt": "2026-11-06T13:42:14.260Z",
+          "uri": "at://did:plc:x7ajfd6mhrii5axlx254vmol/app.bsky.feed.post/3mznj5ucjas2h",
+          "sentiment": -1
+        },
+        {
+          "id": "6cffe2aa7f4fcf2cbba0fd58cde9838c4942475c048344ae9a8ab7ab75613966",
+          "authorHandle": "jigair.bsky.social",
+          "postText": "Well this election went better than any of us could have dreamed.  Only 1 disappointment for me as a Maine citizen. Paul LePage won a seat in Congress from CD2. LePuke as we call him was trump before Trump. Dumb as a brick racist, but at least he won't be in the majority party",
+          "createdAt": "2026-11-06T13:20:38.631Z",
+          "uri": "at://did:plc:fhhxlv7m5rtdxjxbw32oc7rw/app.bsky.feed.post/3mznhxaownk2d",
+          "sentiment": -1
+        },
+        {
+          "id": "c411f7247920b5f7a0b4dd311cb264e2620a316fb9eb3ba97c70e6f842f40317",
+          "authorHandle": "ctcapitolreport.bsky.social",
+          "postText": "Trump Before Trump; PAUL LEPAGE, of all people, will be the only New England Republican in Congress... https://go.ctcapitolreport.com/3UyX5np",
+          "createdAt": "2026-11-06T12:58:56.874Z",
+          "uri": "at://did:plc:a6fsw6g4efykiskun7id5cmt/app.bsky.feed.post/3mzngqheqks2v",
+          "sentiment": 0
+        },
+        {
+          "id": "91f95213759e066ec20002613b2fe9c0b7e4340a8492fe7347a8ce957b7a44d4",
+          "authorHandle": "fenbeast.bsky.social",
+          "postText": "Jackson didn’t just win the race. He won it with a respectable margin. And , also, Matt Dunlap ALMOST got past Paul LePage in ME-2 in a midterm year. That’s not just regular voters changing their minds about Collins or Democrats; it’s a significant increase in turnout, promotes by organizing.",
+          "createdAt": "2026-11-06T12:09:52.105Z",
+          "uri": "at://did:plc:b4j6ie4jjmuxchrf37emi4y5/app.bsky.feed.post/3mzndypaa622x",
+          "sentiment": 0
+        },
+        {
+          "id": "16509ec022e17dddf5347429b9b2f61b5584f401907305de999f61c5abef1cc1",
+          "authorHandle": "screamah.bsky.social",
+          "postText": "Looks like they’re going to get their angry rhetoric electing Paul LePage ￼",
+          "createdAt": "2026-11-06T11:37:59.461Z",
+          "uri": "at://did:plc:52aoobrkr4twlkuapj72j5gd/app.bsky.feed.post/3mznc7oty722i",
+          "sentiment": -1
+        },
+        {
+          "id": "1505196d3d25ad22fb9c5f5298504a53ce331ced52ed68f373a376ae3c73b832",
+          "authorHandle": "danvock.bsky.social",
+          "postText": "Wow.  Paul LePage (iykyk) is going to Congress. Maine is strange.  www.politico.com/news/2026/11...",
+          "createdAt": "2026-11-06T11:37:40.743Z",
+          "uri": "at://did:plc:fmf4vtwcipixbme4kxouoovn/app.bsky.feed.post/3mznc74yrus2g",
+          "sentiment": 0
+        },
+        {
+          "id": "ecd6ed0a5877a252b780bbefb6333aaa20f81656aabf2595af2acc2fef8134cf",
+          "authorHandle": "colinwoodard.bsky.social",
+          "postText": "A primer for anyone living around Capitol Hill (from 2015). He really was a harbinger of much that was to come on the national level. www.politico.com/magazine/sto...",
+          "createdAt": "2026-11-06T11:28:26.853Z",
+          "uri": "at://did:plc:jiyrwawgznas67kkjrymeopj/app.bsky.feed.post/3mznbomrfoc2p",
+          "sentiment": 0
+        },
+        {
+          "id": "ba0f752baad379032118fceb82a3a0a60f46933d26e0cd98c9ec250c94d0566a",
+          "authorHandle": "colinwoodard.bsky.social",
+          "postText": "In perhaps the only MAGA flip of the election, former Gov. Paul \"I was Trump Before Trump\" LePage (R-Florida) won a nail-biter in #ME02. At least, unlike the odious, departing Jared Golden, Mainers know where he stands and what he stands for.\nwww.bangordailynews.com/2026/11/05/p...",
+          "createdAt": "2026-11-06T11:26:29.431Z",
+          "uri": "at://did:plc:jiyrwawgznas67kkjrymeopj/app.bsky.feed.post/3mznbl4rxqs2p",
+          "sentiment": -1
+        },
+        {
+          "id": "a0362288bfa86567a72b26f1cfb7bbea233cbec6e670b364c9d337346b398483",
+          "authorHandle": "newsanalysis.com",
+          "postText": "Despite Matt Dunlap conceding, Maine's 2nd Congressional District race will go to a ranked-choice runoff as neither candidate reached 50% of the vote. Paul LePage holds a lead. Votes will be recounted starting Monday. #MainePolitics #News",
+          "createdAt": "2026-11-06T10:58:50.811965+00:00",
+          "uri": "at://did:plc:namifrcorf6hzy45phd4shvt/app.bsky.feed.post/3mzn7zpdokv2g",
+          "sentiment": 0
+        },
+        {
+          "id": "46a4fc8e32bc48eb76242ee40b08f67b2c68bcf50c0d6e15c01af8e35d11e0bd",
+          "authorHandle": "maryhilt.bsky.social",
+          "postText": "The RCV runoff in Maine will continue despite Dunlap conceding. \nBased on the law and precedent.\nwww.sunjournal.com/2026/11/05/p...",
+          "createdAt": "2026-11-06T10:07:34.429Z",
+          "uri": "at://did:plc:glewjojbdh7652lmyyzu4rrb/app.bsky.feed.post/3mzn55z55f22d",
+          "sentiment": 0
+        },
+        {
+          "id": "4cc01968e17246e910f151b5c3ea00b43d70de68f23f9cffc4482acc63d990a5",
+          "authorHandle": "margaretforsyth.bsky.social",
+          "postText": "You're right on Platner & completely, absolutely, totally wrong on Jackson. He is no shrinking violet; his forcefulness as Senate Prez was used against him in the campaign. He had epic clashes w/ Paul LePage & Janet Mills, & he shepherded crucial progressive legislation thru. He does not back down.",
+          "createdAt": "2026-11-06T08:39:40.179Z",
+          "uri": "at://did:plc:qgimsdoqyxdklecbembcwvc5/app.bsky.feed.post/3mzmyat7ul224",
+          "sentiment": -0.7
+        },
+        {
+          "id": "08dbc095f2863b9a4bb1d8d420e725ff4c952b26ad14fd6fab57b5d58a925109",
+          "authorHandle": "bostonherald.com",
+          "postText": "Howie Carr | Thank goodness. Maybe LePage’s victory is, as one of my texters said yesterday, like winning the bingo game on the Titanic. But that’s still better than losing the bingo game, isn’t it?",
+          "createdAt": "2026-11-06T08:26:01.173Z",
+          "uri": "at://did:plc:lvskzens75zwt65unep2mwjf/app.bsky.feed.post/3mzmxihxuh523",
+          "sentiment": 0.5
+        },
+        {
+          "id": "7d67f1944fafd5b79eee721fdeac5212dc0d9c07977f1ca250fea47e05f9b906",
+          "authorHandle": "ducati5.bsky.social",
+          "postText": "Paul LePage actually lives in Florida; the address he's listed as his Maine \"residence\" is for appearances only. Good luck with access to him. Between his home in Florida and a home/apartment in DC, he won't have the time or inclination to jet up to Maine to meet with lowly constituents.",
+          "createdAt": "2026-11-06T05:51:41.145Z",
+          "uri": "at://did:plc:wkgpqmu3hb66ndi42fj22w6c/app.bsky.feed.post/3mzmouh45wk2p",
+          "sentiment": -0.8
+        },
+        {
+          "id": "f07ed17ee753f9aefbe54740f8c503e8c1b71026567354ef236c2be9ddb30558",
+          "authorHandle": "andromeda60.bsky.social",
+          "postText": "Paul Lepage, after making nice during the campaign immediately reverts to his a-hole self. He had to \"declare\" victory before the last votes were counted, before the official results were released. \"I WON\". Great way to start. Go away any time please. No one expects anything from you.",
+          "createdAt": "2026-11-06T05:43:48.923Z",
+          "uri": "at://did:plc:wzrfdpbi3s43ar7usuxtgdgu/app.bsky.feed.post/3mzmogeregc2r",
+          "sentiment": -0.9
+        },
+        {
+          "id": "c2a2cc94498cd7c73d738a4ea74f7608ae4b13eeb0f7a56110ad45004ab7a08a",
+          "authorHandle": "c0ast3r.endrun.io",
+          "postText": "Somehow Paul LePage Returned.",
+          "createdAt": "2026-11-06T04:34:09.346Z",
+          "uri": "at://did:plc:4e7mo6o5xf2zm25yruik5ay6/app.bsky.feed.post/3mzmkjssiik2s",
+          "sentiment": -0.5
+        },
+        {
+          "id": "274750c591d40cf924403e96c0eb77c5111e31ec9780c2b48cfd215ef47d07c3",
+          "authorHandle": "westofthefields.bsky.social",
+          "postText": "We decided to switch it up here in Maine’s 2nd District, we beat Collins, crushed the GOP governor nominee and then elected goddamn Paul LePage to Congress … I think it’s one of the only blue-to-red flips in the country",
+          "createdAt": "2026-11-06T04:16:05.619Z",
+          "uri": "at://did:plc:6fjxxe5g23hz5t3dxsbtpzac/app.bsky.feed.post/3mzmjjjbvas2h",
+          "sentiment": -0.8
+        },
+        {
+          "id": "731301564ed61965984e8920982fb0caf6239ae462d7a56cc712918d5ede51b8",
+          "authorHandle": "ronthinkmedia.bsky.social",
+          "postText": "Bernie should have spent more time convincing people to vote for the Democrat running for governor in his home state (who lost to the incumbent Republican) and less time meddling in Maine's 2nd House district, where his \"progressive\" ally just lost to a RWNJ: www.thecentersquare.com/maine/articl...",
+          "createdAt": "2026-11-06T02:38:13.937Z",
+          "uri": "at://did:plc:efrokemdan2ksfb3qrw4u3ma/app.bsky.feed.post/3mzme2jm7w22l",
+          "sentiment": -0.7
+        },
+        {
+          "id": "fb7f34035ba2b6d12a7cf9f211a1ec8092c222b07590eaf31f37f8acd96fa2a0",
+          "authorHandle": "ronthinkmedia.bsky.social",
+          "postText": "Six seats, three from the so-called \"Commie Corridor\" in NYC (with less than 10% primary turnout, BTW). Meanwhile, only three seats have flipped from Democrat to Republican. Two because of gerrymandering. The third just happened. In Maine. Bernie's chosen \"progressive\" www.wmtw.com/article/main...",
+          "createdAt": "2026-11-06T02:30:01.987Z",
+          "uri": "at://did:plc:efrokemdan2ksfb3qrw4u3ma/app.bsky.feed.post/3mzmdluh4xs2l",
+          "sentiment": -0.7
+        },
+        {
+          "id": "c1b4190e39665078dbeb539eaccca6062791ce932648bfde11a68838a66e3a5e",
+          "authorHandle": "robertorthman.bsky.social",
+          "postText": "Paul LePage being allowed back into public life at all, nevermind in Congress, is quite bad.",
+          "createdAt": "2026-11-06T02:28:49.414Z",
+          "uri": "at://did:plc:osyt2qvigvqi7f2ttbgiskqb/app.bsky.feed.post/3mzmdjpadwc2h",
+          "sentiment": -0.9
+        },
+        {
+          "id": "dcd380a9af63a81eadababc956d07addea418d59f32839290bf644d3815e15a3",
+          "authorHandle": "chrismartell.bsky.social",
+          "postText": "We are disappointed in you northern Maine. Also, you elected Paul LePage to Congress. Good luck with that. thehill.com/homenews/cam...",
+          "createdAt": "2026-11-06T02:12:15.363Z",
+          "uri": "at://did:plc:6fwwbv6k4ncrjeqh64iscmgi/app.bsky.feed.post/3mzmcm3afwc26",
+          "sentiment": -0.8
+        },
+        {
+          "id": "95428493da5b1e90cc4e1e4beb6b2a757903635a88772d388fc5c336b6ede6d4",
+          "authorHandle": "onedandelion.bsky.social",
+          "postText": "🎥mainenewsroom (11/05/26)\n🔗\nyoutube.com/shorts/mRHdc...",
+          "createdAt": "2026-11-06T01:48:21.875Z",
+          "uri": "at://did:plc:z263hkwg2geayqpnj7vm5zln/app.bsky.feed.post/3mzmbbe6yfs2h",
+          "sentiment": 0
+        },
+        {
+          "id": "f717480f6d403635e80d149462d624542e00382dc2828126b898ffc9a4e55846",
+          "authorHandle": "jamesmichaelwright.bsky.social",
+          "postText": "Dems lost one of two House seats in Maine to none other than the horrid former governor, Paul LePage. Maine really isn't a \"blue\" state.",
+          "createdAt": "2026-11-06T01:02:23.110Z",
+          "uri": "at://did:plc:y2quvyv7xlaxuzt2cmpfijrq/app.bsky.feed.post/3mzm6p56xus2o",
+          "sentiment": -0.8
+        },
+        {
+          "id": "1f39cd38d1286e72b022c31ac683951d529272d732eefdbf9d7a7c1d5000a2bb",
+          "authorHandle": "glennvotesblue.bsky.social",
+          "postText": "Good, I hope Paul Lepage has a good time being unable to carry out his evil mission.",
+          "createdAt": "2026-11-06T00:54:11.467Z",
+          "uri": "at://did:plc:gr26jvoror4ihzhuhheckekx/app.bsky.feed.post/3mzm6aidcos2l",
+          "sentiment": -0.7
+        },
+        {
+          "id": "349b86b525d46c060db45f91cc82e01e2e1a36bf4f2a936aff9b39123f2380a8",
+          "authorHandle": "20thmainevolunteer.bsky.social",
+          "postText": "Paul LePage is another far right whack job heading to DC from Maine unless ranked choice voting pulls a rabbit out of its hat.",
+          "createdAt": "2026-11-06T00:43:41.899Z",
+          "uri": "at://did:plc:u6vyqrrrf5i4hiyru2ugooqi/app.bsky.feed.post/3mzm5npwcbs2l",
+          "sentiment": -0.8
+        },
+        {
+          "id": "b1a6f6c1303127b68f835aa1fdd725cf9e5cc71108889e732b4e827548016646",
+          "authorHandle": "assisiproject.com",
+          "postText": "PAUL LEPAGE DOES NOT LIVE IN MAINE. #FRAUD",
+          "createdAt": "2026-11-06T00:27:36.138Z",
+          "uri": "at://did:plc:imymfhfnqjczfxcicefwsltb/app.bsky.feed.post/3mzm4qwvmck2h",
+          "sentiment": -0.9
+        },
+        {
+          "id": "4ec2ea2215d411a785c287cbcb344e1f7bcc40998800fb00b5d362a6c26295f0",
+          "authorHandle": "andrewtarwerdi.bsky.social",
+          "postText": "It is distinctly possible that Paul LePage will be the only true Republican flip of this cycle, not counting gerrymandered seats in TN, TX, LA, or FL. All of the remaining uncalled seats are currently held by Republicans.",
+          "createdAt": "2026-11-06T00:14:01.174Z",
+          "uri": "at://did:plc:te4brwunra46333zv6omu2f6/app.bsky.feed.post/3mzm3ynoxxc23",
+          "sentiment": 0
+        },
+        {
+          "id": "8a0da15652ccf7363b3ada7b7f0317adb9064ae90814325e5140d82050862d8d",
+          "authorHandle": "dogneri.bsky.social",
+          "postText": "I’m so mad about Paul lepage",
+          "createdAt": "2026-11-05T23:54:22.663Z",
+          "uri": "at://did:plc:wmwpaptx33yc3xffrghuxxh4/app.bsky.feed.post/3mzm2vjrkfk23",
+          "sentiment": -0.9
+        },
+        {
+          "id": "934fb9af6dd8bdac231be9364764f1b4f9f5f5d50e81c8728102502d3e90d99d",
+          "authorHandle": "yourpaljohn.bsky.social",
+          "postText": "fucking paul lepage too. what a bastard",
+          "createdAt": "2026-11-05T23:52:12.948Z",
+          "uri": "at://did:plc:cyc4vzeui6e7h3dknrtkqnxo/app.bsky.feed.post/3mzm2ro2xls2n",
+          "sentiment": -0.9
+        },
+        {
+          "id": "784ca445de93c39de6edb625669ed90991b7c5024893f18dcb67f2076ed9d6a5",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine U.S. House District 2\n\nDistrictwide – 97.6% reported:\n🔴 Paul LePage – 170,265 (49.9%)\n🔵 Matthew Dunlap – 164,845 (48.3%)\n⚪ Blank Votes – 6,021 (1.8%)\n⚪ Gregory Ward (write-in) – 125 (0.0%)\n\nResults per AP\n\n#Maine #ME02 #Midterms\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-05T23:51:31.920Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzm2qgzp7z22",
+          "sentiment": 0
+        },
+        {
+          "id": "9d9506286e42d1326c00884dcad07674acfcda23e42bc13bab3662dff851f888",
+          "authorHandle": "dal0028751.bsky.social",
+          "postText": "Republican former Gov. Paul LePage will flip Maine’s 2nd District after Democratic concession\n\ni am not sure my dear cnn but we will see",
+          "createdAt": "2026-11-05T23:46:37.885Z",
+          "uri": "at://did:plc:rmmtlkhupklk5krbq267svke/app.bsky.feed.post/3mzm2hojnn22m",
+          "sentiment": 0
+        },
+        {
+          "id": "a4019a2dfe774f7c9c17ea593b3dd4ef1eae00ce7721f9ba7195580770f2b685",
+          "authorHandle": "7pillarwisdom.bsky.social",
+          "postText": "Sadly, Paul LePage is back. On the positive side, in congress and as a member of the minority party he won't be able to do anything like the damage he did as Governor of Maine.\n\nwww.politico.com/news/2026/11...",
+          "createdAt": "2026-11-05T23:38:44.215Z",
+          "uri": "at://did:plc:m3a66z55jskdtbznl4cmvfem/app.bsky.feed.post/3mzlzzksgas2u",
+          "sentiment": -0.3
+        },
+        {
+          "id": "94789421e451ba1d243ed7b46d710043310bf580b1189d2da021d1b940f4e6f7",
+          "authorHandle": "ronthinkmedia.bsky.social",
+          "postText": "This is retiring Dem Jared Golden's seat. Paul LePage, former two term Maine governor, is a literal right-wing nut job. He leads going into RCV, with many outlets predicting he'll win. Some have already declared as much. Matt Dunlap is a Sanders endorsed progressive.\nwww.yahoo.com/news/videos/...",
+          "createdAt": "2026-11-05T23:36:18.962Z",
+          "uri": "at://did:plc:efrokemdan2ksfb3qrw4u3ma/app.bsky.feed.post/3mzlzvabrjk2g",
+          "sentiment": -0.8
+        },
+        {
+          "id": "f30cdd50c2d542bbcd3415bf6ed019b80a8c36453b19ad5c3a1ee36439dbbe9e",
+          "authorHandle": "newtonmarunner.bsky.social",
+          "postText": "I think ME-02 and FL have to be held back in 8th grade.\n\nwww.wmtw.com/article/main...",
+          "createdAt": "2026-11-05T23:32:44.160Z",
+          "uri": "at://did:plc:hqr4o7rmwnhfxl2trvb3r73g/app.bsky.feed.post/3mzlzotgg222s",
+          "sentiment": -0.7
+        },
+        {
+          "id": "1a8cb52cc43f69bcddf5c9ad5a60bb45ebe221652715fa006de2856dead494b2",
+          "authorHandle": "anti-you.bsky.social",
+          "postText": "Listen, I’ll grant that I think they are stupid too, since they have voted for both a Gov Paul LePage and, after his two terms of embarrassments, a Congressman Paul LePage, plus Susan Collins. But, um, what I’m saying is that I agree with her in principle, but for different specific reasons.",
+          "createdAt": "2026-11-05T23:31:53.258Z",
+          "uri": "at://did:plc:eqadihmlcybmhnpfkksybshg/app.bsky.feed.post/3mzlzncuy3c2m",
+          "sentiment": -0.6
+        },
+        {
+          "id": "00034ee1c4506faeca115adcc152a18ad4256868b2b45ae52652d602fa8f333f",
+          "authorHandle": "gunnysmurf.com",
+          "postText": "How in the ever living, all that is good in this world, what. in. all. the. fucks can Paul LePage win????",
+          "createdAt": "2026-11-05T23:31:17.647Z",
+          "uri": "at://did:plc:cez5b2p363wilobtpnptg7ob/app.bsky.feed.post/3mzlzmaw7pk2m",
+          "sentiment": -0.9
+        },
+        {
+          "id": "387489dc9ac1338a33aeaa426b1fd425602686a38000d1256ea13871859da1ab",
+          "authorHandle": "ohlookitsbrad.bsky.social",
+          "postText": "Paul LePage is back? Ugh.",
+          "createdAt": "2026-11-05T23:30:37.005Z",
+          "uri": "at://did:plc:5taqdb46uchteyzolus5h7zz/app.bsky.feed.post/3mzlzl25z6s2c",
+          "sentiment": -0.4215
+        },
+        {
+          "id": "ed9f2eefd822c3a0edb9049e8efb3a6380e2ab18bceed264603f1adbc45e763e",
+          "authorHandle": "jmlnewsus.bsky.social",
+          "postText": "🚨 UPDATE — MAINE’S 2ND DISTRICT\n\nFormer Republican Gov. Paul LePage leads the U.S. House race, and Democrat Matt Dunlap has conceded. Maine will still conduct its ranked-choice count beginning Monday; the race has not yet been called.\n\n#Maine #ME02 #Election2026",
+          "createdAt": "2026-11-05T23:30:21+00:00",
+          "uri": "at://did:plc:n2llckhhsczigmjv4rf52unr/app.bsky.feed.post/3mzlzklpyoi2r",
+          "sentiment": 0
+        },
+        {
+          "id": "1d3b0dd15c187acdbd5d7d4920559c544c4e0e1b58def2d29c96a4970cb2143f",
+          "authorHandle": "upstract.com.web.brid.gy",
+          "postText": "",
+          "createdAt": "2026-11-05T23:29:22.000Z",
+          "uri": "at://did:plc:xc32dedgv3ceunwz2nrseso4/app.bsky.feed.post/3mzlzzdhd3pb2",
+          "sentiment": null
+        },
+        {
+          "id": "8c2791e6c296171d2640b77385571f251bb4d3d1688aabf4b5d372a939ba3979",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine U.S. House District 2\n\nDistrictwide – 97.6% reported:\n🔴 Paul LePage – 170,264 (49.9%)\n🔵 Matthew Dunlap – 164,844 (48.3%)\n⚪ Blank Votes – 6,013 (1.8%)\n⚪ Gregory Ward (write-in) – 125 (0.0%)\n\nResults per AP\n\n#Maine #ME02 #Midterms\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-05T23:23:17.985Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlz5xkqdg25",
+          "sentiment": 0
+        },
+        {
+          "id": "ce5f185a709537a5b99a2cf7637d36e670704a9fe9e006a1dfd5c2d305443571",
+          "authorHandle": "charheel90.bsky.social",
+          "postText": "Paul Lepage and Troy Jackson during the joint session",
+          "createdAt": "2026-11-05T23:20:04.995Z",
+          "uri": "at://did:plc:6jm325i6niqoj3nzvfousp3u/app.bsky.feed.post/3mzlyy7glwc2d",
+          "sentiment": 0
+        },
+        {
+          "id": "8b3fbbd146d49917abf76bebd61c68f55f610776b4001d305e0e89f98a2d9938",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine U.S. House District 2\n\nDistrictwide – 97.6% reported:\n🔴 Paul LePage – 170,271 (49.9%)\n🔵 Matthew Dunlap – 164,855 (48.3%)\n⚪ Blank Votes – 6,002 (1.8%)\n⚪ Gregory Ward (write-in) – 125 (0.0%)\n\nResults per AP\n\n#Maine #ME02 #Midterms\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-05T23:15:54.221Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlyqqe4j72y",
+          "sentiment": 0
+        },
+        {
+          "id": "3de6e84cb7f9ec7b2904dc5c183e13b0bbcc5b195b9172eee1ca3c4ea12da94a",
+          "authorHandle": "dirigoreport.bsky.social",
+          "postText": "Matt Dunlap conceded to Paul LePage, but they’re headed to a ranked-choice runoff anyway\n\ndirigoreport.com",
+          "createdAt": "2026-11-05T23:06:27.694Z",
+          "uri": "at://did:plc:p2y5izj77t4xchjk7fblfzdi/app.bsky.feed.post/3mzlygtyl7v2q",
+          "sentiment": 0
+        },
+        {
+          "id": "dc5354cf8c6e267ee27d132a2f41818d027bdc2b0530067224ccaaf880cebb11",
+          "authorHandle": "jacobfhsmith.bsky.social",
+          "postText": "Most likely with Paul LePage or Randy Fine.",
+          "createdAt": "2026-11-05T23:06:13.744Z",
+          "uri": "at://did:plc:d7wvxolbj7ej5h4gv27ci6cy/app.bsky.feed.post/3mzly7gorg22y",
+          "sentiment": 0.2023
+        },
+        {
+          "id": "ab3ec55f7eae2f76ed803a91a246083a4d598ca1b4f5d647ee5f4925d0515287",
+          "authorHandle": "mijoda3.bsky.social",
+          "postText": "Racist Paul LePage (R) has been sent to the House by ME-2 to occupy the seat left by DINO Jared Golden.Dems should watch LePage carefully.",
+          "createdAt": "2026-11-05T23:01:43.769Z",
+          "uri": "at://did:plc:q4ejmqi72fwjigrcnf2egid7/app.bsky.feed.post/3mzlxxf7tvs25",
+          "sentiment": -0.5423
+        },
+        {
+          "id": "04a517a0a49ccf12deafc48a96517711fe88035550c1ff4041cf333c33b5a660",
+          "authorHandle": "beansnfrank.bsky.social",
+          "postText": "That’s too bad. LePage is a slimy fuck. Thank goodness he’ll be irrelevant in Congress.",
+          "createdAt": "2026-11-05T23:00:37.455Z",
+          "uri": "at://did:plc:tvymv6fbabgcv2kxywof52bp/app.bsky.feed.post/3mzlxvfy26s2i",
+          "sentiment": -0.3612
+        },
+        {
+          "id": "958dfd153dfdbe567791ff1f9b8a7ad1a4bf78e9be535b290017867bfb614d58",
+          "authorHandle": "maxkagan.bsky.social",
+          "postText": "We can debate what is symbolic vs. operational ideology (and also ME-02 is very different than ME-01) but Paul LePage literally described himself as “Donald Trump before Donald Trump”",
+          "createdAt": "2026-11-05T22:58:45.542Z",
+          "uri": "at://did:plc:lcen7vkflu3uausrhziosrn2/app.bsky.feed.post/3mzlxs3ayws2g",
+          "sentiment": 0
+        },
+        {
+          "id": "210bd7148342c63732014e53d7e9009befa88dbf046a164e3cb7a76a50dcb4b8",
+          "authorHandle": "autumnwolff.bsky.social",
+          "postText": "In a roundabout way, Maine traded Sen. Susan Collins for former Gov. Paul LePage in our congressional representation. \n\nThanks, I hate it.",
+          "createdAt": "2026-11-05T22:30:44.184Z",
+          "uri": "at://did:plc:kdmokwutq5fjhosjdct2iao7/app.bsky.feed.post/3mzlw7xrswk2n",
+          "sentiment": -0.2023
+        },
+        {
+          "id": "3ffb5df684063da5f1e86b87438ffa2a517ef5978e293d775febca41782c5665",
+          "authorHandle": "bluereverseunocard.bsky.social",
+          "postText": "Electing Paul LePage to Congress slaps hard if you’re a fucking idiot.",
+          "createdAt": "2026-11-05T22:26:39.425Z",
+          "uri": "at://did:plc:d4xdx26crajqcz65dfvbeajj/app.bsky.feed.post/3mzlvyoeehs23",
+          "sentiment": -0.6115
+        },
+        {
+          "id": "85bcc277c038ef2f214d4f35aa3f93255aa2d2246c9c43c35ef70cac72975a47",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine U.S. House District 2\n\nDistrictwide – 97.8% reported:\n🔴 Paul LePage – 170,329 (49.9%)\n🔵 Matthew Dunlap – 164,852 (48.3%)\n⚪ Blank Votes – 5,932 (1.7%)\n⚪ Gregory Ward (write-in) – 168 (0.0%)\n\nResults per AP\n\n#Maine #ME02 #Midterms\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-05T22:11:38.026Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlv5ssco32b",
+          "sentiment": 0
+        },
+        {
+          "id": "9f4b4030a7f36c629b305b1d1009ee44d22e15f00d2088f93a025531962b451a",
+          "authorHandle": "nickyphorus117.bsky.social",
+          "postText": "Paul LePage reps their bluest seat they’re gonna go insane",
+          "createdAt": "2026-11-05T22:09:59.048Z",
+          "uri": "at://did:plc:3mx6u4noh66storsmf5euifk/app.bsky.feed.post/3mzlv2ud7u22m",
+          "sentiment": -0.4019
+        },
+        {
+          "id": "45603aa77ca20bca4f5fe295b7401a087337ec3065c1dbc4c9c90d9caa8d4866",
+          "authorHandle": "mainenewsroom.com",
+          "postText": "11/5 Republican former governor Paul LePage wins race for Maine’s 2nd District; Democratic State Auditor Matt Dunlap concedes; ranked-choice voting tabulation will still proceed #maine #MEpolitics",
+          "createdAt": "2026-11-05T21:59:01.661437Z",
+          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mzluhblear2m",
+          "sentiment": 0.5719
+        },
+        {
+          "id": "989d529ba0a484bc583efe1fc00a00f5a439a6148055a3c08f21508f6070717b",
+          "authorHandle": "pedroiar.bsky.social",
+          "postText": "How did Paul LePage win tho 🤮",
+          "createdAt": "2026-11-05T21:53:15.562Z",
+          "uri": "at://did:plc:ml4zb6esejnqumxhmnfacyuu/app.bsky.feed.post/3mzlu4xdb2k2u",
+          "sentiment": 0.5859
+        },
+        {
+          "id": "d264f852d503632ec9546357e2c1c7e353604b220d0e61b8a5b0b6af489cf11c",
+          "authorHandle": "valpix.tgirl.gay",
+          "postText": "paul lepage is the only reason the new england republicans will have ANY representation in congress",
+          "createdAt": "2026-11-05T21:51:04.508Z",
+          "uri": "at://did:plc:nqca3hzcqzpakai7jwnlxuxm/app.bsky.feed.post/3mzltz2dtmc2b",
+          "sentiment": 0
+        },
+        {
+          "id": "6c883253f1310e1f52da81341277428ec0849a620b9ba46221af9e5f1b6f427e",
+          "authorHandle": "andrewlevesque.bsky.social",
+          "postText": "www.mainepublic.org/politics/202...\nThe only fly in the ointment in this historic blue wave is that Maine’s 2nd District elected an unpopular, 2-term Maine governor to represent them in the US House.\n\nThe only dammed fly …",
+          "createdAt": "2026-11-05T21:50:04.305Z",
+          "uri": "at://did:plc:vbljassbrgzig2nauh6mg5g6/app.bsky.feed.post/3mzltxawlmk2t",
+          "sentiment": 0
+        },
+        {
+          "id": "ad876a4dab5a2780627a61f822f82765fa3f5d8f91935a8aa3954bc8b97afa2f",
+          "authorHandle": "dowager78.bsky.social",
+          "postText": "Yeah, so is Paul LePage",
+          "createdAt": "2026-11-05T21:47:22.999Z",
+          "uri": "at://did:plc:5e4s66l4dpkb2lvmlnzu5lhf/app.bsky.feed.post/3mzltsh3ubk2w",
+          "sentiment": 0.296
+        },
+        {
+          "id": "b5eb62c019cd74ab2ac0c6a560c9e82b4fe5bc415f1948818edae4bfc490e4ed",
+          "authorHandle": "spotandmae.bsky.social",
+          "postText": "Get to know Paul LePage",
+          "createdAt": "2026-11-05T21:41:53.652Z",
+          "uri": "at://did:plc:zfzi7qwcqzvn6t4waxofnumz/app.bsky.feed.post/3mzltimyyds2t",
+          "sentiment": 0
+        }
+      ],
       "youtube": [
         {
           "id": "86d5de4cc0f3ad8e9b79e640da2c5e870534d4b3b5aac9fa00d93108a20dbb0e",
@@ -3806,15 +4592,15 @@
     {
       "id": "chellie-pingree",
       "name": "Chellie Pingree",
-      "overallSentiment": 0,
+      "overallSentiment": 0.1875,
       "newsSentiment": 0,
-      "socialSentiment": null,
+      "socialSentiment": 0.375,
       "youtubeSentiment": null,
       "mentions": {
         "news": 13,
-        "social": 0,
+        "social": 8,
         "youtube": 0,
-        "total": 13
+        "total": 21
       },
       "news": [
         {
@@ -3935,21 +4721,86 @@
           "sentiment": 0
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "4416c79bc474262fd090a67608038c894a45d2b9cf08a06a0aa987bcb6888ed0",
+          "authorHandle": "siriusxmprog.bsky.social",
+          "postText": "‼️On Today's @msignorile.bsky.social Show‼️\n\nMatt Hildreth of @ruralorganizing.bsky.social \nUS Rep. Chellie Pingree (D-ME 1) @pingree.house.gov \n@brynntannehill.bsky.social \n\n🔊Listen Here: Signorile.com\n\n📞Join the Conversation: (866) 997-4748",
+          "createdAt": "2026-11-06T19:50:53.422Z",
+          "uri": "at://did:plc:bu7hm2jtwz33j764pubmvdcd/app.bsky.feed.post/3mzo5r2rrfc27",
+          "sentiment": 0
+        },
+        {
+          "id": "65e86c70b1f272da41f29541a1b44137ab771a3b0e13abc2a8aa28ca5aa8609d",
+          "authorHandle": "pingree.house.gov",
+          "postText": "When Alan Kearn started as ED of AIO Food & Energy Assistance, it served 325 households a week.\n \nThat number has more than doubled in recent months.\n\nThat AIO is meeting that challenge is a testament to Alan’s leadership. It was an honor to celebrate his impactful tenure at his retirement ceremony.",
+          "createdAt": "2026-11-06T18:31:22.617Z",
+          "uri": "at://did:plc:dgpyzapw4a7zve5qy2qjqpfx/app.bsky.feed.post/3mznzcuyc6k2q",
+          "sentiment": 0
+        },
+        {
+          "id": "1a89a00232d01db63e85060ad1cb9234754ac15c65d2111e8b365a0d3c9e1b2e",
+          "authorHandle": "inthepouringrain.swifties.social",
+          "postText": "ALSO! You can call the DNC directly! \n\n(202) 863-8000, press option 3 and you can leave a message for the Comittee at large\n\nIt is a little scary, I find the voicemails easier, the only office I’ve called that actually has a staffer pick up is Chellie Pingree and boy are they gonna be sick of me",
+          "createdAt": "2026-11-06T16:20:34.132Z",
+          "uri": "at://did:plc:la4vlb6j6ihseykp72zkxvu4/app.bsky.feed.post/3mznryy3j322v",
+          "sentiment": 1
+        },
+        {
+          "id": "ea15148a97fb6866124e120673ba2712d8d8310089d6f3615ee2d0b5c6a70c89",
+          "authorHandle": "thedeathsiren.bsky.social",
+          "postText": "Yes, the American public would prefer you just let them continue to “make a mess of things”",
+          "createdAt": "2026-11-06T15:26:26.303Z",
+          "uri": "at://did:plc:lefgnuubxhos5g2xsabza4cs/app.bsky.feed.post/3mznoy6pozc2f",
+          "sentiment": 0
+        },
+        {
+          "id": "9aad253b7d9f0a2f72d20ceed8114db75e4ea171d116476f398fe8135065c67b",
+          "authorHandle": "congressedits.bsky.social",
+          "postText": "Chellie Pingree\nEdited on Thursday, Nov 05, 2026 at 21:07 EST\n\n#ChelliePingree  #Wikipedia\n",
+          "createdAt": "2026-11-06T02:10:43Z",
+          "uri": "at://did:plc:7rcr53jnsjdvdtlgpcnckzzp/app.bsky.feed.post/3mzmcjfgox72e",
+          "sentiment": 0
+        },
+        {
+          "id": "3c6956973caf7b19f2f6c9d6f5abf8987f984b36a9a2794bce0282abfb5cc7b3",
+          "authorHandle": "carmenaresearch.bsky.social",
+          "postText": "Maine U.S. House District 1\n\nDistrictwide – 92.2% reported:\n🔵 Chellie Pingree – 249,772 (65.9%)\n🔴 Ronald Russell – 129,342 (34.1%)\n\nResults per AP\n\n#Maine #ME01 #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
+          "createdAt": "2026-11-05T22:28:23.709Z",
+          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlw3rvecu24",
+          "sentiment": 1
+        },
+        {
+          "id": "6f630295a9b5547fa221055a20e41a6db9a11d176e5760789bcf5e2ce83b5b5d",
+          "authorHandle": "pingree.house.gov",
+          "postText": "Naming it after Almer Dinsmore—a legendary ferry captain who spent decades serving Maine’s island communities—is a wonderfully fitting tribute. \n\nBig thanks to everyone at Maine DOT, the shipbuilders and crew, Captain Dinsmore, and everyone who had a hand in making this day possible!",
+          "createdAt": "2026-11-05T21:50:55.554Z",
+          "uri": "at://did:plc:dgpyzapw4a7zve5qy2qjqpfx/app.bsky.feed.post/3mzlu2e77xk2m",
+          "sentiment": 0
+        },
+        {
+          "id": "190fbc42f190f4e566b55ac3156d8b6325b4829d686e7e4321ac85ab3c33b836",
+          "authorHandle": "pingree.house.gov",
+          "postText": "It was a pleasure to attend the commissioning of the M/V Capt. Almer Dinsmore in Rockland.\n\nThis is no ordinary boat. It’s the Maine State Ferry Service’s first electric-hybrid vessel.\n\nIt’s also a great example of how the Bipartisan Infrastructure Law continues to make real, transformative impacts.",
+          "createdAt": "2026-11-05T21:50:55.553Z",
+          "uri": "at://did:plc:dgpyzapw4a7zve5qy2qjqpfx/app.bsky.feed.post/3mzltyrtdv22m",
+          "sentiment": 1
+        }
+      ],
       "youtube": []
     },
     {
       "id": "angus-king",
       "name": "Angus King",
-      "overallSentiment": 0,
+      "overallSentiment": 0.029411764705882353,
       "newsSentiment": 0,
-      "socialSentiment": null,
+      "socialSentiment": 0.058823529411764705,
       "youtubeSentiment": null,
       "mentions": {
         "news": 14,
-        "social": 0,
+        "social": 17,
         "youtube": 0,
-        "total": 14
+        "total": 31
       },
       "news": [
         {
@@ -4079,7 +4930,144 @@
           "sentiment": 0
         }
       ],
-      "social": [],
+      "social": [
+        {
+          "id": "c26f4e2c22006844432c5c0e82e922dadade296e19496e22ec1d0320e2be6ee2",
+          "authorHandle": "minuteman04.bsky.social",
+          "postText": "Time for Lisa Murkowski to leave the GOP and become an Independent. She can caucus with Democrats along with Bernie Sanders and Angus King.",
+          "createdAt": "2026-11-06T21:30:15.209Z",
+          "uri": "at://did:plc:35ikw24omeygjw4etf6cebcz/app.bsky.feed.post/3mzodcqex422w",
+          "sentiment": 0
+        },
+        {
+          "id": "87c1bb7518f19c5b6d9269837ac3b0f373675c3a8e07c094a87da15a90382be7",
+          "authorHandle": "dickius.bsky.social",
+          "postText": "Ezra is *certain* that you’re too stupid to remember that Troy Jackson wasn’t a candidate in the Maine Senate Primary, as he was running in the gubernatorial primary. ",
+          "createdAt": "2026-11-06T20:00:16.512Z",
+          "uri": "at://did:plc:kwnkemsioiw7g36ywf4i3jss/app.bsky.feed.post/3mzo6btrswb33",
+          "sentiment": 0
+        },
+        {
+          "id": "dcdde6ca74d1e2d81a2c8594a476ea43fe424a77b09287188c41e0a918eb9b45",
+          "authorHandle": "5thgenfljane.bsky.social",
+          "postText": "The red dots are R senators?  The gray dot in ME is Angus King?",
+          "createdAt": "2026-11-06T18:53:17.980Z",
+          "uri": "at://did:plc:3gqotztyg5riqqr7johl25w3/app.bsky.feed.post/3mzo2k3fwfs2y",
+          "sentiment": 0
+        },
+        {
+          "id": "e0627d597e43831e84b1155f175801b6a05ca637baea99017155067922332d82",
+          "authorHandle": "mikefrburkecville.bsky.social",
+          "postText": "Angus King.",
+          "createdAt": "2026-11-06T18:39:56.465Z",
+          "uri": "at://did:plc:kyph6qsd6uwljr56232kwwvp/app.bsky.feed.post/3mznzs6znvc2s",
+          "sentiment": 0
+        },
+        {
+          "id": "68e7e621fac40fb539991ea84514a8d55790ea2850005b2e24a59ee605121185",
+          "authorHandle": "sheesh49.bsky.social",
+          "postText": "We’d need 290 for the House to be VETO proof! So we’d need Republicans to join in overcoming a VETO. We’d also need the Senate to be VETO proof at 67. We can only get to 58 when we include Bernie Sanders and Angus King—not enough. We’d need 9 Republicans to join to overcome a VETO in the Senate.",
+          "createdAt": "2026-11-06T17:28:57.531Z",
+          "uri": "at://did:plc:q3kl2zzse2v4th737yrrilij/app.bsky.feed.post/3mznvtbfbok2y",
+          "sentiment": 0
+        },
+        {
+          "id": "ab6aa87c1edffa2735cca3b9fbf0e0713df110e547a367776271ceff249c72e5",
+          "authorHandle": "congressedits.bsky.social",
+          "postText": "Angus King\nEdited on Friday, Nov 06, 2026 at 11:34 EST\n\n#AngusKing #Congress #Wikipedia\n",
+          "createdAt": "2026-11-06T16:35:21Z",
+          "uri": "at://did:plc:7rcr53jnsjdvdtlgpcnckzzp/app.bsky.feed.post/3mznstibmxc2l",
+          "sentiment": 0
+        },
+        {
+          "id": "b88c5ca201daed509208524128e473c17afdcb4b0c32b44420c31b34f2d38a6c",
+          "authorHandle": "wickedpissahme.bsky.social",
+          "postText": "Still have Angus King to notify but will do!",
+          "createdAt": "2026-11-06T15:43:09.264Z",
+          "uri": "at://did:plc:t3qggbqupmhdzzv6tmporg63/app.bsky.feed.post/3mznpw37l6227",
+          "sentiment": 0
+        },
+        {
+          "id": "d3c2bee217aee90f2ef2542fd4c092fddcbf7c5206ab66695c408cdc8b1b3133",
+          "authorHandle": "mrl242.bsky.social",
+          "postText": "What about Angus King in Maine? He's managed to get away with it, too.",
+          "createdAt": "2026-11-06T07:41:25.049Z",
+          "uri": "at://did:plc:5gpastium7tg4s2zz2h7b4dy/app.bsky.feed.post/3mzmuynywpc2k",
+          "sentiment": -1
+        },
+        {
+          "id": "d0f40713eaafca0b9b508c00768cc2a62fccfce48a1897c637e691cf675b5cc4",
+          "authorHandle": "langdongrant.bsky.social",
+          "postText": "...the majority caucus (i.e., Dems & Dem-aligned independents).  So if Dems (plus Bernie & Angus King) end up with 56 seats, Schumer only needs 29 votes to be Majority Leader.\n\n*And he probably already has them*, with a pretty good cushion on top of them.\n\nAll he's doing now is...\n\n/2",
+          "createdAt": "2026-11-06T05:46:28.685Z",
+          "uri": "at://did:plc:d7g75zlofngsfubdmizusk5x/app.bsky.feed.post/3mzmol54lb22l",
+          "sentiment": 0
+        },
+        {
+          "id": "bb15de9131972384d405aa075645c07f8622fdd964542e6e94d49641b8220c6a",
+          "authorHandle": "blueriverrrr.bsky.social",
+          "postText": "Juliana Stratton info@julianastratton.com\nJosh Turek info@turek4iowa.com\nAngus King 202 224-5344\nTroy Jackson info@jacksonformaine.com\nChris Van Hollen 202 224-4654\nAngela Alsobrooks 202 224-4524\nElizabeth Warren 202 224-4543\nEd Markey 202 224-2742\nElissa Slotkin 202 224-4822",
+          "createdAt": "2026-11-06T04:04:47.573Z",
+          "uri": "at://did:plc:twctkqmt5s52zajjrxyx2qtl/app.bsky.feed.post/3mzmivcng322b",
+          "sentiment": 0
+        },
+        {
+          "id": "bfcfff1e0d89597a3552a6cab59da703e893f881b0d2dd917c3a3e69de45802f",
+          "authorHandle": "afroyankee.bsky.social",
+          "postText": "Shout out Angus King lol",
+          "createdAt": "2026-11-06T02:56:42.173Z",
+          "uri": "at://did:plc:l2enwlcvkvzyqkaiozzactlr/app.bsky.feed.post/3mzmf3kivn22x",
+          "sentiment": 1
+        },
+        {
+          "id": "5ab226c3ccde9184384e498dc5bf786fe05cf87160bff5c4a8baa21ed16e312a",
+          "authorHandle": "congressedits.bsky.social",
+          "postText": "Angus King\nEdited on Thursday, Nov 05, 2026 at 21:05 EST\n\n#AngusKing #Congress #Wikipedia\n",
+          "createdAt": "2026-11-06T02:10:17Z",
+          "uri": "at://did:plc:7rcr53jnsjdvdtlgpcnckzzp/app.bsky.feed.post/3mzmcimlk6c2d",
+          "sentiment": 0
+        },
+        {
+          "id": "5f369afc50404f10294d6fc8c4286c83faa0075d6641fadd6193a2d44d4f5e43",
+          "authorHandle": "the1truesid.bsky.social",
+          "postText": "Makes sense, with Angus King grey in Maine.",
+          "createdAt": "2026-11-06T00:54:39.660Z",
+          "uri": "at://did:plc:z6mr22cam6b3nvauir63qkdg/app.bsky.feed.post/3mzm6bd7kz22w",
+          "sentiment": 0
+        },
+        {
+          "id": "4b80ae31cd8ca0f4e44e39cc082bb1b94556fc5c000fde1456297cdbbcb13cf1",
+          "authorHandle": "pinkloser.bsky.social",
+          "postText": "I think it’s the other senate seat. Maine made me think otherwise because it’s gray but Angus King is an independent. Though that raises a question because Vermont’s is blue when Sanders is technically independent. I guess because he caucuses with dems",
+          "createdAt": "2026-11-06T00:49:29.853Z",
+          "uri": "at://did:plc:m4bku2hgvgpk7kivfq2yyjnr/app.bsky.feed.post/3mzm5y3r4zc27",
+          "sentiment": 0
+        },
+        {
+          "id": "ee9ed6360d2fa5b173bf4142b057601caa60a7dd438b46bec7705726db38eb8e",
+          "authorHandle": "cynharp777.bsky.social",
+          "postText": "Angus King of Maine is an Independent! And 10 yrs ago the Dems would never have passed $1 trillion infrastructure, $400 billion IRA/ Climate chg, expanded ACA and Childcare, $180 billion in student loan relief! Plus Black woman VP and Supreme Court Justice and a Trans Asst Secy of Health…just stop!",
+          "createdAt": "2026-11-06T00:03:11.524Z",
+          "uri": "at://did:plc:6nm77glzlqusyqkjad3feirh/app.bsky.feed.post/3mzm3fc566c2w",
+          "sentiment": 1
+        },
+        {
+          "id": "b915d0bd92affcda58f303a57de502b06e5a23171d3a4911ddd6bcbc67910ec8",
+          "authorHandle": "octaviuz.bsky.social",
+          "postText": "Looks like the party of the other senator. Check out Maine in gray for Indie Angus King.",
+          "createdAt": "2026-11-05T23:58:49.399Z",
+          "uri": "at://did:plc:3dnjizczo4pr4uifesp35w4s/app.bsky.feed.post/3mzm35i62ik2o",
+          "sentiment": 0
+        },
+        {
+          "id": "d2e42a2cf4b9d8c087b477d466f11ef89401c7a80ef69718b255446dde820702",
+          "authorHandle": "pklinkne.bsky.social",
+          "postText": "In the current Senate, the most conservative Democrat is Angus King (yeah, I know he's technically an I). His DWNominate score is -.17 \n\nIn 2009-11 there were 5 D Senators with more conservative scores: Jim Webb, Blanche Lincoln, Evan Bayh, Claire McCaskill, and Ben Nelson.",
+          "createdAt": "2026-11-05T22:57:36.750Z",
+          "uri": "at://did:plc:fu7hmeze2dwdwmh5guapsbd6/app.bsky.feed.post/3mzlxpzndic2n",
+          "sentiment": 0
+        }
+      ],
       "youtube": []
     }
   ]
