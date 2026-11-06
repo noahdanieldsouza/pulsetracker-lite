@@ -3,76 +3,6 @@
   "windowHours": 24,
   "politicians": [
     {
-      "id": "nirav-shah",
-      "name": "Nirav Shah",
-      "overallSentiment": -1,
-      "newsSentiment": -1,
-      "socialSentiment": -1,
-      "mentions": {
-        "news": 1,
-        "social": 1,
-        "youtube": 0,
-        "total": 2
-      },
-      "news": [
-        {
-          "id": "15f2927586010d95c54d37e35efa721456bace0783fec68c579a03351f666184",
-          "title": "Vijay Deverakonda and Rashmika Mandanna Meet Tamil Nadu CM C Joseph Vijay Ahead Of 'Ranabaali' Release",
-          "description": "Vijay Deverakonda and Rashmika Mandanna met the Tamil Nadu Chief Minister and former Tamil film star C Joseph Vijay at his Chennai residence on October 12.",
-          "sourceName": "The Hollywood Reporter India",
-          "url": "https://www.hollywoodreporterindia.com/features/insight/vijay-deverakonda-and-rashmika-mandanna-meet-tamil-nadu-cm-c-joseph-vijay-ahead-of-ranabaali-release",
-          "publishedAt": "2026-10-13T05:40:03.000Z",
-          "sentiment": -1
-        }
-      ],
-      "social": [
-        {
-          "id": "10d32125490bfadc0318bf22112d783229e53d848599329e47e8d7448c3d18a0",
-          "authorHandle": "dickius.bsky.social",
-          "postText": "Ezra is *certain* that you’re too stupid to remember that Troy Jackson wasn’t a candidate in the Maine Senate Primary, as he was running in the gubernatorial primary. ",
-          "createdAt": "2026-11-06T20:00:16.512Z",
-          "uri": "at://did:plc:kwnkemsioiw7g36ywf4i3jss/app.bsky.feed.post/3mzo6btrswb33",
-          "sentiment": -1
-        }
-      ],
-      "youtube": [],
-      "youtubeSentiment": null
-    },
-    {
-      "id": "shenna-bellows",
-      "name": "Shenna Bellows",
-      "overallSentiment": -0.5267,
-      "newsSentiment": null,
-      "socialSentiment": -0.5267,
-      "mentions": {
-        "news": 0,
-        "social": 2,
-        "youtube": 0,
-        "total": 2
-      },
-      "news": [],
-      "social": [
-        {
-          "id": "c622c5351f52639b81d97b9f5c5fb7d83bf1624f01f818a5bede7bfd4ee6366d",
-          "authorHandle": "dickius.bsky.social",
-          "postText": "Ezra is *certain* that you’re too stupid to remember that Troy Jackson wasn’t a candidate in the Maine Senate Primary, as he was running in the gubernatorial primary. ",
-          "createdAt": "2026-11-06T20:00:16.512Z",
-          "uri": "at://did:plc:kwnkemsioiw7g36ywf4i3jss/app.bsky.feed.post/3mzo6btrswb33",
-          "sentiment": -0.5267
-        },
-        {
-          "id": "c02121cbef799d1d570481c4363a3333add6dbd48a82106247c1a221e99aee7f",
-          "authorHandle": "upstract.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-11-05T23:29:22.000Z",
-          "uri": "at://did:plc:xc32dedgv3ceunwz2nrseso4/app.bsky.feed.post/3mzlzzdhd3pb2",
-          "sentiment": null
-        }
-      ],
-      "youtube": [],
-      "youtubeSentiment": null
-    },
-    {
       "id": "troy-jackson",
       "name": "Troy Jackson",
       "overallSentiment": 0.3026902515434928,
@@ -3261,32 +3191,6 @@
         }
       ],
       "youtubeSentiment": 0.631578947368421
-    },
-    {
-      "id": "jordan-wood",
-      "name": "Jordan Wood",
-      "overallSentiment": 0,
-      "newsSentiment": null,
-      "socialSentiment": 0,
-      "mentions": {
-        "news": 0,
-        "social": 1,
-        "youtube": 0,
-        "total": 1
-      },
-      "news": [],
-      "social": [
-        {
-          "id": "c254e035c05aee9a5102b973e2b0732b8bbbb6949b4aa48698f49bbbe0b0ce22",
-          "authorHandle": "jonnymuzzer.bsky.social",
-          "postText": "Helen Wood, Stephen Bear, Rochelle \n\nFor every bad person winning, we’ve had dozens of amazing people winning\n\nCraig, Brian D (twice), Kate, nadia, Pete, Brian B, josie, Cameron C, Jordan… the list is endless\n\nSometimes things just need to go wrong to appreciate the good things \n#bbuk",
-          "createdAt": "2026-11-05T22:23:19.291Z",
-          "uri": "at://did:plc:mwrb73y53jhjvbkqcjnb25bs/app.bsky.feed.post/3mzlvspiq522s",
-          "sentiment": 0
-        }
-      ],
-      "youtube": [],
-      "youtubeSentiment": null
     },
     {
       "id": "hannah-pingree",
