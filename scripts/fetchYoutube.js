@@ -1,4 +1,5 @@
 import axios from "axios";
+import { POLITICIANS } from "./politicians.js";
 
 const SEARCH_URL = "https://www.googleapis.com/youtube/v3/search";
 const COMMENT_THREADS_URL = "https://www.googleapis.com/youtube/v3/commentThreads";
@@ -16,14 +17,24 @@ const MAX_COMMENT_PAGES = 4;
  * the comment text itself before it's considered "about" them.
  *
  * Matches on the first name, last name, or full name as whole words
- * (case-insensitive).
+ * (case-insensitive). A first or last name shared with another tracked
+ * politician is skipped, since it can't say which of them a comment means
+ * (e.g. a bare "Pingree" with both Hannah and Chellie Pingree tracked).
  */
 function buildNameMatcher(politicianName) {
   const escape = (s) => s.trim().replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  const parts = politicianName.trim().split(/\s+/);
-  const first = parts[0];
-  const last = parts[parts.length - 1];
-  const alternatives = [...new Set([first, last, politicianName])].map((s) => escape(s).replace(/\s+/g, "\\s+"));
+  const firstAndLast = (name) => {
+    const parts = name.trim().split(/\s+/);
+    return [parts[0], parts[parts.length - 1]];
+  };
+  const isShared = (word) =>
+    POLITICIANS.some(
+      (other) =>
+        other.name !== politicianName &&
+        firstAndLast(other.name).some((w) => w.toLowerCase() === word.toLowerCase())
+    );
+  const words = firstAndLast(politicianName).filter((word) => !isShared(word));
+  const alternatives = [...new Set([...words, politicianName])].map((s) => escape(s).replace(/\s+/g, "\\s+"));
   const pattern = new RegExp(`\\b(${alternatives.join("|")})\\b`, "i");
   return (text) => pattern.test(text ?? "");
 }
