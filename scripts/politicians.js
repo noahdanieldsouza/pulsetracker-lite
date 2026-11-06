@@ -1,8 +1,9 @@
 // The 5 tracked politicians. `id` is a stable slug used as the key
 // throughout data.json and the frontend routes/selection state.
 export const POLITICIANS = [
-  { id: "nirav-shah", name: "Nirav Shah" },
-  { id: "shenna-bellows", name: "Shenna Bellows" },
+  { id: "hannah-pingree", name: "Hannah Pingree" },
+  { id: "paul-lepage", name: "Paul LePage" },
   { id: "troy-jackson", name: "Troy Jackson" },
-  { id: "jordan-wood", name: "Jordan Wood" },
+  { id: "chellie-pingree", name: "Chellie Pingree" },
+  { id: "angus-king", name: "Angus King" }
 ];
