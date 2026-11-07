@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-11-06T21:39:05.269Z",
+  "lastUpdated": "2026-11-07T00:59:36.463Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3036737363513679,
+      "overallSentiment": 0.2900927801646975,
       "newsSentiment": 0.03266184210526316,
-      "socialSentiment": 0.24678041958041952,
+      "socialSentiment": 0.20603755102040813,
       "mentions": {
         "news": 76,
-        "social": 286,
+        "social": 245,
         "youtube": 19,
-        "total": 381
+        "total": 340
       },
       "news": [
         {
@@ -702,6 +702,182 @@
       ],
       "social": [
         {
+          "id": "98577a3451a209631d9777e283dbaa04a8b9b4e17e2478c220d7a90122b43630",
+          "authorHandle": "jenn-yyy.bsky.social",
+          "postText": "Link to a source:\nwww.pressherald.com/2026/11/04/t...",
+          "createdAt": "2026-11-07T00:23:40.065Z",
+          "uri": "at://did:plc:vly6qmfsixrtjtntai3xmgth/app.bsky.feed.post/3mzomyt7zak2o",
+          "sentiment": 0
+        },
+        {
+          "id": "81720ef637a849bd5c602f47f90983e0bdaac83dc67a2a8a497e644ce787df58",
+          "authorHandle": "therealjessecoffey.bsky.social",
+          "postText": "BRIEF COMMENT\nYou championed Annie Andrews because people like Peggy Flanagan, Abdul El-Sayed and Troy Jackson leaned just a little further left. But guess what? Annie's ALSO indicated that she'ill oppose Chuck Schumer being the Senate Majority Leader.",
+          "createdAt": "2026-11-07T00:21:18.445Z",
+          "uri": "at://did:plc:u3a5i6ehwv4suxf3b63po2xk/app.bsky.feed.post/3mzomum64hk2s",
+          "sentiment": -0.3
+        },
+        {
+          "id": "0abb9b2043f83f8d8245de4e6d382ab5b40d6a4359eba92f7127b64873765f38",
+          "authorHandle": "jimmyscoville.bsky.social",
+          "postText": "www.democracynow.org/2026/11/6/he...",
+          "createdAt": "2026-11-07T00:09:00.782Z",
+          "uri": "at://did:plc:hde7pd6ryqvjmrljp3aqrcgd/app.bsky.feed.post/3mzom6mofhk2o",
+          "sentiment": 0
+        },
+        {
+          "id": "c3d3bb301203499ef9da3d8375e9ef1a80bdcdab4f773790be59b75d142227bb",
+          "authorHandle": "lalegault.bsky.social",
+          "postText": "www.democracynow.org/2026/11/6/he...",
+          "createdAt": "2026-11-06T23:49:59.869Z",
+          "uri": "at://did:plc:mwagtmvsxuqlgte5iqk3fndm/app.bsky.feed.post/3mzol4mmhn22s",
+          "sentiment": 0
+        },
+        {
+          "id": "33c4d5ee8c010413adf2923a4962565da7f059e26f82db777e80535bb293144a",
+          "authorHandle": "crowtickle.bsky.social",
+          "postText": "Did Troy Jackson get Susan Collins’ red slippers?  Inquiring minds and all that.\n🤔",
+          "createdAt": "2026-11-06T23:47:50.003Z",
+          "uri": "at://did:plc:2667srp3bvbmtsb3zilqjgha/app.bsky.feed.post/3mzokyqrbek2q",
+          "sentiment": 0
+        },
+        {
+          "id": "c2b97ae9e1ca60a6013dfe357ed8ee27a7073a1ce9aeba66d1ea785240758569",
+          "authorHandle": "bigbaddaddy.bsky.social",
+          "postText": "Troy Jackson, a fifth-generation logger from Allagash, beat Collins on Nov. 3 with more than 53 percent of the vote, the AP reported. Collins had held the seat since January 1997, five terms in all.",
+          "createdAt": "2026-11-06T23:47:06.574Z",
+          "uri": "at://did:plc:ktzww7belalz424y6xgwrpaa/app.bsky.feed.post/3mzokxhdz622z",
+          "sentiment": 0.8
+        },
+        {
+          "id": "e5a92bd0ef667e75f70e26418e97365c63c5d419d45b1ff667f74a3a61eb8d09",
+          "authorHandle": "banmarnj.bsky.social",
+          "postText": "Troy Jackson begins building Senate team after defeating Susan Collins",
+          "createdAt": "2026-11-06T23:46:19.265Z",
+          "uri": "at://did:plc:y5xpslr2bnzbnbyzkexm4ork/app.bsky.feed.post/3mzokw2a6zc27",
+          "sentiment": 0.7
+        },
+        {
+          "id": "86b7c6e3fab05ba7f65b5dac096bd18690786d6b0da20a117f7b2e2d3305eee1",
+          "authorHandle": "beorn3.bsky.social",
+          "postText": "www.democracynow.org/2026/11/6/he...",
+          "createdAt": "2026-11-06T23:43:51.712Z",
+          "uri": "at://did:plc:af5oqyc2vbu3oyc4aqhmhn2a/app.bsky.feed.post/3mzokrnj7cs26",
+          "sentiment": 0
+        },
+        {
+          "id": "6ac92263acbf259119c7f13359f9eac6ff64be36588343ac6f3316d4035b221f",
+          "authorHandle": "charleskeener.bsky.social",
+          "postText": "www.democracynow.org/2026/11/6/he...",
+          "createdAt": "2026-11-06T23:41:24.085Z",
+          "uri": "at://did:plc:4llyqwdqnd6t7ncyvvjzeih7/app.bsky.feed.post/3mzoknapyd22z",
+          "sentiment": 0
+        },
+        {
+          "id": "e4fe4361d7e1da14b1a898e1b1e7d6b08e3d00401ff1c0c33c8277c35343d052",
+          "authorHandle": "ingot.bsky.social",
+          "postText": "The more I find out about Troy Jackson the more I like him. He seems like a really cool down to earth dude, and he won without throwing trans folks under the bus. \n\nWe really dodged a bullet with Platner, but Jackson doesn't seem like a consolation prize. He's just as good, just not as bombastic.",
+          "createdAt": "2026-11-06T23:33:48.067Z",
+          "uri": "at://did:plc:5ajy4gdrywfohfi6mqzli2wt/app.bsky.feed.post/3mzok7nth7s2v",
+          "sentiment": 0.9
+        },
+        {
+          "id": "57c190875cd029a067d721ac4990c7d1536ccc46da3dbae5a16022d8d24ef731",
+          "authorHandle": "benrosstransit.bsky.social",
+          "postText": "Just not true. Schumer is the one who convinced Sherrod Brown, a progressive, to run. He recruited Peltola. He got behind Troy Jackson the moment he was nominated. He backed Adam Hamilton & Roy Cooper. And he was among the first to get behind Scott Colom.\nwww.semafor.com/article/08/0...",
+          "createdAt": "2026-11-06T23:08:27.316Z",
+          "uri": "at://did:plc:ppdarsjkbolt7skfycm7ap4f/app.bsky.feed.post/3mzoisdjrts2q",
+          "sentiment": 0.6
+        },
+        {
+          "id": "b1a35c9fd1c564e72d49b031ebbb8ea20e8c385573b170bb26c44cd3628fa644",
+          "authorHandle": "uaw.org",
+          "postText": "\"Everybody got the memo on the issues that really matter to workers. Everywhere we went — gas, groceries, rent, the high cost of living and the fact that paychecks aren’t keeping up. So we felt just absolutely strong with how the campaign went.”\n\nhttps://ow.ly/4ns95104xWm",
+          "createdAt": "2026-11-06T23:00:26.662242597Z",
+          "uri": "at://did:plc:kkthg5ffy7dews4o3svyffrm/app.bsky.feed.post/3mzoie2m2mj2k",
+          "sentiment": 0.5
+        },
+        {
+          "id": "8e010f12a15d0ef4cfe58d7e12d58f2755a97b72c74b2bfcb088665c062d407d",
+          "authorHandle": "spideyramone.bsky.social",
+          "postText": "The Odyssey, Percy Jackson, Arrow rereleasing Troy and Clash of the Titans. 2026 Greek Myth is popular.",
+          "createdAt": "2026-11-06T22:58:23.776Z",
+          "uri": "at://did:plc:52znky55okbvxiccl7gqqw3a/app.bsky.feed.post/3mzoiadx7cs2b",
+          "sentiment": 0
+        },
+        {
+          "id": "698f9f976edcf0a68602284f147e63515d203371209dc82fe66ff2d75964f820",
+          "authorHandle": "44lights.bsky.social",
+          "postText": "And they didn’t have GOP type funding.\n\nThey had to be ultra focused because the opportunities were scattered all over the map.\n\nI personally thought Troy Jackson would lose in a close race.\n\nI was really wrong. (Happy to be so).\n\nThose guys had to evaluate dozens of races across the board.",
+          "createdAt": "2026-11-06T22:55:02.415Z",
+          "uri": "at://did:plc:kzh2jqtkw5pt7e77ojorryie/app.bsky.feed.post/3mzoi2dw7o227",
+          "sentiment": 0.7
+        },
+        {
+          "id": "22b64a3d16108c47be91d68547abbabe86a955398bee0c7acf1afc2c5bf6e3af",
+          "authorHandle": "50501movement.bsky.social",
+          "postText": "A not that long time from now, in a Senate Leadership Race far far away…\n\nIt is a period of civil war. Rebel progressive, striking from their newfound Senate seats, have won their first victory against the evil Schumer Empire.",
+          "createdAt": "2026-11-06T22:46:01.766Z",
+          "uri": "at://did:plc:f6gfdc4j4h7jbvs64lvpq2l5/app.bsky.feed.post/3mzohkacx422i",
+          "sentiment": 0.2
+        },
+        {
+          "id": "b4aa28955102152a288cc759928c4f721fb85530c729ecc42a05c92d7265a678",
+          "authorHandle": "4nd3l.bsky.social",
+          "postText": "The list keeps growing Nat. \n\nNow Amy Andrew’s\n   Troy Jackson have been added on.",
+          "createdAt": "2026-11-06T22:28:57.897Z",
+          "uri": "at://did:plc:ikyqc2qydq4665yqx3xe52e5/app.bsky.feed.post/3mzoglpuu422k",
+          "sentiment": 0.4
+        },
+        {
+          "id": "af1df720edf60921661225a3b1a5b2b0f572bf603a7342e12db754dbd1bd97fc",
+          "authorHandle": "rogerhickey.bsky.social",
+          "postText": "Good article by my friend, Larry Cohen, about his friend, Troy Jackson -- the new US Senator from Maine.   \n\nGood Organizing Pays Off in Maine and Minnesota barnraisingmedia.com/good-organiz...",
+          "createdAt": "2026-11-06T22:12:53.105Z",
+          "uri": "at://did:plc:kbn3phpn3gatjatcz3qmqo6k/app.bsky.feed.post/3mzofoxrrfc2k",
+          "sentiment": 0.7
+        },
+        {
+          "id": "a8940cfe91878797caec6cdd91397c11844c8f339b31242af045c4d4fb5627b5",
+          "authorHandle": "dollparts69.bsky.social",
+          "postText": "Annie Andrews, Peggy Flanagan, Troy Jackson, and Abdul El Sayed have all publicly committed to escorting Schumer and Jeffries back to their seats.  New leadership.",
+          "createdAt": "2026-11-06T22:02:35.581Z",
+          "uri": "at://did:plc:hk24u4ufrtmlddyyqt5h47zq/app.bsky.feed.post/3mzof4kugmc24",
+          "sentiment": 0.3
+        },
+        {
+          "id": "2b56e7acbb1c408f552a2c8550ea0160c8ed7a76f577107905f5e3a5f119fedd",
+          "authorHandle": "jasonberlin.bsky.social",
+          "postText": "Congratulations, Senator Jackson!\n\nTroy Jackson won by 47,503 votes! Huge thank you to all @FieldTeam6.org volunteers & donors who made these texts, emails, postcards to register new Democrats possible. And thank you Maine voters!\n\n#Voterizer #Maine social.fieldteam6.org/s/MGJlbg6k",
+          "createdAt": "2026-11-06T21:57:15.816Z",
+          "uri": "at://did:plc:vdsxdecnsqgtfwzlce35c66e/app.bsky.feed.post/3mzoeszvy422x",
+          "sentiment": 1
+        },
+        {
+          "id": "3bb1e31af00710d5edfb4d080460344162abe39c501b12f1b0cac5f30625482c",
+          "authorHandle": "thumbinframe.bsky.social",
+          "postText": "I was in a downtown Portland ME gay bar, and all the twinks were crying because Troy Jackson won. \"Where will we get road salt now?\" They sobbed. The bears just sat silently, crying into their cocktails. The glory hole was just relabeled the hole, bc there's no glory to be found anymore.",
+          "createdAt": "2026-11-06T21:54:27.546Z",
+          "uri": "at://did:plc:dfkudmoljfapm5f24rhcgaga/app.bsky.feed.post/3mzoenzgrwk25",
+          "sentiment": -1
+        },
+        {
+          "id": "68cbadae100dd9abf5836bba8ffdb7dce7dfa3a33f40de4e720fe17e6a09067c",
+          "authorHandle": "givedogsthevote.bsky.social",
+          "postText": "Some Schumer, some Jeffries, some both:\nChris Van Hollen, Peggy Flanagan, William Lawrence, AES and Talarico, Annie Andrews, Melat Kiros, Juliana Stratton, Adam Hamilton, Troy Jackson, Ro Khanna...",
+          "createdAt": "2026-11-06T21:45:21.554Z",
+          "uri": "at://did:plc:ihrbb75kf7xxozujomufgf5o/app.bsky.feed.post/3mzoe5qqkjk2p",
+          "sentiment": 0.3
+        },
+        {
+          "id": "1e8176bc500fea79d650833c3f986b74d36d213b26bfcd676ff9b07f258786a4",
+          "authorHandle": "mantydems.bsky.social",
+          "postText": "There are growing calls for new leadership to challenge Senate Democratic leader Chuck Schumer and House Democratic leader Hakeem Jeffries. \n\nwww.democracynow.org/2026/11/6/he...",
+          "createdAt": "2026-11-06T21:42:46.109Z",
+          "uri": "at://did:plc:wal4q5v5ki2ogtx2bhv7a3rg/app.bsky.feed.post/3mzodz4imuc2w",
+          "sentiment": 0
+        },
+        {
           "id": "ac66ba84a2bc3b488b01a8da4e6af3af0d4ea09484a00d6336cd290e24fade42",
           "authorHandle": "cricketmice.bsky.social",
           "postText": "Troy Jackson going “no I won’t apologize, i won’t let Susan Collins disrespect me” was another mild example of this",
@@ -1076,14 +1252,6 @@
           "createdAt": "2026-11-06T17:51:24.254Z",
           "uri": "at://did:plc:46n553e6reg4iojjdycv4zuh/app.bsky.feed.post/3mznx3fpztk2x",
           "sentiment": 0
-        },
-        {
-          "id": "5b6160b2687f84a2d8ddfb29c16bfd27c0f50f3e9ff626cd8d97182483cd285f",
-          "authorHandle": "natecaprio.bsky.social",
-          "postText": "Troy Jackson feeling left out 😢",
-          "createdAt": "2026-11-06T17:45:06.624Z",
-          "uri": "at://did:plc:jemrg6hgtotzm436q7iv57xs/app.bsky.feed.post/3mznwq5lufk2z",
-          "sentiment": -0.5
         },
         {
           "id": "67d3d5ff52dfbb01f61648a509b2bc012ab2f70d6848e6f59aa93077e9657055",
@@ -2492,502 +2660,6 @@
           "createdAt": "2026-11-06T01:00:38.152Z",
           "uri": "at://did:plc:sficxijloegx5al3nlexjawc/app.bsky.feed.post/3mzm6lz3tus2t",
           "sentiment": 0
-        },
-        {
-          "id": "3bf69c95d908fdda4a1f1c87b7541452952ebd2c2202478dc7faebf680c2f3f4",
-          "authorHandle": "bernard-elias.bsky.social",
-          "postText": "Susan Collins fumes after voters send her packing: ‘It is never enough’ www.rawstory.com/susan-collin...",
-          "createdAt": "2026-11-06T00:58:56.681Z",
-          "uri": "at://did:plc:pbhcgcd2d7luuhjmtm2ork7u/app.bsky.feed.post/3mzm6iydb2k2h",
-          "sentiment": 0
-        },
-        {
-          "id": "25f0d97ba0b668c16ee9b82b145d881c2de978960bdb4b41673e5651a942fdbe",
-          "authorHandle": "ari-el222.bsky.social",
-          "postText": "this is also so funny for her to put Troy Jackson in her idiotic graph like this. \n\neveryone was moping about Susan Collins being undefeatable and Troy winning by ~7 is a good result. no doubt she’d be gloating if Troy was, to her mind, more ideologically aligned with centrism.",
-          "createdAt": "2026-11-06T00:54:56.623Z",
-          "uri": "at://did:plc:c3u6inoasxg2p426eowbmpcd/app.bsky.feed.post/3mzm6btfags2y",
-          "sentiment": 1
-        },
-        {
-          "id": "a58944d8db488f6c3a86041aa84d7292868161dd8fbd6098335ab0b9ae677419",
-          "authorHandle": "silviochiapusso.bsky.social",
-          "postText": "Troy Jackson, ex boscaiolo del Maine eletto al senato di Washington per i democratici. «Penso alle generazioni di abitanti del Maine che hanno lavorato nei boschi e tutti quelli che hanno costruito e fatto funzionare questo stato. Lotterò per loro ogni giorno». \nwww.nytimes.com/2026/11/04/u...",
-          "createdAt": "2026-11-06T00:54:02.047Z",
-          "uri": "at://did:plc:bsjdbw4rw4zaup2yx6vgdhds/app.bsky.feed.post/3mzm6a7dqk22x",
-          "sentiment": 1
-        },
-        {
-          "id": "32e8a146587d3e9b3f5f5d3af11fc646634bc95748b4925b2af19622ceedd86d",
-          "authorHandle": "citizenmke.bsky.social",
-          "postText": "If Schumer had let the primary process play out first, a few good candidates (like Troy Jackson) would have run, making Platner look like shit in comparison. Instead Platner was the only one left who wasn't Mills and Mills \"ran\" begrudgingly and without effort",
-          "createdAt": "2026-11-06T00:49:25.314Z",
-          "uri": "at://did:plc:nuw6z365fatkcfx2fqzf45og/app.bsky.feed.post/3mzm5xxvot22l",
-          "sentiment": 1
-        },
-        {
-          "id": "4fee2b0d8a42233c5dbc9f1833dc591d402cd08dc68e09980bf73b69c68d7a28",
-          "authorHandle": "diabolique.bsky.social",
-          "postText": "troy jackson is a good option that will now be the next senator from maine. atp i don't care that schumer backed mills - which considering her popularity as gov in maine def came from a place of conventional wisdom - when a bunch of supposed antifascist leftists backed the nazi blackwater merc",
-          "createdAt": "2026-11-06T00:45:51.882Z",
-          "uri": "at://did:plc:6zmz2cnocs7rquw2dxuuvrqw/app.bsky.feed.post/3mzm5rlv2sk2o",
-          "sentiment": 0.7
-        },
-        {
-          "id": "d72dd7abeeef786d664fc1755e969e2a0eefb94bb0bac20e9e98eac9ff60feb7",
-          "authorHandle": "roadrunner63.bsky.social",
-          "postText": "Jeffries and Schumer funded a fuck ton of these races & raised money the entire time.  That’s part of their job.\n\nEX: Schumer got funding & staff to Troy Jackson within days of him being the Maine Senate candidate, $30M to El-Sayed, millions to Talarico, etc.\n\nStay focused on the mission!!",
-          "createdAt": "2026-11-06T00:40:48.233Z",
-          "uri": "at://did:plc:2orsp6vg6jrf6sdmeejop6sw/app.bsky.feed.post/3mzm5ikcglc2k",
-          "sentiment": 0.6
-        },
-        {
-          "id": "143a9fbf284d7ca1509d5e970fa6f47da8c238507c1efdd8a41bb0b62871f343",
-          "authorHandle": "textilehistory.bsky.social",
-          "postText": "I still don't get people being mad about Platner. Troy Jackson is *actually* what they were pretending Platner was minus the Nazi tattoo and the rape. Like, there are no *good* explanation of this phenomenon. They like him because he was their coke dealer or they like Nazis and rape. Only options.",
-          "createdAt": "2026-11-06T00:40:11.278Z",
-          "uri": "at://did:plc:lg63qiyzzlry7iqjbw2pmtm7/app.bsky.feed.post/3mzm5hh2npk23",
-          "sentiment": -0.9
-        },
-        {
-          "id": "34600452f30c2f6aed969e3739c067fba6286cac3ea781ee4817f4efaad62554",
-          "authorHandle": "chrismootham.bsky.social",
-          "postText": "Susan Collins fumes after voters send her packing: ‘It is never enough’ www.rawstory.com/susan-collin...",
-          "createdAt": "2026-11-06T00:39:59.730Z",
-          "uri": "at://did:plc:y2lctkh26henjydike63ehcb/app.bsky.feed.post/3mzm5h42bds2w",
-          "sentiment": 0
-        },
-        {
-          "id": "043c2bbc7543044002b7f9769b7e1879ddffcfdc3fa566ce23f37d87d2e55d20",
-          "authorHandle": "halfmarshall.bsky.social",
-          "postText": "“I simply lack the space to list them all, folks. We got a two-for-one on mendacious Republicans named Collins, thanks to Jon Ossoff and Troy Jackson.\" politicalwire.com/2026/11/05/a...",
-          "createdAt": "2026-11-06T00:35:56.636Z",
-          "uri": "at://did:plc:4nmwak3dwpoilgwsqlsyohib/app.bsky.feed.post/3mzm57u7oup2z",
-          "sentiment": 0.8
-        },
-        {
-          "id": "9fd2a25bd8837e0d12325b690d5cc5987b5a322aebcdfadfd80cd603dba7e123",
-          "authorHandle": "jamiepeppard.bsky.social",
-          "postText": "You gotta love Troy Jackson!",
-          "createdAt": "2026-11-06T00:22:59.694Z",
-          "uri": "at://did:plc:lfpfh26ng2ezynjzrpjmfo45/app.bsky.feed.post/3mzm4ipb7hk2p",
-          "sentiment": 0.9
-        },
-        {
-          "id": "f577a5c6a3bac665a326420cac49cb01060d91351433c304487395423b15830a",
-          "authorHandle": "diabolique.bsky.social",
-          "postText": "i mean she was still a better choice than a guy who literally had a nazi tattoo! thank god none of this matters now that troy jackson beat susan collins",
-          "createdAt": "2026-11-06T00:19:33.597Z",
-          "uri": "at://did:plc:6zmz2cnocs7rquw2dxuuvrqw/app.bsky.feed.post/3mzm4ckplv22h",
-          "sentiment": 0.8
-        },
-        {
-          "id": "eb7d6fb84b2c8b6e2107ec185d80f7b05f1cd9c76ba9ae151d4702743b5b6bc4",
-          "authorHandle": "jasonswritings.bsky.social",
-          "postText": "\"Help! Idiots nominated the worst fucking person we have ever nominated and we are in a real bind. We have to get someone QUICK that can run against that woman that has won for like 80 years straight!\"\n\nTroy Jackson: \"Hiya! Don't worry. I got this. It's easy. I'll just do it!\" \n\nDoes it lol.",
-          "createdAt": "2026-11-06T00:14:41.147Z",
-          "uri": "at://did:plc:st75mstqwygzrd6723rac5xe/app.bsky.feed.post/3mzm3ztsq6k22",
-          "sentiment": 0.7
-        },
-        {
-          "id": "c3626b9a23053e959d6639345829333a8898ec16d2750f9787af9c72d966eb94",
-          "authorHandle": "rickywlmsbong.bsky.social",
-          "postText": "once july happened and republicans across the nation were exposed to the raw sexual magnetism of troy jackson it was over",
-          "createdAt": "2026-11-06T00:12:39.651Z",
-          "uri": "at://did:plc:ilpzctn6tforvjyixc37smcg/app.bsky.feed.post/3mzm3w7wyps22",
-          "sentiment": 0.9
-        },
-        {
-          "id": "14af4b1b8654cb3cdd91f88f37483468e2f50049e048c440465c28172392ecb4",
-          "authorHandle": "adammarti.bsky.social",
-          "postText": "Just think Susan, if you had actually been independent from Trump as you portray and not instead coordinated votes \"against him\" to when it didn't matter, you could have been part of protecting this country from him and still had your job.\n\nBut you protected him, so he's still got his and you don't.",
-          "createdAt": "2026-11-06T00:09:45.053Z",
-          "uri": "at://did:plc:lsod6gc26w6p76rdgpo7k3wq/app.bsky.feed.post/3mzm3qzgnv223",
-          "sentiment": 0
-        },
-        {
-          "id": "4d1afcd3ba4768ba5d0c64e17e96de3861f62e47be3a0cabec233ad2500034ac",
-          "authorHandle": "miss-spider.bsky.social",
-          "postText": "We really need to do some work in rural Maine. I'm hoping Troy Jackson does great things and helps sway them 🌲💙",
-          "createdAt": "2026-11-06T00:06:08.964Z",
-          "uri": "at://did:plc:qgsovb5jzfefphccpeaitmf6/app.bsky.feed.post/3mzm3kle6h22d",
-          "sentiment": 0.7
-        },
-        {
-          "id": "76293b33587627cd3ca374fc17ef3c12789c374ac4732f0ee334fe3f8a304e06",
-          "authorHandle": "bearded.social",
-          "postText": "Let’s be clear: Schumer & Jeffries did what they were supposed to do. They signed up for this. They didn’t do Troy Jackson or AES any favors.\n\nThey are compromised by AIPAC. Using our tax dollars to kill children will continue and forget about holding folks accountable.\n\nWe need leaders with spine.",
-          "createdAt": "2026-11-06T00:03:36.448Z",
-          "uri": "at://did:plc:dihvdmlzkxrdylmmfad463xp/app.bsky.feed.post/3mzm3fzvztc2p",
-          "sentiment": -0.2
-        },
-        {
-          "id": "c4371b4903a451e26ac77761603e5e900853488ad5113572601f83d791176ab3",
-          "authorHandle": "djconmy.bsky.social",
-          "postText": "Did Ken ever follow up on all those reports about how cool and great Platner is and how Troy Jackson couldn’t win Maine?",
-          "createdAt": "2026-11-05T23:54:12.889Z",
-          "uri": "at://did:plc:g4rknlpi3z3qjnncwgm5mpzt/app.bsky.feed.post/3mzm2vahefs2h",
-          "sentiment": 0.6
-        },
-        {
-          "id": "c0af29c7f09ac4323f94e01db7f5ddaaf71c119bdbe338a438ba69b4835bac9e",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine Senate\n\nPiscataquis County:\n🔴 Collins – 5,275 (67.9%)\n🔵 Jackson – 2,484 (32.0%)\n🔵 Webb (write-in) – 2 (0.0%)\n⚪ Steinberger (write-in) – 2 (0.0%)\n⚪ Oswald (write-in) – 1 (0.0%)\n⚪ Andrews (write-in) – 1 (0.0%)\n+2 more\n\nResults per Fox\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T23:49:30.732Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzm2mth7mh2d",
-          "sentiment": 0
-        },
-        {
-          "id": "1c18c55ad3b0ece813168746fa6b9a4442ba6821d39293d5529f33bcb20bc5cf",
-          "authorHandle": "dscc.bsky.social",
-          "postText": "Historic.",
-          "createdAt": "2026-11-05T23:42:23.278339702Z",
-          "uri": "at://did:plc:7pav6b2wbntgjeiog7hje45m/app.bsky.feed.post/3mzm2a3qthn2r",
-          "sentiment": 0.8
-        },
-        {
-          "id": "324ee7b250840e6539b8ba5369e5be108056b6338ca92386d03928227e61e60e",
-          "authorHandle": "tumblesweed.bsky.social",
-          "postText": "Troy Jackson has this pro-Wabanaki self-determination post on his TikTok, promising to fight for the Tribes here to finally have rights. I commented \"Sounds great. I hope you keep your word\" and the Libs are coming out to tell me his track record. I'm here to tell you that politicians have lied.",
-          "createdAt": "2026-11-05T23:40:09.094Z",
-          "uri": "at://did:plc:afqsv3gxf65pjhpyotkfib24/app.bsky.feed.post/3mzm243qpvk2k",
-          "sentiment": 0.2
-        },
-        {
-          "id": "15d87990d8bb51beaeb73cbd16d615579ac1e7fe2c2370edebcc7dcae3451739",
-          "authorHandle": "countryvalues.bsky.social",
-          "postText": "Troy Jackson hit it out of the park. Im so proud of him. I was very much in the camp he didn't have the energy to beat Collins and yet he did!",
-          "createdAt": "2026-11-05T23:38:29.838Z",
-          "uri": "at://did:plc:ahoqpi2dwsq7s7iddowxdzwh/app.bsky.feed.post/3mzlzz53o7k25",
-          "sentiment": 0.9
-        },
-        {
-          "id": "d194274b632baa6aa686c25e59738845febc6e30695c1f42e5a771b362d8c037",
-          "authorHandle": "aflcio.org",
-          "postText": "What do some of Tuesday night’s biggest stars – like El-Sayed, Talarico, Jackson, Poindexter, and Forstag – all have in common?\n\nThey’re all union members.\n\nThis wave was brought to you by union organizing, union voters, and union candidates.",
-          "createdAt": "2026-11-05T23:35:10.295Z",
-          "uri": "at://did:plc:23tjefyt2vhs2hqxeiooy4t4/app.bsky.feed.post/3mzlzt6s6wk2f",
-          "sentiment": 0.8
-        },
-        {
-          "id": "f5ce4b3232778a4653dd9a12eb01b539a7360ba7cfe14fcb29ec0320f69851eb",
-          "authorHandle": "lynnf.bsky.social",
-          "postText": "@hcrichardson.bsky.social \n\nwww.rawstory.com/susan-collin...",
-          "createdAt": "2026-11-05T23:33:19.010Z",
-          "uri": "at://did:plc:jwdavettwqqky4whcgykvzm6/app.bsky.feed.post/3mzlzpunwbc2w",
-          "sentiment": 0
-        },
-        {
-          "id": "b2a3ef9931b13244a4824fa89102299375c9fb1df639d185b54b247d54bc92ca",
-          "authorHandle": "alifib.bsky.social",
-          "postText": "i'm glad troy jackson won in maine because the more i learned about susan collins and why people there supported her the more i was starting to hate mainers",
-          "createdAt": "2026-11-05T23:28:56.746Z",
-          "uri": "at://did:plc:242wwciwugsfjysr4qhdoyx7/app.bsky.feed.post/3mzlzi2kczs2a",
-          "sentiment": 0.8
-        },
-        {
-          "id": "8c59d3f17adc4c282b24d0546504d10ea638845b52c686eee03460c1dfc867f2",
-          "authorHandle": "charheel90.bsky.social",
-          "postText": "Paul Lepage and Troy Jackson during the joint session",
-          "createdAt": "2026-11-05T23:20:04.995Z",
-          "uri": "at://did:plc:6jm325i6niqoj3nzvfousp3u/app.bsky.feed.post/3mzlyy7glwc2d",
-          "sentiment": 0
-        },
-        {
-          "id": "641c1ace2a9e65c259ee70e52e441f6aa064dde2df5c719c6d513a3cc2df3f72",
-          "authorHandle": "grandmamiz.bsky.social",
-          "postText": "Susan Collins fumes after voters send her packing: ‘It is never enough’ www.rawstory.com/susan-collin...",
-          "createdAt": "2026-11-05T23:14:16.862Z",
-          "uri": "at://did:plc:crg743xhhcpvqmslwwaqegmy/app.bsky.feed.post/3mzlyntgedk2q",
-          "sentiment": 0
-        },
-        {
-          "id": "69ebb3a5dab7a28d84247e271f05c13558ffa0077b11e5fc7cfb9f1a5ab4ea93",
-          "authorHandle": "joeemick.bsky.social",
-          "postText": "Tell that to Senator elect  El Sayed, Senator elect Annie Andrews, Senator elect Troy Jackson, Senator elect Peggy Flanagan, and should have been Senator elect Angie Nixon.",
-          "createdAt": "2026-11-05T23:10:56.647Z",
-          "uri": "at://did:plc:wwdynu3zli6c6hhsphxg3rgd/app.bsky.feed.post/3mzlyhuiavk2w",
-          "sentiment": 0.8
-        },
-        {
-          "id": "38fda3ae55b1896132a3fb1379c67aa35590a6246b7981a30c23c487312a3a15",
-          "authorHandle": "chuffmeister.bsky.social",
-          "postText": "Delusional readers may enjoy this narrative from the bastion of lies guardian pretending a ‘working class’ senator will change the political status quo.\nA product of the system will save us!\n\nwww.theguardian.com/us-news/2026...",
-          "createdAt": "2026-11-05T22:57:24.088Z",
-          "uri": "at://did:plc:ecudshvnslhxzn5dwukmku3f/app.bsky.feed.post/3mzlxpnkz6k2y",
-          "sentiment": -0.5
-        },
-        {
-          "id": "06d8abb5386c9883574efe934e8a5ca7c8b0f13d0b151ba00704b3f2ad3155b8",
-          "authorHandle": "jgrestore.bsky.social",
-          "postText": "AES just endorsed him for the role.\nIf we add Hamilton against Schumer, as well as Troy Jackson and Talarico....that means were only 1 senator away from blocking Schumer from having enough votes to be majority leader... Dems must rally around VAN HOLLEN.",
-          "createdAt": "2026-11-05T22:49:02.754Z",
-          "uri": "at://did:plc:v3rrhlpla7lc67smdq6lzgox/app.bsky.feed.post/3mzlxaphi7s2z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "7d15b422e9398049ad63681e7a61283ace312bf75b5e75e5303eae3fe546f686",
-          "authorHandle": "parforthecourse1.bsky.social",
-          "postText": "Susan Collins fumes after voters send her packing: ‘It is never enough’ www.rawstory.com/susan-collin...",
-          "createdAt": "2026-11-05T22:47:56.863Z",
-          "uri": "at://did:plc:drpp7jxpl3ojz2m3pon2zdpq/app.bsky.feed.post/3mzlx6qmmks2l",
-          "sentiment": -1
-        },
-        {
-          "id": "3a93c33f8075d14f08080031ceb75625d55e20486a7983c30d5439f43882cc79",
-          "authorHandle": "sawsharee.bsky.social",
-          "postText": "Democrat Troy Jackson, 5th Generation Log Roller And State Legislator, Wins U.S. Senate Seat In Maine!!",
-          "createdAt": "2026-11-05T22:46:34.105Z",
-          "uri": "at://did:plc:5axhwmenxqynqnnvosbdptax/app.bsky.feed.post/3mzlx4cck2w2s",
-          "sentiment": 1
-        },
-        {
-          "id": "93a0f31c6dae59c72c55056500de3750d5bd3d88c573d25f4a92d3398aa68e58",
-          "authorHandle": "glschwall.bsky.social",
-          "postText": "Susan Collins fumes after voters send her packing: ‘It is never enough’\n\nwww.rawstory.com/susan-collin...",
-          "createdAt": "2026-11-05T22:45:22.639Z",
-          "uri": "at://did:plc:ohhmgeox72bg7m7inuxekkk7/app.bsky.feed.post/3mzlx25k27k2e",
-          "sentiment": -1
-        },
-        {
-          "id": "1d70da122e07b3eaf23387cb070d4b15301d99c8b161884dbdf2e3118dc5cff1",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine U.S. Senate Class II\n\nStatewide – 93% reported:\n🔵 Troy Jackson – 374,442 (53.2%)\n🔴 Susan Collins – 329,231 (46.8%)\n⚪ Brent Andrews (write-in) – 221 (0.0%)\n🔵 Ashley Webb (write-in) – 82 (0.0%)\n⚪ Gina Oswald (write-in) – 67 (0.0%)\n🔵 Sigrid Olson (write-in) – 50 (0.0%)\n+2 more\n\nResults per AP",
-          "createdAt": "2026-11-05T22:42:52.237Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlwvo6ma52b",
-          "sentiment": 1
-        },
-        {
-          "id": "6f0ac24ee787f9f39e16271b32abeea0d0e24b627bf00ad2d118a11f91a74033",
-          "authorHandle": "adriancjr.bsky.social",
-          "postText": "Now that the fascism part has been averted for a few weeks (months maybe? one can always have hope!), this video reminds me of one thing I missed in politics: normal people gesticulating in a natural, non-weird way. Bernie will retire soon and I am happy for Troy Jackson to take on that mantle.",
-          "createdAt": "2026-11-05T22:42:00.852Z",
-          "uri": "at://did:plc:rwg35fe2kui4nlruxtnirr47/app.bsky.feed.post/3mzlwu542kc2b",
-          "sentiment": 1
-        },
-        {
-          "id": "a63f8e3d490eee9aa0649a659d9b4d143b0f9c7a46342cb6c468dbbbef85fa57",
-          "authorHandle": "smckinney4.bsky.social",
-          "postText": "Dude nobody knew in the spring that Collins would lose by 6 to a rather milquetoast, not overly charismatic dem in Troy Jackson. In the spring whoever he recruited would have to overcome Platner (seemed impossible) and then beat Collins (who had won despite blue waves in 2020 & 2008).",
-          "createdAt": "2026-11-05T22:41:39.044Z",
-          "uri": "at://did:plc:ot7viieleidopvwe3m23skxs/app.bsky.feed.post/3mzlwtichps2f",
-          "sentiment": 0
-        },
-        {
-          "id": "592ccb9bc761936ecc3228410919f2b63d975a5d0d461b41fc9ed5451c32865c",
-          "authorHandle": "mfromoser.bsky.social",
-          "postText": "The two newly elected Dem senators from border states, Abdul El-Sayed from Michigan and Troy Jackson from Maine, will be critical to this effort.",
-          "createdAt": "2026-11-05T22:35:37.455Z",
-          "uri": "at://did:plc:tjnatmeviilnbfy77lvvqxaz/app.bsky.feed.post/3mzlwiphnhk2t",
-          "sentiment": 1
-        },
-        {
-          "id": "dac79ea62471a9169d9b0174d65fadec32373795a87f0eef7451bfa2706fb690",
-          "authorHandle": "kingofviltrum.bsky.social",
-          "postText": "Or was that just LePage considering that Troy Jackson did about as well as Kamala Harris.",
-          "createdAt": "2026-11-05T22:34:05.388Z",
-          "uri": "at://did:plc:zrui3rd2mmxxgfq2pyrucaoj/app.bsky.feed.post/3mzlwfxo37k2s",
-          "sentiment": 0
-        },
-        {
-          "id": "8a9464bbdd962dc87d0378bfe140edc3bbb27b00455a54dc174abadf23bfb890",
-          "authorHandle": "pepereg.bsky.social",
-          "postText": "Troy Jackson also not supporting him",
-          "createdAt": "2026-11-05T22:32:11.755Z",
-          "uri": "at://did:plc:hesmzfcmawkgiravfqvfxzot/app.bsky.feed.post/3mzlwclc6kk2m",
-          "sentiment": 0
-        },
-        {
-          "id": "af168504a75e405d960b720f045780de8176ff73aa22c1a68a4856ef461a1f97",
-          "authorHandle": "commondreams.org",
-          "postText": "\"The blue wave was union-made.\" From Troy Jackson in Maine to Randy Villegas in California, a record 639 union members were elected in 2026.",
-          "createdAt": "2026-11-05T22:30:56.717493Z",
-          "uri": "at://did:plc:tiriierad73thyvjczaphg6v/app.bsky.feed.post/3mzlwafu2gd2m",
-          "sentiment": 1
-        },
-        {
-          "id": "ecdeac33d9cd94e5ff6ff4fae89082d11b0242a9cf365346de79bab420a5b21a",
-          "authorHandle": "touaregtweet.mastodon.social.ap.brid.gy",
-          "postText": "\"Five Democrats who won Senate seats on Nov. 3, 2026 said during their campaigns they would not vote for #Schumer as leader: Abdul El-Sayed / Michigan, Peggy Flanagan / Minnesota, Troy Jackson / Maine, Juliana Stratton / Illinois and Adam Hamilton / Kansas. [...]\nDemocrats rate #Jeffries well […]",
-          "createdAt": "2026-11-05T22:20:31.000Z",
-          "uri": "at://did:plc:3ifgdgxsbbvghbhjl3i7sc47/app.bsky.feed.post/3mzlvp3wj4ft2",
-          "sentiment": 1
-        },
-        {
-          "id": "2cf72da574bb8874a1b9b2f9a2374f81b0c0432e8c1483eb806ccd27b29b4a02",
-          "authorHandle": "alpinealtd.bsky.social",
-          "postText": "Source: The Guardian\n share.google/T1jC61SlCGgv...",
-          "createdAt": "2026-11-05T22:20:30.598Z",
-          "uri": "at://did:plc:j3a3h4o32oengsvsx3ledfb3/app.bsky.feed.post/3mzlvnomlvk2a",
-          "sentiment": 0
-        },
-        {
-          "id": "99b880339e7f8d09a26d6af40f0a55ec61c092c217648cffe05ac6ff08ea515a",
-          "authorHandle": "tomrom1.bsky.social",
-          "postText": "LGBTQ+ ally Troy Jackson defeats longtime GOP Sen. Susan Collins www.lgbtqnation.com/live/lgbtq-a...\n💙🏳️‍🌈 #𝙏𝙝𝙖𝙣𝙠𝙛𝙪𝙡𝙏𝙝𝙪𝙧𝙨𝙙𝙖𝙮 #𝙁𝘽𝙍 #𝙁𝘽𝙋𝙀 #𝙍𝙚𝙨𝙞𝙨𝙩𝙖𝙣𝙘𝙚 #𝙎𝙩𝙧𝙤𝙣𝙜𝙚𝙧𝙏𝙤𝙜𝙚𝙩𝙝𝙚𝙧 #𝙆𝙞𝙣𝙙𝙣𝙚𝙨𝙨𝙈𝙖𝙩𝙩𝙚𝙧𝙨 #𝙈𝙤𝙩𝙞𝙫𝙖𝙩𝙞𝙤𝙣 #𝘽𝙡𝙪𝙚𝙘𝙧𝙚𝙬",
-          "createdAt": "2026-11-05T22:19:13.465Z",
-          "uri": "at://did:plc:c4ib4ecvm67qgcqirubstmfj/app.bsky.feed.post/3mzlvlf2opc2h",
-          "sentiment": 1
-        },
-        {
-          "id": "71510749908369264273cfb76c4c61f2c4ff289fb0af788e00ce647ab99135d0",
-          "authorHandle": "cat-in-a-lab-coat.bsky.social",
-          "postText": "Thank you Troy Jackson! \nNo Schumer ! No Jeffries!",
-          "createdAt": "2026-11-05T22:18:07.820Z",
-          "uri": "at://did:plc:m7kakeuo3lb5n7g6cxpezyor/app.bsky.feed.post/3mzlvjghg7k2k",
-          "sentiment": 1
-        },
-        {
-          "id": "558dfee553cb49eaca3a52f003e718e98b5e162d6e996205b5dead6f92c830c3",
-          "authorHandle": "kjsteelers72.bsky.social",
-          "postText": "Sen. Susan Collins (R-ME), who lost to Democrat Troy Jackson after five terms of winning broad cross-party support in a blue-leaning state, said voters overlooked her record of breaking with President Donald Trump, in an interview with The New York Times.",
-          "createdAt": "2026-11-05T22:15:53.402Z",
-          "uri": "at://did:plc:azb32rz5adhvt7ta3vpmvaal/app.bsky.feed.post/3mzlvfgbdmc2x",
-          "sentiment": 1
-        },
-        {
-          "id": "d15e70ecebca1df35bfb7496048218eb56bcad2bc5eb35431bf8285f8eccbf0f",
-          "authorHandle": "leopardonparade.bsky.social",
-          "postText": "Isn’t Troy Jackson also a progressive? 🤣🤣 I just can’t believe these people’s arguments.",
-          "createdAt": "2026-11-05T22:15:48.628Z",
-          "uri": "at://did:plc:4536y4la6nlbiqraactlbpl7/app.bsky.feed.post/3mzlvfbplkc2t",
-          "sentiment": 0
-        },
-        {
-          "id": "ee51987b947213bbfeac78324e82d424d240d0cec36edb5b2b618c07f6984fc0",
-          "authorHandle": "insolentpheasant.bsky.social",
-          "postText": "Labor unions that helped power the ground game behind a Democratic takeover of the House and Senate this week have a lot to cheer about. Not only will they see a vastly more union-friendly Congress take their seats in January, they will get to watch a few of their own sworn in at the U.S. Capitol.",
-          "createdAt": "2026-11-05T22:12:34.610Z",
-          "uri": "at://did:plc:vkimzkrsyy7aznojlrtnqbee/app.bsky.feed.post/3mzlv7ioluk2a",
-          "sentiment": 1
-        },
-        {
-          "id": "3f5351cf1b558e7a82d3fb2088bfa5e50b38348756511c932260ff01538391ce",
-          "authorHandle": "lisamikolajczyk.bsky.social",
-          "postText": "El-Sayed underperformed every other Democratic candidate running statewide in Michigan that was on the same ballot. Same with Troy Jackson in Maine.\nAngie Nixon in Florida as well. \nIn every state that progressives ran on the same ballot as moderate Democrats, progressives underperformed moderates.",
-          "createdAt": "2026-11-05T22:10:30.517Z",
-          "uri": "at://did:plc:l3cg2vcomatzqpt666dv4dkw/app.bsky.feed.post/3mzlv3sdlcc2g",
-          "sentiment": -1
-        },
-        {
-          "id": "04d431fd5f6010114b487500143e5e67b5e712d4ef4d2229756c1ed2bdd7d55d",
-          "authorHandle": "murshedz.bsky.social",
-          "postText": "According to @aljazeera.com the whip count of number of Senators in the incoming Senate Dem caucus against Schumer is at 7 which also includes @julianastratton.bsky.social Adam Hamilton and @jamestalarico.bsky.social www.aljazeera.com/news/2026/11...",
-          "createdAt": "2026-11-05T22:10:06.117Z",
-          "uri": "at://did:plc:cf26plxwia7dxpm6plry3sj2/app.bsky.feed.post/3mzlv332y5k2y",
-          "sentiment": 0
-        },
-        {
-          "id": "af9170193e49d115fbb97d43c0db869d97057e7b3ab6874ed67691a16c6f55f2",
-          "authorHandle": "rozkl.bsky.social",
-          "postText": "That might have sealed the deal for Troy Jackson. The people of Maine probably said Joe who?",
-          "createdAt": "2026-11-05T22:07:51.635Z",
-          "uri": "at://did:plc:2wmyo7m47aza2yojqjjrtvbe/app.bsky.feed.post/3mzlux2su4k2q",
-          "sentiment": 1
-        },
-        {
-          "id": "9cfd45c69ba928a0128bc71431918e3a7ccb47b31f71f82ddb19fbf7222211d3",
-          "authorHandle": "murshedz.bsky.social",
-          "postText": "🚨 @troyjackson207.bsky.social  becomes the fourth incoming member of the Senate Democratic Caucus for the 120th to suggest he will be voting for someone else besides Schumer to become the Leader. If you see anyone else making post election statement please flag.\n\nAlso call your Dem Senator.",
-          "createdAt": "2026-11-05T22:05:33.912Z",
-          "uri": "at://did:plc:cf26plxwia7dxpm6plry3sj2/app.bsky.feed.post/3mzlusxhvy22y",
-          "sentiment": 1
-        },
-        {
-          "id": "ea65e77e3d6bad1ea1282aed1d2c0473b1d87d557b5fe49cf224b3fc29efe88c",
-          "authorHandle": "craigrousseau.bsky.social",
-          "postText": "conveniently leaves out the bit about her votes opposing trump being completely meaningless and performative (since the republicans majority stilll had enough votes in every instance)… glad for my maine friends to have a new senator.",
-          "createdAt": "2026-11-05T22:05:22.874Z",
-          "uri": "at://did:plc:k7czhmdfsfwmofzcxwiv6vlt/app.bsky.feed.post/3mzlusmx5mc22",
-          "sentiment": 1
-        },
-        {
-          "id": "2447e5aebcb10e88698e4d3b4328a1074c03aa4043a0af454a98e226b0c6517c",
-          "authorHandle": "zenofdesign.com",
-          "postText": "The average Senator beat Harris' results by about 14%.  Talarico was 26%.  AES was 8%.\n\nTroy Jackson didn't beat.  he lost ground by 0.4%.\n\nWhich is to say, Collins had magic right up to the end.  It just was not enough to overcome the wave.",
-          "createdAt": "2026-11-05T22:03:11.106Z",
-          "uri": "at://did:plc:25zgnsy7dl46d2d34wb5cony/app.bsky.feed.post/3mzluopbrzh25",
-          "sentiment": 0
-        },
-        {
-          "id": "f6c1b734942799b935b3c22566f6b44e0228556ba529d1ca64e0a5cc0c4ace4f",
-          "authorHandle": "xianresistance.bsky.social",
-          "postText": "I agree about AES & Platner. But there were 3 real Democrats in the Maine primary (which has ranked choice voting) & Troy Jackson wasn't one of them. I heard that Platner refused to drop out unless Democrats handed the nomination to Jackson, so it's not like Jackson didn't have red flags too.",
-          "createdAt": "2026-11-05T22:01:58.894Z",
-          "uri": "at://did:plc:2xwv4hxuv3zvhg6ctoyqbsrd/app.bsky.feed.post/3mzlumkg3hk22",
-          "sentiment": 0
-        },
-        {
-          "id": "fa806e3b4605a454acd60244e791357695b1ffaacf0d6d4aead66e149c905c4a",
-          "authorHandle": "jebnc.bsky.social",
-          "postText": "Troy jackson www.pressherald.com/2026/11/04/t...",
-          "createdAt": "2026-11-05T22:01:39.932Z",
-          "uri": "at://did:plc:cophfplh3733tawj6x5aylr4/app.bsky.feed.post/3mzlulydjs22k",
-          "sentiment": 0
-        },
-        {
-          "id": "0558d87bad180daadf4056836a1395d55ea5b76f8367419c9977543134c8c752",
-          "authorHandle": "bizthenavigator.bsky.social",
-          "postText": "Troy Jackson radiates average guy energy and I'm here for it. He might not have the hype of some of the bigger personalities we've seen, but I'll say this: I can actually see myself having a normal person conversation with him",
-          "createdAt": "2026-11-05T22:01:05.772Z",
-          "uri": "at://did:plc:tuvor5u42e7n7jquvz3panfl/app.bsky.feed.post/3mzlukxqzgs2s",
-          "sentiment": 0.8
-        },
-        {
-          "id": "acd1af9906d959e215253b80ac3be536554d200633fea5d853cc6ee24fc0101b",
-          "authorHandle": "thewinchester26.bsky.social",
-          "postText": "—including Abdul El-Sayed (MI), Troy Jackson (ME), and Juliana Stratton (IL)—have since publicly stated they want new, more progressive Senate leadership.\n\nThe Plan?",
-          "createdAt": "2026-11-05T21:56:48.574Z",
-          "uri": "at://did:plc:szd6ab2k5fwfz5air7zlzure/app.bsky.feed.post/3mzludcii4k2q",
-          "sentiment": 0.1
-        },
-        {
-          "id": "f70baf28b91b5fd93e5d4db3157a10251ecd4c571401995884462c51d4fed0b3",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine U.S. Senate Class II\n\nStatewide – 92.3% reported:\n🔵 Troy Jackson – 372,238 (53.3%)\n🔴 Susan Collins – 326,151 (46.7%)\n⚪ Brent Andrews (write-in) – 221 (0.0%)\n🔵 Ashley Webb (write-in) – 82 (0.0%)\n⚪ Gina Oswald (write-in) – 67 (0.0%)\n🔵 Sigrid Olson (write-in) – 50 (0.0%)\n+2 more\n\nResults per AP",
-          "createdAt": "2026-11-05T21:55:54.924Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlubpfa2w22",
-          "sentiment": 0.7
-        },
-        {
-          "id": "d516d118d12f102f853e908d0e33d68a4e23842ce70d5762ef7b95f84275d716",
-          "authorHandle": "pamkeithdc.bsky.social",
-          "postText": "Schumer had NOTHING TO WITH THE WINS!  \n\nTroy Jackson won DESPITE Schumer trying to shove Janet Mills down our throats.\n\nWe lost FL BECAUSE Schumer refused to support a Black female progressive.\n\nSchumer backed Haley Stevens which would have cost us a Senate seat.\n\nSchumer is loyal ONLY to Israel.",
-          "createdAt": "2026-11-05T21:52:23.849Z",
-          "uri": "at://did:plc:hgiqkmwg2qxpoytx62l2ohan/app.bsky.feed.post/3mzlu3fz43c24",
-          "sentiment": 0.6
-        },
-        {
-          "id": "45a0bf08fb421cc7ba7e1dc542b07e437c94afba493e10460cf1f93ac3eee0cd",
-          "authorHandle": "shuberfuber.bsky.social",
-          "postText": "Whoa, let's be fair, they flipped one, Maine.\n\nSure, after nearly tanking it by pushing a literal Nazi, but Troy Jackson is Bernie approved.\n\nSure, the margin shift is way smaller than every other flipped seat but he won!!!",
-          "createdAt": "2026-11-05T21:46:22.151Z",
-          "uri": "at://did:plc:aue4fu5cdnnevzbubu6kiby3/app.bsky.feed.post/3mzltqn2ye22o",
-          "sentiment": 0.5
-        },
-        {
-          "id": "b9ea763447827d970ddd15d09c4a684811d824aa3ad56fd0e37c3c67b6e8c817",
-          "authorHandle": "huffpost.com",
-          "postText": "Sen.-elect Troy Jackson of Maine and Rep.-elect Sam Forstag of Montana were among the union members who prevailed in Tuesday’s elections.",
-          "createdAt": "2026-11-05T21:45:14.932Z",
-          "uri": "at://did:plc:j4eroku3volozvv6ljsnnfec/app.bsky.feed.post/3mzltomy6th2x",
-          "sentiment": 0.7
-        },
-        {
-          "id": "03a5f55a8c875cd064427a4536c40a31258237cfd277d314c02ac014e0aa74b8",
-          "authorHandle": "criticalbill76.bsky.social",
-          "postText": "substack.com/@parislychee...\n\nSen. Troy Jackson:\n\n“I told Schumer I won't support him... And it’s no different now.”\n\nNew Democrats are not falling in line behind Schumer. This is how it's done.",
-          "createdAt": "2026-11-05T21:43:43.947Z",
-          "uri": "at://did:plc:cqlzo3y65anywcxsx2kbs56c/app.bsky.feed.post/3mzltlw6xbs2g",
-          "sentiment": 0.8
-        },
-        {
-          "id": "7f3f733ae729b4bb894512a35c10614dcba9e396f60d680d40642c9763dab961",
-          "authorHandle": "soulebreaker.bsky.social",
-          "postText": "Never enough of what? You voted for SC justices who took away women's rights then voted with Trumps regime except the one time that it would not change the outcome. You are a scum bag! Retire and go away!",
-          "createdAt": "2026-11-05T21:41:08.089Z",
-          "uri": "at://did:plc:stfycbi5dk4tt5vlwazamajr/app.bsky.feed.post/3mzlthbkja22o",
-          "sentiment": -0.9
         }
       ],
       "youtube": [
@@ -3187,15 +2859,15 @@
     {
       "id": "hannah-pingree",
       "name": "Hannah Pingree",
-      "overallSentiment": -0.028126984126984136,
+      "overallSentiment": -0.04622222222222222,
       "newsSentiment": -0.09866666666666667,
-      "socialSentiment": 0.21428571428571427,
+      "socialSentiment": 0.16,
       "youtubeSentiment": -0.2,
       "mentions": {
         "news": 3,
-        "social": 28,
+        "social": 25,
         "youtube": 1,
-        "total": 32
+        "total": 29
       },
       "news": [
         {
@@ -3227,6 +2899,30 @@
         }
       ],
       "social": [
+        {
+          "id": "9369218a68518443074f5f77fc4720478ca97062fa79c6b471852f15c8824242",
+          "authorHandle": "mainemorningstar.com",
+          "postText": "Many of the cuts to Medicaid that are expected to have severe consequences for the state will take effect in January as the new Congress is sworn in and Hannah Pingree takes office.  mainemorningstar.com/2026/11/06/p...",
+          "createdAt": "2026-11-07T00:23:01.110Z",
+          "uri": "at://did:plc:xioe5btxavtplvj5h7gpk2uv/app.bsky.feed.post/3mzomxpfcag2f",
+          "sentiment": -1
+        },
+        {
+          "id": "41604f7bf8dc70bdac90f93c428f2b00e870035b78820859da1fe1b8d65d45ee",
+          "authorHandle": "hechingerreport.org",
+          "postText": "Voters also elected candidates who campaigned on expanding early childhood programs.",
+          "createdAt": "2026-11-07T00:17:15Z",
+          "uri": "at://did:plc:ble2wdbuyqxjnrg74velk3iz/app.bsky.feed.post/3mzomnf3yzu2a",
+          "sentiment": 0
+        },
+        {
+          "id": "6e77308ec0a121d73daa2d5b712d8baf843e6a1e3d07bba2671010b591bec0f8",
+          "authorHandle": "livkalearns.bsky.social",
+          "postText": "Earlier in the week, Pingree launched a transition website, www.hannahpingreetransition.com, where people interested in serving in the new Cabinet or executive office can apply.\n\n#Maine #MEPolitics\n\nwww.mainepublic.org/politics/202...",
+          "createdAt": "2026-11-06T23:11:32.455Z",
+          "uri": "at://did:plc:i6sgmljen565zw4ic24tkmty/app.bsky.feed.post/3mzoixu3ulc2f",
+          "sentiment": 0
+        },
         {
           "id": "965113f2d3bd2739f437b5bd7b867cd324b0f392e124157befd88063fb4ca706",
           "authorHandle": "dickius.bsky.social",
@@ -3402,54 +3098,6 @@
           "createdAt": "2026-11-06T03:57:15.842Z",
           "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzmihtwdob2b",
           "sentiment": 0
-        },
-        {
-          "id": "d347777afb5689c0b84164f7b9503349d97e1cebc5e944388f8b77f3a698fe52",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine Governor\n\nStatewide – 93.3% reported:\n🔵 Pingree – 386,236 (54.5%)\n🔴 Charles – 264,793 (37.4%)\n⚪ Bennett – 57,263 (8.1%)\n⚪ Other – 243 (0.0%)\n\nResults per NPR\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T23:11:26.326Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlyir24xr2z",
-          "sentiment": 0
-        },
-        {
-          "id": "f89badaa31de378d6f65bcd47b6ac7eb4d0cd444023a51bff27a3b6a4f89684e",
-          "authorHandle": "mary1086.bsky.social",
-          "postText": "Congratulations to Maulian Dana for her role in leading the transition team for our next Maine governor, Hannah Pingree! \n\n#maine #mainepolitics",
-          "createdAt": "2026-11-05T23:07:11.577Z",
-          "uri": "at://did:plc:2fxi6r2jt4x643ruwiumkpjf/app.bsky.feed.post/3mzlyb5tqvs2f",
-          "sentiment": 1
-        },
-        {
-          "id": "0c335fc1223d2f542c00ff18b7dbd9bb09509f5d2bc33ca062002235c9c2ba49",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine Governor\n\nStatewide – 93.1% reported:\n🔵 Hannah Pingree – 386,236 (59.3%)\n🔴 Bobby Charles – 264,793 (40.7%)\n\nResults per NBC\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T22:53:41.554Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlxizgcyi22",
-          "sentiment": 0
-        },
-        {
-          "id": "f4e259fde7387b249609c6716675f3a3c2557048ed40b534c0d3b634caac3172",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine Governor\n\nPiscataquis County:\n🔴 Charles – 4,546 (58.4%)\n🔵 Pingree – 2,711 (34.8%)\n⚪ Bennett – 520 (6.7%)\n⚪ Glowa (write-in) – 4 (0.1%)\n🔴 Wilcox (write-in) – 0 (0.0%)\n\nResults per Fox\n\n#Maine #MEGov #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T22:51:00.889Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlxea77ke2f",
-          "sentiment": 0
-        },
-        {
-          "id": "63c3688b91ff618b2a7ac9656f25b5f4638c8beba9cc960e1f3c72858e43c905",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine Governor\n\nStatewide – 93% reported:\n🔵 Hannah Pingree – 386,085 (54.5%)\n🔴 Robert Charles – 264,530 (37.4%)\n⚪ Rick Bennett – 57,232 (8.1%)\n🔴 Randy Wilcox (write-in) – 186 (0.0%)\n⚪ John Glowa (write-in) – 57 (0.0%)\n\nResults per AP\n\n#Maine\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T22:37:33.744Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlwm6h5wk25",
-          "sentiment": 0
-        },
-        {
-          "id": "5e704037bfde0824175828c7c50977b3b0459b2a5a957c0904ff2639436ff20e",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine Governor\n\nStatewide – 92.9% reported:\n🔵 Hannah Pingree – 385,642 (54.6%)\n🔴 Robert Charles – 263,744 (37.3%)\n⚪ Rick Bennett – 57,138 (8.1%)\n🔴 Randy Wilcox (write-in) – 186 (0.0%)\n⚪ John Glowa (write-in) – 56 (0.0%)\n\nResults per AP\n\n#Maine\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T22:23:14.288Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlvsksmdt24",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -3468,15 +3116,15 @@
     {
       "id": "paul-lepage",
       "name": "Paul LePage",
-      "overallSentiment": -0.22665826839826833,
+      "overallSentiment": -0.2688311688311688,
       "newsSentiment": 0.3840909090909093,
-      "socialSentiment": -0.42120857142857143,
+      "socialSentiment": -0.5477272727272727,
       "youtubeSentiment": -0.6428571428571429,
       "mentions": {
         "news": 44,
-        "social": 71,
+        "social": 44,
         "youtube": 14,
-        "total": 129
+        "total": 102
       },
       "news": [
         {
@@ -3878,6 +3526,62 @@
       ],
       "social": [
         {
+          "id": "8ac8e8e750ebf584a95162859604b47af66bc9ef1c78f47e12203328e9da1c0e",
+          "authorHandle": "churchillward.bsky.social",
+          "postText": "Paul LePage is 78, not in the best of health, and much prefers to get through the winter in Florida. We'll see how he fares with the work schedule dictated by a Democratic Congress.",
+          "createdAt": "2026-11-07T00:27:04.880Z",
+          "uri": "at://did:plc:xifchwo2resputdtwfrhtoa3/app.bsky.feed.post/3mzon6wkhvc2g",
+          "sentiment": -1
+        },
+        {
+          "id": "4b14c5db2b7eb6fe6c222644fbfae9a44d316f7f2de23631ab57b67a4ac05e26",
+          "authorHandle": "wabi.tv",
+          "postText": "The ranked choice voting process in Maine’s 2nd Congressional District will begin Monday in Augusta, even though Democrat Matt Dunlap has conceded the race to Republican Paul LePage.",
+          "createdAt": "2026-11-07T00:00:10.735Z",
+          "uri": "at://did:plc:2rupe4u3nu3okhextlnwww5p/app.bsky.feed.post/3mzolotae2x2n",
+          "sentiment": 0
+        },
+        {
+          "id": "cc1562d771c8f8d5fb023e57a0a07b5acd75372754a7ec243640aecca6d1fdf6",
+          "authorHandle": "cthollhucalling.bsky.social",
+          "postText": "Don't feel too bad --we got Paul Stinking LePage for the 2nd District of Maine. 😤",
+          "createdAt": "2026-11-06T23:37:15.295Z",
+          "uri": "at://did:plc:gqm77pnpa5eh3w247b4ogb3i/app.bsky.feed.post/3mzokfthmbc2k",
+          "sentiment": -1
+        },
+        {
+          "id": "884ab6ddb14ac58dcae8b3e751d49eeecd47aeca2a72cd267ae360db1b6276f3",
+          "authorHandle": "bglazebrook26.bsky.social",
+          "postText": "Ayman Mohyeldin @ayman.msnbc.com made that exact point on MS Now yesterday and I think it's correct. However, Jared Golden voted and acted like a Republican and PAUL LEPAGE won his old district. You can find someone that suits the district but also is aligned with the party's values. Golden wasn't.",
+          "createdAt": "2026-11-06T23:10:43.129Z",
+          "uri": "at://did:plc:2ap7aaqecg7beobao27lyknl/app.bsky.feed.post/3mzoiwf2mmc2v",
+          "sentiment": -1
+        },
+        {
+          "id": "c9c251602f8bf5bb0075d16b14a54072ecc45845f75ea00fc485c41d64b1dd17",
+          "authorHandle": "bsfavourite.bsky.social",
+          "postText": "Maine's LePage One of Oldest House Freshmen in History",
+          "createdAt": "2026-11-06T22:54:08Z",
+          "uri": "at://did:plc:bgt62gzl3y5ke7b45xi5vkvu/app.bsky.feed.post/3mzohyqj74q2a",
+          "sentiment": 0
+        },
+        {
+          "id": "3ce7f5622ebf49d3763d1bc75e63f395d26d3bb3c2d0f05bcafa9eb320e859b2",
+          "authorHandle": "newsmax.com",
+          "postText": "OPINION: Maine's LePage Ties Record for Oldest House Freshman",
+          "createdAt": "2026-11-06T22:35:11Z",
+          "uri": "at://did:plc:flijdq6nzuscczuhvv2lt7bp/app.bsky.feed.post/3mzogwuczi224",
+          "sentiment": 0
+        },
+        {
+          "id": "76f37b3c17f4fb76b2a6f2f04039177eeefa7179aaea6c2a4abafb5d2150eb0b",
+          "authorHandle": "themainemonitor.org",
+          "postText": "Simple math shows Paul LePage is all but guaranteed to defeat Matt Dunlap in the race for Maine’s 2nd Congressional District. \n\nBut a complicated interplay between the vote totals and Maine’s unique ranked-choice voting system means an additional round of tabulation will be necessary.",
+          "createdAt": "2026-11-06T21:43:43.624Z",
+          "uri": "at://did:plc:fx2wrqyrs5i3amd52w3banxz/app.bsky.feed.post/3mzoe2tdtu22p",
+          "sentiment": 0
+        },
+        {
           "id": "0af89e86ba2a8f71bf343d8e94e2b558e1537717833e14af97414e38317e6584",
           "authorHandle": "startledsquirrel.bsky.social",
           "postText": "It’s no consolation, but Maine had a MAGA just barely win in the 2nd district and it’s awful. He’s racist as hell, sexist, vulgar, he once threatened to sitting law maker’s life. They had a chance for a pretty good guy and instead they chose Paul LePage, who really lives in Florida. Disgraceful.",
@@ -4172,278 +3876,6 @@
           "createdAt": "2026-11-06T01:02:23.110Z",
           "uri": "at://did:plc:y2quvyv7xlaxuzt2cmpfijrq/app.bsky.feed.post/3mzm6p56xus2o",
           "sentiment": -0.8
-        },
-        {
-          "id": "1f39cd38d1286e72b022c31ac683951d529272d732eefdbf9d7a7c1d5000a2bb",
-          "authorHandle": "glennvotesblue.bsky.social",
-          "postText": "Good, I hope Paul Lepage has a good time being unable to carry out his evil mission.",
-          "createdAt": "2026-11-06T00:54:11.467Z",
-          "uri": "at://did:plc:gr26jvoror4ihzhuhheckekx/app.bsky.feed.post/3mzm6aidcos2l",
-          "sentiment": -0.7
-        },
-        {
-          "id": "349b86b525d46c060db45f91cc82e01e2e1a36bf4f2a936aff9b39123f2380a8",
-          "authorHandle": "20thmainevolunteer.bsky.social",
-          "postText": "Paul LePage is another far right whack job heading to DC from Maine unless ranked choice voting pulls a rabbit out of its hat.",
-          "createdAt": "2026-11-06T00:43:41.899Z",
-          "uri": "at://did:plc:u6vyqrrrf5i4hiyru2ugooqi/app.bsky.feed.post/3mzm5npwcbs2l",
-          "sentiment": -0.8
-        },
-        {
-          "id": "b1a6f6c1303127b68f835aa1fdd725cf9e5cc71108889e732b4e827548016646",
-          "authorHandle": "assisiproject.com",
-          "postText": "PAUL LEPAGE DOES NOT LIVE IN MAINE. #FRAUD",
-          "createdAt": "2026-11-06T00:27:36.138Z",
-          "uri": "at://did:plc:imymfhfnqjczfxcicefwsltb/app.bsky.feed.post/3mzm4qwvmck2h",
-          "sentiment": -0.9
-        },
-        {
-          "id": "4ec2ea2215d411a785c287cbcb344e1f7bcc40998800fb00b5d362a6c26295f0",
-          "authorHandle": "andrewtarwerdi.bsky.social",
-          "postText": "It is distinctly possible that Paul LePage will be the only true Republican flip of this cycle, not counting gerrymandered seats in TN, TX, LA, or FL. All of the remaining uncalled seats are currently held by Republicans.",
-          "createdAt": "2026-11-06T00:14:01.174Z",
-          "uri": "at://did:plc:te4brwunra46333zv6omu2f6/app.bsky.feed.post/3mzm3ynoxxc23",
-          "sentiment": 0
-        },
-        {
-          "id": "8a0da15652ccf7363b3ada7b7f0317adb9064ae90814325e5140d82050862d8d",
-          "authorHandle": "dogneri.bsky.social",
-          "postText": "I’m so mad about Paul lepage",
-          "createdAt": "2026-11-05T23:54:22.663Z",
-          "uri": "at://did:plc:wmwpaptx33yc3xffrghuxxh4/app.bsky.feed.post/3mzm2vjrkfk23",
-          "sentiment": -0.9
-        },
-        {
-          "id": "934fb9af6dd8bdac231be9364764f1b4f9f5f5d50e81c8728102502d3e90d99d",
-          "authorHandle": "yourpaljohn.bsky.social",
-          "postText": "fucking paul lepage too. what a bastard",
-          "createdAt": "2026-11-05T23:52:12.948Z",
-          "uri": "at://did:plc:cyc4vzeui6e7h3dknrtkqnxo/app.bsky.feed.post/3mzm2ro2xls2n",
-          "sentiment": -0.9
-        },
-        {
-          "id": "784ca445de93c39de6edb625669ed90991b7c5024893f18dcb67f2076ed9d6a5",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine U.S. House District 2\n\nDistrictwide – 97.6% reported:\n🔴 Paul LePage – 170,265 (49.9%)\n🔵 Matthew Dunlap – 164,845 (48.3%)\n⚪ Blank Votes – 6,021 (1.8%)\n⚪ Gregory Ward (write-in) – 125 (0.0%)\n\nResults per AP\n\n#Maine #ME02 #Midterms\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T23:51:31.920Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzm2qgzp7z22",
-          "sentiment": 0
-        },
-        {
-          "id": "9d9506286e42d1326c00884dcad07674acfcda23e42bc13bab3662dff851f888",
-          "authorHandle": "dal0028751.bsky.social",
-          "postText": "Republican former Gov. Paul LePage will flip Maine’s 2nd District after Democratic concession\n\ni am not sure my dear cnn but we will see",
-          "createdAt": "2026-11-05T23:46:37.885Z",
-          "uri": "at://did:plc:rmmtlkhupklk5krbq267svke/app.bsky.feed.post/3mzm2hojnn22m",
-          "sentiment": 0
-        },
-        {
-          "id": "a4019a2dfe774f7c9c17ea593b3dd4ef1eae00ce7721f9ba7195580770f2b685",
-          "authorHandle": "7pillarwisdom.bsky.social",
-          "postText": "Sadly, Paul LePage is back. On the positive side, in congress and as a member of the minority party he won't be able to do anything like the damage he did as Governor of Maine.\n\nwww.politico.com/news/2026/11...",
-          "createdAt": "2026-11-05T23:38:44.215Z",
-          "uri": "at://did:plc:m3a66z55jskdtbznl4cmvfem/app.bsky.feed.post/3mzlzzksgas2u",
-          "sentiment": -0.3
-        },
-        {
-          "id": "94789421e451ba1d243ed7b46d710043310bf580b1189d2da021d1b940f4e6f7",
-          "authorHandle": "ronthinkmedia.bsky.social",
-          "postText": "This is retiring Dem Jared Golden's seat. Paul LePage, former two term Maine governor, is a literal right-wing nut job. He leads going into RCV, with many outlets predicting he'll win. Some have already declared as much. Matt Dunlap is a Sanders endorsed progressive.\nwww.yahoo.com/news/videos/...",
-          "createdAt": "2026-11-05T23:36:18.962Z",
-          "uri": "at://did:plc:efrokemdan2ksfb3qrw4u3ma/app.bsky.feed.post/3mzlzvabrjk2g",
-          "sentiment": -0.8
-        },
-        {
-          "id": "f30cdd50c2d542bbcd3415bf6ed019b80a8c36453b19ad5c3a1ee36439dbbe9e",
-          "authorHandle": "newtonmarunner.bsky.social",
-          "postText": "I think ME-02 and FL have to be held back in 8th grade.\n\nwww.wmtw.com/article/main...",
-          "createdAt": "2026-11-05T23:32:44.160Z",
-          "uri": "at://did:plc:hqr4o7rmwnhfxl2trvb3r73g/app.bsky.feed.post/3mzlzotgg222s",
-          "sentiment": -0.7
-        },
-        {
-          "id": "1a8cb52cc43f69bcddf5c9ad5a60bb45ebe221652715fa006de2856dead494b2",
-          "authorHandle": "anti-you.bsky.social",
-          "postText": "Listen, I’ll grant that I think they are stupid too, since they have voted for both a Gov Paul LePage and, after his two terms of embarrassments, a Congressman Paul LePage, plus Susan Collins. But, um, what I’m saying is that I agree with her in principle, but for different specific reasons.",
-          "createdAt": "2026-11-05T23:31:53.258Z",
-          "uri": "at://did:plc:eqadihmlcybmhnpfkksybshg/app.bsky.feed.post/3mzlzncuy3c2m",
-          "sentiment": -0.6
-        },
-        {
-          "id": "00034ee1c4506faeca115adcc152a18ad4256868b2b45ae52652d602fa8f333f",
-          "authorHandle": "gunnysmurf.com",
-          "postText": "How in the ever living, all that is good in this world, what. in. all. the. fucks can Paul LePage win????",
-          "createdAt": "2026-11-05T23:31:17.647Z",
-          "uri": "at://did:plc:cez5b2p363wilobtpnptg7ob/app.bsky.feed.post/3mzlzmaw7pk2m",
-          "sentiment": -0.9
-        },
-        {
-          "id": "387489dc9ac1338a33aeaa426b1fd425602686a38000d1256ea13871859da1ab",
-          "authorHandle": "ohlookitsbrad.bsky.social",
-          "postText": "Paul LePage is back? Ugh.",
-          "createdAt": "2026-11-05T23:30:37.005Z",
-          "uri": "at://did:plc:5taqdb46uchteyzolus5h7zz/app.bsky.feed.post/3mzlzl25z6s2c",
-          "sentiment": -0.4215
-        },
-        {
-          "id": "ed9f2eefd822c3a0edb9049e8efb3a6380e2ab18bceed264603f1adbc45e763e",
-          "authorHandle": "jmlnewsus.bsky.social",
-          "postText": "🚨 UPDATE — MAINE’S 2ND DISTRICT\n\nFormer Republican Gov. Paul LePage leads the U.S. House race, and Democrat Matt Dunlap has conceded. Maine will still conduct its ranked-choice count beginning Monday; the race has not yet been called.\n\n#Maine #ME02 #Election2026",
-          "createdAt": "2026-11-05T23:30:21+00:00",
-          "uri": "at://did:plc:n2llckhhsczigmjv4rf52unr/app.bsky.feed.post/3mzlzklpyoi2r",
-          "sentiment": 0
-        },
-        {
-          "id": "1d3b0dd15c187acdbd5d7d4920559c544c4e0e1b58def2d29c96a4970cb2143f",
-          "authorHandle": "upstract.com.web.brid.gy",
-          "postText": "",
-          "createdAt": "2026-11-05T23:29:22.000Z",
-          "uri": "at://did:plc:xc32dedgv3ceunwz2nrseso4/app.bsky.feed.post/3mzlzzdhd3pb2",
-          "sentiment": null
-        },
-        {
-          "id": "8c2791e6c296171d2640b77385571f251bb4d3d1688aabf4b5d372a939ba3979",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine U.S. House District 2\n\nDistrictwide – 97.6% reported:\n🔴 Paul LePage – 170,264 (49.9%)\n🔵 Matthew Dunlap – 164,844 (48.3%)\n⚪ Blank Votes – 6,013 (1.8%)\n⚪ Gregory Ward (write-in) – 125 (0.0%)\n\nResults per AP\n\n#Maine #ME02 #Midterms\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T23:23:17.985Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlz5xkqdg25",
-          "sentiment": 0
-        },
-        {
-          "id": "ce5f185a709537a5b99a2cf7637d36e670704a9fe9e006a1dfd5c2d305443571",
-          "authorHandle": "charheel90.bsky.social",
-          "postText": "Paul Lepage and Troy Jackson during the joint session",
-          "createdAt": "2026-11-05T23:20:04.995Z",
-          "uri": "at://did:plc:6jm325i6niqoj3nzvfousp3u/app.bsky.feed.post/3mzlyy7glwc2d",
-          "sentiment": 0
-        },
-        {
-          "id": "8b3fbbd146d49917abf76bebd61c68f55f610776b4001d305e0e89f98a2d9938",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine U.S. House District 2\n\nDistrictwide – 97.6% reported:\n🔴 Paul LePage – 170,271 (49.9%)\n🔵 Matthew Dunlap – 164,855 (48.3%)\n⚪ Blank Votes – 6,002 (1.8%)\n⚪ Gregory Ward (write-in) – 125 (0.0%)\n\nResults per AP\n\n#Maine #ME02 #Midterms\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T23:15:54.221Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlyqqe4j72y",
-          "sentiment": 0
-        },
-        {
-          "id": "3de6e84cb7f9ec7b2904dc5c183e13b0bbcc5b195b9172eee1ca3c4ea12da94a",
-          "authorHandle": "dirigoreport.bsky.social",
-          "postText": "Matt Dunlap conceded to Paul LePage, but they’re headed to a ranked-choice runoff anyway\n\ndirigoreport.com",
-          "createdAt": "2026-11-05T23:06:27.694Z",
-          "uri": "at://did:plc:p2y5izj77t4xchjk7fblfzdi/app.bsky.feed.post/3mzlygtyl7v2q",
-          "sentiment": 0
-        },
-        {
-          "id": "dc5354cf8c6e267ee27d132a2f41818d027bdc2b0530067224ccaaf880cebb11",
-          "authorHandle": "jacobfhsmith.bsky.social",
-          "postText": "Most likely with Paul LePage or Randy Fine.",
-          "createdAt": "2026-11-05T23:06:13.744Z",
-          "uri": "at://did:plc:d7wvxolbj7ej5h4gv27ci6cy/app.bsky.feed.post/3mzly7gorg22y",
-          "sentiment": 0.2023
-        },
-        {
-          "id": "ab3ec55f7eae2f76ed803a91a246083a4d598ca1b4f5d647ee5f4925d0515287",
-          "authorHandle": "mijoda3.bsky.social",
-          "postText": "Racist Paul LePage (R) has been sent to the House by ME-2 to occupy the seat left by DINO Jared Golden.Dems should watch LePage carefully.",
-          "createdAt": "2026-11-05T23:01:43.769Z",
-          "uri": "at://did:plc:q4ejmqi72fwjigrcnf2egid7/app.bsky.feed.post/3mzlxxf7tvs25",
-          "sentiment": -0.5423
-        },
-        {
-          "id": "04a517a0a49ccf12deafc48a96517711fe88035550c1ff4041cf333c33b5a660",
-          "authorHandle": "beansnfrank.bsky.social",
-          "postText": "That’s too bad. LePage is a slimy fuck. Thank goodness he’ll be irrelevant in Congress.",
-          "createdAt": "2026-11-05T23:00:37.455Z",
-          "uri": "at://did:plc:tvymv6fbabgcv2kxywof52bp/app.bsky.feed.post/3mzlxvfy26s2i",
-          "sentiment": -0.3612
-        },
-        {
-          "id": "958dfd153dfdbe567791ff1f9b8a7ad1a4bf78e9be535b290017867bfb614d58",
-          "authorHandle": "maxkagan.bsky.social",
-          "postText": "We can debate what is symbolic vs. operational ideology (and also ME-02 is very different than ME-01) but Paul LePage literally described himself as “Donald Trump before Donald Trump”",
-          "createdAt": "2026-11-05T22:58:45.542Z",
-          "uri": "at://did:plc:lcen7vkflu3uausrhziosrn2/app.bsky.feed.post/3mzlxs3ayws2g",
-          "sentiment": 0
-        },
-        {
-          "id": "210bd7148342c63732014e53d7e9009befa88dbf046a164e3cb7a76a50dcb4b8",
-          "authorHandle": "autumnwolff.bsky.social",
-          "postText": "In a roundabout way, Maine traded Sen. Susan Collins for former Gov. Paul LePage in our congressional representation. \n\nThanks, I hate it.",
-          "createdAt": "2026-11-05T22:30:44.184Z",
-          "uri": "at://did:plc:kdmokwutq5fjhosjdct2iao7/app.bsky.feed.post/3mzlw7xrswk2n",
-          "sentiment": -0.2023
-        },
-        {
-          "id": "3ffb5df684063da5f1e86b87438ffa2a517ef5978e293d775febca41782c5665",
-          "authorHandle": "bluereverseunocard.bsky.social",
-          "postText": "Electing Paul LePage to Congress slaps hard if you’re a fucking idiot.",
-          "createdAt": "2026-11-05T22:26:39.425Z",
-          "uri": "at://did:plc:d4xdx26crajqcz65dfvbeajj/app.bsky.feed.post/3mzlvyoeehs23",
-          "sentiment": -0.6115
-        },
-        {
-          "id": "85bcc277c038ef2f214d4f35aa3f93255aa2d2246c9c43c35ef70cac72975a47",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine U.S. House District 2\n\nDistrictwide – 97.8% reported:\n🔴 Paul LePage – 170,329 (49.9%)\n🔵 Matthew Dunlap – 164,852 (48.3%)\n⚪ Blank Votes – 5,932 (1.7%)\n⚪ Gregory Ward (write-in) – 168 (0.0%)\n\nResults per AP\n\n#Maine #ME02 #Midterms\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T22:11:38.026Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlv5ssco32b",
-          "sentiment": 0
-        },
-        {
-          "id": "9f4b4030a7f36c629b305b1d1009ee44d22e15f00d2088f93a025531962b451a",
-          "authorHandle": "nickyphorus117.bsky.social",
-          "postText": "Paul LePage reps their bluest seat they’re gonna go insane",
-          "createdAt": "2026-11-05T22:09:59.048Z",
-          "uri": "at://did:plc:3mx6u4noh66storsmf5euifk/app.bsky.feed.post/3mzlv2ud7u22m",
-          "sentiment": -0.4019
-        },
-        {
-          "id": "45603aa77ca20bca4f5fe295b7401a087337ec3065c1dbc4c9c90d9caa8d4866",
-          "authorHandle": "mainenewsroom.com",
-          "postText": "11/5 Republican former governor Paul LePage wins race for Maine’s 2nd District; Democratic State Auditor Matt Dunlap concedes; ranked-choice voting tabulation will still proceed #maine #MEpolitics",
-          "createdAt": "2026-11-05T21:59:01.661437Z",
-          "uri": "at://did:plc:f57d5h4u4j526q4huh7vtnx5/app.bsky.feed.post/3mzluhblear2m",
-          "sentiment": 0.5719
-        },
-        {
-          "id": "989d529ba0a484bc583efe1fc00a00f5a439a6148055a3c08f21508f6070717b",
-          "authorHandle": "pedroiar.bsky.social",
-          "postText": "How did Paul LePage win tho 🤮",
-          "createdAt": "2026-11-05T21:53:15.562Z",
-          "uri": "at://did:plc:ml4zb6esejnqumxhmnfacyuu/app.bsky.feed.post/3mzlu4xdb2k2u",
-          "sentiment": 0.5859
-        },
-        {
-          "id": "d264f852d503632ec9546357e2c1c7e353604b220d0e61b8a5b0b6af489cf11c",
-          "authorHandle": "valpix.tgirl.gay",
-          "postText": "paul lepage is the only reason the new england republicans will have ANY representation in congress",
-          "createdAt": "2026-11-05T21:51:04.508Z",
-          "uri": "at://did:plc:nqca3hzcqzpakai7jwnlxuxm/app.bsky.feed.post/3mzltz2dtmc2b",
-          "sentiment": 0
-        },
-        {
-          "id": "6c883253f1310e1f52da81341277428ec0849a620b9ba46221af9e5f1b6f427e",
-          "authorHandle": "andrewlevesque.bsky.social",
-          "postText": "www.mainepublic.org/politics/202...\nThe only fly in the ointment in this historic blue wave is that Maine’s 2nd District elected an unpopular, 2-term Maine governor to represent them in the US House.\n\nThe only dammed fly …",
-          "createdAt": "2026-11-05T21:50:04.305Z",
-          "uri": "at://did:plc:vbljassbrgzig2nauh6mg5g6/app.bsky.feed.post/3mzltxawlmk2t",
-          "sentiment": 0
-        },
-        {
-          "id": "ad876a4dab5a2780627a61f822f82765fa3f5d8f91935a8aa3954bc8b97afa2f",
-          "authorHandle": "dowager78.bsky.social",
-          "postText": "Yeah, so is Paul LePage",
-          "createdAt": "2026-11-05T21:47:22.999Z",
-          "uri": "at://did:plc:5e4s66l4dpkb2lvmlnzu5lhf/app.bsky.feed.post/3mzltsh3ubk2w",
-          "sentiment": 0.296
-        },
-        {
-          "id": "b5eb62c019cd74ab2ac0c6a560c9e82b4fe5bc415f1948818edae4bfc490e4ed",
-          "authorHandle": "spotandmae.bsky.social",
-          "postText": "Get to know Paul LePage",
-          "createdAt": "2026-11-05T21:41:53.652Z",
-          "uri": "at://did:plc:zfzi7qwcqzvn6t4waxofnumz/app.bsky.feed.post/3mzltimyyds2t",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -4592,15 +4024,15 @@
     {
       "id": "chellie-pingree",
       "name": "Chellie Pingree",
-      "overallSentiment": 0.1875,
+      "overallSentiment": 0.1,
       "newsSentiment": 0,
-      "socialSentiment": 0.375,
+      "socialSentiment": 0.2,
       "youtubeSentiment": null,
       "mentions": {
         "news": 13,
-        "social": 8,
+        "social": 5,
         "youtube": 0,
-        "total": 21
+        "total": 18
       },
       "news": [
         {
@@ -4761,30 +4193,6 @@
           "createdAt": "2026-11-06T02:10:43Z",
           "uri": "at://did:plc:7rcr53jnsjdvdtlgpcnckzzp/app.bsky.feed.post/3mzmcjfgox72e",
           "sentiment": 0
-        },
-        {
-          "id": "3c6956973caf7b19f2f6c9d6f5abf8987f984b36a9a2794bce0282abfb5cc7b3",
-          "authorHandle": "carmenaresearch.bsky.social",
-          "postText": "Maine U.S. House District 1\n\nDistrictwide – 92.2% reported:\n🔵 Chellie Pingree – 249,772 (65.9%)\n🔴 Ronald Russell – 129,342 (34.1%)\n\nResults per AP\n\n#Maine #ME01 #Midterms #Midterms2026\n\nFollow us for the fastest election reporting all night!",
-          "createdAt": "2026-11-05T22:28:23.709Z",
-          "uri": "at://did:plc:ixs4qrzolcgfofqo6bejim6a/app.bsky.feed.post/3mzlw3rvecu24",
-          "sentiment": 1
-        },
-        {
-          "id": "6f630295a9b5547fa221055a20e41a6db9a11d176e5760789bcf5e2ce83b5b5d",
-          "authorHandle": "pingree.house.gov",
-          "postText": "Naming it after Almer Dinsmore—a legendary ferry captain who spent decades serving Maine’s island communities—is a wonderfully fitting tribute. \n\nBig thanks to everyone at Maine DOT, the shipbuilders and crew, Captain Dinsmore, and everyone who had a hand in making this day possible!",
-          "createdAt": "2026-11-05T21:50:55.554Z",
-          "uri": "at://did:plc:dgpyzapw4a7zve5qy2qjqpfx/app.bsky.feed.post/3mzlu2e77xk2m",
-          "sentiment": 0
-        },
-        {
-          "id": "190fbc42f190f4e566b55ac3156d8b6325b4829d686e7e4321ac85ab3c33b836",
-          "authorHandle": "pingree.house.gov",
-          "postText": "It was a pleasure to attend the commissioning of the M/V Capt. Almer Dinsmore in Rockland.\n\nThis is no ordinary boat. It’s the Maine State Ferry Service’s first electric-hybrid vessel.\n\nIt’s also a great example of how the Bipartisan Infrastructure Law continues to make real, transformative impacts.",
-          "createdAt": "2026-11-05T21:50:55.553Z",
-          "uri": "at://did:plc:dgpyzapw4a7zve5qy2qjqpfx/app.bsky.feed.post/3mzltyrtdv22m",
-          "sentiment": 1
         }
       ],
       "youtube": []
@@ -4792,9 +4200,9 @@
     {
       "id": "angus-king",
       "name": "Angus King",
-      "overallSentiment": 0.029411764705882353,
+      "overallSentiment": 0.020588235294117647,
       "newsSentiment": 0,
-      "socialSentiment": 0.058823529411764705,
+      "socialSentiment": 0.041176470588235294,
       "youtubeSentiment": null,
       "mentions": {
         "news": 14,
@@ -4932,6 +4340,46 @@
       ],
       "social": [
         {
+          "id": "fc00ba1526af008eca05ccfec6a6a24517bd529bad0f7c716f7349c63e03ca91",
+          "authorHandle": "ashjo.dev",
+          "postText": "I think that it should be pretty clear from this year that calling yourself an independent only really works if that’s something you establish as part of your brand, like Bernie or Angus King, in a state where it really doesn’t matter. Bodnar, Osborn, Kiley, and the other “independents” take note",
+          "createdAt": "2026-11-06T22:50:17.803Z",
+          "uri": "at://did:plc:mplcejt5lfpft2efqd3xb7fe/app.bsky.feed.post/3mzohruijbs2s",
+          "sentiment": 0.7
+        },
+        {
+          "id": "0bbbbf9404269c07701687dea1e3c433395a762475a9b8b051af8793c70b1bb1",
+          "authorHandle": "jacobaugust.bsky.social",
+          "postText": "This also means that, next year, Millennials will finally outnumber members of the Silent Generation (born between 1928 and 1945):\n\nChuck Grassley, born Sept. 17, 1933\nBernie Sanders, born Sept. 8, 1941\nJim Risch, born May 3, 1943\nAngus King, born March 31, 1944\nDick Durbin, born Nov. 21, 1944",
+          "createdAt": "2026-11-06T22:24:15.387Z",
+          "uri": "at://did:plc:2wriqbpqwovubi4t6ombrouu/app.bsky.feed.post/3mzogdcidns2j",
+          "sentiment": 0
+        },
+        {
+          "id": "ebfb15cfdf38b70a2c80c529a8450cf58274f669b238417e464a7dc5294f511b",
+          "authorHandle": "tourscotland.bsky.social",
+          "postText": "Have a wee visit to a tour #Scotland travel video Blog of old #Scottish #ancestry #history #genealogy #photography of #Brechin, #Angus. Brechin was the site where in 1296 John Baliol handed over lordship of Scotland to King Edward I tour-scotland-photographs.blogspot.com/2023/01/old-...",
+          "createdAt": "2026-11-06T22:09:37.926Z",
+          "uri": "at://did:plc:u4gmqbcngjtf66ve2h6pouyc/app.bsky.feed.post/3mzofj5ndwc26",
+          "sentiment": 0
+        },
+        {
+          "id": "f5b90725d9d1d673a40573d154ecfc3badf5e3121d744a3798395644d2f3e588",
+          "authorHandle": "edmlawyersteve.bsky.social",
+          "postText": "Also, speaking as a guy who doesn’t know the first god-damned thing about professional wrestling: “Angus King” is a weird ring name.  Unless maybe his character is some kind of bovine tyrant? Maybe that could work.",
+          "createdAt": "2026-11-06T22:07:10.080Z",
+          "uri": "at://did:plc:avjfyfnngrxyg5lduqvjaetu/app.bsky.feed.post/3mzofeqni222a",
+          "sentiment": 0
+        },
+        {
+          "id": "d8d6440ee670aa5c3aa651620528631fa5561e7cf1c38f92c10cf13ec2c7229f",
+          "authorHandle": "edmlawyersteve.bsky.social",
+          "postText": "From the seventeen seconds of research I just did, I think the most interesting part of this is that his ring names have apparently included “Angus King”.",
+          "createdAt": "2026-11-06T22:05:25.508Z",
+          "uri": "at://did:plc:avjfyfnngrxyg5lduqvjaetu/app.bsky.feed.post/3mzofbmwcu22a",
+          "sentiment": 0
+        },
+        {
           "id": "c26f4e2c22006844432c5c0e82e922dadade296e19496e22ec1d0320e2be6ee2",
           "authorHandle": "minuteman04.bsky.social",
           "postText": "Time for Lisa Murkowski to leave the GOP and become an Independent. She can caucus with Democrats along with Bernie Sanders and Angus King.",
@@ -5025,46 +4473,6 @@
           "postText": "Angus King\nEdited on Thursday, Nov 05, 2026 at 21:05 EST\n\n#AngusKing #Congress #Wikipedia\n",
           "createdAt": "2026-11-06T02:10:17Z",
           "uri": "at://did:plc:7rcr53jnsjdvdtlgpcnckzzp/app.bsky.feed.post/3mzmcimlk6c2d",
-          "sentiment": 0
-        },
-        {
-          "id": "5f369afc50404f10294d6fc8c4286c83faa0075d6641fadd6193a2d44d4f5e43",
-          "authorHandle": "the1truesid.bsky.social",
-          "postText": "Makes sense, with Angus King grey in Maine.",
-          "createdAt": "2026-11-06T00:54:39.660Z",
-          "uri": "at://did:plc:z6mr22cam6b3nvauir63qkdg/app.bsky.feed.post/3mzm6bd7kz22w",
-          "sentiment": 0
-        },
-        {
-          "id": "4b80ae31cd8ca0f4e44e39cc082bb1b94556fc5c000fde1456297cdbbcb13cf1",
-          "authorHandle": "pinkloser.bsky.social",
-          "postText": "I think it’s the other senate seat. Maine made me think otherwise because it’s gray but Angus King is an independent. Though that raises a question because Vermont’s is blue when Sanders is technically independent. I guess because he caucuses with dems",
-          "createdAt": "2026-11-06T00:49:29.853Z",
-          "uri": "at://did:plc:m4bku2hgvgpk7kivfq2yyjnr/app.bsky.feed.post/3mzm5y3r4zc27",
-          "sentiment": 0
-        },
-        {
-          "id": "ee9ed6360d2fa5b173bf4142b057601caa60a7dd438b46bec7705726db38eb8e",
-          "authorHandle": "cynharp777.bsky.social",
-          "postText": "Angus King of Maine is an Independent! And 10 yrs ago the Dems would never have passed $1 trillion infrastructure, $400 billion IRA/ Climate chg, expanded ACA and Childcare, $180 billion in student loan relief! Plus Black woman VP and Supreme Court Justice and a Trans Asst Secy of Health…just stop!",
-          "createdAt": "2026-11-06T00:03:11.524Z",
-          "uri": "at://did:plc:6nm77glzlqusyqkjad3feirh/app.bsky.feed.post/3mzm3fc566c2w",
-          "sentiment": 1
-        },
-        {
-          "id": "b915d0bd92affcda58f303a57de502b06e5a23171d3a4911ddd6bcbc67910ec8",
-          "authorHandle": "octaviuz.bsky.social",
-          "postText": "Looks like the party of the other senator. Check out Maine in gray for Indie Angus King.",
-          "createdAt": "2026-11-05T23:58:49.399Z",
-          "uri": "at://did:plc:3dnjizczo4pr4uifesp35w4s/app.bsky.feed.post/3mzm35i62ik2o",
-          "sentiment": 0
-        },
-        {
-          "id": "d2e42a2cf4b9d8c087b477d466f11ef89401c7a80ef69718b255446dde820702",
-          "authorHandle": "pklinkne.bsky.social",
-          "postText": "In the current Senate, the most conservative Democrat is Angus King (yeah, I know he's technically an I). His DWNominate score is -.17 \n\nIn 2009-11 there were 5 D Senators with more conservative scores: Jim Webb, Blanche Lincoln, Evan Bayh, Claire McCaskill, and Ben Nelson.",
-          "createdAt": "2026-11-05T22:57:36.750Z",
-          "uri": "at://did:plc:fu7hmeze2dwdwmh5guapsbd6/app.bsky.feed.post/3mzlxpzndic2n",
           "sentiment": 0
         }
       ],
