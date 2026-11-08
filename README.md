@@ -2,7 +2,7 @@
 
 A free, static, daily-refreshed sentiment tracker for 5 politicians: Hannah Pingree, Paul LePage, Troy Jackson, Chellie Pingree, and Angus King. Pulls news (NewsData.io), social posts (Bluesky), and YouTube video comments (YouTube Data API v3) from the last 24 hours, scores them with sentiment analysis, and shows per-candidate news/social/YouTube/overall sentiment plus total mentions.
 
-See `plan.md` for the full design rationale. This README is the practical setup guide.
+This README is the practical setup guide for running locally. The website is also available at https://mainesenatetracker.com/
 
 ## How it works
 
@@ -23,7 +23,7 @@ See `plan.md` for the full design rationale. This README is the practical setup 
    cp .env.example .env
    ```
    - `NEWSDATA_API_KEY`: from [newsdata.io](https://newsdata.io) (free tier: 200 requests/day)
-   - `BLUESKY_HANDLE` / `BLUESKY_APP_PASSWORD`: create an **app password** at bsky.app → Settings → App Passwords. Never use your real account password here.
+   - `BLUESKY_HANDLE` / `BLUESKY_APP_PASSWORD`: create an **app password** at bsky.app → Settings → App Passwords.
    - `YOUTUBE_API_KEY`: from [Google Cloud Console](https://console.cloud.google.com/), enable "YouTube Data API v3" on a project, then create an API key (Credentials → Create Credentials → API key). No OAuth needed, just a plain key for public search/comment reads.
 3. Sanity-check the news API key works:
    ```bash
@@ -65,9 +65,3 @@ After that, all run automatically on their schedules, and every push to `main` (
 - **Mentions**: total news + social + YouTube comment mentions in the last 24 hours, tracked as its own metric independent of sentiment — a candidate can be heavily discussed without that discussion being positive or negative.
 - **Overall sentiment**: simple average of news, social, and YouTube sentiment. If one or more categories have no data, overall falls back to averaging whichever categories do.
 - **Missing data**: shown as "No data" rather than treated as a neutral 0, so a quiet day doesn't look like a lukewarm one.
-
-## Security notes
-
-- Never commit `.env` (already gitignored) or hardcode API keys/passwords in scripts.
-- Use a Bluesky app password, not your real login — if this repo is ever public, a leaked app password can be revoked without touching your main account.
-- Rotate the NewsAPI key and Bluesky password if they were ever previously committed to source control (e.g. in the original Foundry transforms) — even though this project no longer uses NewsAPI.org, that key was exposed and should still be rotated/revoked.
