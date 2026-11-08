@@ -1,6 +1,7 @@
 # PulseTracker Lite
-
 A free, static, daily-refreshed sentiment tracker for 5 politicians: Hannah Pingree, Paul LePage, Troy Jackson, Chellie Pingree, and Angus King. Pulls news (NewsData.io), social posts (Bluesky), and YouTube video comments (YouTube Data API v3) from the last 24 hours, scores them with sentiment analysis, and shows per-candidate news/social/YouTube/overall sentiment plus total mentions.
+
+Originally built to approximate the popularity of the candidates who ran for Maine's Democratic Senate nomination after Graham Platner dropped out, the entire site runs completely without cost (if you have a free student LLM API key). 
 
 This README is the practical setup guide for running locally. The website is also available at https://mainesenatetracker.com/
 
