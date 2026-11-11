@@ -1,180 +1,270 @@
 {
-  "lastUpdated": "2026-11-11T14:00:46.848Z",
+  "lastUpdated": "2026-11-11T19:18:12.487Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3876545946148373,
-      "newsSentiment": 0.2777777777777778,
+      "overallSentiment": 0.31887152583176853,
+      "newsSentiment": 0.07142857142857142,
       "socialSentiment": 0.19681391304347828,
       "mentions": {
-        "news": 18,
+        "news": 28,
         "social": 116,
         "youtube": 43,
-        "total": 177
+        "total": 187
       },
       "news": [
         {
-          "id": "2c5b9c97669e3f7b9bfd556247300b8ce0406aa41f9ea9e25a8333ba910edb7b",
-          "title": "Chris Hedges Report: Will Democrats Betray Voters Again?",
-          "description": "Ralph Nader warns that the “Blue Tsunami” has inspired hope across the nation as Americans have repudiated Trumpism. But he questions whether the Democrats stand up to the donor class and deliver for their constituents. By Joshua Scheer ScheerPost Defeating… Read more →",
-          "sourceName": "Consortium News",
-          "url": "https://consortiumnews.com/2026/11/10/chris-hedges-report-will-democrats-betray-voters-again/",
-          "publishedAt": "2026-11-10T07:00:19.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d34a291c9bf3824607cee9694583248dfdbee955efbb9b726de41c3f2f256c71",
-          "title": "Fintan O'Toole: Republicans ran their campaign like a Conor McGregor press conference",
-          "description": "This was hyperscale trash talk – and it didn’t work",
-          "sourceName": "The Irish Times",
-          "url": "https://www.irishtimes.com/opinion/2026/11/10/fintan-otoole-republicans-ran-their-campaign-like-a-conor-mcgregor-press-conference/",
-          "publishedAt": "2026-11-10T06:00:01.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9ece99486604fd715b9c28b8bb6a39398fe08c7a594ae2a3ad680150a7a74ab6",
-          "title": "Letter: Susan Collins is not in the same league as Maine’s famed leaders",
-          "description": "“Her 100% voting record is meaningless unless the impact of those votes is considered.”",
+          "id": "8981e1ab79f741eba29d624cb58ca529583ce8d829c3e80feb749a20c751d1df",
+          "title": "Meet the 22 people helping Hannah Pingree choose her government",
+          "description": "They span business, labor, tribal leaders and a former Republican senator, but their political giving is overwhelmingly Democratic.",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/10/opinion/letters/letter-susan-collins-is-not-in-the-same-league-as-maines-famed-leaders-joam40zk0w/",
-          "publishedAt": "2026-11-10T06:00:00.000Z",
+          "url": "https://www.bangordailynews.com/2026/11/11/politics/state-politics/panel-helping-hannah-pingree-choose-her-government-joam40zk0w/",
+          "publishedAt": "2026-11-11T06:00:00.000Z",
+          "sentiment": -1
+        },
+        {
+          "id": "c6a99f2511061b229e04a5670ff048c7d37cfab558329e27c763fd057a46760f",
+          "title": "Sanders, Slotkin Don't Support Chuck Schumer As Leader",
+          "description": "Socialist Senator Bernie Sanders announced today that he will not support Sen. Chuck Schumer as the Democrat Leader next year. Sen. Bernie...",
+          "sourceName": "Hotair",
+          "url": "https://hotair.com/john-s-2/2026/11/10/sanders-slotkin-dont-support-chuck-schumer-as-leader-n3820875",
+          "publishedAt": "2026-11-11T02:20:20.000Z",
           "sentiment": 0
         },
         {
-          "id": "678be5e640881d3e5dff31c1f4c2953000140a5e2e13428b833d4163bde92771",
-          "title": "Why Susan Collins lost",
-          "description": "“Collins might have saved herself if she had taken the risk of becoming the outspoken leader Maine wanted and needed.”",
+          "id": "0af1e395f8b342aa73b6e75da232fad6cf121d46bc90d539fb29dcc105516476",
+          "title": "U.S. Senate’s 11 Democratic freshmen arrive at the Capitol",
+          "description": "Senate Minority Leader Chuck Schumer welcomed the 11 newly elected Senate Democrats to the U.S. Capitol.",
+          "sourceName": "The News Herald",
+          "url": "https://www.thenewsherald.com/2026/11/10/u-s-senates-11-democratic-freshmen-arrive-at-the-capitol/",
+          "publishedAt": "2026-11-11T01:44:10.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "a6358133302e9df8e092f067b5f56aaa0dc4d8c238d9c2e9d7fe17784de064fb",
+          "title": "'Drinking from a fire hose': Freshmen lawmakers descend on Washington",
+          "description": "WASHINGTON — Sen.-elect Troy Jackson quickly learned just how much attention is lavished on new lawmakers when he arrived at the Capitol on Nov. 10.",
+          "sourceName": "Lufkindailynews",
+          "url": "https://lufkindailynews.com/news_reuters/national/drinking-from-a-fire-hose-freshmen-lawmakers-descend-on-washington/article_4df563ed-b857-5618-9cd2-9c5a86ae854b.html",
+          "publishedAt": "2026-11-11T01:36:06.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "731ab42520d82c1c684927df17865e0bd817839950801c814703a80f689f5ed2",
+          "title": "'Drinking from a fire hose': Freshmen lawmakers descend on Washington",
+          "description": "More than 100 newly elected U.S. House and Senate members arrived in Washington, DC, this week for orientation.",
+          "sourceName": "Usa Today",
+          "url": "https://www.usatoday.com/story/news/politics/2026/11/10/newly-elected-lawmakers-orientation/92701316007/",
+          "publishedAt": "2026-11-11T01:32:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "e25ff12451fae4569550f0bb82c2017522d7a9f038416e1193ebdb5cbd48263f",
+          "title": "Van Hollen calls colleagues as Schumer’s leadership faces questions",
+          "description": "After a midterm election that sharpened the fight over the direction of the Democratic Party, the Maryland senator is positioning himself as a progressive alternative to Schumer. The post Van Hollen calls colleagues as Schumer’s leadership faces questions appeared first on MS NOW.",
+          "sourceName": "Ms Now",
+          "url": "https://www.ms.now/news/van-hollen-schumer-senate-majority-leader-democrats",
+          "publishedAt": "2026-11-11T00:34:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1add94442654b81bc657819c4bfe1efbb1cd2ff50eccb7dc154180b0c3686ab3",
+          "title": "SHRIBMAN: Democrats have another chance to do what they haven’t in the past",
+          "description": "Three times in American history, Democrats faced the difficult task of defining their character and regrouping for the political battles ahead. Each time, they flinched.",
+          "sourceName": "Herald-zeitung",
+          "url": "https://herald-zeitung.com/opinion/shribman-democrats-have-another-chance-to-do-what-they-haven-t-in-the-past/article_c979ce8f-8fb8-4cab-98d2-0e6863e0005b.html",
+          "publishedAt": "2026-11-11T00:30:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "083fa09be83481dd80eb6e708f9ec5f444def110d4a4aafa0bed71fc7b5ed2e6",
+          "title": "Senate Democrats Want a New Leader, but Nobody Wants to Do the Job",
+          "description": "Only Sen. Chris Van Hollen has expressed any interest in challenging longtime leader Chuck Schumer. Schumer insists he’s on track to win the top spot.",
+          "sourceName": "The Washington Sun",
+          "url": "https://www.washingtonsun.com/congress/senate-democrats-leader-bernie-sanders-elissa-slotkin-schumer",
+          "publishedAt": "2026-11-11T00:07:06.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2fbf111d9060844c648a5954a544c784dcc528a1665237a2e463e0a646d174d2",
+          "title": "Schumer Claims Unity as Sanders, Slotkin, 5 Senators-Elect Oppose Him",
+          "description": "Senate Minority Leader Chuck Schumer (D-NY) claimed Tuesday he will be elected majority leader and that his caucus is united, after Sens. Bernie Sanders (I-VT) and Elissa Slotkin (D-MI) said they would not support him. The post Schumer Claims Unity as Sanders, Slotkin, 5 Senators-Elect Oppose Him appeared first on Breitbart.",
+          "sourceName": "Brietbart",
+          "url": "https://www.breitbart.com/politics/2026/11/10/schumer-claims-unity-as-sanders-slotkin-5-senators-elect-oppose-him/",
+          "publishedAt": "2026-11-11T00:00:53.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d4b9c351210899c5de70053ae05fd689c41f2483592b4ea566340ee83df4ab9f",
+          "title": "Activists, some colleagues aim to block Schumer and Jeffries from leading Democrats",
+          "description": "The minority leaders in the House and Senate are well-positioned to become majority leaders, but not everyone is on board.",
+          "sourceName": "Adn",
+          "url": "https://www.adn.com/nation-world/2026/11/10/activists-some-colleagues-aim-to-block-schumer-and-jeffries-from-leading-democrats/",
+          "publishedAt": "2026-11-10T23:45:06.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5e477a0a11664ca33c0be4ed0febf858e98f5cfc9530cb8698e5b7f4d7ae70df",
+          "title": "Some Democrats are targeting Jeffries and Schumer. That’s a mistake.",
+          "description": "If Democrats oust their current House and Senate leaders, they'll snatch defeat from the jaws of victory The post Some Democrats are targeting Jeffries and Schumer. That’s a mistake. appeared first on MS NOW.",
+          "sourceName": "Ms Now",
+          "url": "https://www.ms.now/opinion/jeffries-schumer-house-senate-democrats-vote",
+          "publishedAt": "2026-11-10T23:23:14.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "72e48bcc1b6ed766bc9f1b2af9a610c437d69930de427618963fde151624a64f",
+          "title": "Senate Democrats Not Fully United Behind Schumer as Democratic Majority Leader",
+          "description": "Senate Minority Leader Chuck Schumer (D-N.Y.) speaks in Washington on Nov. 4, 2026. (Saul Loeb/AFP via Getty Images)",
+          "sourceName": "The Epoch Times",
+          "url": "https://www.theepochtimes.com/us/senate-democrats-not-fully-united-behind-schumer-as-democratic-majority-leader-6123247",
+          "publishedAt": "2026-11-10T22:51:37.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b539302949f123663225794b0039dcbd3db20665d3062c6151c4c994b9e29af9",
+          "title": "“The Time Is Now for Change”: Sanders Says He Won’t Back Schumer for Leader",
+          "description": "Emerging leader Sen. Chris Van Hollen says he is refusing to fund the government next month until the war is defunded.",
+          "sourceName": "Truthout",
+          "url": "https://truthout.org/articles/the-time-is-now-for-change-sanders-says-he-wont-back-schumer-for-leader/",
+          "publishedAt": "2026-11-10T22:22:55.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "284038d2105b93cefdced330664dee1cc77f4ea6679394697be972ead09b16f7",
+          "title": "Mika Fawns All Over Troy Jackson, Would Love to Live in Maine, Ex$ept...",
+          "description": "On Morning Joe, Mika Brzezinski welcomed Maine’s new Democratic Senator-elect Troy Jackson with the kind of enthusiasm usually reserved for family. He finally ended the career of Sen. Susan Collins, oh joy! She teased his appearance by telling viewers that she was \"excited about this. I really like Troy. I can't wait to meet him.\"She told Jackson: \"You know, I've had the honor of seeing the beauty of the great state of Maine and the people of Maine for 59 years, visiting every year, and I lo- [love], I wish that could be home, consider it home.\"Q. Given that Mika...",
+          "sourceName": "Freerepublic",
+          "url": "https://freerepublic.com/focus/f-news/4402556/posts",
+          "publishedAt": "2026-11-10T22:20:40.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "804d934fb73570244d766de29c58650d1aeb7c144d13b8d2acf6fac6c97c6710",
+          "title": "Lawmakers react to October inflation data",
+          "description": "Welcome to The Hill’s Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Lawmakers react to October inflation data Lawmakers and incoming lawmakers noted Tuesday that the latest inflation data for October show the economy is still dealing with upward price pressures. © Greg Nash “It’s just another brick…",
+          "sourceName": "The Hill",
+          "url": "https://thehill.com/newsletters/business-economy/6212082-lawmakers-react-to-october-inflation-data/",
+          "publishedAt": "2026-11-10T22:19:58.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "1147876df039986ae33ccf851ddb2a8bfa4d7f71ee8dede37d3dd4d5651f3a5c",
+          "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
+          "description": "Progressive senator says ‘I like Chuck … but the time is now for change’ as calls grow for new Democratic leadership Bernie Sanders, a progressive senator from Vermont, said on Tuesday he would not support Chuck Schumer’s bid to serve as the Democratic leader in the US Senate, joining a growing cohort of Democrats calling for a change in leadership. “I personally have known Chuck Schumer for over 30 years, and I like Chuck. Nobody who works harder than Chuck Schumer. But in my view, the time is now for change, and I will not be supporting Chuck to be re-elected as the Democratic leader,” Sanders told reporters on Capitol Hill. Continue reading...",
+          "sourceName": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
+          "publishedAt": "2026-11-10T22:16:32.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c6b389154c332df2a5229b66b4bbe55457a85ed10fc4f54afa82627049250981",
+          "title": "AIPAC Spent $84 Million Influencing American Midterm Elections",
+          "description": "by Martin Armstrong, Armstrong Economics: The American Israel Public Affairs Committee (AIPAC) and its affiliated political organizations spent $84.1 million attempting to influence the 2026 midterm elections. According to an analysis by Responsible Statecraft, approximately $55.3 million, nearly two-thirds of that spending, went into races where AIPAC’s preferred candidates lost. AIPAC does not register under […]",
+          "sourceName": "Sgt Report",
+          "url": "https://www.sgtreport.com/2026/11/aipac-spent-84-million-influencing-american-midterm-elections/",
+          "publishedAt": "2026-11-10T22:15:23.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "5aaad3cc5f13a3722d8e2a3ddea823d3c46d14eeb6e2190244d885eb8aebffe4",
+          "title": "Whoopi Goldberg lectures Democrats over infighting about leadership, warns 'get your stuff together'",
+          "description": "Whoopi Goldberg called out Democratic infighting over congressional leadership demanding the party focus on gas prices and SNAP benefits.",
+          "sourceName": "Fox News",
+          "url": "https://www.foxnews.com/media/whoopi-goldberg-lectures-democrats-infighting-leadership-warns-get-stuff-together",
+          "publishedAt": "2026-11-10T22:10:38.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "83e40fa2bd606b02d1462e54d0e19253070976082b19542e3e3841661e2ce85a",
+          "title": "Opposition to Schumer leading Senate grows amid calls for a ‘new generation’ from Democrats",
+          "description": "Schumer, 75, has led Senate Democrats for nearly a decade but now faces a fight for his survival atop the caucus over calls for a generational change.",
+          "sourceName": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/senate/4799317/opposition-chuck-schumer-leading-senate-new-generation-democrats/",
+          "publishedAt": "2026-11-10T22:09:04.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "d7be5c4f0f7139120700e9084606d0022325cbcaf610cdf6ae1b267bedaa794e",
+          "title": "Civil Society Groups to House: Support Every Article of Impeachment for Hegseth",
+          "description": "On Tuesday, a coalition of more than 40 civil society organizations sent a letter calling on all House members to vote for every article of impeachment filed against Defense Secretary Pete Hegseth. On Monday, Rep. Thomas Massie filed the eight articles and the House is expected to begin voting on them Tuesday evening. In their letter, the groups called out Hegseth’s prosecution of the unauthorized Iran war, his approval of lethal military strikes on fishing boats and his unprecedented political attacks on Sen. Mark Kelly (D-AZ) as reasons to support impeachment. Read the Letter The letter demands that members defend Congress’s constitutional authority consistently including in Iran, Venezuela, the boat strikes and Yemen, regardless of members’ views on the politics of any particular operation. The coalition behind the letter include Demand Progress, MoveOn, OxFam America, Public Citizen and 39 other organizations. “Pete Hegseth’s time at the Pentagon has done grievous harm to the nation and to the Constitution,” said Demand progress Senior Policy Advisor Cavan Kharrazian. “This is a man who ignored the will of Congress to execute an illegal war in Iran, kidnapped a foreign leader for oil, restarted war on Yemen, sent missiles to kill suspected drug traffickers and weaponized the Pentagon against a political enemy. Every House member who cares about the Constitution must vote for every single article of impeachment filed against Pete Hegseth.” “Congress never authorized the war with Iran,” stated the letter. “Secretary Hegseth directed U.S. forces into hostilities in violation of the Constitution and the War Powers Resolution. Both chambers went further and adopted H. Con. Res. 86, directing the President to withdraw U.S. forces from hostilities with Iran. The Pentagon continued the war anyway. A vote to impeach would affirm that a defense secretary can be held accountable for carrying on a war Congress never authorized and expressly called on the President to end.”",
+          "sourceName": "Common Dreams",
+          "url": "https://www.commondreams.org/newswire/civil-society-groups-to-house-support-every-article-of-impeachment-for-hegseth",
+          "publishedAt": "2026-11-10T22:03:59.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "eb80ca1994568db4141d369c4b13734741626b786005af59e4e7e482fe6d0e10",
+          "title": "Jared Golden hasn’t decided how he’ll vote on Pete Hegseth impeachment",
+          "description": "Golden said he will judge each of the eight charges on its own merits as the House takes a procedural vote Tuesday evening.",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/10/opinion/opinion-contributor/why-susan-collins-lost-joam40zk0w/",
-          "publishedAt": "2026-11-10T06:00:00.000Z",
+          "url": "https://www.bangordailynews.com/2026/11/10/politics/washington/jared-golden-undecided-pete-hegseth-impeachment-vote/",
+          "publishedAt": "2026-11-10T21:33:11.000Z",
           "sentiment": 0
         },
         {
-          "id": "e24c3e8c750d7d1c200b751e2a54bb74f21134749e3d62ef972d0a8cf98599b2",
-          "title": "New Kansas Democrat says Schumer looks polarizing back home",
-          "description": "Newly elected Kansas Democrat Adam Hamilton says many voters in his state see Chuck Schumer as a polarizing figure, and he wants a Senate leader who unites from the center instead. Sen.-elect Adam Hamilton told NBC’s “Meet the Press” that Kansans view Senate Minority Leader Chuck Schumer as a divisive brand, not a unifying one, […] The post New Kansas Democrat says Schumer looks polarizing back home appeared first on Conservative Institute.",
-          "sourceName": "Conservative Institute",
-          "url": "https://conservativeinstitute.org/politics/new-kansas-democrat-says-schumer-looks-polarizing-back-home.htm",
-          "publishedAt": "2026-11-10T05:02:00.000Z",
+          "id": "f835b989d4cfdad4437f3e235c9d29a4eb4c15e7d65205532a6f01bc358af8c7",
+          "title": "What Progressives Could Do on Israel",
+          "description": "Democrats feel they have a mandate to put conditions on U.S. support for Israel.",
+          "sourceName": "Foreign Policy",
+          "url": "https://foreignpolicy.com/2026/11/10/progressives-democrats-israel-aid-weapons-sales-congress-midterms/",
+          "publishedAt": "2026-11-10T21:02:51.000Z",
           "sentiment": 0
         },
         {
-          "id": "4df51584d728e98cab31e3c485fc549d0f00a490e1a2fd715f2eca617558dc5b",
-          "title": "Senate Republicans Revolt Against Their Own Leaders",
-          "description": "Senate Republicans Revolt Against Their Own Leaders A bloc of Senate Republicans led by Sen. Ron Johnson (R-WI) is pushing to postpone Tuesday's GOP leadership elections, arguing that the conference needs time to examine its midterm election losses before it picks the leaders who will guide it in the minority. Democrats won control of the Senate with 54 seats, and that total could climb depending on the outcomes of the races in Mississippi and Alaska. Republicans expect Senate Majority Leader John Thune (R-SD) to seek another term as the chamber's top Republican when the conference votes Tuesday morning. Johnson made his case in a letter to Sen. Tom Cotton (R-AR), who chairs the Senate Republican Conference, according to a copy Fox News Digital obtained. He asked that the election wait \"until we all have a chance to hear from leadership candidates as to what type of collaborative conference governing model we should adopt and what our strategy will be to counter the emboldened Democrats.\" \"Tuesday's result was a stunning defeat, and there are multiple reasons for it,\" Johnson wrote. \"We need to have serious discussions within our conference as to what we can do to improve the outcome in 2028.\" He also said in the letter that the conference owed itself a full debate over how each candidate intends to run the conference. \"Holding leadership elections without engaging in a robust discussion and evaluation of how those running for leadership intend to lead would be political malpractice,\" Johnson wrote. \"It is certainly not the way leadership elections should be conducted in the world's greatest deliberative body.\" Under Senate GOP rules, the conference can take up a delay if the request carries five signatures. Johnson secured the names he needed from Sens. Rick Scott (R-FL), John Kennedy (R-LA), Ted Budd (R-NC), and Mike Lee (R-UT). Lee announced his support on X. Two other Republicans, Sens. David McCormick (R-PA) and Jim Banks (R-IN), did not add their names to the letter. Both also want the conference to pause before it votes on leadership. \"Our conference needs to sit down and have a frank discussion about where we fell short, what we stand for, and what we're going to do for the working families who sent us here,\" Banks said in a statement. Republican leadership had already scheduled a conference meeting ahead of the elections. A GOP aide told Fox News Digital that Thune owes part of his standing among colleagues to his willingness to take feedback from lawmakers rather than \"rule with an iron fist.\" Thune remains popular in the conference and faces no declared challenger even though some conservative figures outside the Senate have called on him to step aside. It remains unclear whether the effort to slow the vote will change who leads Senate Republicans. Several potential rivals, including Scott, have said they will not run against him. Sen. Rick Scott addressed the question during an appearance on Fox News' Saturday in America. \"I don't want to run again. I've run twice,\" he said. Asked whether he would back Thune, Scott did not commit. \"We'll see what happens. We'll see who else is going to run. I don't know if somebody else is going to run,\" he said. Democratic leaders face unrest of their own. House Minority Leader Hakeem Jeffries (D-NY) and Senate Minority Leader Chuck Schumer (D-NY) are both contending with resistance inside their ranks as their party prepares to take the majority. Jeffries is dealing with grassroots backlash from the activist left over his bid for speaker, even after Democrats won large House majorities in last Tuesday's election. Axios reported on Friday that a wave of calls and emails is pressing House Democrats and members-elect to keep the gavel from Jeffries, citing more than a dozen lawmakers and aides. The outlet also reported that the caucus remains almost certain to back him. One incoming House Democrat said the office was \"getting inundated,\" with \"about 150\" calls since the election asking for a vote against Jeffries. A senior House Democrat reported \"over 500\" calls in two days, and constituents raised the issue in person at a Chamber of Commerce meeting in that member's district. Meanwhile, in the Senate, several newly elected Democrats have declined to commit to supporting Schumer for majority leader, though he has led the caucus since 2017. Senators-elect Adam Hamilton (D-KS), Troy Jackson (D-ME), Juliana Stratton (D-IL), Abdul El-Sayed (D-MI), and Peggy Flanagan (D-MN) have all voiced disapproval of him, and some pledged during their campaigns never to support him. Senate Republicans plan to vote on their leaders Tuesday morning unless the conference grants Johnson's request for a delay. Tyler Durden Mon, 11/09/2026 - 22:00",
-          "sourceName": "Zerohedge",
-          "url": "https://www.zerohedge.com/political/senate-republicans-revolt-against-their-own-leaders",
-          "publishedAt": "2026-11-10T03:00:00.000Z",
+          "id": "ad6a4538664d1d142fa2a01fc719a635e1e4bbd9bce7a2ba108e5c9b6ca25bbf",
+          "title": "U.S. Senate’s 11 Democratic freshmen arrive at the Capitol",
+          "description": "Senate Minority Leader Chuck Schumer welcomed the 11 newly elected Senate Democrats to the U.S. Capitol.",
+          "sourceName": "The Morning Sun",
+          "url": "https://www.themorningsun.com/2026/11/10/u-s-senates-11-democratic-freshmen-arrive-at-the-capitol/",
+          "publishedAt": "2026-11-10T20:47:32.000Z",
           "sentiment": 0
         },
         {
-          "id": "04d3130dc882e87585b68d46ce9d2fbe7a0227497c69b33ca615834b79848301",
-          "title": "Troy Jackson defeated incumbent Sen. Susan Collins and six other candidates in the general election for the U.S. Senate in Maine",
-          "description": "Troy Jackson (D) defeated incumbent Sen. Susan Collins (R) and six other candidates in the general election for the U.S. Senate in Maine on November 3, 2026. Click here for detailed results. Collins' defeat made her the first U.S. Senator to lose a bid for a sixth term since William Roth (R-Del.) in 2000. On […]",
-          "sourceName": "Ballotpedia News",
-          "url": "https://news.ballotpedia.org/2026/11/09/troy-jackson-defeated-incumbent-sen-susan-collins-and-six-other-candidates-in-the-general-election-for-the-u-s-senate-in-maine/",
-          "publishedAt": "2026-11-10T00:31:31.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "b89260ea6a6f202e986913d80263db381ffebe99f6a715c32b88310a86b7772f",
-          "title": "Troy Jackson defeated incumbent Sen. Susan Collins and six other candidates in the general election for the U.S. Senate in Maine",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/ballotpedia-news-1529859/4996481298186-troy-jackson-defeated-incumbent-sen-susan-collins-and-six-other-candidates-in-the-general-election-for-the-u-s-senate-in-maine",
-          "publishedAt": "2026-11-10T00:00:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "410fca00d2ece9af5b50ff7fcc78625fc584b792d6a5ec94248b8018d0471054",
-          "title": "Troy Jackson defeated incumbent Sen. Susan Collins and six other candidates in the general election for the U.S. Senate in Maine",
-          "description": "Troy Jackson (D) defeated incumbent Sen. Susan Collins (R) and six other candidates in the general election for the U.S. Senate in Maine on November 3, 2026. Click here for detailed results. Collins' defeat made her the first U.S. Senator to lose a bid for a sixth term since William…",
-          "sourceName": "Inkl",
-          "url": "https://www.inkl.com/news/troy-jackson-defeated-incumbent-sen-susan-collins-and-six-other-candidates-in-the-general-election-for-the-u-s-senate-in-maine",
-          "publishedAt": "2026-11-10T00:00:00.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "26538feed3689e8fdb3a6b22639049b80352d6e8a59824cf70080eeda2e9448e",
-          "title": "Paul LePage lands in Washington, pitching himself as a dealmaker",
-          "description": "LePage joined incoming members of Congress, including Democratic Sen.-elect Troy Jackson, for orientation in Washington on Monday.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/09/politics/washington/paul-lepage-washington-dealmaker/",
-          "publishedAt": "2026-11-09T22:02:06.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "21d6b34b7370ccbc1908cf83db1c19718d0fd8e57c4bdf4c8b2f48c196187dc7",
-          "title": "Senate Appropriations could look much different in January",
-          "description": "With the Democratic Party seizing the majority in Congress, coupled with retirements on both sides of the aisle, the Senate Appropriations Committee will look a lot different in January 2027 than it did a year earlier. Current Chair Susan Collins (R-Maine) lost her re-election bid to political newcomer Troy Jackson (D) last week ending her […]",
-          "sourceName": "Exchangemonitor",
-          "url": "https://www.exchangemonitor.com/senate-appropriations-could-look-much-different-in-january/",
-          "publishedAt": "2026-11-09T21:52:10.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "87cb2fcd64a37aacc8349e768b64fd1f99262a288d204a43a9c4d9e62b963e11",
-          "title": "‘Ready for AOC’ Group Launches Campaign to Draft Ocasio-Cortez for 2028",
-          "description": "Organization aims to recruit 10,000 volunteers and collect a million pledges as speculation mounts over congresswoman’s future.",
-          "sourceName": "The New York Sun",
-          "url": "https://www.nysun.com/article/ready-for-aoc-group-launches-campaign-to-draft-ocasio-cortez-for-2028",
-          "publishedAt": "2026-11-09T21:24:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "078e20a68db50834596d0f4e3ea769edae0031d1da66f8697a42b422520f810f",
-          "title": "Did the New Democratic Senators Coordinate Their Outfits?",
-          "description": "A handful of incoming Democratic senators pulled off an impressive level of color-coordination for Monday’s orientation, all showing up in complementary jewel tones.",
-          "sourceName": "The Cut",
-          "url": "https://www.thecut.com/article/did-the-new-democratic-senators-coordinate-their-outfits.html",
-          "publishedAt": "2026-11-09T21:16:22.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3075b6c650e607a5afd0af052ac113eca1c7503820dc5be1869bbd078766f990",
-          "title": "Chuck Schumer and Hakeem Jeffries Face Democratic Leadership Revolt After Midterms",
-          "description": "They helped engineer a historic blue wave, but now they’re facing calls to step aside. One Democratic aide tells Vanity Fair that they’ve noticed what appears to be a coordinated effort to undermine Jeffries on social media, including AI-generated videos that have gotten tens of thousands of engagements.",
-          "sourceName": "Vanity Fair",
-          "url": "https://www.vanityfair.com/story/chuck-schumer-hakeem-jeffries-leadership-fight",
-          "publishedAt": "2026-11-09T20:55:15.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cb0669794f646d169813c115fe340e4c7b5593c9d45223eefd85efc834cc7089",
-          "title": "ACLU Applauds Gov. Gavin Newsom’s Historic Commutation of All Death Sentences in California",
-          "description": "California Gov. Gavin Newsom announced today that he was moving to commute all death sentences in California, marking a historic step towards ending the death penalty in California and across the country. The American Civil Liberties Union, ACLU of Southern California, ACLU of Northern California, AC...",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/aclu-applauds-gov-gavin-newsom-s-historic-commutation-of-89700435",
-          "publishedAt": "2026-11-09T20:24:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c1565008d64f668a2ea670e0d02988284a506fe525da57677df65aa8dbc973a0",
-          "title": "Democratic National Committee Chairman Ken Martin praises Senator-elect Troy Jackson as ‘authentic’",
-          "description": "Martin on new Democratic congressional majorities: ‘The focus will be on affordability and accountability’",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/democratic-national-committee-chairman-ken-martin-praises-senator-elect-troy-jackson-as-authentic/97-9791704b-91c8-465a-a32f-15bbea6c4bfa",
-          "publishedAt": "2026-11-09T20:06:09.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "cea2dc9696f6840d7c63c6fb0984abb1341d4827f2c00aeb710a2a41f5c5a038",
-          "title": "Wave of newly elected Democrats tour the Capitol ahead of Hegseth impeachment",
-          "description": "Democrat.s will enter Congress in January with strong majorities in both the House and Senate. Races still outstanding could help strengthen those majorities even more.",
+          "id": "089de26d292aeaf015ba8bfa9a64249761362cf79ee8db384c6968405eb597a7",
+          "title": "Bernie Sanders refuses to back Chuck Schumer as Senate leader race opens up",
+          "description": "Democrats won control of the House and Senate in last week's midterms, but many are calling for Chuck Schumer to step down as the party's leader",
           "sourceName": "The Mirror Us",
-          "url": "https://www.themirror.com/news/politics/gallery/wave-newly-elected-democrats-tour-2103438",
-          "publishedAt": "2026-11-09T19:59:21.000Z",
+          "url": "https://www.themirror.com/news/politics/bernie-sanders-chuck-schumer-senate-2105134",
+          "publishedAt": "2026-11-10T20:15:02.000Z",
           "sentiment": 0
         },
         {
-          "id": "379883c3fd4f1df4f708b596b617403d0d9d9743366f8fa1934a0caf73a5e807",
-          "title": "Senator-Elect Troy Jackson arrives in DC",
-          "description": "U.S. Senator-elect Troy Jackson was in the nation’s capital Monday.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/11/09/senator-elect-troy-jackson-arrives-dc/",
-          "publishedAt": "2026-11-09T19:39:40.000Z",
+          "id": "4725b606339263f1c92b61e866da1cb80948100c9a7c84ff7276d799dc11ad5c",
+          "title": "Democrats are divided over what midterm victory means",
+          "description": "Observers and party figures are split in treating the historic victory as an endorsement of its moderate or progressive wings.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/democrats-are-divided-over-what-midterm-victory-means-89733995",
+          "publishedAt": "2026-11-10T20:12:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "668667ceda68a6e22a7621e52a32dd12fe5fd3ec2ab77de77fc229419a02d6d5",
+          "title": "Bernie Sanders Warns Chuck Schumer His Days as Senate Leader Are Up",
+          "description": "Vermont Senator Bernie Sanders has added his name to the growing list of liberal-minded lawmakers asking Chuck Schumer to hand over the reins of the Senate. Sanders told reporters Tuesday that he would not support Schumer’s bid for Senate majority leader in the new year. When asked by The Washington Times’s Lindsey McPherson if he would support Schumer even if the current leader runs unopposed, Sanders responded: “He’s not going to run unopposed, I don’t think.” A wave of Democratic voices opposing Schumer’s possible return atop the Senate emerged after the party won an overwhelming majority in Congress last week, rebuking the septuagenarian’s establishment politics. In the days since, Maryland Senator Chris Van Hollen has emerged as a potential alternative, indicating a rising interest in progressive leadership. Van Hollen rose as a leading progressive last year, when he travelled out of the country to visit his constituent Kilmar Ábrego García after he was illegally deported by the Trump administration to El Salvador’s notoriously lethal maximum security prison, CECOT. Whether or not Van Hollen will officially commit himself against Schumer remains to be seen, though the Marylander has already started to draft an opposition platform that could put pressure on Schumer’s politics. On Tuesday, Van Hollen declared that the U.S. cannot spend “a penny more” on the Iran War, daring Donald Trump to either stop funding the war or face the possibility of a government shutdown. So far, at least nine major politicos have either peeled away from Schumer outright or indicated an interest in a different Senate majority leader. They include: Michigan Senator-elect Abdul El-Sayed Connecticut Senator Richard Blumenthal Illinois Senator-elect Juliana Stratton Minnesota Senator-elect Peggy Flanagan Kansas Senator-elect Adam Hamilton Maine Senator-elect Troy Jackson New Hampshire Senator-elect Chris Pappas Texas Senator-elect James Talarico Another 14 senators or senators-elect have not yet committed as to whether or not they will support Schumer, according to an analysis published Monday by Primary Democrats. Altogether, that’s 23 Democrats—or nearly half of the at least 54 Democratic seats that will dominate the upper chamber come January. New York Representative Alexandria Ocasio-Cortez has also refused to support her home state senator, though the decision is ultimately up to the Senate.",
+          "sourceName": "The New Republic",
+          "url": "https://newrepublic.com/post/217844/bernie-sanders-warns-chuck-schumer-senate-leader",
+          "publishedAt": "2026-11-10T19:59:10.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "f89bf9c5eded46bd1e341090fd2c992dc7bd0587d60b2e287c2c7edad0c7a80d",
+          "title": "Local Republicans caught in Trump's crossfire in a high-stakes panic",
+          "description": "In analyzing a landslide midterm election, most of the focus has rightly been on the American South. However, there are lessons to be learned elsewhere. After Democrat Troy Jackson defeated Susan Collins in Maine, there will be no Republican senators from New England next year. In fact, no state in the region – Maine, New Hampshire, Vermont, Massachusetts, Rhode Island and Connecticut – will send any Republicans to the US Congress, either to the Senate or the House of Representatives. There is only one exception. Maine is sending former Governor Paul LePage to the House to represent its 2nd Congressional district. The Boston Globe called that fact “supremely ironic.” Though the midterms were a wholesale rebuke of the president and what he stands for, “LePage claims he was Donald Trump before there was Donald Trump. LePage likes to threaten people and routinely says outrageous, bigoted things. He and his hero are like peas and carrots.” New England and the South are inverse reflections. The South used to be home of the slavers. The Democrats were their primary vehicle. New England used to be home of the abolitionists. The Republicans were theirs. (The GOP arose from the ashes of the Whig Party to gain power with Abraham Lincoln’s victory in 1865.) Each region flipped over time as the country fought over the role of minority rights and freedoms in national politics, especially those of Black Americans. The South moved from blue to red. There were zero Democratic senators by 2015. New England moved from red to blue. There will be zero Republican senators by 2027, completing a process begun over 160 years ago. The bluing of New England didn’t stop at the federal level. While Arizona, Pennsylvania, Michigan, Wisconsin, Minnesota and Nevada saw their state governments flip from partial control to total control by the Democrats, here in Connecticut, for instance, the Democratic Party was already the majority. Thanks to Donald Trump, however, state and local Republicans are being driven to despair. Next year, the state Senate will have the largest Democratic majority in 140 years, the Register said. For the party, that’s more than at any time in state history. Of the 36 seats in the state Senate, either 32 or 33 will be Democrats (one election is pending). There will be either three or four GOP Senators. Meanwhile, the state House will have the biggest Democratic majority since 1975 – since Watergate. Of the 151 state House seats, as many as 118 will be Democrats. Connecticut Governor Ned Lamont did more than become the second to win three consecutive terms. He won with the largest margins by a Democrat since Watergate. His first margin was three points. His second, 13. His third, 18. You could argue that Ned Lamont has been touched by an angel. Every time he campaigned for governor, Donald Trump was in the background. Just 10 years ago the Connecticut Senate was tied, 18-18. In 2016, the state House had 79 Democrats and 72 Republicans (then out of a total of 150). What happened during that decade-plus? Trump happened. He destroyed the Connecticut GOP. Connecticut Republicans are going to be in the same pickle that Republicans in other states will be in – between a past chained to Trump and a hoped-for future unchained from him. One big problem is rightwing media and rightwing organizations. Despite Tuesday’s crushing defeat, they continue to punish Republicans office holders for disloyalty while making it impossible for them to distance themselves from the most unpopular president since Herbert Hoover. A leading Republican in Arizona called Turning Point USA, the group founded by the late demagogue Charlie Kirk, “a destructive force” that’s “driving us to extinction,” comparing it to a parasite that is slowly killing its host. A leading Republican in the New York State Assembly, after watching GOP-held offices turn blue and the number of US congresspeople erode from seven to six (out of 26), said that the New York Republican Party needs “an enema.” Of course, the main problem is Trump. The Republicans were routed in part by a Hispanic backlash against his murderous deportation program. Yet Friday, he promoted Stephen Miller, the architect of the purge. Meanwhile, the president is trying to hold his fracturing coalition together by threatening its component parts. In a memo last week to more than 3,000 rightwing groups, the White House attacked Republicans who blamed Trump for the midterm wipeout, adding that “we are monitoring statements, press releases, and media engagements from your organizations.” At some point you would expect self-preservation to kick in, and perhaps we are seeing something like that from Ron Johnson. Earlier this year, after the murders of Renee Good and Alex Pretti, he opposed Democratic efforts to put limits on ICE. After the midterms, however, the senator from Wisconsin said there is corruption “within the Trump administration.” He didn’t call out Trump, only unnamed White House aides allegedly catering to corporate interests, not the people’s interests. Johnson is up for reelection in 2028. He said his party must “embrace the enduring principles of our founders, limited government.” If Johnson is going to win reelection in a state that’s gone totally Democratic, he has to convince Wisconsinites that he was never the authoritarian he really did make himself out to be, but instead a “constitutional conservative” the whole time. To do that, however, he has to walk the same tightrope every Republican in every blue state must walk. He must persuade Republican voters that he’s still loyal to Trump and everyone else that he doesn’t carry his stink. The midterms completed a long process in New England. We used to be solid red. One hundred and sixty-one years later, we are solid blue (with one “supremely ironic” exception). Meanwhile, the midterms seem to have begun a new phase in the politics of the south, where there has not been a Democratic US senator in eight years. Now there’s going to four (presuming Mississippi goes Scott Colom’s way). Trump broke the Solid South. Meanwhile, New England is closed. Other regions are closing. In 2012, Barack Obama talked about a future in which the fever that gripped the GOP after his 2008 election would break. I don’t want to get ahead of myself, but maybe it’s breaking.",
+          "sourceName": "Alternet.org",
+          "url": "https://www.alternet.org/alternet-exclusives/trump-crossfire/",
+          "publishedAt": "2026-11-10T19:36:49.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "b0ec732fd7bcca8d6daf3a907b293b4035580b94f7e30b2366e64fd49fa1afd2",
+          "title": "Ejected GOP senator teases ‘suspense’ as Trump nominee’s fate hangs in the balance",
+          "description": "Donald Trump’s pick to replace Dr. Marty Makary as head of the Food and Drug Administration (FDA) could end up a casualty of Republican anger over Trump’s role in the GOP’s midterm massacre. Heidi Overton’s path to confirmation was already narrow, and the Washington Sun reported it’s getting narrower by the day. Her biggest problem is the Senate Health, Education, Labor and Pensions Committee, where she needs every Republican vote. Two of those Republicans, Chair Bill Cassidy (R-LA) and Sen. Susan Collins (R-ME), are lame ducks who just lost their seats and may feel little obligation to do Trump favors, the Sun reported. Cassidy offered no hints. “You gotta wait, man, suspense,” he told reporters Monday. Pressed on whether he had reservations about Overton, he replied, “No comment.” Cassidy, a doctor and vaccine supporter, was knocked out in his primary by Trump-endorsed Julia Letlow. He has warned before that he might block Trump’s health nominees over the administration’s vaccine policies, though he has yet to vote against one. Collins lost her bid for a sixth term to Democrat Troy Jackson last week and has refused to say how she will vote. Abortion could be a sticking point, the report notes. At her confirmation hearing, Overton avoided committing to a position on the FDA’s review of the abortion pill mifepristone. Collins, who supports abortion rights, cited Attorney General Todd Blanche’s stance on abortion as one reason she voted against him. Time is also against Overton. Republicans are trying to squeeze dozens of nominees through before Democrats take control of the Senate in January. Add to that, the Sun reported, \"Overton lost an advocate in the White House with the departure of former chief of staff Susie Wiles.\" If she isn’t confirmed, the FDA’s leadership will stay in limbo. Kyle Diamantas has been acting commissioner since Makary was forced out last spring. According to a senior administration official, the White House would then put Sara Brenner, a former top FDA deputy who now leads the White House pandemic preparedness office, in charge. The report notes that Trump reportedly had first asked Diamantas to take the job permanently, but he declined, saying \"he wants to leave by year’s end\" to spend more time with his young family.",
+          "sourceName": "Raw Story",
+          "url": "https://www.rawstory.com/overton-fda-in-trouble/",
+          "publishedAt": "2026-11-10T19:35:22.000Z",
           "sentiment": 0
         }
       ],
@@ -1550,37 +1640,100 @@
       "socialSentiment": -0.008333333333333331,
       "youtubeSentiment": null,
       "mentions": {
-        "news": 3,
+        "news": 10,
         "social": 12,
         "youtube": 0,
-        "total": 15
+        "total": 22
       },
       "news": [
         {
-          "id": "2973ae700d9e379de08d3b1766c8d454d6ffc386a2ca40a75e2e79bed9f4e3d1",
-          "title": "The race for Maine attorney general is down to a state lawmaker and Yarmouth lawyer",
-          "description": "Sen. Anne Carney, D-Cape Elizabeth, and Yarmouth lawyer Tim Shannon are squaring off in December.",
+          "id": "f3dab0ef39b7780aadcbb6ccddf506525e599aacc13f41e4e195cbca03c58bd1",
+          "title": "Meet the 22 people helping Hannah Pingree choose her government",
+          "description": "They span business, labor, tribal leaders and a former Republican senator, but their political giving is overwhelmingly Democratic.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/11/11/politics/state-politics/panel-helping-hannah-pingree-choose-her-government-joam40zk0w/",
+          "publishedAt": "2026-11-11T06:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "efa93fc1ca6fe0dcf59931875c52271fb116438112acdd3ca821491a36e6489e",
+          "title": "Meet the 22 people helping Hannah Pingree choose her government",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/4999022462014-meet-the-22-people-helping-hannah-pingree-choose-her-government",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "fd38753533c9d906290634156a72026dd897dd89675b1ff64615e03f3a4f086c",
+          "title": "Governor-Elect Hannah Pingree introduces bipartisan transition team",
+          "description": null,
+          "sourceName": "Newsbreak",
+          "url": "https://www.newsbreak.com/news/4998558723259-governor-elect-hannah-pingree-introduces-bipartisan-transition-team",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c1aa20fcb3e643af1fc311825743c3d84f91c3565f7d7a139d36605638a5c774",
+          "title": "Hannah Pingree announces 22-person transition committee",
+          "description": "The 22-person committee brings together volunteers from across Maine to help find the people who will lead state agencies and serve in her cabinet.",
+          "sourceName": "Wabi",
+          "url": "https://www.wabi.tv/2026/11/10/hannah-pingree-announces-22-person-transition-committee/",
+          "publishedAt": "2026-11-10T23:06:22.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "be820188dfdfb3d2fb473c7acbe8a51a497b9594a3c8a11adf5adb9dc1310918",
+          "title": "Gov-elect Pingree announces 22-member transition committee",
+          "description": "Like other governors-elect before her, Democrat Hannah Pingree will rely on a group of individuals from the public and private sector to advise her on Cabinet appointments.",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/politics/2026-11-10/gov-elect-pingree-announces-22-member-transition-committee",
+          "publishedAt": "2026-11-10T22:37:11.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "966a4b5bd3f87fd41466af4de298f4ed01c90ef389c40b449b81759e145169d3",
+          "title": "Hannah Pingree says Jay shouldn’t be data center ‘testing ground’ as project restarts",
+          "description": "The governor elect's comment comes a day after the owner of the former mill submitted permit applications to Maine regulators.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/11/10/mainefocus/mainefocus-environment/hannah-pingree-jay-mill-data-center-testing-ground/",
+          "publishedAt": "2026-11-10T20:11:44.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "dcd263fe0b61db113bde4b3c2cef82e34040e94b421a79d275b56e1fd5bc5257",
+          "title": "Hannah Pingree announces more than a dozen key transition leaders",
+          "description": "Her transition team will be tasked will filling important posts that will set the direction of her first term.",
           "sourceName": "The Portland Press Herald",
-          "url": "https://www.pressherald.com/2026/11/09/the-race-for-maine-attorney-general-is-down-to-a-state-lawmaker-and-yarmouth-lawyer/",
-          "publishedAt": "2026-11-09T22:14:12.000Z",
+          "url": "https://www.pressherald.com/2026/11/10/hannah-pingree-announces-more-than-a-dozen-key-transition-leaders/",
+          "publishedAt": "2026-11-10T20:07:51.000Z",
           "sentiment": 0
         },
         {
-          "id": "0729ac9153fe2969def88f48fc2e52fd214e713ed44c432707704c6ee52b2be6",
-          "title": "The race for Maine attorney general is down to a state lawmaker and Yarmouth lawyer",
-          "description": "Sen. Anne Carney, D-Cape Elizabeth, and Yarmouth lawyer Tim Shannon are squaring off in December.",
-          "sourceName": "Central Maine News",
-          "url": "https://www.centralmaine.com/2026/11/09/the-race-for-maine-attorney-general-is-down-to-a-state-lawmaker-and-yarmouth-lawyer/",
-          "publishedAt": "2026-11-09T22:14:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0dca8aa938802469bfd0827cb99c3cb0b6a6a2c493533f932c4be5d8766b6c5b",
-          "title": "The race for Maine attorney general is down to a state lawmaker and Yarmouth lawyer",
-          "description": "Sen. Anne Carney, D-Cape Elizabeth, and Yarmouth lawyer Tim Shannon are squaring off in December.",
+          "id": "ff292618be2ce26a123274f544f7e98ec21ed82dd84e4601e6dad9b023b1e288",
+          "title": "Hannah Pingree announces more than a dozen key transition leaders",
+          "description": "Her transition team will be tasked with filling important posts that will set the direction of her first term.",
           "sourceName": "Lewiston Sun Journal",
-          "url": "https://www.sunjournal.com/2026/11/09/the-race-for-maine-attorney-general-is-down-to-a-state-lawmaker-and-yarmouth-lawyer/",
-          "publishedAt": "2026-11-09T22:14:12.000Z",
+          "url": "https://www.sunjournal.com/2026/11/10/hannah-pingree-announces-more-than-a-dozen-key-transition-leaders/",
+          "publishedAt": "2026-11-10T20:07:51.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "b95ccfab5c355588c9a2cf3d792bf8e0ace5990d86e684dc53627692fcf654d3",
+          "title": "Hannah Pingree announces more than a dozen key transition leaders",
+          "description": "Her transition team will be tasked with filling important posts that will set the direction of her first term.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/11/10/hannah-pingree-announces-more-than-a-dozen-key-transition-leaders/",
+          "publishedAt": "2026-11-10T20:07:51.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "2d837ce844253d463c2ad218e8e5f3c2f2c61a9e28a51705dcf468d2e625de39",
+          "title": "Maine Governor-elect Hannah Pingree commences hiring process for top jobs in her new administration",
+          "description": "Pingree introduces transition team that will be screening resumes and interviewing candidates for her cabinet and key staff.",
+          "sourceName": "Newscentermaine",
+          "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/maine-governor-elect-hannah-pingree-commences-hiring-process-for-top-jobs-in-her-new-administration/97-24e4ba78-f7a8-46e8-98e0-636e5e6540f1",
+          "publishedAt": "2026-11-10T20:02:07.000Z",
           "sentiment": 0
         }
       ],
@@ -1687,106 +1840,61 @@
     {
       "id": "paul-lepage",
       "name": "Paul LePage",
-      "overallSentiment": -0.32,
-      "newsSentiment": 0.09,
+      "overallSentiment": -0.33666666666666667,
+      "newsSentiment": 0.039999999999999994,
       "socialSentiment": -0.55,
       "youtubeSentiment": -0.5,
       "mentions": {
-        "news": 10,
+        "news": 5,
         "social": 10,
         "youtube": 4,
-        "total": 24
+        "total": 19
       },
       "news": [
         {
-          "id": "55f65184d918271933c78612db6b87cbf7159be23de1e10dd4779adfb0ef5f45",
-          "title": "Ranked-choice voting tabulation begins for CD2 race",
-          "description": "AUGUSTA -- The highly detailed ranked-choice tabulation process for the CD-2 race began this morning. After election night, republican and former governor",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4996682683559-ranked-choice-voting-tabulation-begins-for-cd2-race",
-          "publishedAt": "2026-11-10T00:00:00.000Z",
+          "id": "d51d677334383b90770797d99b672f8d24f60cb73eda68837d9b611b2d714a9c",
+          "title": "Why it’s taking so long to count midterm Election Day results — and when we should know 16 uncalled races",
+          "description": "A week after the polls closed, 16 US congressional races remain without a winner — held up by recounts, late-arriving mail, ranked-choice arithmetic and several thousand provisional ballots of the …",
+          "sourceName": "Headtopics",
+          "url": "https://headtopics.com/news/why-it-s-taking-so-long-to-count-midterm-election-day-89735888",
+          "publishedAt": "2026-11-10T21:57:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "2812b62bdc8426dda6188795963705fe0f043cdaa5251402633da360391bde56",
-          "title": "Several midterm races still haven't been called. Here's where things stand right now.",
-          "description": "The dust has almost settled on the Democratic Party's 2026 midterm landslide — almost. It's clear that Democrats won sweeping victories in the U.S. House, Senate and statehouses nationwide. But some key races remain too close to call, including Senate brawls in deep-red Mississippi and Alaska; Rep. Lauren Boebert's reelection battle in Colorado; and other nail-biter House contests across the South. Here's the latest on how many seats Democrats have won so far — and where things stand in all of the unresolved races. How many Senate seats did Democrats win? Democrats came into the midterms needing a net gain of four seats to win back the Senate. To do that, they had to defend a handful of potentially vulnerable swing-state seats while also flipping at least a few seats in historically red states. That's exactly what happened. Republican efforts to flip blue seats in Michigan, Georgia, Minnesota and New Hampshire all came up well short. Meanwhile, Democrats secured victories to flip seven GOP-held seats in Maine, Texas, South Carolina, Ohio, North Carolina, Iowa and Kansas. Only two incumbent Republican senators in races that drew significant attention were able to win reelection: Florida's Ashley Moody and Nebraska's Pete Ricketts. As it stands, Democrats will enter 2027 with at least 54 seats in the Senate. They have already gained seven seats to give themselves, at minimum, a four-seat majority. Their majority could grow to six if the two remaining undecided races in Alaska and Mississippi go their way. Where things stand in the undecided Senate races Both races are extremely close, with no clear indication of when they might be decided. In Mississippi, Democrat Scott Colom's lead over Republican incumbent Cindy Hyde-Smith had grown to 2,536 votes as of Monday evening, according to the Associated Press. Outstanding absentee ballots in the race must be received by Tuesday in order to be counted, according to Mississippi state law. Colom's lead — which stood at just 65 votes on Election Day — has widened gradually in the days since. Even though 97% of the vote is in, AP has yet to call the race because the gap between Colom and Hyde-Smith remains narrow — just 0.27% of all ballots cast. Alaska's ranked choice voting system means it could take significantly longer for a winner to be declared. As it stands, Democrat Mary Peltola holds a lead of 637 votes over Republican incumbent Dan Sullivan, with 74% of ballots counted. The state is expected to have counted nearly all ballots by Nov. 13, with the last remaining votes tallied by Nov. 18. The wait for a final result could become extended if neither Peltola nor Sullivan receives more than 50% of the total first-choice votes. That would trigger a count of ranked choice votes to determine the winner. Under Alaska law, the ranked choice tally cannot begin until Nov. 18, which means a winner wouldn't be declared until two full weeks after Election Day. How many House seats did Democrats win? So far, Democrats have won 254 U.S. House seats — far more than the 218 they needed for a majority. That includes 44 red-to-blue flips. Democrats' 13-point victory in the House popular vote (so far) has been the largest in any midterm since 1974. Where things stand in the undecided House races On Monday afternoon, incumbent GOP Rep. Mario Diaz-Balart of western Miami defeated Democratic challenger Nicole Locklin by about 1,700 votes in Florida's 26th Congressional District. Another 20 U.S. House races remain unresolved. Two of them are in Louisiana, which holds open, nonpartisan \"jungle primaries\" on Election Day, then sends the top two finishers to a Dec. 12 runoff if no one gets a majority of the vote. One Democrat and one Republican will now go head-to-head next month in Louisiana's 5th and 6th Congressional Districts. In California's 40th Congressional District, two Republican incumbents, Ken Calvert and Young Kim, are running against each other; in California's 4th and 7th Districts, only Democrats are competing. Officials are still counting ballots in all three races. California also has a nonpartisan jungle-primary system where members of the same party can advance to the general election. Of the remaining 15 races, Democrats lead in five. In Colorado's 4th Congressional District — long considered one of the state's safest Republican seats — GOP firebrand Lauren Boebert trails Democrat Eileen Laubacher, a retired rear admiral in the Navy, by more than 3,000 votes with just 2% of the vote left to count. After a close 2022 reelection fight in her previous district, Boebert switched to the 4th District for her 2024 campaign and won by about 11 percentage points. Colorado counties have until Nov. 13 to count ballots and upload final results. Right now, Laubacher's lead is too big to trigger an automatic recount. Democrats' next-largest lead is in central Florida's 9th Congressional District, where incumbent Democrat Darren Soto — who was targeted by GOP redistricting efforts — leads Republican challenger Dan Green by roughly 1,500 votes with more than 99% of the vote counted. The state of Florida has announced there will not be a recount in the 9th District because Soto's lead falls outside recount requirements. Soto is expected to win. Democrats' other leads are in Tennessee's 4th Congressional District, Minnesota's 1st Congressional District and North Carolina's 5th Congressional District. The margins in these races are in the 100- to 300-vote range. A recount is likely in Minnesota. Republicans lead in the other 10 unresolved races. Two of the closest are in Florida. Republican Ryan Elijah leads Democrat Bale Dalton by about 1,600 votes in Florida's 7th Congressional District — enough to avoid a recount under Sunshine State law. Meanwhile, Miami-Dade County election officials began a machine recount Monday in Florida's 27th Congressional District, where Republican Rep. María Elvira Salazar leads Democratic challenger Eliott Rodriguez by 1,090 votes, or 0.44 percentage points. That's within Florida's automatic half-point threshold. Nearly all of the other uncalled races where Republicans lead feature incumbent GOP lawmakers fending off strong challenges in reliably red areas: North Carolina's 3rd, 7th and 10th Districts; South Carolina's 2nd District; California's 23rd District; Washington's 5th District and Alaska's only congressional district. The Western states are still waiting on big batches of mail ballots; the Eastern states have mostly finished counting. Republicans' only remaining pickup opportunity is Maine's 2nd Congressional District, where a conservative Democrat retired — and where former GOP Gov. Paul LePage now leads Matt Dunlap, the progressive state auditor, by more than 5,000 votes with just 2% left to count. A ranked-choice vote count will continue in the state despite Dunlap conceding to LePage on Nov. 5. How many governorships did Democrats win? Republican governors have outnumbered their Democratic counterparts for the last 15 years straight (and for 26 of the last 30 years overall). That's given Republicans more opportunities to experiment with new policy ideas, approve congressional maps, influence election procedures, fill Senate vacancies and build executive experience. But this year, Democrats have reversed the \"governor gap,\" flipping five governorships in Iowa, Texas, Ohio, Nevada and Georgia to bring their total to 29 — the party's first gubernatorial majority since 2011. Where things stand in the undecided governor's race Kansas is anything but a blue state; since 1940, it has voted Republican in every presidential election but one — Lyndon B. Johnson's 1964 landslide. But the Sunflower State has elected two Democratic women governors in recent years: Kathleen Sebelius (2003-2009) and term-limited incumbent Laura Kelly (2019-2027). State Sen. Cindy Holscher is seeking to become the third. Holscher leads Republican Ty Masterson, the president of the state Senate, by more than 7,500 votes with nearly all of the ballots counted. Holscher declared victory on Nov. 4, saying that \"the people of Kansas made their voices heard, and I'm deeply honored by the trust Kansans placed in me to serve as your next governor.\" But the race won't be officially over until all 105 Kansas counties complete a legally mandated close-race audit. Masterson said last week that he wouldn't concede before the audit was done. A source close to the Republican senator told the Kansas City Star that Masterson \"did not plan to pursue an additional recount and would accept the results if Holscher's narrow win was finalized.\" Counties will certify their results on Nov. 15. How many state legislatures did Democrats win? Democrats' gains were also seen at the state level. They flipped more than 500 state legislative seats across the country and turned a total of 12 legislative chambers blue. That includes three states where they flipped both chambers: Arizona, New Hampshire and Wisconsin. After Election Day's results, Democrats will control the House, Senate and governorship in Arizona for the first time since 1966. Democrats also secured a \"trifecta\" in Wisconsin. They'll hold both legislative chambers in New Hampshire, but the governorship in the Granite State will remain in Republican hands. Democrats regained trifectas in Minnesota, Michigan and Pennsylvania by clinching majorities in the lone GOP-led chamber in their states. They flipped a single chamber in Georgia, North Carolina and Texas, ensuring that Democratic governors in those states won't face unified Republican opposition within their state legislatures. Where things stand in the undecided state legislative races As of Monday evening, only three state legislative chambers — the North Carolina Senate and both chambers in Alaska — remained undecided, according to the AP. This article originally appeared on Yahoo News at https://www.yahoo.com/news/politics/article/lots-of-2026-midterm-races-havent-been-called-yet-heres-where-things-stand-right-now-235850171.html",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/article/lots-of-2026-midterm-races-havent-been-called-yet-heres-where-things-stand-right-now-235850171.html",
-          "publishedAt": "2026-11-09T23:58:50.000Z",
+          "id": "bc2ac57e471beb308f92d9845b76ba02b8ab60907aa8fc8a5792099f7594abee",
+          "title": "Why it’s taking so long to count midterm Election Day results — and when we should know 16 uncalled races",
+          "description": "A week after the midterm elections, 16 House and Senate races remain uncalled as states process provisional ballots, recounts, and mail-in votes.",
+          "sourceName": "New York Post",
+          "url": "https://nypost.com/2026/11/10/us-news/why-its-taking-so-long-to-count-midterm-election-day-results-and-when-we-should-know-16-uncalled-races/",
+          "publishedAt": "2026-11-10T21:48:34.000Z",
           "sentiment": 0
         },
         {
-          "id": "6720c790ad04bc48b121c51ed8741311b6a96f86937fdcea410aed626242277e",
-          "title": "Lots of 2026 midterm races haven’t been called yet. Here’s where things stand right now.",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/lots-of-2026-midterm-races-havent-been-called-yet-heres-where-things-stand-right-now-E1256A22-3B31-5D61-A06D-5807441B375D",
-          "publishedAt": "2026-11-09T23:58:50.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "ce6b542ae07349624f111b118bb2a677a36eda82b84af23a33e49f32abcd11be",
-          "title": "Ranked choice voting counting process underway in Augusta",
-          "description": "Work is underway in Augusta to verify votes cast across Maine’s 2nd Congressional District.",
-          "sourceName": "Wabi",
-          "url": "https://www.wabi.tv/2026/11/09/ranked-choice-voting-counting-process-underway-augusta/",
-          "publishedAt": "2026-11-09T23:53:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8ac0442ed7024d2df0ce8af20c59fce2f7651ad60aae2bb886208d6279f6e48b",
-          "title": "Paul LePage lands in Washington, pitching himself as a dealmaker",
-          "description": "LePage joined incoming members of Congress, including Democratic Sen.-elect Troy Jackson, for orientation in Washington on Monday.",
+          "id": "aa4fffce3fe83a816eb81ae832ea4e9d39ee90f068bcce73103ee52bb277ba67",
+          "title": "Ellsworth City Council recount delayed by Maine’s 2nd District race ranked-choice runoff",
+          "description": "The state ballots are needed for the recount to make sure no municipal ballots were misplaced among them.",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/09/politics/washington/paul-lepage-washington-dealmaker/",
-          "publishedAt": "2026-11-09T22:02:06.000Z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "7cb156615540c388c463868e3c63a251855dd53f973604414d8cd77bc9ad9b40",
-          "title": "Ranked-choice voting tabulations underway in Maine's 2nd District race despite Dunlap concession",
-          "description": "Republican Paul LePage narrowly missed the majority needed to win outright, triggering a state-mandated ranked-choice voting count.",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/politics/elections/ranked-choice-voting-tabulations-underway-in-maines-2nd-district-race-despite-dunlap-concession/97-ab707784-eaf4-4d22-96f1-8a12073800fe",
-          "publishedAt": "2026-11-09T20:00:32.000Z",
-          "sentiment": 0.2
-        },
-        {
-          "id": "603653f6c9417ebf7ab08353829ceed21c2e4ba99acdc73be66a7370a30ac3d0",
-          "title": "Arizona Republican holds House seat, surviving re-election scare",
-          "description": "Republican Rep. Eli Crane thanked rural Arizonans and vowed to fight the status quo in Congress after defeating Jonathan Nez in their Arizona rematch.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/arizona-republican-holds-house-seat-surviving-re-election-89699914",
-          "publishedAt": "2026-11-09T19:59:00.000Z",
+          "url": "https://www.bangordailynews.com/2026/11/10/hancock/hancock-government/ellsworth-city-council-recount-delayed-2nd-district-race-ranked-choice-runoff/",
+          "publishedAt": "2026-11-10T21:22:14.000Z",
           "sentiment": 0
         },
         {
-          "id": "18e1b0d7c445bd09177d747aca97ad9610c87ad268dbcae75bddcc143e139e20",
-          "title": "Schumer's grip on power slips as Dems begin to revolt against him, eye new leadership",
-          "description": "Chuck Schumer says he expects no challenge for Senate Democratic leader, but newcomers and Chris Van Hollen are reportedly mulling alternatives.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/schumer-s-grip-on-power-slips-as-dems-begin-to-revolt-89699895",
-          "publishedAt": "2026-11-09T19:58:00.000Z",
-          "sentiment": 0
+          "id": "b84c4b73f8fbf9355e6ffe8a141b75c7228a65aedb7fba051d148a5e8e4c77a7",
+          "title": "Paul LePage says rolling back Canadian tariffs is a priority",
+          "description": "The former Republican governor, who is expected to win the 2nd District seat, hopes to work with President Donald Trump to ease the levies. That's an early break from the stance held by outgoing Democratic U.S. Rep. Jared Golden, who largely supported the president's strategy.",
+          "sourceName": "Maine Public",
+          "url": "https://www.mainepublic.org/politics/2026-11-10/paul-lepage-says-rolling-back-canadian-tariffs-is-a-priority",
+          "publishedAt": "2026-11-10T21:06:27.000Z",
+          "sentiment": 0.3
         },
         {
-          "id": "46bbf86595b54f6a7293dba50aab6583843cceb8b4adf41e3d76500d01bfdfe4",
-          "title": "White House doubles down after Trump angers base by floating illegal alien deal with Dems",
-          "description": "Trump signaled willingness to work a deal for illegal immigrants who have lived in the U.S. for over a decade, drawing fierce amnesty backlash.",
-          "sourceName": "Headtopics",
-          "url": "https://headtopics.com/news/white-house-doubles-down-after-trump-angers-base-by-89699547",
-          "publishedAt": "2026-11-09T19:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b1b01085428f6caf85f47d410c72b453d17a59cfd1d83ab73af24d044609cc4d",
-          "title": "Gaza-born Democratic Socialist launches primary bid against Sen John Fetterman",
-          "description": "Democratic Socialists of America member Ahmed Moor launched a Pennsylvania primary challenge against Sen. John Fetterman over Israel support.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/gaza-born-democratic-socialist-launches-primary-bid-against-89699276",
-          "publishedAt": "2026-11-09T19:29:00.000Z",
-          "sentiment": 0
+          "id": "fcc1df071b35d57b5785383807cb2a0241e583267b860c594db43e5ffbc1e35b",
+          "title": "Local Republicans caught in Trump's crossfire in a high-stakes panic",
+          "description": "In analyzing a landslide midterm election, most of the focus has rightly been on the American South. However, there are lessons to be learned elsewhere. After Democrat Troy Jackson defeated Susan Collins in Maine, there will be no Republican senators from New England next year. In fact, no state in the region – Maine, New Hampshire, Vermont, Massachusetts, Rhode Island and Connecticut – will send any Republicans to the US Congress, either to the Senate or the House of Representatives. There is only one exception. Maine is sending former Governor Paul LePage to the House to represent its 2nd Congressional district. The Boston Globe called that fact “supremely ironic.” Though the midterms were a wholesale rebuke of the president and what he stands for, “LePage claims he was Donald Trump before there was Donald Trump. LePage likes to threaten people and routinely says outrageous, bigoted things. He and his hero are like peas and carrots.” New England and the South are inverse reflections. The South used to be home of the slavers. The Democrats were their primary vehicle. New England used to be home of the abolitionists. The Republicans were theirs. (The GOP arose from the ashes of the Whig Party to gain power with Abraham Lincoln’s victory in 1865.) Each region flipped over time as the country fought over the role of minority rights and freedoms in national politics, especially those of Black Americans. The South moved from blue to red. There were zero Democratic senators by 2015. New England moved from red to blue. There will be zero Republican senators by 2027, completing a process begun over 160 years ago. The bluing of New England didn’t stop at the federal level. While Arizona, Pennsylvania, Michigan, Wisconsin, Minnesota and Nevada saw their state governments flip from partial control to total control by the Democrats, here in Connecticut, for instance, the Democratic Party was already the majority. Thanks to Donald Trump, however, state and local Republicans are being driven to despair. Next year, the state Senate will have the largest Democratic majority in 140 years, the Register said. For the party, that’s more than at any time in state history. Of the 36 seats in the state Senate, either 32 or 33 will be Democrats (one election is pending). There will be either three or four GOP Senators. Meanwhile, the state House will have the biggest Democratic majority since 1975 – since Watergate. Of the 151 state House seats, as many as 118 will be Democrats. Connecticut Governor Ned Lamont did more than become the second to win three consecutive terms. He won with the largest margins by a Democrat since Watergate. His first margin was three points. His second, 13. His third, 18. You could argue that Ned Lamont has been touched by an angel. Every time he campaigned for governor, Donald Trump was in the background. Just 10 years ago the Connecticut Senate was tied, 18-18. In 2016, the state House had 79 Democrats and 72 Republicans (then out of a total of 150). What happened during that decade-plus? Trump happened. He destroyed the Connecticut GOP. Connecticut Republicans are going to be in the same pickle that Republicans in other states will be in – between a past chained to Trump and a hoped-for future unchained from him. One big problem is rightwing media and rightwing organizations. Despite Tuesday’s crushing defeat, they continue to punish Republicans office holders for disloyalty while making it impossible for them to distance themselves from the most unpopular president since Herbert Hoover. A leading Republican in Arizona called Turning Point USA, the group founded by the late demagogue Charlie Kirk, “a destructive force” that’s “driving us to extinction,” comparing it to a parasite that is slowly killing its host. A leading Republican in the New York State Assembly, after watching GOP-held offices turn blue and the number of US congresspeople erode from seven to six (out of 26), said that the New York Republican Party needs “an enema.” Of course, the main problem is Trump. The Republicans were routed in part by a Hispanic backlash against his murderous deportation program. Yet Friday, he promoted Stephen Miller, the architect of the purge. Meanwhile, the president is trying to hold his fracturing coalition together by threatening its component parts. In a memo last week to more than 3,000 rightwing groups, the White House attacked Republicans who blamed Trump for the midterm wipeout, adding that “we are monitoring statements, press releases, and media engagements from your organizations.” At some point you would expect self-preservation to kick in, and perhaps we are seeing something like that from Ron Johnson. Earlier this year, after the murders of Renee Good and Alex Pretti, he opposed Democratic efforts to put limits on ICE. After the midterms, however, the senator from Wisconsin said there is corruption “within the Trump administration.” He didn’t call out Trump, only unnamed White House aides allegedly catering to corporate interests, not the people’s interests. Johnson is up for reelection in 2028. He said his party must “embrace the enduring principles of our founders, limited government.” If Johnson is going to win reelection in a state that’s gone totally Democratic, he has to convince Wisconsinites that he was never the authoritarian he really did make himself out to be, but instead a “constitutional conservative” the whole time. To do that, however, he has to walk the same tightrope every Republican in every blue state must walk. He must persuade Republican voters that he’s still loyal to Trump and everyone else that he doesn’t carry his stink. The midterms completed a long process in New England. We used to be solid red. One hundred and sixty-one years later, we are solid blue (with one “supremely ironic” exception). Meanwhile, the midterms seem to have begun a new phase in the politics of the south, where there has not been a Democratic US senator in eight years. Now there’s going to four (presuming Mississippi goes Scott Colom’s way). Trump broke the Solid South. Meanwhile, New England is closed. Other regions are closing. In 2012, Barack Obama talked about a future in which the fever that gripped the GOP after his 2008 election would break. I don’t want to get ahead of myself, but maybe it’s breaking.",
+          "sourceName": "Alternet.org",
+          "url": "https://www.alternet.org/alternet-exclusives/trump-crossfire/",
+          "publishedAt": "2026-11-10T19:36:49.000Z",
+          "sentiment": -0.1
         }
       ],
       "social": [
@@ -1917,52 +2025,88 @@
     {
       "id": "chellie-pingree",
       "name": "Chellie Pingree",
-      "overallSentiment": -0.0627875,
-      "newsSentiment": 0,
+      "overallSentiment": -0.0752875,
+      "newsSentiment": -0.025000000000000005,
       "socialSentiment": -0.125575,
       "youtubeSentiment": null,
       "mentions": {
-        "news": 4,
+        "news": 8,
         "social": 5,
         "youtube": 0,
-        "total": 9
+        "total": 13
       },
       "news": [
         {
-          "id": "190dbe9568fe1675d94898fad2f98a67e59c4cddcb4120f12225f23bd6f7fdd1",
-          "title": "Chellie Pingree reports increased ICE presence in Scarborough",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/news/4996517426678-chellie-pingree-reports-increased-ice-presence-in-scarborough",
-          "publishedAt": "2026-11-10T00:00:00.000Z",
+          "id": "caa8fab31260693881074e680a89eff116fbba0d709830df6725b8a3e562f10d",
+          "title": "Pingree, Golden vote with fellow Democrats as House Republicans stifle Hegseth impeachment",
+          "description": "Republicans effectively halted the impeachment push by voting to send it back to committee Tuesday, but with Democrats set to take control of the House and Senate next year, it may only delay the effort.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/11/10/pingree-golden-vote-with-fellow-democrats-as-house-republicans-stifle-hegseth-impeachment/",
+          "publishedAt": "2026-11-11T01:36:15.000Z",
+          "sentiment": -0.1
+        },
+        {
+          "id": "d7968be7b00d25158f96f3768e5343aeee56c053907c7ce6b5edac924fc08a20",
+          "title": "Pingree, Golden vote with fellow Democrats as House Republicans stifle Hegseth impeachment",
+          "description": "Republicans effectively halted the impeachment push by voting to send it back to committee Tuesday, but with Democrats set to take control of the House and Senate next year, it may only delay the effort.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/11/10/pingree-golden-vote-with-fellow-democrats-as-house-republicans-stifle-hegseth-impeachment/",
+          "publishedAt": "2026-11-11T01:36:15.000Z",
+          "sentiment": -0.1
+        },
+        {
+          "id": "eb6aedc82f1f620f60ffbe25a411bc797e04e0b245b25b780502bb949f48cdfc",
+          "title": "Pingree, Golden vote with fellow Democrats as House Republicans stifle Hegseth impeachment",
+          "description": "Republicans effectively halted the impeachment push by voting to send it back to committee Tuesday, but with Democrats set to take control of the House and Senate next year, it may only delay the effort.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/11/10/pingree-golden-vote-with-fellow-democrats-as-house-republicans-stifle-hegseth-impeachment/",
+          "publishedAt": "2026-11-11T01:36:15.000Z",
+          "sentiment": -0.1
+        },
+        {
+          "id": "ab651bb09c2b07057f96d55660b9cf830b2b048b2a6f6624e280e6a05c4ef5ef",
+          "title": "Maine to get another $190 million through federal rural health program",
+          "description": "The state will receive roughly $360,000 more than it did in the first year of the Rural Health Transformation Program, Sen. Susan Collins announced Tuesday.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/11/10/maine-to-get-another-190-million-through-federal-rural-health-program/",
+          "publishedAt": "2026-11-10T23:31:47.000Z",
           "sentiment": 0
         },
         {
-          "id": "88c61f48957fece209c8dfd578a7b5a9bfc75e5451e186cff3c730f92f135ea8",
-          "title": "Paul LePage lands in Washington, pitching himself as a dealmaker",
-          "description": "LePage joined incoming members of Congress, including Democratic Sen.-elect Troy Jackson, for orientation in Washington on Monday.",
+          "id": "db60f52d275e024e687551b1ebfd76df6f1334faee425a87d9c3fcb0527cf120",
+          "title": "Maine to get another $190 million through federal rural health program",
+          "description": "The state will receive roughly $360,000 more than it did in the first year of the Rural Health Transformation Program, Sen. Susan Collins announced Tuesday.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/11/10/maine-to-get-another-190-million-through-federal-rural-health-program/",
+          "publishedAt": "2026-11-10T23:31:47.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "12aa96582de7ea4c9198337f61e55d1a45d5c8039e4e00a4d0c0e01bf55dbc50",
+          "title": "Maine to get another $190 million through federal rural health program",
+          "description": "The state will receive roughly $360,000 more than it did in the first year of the Rural Health Transformation Program, Sen. Susan Collins announced Tuesday.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/11/10/maine-to-get-another-190-million-through-federal-rural-health-program/",
+          "publishedAt": "2026-11-10T23:31:47.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c90a4f9a1fe02d08491608130e0f186426a5101acac06a84d1dca1bca922f444",
+          "title": "Jared Golden hasn’t decided how he’ll vote on Pete Hegseth impeachment",
+          "description": "Golden said he will judge each of the eight charges on its own merits as the House takes a procedural vote Tuesday evening.",
           "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/09/politics/washington/paul-lepage-washington-dealmaker/",
-          "publishedAt": "2026-11-09T22:02:06.000Z",
+          "url": "https://www.bangordailynews.com/2026/11/10/politics/washington/jared-golden-undecided-pete-hegseth-impeachment-vote/",
+          "publishedAt": "2026-11-10T21:33:11.000Z",
           "sentiment": 0
         },
         {
-          "id": "866b34a7f5c5b2dd8ef1dc9d8cedc60f506cff0893371e99c616a2819e525e8b",
-          "title": "Rep. Chellie Pingree says ICE has added personnel in Scarborough, reportedly for security",
-          "description": null,
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/immigration/2026-11-09/rep-chellie-pingree-says-ice-has-added-personnel-in-scarborough-reportedly-for-security",
-          "publishedAt": "2026-11-09T21:28:47.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1ab8d5864e35c61f613a635504fa2897a17a92dc07c7634d4198d069b0e3fbb0",
-          "title": "Armenian Caucus Enters 120th Congress with Strong Bipartisan Foundation",
-          "description": "MassisPost Armenian Caucus Enters 120th Congress with Strong Bipartisan Foundation WASHINGTON, D.C. – The Congressional Caucus on Armenian Issues is set to…",
-          "sourceName": "Massispost",
-          "url": "https://massispost.com/2026/11/armenian-caucus-enters-120th-congress-with-strong-bipartisan-foundation/",
-          "publishedAt": "2026-11-09T20:28:00.000Z",
-          "sentiment": 0
+          "id": "09d7f7834915b178c5accb8c8e4c1d7d9990444d953e15dc124d6dee735069e2",
+          "title": "Democrats Have a New Generation of Farm-Country Lawmakers",
+          "description": "After gains among rural voters, Democrats see a chance to win “hearts and minds in rural communities.”",
+          "sourceName": "The Washington Sun",
+          "url": "https://www.washingtonsun.com/congress/democrats-generation-farm-country",
+          "publishedAt": "2026-11-10T20:50:23.000Z",
+          "sentiment": 0.1
         }
       ],
       "social": [
@@ -2017,46 +2161,55 @@
       "socialSentiment": -0.18181818181818182,
       "youtubeSentiment": null,
       "mentions": {
-        "news": 4,
+        "news": 5,
         "social": 33,
         "youtube": 0,
-        "total": 37
+        "total": 38
       },
       "news": [
         {
-          "id": "c05f9482deb747ce7721c110fbcedc36649637925977ca898fd0d729d8a81321",
-          "title": "Senate Votes 73-25 to Advance Bill Making Data Centers Pay Old and New Grid Costs",
-          "description": "Data centers pay grid costs under a Senate permitting bill that advanced 73-25 on Nov. 9. Section 2107 of the Bipartisan American Affordability and Jobs Act would end a 1994 FERC policy letting large loads pay only the higher of two charges, requiring them to cover both existing and new transmission costs. The House has until Jan. 3 to act.",
-          "sourceName": "Techtimes",
-          "url": "https://www.techtimes.com/articles/330362/20261110/senate-votes-73-25-advance-bill-making-data-centers-pay-old-new-grid-costs.htm",
-          "publishedAt": "2026-11-10T06:00:08.000Z",
+          "id": "f39ae6a6ab3cba69152deb76c4554b5ac29d977d1e36b80d659d0420199d5fdf",
+          "title": "Maine to get another $190 million through federal rural health program",
+          "description": "The state will receive roughly $360,000 more than it did in the first year of the Rural Health Transformation Program, Sen. Susan Collins announced Tuesday.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/11/10/maine-to-get-another-190-million-through-federal-rural-health-program/",
+          "publishedAt": "2026-11-10T23:31:47.000Z",
           "sentiment": 0
         },
         {
-          "id": "95f4e72a4801e31a0b4e812885ef316fdb18768d15a3801ac6c13c688d153726",
-          "title": "Letter: Federal permitting reform bill would reverse environmental protections",
-          "description": "“We need common sense legislation that will enable the transition to clean energy sources and cease subsidizing the fossil fuel industry with our tax dollars.”",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/10/opinion/letters/letter-federal-permitting-reform-bill-would-reverse-environmental-protections-joam40zk0w/",
-          "publishedAt": "2026-11-10T06:00:00.000Z",
+          "id": "2540a654115ea2f84e0c7e5805b4b01938a5bb9608e419ea31c51905a157c9e6",
+          "title": "Maine to get another $190 million through federal rural health program",
+          "description": "The state will receive roughly $360,000 more than it did in the first year of the Rural Health Transformation Program, Sen. Susan Collins announced Tuesday.",
+          "sourceName": "Central Maine News",
+          "url": "https://www.centralmaine.com/2026/11/10/maine-to-get-another-190-million-through-federal-rural-health-program/",
+          "publishedAt": "2026-11-10T23:31:47.000Z",
           "sentiment": 0
         },
         {
-          "id": "f3884f69026a76ac17dca20db6a3e0fe9445d793c66203b3245d1332a56f7e61",
-          "title": "Senate Clears Permitting Bill For Floor Debate Over Merkley’s Objections",
-          "description": "The Senate has easily cleared landmark permitting legislation for floor debate just two days after release of revisions won over several environmental groups, though Sen. Jeff Merkley (D-OR), who is expected to lead the environment committee in the next Congress, opposes the bill and wants to see it considered in the next Congress.",
-          "sourceName": "Insideepa",
-          "url": "https://insideepa.com/daily-news/senate-clears-permitting-bill-floor-debate-over-merkley-s-objections",
-          "publishedAt": "2026-11-10T01:27:59.000Z",
+          "id": "e75df7d0c4a0aea2676e9586742a96cdc56572409f144afeaced641ad8d5dd4d",
+          "title": "Maine to get another $190 million through federal rural health program",
+          "description": "The state will receive roughly $360,000 more than it did in the first year of the Rural Health Transformation Program, Sen. Susan Collins announced Tuesday.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/11/10/maine-to-get-another-190-million-through-federal-rural-health-program/",
+          "publishedAt": "2026-11-10T23:31:47.000Z",
           "sentiment": 0
         },
         {
-          "id": "192b814c61648200df66996e205cd0711f22699da01a7120a2eaa7a70f2477be",
-          "title": "Paul LePage lands in Washington, pitching himself as a dealmaker",
-          "description": "LePage joined incoming members of Congress, including Democratic Sen.-elect Troy Jackson, for orientation in Washington on Monday.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/09/politics/washington/paul-lepage-washington-dealmaker/",
-          "publishedAt": "2026-11-09T22:02:06.000Z",
+          "id": "f6356766527f38719498bed7cdeafabeae43ac3c11f30576a89c8478664a5378",
+          "title": "Elmet Group (ELMT) Q3 2026 Earnings Call Transcript",
+          "description": "Defense funding and tungsten price spikes reshaped the quarter's results.",
+          "sourceName": "Fool",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/11/10/elmet-group-elmt-q3-2026-earnings-call-transcript/",
+          "publishedAt": "2026-11-10T23:12:03.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "3031c25dede31becdd5b2ac8e6abd0da5b6e8a67cd6f395f854e549145035f00",
+          "title": "CNN Legal Analyst Says Democratic Voters Calling for Senate Leadership Shakeup Have ‘TikTok in Their Heads’",
+          "description": "“I think a lot of voters, rightfully, have TikTok in their heads, and I think want an activist face to be the party leader, and it's not actually the core competency of the job.” The post CNN Legal Analyst Says Democratic Voters Calling for Senate Leadership Shakeup Have ‘TikTok in Their Heads’ first appeared on Mediaite.",
+          "sourceName": "Mediaite",
+          "url": "https://www.mediaite.com/media/tv/cnn-legal-analyst-says-democratic-voters-calling-for-senate-leadership-shakeup-have-tiktok-in-their-heads/",
+          "publishedAt": "2026-11-10T23:01:58.000Z",
           "sentiment": 0
         }
       ],
