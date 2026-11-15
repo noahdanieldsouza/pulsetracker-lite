@@ -1,180 +1,126 @@
 {
-  "lastUpdated": "2026-11-15T16:36:34.990Z",
+  "lastUpdated": "2026-11-15T18:31:51.171Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.38285242606948033,
-      "newsSentiment": 0.1388888888888889,
+      "overallSentiment": 0.33655612977318405,
+      "newsSentiment": 0,
       "socialSentiment": 0.18837209302325578,
       "mentions": {
-        "news": 18,
+        "news": 12,
         "social": 43,
         "youtube": 54,
-        "total": 115
+        "total": 109
       },
       "news": [
         {
-          "id": "127b4f84e4f6341a1ba979a9f74bfb3ce51f7f24931bb0b26cdc689860881386",
-          "title": "This map shows how Susan Collins’ electoral firewall crumbled in York County and other parts of Maine",
-          "description": "Forty-nine towns flipped from supporting U.S. Sen. Susan Collins in 2020 to Troy Jackson in 2026, including four in York County.",
-          "sourceName": "Newscentermaine",
-          "url": "https://www.newscentermaine.com/article/news/regional/the-maine-monitor/this-map-shows-how-susan-collins-electoral-firewall-crumbled-in-york-county-and-other-parts-of-maine/97-ce0720d7-26bb-482c-985a-da7ede390a0e",
-          "publishedAt": "2026-11-14T03:14:56.000Z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "1fb3692880c859f32a9eb2a20b29d8ef03af939fc34b31a694fe12267decfe3c",
-          "title": "DSA Backs Challenge to Schumer as Senate Democratic Leader",
-          "description": "The Democratic Socialists of America told Newsweek it backs a challenge to Chuck Schumer as Senate majority leader.",
-          "sourceName": "Newsweek",
-          "url": "https://www.newsweek.com/chuck-schumer-senate-democratic-leader-challenge-dsa-12714492",
-          "publishedAt": "2026-11-14T00:20:12.000Z",
+          "id": "b013947ce343a896e1ac1a35e5afc8aad2b4a892df548d14a3f38877163fe076",
+          "title": "DSA Backs Challenge to Chuck Schumer's Senate Leadership",
+          "description": "The Democratic Socialists of America support a push to replace Chuck Schumer as Senate Democratic leader.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/dsa-backs-challenge-to-chuck-schumer-s-senate-leadership-89861394",
+          "publishedAt": "2026-11-15T03:47:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "54567439a17549af9a36f7e04026b89adbeb5867cf3931c8f9570a180804e2fe",
-          "title": "Maine union leader says Troy Jackson is likely to back Chuck Schumer’s challenger",
-          "description": "The leadership fight puts Jackson, who upset five-term Republican Sen. Susan Collins, in the spotlight with the party’s left flank.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/13/politics/washington/troy-jackson-likely-to-back-van-hollen-over-schumer/",
-          "publishedAt": "2026-11-13T22:50:17.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "e290c0f48cfa80a7dfd8303deb635b7c8ff896cbb89d6459b57b474251457a92",
-          "title": "Necessary But Not Sufficient",
-          "description": "On Election Day, our finely-honed political instincts led us to expect that the Democrats would win the House of Representatives by a respectable margin. A slim win on the Senate side seemed possible, but a prolonged period of uncertainty seemed equally likely. So, caveat lector, i.e., reader beware. On Wednesday, obviously, we had to re-assess our forecasting skills. That sobering moment aside, the day seemed to have been scored by Louis Armstrong: “What a Wonderful World.” After waking up four thousand times in a row in a nation dumber than it was the day before, suddenly things were different. Obviously, nirvana is not yet here. ...",
-          "sourceName": "The New Hampshire Gazette",
-          "url": "https://www.nhgazette.com/2026/11/13/necessary-but-not-sufficient/",
-          "publishedAt": "2026-11-13T22:43:07.000Z",
+          "id": "da190da098e2e4e12b327b1a4dc2b85bcf9f14404ee80be825ca6302c8af2786",
+          "title": "Fetterman: Naming Van Hollen majority leader 'would be troubling'",
+          "description": "Van Hollen has really made his name being… hostile to Israel.",
+          "sourceName": "Wcbd-tv News Channel 2",
+          "url": "https://www.counton2.com/news/national-news/fetterman-naming-van-hollen-majority-leader-would-be-troubling/",
+          "publishedAt": "2026-11-15T01:48:25.000Z",
           "sentiment": 0
         },
         {
-          "id": "e096f1096e6ec311e9741565006a4bd3fe6061e335c934f5668df42287f259e5",
-          "title": "Chris Van Hollen Is Challenging Schumer For Senate Majority Leader",
-          "description": "After a week of speculation about his intentions, Maryland Democratic Sen. Chris Van Hollen announced on Thursday that he plans to challenge Sen. Chuck Schumer (D-N.Y.) for the position of Senate Majority Leader in the 120th Congress. The Democrats’ historic sweep of both legislative chambers last week emerged from an electorate desperate for change. Schumer, […]",
-          "sourceName": "Mother Jones",
-          "url": "https://www.motherjones.com/politics/2026/11/van-hollen-senate-majority-leader-campaign-schumer-congress-democrats/",
-          "publishedAt": "2026-11-13T22:09:47.000Z",
+          "id": "143e3be5a5929aec2f251c657b89788031bddd556eca6bbc1b4dd6da8d254738",
+          "title": "Fetterman: Naming Van Hollen majority leader 'would be troubling'",
+          "description": "Van Hollen has really made his name being… hostile to Israel.",
+          "sourceName": "Wivb",
+          "url": "https://www.wivb.com/news/national/fetterman-naming-van-hollen-majority-leader-would-be-troubling/",
+          "publishedAt": "2026-11-15T01:47:52.000Z",
           "sentiment": 0
         },
         {
-          "id": "b4d5468a7ccc806a0011a8f2c12c687e83bb4c80067285282fbd0b91a699a46e",
-          "title": "Newly elected Senate Democrats in the spotlight: From the Politics Desk",
-          "description": "In today’s edition, Kristen Welker dives into the first big decision facing the class of incoming Democratic senators.",
-          "sourceName": "Nbc News",
-          "url": "https://www.nbcnews.com/politics/politics-news/newly-elected-senate-democrats-spotlight-politics-desk-rcna609239",
-          "publishedAt": "2026-11-13T22:00:00.000Z",
+          "id": "61bdcf735a70a27a691b780d77949b9d2e7a5e221303575dc00fa98ebabb3d09",
+          "title": "Fetterman: Naming Van Hollen majority leader 'would be troubling'",
+          "description": "Van Hollen has really made his name being… hostile to Israel.",
+          "sourceName": "Knwa Fox24",
+          "url": "https://www.nwahomepage.com/news/national/fetterman-naming-van-hollen-majority-leader-would-be-troubling/",
+          "publishedAt": "2026-11-15T01:47:49.000Z",
           "sentiment": 0
         },
         {
-          "id": "06c946f10d21c22f7b58e7eb5cfa7787af280f7605a2c506dfcd3d5ae96ace7d",
-          "title": "Chris Van Hollen Launches Leadership Bid After Anti-Establishment Dems Turn Back on Chuck Schumer",
-          "description": "Democratic Maryland Sen. Chris Van Hollen launched a leadership bid Thursday after many anti-establishment Democrats opposed Senate Minority Leader Chuck Schumer. Independent Vermont Sen. Bernie Sanders, Democratic Michigan Sen. Elissa Slotkin and many incoming freshman senators opposed Schumer for majority leader and showed support for Van Hollen. The Maryland senator said in his announcement that Senate Democrats needed new leadership to deliver on the economy and corruption.",
-          "sourceName": "The Star News Network",
-          "url": "https://thestarnewsnetwork.com/2026/11/13/chris-van-hollen-launches-leadership-bid-after-anti-establishment-dems-turn-back-on-chuck-schumer/",
-          "publishedAt": "2026-11-13T21:34:42.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "9614db7cde0e23a415e4c36c6482bfa05c8c864185c44d6ea7bd8bb56ef75792",
-          "title": "Schumer leads 'underdog' Van Hollen in early majority leader endorsements",
-          "description": "In launching his leadership bid on Thursday, Chris Van Hollen acknowledged that he's the \"underdog\" against Chuck Schumer.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/senate/4802873/chuck-schumer-chris-van-hollen-majority-leader-whip-count-versus-noncommittal-members-thus-far/",
-          "publishedAt": "2026-11-13T20:42:39.000Z",
+          "id": "ad76181295dd545824ff418daec3436e20b269ba562e15c7d2b4bc636ca066cd",
+          "title": "Accuracy of prediction markets disputed after midterm elections",
+          "description": "Heading into Election Day, Republicans appeared likely to hold on to South Carolina's Senate seat. Sen. Darline Graham was running to succeed her older brother, the late Sen. Lindsey Graham, for a full term, and she had received President Donald Trump's endorsement.",
+          "sourceName": "Arkansas Democrat Gazette",
+          "url": "https://www.arkansasonline.com/news/2026/nov/15/accuracy-of-prediction-markets-disputed-after/",
+          "publishedAt": "2026-11-15T00:00:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "30acfd6b78d71606e7072159ba3843dccf6722bdf661cec4942a10cac275554c",
-          "title": "Despite the Rising DSA, the Democratic Party Actually Moved More to the Center",
-          "description": "Democrats are now accountable to constituencies that are certain to reshape the Democratic Party's priorities and move the party more toward the center. The post Despite the Rising DSA, the Democratic Party Actually Moved More to the Center first appeared on Mediaite.",
-          "sourceName": "Mediaite",
-          "url": "https://www.mediaite.com/opinion/despite-the-rising-dsa-the-democratic-party-actually-moved-more-to-the-center/",
-          "publishedAt": "2026-11-13T20:22:22.000Z",
+          "id": "3644b6342893535ac0d6130049fee42834b7ac5ef8839f6f52b79d1027c15f9e",
+          "title": "John Fetterman signals breaking point with Democrats over Van Hollen",
+          "description": "Fetterman suggested that Van Hollen's potential leadership would be troubling because of his criticism of the Israeli government.",
+          "sourceName": "Headtopics",
+          "url": "https://headtopics.com/news/john-fetterman-signals-breaking-point-with-democrats-over-89859022",
+          "publishedAt": "2026-11-14T23:46:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "297833634bc6433b2efdb7f32a682256c41193a7650362b0084be332af558f19",
-          "title": "The senators who could join Van Hollen's insurgency against Schumer",
-          "description": null,
-          "sourceName": "Axios",
-          "url": "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader",
-          "publishedAt": "2026-11-13T20:10:49.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f2a805ba22be579e1a285ec4d90089f2ee26a7c0fdec4f986a0729b57ef98433",
-          "title": "Sen. Angus King still backing Schumer for Democratic leader",
-          "description": "While King says Schumer has the experience and political know-how to get major things done in Congress, Troy Jackson is among the new batch of senators calling for different leadership.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/politics/2026-11-13/sen-angus-king-still-backing-schumer-for-democratic-leader",
-          "publishedAt": "2026-11-13T20:09:37.000Z",
-          "sentiment": 0.6
-        },
-        {
-          "id": "d3c65358da8a1c0b35c7fc74374748d911073c56b8a365d43321e93f6c917a63",
-          "title": "Van Hollen’s Challenge to Chuck Schumer",
-          "description": "Win or lose, the contest for Democratic leader, far from undermining Democratic unity, will define unity around the right set of issues. The post Van Hollen’s Challenge to Chuck Schumer appeared first on The American Prospect.",
-          "sourceName": "The American Prospect",
-          "url": "https://prospect.org/2026/11/13/van-hollens-challenge-to-chuck-schumer/",
-          "publishedAt": "2026-11-13T20:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d73614048b3369560988d5e0605e981b38a755e8b21bbb5eb9e4765b1bd38835",
-          "title": "Who is Chris Van Hollen and why is he challenging Chuck Schumer for Senate majority leader?",
-          "description": "Maryland Sen. Chris Van Hollen announced this week that he will challenge Democratic stalwart Chuck Schumer of New York for Senate majority leader, setting up an internal clash over the direction of the party just days after its landslide victory in this year’s midterm elections. “We saw a huge outburst of democracy on Election Day — red states, blue states, purple states — and it wasn’t only a rejection of Donald Trump and his corruption and his wars and his cruelty,” Van Hollen told MS NOW. “It was also about a call for a larger change to take on a broken economic system that’s rigged in favor of the very wealthy against working people. The call was really to reject the status quo and to reject business as usual. And to do that, I think we need new leadership.” Van Hollen, 67, insisted that his decision was “not about any one person.” Yet progressives have long criticized the 75-year-old Schumer — who has served in the Senate since 1999 and led the Democratic caucus since 2017 — for what they characterize as his cautious, centrist approach to politics. Seven newly elected Democratic senators have already declined to support Schumer’s return as majority leader, a post he previously occupied from 2021 to 2025: Adam Hamilton of Kansas, Abdul El-Sayed of Michigan, Annie Andrews of South Carolina, Peggy Flanagan of Minnesota, James Talarico of Texas, Chris Pappas of New Hampshire and Juliana Stratton of Illinois. On Tuesday, Vermont Sen. Bernie Sanders, an independent who caucuses with the Democrats, also said he would “not be supporting Chuck to be re-elected as the Democratic leader.” “If this campaign was about anything, it was about change, and the need for the Democratic Party, in my view, to move in a new and bold direction,” Sanders told reporters. So who is Van Hollen, why is he challenging Schumer and does he really have a chance? Here’s everything you need to know about the intraparty battle that’s brewing ahead of next year’s Democratic takeover on Capitol Hill. Who is Chris Van Hollen? Van Hollen served seven terms in the House representing Maryland’s 8th Congressional District, a deep blue region mostly comprising the Washington, D.C., suburbs, before being elected to the Senate in 2016. He previously served as the head of the Democratic Party’s campaign committees for both the House and the Senate, roles that gave him a major influence on Democrats’ election strategy. In those roles, he helped oversee so-called blue wave elections in 2008 and 2018, but was also at the helm during the “shellacking” the party suffered at the hands of Republicans in 2010. Van Hollen is a progressive Democrat who has said he supports Medicare for All, raising the federal minimum wage and LGBTQ rights. In his bid for majority leader, he has the backing of two of the Senate’s most prominent progressive figures in Sanders and El-Sayed. In recent years, Van Hollen has been particularly critical of the U.S. relationship with Israel, including calling what he viewed as former President Joe Biden’s inaction on the war in Gaza “shameful.” More recently, he voted in favor of cancelling billions of dollars in weapons sales to Israel and introduced a bill aimed at investigating alleged human rights abuses in Palestine's West Bank. Van Hollen gained national attention in April 2025, when he travelled to El Salvador to meet with Kilmar Abrego Garcia, a Salvadoran immigrant who had been wrongfully deported and sent to a notoriously brutal prison in the country. While Van Hollen sits to the ideological left of Schumer on some key policy issues, his main critique of the Democrats’ current leader in the Senate centers mostly on his approach. In his announcing his bid for majority leader, Van Hollen said Democrats “need to meet the moment with a bold agenda” — phrasing that suggests he doesn’t believe Schumer will be aggressive enough to take full advantage of the party’s power in Congress. What’s at stake Unlike the speaker of the House, the Senate majority leader isn’t mentioned in the Constitution. But over time it has evolved into one of the most powerful positions in Washington. By controlling which policies are emphasized, which bills are brought to the floor, when votes occur, which judges and appointees are confirmed and how all of this is communicated to the president and the public, majority leaders can effectively reshape the party — at least on a legislative level — in their image. They can also help recruit and fund Senate candidates for future elections. Schumer’s critics say his image is no longer a good match for the moment. Some have called for generational or cultural change. Some have insisted on geographic diversity, noting that both Schumer and Hakeem Jeffries, who is in line to be the next House speaker, represent New York. (They live about 15 minutes from each other in Brooklyn.) Some have demanded a more combative approach to the defining issues of the 2026 midterms: lowering the cost of living, ending the war in Iran, confronting the Trump administration. And some say they are simply seeking a conversation rather than a “coronation.” “Whoever wants my vote is going to have to show me a concrete plan that’s definitively different,” Michigan Sen. Elissa Slotkin, a relative moderate, said Tuesday at a news conference with Sanders, leaving the door open to a leadership change. “What they’re going to do in the first 100 days to put money in people’s pockets and then, in particular, how they’re going to communicate differently.” Van Hollen has yet to articulate a concrete agenda. But earlier this week he criticized Schumer, who is Jewish, for his ties to Israel and other special interests, saying that the New York senator and the Democratic Senatorial Campaign Committee “sided with the crypto industry and AIPAC,” the pro-Israel lobbying group, against Democratic candidates who went on to win the general election, including El-Sayed of Michigan and Troy Jackson of Maine. Van Hollen added that the DSCC should not take money from AIPAC in the future. Schumer has a long history of support for Israel, but he has strongly criticized outgoing Prime Minister Benjamin Netanyahu and his handling of the war in Gaza. Van Hollen has also argued that Democrats should refuse to pass any bill to fund the government unless it includes language to end the war in Iran, even if that leads to another government shutdown next month. “Right now, under our current leadership, we have a situation where they are not willing to use the most important power we have to end the war, which is to defund it,” he said Friday. What’s next House Speaker is chosen by a vote of the full chamber. But Senate majority leaders are selected by only one party in a secret, closed-door vote, which means much of the process leading up to Democrats’ leadership decision may happen out of the public eye. The vote is reportedly scheduled to take place on Dec. 1, but Politico reports that there have been discussions about moving it up to as soon as next week. Sen. Brian Schatz, a Democrat from Hawaii, urged his party to resolve its leadership dispute as soon as possible. “We must move quickly to vote, unify and get to work,” Schatz told the New York Times. It remains to be seen whether Van Hollen can collect the support of enough Democratic senators to present a true threat to Schumer’s leadership. On Thursday night, Schumer expressed confidence that he would overcome Van Hollen’s challenge. “I welcome any discussion about the future of our caucus and the important work ahead,” Schumer wrote on social media. “I’m proud of what we’ve accomplished together — 55 seats and counting is an amazing result — and I have the votes to continue serving as Democratic Leader.” Some moderate senators have stepped forward to back Schumer, including Pennsylvania Democratic Sen. John Fetterman and Angus King of Maine, an independent who caucuses with Democrats. After crediting Schumer with Democrats’ dominant performance in the midterms, King compared the situation to baseball. “Why would you fire the manager when you just won the World Series?” he asked. This article originally appeared on Yahoo News at https://www.yahoo.com/news/politics/article/who-is-chris-van-hollen-and-why-is-he-challenging-chuck-schumer-for-senate-majority-leader-195645336.html",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/article/who-is-chris-van-hollen-and-why-is-he-challenging-chuck-schumer-for-senate-majority-leader-195645336.html",
-          "publishedAt": "2026-11-13T19:58:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b0b78e7b8a174f7520f94bd2aa5bb4e9210bdfee58ea5679c5c353d198460f63",
-          "title": "‘I’m running’: Chris Van Hollen launches bid for Senate power after new crop of Dems turns on Schumer",
-          "description": "Claims to be 'answering that call' for 'new leadership'",
-          "sourceName": "Worldnetdaily",
-          "url": "https://www.wnd.com/2026/11/im-running-chris-van-hollen-launches-bid-senate/",
-          "publishedAt": "2026-11-13T19:58:05.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b3b820033d09903c47004e5fe47b784de88709b37c3a5d31bb2fd5c030a20469",
-          "title": "‘I’m running’: Chris Van Hollen launches bid for Senate power after new crop of Dems turns on Schumer * WorldNetDaily * by Nicole Silverio, Daily Caller News Foundation",
+          "id": "e1db94af4b638d228333ebb1854ec3dabdd1885af1b2063cb9a920f75c9463de",
+          "title": "John Fetterman Signals Breaking Point With Democrats Over Van Hollen",
           "description": null,
           "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/im-running-chris-van-hollen-launches-bid-for-senate-power-after-new-crop-of-dems-turns-on-schumer-worldnetdaily-by-nicole-silverio-daily-caller-news-foundation-AB7A6C36-D66F-5ECC-82AC-25F301142E73",
-          "publishedAt": "2026-11-13T19:58:05.000Z",
+          "url": "https://www.bundle.app/en/breaking-news/john-fetterman-signals-breaking-point-with-democrats-over-van-hollen-F7DED62C-9089-5CCF-A0B3-A7B4373DA6B6",
+          "publishedAt": "2026-11-14T22:34:07.000Z",
           "sentiment": 0
         },
         {
-          "id": "2b486a97d609f496f75ef447460f19960fe7d25766314dbb369014faa193061b",
-          "title": "Who Is Chris Van Hollen?",
-          "description": "What to know about Chuck Schumer’s challenger, and how the contest to pick the Democrats’ next Senate leader will work.",
-          "sourceName": "Usnews",
-          "url": "https://www.usnews.com/news/national-news/articles/2026-11-13/who-is-chris-van-hollen",
-          "publishedAt": "2026-11-13T19:15:01.000Z",
+          "id": "4b34e8172e793ed01a0b0a92c7fcca605746ba0c3a3a78fd5e537d7d8bd7b97d",
+          "title": "John Fetterman Signals Breaking Point With Democrats Over Van Hollen",
+          "description": "Sen. John Fetterman has signaled that he could reach a breaking point with the Democratic Party.",
+          "sourceName": "Newsweek",
+          "url": "https://www.newsweek.com/john-fetterman-signals-breaking-point-with-democrats-over-van-hollen-12716573",
+          "publishedAt": "2026-11-14T22:34:07.000Z",
           "sentiment": 0
         },
         {
-          "id": "31d4f9254314626f32af77a3b3f48005723f521e68796c14fc145a17f43debb4",
-          "title": "Our Revolution Endorses Chris Van Hollen for Senate Majority Leader",
-          "description": "Our Revolution, the nation’s largest grassroots progressive organization endorsed Sen. Chris Van Hollen for Senate majority leader and urged Senate Democrats to vote for him over Sen. Chuck Schumer. The endorsement builds on the organization’s ongoing grassroots campaign to replace Schumer and secure an open, competitive leadership election. “Working people organized to win this majority, and they expect it to fight for them,” said Joseph Geevarghese, Executive Director of Our Revolution. “To be a real opposition party, Democrats have to take on corporate power, including the big donors and party insiders who stand in the way of change. That means getting corporate money out of politics, ending U.S. military aid to Israel, and fighting to pass Medicare for All. That’s the working-class agenda we’ve been organizing for, and it’s why we’ve called on Chuck Schumer to step aside. Chris Van Hollen has stepped up to challenge the status quo, and we’re urging Senate Democrats to vote for him.” In Our Revolution’s November 6–7 survey of 4,308 progressive respondents, 72% wanted new Senate leadership, 22% said it depended on whether Schumer delivers, and 5% supported his continued leadership. The results reflect participating respondents and are not representative of all Democratic voters. Our Revolution is asking supporters to sign the petition calling on Senate Democrats to replace Schumer.",
-          "sourceName": "Common Dreams",
-          "url": "https://www.commondreams.org/newswire/our-revolution-endorses-chris-van-hollen-for-senate-majority-leader",
-          "publishedAt": "2026-11-13T18:58:15.000Z",
+          "id": "f53c40bde7ec9be69de0253ab5a1f6c5674d48df6f85fcbdd60d64c55b1dd4fb",
+          "title": "Midterm Democratic blowout scrambles field of 2028 White House hopefuls",
+          "description": "Georgia Sen. Jon Ossoff’s landslide re-election victory has sent his 2028 presidential prospects soaring, putting him atop Democratic nomination betting odds as the midterm blowout reshapes t…",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/midterm-democratic-blowout-scrambles-field-of-2028-white-89856756",
+          "publishedAt": "2026-11-14T20:33:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "c86ea15abd81d7e43ab2c764576e662b4c62ce0fcf54bc354e798f54e0aad23b",
-          "title": "Schumer vs. Van Hollen: Senate Democratic Leader Odds After Challenge",
-          "description": "Chris Van Hollen is challenging Chuck Schumer for Senate leader, with a Dec. 1 secret-ballot vote. See the odds, who has backed whom and the vote math.",
-          "sourceName": "Action Network",
-          "url": "https://www.actionnetwork.com/politics/schumer-vs-van-hollen-senate-democratic-leader-odds",
-          "publishedAt": "2026-11-13T18:25:01.000Z",
+          "id": "fe48ea95d72394c9f2afd4fd084d8e83854bc95f9c66063da25e8f833aecf95a",
+          "title": "Midterm Democratic blowout scrambles field of 2028 White House hopefuls",
+          "description": "Georgia Sen. Jon Ossoff's landslide re-election victory has sent his 2028 presidential prospects soaring, putting him atop Democratic nomination betting odds as the midterm blowout reshapes the White House field for both parties.",
+          "sourceName": "New York Post",
+          "url": "https://nypost.com/2026/11/14/us-news/midterm-blowout-fuels-jon-ossoff-aoc-runs-and-scrambles-gop-field/",
+          "publishedAt": "2026-11-14T20:27:20.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c0d91ab9b3463a8d92a6004f4be0228354695d08be03f0bb9adefefadcbfd72b",
+          "title": "How AIPAC Burned $55 Million in One Midterm Cycle — and What the Losses Signal for the Israel Lobby's Future",
+          "description": "AIPAC and its allied super PAC spent $120 million during the 2026 midterms, but nearly $55.3 million supported losing candidates, including in Michigan's historic Senate race.",
+          "sourceName": "Latin Times",
+          "url": "https://www.latintimes.com/aipac-2026-midterms-spending-losing-candidates-601351",
+          "publishedAt": "2026-11-14T20:16:47.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "c1fdcc8d26f988578ffa9abb0c1824e8bb3c266de8ee68dea1f6b011c47e4b31",
+          "title": "The left wing of the Democrats begins the pulse against the establishment of the party in the US Congress",
+          "description": "The left wing of the United States Democratic Party means business and does not intend to let campaign promises remain mere electoral claims. A good portion of the newly elected senators have already announced that they will not vote for Chuck Schumer, the current leader of the Democratic minority in the Senate, to be the new majority leader starting in January. Schumer is part of the Democratic establishment, and this challenge is the first test for the incoming congresspeople to see to what extent they can twist the arm of the party leadership over the next two years.",
+          "sourceName": "Diari Ara",
+          "url": "https://en.ara.cat/international/the-left-wing-of-the-democrats-begins-the-pulse-against-the-establishment-of-the-party-in-the-us-congress_1_5910954.html",
+          "publishedAt": "2026-11-14T19:07:05.000Z",
           "sentiment": 0
         }
       ],
@@ -1097,45 +1043,17 @@
     {
       "id": "paul-lepage",
       "name": "Paul LePage",
-      "overallSentiment": -0.7188161616161617,
-      "newsSentiment": -0.6666666666666666,
+      "overallSentiment": -0.744890909090909,
+      "newsSentiment": null,
       "socialSentiment": -0.48978181818181815,
       "youtubeSentiment": -1,
       "mentions": {
-        "news": 3,
+        "news": 0,
         "social": 11,
         "youtube": 1,
-        "total": 15
+        "total": 12
       },
-      "news": [
-        {
-          "id": "4972b9148675baa88203e49fff4a6789552014955da920036f5b3d2dc14ad23a",
-          "title": "Republicans score rare blue-to-red flip in Maine during midterm landslide",
-          "description": "It was far from a resounding victory. Even though President Trump won the district by 9 points two years ago, it took a former Republican governor, Paul LePage, to squeak out a victory over Matt Dunlap, the Democratic state auditor.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/republicans-score-rare-blue-to-red-flip-in-maine-during-89833471",
-          "publishedAt": "2026-11-13T20:23:00.000Z",
-          "sentiment": -1
-        },
-        {
-          "id": "4b27c3bb3fde7e83cf52fbcb740ba12cde60d6f45da58d48239116d99f0946db",
-          "title": "Maine Confirms LePage’s 2nd District Win After Ranked-Choice Count",
-          "description": "Maine Secretary of State Shenna Bellows confirmed Paul LePage won the 2nd Congressional District after a ranked-choice tabulation.",
-          "sourceName": "Hoodline",
-          "url": "https://hoodline.com/2026/11/maine-confirms-lepage-s-2nd-district-win-after-ranked-choice-count/",
-          "publishedAt": "2026-11-13T18:34:41.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "95714edb700b5459a68dcae59cfe71a257c70247144b14e5d20792bcb3be7449",
-          "title": "Republicans score rare blue-to-red flip in Maine during midterm landslide",
-          "description": "It was far from a resounding victory. Even though President Trump won the district by 9 points two years ago, it took a former Republican governor, Paul LePage, to squeak out a victory over Matt Dunlap, the Democratic state auditor.",
-          "sourceName": "Los Angeles Times",
-          "url": "https://www.latimes.com/world-nation/story/2026-11-13/republicans-score-rare-blue-to-red-flip-in-maine-during-midterm-landslide",
-          "publishedAt": "2026-11-13T17:45:26.000Z",
-          "sentiment": -1
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "e3e636853ee13b1fcbdfcc2b035313605da9610499319722ba5c64ce3f124565",
@@ -1247,37 +1165,19 @@
       "socialSentiment": 0,
       "youtubeSentiment": null,
       "mentions": {
-        "news": 3,
+        "news": 1,
         "social": 1,
         "youtube": 0,
-        "total": 4
+        "total": 2
       },
       "news": [
         {
-          "id": "75e9d80acd59811d667723b71c7db38f41847d07ffd3460b24d701d392557e27",
-          "title": "Democrats are weighing impeachment of RFK Jr. while courting his supporters",
-          "description": "As Democrats prepare to take control of Congress in January 2026, they face the challenge of investigating Health Secretary Robert F. Kennedy Jr. while attempting to build policy coalitions with his Make America Healthy Again followers.",
-          "sourceName": "The Sentinel",
-          "url": "https://sentinelcolorado.com/uncategorized/democrats-are-weighing-impeachment-of-rfk-jr-while-courting-his-supporters/",
-          "publishedAt": "2026-11-13T21:54:54.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "bd95b83887ad8f9eaf3fa4417713b46be52666ec14796b9f42f09d4e26f9fcf7",
-          "title": "Democrats are weighing impeachment of RFK Jr. while courting his supporters",
-          "description": "When Democrats take over Congress in January, Health Secretary Robert F. Kennedy Jr. will be a major oversight target. His changes to vaccine guidance and cuts to medical research have sparked criticism. Some lawmakers have suggested impeachment, and probes into his actions are underway. However, Democrats also want to find common ground with Kennedy’s Make America Healthy Again supporters. This balance is tricky since many MAHA activists still see Kennedy as an ally. Democrats will try to hold him accountable while collaborating on shared interests like regulating pesticides and improving school lunches. They'll also have to work to lower health costs. The post Democrats are weighing impeachment of RFK Jr. while courting his supporters appeared first on WHEC.com.",
-          "sourceName": "Whec News10nbc",
-          "url": "https://www.whec.com/ap-top-news/democrats-are-weighing-impeachment-of-rfk-jr-while-courting-his-supporters/",
-          "publishedAt": "2026-11-13T19:43:38.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "41f1fa91492a1c5a0295311e0fc87f910bbc42054b2ac15b91984853ac06907e",
-          "title": "Democrats weighing impeachment of RFK Jr while courting his supporters",
-          "description": "Kennedy's overhaul of longstanding vaccine guidance and cuts to medical research over the past two years have drawn fiery criticism.",
-          "sourceName": "1news",
-          "url": "https://www.1news.co.nz/2026/11/14/democrats-weighing-impeachment-of-rfk-jr-while-courting-his-supporters/",
-          "publishedAt": "2026-11-13T18:15:25.000Z",
+          "id": "6e2c73ff39538d2410454b1a5c6f60e93e6b34942c890712989f43920d23b0d4",
+          "title": "Rep. Huffman orders preservation of records for D. C. federal land projects",
+          "description": "Rep. Jared Huffman, the top Democrat on the House Natural Resources Committee, has issued formal letters to dozens of administration officials and private contractors ordering them to preserve records related to construction projects in Washington, D. C. This move marks the immediate procedural activation of congressional oversight authority over federal lands, a domain where the committee holds direct statutory purview. While the Trump administration has utilized executive orders and unilateral regulatory mechanisms to advance projects such as the White House ballroom and the East Potomac Park golf course, Huffman asserts that federal law requires congressional authorization for such alterations to public lands. The committee's intervention targets the institutional gap between executive construction activity and legislative appropriation, establishing a documentary basis for potential future investigations into statutory compliance. Appropriation Authority as a Regulatory Constraint The primary mechanism identified by legal experts and lawmakers for intervening in these projects is the federal power of the purse. Under the Constitution, the federal government may only spend funds if Congress has appropriated them. Although President Trump has not sought or received specific congressional authorization for projects like the triumphal arch at Memorial Circle or the ballroom, he has maintained that such authorization is unnecessary. Rep. Chellie Pingree, the top Democrat on the House Appropriations Subcommittee for Interior, states that a Democratic majority will use appropriation bills to impose clear restrictions on fund usage. Legal scholar David Super of Georgetown University notes that while legislative vetoes are currently unenforceable due to anticipated presidential vetoes, the authority over federal funds presents a clearer legal pathway. If the administration violates specific statutory language in appropriation bills, Congress could potentially seek judicial enforcement, with legal consensus suggesting Congress would prevail in such challenges given its explicit constitutional authority over expenditure. Implementation Timeline and Specific Funding Restrictions The immediate opportunity for this intervention arises from the requirement to pass a short-term continuing resolution by December 11 to avoid a government shutdown. Huffman has proposed specific legislative language to restrict federal funding for the renovation of the East Potomac golf course, limiting available funds strictly to the repair of the park's seawall. Pingree intends to negotiate this restriction into the upcoming funding bill, citing the administration's recent diversion of national park entrance fees to finance D. C. beautification projects. Legal analysts suggest that Congress could cap the amount of such fees usable in the Washington area, thereby redirecting resources to parks such as the Everglades or Yosemite. This approach leverages the existing statutory framework for park funding to create a financial barrier to specific executive construction projects without requiring a direct legislative veto on the projects themselves.",
+          "sourceName": "Pravda",
+          "url": "https://english.pravda.ru/world/172838-huffman-records-preservation-dc-projects/",
+          "publishedAt": "2026-11-15T01:58:00.000Z",
           "sentiment": 0
         }
       ],
@@ -1296,873 +1196,17 @@
     {
       "id": "angus-king",
       "name": "Angus King",
-      "overallSentiment": -0.07649122807017543,
-      "newsSentiment": 0.010526315789473684,
+      "overallSentiment": -0.12,
+      "newsSentiment": null,
       "socialSentiment": -0.24,
       "youtubeSentiment": 0,
       "mentions": {
-        "news": 95,
+        "news": 0,
         "social": 50,
         "youtube": 1,
-        "total": 146
+        "total": 51
       },
-      "news": [
-        {
-          "id": "85915f33908e9968c1f5c927959871436993ba176716d99ccf7d05cb9c18a64d",
-          "title": "“‘I Have the Votes’”: Mehdi Hasan on Chuck Schumer’s Post About Leading Democratic Majority",
-          "description": "Political commentator Mehdi Hasan reacts to Senator Chuck Schumer's statement regarding votes for reelection. Political commentator Mehdi Hasan took note o",
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/deltias-gaming-378674616/5006227619749-i-have-the-votes-mehdi-hasan-on-chuck-schumer-s-post-about-leading-democratic-majority",
-          "publishedAt": "2026-11-14T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b66bda522aa728de02ff593d5717d6ef6613ecb23036bcd89c6437a9c443444c",
-          "title": "House To Consider Preventive Care Savings Bill Under Suspension Of Rules",
-          "description": "Body: The House will consider a bipartisan bill under suspension of the rules next week that would allow the Congressional Budget Office (CBO) to estimate the costs and savings of preventive health legislation over 30 years, rather than the current 10-year window. House Majority Leader Steve Scalise announced Friday (Nov. 13) that the House will consider the Preventive Health Savings Act (H.R. 4464) under suspension of the rules during the week of Nov. 16. The bill -- sponsored by Reps. Scott Peters (D-CA), Jay Obernolte (R-CA), Diana DeGette (D-CO) and Buddy Carter (R-GA) -- would allow lawmakers to ask CBO for a longer-term analysis of certain preventive-health legislation. If CBO determined the bill could produce net savings after the usual 10-year period, the agency would provide estimates for two additional 10-year periods. These additional estimates would only be supplemental and could not be used as offsets. The bill also defines preventive health care as interventions intended to prevent disease, disability and premature death. The House Budget Committee unanimously advanced the Preventive Health Savings Act in September, with no amendments offered. During the markup, Peters argued the bill would allow for more investment in preventive care, as well as increased savings. “Screening that catches cancer at stage one instead of stage four, a diabetes program that keeps someone off dialysis 15 years from now, a vaccine that prevents a hospitalization that would have happened decades from now -- these are investments we can make that will help sick patients and generate real cost savings down the road,” Peters said. An earlier version, led by former Rep. Michael Burgess (R-TX) and DeGette, passed the House during the 118th Congress but stalled in the Senate. And the Senate has not acted on its companion bill introduced this Congress from Sens. Angus King (I-ME), Mike Crapo (R-ID), Chris Van Hollen (D-MD) and Kevin Cramer (R-ND). -- Sigi Ris (sris@iwpnews.com)",
-          "sourceName": "Insidehealthpolicy",
-          "url": "https://insidehealthpolicy.com/daily-news/house-consider-preventive-care-savings-bill-under-suspension-rules",
-          "publishedAt": "2026-11-13T23:59:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d9527e4bd177999cf2daf31d408565e404608992bbd34eaa9c398bb35d4b9074",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Local 12 News",
-          "url": "https://local12.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:07:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "861a0609a544dbef6c578fa149c40e5dff89f171347145e966a18321dc7e80ea",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Fox San Antonio",
-          "url": "https://foxsanantonio.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:33.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d52addfe4b2538b15483f3aa1508ad60978ff5d725b2ced7c34a38a7f9f84078",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "My News 4",
-          "url": "https://mynews4.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "833c2e42f44b6022a5c85f46745cf5fe4abd5383fc71253ad795fef7140b7737",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "San Antonio News",
-          "url": "https://news4sanantonio.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "61fbb7aae81cf53b0889f11974843488cc262e9a59de6c5de48fdc566fad5728",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Katv",
-          "url": "https://katv.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "cb36535655c1a2d9d32f3bd6e94c0f9683979ad3ff1541c7e1a8bd126be715a8",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "El Paso News",
-          "url": "https://cbs4local.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "80cd4efbb26fed59da26fd8a359a8bca5afa068cd3f09f05429dfccdb66fad73",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Fox 42 Kptm",
-          "url": "https://fox42kptm.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "24e192c6618e4251a9207da66b4171912ccac9f3b19a08c7830742a9f80edb3d",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Fox Kansas",
-          "url": "https://foxkansas.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "847e3a9b40f4d66747be350cb9a1630fa72cc08f22af49e3fb15a08d6403ecf5",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Katu News",
-          "url": "https://katu.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2e068fde2f2446e7026d70821e43a2aa757fcbf1201362130368509cf797735b",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "American Broadcasting Company Forty Five",
-          "url": "https://abc45.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "739fb930f8ef5112157c8ecd30d1fcbe951d67658fffce12b24d78e8a2b1eb4e",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "American Broadcasting Company Six On Your Side",
-          "url": "https://abc6onyourside.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:32.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "596581f131a7902421d0a5862cbebc23d504ad9df589719d25cd883c3a7fa110",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Kmph News",
-          "url": "https://kmph.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "32287004cadc81c751f698fd0fbce43e828728143bd5f06105cd672e2b3275f0",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Bakersfield Now",
-          "url": "https://bakersfieldnow.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2f649d925c135a01a3c6225112aefdda92b6aeba0153cab00338066b6fcff072",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Fox 11 Online",
-          "url": "https://fox11online.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0bc19170a0bc1de5fe6a09abb3b1bee8147bdcc2b0a151e2890b42bb2c1e5eb8",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Coastal Abc",
-          "url": "https://coastalabc.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c5f8f377e0fdce7377bc0c5fb6bca66c28ff813b1a41ffe1f5065af55ff4bbcf",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Idaho News",
-          "url": "https://idahonews.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "822bf712e5bb24a4a85994b0f056a61f9b17e63169c40421e451194115346dbf",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "My Fox 28 Columbus",
-          "url": "https://myfox28columbus.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c8685ad5cff90be2255c8e1e95fcf5142504571241858d39c192df3a8e65df70",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Ktul",
-          "url": "https://ktul.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4b6d21fc89db7f65c84ea3cc54dbd83a42613043ff0bcf1630f55b41561daffa",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Wtvc",
-          "url": "https://newschannel9.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "157c2ccd2d5aae25fc12a9ae97a7dab4e732b391f4fb3c736dc59164f15beed0",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Stl 30 – St. Louis Local News",
-          "url": "https://stl30.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5b5fba8b0f7078093d241fa10f2fa67f26a708dfdd5d0aa6ab0e10b7a27d2cf6",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Wgxa",
-          "url": "https://wgxa.tv/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4f4ee6c9d6d9c6deb11b8e91ccf3714020ae7fdca15c1e9fb0323d97abec59b5",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Ksnv",
-          "url": "https://news3lv.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "251a74b64fbf92ed7411765c518e06a2799644908ac10ee0107940bee8738ba0",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Komo News",
-          "url": "https://komonews.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d85af95d8b2bec4b8b053777a5e25ad0a09b2e1535ab436bb62b71428a33e843",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Cbs Austin",
-          "url": "https://cbsaustin.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "af72eaaecb247cf5f19f071a9c58ef5923dbea6a7fb59855351e13f2a567ac1f",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "American Broadcasting Company News Four",
-          "url": "https://abcnews4.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "003b08a5a296e02e4e37a78c1cf9c3d2ea71ef7e48371c80bb6755c2e446a533",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Kutv",
-          "url": "https://kutv.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9835f9b495fdaf50d0390441c3eb6f8f2530330276ac36ec95e062bd2436b115",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Kfox14",
-          "url": "https://kfoxtv.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2a6b05c2c4cc3df41ecad811622b65f50ff3667f7d7f8f82b87f3cec09c174c9",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Fox 17 News",
-          "url": "https://fox17.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:06:29.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "43bbb624172d02f8299b76dbd131a241c1d10883c0c12b67a0e628d61da2f344",
-          "title": "Schumer or Van Hollen: Which voice will guide the new Democratic Senate?",
-          "description": "Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader, forcing a debate over the party’s direction, even as political experts expect Schumer to keep the post.",
-          "sourceName": "Fox News Channel Twenty Three",
-          "url": "https://fox23.com/news/nation-world/schumer-or-van-hollen-which-voice-will-guide-the-new-democratic-senate",
-          "publishedAt": "2026-11-13T23:05:58.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "76e5fcace5508cac5963512e3e8dd72d1aac13b905a4c97c14a8e87b11590c6b",
-          "title": "Maine union leader says Troy Jackson is likely to back Chuck Schumer’s challenger",
-          "description": "The leadership fight puts Jackson, who upset five-term Republican Sen. Susan Collins, in the spotlight with the party’s left flank.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/13/politics/washington/troy-jackson-likely-to-back-van-hollen-over-schumer/",
-          "publishedAt": "2026-11-13T22:50:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5fe24c0dade4b6bde27b09b91c363ba79b3853babe39a8ce54eef5c1050a3fff",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "DENVER (AP) — Maryland Sen. Chris Van Hollen said Friday that he’s no longer considering a run for the White House and will focus instead on his bid to become Senate majority leader as he makes the case to Democratic colleagues. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van...",
-          "sourceName": "Mymotherlode.com - The Mother Lode's Local News, S",
-          "url": "https://mymotherlode.com/news/national/general-election/11307477/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader.html",
-          "publishedAt": "2026-11-13T22:35:01.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2ae046ca6cb26ab4812622c1b7322b34bf3816a490279ac3d02a24bfc5cef996",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Sen. Schumer says he welcomes any discussion about the future of the caucus.",
-          "sourceName": "Troy Record",
-          "url": "https://www.troyrecord.com/2026/11/13/van-hollen-schumer-senate-leader/",
-          "publishedAt": "2026-11-13T22:10:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a41edb28369443cfcd5991fa8d63ac8c634ce1117a431c27e1f71d23353fe570",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Sen. Schumer says he welcomes any discussion about the future of the caucus.",
-          "sourceName": "Canon City Daily Record",
-          "url": "https://www.canoncitydailyrecord.com/2026/11/13/van-hollen-schumer-senate-leader/",
-          "publishedAt": "2026-11-13T22:10:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "23a2e5c89cef6313ca8a39d951628cf4fea10445260a087a6ba1dc17439b9bea",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Sen. Schumer says he welcomes any discussion about the future of the caucus.",
-          "sourceName": "Longmont Times Call",
-          "url": "https://www.timescall.com/2026/11/13/van-hollen-schumer-senate-leader/",
-          "publishedAt": "2026-11-13T22:10:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1a4208ec925effbab1cb6fa004c30015963b07473682061bcdfd8b5feeffdeba",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Sen. Schumer says he welcomes any discussion about the future of the caucus.",
-          "sourceName": "Boulder Daily Camera",
-          "url": "https://www.dailycamera.com/2026/11/13/van-hollen-schumer-senate-leader/",
-          "publishedAt": "2026-11-13T22:10:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "669b98dc19681deb85d78aafb36329ff8b2811b1a1a9b124235adf072e522bf7",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Sen. Schumer says he welcomes any discussion about the future of the caucus.",
-          "sourceName": "The News Herald",
-          "url": "https://www.thenewsherald.com/2026/11/13/van-hollen-schumer-senate-leader/",
-          "publishedAt": "2026-11-13T22:10:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "fffa7ac323977ff5853cef0edb2e50ecf055991e01736d4695ac60becd3a5a92",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Sen. Schumer says he welcomes any discussion about the future of the caucus.",
-          "sourceName": "Boston Herald",
-          "url": "https://www.bostonherald.com/2026/11/13/van-hollen-schumer-senate-leader/",
-          "publishedAt": "2026-11-13T22:10:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b2da3ee84587e655cdb42bb616fbf8604278aa04e20acb86313843f79da2f20f",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Sen. Schumer says he welcomes any discussion about the future of the caucus.",
-          "sourceName": "Fortmorgantimes",
-          "url": "https://www.fortmorgantimes.com/2026/11/13/van-hollen-schumer-senate-leader/",
-          "publishedAt": "2026-11-13T22:10:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "2a728b4f663214e715a19735163b23c97a2d618b2f69ac8b5ac84bf8b8087106",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Sen. Schumer says he welcomes any discussion about the future of the caucus.",
-          "sourceName": "Loveland Reporter-herald",
-          "url": "https://www.reporterherald.com/2026/11/13/van-hollen-schumer-senate-leader/",
-          "publishedAt": "2026-11-13T22:10:23.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "813d20fee6187f35023846249af6aa9f00395351a1886492d03c44eb96883446",
-          "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
-          "description": "Democratic Sen. Chris Van Hollen announced Thursday that he will challenge incumbent Chuck Schumer for the position of Senate Majority Leader following the party's midterm election sweep.",
-          "sourceName": "The Sentinel",
-          "url": "https://sentinelcolorado.com/uncategorized/van-hollen-to-challenge-schumer-for-senate-democratic-leader/",
-          "publishedAt": "2026-11-13T21:54:53.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b9a2d87514c7dd9a5272f0574ca964dd20b1b31e63852f760bed2c8433e355c4",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "DENVER (AP) — Maryland Sen. Chris Van Hollen said Friday that he’s no longer considering a run for the White House and will focus instead on his bid to become Senate majority leader as he makes the case to Democratic colleagues.",
-          "sourceName": "Local 10 News",
-          "url": "https://www.local10.com/news/politics/2026/11/13/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader/",
-          "publishedAt": "2026-11-13T21:05:24.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "edc43dd31c675a8f1bcd60d35ed835af52cfb356ae7fcbe94ca47f756231be5d",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "DENVER (AP) — Maryland Sen. Chris Van Hollen said Friday that he’s no longer considering a run for the White House and will focus instead on his bid to become Senate majority leader as he makes the case to Democratic colleagues. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van...",
-          "sourceName": "Wtop News",
-          "url": "https://wtop.com/national/2026/11/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader/",
-          "publishedAt": "2026-11-13T20:58:14.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8f518cfba2109b047b51807f0467c8b3b8ac532cc99096ea3947b00d0a9d94e0",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate...",
-          "sourceName": "News Times",
-          "url": "https://www.newstimes.com/news/politics/article/van-hollen-rules-out-white-house-run-as-he-mounts-22529642.php",
-          "publishedAt": "2026-11-13T20:57:34.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "71f5c5d0c4232688db50c748550de93f74982d1f2f28f8e5feb861e08720d343",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate...",
-          "sourceName": "Plainview Daily Herald",
-          "url": "https://www.myplainview.com/news/politics/article/van-hollen-rules-out-white-house-run-as-he-mounts-22529642.php",
-          "publishedAt": "2026-11-13T20:57:34.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "4b7fd80b55074cc1ba9fc7f830cddaadf9898ce2989fa41b35c52d23b2e51dba",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader.",
-          "sourceName": "Wsls",
-          "url": "https://www.wsls.com/news/politics/2026/11/13/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader/",
-          "publishedAt": "2026-11-13T20:57:20.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "76117ab3d9b87833a3d20d199388be345dab88d33758b49edc18bc55e5f3cc11",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader.",
-          "sourceName": "Wkmg",
-          "url": "https://www.clickorlando.com/news/politics/2026/11/13/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader/",
-          "publishedAt": "2026-11-13T20:57:12.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "99bab1191cde74c9ddcd5b34e45833181cbf419f56aff3f783cb78d777bbb879",
-          "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-          "description": "The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump...",
-          "sourceName": "News Times",
-          "url": "https://www.newstimes.com/news/politics/article/the-latest-now-democrats-have-to-figure-out-22528761.php",
-          "publishedAt": "2026-11-13T20:56:55.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "15d3402b2232b21ac711bfb498f9a4c619df4fe8f919fdcf4ec81cd3275bec5f",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "DENVER (AP) — Maryland Sen. Chris Van Hollen said Friday that he’s no longer considering a run for the White House and will focus instead on his bid to become Senate majority leader as he makes the case to Democratic colleagues.",
-          "sourceName": "Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/world/2026/11/13/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader",
-          "publishedAt": "2026-11-13T20:56:19.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "69753b4328a2eca5b029e10c7b36311b45728820fe5ea6ec78d7e6e80d5def74",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "DENVER (AP) — Maryland Sen. Chris Van Hollen said Friday that he’s no longer considering a run for the White House and will focus instead on his bid to become Senate majority leader as he makes the case to Democratic…",
-          "sourceName": "The Star",
-          "url": "https://www.thestar.com/news/world/united-states/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader/article_8940183e-69fc-5a34-97aa-3d73c95e58ae.html",
-          "publishedAt": "2026-11-13T20:56:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "feaafdb1c09f743efcd1c3afd2f316be6b5c23d479bda58591e867b013d40629",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he's no longer considering a presidential run as he is making his pitch to become Senate majority leader.",
-          "sourceName": "Newsday",
-          "url": "https://www.newsday.com/news/nation/schumer-van-hollen-democrats-senate-e66386",
-          "publishedAt": "2026-11-13T20:55:39.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8766b5bd33319629354ccdb330b72abae13560f500f142cc4029c5d8a8ba197c",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van Hollen told…",
-          "sourceName": "Winchesterstar",
-          "url": "https://www.winchesterstar.com/associated_press/washington/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as/article_d67d1d4a-83b0-5059-961c-2eee5425e9fd.html",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e220614c53c1f1379709e9a0ca629a0e93d4783f01258da03ec8938d65468377",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate...",
-          "sourceName": "Ct Insider",
-          "url": "https://www.ctinsider.com/news/politics/article/van-hollen-rules-out-white-house-run-as-he-mounts-22529642.php",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5532a664b1025d2bc570d1f566fdc6ee8e670ced605c3c07c1b37421098c61a5",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate...",
-          "sourceName": "Houston Chronicle",
-          "url": "https://www.houstonchronicle.com/news/politics/article/van-hollen-rules-out-white-house-run-as-he-mounts-22529642.php",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "729f9dda043ba379bac6407aef921d4aaab3f421083d5fced907ca98214ed24a",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van Hollen told…",
-          "sourceName": "Wink News",
-          "url": "https://www.winknews.com/news/international/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as/article_80386dfa-3ea6-5d61-aa83-f40e36da448d.html",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "209f7c86bb26e8102f7a37564377b9a0cc7cdab047bba2732a8e1efcf8e8e756",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader.",
-          "sourceName": "News4jax",
-          "url": "https://www.news4jax.com/news/politics/2026/11/13/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader/",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "5256f4a07189a8934a57e65ddcdafbf5c402f54ba3b4ebeac80a0d07ff6a5a3a",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van Hollen told…",
-          "sourceName": "Beloit Daily News",
-          "url": "https://www.beloitdailynews.com/news/national-news/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as/article_33e6402e-d091-5505-a7bc-98b0e297dc0d.html",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "453c81527b72dc8e94ab0a4d8abca67b4395461c8422079ef1f3f98015580703",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van Hollen told…",
-          "sourceName": "Nvdaily",
-          "url": "https://www.nvdaily.com/associated_press_national/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as/article_c79f35e8-6ad7-5c56-8d80-0884bdc4698f.html",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8a022779fce29bcbbbccb079dba15c7b7753a98205924b9205a778dee15ac2a5",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van Hollen told…",
-          "sourceName": "Dailysentinel",
-          "url": "https://www.dailysentinel.com/anpa/us/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as/article_f2d2bf9c-bc06-515e-bc4a-d7b2aa31f766.html",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9d0d9a56e147bf64c85b7c6bda4a8842fb3f9e4eb4873560dc8f1677fbd51736",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van Hollen told…",
-          "sourceName": "Dnronline",
-          "url": "https://www.dnronline.com/associated_press/national/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as/article_b2976141-3b2b-56c9-b31c-6bf50dd86666.html",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "91f095c8decbb0bb7282bae5b91b4243cd364cc366fc5d04237b324515be3716",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate...",
-          "sourceName": "Times Union",
-          "url": "https://www.timesunion.com/news/politics/article/van-hollen-rules-out-white-house-run-as-he-mounts-22529642.php",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f82327655769ac2e6e110814ec84cd1eb35ce6db2bf1f4c2d0929609660865c6",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader.",
-          "sourceName": "Clickondetroit",
-          "url": "https://www.clickondetroit.com/news/politics/2026/11/13/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader/",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "333bd4826c8820d6de19519f48051db85dea49a973222a419e0cd8f6191f9ea3",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate...",
-          "sourceName": "Laredo Morning Times Online",
-          "url": "https://www.lmtonline.com/news/politics/article/van-hollen-rules-out-white-house-run-as-he-mounts-22529642.php",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e093f61aa0965ab0c602a8db4cebdeec803f9d4d821fe3aab7a34df0e83ac502",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": null,
-          "sourceName": "Bundle",
-          "url": "https://www.bundle.app/en/breaking-news/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader-2DB6DCD1-2FB0-5341-96F4-85ECC0ED3399",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "313b670bcf00a4f1d8438963281fbcc6cde2df9e3e19d07e2b0a9e6cc5316f34",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van Hollen told…",
-          "sourceName": "Times Argus",
-          "url": "https://www.timesargus.com/news/national/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as/article_8dbfe4a6-2fad-5a81-b1f2-12140b7c6ba9.html",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "0082afecdf3764f428f54a313b2aa919ecbb9fbe3c36c945a8e4b842801b6aec",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van Hollen told…",
-          "sourceName": "Idahostatejournal",
-          "url": "https://www.idahostatejournal.com/news/national/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as/article_e66b9f15-9805-58ce-a8bb-0b125b6b54ae.html",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "dbd6b5c11a7220a7814af917380fd1257da5f41f74ec9a7fbc3e3c919821653c",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader. A day after he announced a challenge to Senate...",
-          "sourceName": "Midland Reporter-telegram",
-          "url": "https://www.mrt.com/news/politics/article/van-hollen-rules-out-white-house-run-as-he-mounts-22529642.php",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "eafa25b0d4da8244098bd1e795b4099b0282bb874d6aac49c92df37bdc7fee27",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "DENVER (AP) — Maryland Sen. Chris Van Hollen said Friday that he’s no longer considering a run for the White House and will focus instead on his bid to become Senate majority leader as he makes the case to Democratic…",
-          "sourceName": "Wv News",
-          "url": "https://www.wvnews.com/newsfeed/us/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as/article_e508c004-6974-5612-90a2-745da08fc655.html",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "7d4e56f0504c1b9dc8298b852430e92cd86ae444c88d02f9c45a5821e84ba872",
-          "title": "Van Hollen Rules Out White House Run as He Mounts Bid to Replace Schumer as Senate Leader",
-          "description": "Maryland Sen. Chris Van Hollen says he’s no longer considering a presidential run as he is making his pitch to become Senate majority leader",
-          "sourceName": "Usnews",
-          "url": "https://www.usnews.com/news/politics/articles/2026-11-13/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "3874feab7693f6602923570fc5eb3d62881733075c8d0ef89cc2ece3bf396f50",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": null,
-          "sourceName": "Daily American Republic",
-          "url": "https://www.darnews.com/world/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader-883a44a0",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "63a0adfab9cd471c3a88cfc2b670c47ebc1778ba85f4ad819adf8449dfb14c8a",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "DENVER (AP) — Maryland Sen. Chris Van Hollen said Friday that he’s no longer considering a run for the White House and will focus instead on his bid to become Senate majority leader as he makes the case to Democratic colleagues. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van […]",
-          "sourceName": "Ktar News 92.3",
-          "url": "https://ktar.com/national-news/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader",
-          "publishedAt": "2026-11-13T20:55:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "331f17ce72dceb6893196d6a23f0313809250961cec9bcd58e4abacd43703914",
-          "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-          "description": "The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive…",
-          "sourceName": "Hastingstribune",
-          "url": "https://www.hastingstribune.com/ap/politics/the-latest-supreme-court-to-consider-trump-s-order-suspending-asylum-access-at-southern-border/article_dfbe34a1-d8e0-5878-9699-0deb24160348.html",
-          "publishedAt": "2026-11-13T20:54:21.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "225757313633eb0197f5f10ee09c220a5ddd8f7216e733c48e04284ac6ff6647",
-          "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-          "description": "The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive…",
-          "sourceName": "Cadillacnews",
-          "url": "https://www.cadillacnews.com/ap/national/the-latest-supreme-court-to-consider-trump-s-order-suspending-asylum-access-at-southern-border/article_df5dfd22-23d1-52a4-9fb1-8dc584842f25.html",
-          "publishedAt": "2026-11-13T20:54:21.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f17436e15bb44bbb34b01b7f875b08b5f9c28d22e974922f877a977ed59bfa87",
-          "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-          "description": "The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive…",
-          "sourceName": "Mankato Free Press",
-          "url": "https://www.mankatofreepress.com/news/state_national_news/the-latest-supreme-court-to-consider-trump-s-order-suspending-asylum-access-at-southern-border/article_0592ba8b-367e-5d63-a37d-291e24c0bbb8.html",
-          "publishedAt": "2026-11-13T20:54:21.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e06bc9c8e2d85ff90a3e5a18ab3a76ad194310b80893893e5b897a7e3ed2d36c",
-          "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-          "description": "The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump...",
-          "sourceName": "Midland Reporter-telegram",
-          "url": "https://www.mrt.com/news/politics/article/the-latest-now-democrats-have-to-figure-out-22528761.php",
-          "publishedAt": "2026-11-13T20:54:21.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "c6612d801f3dcb26ae0c350d2efa43e1c7615a3ccb6344329aa76d2caf416b7d",
-          "title": "Schumer vs. Van Hollen: Who are Senate Democrats supporting for leader?",
-          "description": "A look at the Democratic senators already voicing support for Sen. Chuck Schumer or Sen. Chris Van Hollen to lead their new majority in the US Senate.",
-          "sourceName": "Usa Today",
-          "url": "https://www.usatoday.com/story/news/politics/2026/11/13/schumer-van-hollen-supporters-leader-senate/92760595007/",
-          "publishedAt": "2026-11-13T20:44:45.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d874166c9a6cad697195c56c1072976254c61ac400fb8040267c624e9bf2fdd4",
-          "title": "Schumer leads 'underdog' Van Hollen in early majority leader endorsements",
-          "description": "In launching his leadership bid on Thursday, Chris Van Hollen acknowledged that he's the \"underdog\" against Chuck Schumer.",
-          "sourceName": "Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/news/senate/4802873/chuck-schumer-chris-van-hollen-majority-leader-whip-count-versus-noncommittal-members-thus-far/",
-          "publishedAt": "2026-11-13T20:42:39.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "f5b616b4de97cf7235f0f9e153810c1eaffab70eb0b9ec62e24ade6ac921abfb",
-          "title": "Van Hollen says he will challenge Schumer for majority leader",
-          "description": "The Maryland senator, who is one of the leading critics of Israel in the upper chamber, has the backing of Sen. Bernie Sanders and senator-elect Abdul El-Sayed.",
-          "sourceName": "Jns.org",
-          "url": "https://www.jns.org/news/u-s-news/van-hollen-says-he-will-challenge-schumer-for-majority-leader",
-          "publishedAt": "2026-11-13T20:42:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "b576d1fb8db119b6b96fad9a647cf1678489cd12e0ff64939fef03385fd4d3fc",
-          "title": "The senators who could join Van Hollen's insurgency against Schumer",
-          "description": null,
-          "sourceName": "Axios",
-          "url": "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader",
-          "publishedAt": "2026-11-13T20:10:49.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "011ae5eb54b8341c700a53d3f4730ead378cd5ff27224fa0c2d3ee623c06ee50",
-          "title": "Sen. Angus King still backing Schumer for Democratic leader",
-          "description": "While King says Schumer has the experience and political know-how to get major things done in Congress, Troy Jackson is among the new batch of senators calling for different leadership.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/politics/2026-11-13/sen-angus-king-still-backing-schumer-for-democratic-leader",
-          "publishedAt": "2026-11-13T20:09:37.000Z",
-          "sentiment": 1
-        },
-        {
-          "id": "7534f630a5b092a55186dbb46f02a1875a0a62c83fdb2e389f88057b2e2b0b67",
-          "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-          "description": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party US politics live – latest updates Ever since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over whether their leader in the Senate, Chuck Schumer, is up to the task of taking the president on. That debate intensified on Thursday, when the Maryland senator Chris Van Hollen announced he will challenge Schumer for the post of Democratic Senate leader, which will become one of the most powerful jobs in Washington when the party takes control of Congress’s upper chamber next year. Continue reading...",
-          "sourceName": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
-          "publishedAt": "2026-11-13T20:08:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "583ad4f369e62e2fc15282c4c726da97b9fa28feaee497397648b3dd4c82a807",
-          "title": "Van Hollen’s Challenge to Chuck Schumer",
-          "description": "Win or lose, the contest for Democratic leader, far from undermining Democratic unity, will define unity around the right set of issues. The post Van Hollen’s Challenge to Chuck Schumer appeared first on The American Prospect.",
-          "sourceName": "The American Prospect",
-          "url": "https://prospect.org/2026/11/13/van-hollens-challenge-to-chuck-schumer/",
-          "publishedAt": "2026-11-13T20:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9538fa917e76e6df11fc4ff0bbc4073d175fe2c514e13fe96bb2a8cf931e9733",
-          "title": "Who is Chris Van Hollen and why is he challenging Chuck Schumer for Senate majority leader?",
-          "description": "Maryland Sen. Chris Van Hollen announced this week that he will challenge Democratic stalwart Chuck Schumer of New York for Senate majority leader, setting up an internal clash over the direction of the party just days after its landslide victory in this year’s midterm elections. “We saw a huge outburst of democracy on Election Day — red states, blue states, purple states — and it wasn’t only a rejection of Donald Trump and his corruption and his wars and his cruelty,” Van Hollen told MS NOW. “It was also about a call for a larger change to take on a broken economic system that’s rigged in favor of the very wealthy against working people. The call was really to reject the status quo and to reject business as usual. And to do that, I think we need new leadership.” Van Hollen, 67, insisted that his decision was “not about any one person.” Yet progressives have long criticized the 75-year-old Schumer — who has served in the Senate since 1999 and led the Democratic caucus since 2017 — for what they characterize as his cautious, centrist approach to politics. Seven newly elected Democratic senators have already declined to support Schumer’s return as majority leader, a post he previously occupied from 2021 to 2025: Adam Hamilton of Kansas, Abdul El-Sayed of Michigan, Annie Andrews of South Carolina, Peggy Flanagan of Minnesota, James Talarico of Texas, Chris Pappas of New Hampshire and Juliana Stratton of Illinois. On Tuesday, Vermont Sen. Bernie Sanders, an independent who caucuses with the Democrats, also said he would “not be supporting Chuck to be re-elected as the Democratic leader.” “If this campaign was about anything, it was about change, and the need for the Democratic Party, in my view, to move in a new and bold direction,” Sanders told reporters. So who is Van Hollen, why is he challenging Schumer and does he really have a chance? Here’s everything you need to know about the intraparty battle that’s brewing ahead of next year’s Democratic takeover on Capitol Hill. Who is Chris Van Hollen? Van Hollen served seven terms in the House representing Maryland’s 8th Congressional District, a deep blue region mostly comprising the Washington, D.C., suburbs, before being elected to the Senate in 2016. He previously served as the head of the Democratic Party’s campaign committees for both the House and the Senate, roles that gave him a major influence on Democrats’ election strategy. In those roles, he helped oversee so-called blue wave elections in 2008 and 2018, but was also at the helm during the “shellacking” the party suffered at the hands of Republicans in 2010. Van Hollen is a progressive Democrat who has said he supports Medicare for All, raising the federal minimum wage and LGBTQ rights. In his bid for majority leader, he has the backing of two of the Senate’s most prominent progressive figures in Sanders and El-Sayed. In recent years, Van Hollen has been particularly critical of the U.S. relationship with Israel, including calling what he viewed as former President Joe Biden’s inaction on the war in Gaza “shameful.” More recently, he voted in favor of cancelling billions of dollars in weapons sales to Israel and introduced a bill aimed at investigating alleged human rights abuses in Palestine's West Bank. Van Hollen gained national attention in April 2025, when he travelled to El Salvador to meet with Kilmar Abrego Garcia, a Salvadoran immigrant who had been wrongfully deported and sent to a notoriously brutal prison in the country. While Van Hollen sits to the ideological left of Schumer on some key policy issues, his main critique of the Democrats’ current leader in the Senate centers mostly on his approach. In his announcing his bid for majority leader, Van Hollen said Democrats “need to meet the moment with a bold agenda” — phrasing that suggests he doesn’t believe Schumer will be aggressive enough to take full advantage of the party’s power in Congress. What’s at stake Unlike the speaker of the House, the Senate majority leader isn’t mentioned in the Constitution. But over time it has evolved into one of the most powerful positions in Washington. By controlling which policies are emphasized, which bills are brought to the floor, when votes occur, which judges and appointees are confirmed and how all of this is communicated to the president and the public, majority leaders can effectively reshape the party — at least on a legislative level — in their image. They can also help recruit and fund Senate candidates for future elections. Schumer’s critics say his image is no longer a good match for the moment. Some have called for generational or cultural change. Some have insisted on geographic diversity, noting that both Schumer and Hakeem Jeffries, who is in line to be the next House speaker, represent New York. (They live about 15 minutes from each other in Brooklyn.) Some have demanded a more combative approach to the defining issues of the 2026 midterms: lowering the cost of living, ending the war in Iran, confronting the Trump administration. And some say they are simply seeking a conversation rather than a “coronation.” “Whoever wants my vote is going to have to show me a concrete plan that’s definitively different,” Michigan Sen. Elissa Slotkin, a relative moderate, said Tuesday at a news conference with Sanders, leaving the door open to a leadership change. “What they’re going to do in the first 100 days to put money in people’s pockets and then, in particular, how they’re going to communicate differently.” Van Hollen has yet to articulate a concrete agenda. But earlier this week he criticized Schumer, who is Jewish, for his ties to Israel and other special interests, saying that the New York senator and the Democratic Senatorial Campaign Committee “sided with the crypto industry and AIPAC,” the pro-Israel lobbying group, against Democratic candidates who went on to win the general election, including El-Sayed of Michigan and Troy Jackson of Maine. Van Hollen added that the DSCC should not take money from AIPAC in the future. Schumer has a long history of support for Israel, but he has strongly criticized outgoing Prime Minister Benjamin Netanyahu and his handling of the war in Gaza. Van Hollen has also argued that Democrats should refuse to pass any bill to fund the government unless it includes language to end the war in Iran, even if that leads to another government shutdown next month. “Right now, under our current leadership, we have a situation where they are not willing to use the most important power we have to end the war, which is to defund it,” he said Friday. What’s next House Speaker is chosen by a vote of the full chamber. But Senate majority leaders are selected by only one party in a secret, closed-door vote, which means much of the process leading up to Democrats’ leadership decision may happen out of the public eye. The vote is reportedly scheduled to take place on Dec. 1, but Politico reports that there have been discussions about moving it up to as soon as next week. Sen. Brian Schatz, a Democrat from Hawaii, urged his party to resolve its leadership dispute as soon as possible. “We must move quickly to vote, unify and get to work,” Schatz told the New York Times. It remains to be seen whether Van Hollen can collect the support of enough Democratic senators to present a true threat to Schumer’s leadership. On Thursday night, Schumer expressed confidence that he would overcome Van Hollen’s challenge. “I welcome any discussion about the future of our caucus and the important work ahead,” Schumer wrote on social media. “I’m proud of what we’ve accomplished together — 55 seats and counting is an amazing result — and I have the votes to continue serving as Democratic Leader.” Some moderate senators have stepped forward to back Schumer, including Pennsylvania Democratic Sen. John Fetterman and Angus King of Maine, an independent who caucuses with Democrats. After crediting Schumer with Democrats’ dominant performance in the midterms, King compared the situation to baseball. “Why would you fire the manager when you just won the World Series?” he asked. This article originally appeared on Yahoo News at https://www.yahoo.com/news/politics/article/who-is-chris-van-hollen-and-why-is-he-challenging-chuck-schumer-for-senate-majority-leader-195645336.html",
-          "sourceName": "Yahoo! News",
-          "url": "https://www.yahoo.com/news/politics/article/who-is-chris-van-hollen-and-why-is-he-challenging-chuck-schumer-for-senate-majority-leader-195645336.html",
-          "publishedAt": "2026-11-13T19:58:17.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "83e2e5ed843ec2ed02d9585ff8d9afb5ff66c03ddc3b8d9a617f705ebc206a4a",
-          "title": "Van Hollen rules out White House run as he mounts bid to replace Schumer as Senate leader",
-          "description": "DENVER (AP) — Maryland Sen. Chris Van Hollen said Friday that he’s no longer considering a run for the White House and will focus instead on his bid to become Senate majority leader as he makes the case to Democratic colleagues. A day after he announced a challenge to Senate Democratic Leader Chuck Schumer, Van […]",
-          "sourceName": "Infonews.ca",
-          "url": "https://infonews.ca/news/7983745/van-hollen-rules-out-white-house-run-as-he-mounts-bid-to-replace-schumer-as-senate-leader/",
-          "publishedAt": "2026-11-13T19:56:19.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6fbe612cabe685b1e7c48747ae42d62827d92c6bd2c49cd5eed07e4bd6f1b1b3",
-          "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-          "description": "The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal. Democrats are preparing an onslaught of probes into the Trump administration. Investigations into the federal government’s purchase of an immigration detention facility in Minnesota, whether Robert F. Kennedy Jr. lied to Congress about his 2019 trip to Samoa and several others have been announced. Democrats are gathering in Denver for a What’s Next conference hosted by a new group called Majority Democrats following their historic blue wave of election wins. The post The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border appeared first on WHEC.com.",
-          "sourceName": "Whec News10nbc",
-          "url": "https://www.whec.com/ap-top-news/the-latest-supreme-court-to-consider-trumps-order-suspending-asylum-access-at-southern-border/",
-          "publishedAt": "2026-11-13T19:44:24.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e31439c6921ec394ee9e855aebd7bf7847193aa254aa34c9df60fbc9bee9c89d",
-          "title": "Van Hollen announces bid for majority leader, but Schumer says he has the votes",
-          "description": "WASHINGTON — Sen. Chris Van Hollen announced Thursday night that he would run for Senate majority leader, launching a challenge to Sen. Charles E. Schumer of New York, the current Democratic leader.",
-          "sourceName": "The Day",
-          "url": "https://theday.com/news/938526/van-hollen-announces-bid-for-majority-leader-but-schumer-says-he-has-the-votes/",
-          "publishedAt": "2026-11-13T19:39:40.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "89a624ff7a613cea2ce666387641a0684fe81cf2a98d646c7ed79027ca17379c",
-          "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-          "description": "The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive…",
-          "sourceName": "Rutland Herald",
-          "url": "https://www.rutlandherald.com/ap/national/the-latest-supreme-court-to-consider-trump-s-order-suspending-asylum-access-at-southern-border/article_b8b47c7c-d6d1-5dac-8b95-9616d4cbcef9.html",
-          "publishedAt": "2026-11-13T19:23:59.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8d9e678a425558f9157c98f1236c366f47f51cb2c3d8ae0834dc4bf8440b354a",
-          "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-          "description": "The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive…",
-          "sourceName": "Nvdaily",
-          "url": "https://www.nvdaily.com/associated_press_national/the-latest-supreme-court-to-consider-trump-s-order-suspending-asylum-access-at-southern-border/article_af362d84-03dd-5f67-9dd7-5559d6c2aa46.html",
-          "publishedAt": "2026-11-13T19:23:59.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "6187faf6f736f5c3afa0f8cc7880af4bf942816883eaa4eac80618077b0c6506",
-          "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-          "description": "The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive…",
-          "sourceName": "Postregister",
-          "url": "https://www.postregister.com/news/national/the-latest-supreme-court-to-consider-trump-s-order-suspending-asylum-access-at-southern-border/article_1cef69e8-1147-527e-b16a-f2e8dd6893e2.html",
-          "publishedAt": "2026-11-13T19:23:59.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a46c25639599074e4fef28b0f2ce2ff550bdbbb888d7aa8903298a21066474a1",
-          "title": "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-          "description": "The Supreme Court agreed Friday to consider President Donald Trump’s ban on asylum at the southern border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive…",
-          "sourceName": "Times Argus",
-          "url": "https://www.timesargus.com/news/national/the-latest-supreme-court-to-consider-trump-s-order-suspending-asylum-access-at-southern-border/article_b2c94a0f-9044-5071-8b70-393eaedca3c3.html",
-          "publishedAt": "2026-11-13T19:23:59.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "e65133899cc2ddf671631170c61b18a19cc4b7b133f0bdd278a6d3f34e7c6f56",
-          "title": "Schumer and Van Hollen face off for Senate majority leader. What do Democrats think?",
-          "description": "Within moments of Chris Van Hollen announcing his intent to challenge Chuck Schumer in a race to lead next year’s Senate Democratic majority, endorsements began flying.",
-          "sourceName": "Abc News",
-          "url": "https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386",
-          "publishedAt": "2026-11-13T18:59:30.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "8b6781557664b66f0532c754e4092b3c7a22c6b47efd5121ff9647527d52ff47",
-          "title": "The Latest: Now Democrats have to figure out 'What's Next'",
-          "description": "Democrats are gathering in Denver for a What’s Next conference hosted by a new group called Majority Democrats following their historic blue wave of election wins.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/the-latest-now-democrats-have-to-figure-out-what-s-next-89831147",
-          "publishedAt": "2026-11-13T18:30:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "94a8154c04db3c831967f4df2d1f425ff124f98bb60d376c55d8556a269ff69d",
-          "title": "Schumer vs. Van Hollen: Senate Democratic Leader Odds After Challenge",
-          "description": "Chris Van Hollen is challenging Chuck Schumer for Senate leader, with a Dec. 1 secret-ballot vote. See the odds, who has backed whom and the vote math.",
-          "sourceName": "Action Network",
-          "url": "https://www.actionnetwork.com/politics/schumer-vs-van-hollen-senate-democratic-leader-odds",
-          "publishedAt": "2026-11-13T18:25:01.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "1ed631089b7779c29e4ba6f45057357073e517e126352e1049017b1a809e3558",
-          "title": "Schumer's former ally mounts leadership challenge as Democrats face rare internal power struggle",
-          "description": "Senate Democrats face their first contested leadership race since 1994 as Chris Van Hollen challenges Chuck Schumer with Bernie Sanders' backing.",
-          "sourceName": "Fox News",
-          "url": "https://www.foxnews.com/politics/schumers-former-ally-mounts-leadership-challenge-democrats-face-rare-internal-power-struggle",
-          "publishedAt": "2026-11-13T18:23:20.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "bdf1b50987293507bba4a15eae4c0def48cd269aaf98d803973ea360a5cceb25",
