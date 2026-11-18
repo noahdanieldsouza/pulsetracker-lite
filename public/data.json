@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-11-18T20:02:24.984Z",
+  "lastUpdated": "2026-11-18T20:47:21.683Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.07984999999999999,
+      "overallSentiment": 0.036566666666666664,
       "newsSentiment": 0,
       "socialSentiment": 0.15969999999999998,
       "mentions": {
         "news": 4,
         "social": 32,
-        "youtube": 0,
-        "total": 36
+        "youtube": 2,
+        "total": 38
       },
       "news": [
         {
@@ -310,8 +310,29 @@
           "sentiment": -1
         }
       ],
-      "youtube": [],
-      "youtubeSentiment": null
+      "youtube": [
+        {
+          "id": "22cefe18331481dd62e1a467a3d8cbc74be2f946cd5030140388fcea8749d6a4",
+          "authorName": "@arturoquiartelli5039",
+          "commentText": "What&#39;s the problem? My Senator can wear from the swap meet even if he/she do a great job for the people. Congratulations Troy. 🇺🇸 💙 🏆 ✌️",
+          "publishedAt": "2026-11-18T06:03:17Z",
+          "videoId": "4L5hMkWwIIQ",
+          "videoTitle": "Mainers react to reported $89 price tag on Sen.-elect Troy Jackson&#39;s suit",
+          "commentId": "Ugy4_9_tgtPZ9iXs32V4AaABAg",
+          "sentiment": 0.8
+        },
+        {
+          "id": "4b5ee41a2b0c67ca1d7dd7b17a298d9e4161cd3d1cf24c3f7dcc538c50656e83",
+          "authorName": "@MasonMcdonaldMainePatriot",
+          "commentText": "So he lied to the former governor and people, jackson is a dirty politician",
+          "publishedAt": "2026-11-17T21:51:06Z",
+          "videoId": "sNEvqoXhTMU",
+          "videoTitle": "CNN found Troy Jackson&#39;s troll account from 2012",
+          "commentId": "UgwN3IxhOEf5QIfpTM14AaABAg",
+          "sentiment": -0.9
+        }
+      ],
+      "youtubeSentiment": -0.04999999999999999
     },
     {
       "id": "hannah-pingree",
@@ -500,15 +521,15 @@
     {
       "id": "chellie-pingree",
       "name": "Chellie Pingree",
-      "overallSentiment": 0.15181999999999998,
+      "overallSentiment": -0.16545333333333337,
       "newsSentiment": 0,
       "socialSentiment": 0.30363999999999997,
-      "youtubeSentiment": null,
+      "youtubeSentiment": -0.8,
       "mentions": {
         "news": 18,
         "social": 5,
-        "youtube": 0,
-        "total": 23
+        "youtube": 1,
+        "total": 24
       },
       "news": [
         {
@@ -716,20 +737,31 @@
           "sentiment": 0.6
         }
       ],
-      "youtube": []
+      "youtube": [
+        {
+          "id": "5726150ec4fb1de037ddf0123f165a4369f2c332dbe9446d7bafd7fb03ca22fb",
+          "authorName": "@silverton2000",
+          "commentText": "Chellie Pingree is a joke. Look up how many bills she has introduced- zero. 😊",
+          "publishedAt": "2026-11-18T03:24:03Z",
+          "videoId": "ejWe9fkHmzM",
+          "videoTitle": "Thomas Massie + Chellie Pingree: Two Farmers in Congress, Across the Aisle",
+          "commentId": "UgweEP8PWrM1BK67ir14AaABAg",
+          "sentiment": -0.8
+        }
+      ]
     },
     {
       "id": "angus-king",
       "name": "Angus King",
-      "overallSentiment": -0.1737654761904762,
+      "overallSentiment": -0.39917698412698416,
       "newsSentiment": -0.026666666666666665,
       "socialSentiment": -0.3208642857142857,
-      "youtubeSentiment": null,
+      "youtubeSentiment": -0.8500000000000001,
       "mentions": {
         "news": 30,
         "social": 42,
-        "youtube": 0,
-        "total": 72
+        "youtube": 2,
+        "total": 74
       },
       "news": [
         {
@@ -1341,7 +1373,28 @@
           "sentiment": 0
         }
       ],
-      "youtube": []
+      "youtube": [
+        {
+          "id": "90c38a8947b41f1186e172ba8324c801ad57da8272da94632db6b5aeea28ef93",
+          "authorName": "@roymoyer6492",
+          "commentText": "king is not from maine, he&#39;s a transplant with nothing but self interest in mind, whatever keeps him in office.",
+          "publishedAt": "2026-11-18T08:41:00Z",
+          "videoId": "xzMFzopRyXQ",
+          "videoTitle": "&#39;Today you&#39;d be turned away!&#39;: Hung Cao&#39;s fiery response to Sen King&#39;s immigration taunt at GOP",
+          "commentId": "Ugx2E5EYgm53VKDG3kh4AaABAg",
+          "sentiment": -0.9
+        },
+        {
+          "id": "3f883dd43f1aa2671a0f9f71af79bba8e94fa2bddb47a2beaa0663fef1b1253b",
+          "authorName": "@YOUTUBER-jf6iq",
+          "commentText": "mr. king ia a pawn. 😮",
+          "publishedAt": "2026-11-18T00:45:02Z",
+          "videoId": "xzMFzopRyXQ",
+          "videoTitle": "&#39;Today you&#39;d be turned away!&#39;: Hung Cao&#39;s fiery response to Sen King&#39;s immigration taunt at GOP",
+          "commentId": "UgzUPou_opP2Q7_eg2Z4AaABAg",
+          "sentiment": -0.8
+        }
+      ]
     }
   ]
 }
