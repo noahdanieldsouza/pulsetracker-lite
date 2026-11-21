@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-11-21T19:36:35.857Z",
+  "lastUpdated": "2026-11-21T22:26:28.470Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.22333333333333336,
+      "overallSentiment": 0.26944444444444443,
       "newsSentiment": 0,
-      "socialSentiment": -0.13,
+      "socialSentiment": 0.00833333333333334,
       "mentions": {
         "news": 8,
-        "social": 20,
+        "social": 24,
         "youtube": 10,
-        "total": 38
+        "total": 42
       },
       "news": [
         {
@@ -89,6 +89,86 @@
         }
       ],
       "social": [
+        {
+          "id": "815dbc076ef59787fda44d33c10190e0dc271c7898ebf5ecf9c432c5c887435e",
+          "authorHandle": "farrahbostic.bsky.social",
+          "postText": "1/ We recorded this just before the election.\n\n@rtraister.bsky.social told me if Troy Jackson won, it would be because of him, and because of the Mainers who were ready to knock doors \"despite honestly some obstruction coming from the party.\"\n\nNew Cross Tabs 🧵 podcasts.apple.com/us/podcast/...",
+          "createdAt": "2026-11-21T21:00:11.927795+00:00",
+          "uri": "at://did:plc:6nejqbfthqhoy5zqmoi2p2oc/app.bsky.feed.post/3n2tymskv3f2c",
+          "sentiment": 0.7
+        },
+        {
+          "id": "4d8d6dc9591dcd1095dccf23a6c9feacf0285f12b45f0ad48153c28f5f1568f0",
+          "authorHandle": "williamhaugh.bsky.social",
+          "postText": "youtu.be/5SLPvYJHZAw?...",
+          "createdAt": "2026-11-21T20:48:16.721Z",
+          "uri": "at://did:plc:gjbze2tp2ro4dludxlnpv4dm/app.bsky.feed.post/3n2txxii44k2w",
+          "sentiment": 0
+        },
+        {
+          "id": "263c8d8e0706c78b2bf446fe3fbdfe92ed5bbfa323b381b3909fd74a41f5a048",
+          "authorHandle": "bookshrike.bsky.social",
+          "postText": "This is great, get to know Troy Jackson.  \n\nI like him, he really seems to get it and is quite down to earth.",
+          "createdAt": "2026-11-21T20:38:54.398Z",
+          "uri": "at://did:plc:lwhsqr55zv76mwollvr52tcb/app.bsky.feed.post/3n2txgq7eks2n",
+          "sentiment": 0.8
+        },
+        {
+          "id": "a3f627443da182bf3e5be8940bd0b4506a9aaee871b09fdef743ef1e63c3b572",
+          "authorHandle": "mollyjongfast.bsky.social",
+          "postText": "talked to @troyjackson207.bsky.social about his stunning win\n\nwww.youtube.com/watch?v=5SLP...",
+          "createdAt": "2026-11-21T20:08:50.894Z",
+          "uri": "at://did:plc:oqr5mp25r7z3vfr3igeerxbw/app.bsky.feed.post/3n2tvqyar7k2d",
+          "sentiment": 0.7
+        },
+        {
+          "id": "b6211d1d09827904abee8c4c97067f5fb408c2c14ac519c71cdfa0e1dc5c2672",
+          "authorHandle": "dennisjkoch.bsky.social",
+          "postText": "Maine Senator-elect Maine Senator-elect Troy Jackson joins host Molly Jong-Fast to talk about arriving in Washington with nine new Democratic senators and why he thinks the caucus can push for Medicare for All\n\n@mollyjongfast.bsky.social\n\n#USA #Trump #uspoli\n\nyoutu.be/5SLPvYJHZAw",
+          "createdAt": "2026-11-21T20:01:58.466Z",
+          "uri": "at://did:plc:mv6loxcddhj3i6pzfvzicc36/app.bsky.feed.post/3n2tveowgjc2q",
+          "sentiment": 0.6
+        },
+        {
+          "id": "fbf352ee7446c1abd6ac447747f585e2a425648879aa62736cac3807d863ae36",
+          "authorHandle": "creativeelegance.bsky.social",
+          "postText": "youtu.be/5SLPvYJHZAw?...",
+          "createdAt": "2026-11-21T19:47:16.802Z",
+          "uri": "at://did:plc:3mxskh2haaiuhtmqqgmnzeb6/app.bsky.feed.post/3n2tukg46jc2q",
+          "sentiment": 0
+        },
+        {
+          "id": "94d3de6f4450d502dc5480ecf7dc7456969a16e889297a5b7298505ffab887b7",
+          "authorHandle": "davidtdorais.bsky.social",
+          "postText": "www.youtube.com/watch?v=5SLP...",
+          "createdAt": "2026-11-21T19:08:36.709Z",
+          "uri": "at://did:plc:w2jhtgd4vm4jdzjmnqioutme/app.bsky.feed.post/3n2tsfbikp226",
+          "sentiment": 0
+        },
+        {
+          "id": "d4a8f2eb826d7ef4fae36de0693f4a1607992bda77149ead436a6f388df1981e",
+          "authorHandle": "djblack21.bsky.social",
+          "postText": "Maine Senator-elect Troy Jackson joins host Molly Jong-Fast to talk about arriving in Washington with nine new Democratic senators and why he thinks the caucus can push for Medicare for All, prescription drug coverage, childcare, lifting tariffs and ending the Iran war. \n\nyoutu.be/5SLPvYJHZAw",
+          "createdAt": "2026-11-21T19:07:59.509Z",
+          "uri": "at://did:plc:jwmyh3wycmjqf4cav3e5iazu/app.bsky.feed.post/3n2tse5zcl22z",
+          "sentiment": 0.6
+        },
+        {
+          "id": "f59c8435573ab2dbbea0007d1bacbfa357bfbb078c6cd364063a09040c01564f",
+          "authorHandle": "creativeelegance.bsky.social",
+          "postText": "youtube.com/shorts/Pg2KG...",
+          "createdAt": "2026-11-21T19:07:26.893Z",
+          "uri": "at://did:plc:3mxskh2haaiuhtmqqgmnzeb6/app.bsky.feed.post/3n2tsd6w6t22j",
+          "sentiment": 0
+        },
+        {
+          "id": "a933d6b9c5ff1dd9073d0cd8c66bf106c05204a3cb84a934c357c59a03715a27",
+          "authorHandle": "laborheritage.bsky.social",
+          "postText": "LABOR VIDEO OF THE WEEK\n\nThe Crowd at Troy Jackson’s Victory Party Sings “Solidarity Forever”\n\nFind out more and watch the video at tinyurl.com/5e3py2uz\n\n#BlueWave #UnionStrong #Solidarity",
+          "createdAt": "2026-11-21T18:18:15.793Z",
+          "uri": "at://did:plc:gdqe24kykjs4m6jq3gy3xl3c/app.bsky.feed.post/3n2tplasvx72f",
+          "sentiment": 0.8
+        },
         {
           "id": "452492be131c5725b5aabf4a4da37e1a0d510f491f877c9598dd916ba1e31c39",
           "authorHandle": "asstastik.com",
@@ -200,54 +280,6 @@
           "createdAt": "2026-11-20T23:20:40.594Z",
           "uri": "at://did:plc:6zqdg7xzhlqprhtdyzoutk2k/app.bsky.feed.post/3n2rpz3ccjk2d",
           "sentiment": 0
-        },
-        {
-          "id": "3b4376ac1c036103c04c748e159012ce4b20e86d6418808dfa1b3aa308dc386a",
-          "authorHandle": "miss-spider.bsky.social",
-          "postText": "Rural Maine is still rural. We NEED to reach these folks all over the country.  I think Troy Jackson will sway a lot of them 🌲💙",
-          "createdAt": "2026-11-20T21:26:01.833Z",
-          "uri": "at://did:plc:qgsovb5jzfefphccpeaitmf6/app.bsky.feed.post/3n2rjm36zm22p",
-          "sentiment": 0.8
-        },
-        {
-          "id": "de22943d5ba5baa41fa25a53db514b95a5a6b732338ce0975b284ef279037e45",
-          "authorHandle": "notzati.bsky.social",
-          "postText": "Troy Jackson and Abdul El-Sayed are basically identical on policy as far as I can tell, so are we to assume the article’s argument is literally just about presenting as blue-collar? Which I agree that’s can be an asset but that doesn’t mean literally every candidate has to.",
-          "createdAt": "2026-11-20T20:10:01.773Z",
-          "uri": "at://did:plc:5bsuqqdebxga5dz3lm7mkmha/app.bsky.feed.post/3n2rfe6ezz22v",
-          "sentiment": 0
-        },
-        {
-          "id": "35e5340e63faa675f64fdba9eb572abebded7c3e90b82beabe8f1aee008db292",
-          "authorHandle": "troyrenck.bsky.social",
-          "postText": "#Rockies’ get aggressive in pursuit of starting pitching with acquisition of Davis Martin and Luis Castillo. Was it right move?\nYouTube: bit.ly/496IOBM\nApple: bit.ly/3VyvfYR\nSpotify: bit.ly/4ACtLM6",
-          "createdAt": "2026-11-20T20:08:33.498Z",
-          "uri": "at://did:plc:67wqxhsm6tmbsfjucvhakvnt/app.bsky.feed.post/3n2rfbk73xc2o",
-          "sentiment": 0
-        },
-        {
-          "id": "dccb96c16ac05ef1ff18358c11ab7f22b19256ae49d374c55195f4ef966ff5c5",
-          "authorHandle": "hydevoltyge.bsky.social",
-          "postText": "Of all the things for campaigns to fixate on. SINGLE-DIRECTION candidate quality metric. Beyond ridiculous.\n\nGo ahead, moderates want to say Troy Jackson is a bad candidate? What does that make Sara Gideon? Tom Allen? Shenna Bellows?\n\nOh well I guess moderates are horrible candidates, WAR said so :)",
-          "createdAt": "2026-11-20T18:16:55.369Z",
-          "uri": "at://did:plc:h427qxhwbcs67frpiwx7nffh/app.bsky.feed.post/3n2r6zwejbs2a",
-          "sentiment": 0.6
-        },
-        {
-          "id": "a63538082086d66a2bf57832094fc75372800be7cfd04ace9679eb796ca9d355",
-          "authorHandle": "bellessh.bsky.social",
-          "postText": "Idade: 26\nAltura: 1,67\nTatuagens: 0\nHobby: sofrer tentando tocar teclado eu acho\nJogo: não jogo\nLivro: Percy Jackson e o ladrão de raios \nComida: queijo, qualquer um \nFilme: a múmia \nSérie: heated rivalry 😀\nAnimal: cachorro \nGif que me representa:",
-          "createdAt": "2026-11-20T17:55:01.363Z",
-          "uri": "at://did:plc:rwbtjw5y7xzzbfd3xkhtkmxl/app.bsky.feed.post/3n2r5srausk2z",
-          "sentiment": 0
-        },
-        {
-          "id": "41e18fece4315a475379317c9121634678e2ecb93def1921f84d27a80d0fbeeb",
-          "authorHandle": "nonlinearbotanist.bsky.social",
-          "postText": "substack.com/@troyjackson...",
-          "createdAt": "2026-11-20T17:54:50.580Z",
-          "uri": "at://did:plc:uo2dxxsotdgksnnobtewwaqp/app.bsky.feed.post/3n2r5sgx4322n",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -357,15 +389,15 @@
     {
       "id": "hannah-pingree",
       "name": "Hannah Pingree",
-      "overallSentiment": 0.21666666666666667,
+      "overallSentiment": 0.15,
       "newsSentiment": 0.2333333333333333,
-      "socialSentiment": 0.2,
+      "socialSentiment": 0.06666666666666667,
       "youtubeSentiment": null,
       "mentions": {
         "news": 3,
-        "social": 1,
+        "social": 3,
         "youtube": 0,
-        "total": 4
+        "total": 6
       },
       "news": [
         {
@@ -398,6 +430,22 @@
       ],
       "social": [
         {
+          "id": "1d8c54cc54cedd775f9f90ab54858f7c3ff4bc49bb3c2bc01c528a5a165071cf",
+          "authorHandle": "uncrewed.bsky.social",
+          "postText": "In the most Maine sentence ever, an Independent lobsterman who was convicted of campaign finance fraud (and served 72 hours in prison for it) flipped a GOP-held seat in #HD45 this year.\n\nClinton Collamore won this Trump+7 seat by 4% as Susan Collins & Hannah Pingree carried it.",
+          "createdAt": "2026-11-21T19:42:46.255Z",
+          "uri": "at://did:plc:4huwfire7tuacs3bwjsfueyt/app.bsky.feed.post/3n2tuce3sg22k",
+          "sentiment": 0
+        },
+        {
+          "id": "e83db738f22dff1d83870b24fe10773dd64e52a2c202a70f101c2007673251d0",
+          "authorHandle": "banmarnj.bsky.social",
+          "postText": "Gov.-elect Hannah Pingree returns from New Governor’s Leadership Forum in Utah, pledges to bring ideas back to Maine",
+          "createdAt": "2026-11-21T18:05:12.433Z",
+          "uri": "at://did:plc:y5xpslr2bnzbnbyzkexm4ork/app.bsky.feed.post/3n2totvhcfc2r",
+          "sentiment": 0
+        },
+        {
           "id": "64ef9c15f3db2d5062c03418aa6367e2c2574d59a6b18a22409fe8ca8b028f4e",
           "authorHandle": "some-news.bsky.social",
           "postText": "Gov.-elect Hannah Pingree returned to Maine after a 3-day Utah trip with the National Governors Association, meeting governors-elect and veteran leaders at a New Governors forum and pledging to bring back best practices.",
@@ -411,41 +459,32 @@
     {
       "id": "paul-lepage",
       "name": "Paul LePage",
-      "overallSentiment": -1,
+      "overallSentiment": null,
       "newsSentiment": null,
-      "socialSentiment": -1,
+      "socialSentiment": null,
       "youtubeSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 1,
+        "social": 0,
         "youtube": 0,
-        "total": 1
+        "total": 0
       },
       "news": [],
-      "social": [
-        {
-          "id": "7a49caccde53963aa8a8e7ed92901852c37f6b7de787b4c9f01e33cea7405b1b",
-          "authorHandle": "dirigoblue.bsky.social",
-          "postText": "The pilot may told Trump that and poof! It’s a truth Just like how Paul LePage believes wind turbines have little motors in them for when the wind isn’t blowing",
-          "createdAt": "2026-11-20T21:17:00.644Z",
-          "uri": "at://did:plc:emynwtwnfwmol6mxg344f5rm/app.bsky.feed.post/3n2rj3x3bp22z",
-          "sentiment": -1
-        }
-      ],
+      "social": [],
       "youtube": []
     },
     {
       "id": "chellie-pingree",
       "name": "Chellie Pingree",
-      "overallSentiment": -0.18888888888888888,
+      "overallSentiment": -0.14166666666666666,
       "newsSentiment": 0,
-      "socialSentiment": -0.5666666666666667,
+      "socialSentiment": -0.425,
       "youtubeSentiment": 0,
       "mentions": {
         "news": 3,
-        "social": 3,
+        "social": 4,
         "youtube": 1,
-        "total": 7
+        "total": 8
       },
       "news": [
         {
@@ -477,6 +516,14 @@
         }
       ],
       "social": [
+        {
+          "id": "32ed0921db53231c70cf12840a45745966d3c6df3d9189c4bff6384dfe35d080",
+          "authorHandle": "scoutmoondiver.bsky.social",
+          "postText": "www.motherjones.com/politics/202...",
+          "createdAt": "2026-11-21T20:29:54.470Z",
+          "uri": "at://did:plc:tor3txxadz4tmjfajun73tib/app.bsky.feed.post/3n2twwnc62k2i",
+          "sentiment": 0
+        },
         {
           "id": "863caaa093a72300e33f3978990cf9479b49676278cba91f6a328a735e8a2771",
           "authorHandle": "trivioai.bsky.social",
@@ -518,15 +565,15 @@
     {
       "id": "angus-king",
       "name": "Angus King",
-      "overallSentiment": -0.09093173119715177,
+      "overallSentiment": -0.07052454212454214,
       "newsSentiment": -0.15714285714285717,
-      "socialSentiment": -0.31565233644859825,
+      "socialSentiment": -0.25443076923076935,
       "youtubeSentiment": 0.2000000000000001,
       "mentions": {
         "news": 7,
-        "social": 109,
+        "social": 91,
         "youtube": 6,
-        "total": 122
+        "total": 104
       },
       "news": [
         {
@@ -594,6 +641,94 @@
         }
       ],
       "social": [
+        {
+          "id": "5121c6e34f84d4f0075de4a8f5a2c43b69cc5cbc69d7ef0b9c5448c8b96202c7",
+          "authorHandle": "charlesgaba.com",
+          "postText": "Sen. Angus King, 2016:",
+          "createdAt": "2026-11-21T21:58:58.119Z",
+          "uri": "at://did:plc:kd4cyu4rpkgjbym3gckhrivz/app.bsky.feed.post/3n2u3vvfbes2l",
+          "sentiment": -0.3
+        },
+        {
+          "id": "cd9f3f78617f085abe5591739e9561642cefae79c5877843f7cd709089b5f52f",
+          "authorHandle": "670rv.bsky.social",
+          "postText": "• Mark Warner (Va.)\n• Sheldon Whitehouse (R.I.)\n\nand Angus King, Maine Independent",
+          "createdAt": "2026-11-21T21:41:29.778Z",
+          "uri": "at://did:plc:batsov5c6h6e54mpj6wrqzt4/app.bsky.feed.post/3n2u2wnmfvc2s",
+          "sentiment": 0
+        },
+        {
+          "id": "35638a2a30ad69969b4ca98d47abb23b9350b2a4124322541e19204e86c5cc9d",
+          "authorHandle": "seanbrodrick.bsky.social",
+          "postText": "15 Senate Democrats who voted for the BAAJA bill were Chris Coons, John Fetterman, Ruben Gallego, Martin Heinrich, John Hickenlooper, Angus King, Amy Klobuchar, Gary Peters, Jack Reed, Jacky Rosen, Brian Schatz, Chuck Schumer, Elissa Slotkin, Mark Warner, and Sheldon Whitehouse. 1/2",
+          "createdAt": "2026-11-21T21:33:08.994Z",
+          "uri": "at://did:plc:gnjeaguquty6pn5brw5svdgt/app.bsky.feed.post/3n2u2hpzpyk2a",
+          "sentiment": 0
+        },
+        {
+          "id": "75ce67daa45eeed50c2b91e9686d4a4c778858f071e57659881d69dd8c446a3d",
+          "authorHandle": "jgcincychop.bsky.social",
+          "postText": "I've called Angus King 4 times",
+          "createdAt": "2026-11-21T21:09:47.623Z",
+          "uri": "at://did:plc:jabgmeuhhdtf7vxgyljxyexk/app.bsky.feed.post/3n2tz5xlank26",
+          "sentiment": 0
+        },
+        {
+          "id": "5915a71fa22171e3d40b80e6195db328776da1a5d0321edffca2c318bb826bb4",
+          "authorHandle": "bigideakate.bsky.social",
+          "postText": "Search Assist\n\nThe 14 Democratic senators who voted for BAAJA were C. Coons, J. Fetterman, R. Gallego, M. Heinrich, J. Hickenlooper, A. Klobuchar, G. Peters, J. Reed, J. Rosen, B. Schatz, C. Schumer, E. Slotkin, M. Warner, and S. Whitehouse. Independent Angus King also voted yes.",
+          "createdAt": "2026-11-21T21:00:46.404Z",
+          "uri": "at://did:plc:2sar4nxgmyg2vsjufr3tt5iv/app.bsky.feed.post/3n2tyntgkhs2f",
+          "sentiment": 0
+        },
+        {
+          "id": "368aa3c05f99b9380ec1bf6a74183a8bb7650e6335b3fdc9eef0053713ae93ee",
+          "authorHandle": "grumpynancy.bsky.social",
+          "postText": "                     #𝗔𝗺𝗲𝗿𝗶𝗰𝗮'𝘀-𝗡𝗲𝘅𝘁-𝗧𝗼𝗽-𝗦𝘆𝗰𝗼𝗽𝗵𝗮𝗻𝘁",
+          "createdAt": "2026-11-21T19:46:41.371Z",
+          "uri": "at://did:plc:lltvt25ifqc2mqo54p22mw63/app.bsky.feed.post/3n2tujecvwk2q",
+          "sentiment": 0
+        },
+        {
+          "id": "026139f08e10ac39a0d6a70d56f27401eb9951977915853d245b73000ba94852",
+          "authorHandle": "raquelhasty.bsky.social",
+          "postText": "youtube.com/shorts/URCzZ...",
+          "createdAt": "2026-11-21T19:30:37.105Z",
+          "uri": "at://did:plc:sqk7cf7ufpllhtvwnxj6v3ul/app.bsky.feed.post/3n2ttmmpysc25",
+          "sentiment": 0
+        },
+        {
+          "id": "822609e49865a928db1d8ca04820e8c0af5bb565c2f9a7f6f2067d30cf40cf86",
+          "authorHandle": "raquelhasty.bsky.social",
+          "postText": "youtube.com/shorts/URCzZ...",
+          "createdAt": "2026-11-21T19:27:47.926Z",
+          "uri": "at://did:plc:sqk7cf7ufpllhtvwnxj6v3ul/app.bsky.feed.post/3n2tthleyy225",
+          "sentiment": 0
+        },
+        {
+          "id": "be1de3e51671b6bd6c04dd715935a50422c363c6ee6aace52b073706b350d901",
+          "authorHandle": "rosario2024.bsky.social",
+          "postText": "youtube.com/shorts/URCzZ...",
+          "createdAt": "2026-11-21T18:29:09.493Z",
+          "uri": "at://did:plc:pqpdaowqbiptusdhi4aehxg2/app.bsky.feed.post/3n2tq6pwud22k",
+          "sentiment": 0
+        },
+        {
+          "id": "e5441a4f45ec5a456d1f57c2cd462a66152902daf8fd910d1bab7cefbf2fafa4",
+          "authorHandle": "drmarinaarcher.bsky.social",
+          "postText": "• Chris Coons \n• John Fetterman \n• Ruben Gallego \n• Martin Heinrich \n• John Hickenlooper \n• Angus King \n• Amy Klobuchar \n• Gary Peters \n• Jack Reed \n• Jacky Rosen \n• Brian Schatz \n• Chuck Schumer\n• Elissa Slotkin \n• Mark Warner\n• Sheldon Whitehouse (R.I., a lead sponsor of the bill)\n\nWHY?",
+          "createdAt": "2026-11-21T18:28:57.699Z",
+          "uri": "at://did:plc:6inyhaq5xbt6deimqig4phgx/app.bsky.feed.post/3n2tq6eoxps2e",
+          "sentiment": 0
+        },
+        {
+          "id": "1548b3a5aa6a47a3cbcce29ff0efbef9b279fa9a436ae32cfe26784b6eb22af4",
+          "authorHandle": "pjann73.bsky.social",
+          "postText": "VOTE OUT IF THIS BILL ISN'T THROWN OUT JAN 3, 2027\nCoons (Del.), Fetterman (Pa.), Gallego (Ariz.), Heinrich (NM),  Hickenlooper (Colo.), Angus King (Maine), Klobuchar (Minn.), Peters Jack Reed (RI), Rosen (Nev.),  Schatz (Hawaii), Schumer (NY), Slotkin (Mich.), Warner (Va.), and Whitehouse (RI).",
+          "createdAt": "2026-11-21T17:46:16.957Z",
+          "uri": "at://did:plc:7xaaruvcg4pqbloh4ujvwyje/app.bsky.feed.post/3n2tns2le3k2a",
+          "sentiment": -0.4
+        },
         {
           "id": "5c59dbd29f5cb74ea2d4dbd46776ae3bf0e3cd936bdd5b7bb4cc5f4230420a70",
           "authorHandle": "cheyenne50.bsky.social",
@@ -1233,238 +1368,6 @@
           "createdAt": "2026-11-20T22:30:33.433Z",
           "uri": "at://did:plc:hyhho7a6fejerdavfm2ja54c/app.bsky.feed.post/3n2rn7hguy224",
           "sentiment": 0
-        },
-        {
-          "id": "5748d9f53320530d7538ee886abe8a2924c12721d08369fd9281dd19bb80a98d",
-          "authorHandle": "ducati5.bsky.social",
-          "postText": "@senangusking.bsky.social \n\nMainers, call and write Angus King. Be relentless. YES on Medicare for all!\n\nRemember, he voted YES on BAAJA!",
-          "createdAt": "2026-11-20T22:11:00.436Z",
-          "uri": "at://did:plc:wkgpqmu3hb66ndi42fj22w6c/app.bsky.feed.post/3n2rm4irv322n",
-          "sentiment": 0.8248
-        },
-        {
-          "id": "f8b071f140ff5de991c3b9e54cb0a72fff6acc33ce3debcc2499547248257cb3",
-          "authorHandle": "ducati5.bsky.social",
-          "postText": "MAINE: Contact Angus King (who voted for BAAJA!)",
-          "createdAt": "2026-11-20T22:07:25.109Z",
-          "uri": "at://did:plc:wkgpqmu3hb66ndi42fj22w6c/app.bsky.feed.post/3n2rlw3gnrk2n",
-          "sentiment": 0
-        },
-        {
-          "id": "37e5c699afe1c993a81709c3dd7723d9e9c77d0a9459298073a7d70ac85d9e96",
-          "authorHandle": "just1opinion.bsky.social",
-          "postText": "The 15 members of the Senate Democratic caucus who voted yay for BAAJA were Chris Coons, John Fetterman, Ruben Gallego, Martin Heinrich, John Hickenlooper, Angus King  Amy Klobuchar, Gary Peters  Jack Reed  Jacky Rosen  Brian Schatz, Chuck Schumer, Elissa Slotkin  Mark Warner, and Sheldon Whitehouse",
-          "createdAt": "2026-11-20T22:02:40.699Z",
-          "uri": "at://did:plc:hovxnxwjojjl6aak2whf27ee/app.bsky.feed.post/3n2rlnm73ok2u",
-          "sentiment": 0.5267
-        },
-        {
-          "id": "b7503d4eb3cdf5d6c37d0d14131f3f5773179b6c606a026075b9cd1bf22cf5c0",
-          "authorHandle": "farrcon.bsky.social",
-          "postText": "How much more obvious can it be?\n\nyoutube.com/shorts/URCzZ...",
-          "createdAt": "2026-11-20T21:58:06.839Z",
-          "uri": "at://did:plc:ejxzbhlrgmrhi3u5n2aoob6k/app.bsky.feed.post/3n2rlfgzlas2h",
-          "sentiment": 0
-        },
-        {
-          "id": "662cafb8acfdb573f92c1061d1dc7fb0335373440bb73c7f9542eff8104b05d7",
-          "authorHandle": "50501movement.bsky.social",
-          "postText": "",
-          "createdAt": "2026-11-20T21:54:58.988Z",
-          "uri": "at://did:plc:f6gfdc4j4h7jbvs64lvpq2l5/app.bsky.feed.post/3n2rl7tusz223",
-          "sentiment": null
-        },
-        {
-          "id": "731bb44e6d43d29e22cff72f3e0212a87229558b82d17a6bf837164549df8f82",
-          "authorHandle": "50501movement.bsky.social",
-          "postText": "",
-          "createdAt": "2026-11-20T21:53:55.343Z",
-          "uri": "at://did:plc:f6gfdc4j4h7jbvs64lvpq2l5/app.bsky.feed.post/3n2rl5x6jos23",
-          "sentiment": null
-        },
-        {
-          "id": "d8b759ab149ab6593d568c4951f334a977ce527e6197495319c0620b5fb47b75",
-          "authorHandle": "ellisbelle.bsky.social",
-          "postText": "Indivisible Mid Maine's event, “Senator King: Reconsider! Schumer Must GO!” - sign up now!  www.mobilize.us/mobilize/eve...",
-          "createdAt": "2026-11-20T21:45:44.096Z",
-          "uri": "at://did:plc:syej7ncr5cf4sddeoxhctiqs/app.bsky.feed.post/3n2rkpcovbc2k",
-          "sentiment": 0
-        },
-        {
-          "id": "ccbfe1f1b202022d263da508e7a0f78f4babb4e3a02598415ba0b53b301ccacc",
-          "authorHandle": "1forest1.bsky.social",
-          "postText": "The 15 members of the Senate Democratic caucus who voted for the bill were Chris Coons, John Fetterman, Ruben Gallego, Martin Heinrich, John Hickenlooper, Angus King  Amy Klobuchar, Gary Peters  Jack Reed  Jacky Rosen  Brian Schatz, Chuck Schumer, Elissa Slotkin  Mark Warner, and Sheldon Whitehouse",
-          "createdAt": "2026-11-20T21:41:03.576Z",
-          "uri": "at://did:plc:wnlbitgpa5uplvnikngtfk6y/app.bsky.feed.post/3n2rkgx63xc2x",
-          "sentiment": 0
-        },
-        {
-          "id": "ebe7be279cad980e3bd276c70d99df4ceb647e3367a4759cf3466c3594fbd068",
-          "authorHandle": "ononebete.bsky.social",
-          "postText": "The 15 D senators who voted WITH MAGA TODAY TO FURTHER DESTROY OUR LIVES AND ENVIRONMENT!\n\nChris Coons \nJohn Fetterman \nRuben Gallego\nMartin Heinrich\nJohn Hickenlooper\nAngus King\nAmy Klobuchar\nGary Peters\nJack Reed\nJacky Rosen\nBrian Schatz\nChuck Schumer\nElissa Slotkin\nMark Warner\nSheldon Whitehouse",
-          "createdAt": "2026-11-20T21:40:23.537Z",
-          "uri": "at://did:plc:can5m4as4kykhthfkddfrp7h/app.bsky.feed.post/3n2rkfqyeas2o",
-          "sentiment": -0.6731
-        },
-        {
-          "id": "d356048df09b95559163564dd0c616ce57db3a7ea105b86daa46d6c7e2b955f6",
-          "authorHandle": "joemcjoe11.bsky.social",
-          "postText": "Trumpy is 100% a Russian Asset.",
-          "createdAt": "2026-11-20T21:27:49.771Z",
-          "uri": "at://did:plc:7ozkmilnjtco3wmup72tzgac/app.bsky.feed.post/3n2rjpc4zsk24",
-          "sentiment": -1
-        },
-        {
-          "id": "b846a1a996137986f91dde5dd98e93071023add754b25114c08ac4ca6ea78327",
-          "authorHandle": "bluejay207.bsky.social",
-          "postText": "Effin Angus King voted for this abomination. Time to resign, gramps, when you can't read the room",
-          "createdAt": "2026-11-20T21:13:03.962Z",
-          "uri": "at://did:plc:cddealkqfds42q4nmg5dcckk/app.bsky.feed.post/3n2riuvedvs2b",
-          "sentiment": -1
-        },
-        {
-          "id": "9c68211d186be64adef6657d2942f572af4771f56a6a37ffb33bb8e116df9739",
-          "authorHandle": "caquail3.bsky.social",
-          "postText": "Thanks, I missed Whitehorse from the list I copied/pasted. Also Independent Angus King.",
-          "createdAt": "2026-11-20T20:44:26.871Z",
-          "uri": "at://did:plc:agbfvltdatajhmgdh7foa2rv/app.bsky.feed.post/3n2rhbpsuas2u",
-          "sentiment": 0
-        },
-        {
-          "id": "54f19dabb5e509f9ef6c0f31373413a0a33d68b5292e266fe4a982487403c6de",
-          "authorHandle": "t0ussaint.bsky.social",
-          "postText": "The legislation passed without ever facing a hearing in the Senate, a fact that Sen. Jeff Merkley (D-Ore.)—an outspoken opponent of the bill—called “pretty damn outrageous and offensive.”",
-          "createdAt": "2026-11-20T20:24:43.604Z",
-          "uri": "at://did:plc:scyozezymlbicok26tl3jxni/app.bsky.feed.post/3n2rg6hekxc2v",
-          "sentiment": 0
-        },
-        {
-          "id": "966fa1a60e8d51e03807354ce03b41228c00a26cf5115df3dd0772ba527564a2",
-          "authorHandle": "terri121.bsky.social",
-          "postText": "15 Dems who voted with Republicans for BAAJA:  Chris Coons, John Fetterman, Ruben Gallego, Martin Heinrich, John Hickenlooper, Angus King, Amy Klobuchar, Gary Peters, Jack Reed, Jacky Rosen, Brian Schatz, Chuck Schumer, Elissa Slotkin, Mark Warner, and Sheldon Whitehouse.🤨",
-          "createdAt": "2026-11-20T20:16:34.858Z",
-          "uri": "at://did:plc:e7zlxspgo2djftkvsfq26e6x/app.bsky.feed.post/3n2rfpvb23c2a",
-          "sentiment": -1
-        },
-        {
-          "id": "c143579954e9edc73e22c413ddc34b0ceb666fae36d20af7d91cd405a55b80b5",
-          "authorHandle": "watersentinels.bsky.social",
-          "postText": "The Senate just passed the Bipartisan (with 14 Democrats and Angus King) American Affordability and Jobs Act of 2026 (BAAJA). Tell your representative to Vote No. www.sierraclub.org/grassroots-n...",
-          "createdAt": "2026-11-20T19:58:33.024Z",
-          "uri": "at://did:plc:iswbjgrwttrhs5lh3so4zkic/app.bsky.feed.post/3n2repnk4k22r",
-          "sentiment": -1
-        },
-        {
-          "id": "f774e19d59cba678f48f243b73f220829537f3755e217eaa7aea37e0572b8230",
-          "authorHandle": "caquail3.bsky.social",
-          "postText": "• Chris Coons (DE)\n• John Fetterman (PA)\n• Ruben Gallego (AZ)\n• Martin Heinrich (NM)\n• John Hickenlooper (CO)\n• Angus King (ME)\n• Amy Klobuchar (MN)\n• Gary Peters (MI)\n• Jack Reed (RI)\n• Jacky Rosen (NV)\n• Brian Schatz (HI)\n• Chuck Schumer (NY)\n• Elissa Slotkin (MI)\n• Mark Warner (VA)\nFor BAAJA",
-          "createdAt": "2026-11-20T19:46:24.857Z",
-          "uri": "at://did:plc:agbfvltdatajhmgdh7foa2rv/app.bsky.feed.post/3n2rdzx4awk2u",
-          "sentiment": -1
-        },
-        {
-          "id": "6928a676d1b6830ae527d1b8ce0143e34fd66ecb0288a7141f763864f831fc3e",
-          "authorHandle": "ducati5.bsky.social",
-          "postText": "And, it goes on... What is wrong with Angus King? Took Susan Collins advice and invested big money in data centers?\n\nearthjustice.org/article/ezra...",
-          "createdAt": "2026-11-20T19:43:46.297Z",
-          "uri": "at://did:plc:wkgpqmu3hb66ndi42fj22w6c/app.bsky.feed.post/3n2rdv7ve7c2u",
-          "sentiment": -1
-        },
-        {
-          "id": "7f8a62b8ee07db947161fabdb430f12ddfd092ea4cd91d28420568b492da6b01",
-          "authorHandle": "ducati5.bsky.social",
-          "postText": "Crock of shit, Angus King. You are a LIAR. \n\nThis bill promotes natural gas pipeline construction not renewable energy sources. Why do you think the Sierra Club and Earthjustice, among other environmental organizations, oppose it?",
-          "createdAt": "2026-11-20T19:33:23.554Z",
-          "uri": "at://did:plc:wkgpqmu3hb66ndi42fj22w6c/app.bsky.feed.post/3n2rdcnyqqk2u",
-          "sentiment": -1
-        },
-        {
-          "id": "ede51e99b410213fc515f120b9a2bc34c4fd4536da34c668f1beb88885bd8605",
-          "authorHandle": "truthseekercg.bsky.social",
-          "postText": "And these Dem senators STILL voted for it - along with a few performative switches to NAY because they knew 1. Voters hate it 2. There would be enough votes to pass anyway",
-          "createdAt": "2026-11-20T19:33:12.935Z",
-          "uri": "at://did:plc:qbo3strdvdafd6ipjhmxwsrf/app.bsky.feed.post/3n2rdcdutj22u",
-          "sentiment": -1
-        },
-        {
-          "id": "88129ba91719a165b43428e02ae3a142c6ce99b67efa4988fd80c8b07becae56",
-          "authorHandle": "facts-still-matter.bsky.social",
-          "postText": "www.youtube.com/shorts/URCzZ...",
-          "createdAt": "2026-11-20T19:18:22.588Z",
-          "uri": "at://did:plc:zvdno6crjaw5io7c6766oxca/app.bsky.feed.post/3n2rchsrg5s2w",
-          "sentiment": 0
-        },
-        {
-          "id": "7bdc0c216400095bc0dafe88f12d3dad27f5f652a7e69ca2abc99991d6f6036b",
-          "authorHandle": "charlieangus104.bsky.social",
-          "postText": "Donald Trump made sure the whole world saw his betrayal of Ukraine, Europe and the United States to Putin.\nThere is a traitor in the White House. A Russian agent.\nHere are some of his dark connections with the Russian security establishment. \nyoutube.com/shorts/URCzZ...",
-          "createdAt": "2026-11-20T19:07:30.638Z",
-          "uri": "at://did:plc:serlxfuuco5zwtgjbezfqib5/app.bsky.feed.post/3n2rbuezk6s2p",
-          "sentiment": 0
-        },
-        {
-          "id": "dac5bfdc598cef38c9012f3a7ac19a2789266ab79163295c8bbf0104914e032e",
-          "authorHandle": "portlandmeccl.bsky.social",
-          "postText": "Last night, BAAJA passed the Senate, and we want to thank our own, Senator King, for voting in favor of the bill. Watch the video below to learn more about why Senator King is choosing to stand behind the BAAJA:\n\nmainenewsroom.substack.com/p/maine-sena...",
-          "createdAt": "2026-11-20T19:05:41.701Z",
-          "uri": "at://did:plc:n7sefmtqcuhibargcmjtlh67/app.bsky.feed.post/3n2rbr55bac2k",
-          "sentiment": 1
-        },
-        {
-          "id": "f07d239e01d5926107f3f5b2670a944af78f8a59a3cf47c1c21c0473ebda4272",
-          "authorHandle": "chinabeach.bsky.social",
-          "postText": "Here are the 12 'moderate' Dems who you should NOT vote for. We should be strengthening environmental laws not tweaking them\n\nCoons\nFetterman\nGallego\n Martin Heinrich\nHickenlooper\nAngus King\nKlobuchar\nPeters\nReed\nRosen\nSchatz\nSchumer\nSlotkin\nWarner\nWhitehouse\n\nAll the more reason to dump Schumer",
-          "createdAt": "2026-11-20T18:55:02.846Z",
-          "uri": "at://did:plc:dwpx3srsbmluimqkgd4nhfnu/app.bsky.feed.post/3n2rb63uze22u",
-          "sentiment": -1
-        },
-        {
-          "id": "929edde245f98c7af0484d796f279fcfd7ae39f79debabda13f3a8c710596c74",
-          "authorHandle": "mainemorningstar.com",
-          "postText": "Both Maine Sens. Angus King and Susan Collins backed the legislation, which has been criticized for weakening environmental safeguards and tribal rights mainemorningstar.com/2026/11/20/r...",
-          "createdAt": "2026-11-20T18:38:58.500Z",
-          "uri": "at://did:plc:xioe5btxavtplvj5h7gpk2uv/app.bsky.feed.post/3n2rabf57nh24",
-          "sentiment": -1
-        },
-        {
-          "id": "120583b84be35b93383fcf501408ad176723ae9ba4b9e429c3404ac3cdbc9c9c",
-          "authorHandle": "stormsailing.bsky.social",
-          "postText": "Typical of something that you would hear from Angus King  !!!  ￼￼",
-          "createdAt": "2026-11-20T18:22:09.140Z",
-          "uri": "at://did:plc:qikwmxmzqp67n4ijgop5xiwp/app.bsky.feed.post/3n2r7dblxds24",
-          "sentiment": -1
-        },
-        {
-          "id": "925f1085a661055d3d5ba014a2d3f202876383e3577ed59413678e420a3aa7c4",
-          "authorHandle": "mls1.bsky.social",
-          "postText": "RUSSIA, RUSSIA, RUSSIA.....",
-          "createdAt": "2026-11-20T17:54:23.639Z",
-          "uri": "at://did:plc:uye2zseg3nijmlrkaupkryij/app.bsky.feed.post/3n2r5rnawis2j",
-          "sentiment": 0
-        },
-        {
-          "id": "16c9250efae4ef30c921b5e1d1c23195416fa7b9c3eddacda66d4142a23316b6",
-          "authorHandle": "blueriverrrr.bsky.social",
-          "postText": "And so are the Democrats who voted for BAAJA\n\nChris Coons, John Fetterman, Ruben Gallego, Martin Heinrich, John Hickenlooper, Angus King, Amy Klobuchar, Gary Peters, Jack Reed, Jacky Rosen, Brian Schatz, Chuck Schumer, Elissa Slotkin, Mark Warner, Sheldon Whitehouse",
-          "createdAt": "2026-11-20T17:51:30.943Z",
-          "uri": "at://did:plc:twctkqmt5s52zajjrxyx2qtl/app.bsky.feed.post/3n2r5mikn3k2n",
-          "sentiment": -1
-        },
-        {
-          "id": "4204a4aa826c14a74eea067b23cdb436bf3625618a42adac318839e291d2722a",
-          "authorHandle": "backwoodzman.bsky.social",
-          "postText": "youtube.com/shorts/URCzZ...",
-          "createdAt": "2026-11-20T17:48:10.998Z",
-          "uri": "at://did:plc:ifldnsrvp3vqy7xpyrgq5euf/app.bsky.feed.post/3n2r5gjuw7c2s",
-          "sentiment": 0
-        },
-        {
-          "id": "6887fa3e87e9ddc84a137d67db89a6f854a77af126f0ddf6c485cf8cf1829a0f",
-          "authorHandle": "katinthestars.bsky.social",
-          "postText": "Chris Coons (DE)\nJohn Fetterman (PA)\nRuben Gallego (AZ)\nMartin Heinrich (NM)\nJohn Hickenlooper (CO)\nAngus King (ME)\nAmy Klobuchar (MN)\nGary Peters (MI)\nJack Reed (RI)\nJacky Rosen (NV)\nBrian Schatz (HI)\nChuck Schumer (NY)\nElissa Slotkin (MI)\nMark Warner (VA)\nSheldon Whitehouse (RI)",
-          "createdAt": "2026-11-20T17:47:53.599Z",
-          "uri": "at://did:plc:mo6pmkd3cvtig3h4yn4z46i7/app.bsky.feed.post/3n2r5fzbu2s2p",
-          "sentiment": -1
         }
       ],
       "youtube": [
