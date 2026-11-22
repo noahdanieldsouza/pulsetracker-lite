@@ -1,91 +1,163 @@
 {
-  "lastUpdated": "2026-11-22T17:55:24.465Z",
+  "lastUpdated": "2026-11-22T19:06:37.121Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.34933333333333333,
-      "newsSentiment": 0,
+      "overallSentiment": 0.509125,
+      "newsSentiment": 0.4793750000000001,
       "socialSentiment": 0.24799999999999997,
       "mentions": {
-        "news": 8,
+        "news": 16,
         "social": 25,
         "youtube": 10,
-        "total": 43
+        "total": 51
       },
       "news": [
         {
-          "id": "6c6fd12cd316e0ba55ed9c9b8c88498dca5db8352437a55c1a34dfcdada57e24",
-          "title": "Letter: Tell Angus King what you want",
+          "id": "ea0a1d83e83c733830c411daecc24b3e66b8f7d9e4393590466810de1e157cda",
+          "title": "Democrats' incoming Senate class faces early test over leadership vote",
+          "description": "The Democratic Party's incoming senators haven't even been sworn into office yet, but the decision over who will lead their new majority is already testing the promise of change they made as candidates.",
+          "sourceName": "Dt Next",
+          "url": "https://www.dtnext.in/news/world/democrats-incoming-senate-class-faces-early-test-over-leadership-vote",
+          "publishedAt": "2026-11-22T05:07:45.000Z",
+          "sentiment": 0.4497
+        },
+        {
+          "id": "fca39985f54657ab9fef33a98d1594cb7ebe95d9d28a230da03134415ec0cff0",
+          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
+          "description": "WASHINGTON (AP) — The Democratic Party’s incoming senators haven’t even been sworn into office yet, but the decision over who will lead their new majority is already testing the promise of change they made as candidates. The 13 new Democrats are part of the largest incoming Senate class in decades, with several winning in Republican […]",
+          "sourceName": "The Intelligencer",
+          "url": "https://www.theintelligencer.net/news/top-headlines/2026/11/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/",
+          "publishedAt": "2026-11-22T05:00:18.000Z",
+          "sentiment": 0.8519
+        },
+        {
+          "id": "0144504f8d8e14da726341588f8a3ea5d88adfae72eda0fbfcc6ba24f5fa5f72",
+          "title": "Democrats' incoming Senate class faces early test over leadership vote",
+          "description": "Incoming Democratic senators face an early leadership test as Chuck Schumer faces a challenge from Chris Van Hollen for Senate leader.",
+          "sourceName": "Mathrubhumi English",
+          "url": "https://english.mathrubhumi.com/news/world/democrats-incoming-senate-class-leadership-vote-pti775yy414",
+          "publishedAt": "2026-11-22T02:57:27.000Z",
+          "sentiment": 0.0772
+        },
+        {
+          "id": "a982b378a69bc6cb8e715dcaea374ffc36a572454966babaff5a37a71f7d4877",
+          "title": "Maine U.S. Senate Election 2026 Live Results- Troy Jackson Wins - NBC News",
+          "description": "Maine U.S. Senate Election 2026 Live Results- Troy Jackson Wins - NBC News",
+          "sourceName": "London Mercury",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DNGdfNXVubERrcl9TTWxmTjNXalhhZ2Y3dGFqSHZpbTJHYUstMkZCc05rRFdMbkJidjQxREs4OEViOXlxRlVTTnhfV2tKdDRVYmwxR1pYempkT1ZoYUdWMEVVQXdDSVlvT3FTV1RsTUZwV3JLNVlj?oc=5",
+          "publishedAt": "2026-11-22T02:02:23.000Z",
+          "sentiment": 0.8126
+        },
+        {
+          "id": "79c688bc3cbb7485910be002886336cf92665b1a1f7d5f9137048ab2d74045b0",
+          "title": "Leadership test for Democrats seeking change in the Senate",
+          "description": "by Joey Cappelletti WASHINGTON — The Democratic Party’s incoming senators haven’t even been sworn into office yet, but the decision over who will lead their new majority is already testing the promise of change they made as candidates. The 13 new Democrats are part of the largest incoming Senate class in decades, with several winning [...]",
+          "sourceName": "Chicago Inquirer",
+          "url": "https://chicagoinquirer.com/2026/11/22/leadership-test-for-democrats-seeking-change-in-the-senate/",
+          "publishedAt": "2026-11-22T01:49:56.000Z",
+          "sentiment": 0.8201
+        },
+        {
+          "id": "2ca3b0a4b78b8ad6c4624ff873d8ff3c60c54da17b5abef9e817752e54d1cc51",
+          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
+          "description": "Democrats' 13 incoming senators are facing an early test of their campaign promises of change as they prepare to choose between longtime Senate leader Chuck Schumer and challenger Chris Van Hollen. The leadership contest has exposed divisions over the party's direction, with several newcomers withholding support ahead of the December 1 vote.",
+          "sourceName": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/articleshow/136065533.cms",
+          "publishedAt": "2026-11-22T01:02:05.000Z",
+          "sentiment": 0.7906
+        },
+        {
+          "id": "ff152f8d2cf73f25f63e2c2c86aa92ec7eb881c6ba96f076bbb8c85d270a680b",
+          "title": "Democrats' incoming Senate class faces early test over leadership vote",
+          "description": "Washington, Nov 22 (AP) The Democratic Party's incoming senators haven't even been sworn into office yet, but the decision over",
+          "sourceName": "The Week",
+          "url": "https://www.theweek.in/wire-updates/international/2026/11/22/democrats-incoming-senate-class-faces-early-test-over-leadership-vote.html",
+          "publishedAt": "2026-11-22T00:01:49.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "21da42d198b9f562cd16a1f92f458cb0df3f858d919036beb90f33efcbe8b8d2",
+          "title": "Democrats' incoming Senate class faces early test over leadership vote",
           "description": null,
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/21/opinion/letters/letter-tell-angus-king-what-you-want-joam40zk0w/",
-          "publishedAt": "2026-11-21T06:00:10.000Z",
+          "sourceName": "Ptinews",
+          "url": "https://www.ptinews.com/story/international/democrats-incoming-senate-class-faces-early-test-over-leadership-vote/4282199",
+          "publishedAt": "2026-11-21T23:58:02.000Z",
           "sentiment": 0
         },
         {
-          "id": "ec0c062a070a29aa4e98fd8d2fbaeeae29c7c5305a4f5140c82351de1c73895c",
-          "title": "Jeffries, Schumer will lead Dems",
-          "description": "All this muscle-flexing by the far left is amusing. They can’t take credit for the Democrats’ romp through the recent midterms, as much as they may try. It was Hakeem Jeffries’ promotion of electable Democrats for the House and Chuck Schumer’s similarly smart selections for the Senate that powered so many wins. Of course, they […]",
-          "sourceName": "The Vindicator",
-          "url": "https://www.vindy.com/opinion/guest-columnists/2026/11/jeffries-schumer-will-lead-dems/",
-          "publishedAt": "2026-11-21T05:00:58.000Z",
-          "sentiment": 0
+          "id": "c2b625d7d13152910e8e3c0de7c43bee5d8cadc6679be5db8ace18e41c059b40",
+          "title": "Democrat Troy Jackson defeats Susan Collins to win Maine US Senate seat in blow to Republicans",
+          "description": "Democrat Troy Jackson defeats Susan Collins to win Maine US Senate seat in blow to Republicans",
+          "sourceName": "Boston Star",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUElPREdhRlZaRW56NXM5aHV3SUVCdHpSVTBPQ0FFaVBmVmdCcFF5YWgybDhYamlMbzBYVERkY25ucVJnSGllWWJrOXVFdXNmMGNXbDE1YkNLXzNhcjNsaG5TT0ZxbFVhMFV6dl9hcUFHeGN3b1VTMkJ0U2RINjAwajlR?oc=5",
+          "publishedAt": "2026-11-21T23:31:40.000Z",
+          "sentiment": 0.6124
         },
         {
-          "id": "0e82799eca4e6472e3adf69c15d35ebceb5b71d78bfdbb2a6691694367a40b56",
-          "title": "Progressive Wave Gains Ground in US Midterms While Moderates Retain Party Control",
-          "description": "An analysis of the US midterm elections reveals significant gains for younger progressive and socialist-leaning Democrats, though the moderate establishment retains primary control of the party's legislative agenda and key seats.",
-          "sourceName": "Headtopics",
-          "url": "https://us.headtopics.com/news/progressive-wave-gains-ground-in-us-midterms-while-90048617",
-          "publishedAt": "2026-11-21T03:24:00.000Z",
-          "sentiment": 0
+          "id": "ca50ea4e49f80426c55a76544b007d9537afdda6e2c86df0776fcd2ee64c46a3",
+          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
+          "description": "Democrats are facing an early test of their commitment to change as they choose their Senate leadership ahead of being sworn in. The 13 newly elected senators, including progressives supporting Chris Van Hollen, are navigating differing opinions on whether to back incumbent Chuck Schumer or the challenger, highlighting a rift between traditional party leadership and calls for a more aggressive legislative approach.",
+          "sourceName": "Arab News Pk",
+          "url": "https://www.arabnews.pk/world/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early-3007717",
+          "publishedAt": "2026-11-21T23:23:44.000Z",
+          "sentiment": 0.8522
         },
         {
-          "id": "4b5ca84d03e8810dc6be80cb70ed03e7a627c7d93ffe77f7de49e3f6d21b6a9a",
-          "title": "Party 'has shifted younger' — After US midterm win, progressives challenge establishment Democrats",
-          "description": "Younger progressives continue to make strides — as reflected throughout the November midterms — even as moderate bloc retains primary control across the party.",
-          "sourceName": "Trt World",
-          "url": "https://www.trtworld.com/article/fb72eab789c2",
-          "publishedAt": "2026-11-21T02:00:24.000Z",
-          "sentiment": 0
+          "id": "6019ed92d9c84ad93dd9dd1a9e53d646ee49e7d549b30321831eee69f0ff43c1",
+          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
+          "description": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority. Current leader Chuck Schumer of New York faces a challenge from Maryland's Chris Van…",
+          "sourceName": "Times Argus",
+          "url": "https://www.timesargus.com/ap/state/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/article_905b5d3a-6d1f-57bb-84a2-6fba5018e5ca.html",
+          "publishedAt": "2026-11-21T22:49:50.000Z",
+          "sentiment": 0.5719
         },
         {
-          "id": "ed8f3456d0fb0670f5f3ff841b4cb628098af45b5f42aefad0d8e32def4ad803",
-          "title": "Collins, Shaheen push for insulin price cap",
-          "description": "Presented by Coalition to Strengthen Americas Healthcare {beacon} Healthcare Healthcare The Big Story Collins, Shaheen push for insulin price cap A bipartisan pair of departing New England senators is making a last-minute push for legislation to cap the cost of insulin for people with private insurance. © Alex Brandon / Stephanie Scarbrough, The Associated Press...",
-          "sourceName": "The Hill",
-          "url": "https://thehill.com/newsletters/healthcare/6234599-collins-shaheen-push-for-insulin-price-cap/",
-          "publishedAt": "2026-11-20T22:33:18.000Z",
-          "sentiment": 0
+          "id": "831c24c4555033f7b0b83ec9be6edee12d3705269bbb149995b02586adc89d05",
+          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
+          "description": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority. Current leader Chuck Schumer of New York faces a challenge from Maryland's Chris Van…",
+          "sourceName": "Union-bulletin",
+          "url": "https://www.union-bulletin.com/news/national/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/article_273b68fa-ce72-572e-9532-6518bd04f22d.html",
+          "publishedAt": "2026-11-21T22:49:50.000Z",
+          "sentiment": 0.5719
         },
         {
-          "id": "58d03b0ebca5ec40a38200411c6938e4f891fa9d484bb51f6db0f8fa6dfce212",
-          "title": "Black Voters Swung the South. Their Message to Democrats: Don’t Squander This.",
-          "description": "After a slew of historic firsts on November 3, including the election of the first Black woman governor in US history, Georgia’s Keisha Lance Bottoms, the internet was flooded with posts crediting Stacey Abrams, the first Black woman to run for governor on a major-party ticket, with helping make Democrats’ big wins in the South […]",
-          "sourceName": "Mother Jones",
-          "url": "https://www.motherjones.com/politics/2026/11/facing-race-black-democrats-south-investment-abrams-colom-senate-elections/",
-          "publishedAt": "2026-11-20T22:33:08.000Z",
-          "sentiment": 0
+          "id": "73cc09c389f95bab07ec5c542859941a134ab397781ddfb93c7142ad38c1b351",
+          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
+          "description": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority. Current leader Chuck Schumer of New York faces a challenge from Maryland's Chris Van…",
+          "sourceName": "Batesville Daily Guard",
+          "url": "https://www.guardonline.com/news/national/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/article_bceab3b1-260a-556e-8e7e-095d150f1431.html",
+          "publishedAt": "2026-11-21T22:49:50.000Z",
+          "sentiment": 0.5719
         },
         {
-          "id": "bae60c205d4aa0d597b20caaf2e46e3b84a903125e57a78f15ce3dc5fb90a158",
-          "title": "‘If it hurts one, it hurts us all’: A quiet Plant City community mourns after family of five killed",
-          "description": "A day after investigators say a father killed his wife, their three young children and himself, neighbors returned to a street once filled with the sounds of children playing. Some came to grieve. One man came simply to pray.",
-          "sourceName": "Tampa Bay",
-          "url": "https://www.tampabay28.com/news/local-news/tampa-metro-west-hillsborough-county/if-it-hurts-one-it-hurts-us-all-a-quiet-plant-city-community-mourns-after-family-of-five-killed",
-          "publishedAt": "2026-11-20T21:04:35.000Z",
-          "sentiment": 0
+          "id": "8daf4d5d1a96cb753c5332f4e8eb0b1aba66cc132b18f2069f320d33b0c2ff0b",
+          "title": "Bridgeport uses second-half shutout to pull away from Fairmont Senior in Class AAA quarterfinals",
+          "description": "BRIDGEPORT, W. Va.- The Class AAA football quarterfinals matchup between Bridgeport and Fairmont Senior featured very little offensive execution during the first and second quarters.",
+          "sourceName": "Wv News",
+          "url": "https://www.wvnews.com/bridgeportnews/sports/bridgeport-uses-second-half-shutout-to-pull-away-from-fairmont-senior-in-class-aaa-quarterfinals/article_5e9f5f3b-642b-4d08-a092-09ac07b6050d.html",
+          "publishedAt": "2026-11-21T21:52:00.000Z",
+          "sentiment": -0.4562
         },
         {
-          "id": "e3ea304a7ddd124220fcd1640fefe865b4fe3681ffceb0b86e89eb0c3271c721",
-          "title": "Nationwide, Reuters journalists authorize strike",
-          "description": "NEW YORK—By an overwhelming vote, 96%, in an equally overwhelming turnout, 94%, the 300 U.S. workers at Reuters, the internationally respected wire service, voted on November 17 to authorize a strike. The vote comes after a year of fruitless talks with Reuters bosses, and after the workers took their problems public earlier this year with […]",
-          "sourceName": "People's World",
-          "url": "https://www.peoplesworld.org/article/nationwide-reuters-journalists-authorize-strike/",
-          "publishedAt": "2026-11-20T20:21:42.000Z",
-          "sentiment": 0
+          "id": "e45008b04d6fffeb9d7d68487ce3c50adf6c7151ddff333628af2855238f32ae",
+          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
+          "description": "By JOEY CAPPELLETTI WASHINGTON (AP) — The Democratic Party’s incoming senators haven’t even been sworn into office yet, but the decision over who will lead their new majority is already testing the promise of change they…",
+          "sourceName": "San Bernardino Sun",
+          "url": "https://www.sbsun.com/2026/11/21/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/",
+          "publishedAt": "2026-11-21T19:57:15.000Z",
+          "sentiment": 0.5719
+        },
+        {
+          "id": "6bf40a17be704025f46517af0b2f0022c5eac86b7f79cfa87099eeec00f3d8be",
+          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
+          "description": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority. Current leader Chuck Schumer of New York faces a challenge from Maryland's Chris Van…",
+          "sourceName": "Dailyadvance",
+          "url": "https://www.dailyadvance.com/news/national/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/article_39cbbedd-e3b2-5fe8-8b06-74a11a62a27b.html",
+          "publishedAt": "2026-11-21T19:52:51.000Z",
+          "sentiment": 0.5719
         }
       ],
       "social": [
@@ -397,45 +469,17 @@
     {
       "id": "hannah-pingree",
       "name": "Hannah Pingree",
-      "overallSentiment": -0.016666666666666677,
-      "newsSentiment": 0.2333333333333333,
+      "overallSentiment": -0.26666666666666666,
+      "newsSentiment": null,
       "socialSentiment": -0.26666666666666666,
       "youtubeSentiment": null,
       "mentions": {
-        "news": 3,
+        "news": 0,
         "social": 3,
         "youtube": 0,
-        "total": 6
+        "total": 3
       },
-      "news": [
-        {
-          "id": "ff83e58b7e38453887dd80a7df31f98323f13a9358f2201d7fb9f76a90bfb541",
-          "title": "Pregnant 15-year-old asks Maine’s high court to free her from Long Creek before trial",
-          "description": "The case again casts a spotlight on the state’s treatment of incarcerated youth, especially girls, who overwhelmingly are the victims of crimes themselves.",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/21/mainefocus/mainefocus-police-courts/pregnant-15-year-old-asks-maines-high-court-to-free-her-from-long-creek-before-trial-joam40zk0w/",
-          "publishedAt": "2026-11-21T06:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a87e8105f055cbc3a07ef157daf52fdf6c2cecb8a6f659305ebfc8635110830d",
-          "title": "New Democratic governors race to deliver relief on costs - Politico",
-          "description": "New Democratic governors race to deliver relief on costs Politico Gov.-elect Hannah Pingree returns from Utah forum, pledges to bring ideas back to Maine WGME Historic Class of New Governors Attends NGA’s New Governors Leadership Forum National Governors Association Former President Bill Clinton talks to govs in Utah Punchbowl News Capital Notebook: Benson attends NGA ‘new governors school’ State Affairs Pro",
-          "sourceName": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZGtXamQ5cEc2c0lSazhwYjdQY0NmZlNUUF85b3ZVdS1tbUN4WWVCdmZSMEVXcDMwazE4VDAxeFlRRzl1V1pfTGNaNnpBejY2aGYxdmhrbXBEYVZEOWw5X3VqcVY5NEVPcTZNdGlvRFotYVdIQ2x0LVFMMThxUHlVNnZqTERjQnozTEJPb1d2eEI5YmM?oc=5",
-          "publishedAt": "2026-11-20T18:59:00.000Z",
-          "sentiment": 0.7
-        },
-        {
-          "id": "62638d179df9834540f92ec0498261f62df9aba5022b001acc5d4257a6f22348",
-          "title": "In the News: October and November",
-          "description": "This roundup of Bates people in the news features alumni research and career achievements, coverage of on-campus happenings, and a history lesson from Bates’ past.",
-          "sourceName": "Bates College",
-          "url": "https://www.bates.edu/news/2026/11/20/in-the-news-october-and-november/",
-          "publishedAt": "2026-11-20T18:56:21.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "5c09c127e916ddadb7de4dbfb1d7c1da17c0fc63f01fbf6ce34a2ee56e854eff",
@@ -501,43 +545,25 @@
     {
       "id": "chellie-pingree",
       "name": "Chellie Pingree",
-      "overallSentiment": 0.07777777777777777,
-      "newsSentiment": 0,
+      "overallSentiment": 0.2684111111111111,
+      "newsSentiment": 0.5719,
       "socialSentiment": 0.2333333333333333,
       "youtubeSentiment": 0,
       "mentions": {
-        "news": 3,
+        "news": 1,
         "social": 3,
         "youtube": 1,
-        "total": 7
+        "total": 5
       },
       "news": [
         {
-          "id": "d456d039093270a754c306cd68265d9ee22f081c7be787cc413a805c43ea3a0d",
-          "title": "Some US House Dems urge a national moratorium on buildup of new data centers",
-          "description": "WASHINGTON, DC — Leading and incoming U.S. House Democrats called for a national moratorium on the development of new artificial intelligence data centers Tuesday.",
-          "sourceName": "Griffindailynews",
-          "url": "https://www.griffindailynews.com/news/some-us-house-dems-urge-a-national-moratorium-on-buildup-of-new-data-centers/article_3b73a2ad-6100-56d4-ba9c-3cdc9e31fc4d.html",
-          "publishedAt": "2026-11-21T05:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "9ce9711feea33a90566f60a6c54507392656ba7b27ce9877934862c36cab0f7e",
-          "title": "Democrats won big in the midterms. So now what?",
-          "description": "With a 56-44 majority in the Senate they are four votes short of the 60 votes needed to advance most legislation. In the House, their 257-172 force could grow beyond an 85-vote margin once a handful of races are settled.",
-          "sourceName": "Daily Bonik Barta",
-          "url": "https://en.bonikbarta.com/international/ih0XzGESxwKHKg7r",
-          "publishedAt": "2026-11-21T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "d19d598f52406ab3e296ff28110813e64e65683a59098e9bc51bae7d422792de",
-          "title": "In the News: October and November",
-          "description": "This roundup of Bates people in the news features alumni research and career achievements, coverage of on-campus happenings, and a history lesson from Bates’ past.",
-          "sourceName": "Bates College",
-          "url": "https://www.bates.edu/news/2026/11/20/in-the-news-october-and-november/",
-          "publishedAt": "2026-11-20T18:56:21.000Z",
-          "sentiment": 0
+          "id": "5743fa0480557f92038acfd5cd7acc7d817d17789e485365dd180f75c78b2e08",
+          "title": "Democrats won big in the midterms. Here's what they plan to do next",
+          "description": "Democrats are preparing a sweeping legislative agenda ahead of taking control of both chambers of Congress on January 3",
+          "sourceName": "Business Standard",
+          "url": "https://www.business-standard.com/world-news/democrats-won-big-in-the-midterms-here-s-what-they-plan-to-do-next-126112200091_1.html",
+          "publishedAt": "2026-11-22T02:54:28.000Z",
+          "sentiment": 0.5719
         }
       ],
       "social": [
@@ -582,81 +608,17 @@
     {
       "id": "angus-king",
       "name": "Angus King",
-      "overallSentiment": -0.1645760743321719,
-      "newsSentiment": -0.15714285714285717,
+      "overallSentiment": -0.16829268292682925,
+      "newsSentiment": null,
       "socialSentiment": -0.5365853658536586,
       "youtubeSentiment": 0.2000000000000001,
       "mentions": {
-        "news": 7,
+        "news": 0,
         "social": 41,
         "youtube": 6,
-        "total": 54
+        "total": 47
       },
-      "news": [
-        {
-          "id": "36a162a9f6bdd9308053f1c1a7a0303a74531ce91299a63abeb7a36bb77710fa",
-          "title": "Letter: Tell Angus King what you want",
-          "description": null,
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/21/opinion/letters/letter-tell-angus-king-what-you-want-joam40zk0w/",
-          "publishedAt": "2026-11-21T06:00:10.000Z",
-          "sentiment": -0.5
-        },
-        {
-          "id": "94f95582d4abda36b0098e8c6f9245287213e32f1532a6c5bd8b56dca3fa62c5",
-          "title": "Angus King’s support for Chuck Schumer is out of touch with voters who delivered blue wave",
-          "description": "“What good is someone who “knows how things work” if he doesn't use that knowledge to fight for legislation Americans want and need?”",
-          "sourceName": "Bangor Daily News",
-          "url": "https://www.bangordailynews.com/2026/11/21/opinion/opinion-contributor/angus-king-support-for-chuck-schumer-out-of-touch-with-blue-wave-joam40zk0w/",
-          "publishedAt": "2026-11-21T06:00:00.000Z",
-          "sentiment": -0.6
-        },
-        {
-          "id": "2da03500bb9c2b45452ba28046dd3f7f0f3d58de375758337662d2ddc4b3a9a9",
-          "title": "Legislators pass measure to ease energy build-out",
-          "description": "The Senate on Thursday passed legislation to make energy projects, housing, roads and other infrastructure easier to build by weakening bedrock environmental laws that have often delayed construction for years. The effort, backed by more than a dozen Democratic senators and most Republicans, has been billed as a bid to make American life more affordable and lower electricity prices.",
-          "sourceName": "Arkansas Democrat Gazette",
-          "url": "https://www.arkansasonline.com/news/2026/nov/21/legislators-pass-measure-to-ease-energy-build-out/",
-          "publishedAt": "2026-11-21T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "10238394c8da493517e1d5cefe4d41efd1a19cf4bec199971684c8a74a67480e",
-          "title": "Letter: Tell Angus King what you want",
-          "description": null,
-          "sourceName": "Newsbreak",
-          "url": "https://www.newsbreak.com/bangor-daily-news-1696700/5020748203660-letter-tell-angus-king-what-you-want",
-          "publishedAt": "2026-11-21T00:00:00.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "80287695767b3b2f45fdcfb1b5a23c541d40347465bf9bf6fe001e9a998c4470",
-          "title": "Contentious energy permitting reform bill advances in the Senate",
-          "description": "Environmental groups have warned that the Bipartisan American Affordability and Jobs Act (BAAJA) weakens the Clean Air Act and other key environmental protections.",
-          "sourceName": "Maine Public",
-          "url": "https://www.mainepublic.org/climate/2026-11-20/contentious-energy-permitting-reform-bill-advances-in-the-senate",
-          "publishedAt": "2026-11-20T21:09:46.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "a174524a474597e4e7a1baad0c00268d1d4de5da3f1d6609f029b3ebc8c6e63f",
-          "title": "Navy Needs New Foreign-Backed U.S. Shipyard Focused on Frigates, Number Two Navy Civilian Nominee Says",
-          "description": "The administration’s nominee to be the second highest civilian Navy official told senators Thursday the government should focus on having a foreign shipbuilder start a new U.S. shipyard focused on […]",
-          "sourceName": "Defense Daily",
-          "url": "https://www.defensedaily.com/navy-needs-new-foreign-backed-u-s-shipyard-focused-on-frigates-number-two-navy-civilian-nominee-says/navy-usmc/",
-          "publishedAt": "2026-11-20T20:53:51.000Z",
-          "sentiment": 0
-        },
-        {
-          "id": "61e245b945bbc8a53c2a56e285bffd04c4cdba9cadcc47cba62951fc8cd1349f",
-          "title": "Nationwide, Reuters journalists authorize strike",
-          "description": "NEW YORK—By an overwhelming vote, 96%, in an equally overwhelming turnout, 94%, the 300 U.S. workers at Reuters, the internationally respected wire service, voted on November 17 to authorize a strike. The vote comes after a year of fruitless talks with Reuters bosses, and after the workers took their problems public earlier this year with […]",
-          "sourceName": "People's World",
-          "url": "https://www.peoplesworld.org/article/nationwide-reuters-journalists-authorize-strike/",
-          "publishedAt": "2026-11-20T20:21:42.000Z",
-          "sentiment": 0
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "8046b66bde547735397367edae493b5247400a06bf4b10a0b9a1365eedea282e",
