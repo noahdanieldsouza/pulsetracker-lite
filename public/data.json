@@ -1,163 +1,64 @@
 {
-  "lastUpdated": "2026-11-23T14:23:00.357Z",
+  "lastUpdated": "2026-11-23T23:26:47.247Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.5260501700680272,
-      "newsSentiment": 0.4793750000000001,
+      "overallSentiment": 0.36625850340136057,
+      "newsSentiment": 0,
       "socialSentiment": 0.16,
       "mentions": {
-        "news": 16,
+        "news": 5,
         "social": 25,
         "youtube": 49,
-        "total": 90
+        "total": 79
       },
       "news": [
         {
-          "id": "ea0a1d83e83c733830c411daecc24b3e66b8f7d9e4393590466810de1e157cda",
-          "title": "Democrats' incoming Senate class faces early test over leadership vote",
-          "description": "The Democratic Party's incoming senators haven't even been sworn into office yet, but the decision over who will lead their new majority is already testing the promise of change they made as candidates.",
-          "sourceName": "Dt Next",
-          "url": "https://www.dtnext.in/news/world/democrats-incoming-senate-class-faces-early-test-over-leadership-vote",
-          "publishedAt": "2026-11-22T05:07:45.000Z",
-          "sentiment": 0.4497
-        },
-        {
-          "id": "fca39985f54657ab9fef33a98d1594cb7ebe95d9d28a230da03134415ec0cff0",
-          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
-          "description": "WASHINGTON (AP) — The Democratic Party’s incoming senators haven’t even been sworn into office yet, but the decision over who will lead their new majority is already testing the promise of change they made as candidates. The 13 new Democrats are part of the largest incoming Senate class in decades, with several winning in Republican […]",
-          "sourceName": "The Intelligencer",
-          "url": "https://www.theintelligencer.net/news/top-headlines/2026/11/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/",
-          "publishedAt": "2026-11-22T05:00:18.000Z",
-          "sentiment": 0.8519
-        },
-        {
-          "id": "0144504f8d8e14da726341588f8a3ea5d88adfae72eda0fbfcc6ba24f5fa5f72",
-          "title": "Democrats' incoming Senate class faces early test over leadership vote",
-          "description": "Incoming Democratic senators face an early leadership test as Chuck Schumer faces a challenge from Chris Van Hollen for Senate leader.",
-          "sourceName": "Mathrubhumi English",
-          "url": "https://english.mathrubhumi.com/news/world/democrats-incoming-senate-class-leadership-vote-pti775yy414",
-          "publishedAt": "2026-11-22T02:57:27.000Z",
-          "sentiment": 0.0772
-        },
-        {
-          "id": "a982b378a69bc6cb8e715dcaea374ffc36a572454966babaff5a37a71f7d4877",
-          "title": "Maine U.S. Senate Election 2026 Live Results- Troy Jackson Wins - NBC News",
-          "description": "Maine U.S. Senate Election 2026 Live Results- Troy Jackson Wins - NBC News",
-          "sourceName": "London Mercury",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DNGdfNXVubERrcl9TTWxmTjNXalhhZ2Y3dGFqSHZpbTJHYUstMkZCc05rRFdMbkJidjQxREs4OEViOXlxRlVTTnhfV2tKdDRVYmwxR1pYempkT1ZoYUdWMEVVQXdDSVlvT3FTV1RsTUZwV3JLNVlj?oc=5",
-          "publishedAt": "2026-11-22T02:02:23.000Z",
-          "sentiment": 0.8126
-        },
-        {
-          "id": "79c688bc3cbb7485910be002886336cf92665b1a1f7d5f9137048ab2d74045b0",
-          "title": "Leadership test for Democrats seeking change in the Senate",
-          "description": "by Joey Cappelletti WASHINGTON — The Democratic Party’s incoming senators haven’t even been sworn into office yet, but the decision over who will lead their new majority is already testing the promise of change they made as candidates. The 13 new Democrats are part of the largest incoming Senate class in decades, with several winning [...]",
-          "sourceName": "Chicago Inquirer",
-          "url": "https://chicagoinquirer.com/2026/11/22/leadership-test-for-democrats-seeking-change-in-the-senate/",
-          "publishedAt": "2026-11-22T01:49:56.000Z",
-          "sentiment": 0.8201
-        },
-        {
-          "id": "2ca3b0a4b78b8ad6c4624ff873d8ff3c60c54da17b5abef9e817752e54d1cc51",
-          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
-          "description": "Democrats' 13 incoming senators are facing an early test of their campaign promises of change as they prepare to choose between longtime Senate leader Chuck Schumer and challenger Chris Van Hollen. The leadership contest has exposed divisions over the party's direction, with several newcomers withholding support ahead of the December 1 vote.",
-          "sourceName": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/articleshow/136065533.cms",
-          "publishedAt": "2026-11-22T01:02:05.000Z",
-          "sentiment": 0.7906
-        },
-        {
-          "id": "ff152f8d2cf73f25f63e2c2c86aa92ec7eb881c6ba96f076bbb8c85d270a680b",
-          "title": "Democrats' incoming Senate class faces early test over leadership vote",
-          "description": "Washington, Nov 22 (AP) The Democratic Party's incoming senators haven't even been sworn into office yet, but the decision over",
-          "sourceName": "The Week",
-          "url": "https://www.theweek.in/wire-updates/international/2026/11/22/democrats-incoming-senate-class-faces-early-test-over-leadership-vote.html",
-          "publishedAt": "2026-11-22T00:01:49.000Z",
+          "id": "f3bb266980f4887279e0dcc808be2ab1cd684a9f9415e01938f6eef3899f9a60",
+          "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader",
+          "description": "WASHINGTON — Chuck Schumer led U.S. Senate Democrats through this month’s midterm elections that gave them a decisive 56-seat majority in the 100-seat chamber. Progressives responded with a collective “thank you, next,” arguing that Schumer should now make way for a successor. The post Schumer led Democrats to big Senate win. Now, some say they need a new leader appeared first on Hawaii Tribune-Herald.",
+          "sourceName": "Hawaii Tribune-herald",
+          "url": "https://www.hawaiitribune-herald.com/2026/11/23/nation-world-news/schumer-led-democrats-to-big-senate-win-now-some-say-they-need-a-new-leader/",
+          "publishedAt": "2026-11-23T10:05:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "21da42d198b9f562cd16a1f92f458cb0df3f858d919036beb90f33efcbe8b8d2",
-          "title": "Democrats' incoming Senate class faces early test over leadership vote",
-          "description": null,
-          "sourceName": "Ptinews",
-          "url": "https://www.ptinews.com/story/international/democrats-incoming-senate-class-faces-early-test-over-leadership-vote/4282199",
-          "publishedAt": "2026-11-21T23:58:02.000Z",
+          "id": "0293c713dc43270d938c46317b8a66bc08b629db36aedcded31c22c5db8e58b2",
+          "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader",
+          "description": "WASHINGTON — Chuck Schumer led US Senate Democrats through this month’s midterm elections that gave them a decisive 56-seat majority in the 100-seat chamber. Progressives responded with a collective “thank you, next,” arguing that Schumer should now make way for a successor. The post Schumer led Democrats to big Senate win. Now, some say they need a new leader appeared first on West Hawaii Today.",
+          "sourceName": "West Hawaii Today",
+          "url": "https://www.westhawaiitoday.com/2026/11/23/nation-world-news/schumer-led-democrats-to-big-senate-win-now-some-say-they-need-a-new-leader/",
+          "publishedAt": "2026-11-23T10:05:00.000Z",
           "sentiment": 0
         },
         {
-          "id": "c2b625d7d13152910e8e3c0de7c43bee5d8cadc6679be5db8ace18e41c059b40",
-          "title": "Democrat Troy Jackson defeats Susan Collins to win Maine US Senate seat in blow to Republicans",
-          "description": "Democrat Troy Jackson defeats Susan Collins to win Maine US Senate seat in blow to Republicans",
-          "sourceName": "Boston Star",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUElPREdhRlZaRW56NXM5aHV3SUVCdHpSVTBPQ0FFaVBmVmdCcFF5YWgybDhYamlMbzBYVERkY25ucVJnSGllWWJrOXVFdXNmMGNXbDE1YkNLXzNhcjNsaG5TT0ZxbFVhMFV6dl9hcUFHeGN3b1VTMkJ0U2RINjAwajlR?oc=5",
-          "publishedAt": "2026-11-21T23:31:40.000Z",
-          "sentiment": 0.6124
+          "id": "0908a0fc2b732b344c3126309197ef75baa4c3f4103ecd4001409e34cbbc3542",
+          "title": "Trump’s showdown with Congress is catching fire, weeks before Democrats take power",
+          "description": "In a major power play, President Donald Trump is seeking to limit who, how and what Democrats can investigate as they gear up to use their new powers in the next Congress to target his alleged corruption. Key Democratic investigators are pushing back, including against Trump’s executive order Friday that warned businesses that deal with … The post Trump’s showdown with Congress is catching fire, weeks before Democrats take power appeared first on Egypt Independent.",
+          "sourceName": "Egyptindependent",
+          "url": "https://www.egyptindependent.com/trumps-showdown-with-congress-is-catching-fire-weeks-before-democrats-take-power/",
+          "publishedAt": "2026-11-23T09:00:40.000Z",
+          "sentiment": 0
         },
         {
-          "id": "ca50ea4e49f80426c55a76544b007d9537afdda6e2c86df0776fcd2ee64c46a3",
-          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
-          "description": "Democrats are facing an early test of their commitment to change as they choose their Senate leadership ahead of being sworn in. The 13 newly elected senators, including progressives supporting Chris Van Hollen, are navigating differing opinions on whether to back incumbent Chuck Schumer or the challenger, highlighting a rift between traditional party leadership and calls for a more aggressive legislative approach.",
-          "sourceName": "Arab News Pk",
-          "url": "https://www.arabnews.pk/world/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early-3007717",
-          "publishedAt": "2026-11-21T23:23:44.000Z",
-          "sentiment": 0.8522
+          "id": "7dff68640e98ea98fb2eab9c605adba50050cdfa0a954b6450b2b2f4db0b7dba",
+          "title": "Trump’s showdown with Congress is catching fire, weeks before Democrats take power",
+          "description": "In a major power play, President Donald Trump is seeking to limit who, how and what Democrats can investigate as they gear up to use their new powers in the next Congress to target his alleged corruption.",
+          "sourceName": "Headtopics",
+          "url": "https://us.headtopics.com/news/trump-s-showdown-with-congress-is-catching-fire-weeks-90096653",
+          "publishedAt": "2026-11-23T06:09:00.000Z",
+          "sentiment": 0
         },
         {
-          "id": "6019ed92d9c84ad93dd9dd1a9e53d646ee49e7d549b30321831eee69f0ff43c1",
-          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
-          "description": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority. Current leader Chuck Schumer of New York faces a challenge from Maryland's Chris Van…",
-          "sourceName": "Times Argus",
-          "url": "https://www.timesargus.com/ap/state/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/article_905b5d3a-6d1f-57bb-84a2-6fba5018e5ca.html",
-          "publishedAt": "2026-11-21T22:49:50.000Z",
-          "sentiment": 0.5719
-        },
-        {
-          "id": "831c24c4555033f7b0b83ec9be6edee12d3705269bbb149995b02586adc89d05",
-          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
-          "description": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority. Current leader Chuck Schumer of New York faces a challenge from Maryland's Chris Van…",
-          "sourceName": "Union-bulletin",
-          "url": "https://www.union-bulletin.com/news/national/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/article_273b68fa-ce72-572e-9532-6518bd04f22d.html",
-          "publishedAt": "2026-11-21T22:49:50.000Z",
-          "sentiment": 0.5719
-        },
-        {
-          "id": "73cc09c389f95bab07ec5c542859941a134ab397781ddfb93c7142ad38c1b351",
-          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
-          "description": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority. Current leader Chuck Schumer of New York faces a challenge from Maryland's Chris Van…",
-          "sourceName": "Batesville Daily Guard",
-          "url": "https://www.guardonline.com/news/national/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/article_bceab3b1-260a-556e-8e7e-095d150f1431.html",
-          "publishedAt": "2026-11-21T22:49:50.000Z",
-          "sentiment": 0.5719
-        },
-        {
-          "id": "8daf4d5d1a96cb753c5332f4e8eb0b1aba66cc132b18f2069f320d33b0c2ff0b",
-          "title": "Bridgeport uses second-half shutout to pull away from Fairmont Senior in Class AAA quarterfinals",
-          "description": "BRIDGEPORT, W. Va.- The Class AAA football quarterfinals matchup between Bridgeport and Fairmont Senior featured very little offensive execution during the first and second quarters.",
-          "sourceName": "Wv News",
-          "url": "https://www.wvnews.com/bridgeportnews/sports/bridgeport-uses-second-half-shutout-to-pull-away-from-fairmont-senior-in-class-aaa-quarterfinals/article_5e9f5f3b-642b-4d08-a092-09ac07b6050d.html",
-          "publishedAt": "2026-11-21T21:52:00.000Z",
-          "sentiment": -0.4562
-        },
-        {
-          "id": "e45008b04d6fffeb9d7d68487ce3c50adf6c7151ddff333628af2855238f32ae",
-          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
-          "description": "By JOEY CAPPELLETTI WASHINGTON (AP) — The Democratic Party’s incoming senators haven’t even been sworn into office yet, but the decision over who will lead their new majority is already testing the promise of change they…",
-          "sourceName": "San Bernardino Sun",
-          "url": "https://www.sbsun.com/2026/11/21/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/",
-          "publishedAt": "2026-11-21T19:57:15.000Z",
-          "sentiment": 0.5719
-        },
-        {
-          "id": "6bf40a17be704025f46517af0b2f0022c5eac86b7f79cfa87099eeec00f3d8be",
-          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
-          "description": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority. Current leader Chuck Schumer of New York faces a challenge from Maryland's Chris Van…",
-          "sourceName": "Dailyadvance",
-          "url": "https://www.dailyadvance.com/news/national/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/article_39cbbedd-e3b2-5fe8-8b06-74a11a62a27b.html",
-          "publishedAt": "2026-11-21T19:52:51.000Z",
-          "sentiment": 0.5719
+          "id": "3b4590a8646e3577dcb50a88b6a704802d75190d4e85f034cd2bec5062e8beb7",
+          "title": "How Susan Collins will wrap up her final weeks in Washington",
+          "description": "Supporters say they’re confident she’ll close out her tenure by supporting Mainers and ensuring a smooth transition.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/11/23/politics/washington/susan-collins-final-weeks-washington-joam40zk0w/",
+          "publishedAt": "2026-11-23T06:00:00.000Z",
+          "sentiment": 0
         }
       ],
       "social": [
@@ -859,17 +760,36 @@
     {
       "id": "hannah-pingree",
       "name": "Hannah Pingree",
-      "overallSentiment": -0.25,
-      "newsSentiment": null,
+      "overallSentiment": -0.275,
+      "newsSentiment": -0.3,
       "socialSentiment": -0.25,
       "youtubeSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 2,
         "social": 2,
         "youtube": 0,
-        "total": 2
+        "total": 4
       },
-      "news": [],
+      "news": [
+        {
+          "id": "1e2519056954a61f35ea65d5e837931575f8240bc9a004997eb1db1bd10f8e8a",
+          "title": "MaineCare still needs somebody watching the books | Opinion",
+          "description": "Governor-elect Hannah Pingree must crack down on healthcare fraud.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/11/23/mainecare-still-needs-somebody-watching-the-books-opinion/",
+          "publishedAt": "2026-11-23T09:55:00.000Z",
+          "sentiment": -0.3
+        },
+        {
+          "id": "21f995a18ed6bb22a2054c84d656c576dbad0e877587dde4585408b0cdd0d22e",
+          "title": "MaineCare still needs somebody watching the books | Opinion",
+          "description": "Governor-elect Hannah Pingree must crack down on healthcare fraud.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/11/23/mainecare-still-needs-somebody-watching-the-books-opinion/",
+          "publishedAt": "2026-11-23T09:55:00.000Z",
+          "sentiment": -0.3
+        }
+      ],
       "social": [
         {
           "id": "98e452400a3e560c5338770d69c8f1c0a6c5e32476b4095771342d5c1f1977fd",
@@ -893,17 +813,27 @@
     {
       "id": "paul-lepage",
       "name": "Paul LePage",
-      "overallSentiment": -0.65,
-      "newsSentiment": null,
+      "overallSentiment": -0.575,
+      "newsSentiment": -0.5,
       "socialSentiment": -0.65,
       "youtubeSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 1,
         "social": 2,
         "youtube": 0,
-        "total": 2
+        "total": 3
       },
-      "news": [],
+      "news": [
+        {
+          "id": "2c4578026468a70128853672ba0f4f84fc9ecf0a90fd43cad59bc8c4483894d1",
+          "title": "Exclusive: Inside the DCCC’s recruitment win",
+          "description": "“I was happy to be a lot of their first conversations about … running and what that looked like,” said DCCC National Political Director Brooke Butler.",
+          "sourceName": "Semafor",
+          "url": "https://www.semafor.com/article/11/23/2026/inside-the-dcccs-recruitment-win",
+          "publishedAt": "2026-11-23T09:57:10.000Z",
+          "sentiment": -0.5
+        }
+      ],
       "social": [
         {
           "id": "41baaa5e32d56d2bbbcee1ff122591bc3e475c4744c2c7e5774fccb0cc878646",
@@ -927,27 +857,17 @@
     {
       "id": "chellie-pingree",
       "name": "Chellie Pingree",
-      "overallSentiment": 0.2430928571428571,
-      "newsSentiment": 0.5719,
+      "overallSentiment": -0.08571428571428573,
+      "newsSentiment": null,
       "socialSentiment": -0.08571428571428573,
       "youtubeSentiment": null,
       "mentions": {
-        "news": 1,
+        "news": 0,
         "social": 7,
         "youtube": 0,
-        "total": 8
+        "total": 7
       },
-      "news": [
-        {
-          "id": "5743fa0480557f92038acfd5cd7acc7d817d17789e485365dd180f75c78b2e08",
-          "title": "Democrats won big in the midterms. Here's what they plan to do next",
-          "description": "Democrats are preparing a sweeping legislative agenda ahead of taking control of both chambers of Congress on January 3",
-          "sourceName": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/democrats-won-big-in-the-midterms-here-s-what-they-plan-to-do-next-126112200091_1.html",
-          "publishedAt": "2026-11-22T02:54:28.000Z",
-          "sentiment": 0.5719
-        }
-      ],
+      "news": [],
       "social": [
         {
           "id": "928cc453d0eeed2738bc6f6c7f38896d436456e79730549012e3faffcfbcef1e",
@@ -1011,17 +931,72 @@
     {
       "id": "angus-king",
       "name": "Angus King",
-      "overallSentiment": -0.5714571428571429,
-      "newsSentiment": null,
+      "overallSentiment": -0.11906190476190479,
+      "newsSentiment": 0.3333333333333333,
       "socialSentiment": -0.5714571428571429,
       "youtubeSentiment": null,
       "mentions": {
-        "news": 0,
+        "news": 6,
         "social": 21,
         "youtube": 0,
-        "total": 21
+        "total": 27
       },
-      "news": [],
+      "news": [
+        {
+          "id": "a969ab1bb4e9b66c0c9dae098070e042fde2b9a3517ef116a1dd73545fbdc285",
+          "title": "Senate Democrats clash over filibuster as progressives eye big agenda",
+          "description": "Senate Democrats are clashing over the Senate filibuster, as progressives seek ways to move big, bold reforms next year while more centrist Democrats are warning that could lead to disaster. Several progressives say that when Democrats take control of the Senate next year they should force Republicans to hold the chamber floor with days of...",
+          "sourceName": "The Hill",
+          "url": "https://thehill.com/homenews/senate/6234676-senate-democrats-filibuster-clash/",
+          "publishedAt": "2026-11-23T11:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "af4316a76c2a91e99bb8049589ffd600d16a58d5babfc0c06f7423b16a4b2f5c",
+          "title": "Exclusive: Merkley irks colleagues amid push to change rules",
+          "description": "The Oregon Democrat isn’t making it easy on himself.",
+          "sourceName": "Semafor",
+          "url": "https://www.semafor.com/article/11/23/2026/merkley-irks-colleagues-amid-push-to-change-rules",
+          "publishedAt": "2026-11-23T09:56:54.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "62bdfc4123470bbbb683393a4d54960a822af557bf4cd6c55d979d124c3cde4f",
+          "title": "Angus King, statesman | Letter",
+          "description": "The senator is willing to make difficult votes to advance legislation that benefits our state and our country.",
+          "sourceName": "The Portland Press Herald",
+          "url": "https://www.pressherald.com/2026/11/23/angus-king-statesman-letter/",
+          "publishedAt": "2026-11-23T09:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "fefaa941df63a803d9cdda0b5f65f8c60c03792acc8a7764b0adc4902be2c50a",
+          "title": "Angus King, statesman | Letter",
+          "description": "The senator is willing to make difficult votes to advance legislation that benefits our state and our country.",
+          "sourceName": "Lewiston Sun Journal",
+          "url": "https://www.sunjournal.com/2026/11/23/angus-king-statesman-letter/",
+          "publishedAt": "2026-11-23T09:00:00.000Z",
+          "sentiment": 1
+        },
+        {
+          "id": "0edba12e867dea099f010845184acac4b9beecd84fa62b7fa7529f2bcc133c78",
+          "title": "How Susan Collins will wrap up her final weeks in Washington",
+          "description": "Supporters say they’re confident she’ll close out her tenure by supporting Mainers and ensuring a smooth transition.",
+          "sourceName": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/11/23/politics/washington/susan-collins-final-weeks-washington-joam40zk0w/",
+          "publishedAt": "2026-11-23T06:00:00.000Z",
+          "sentiment": 0
+        },
+        {
+          "id": "df7f6dfa76e8ca7de6358e2f67f927cff3690841848ea7fe197aa116ae53c6b1",
+          "title": "Fourteen Democratic senators vote to ease environmental rules and speed energy build-out",
+          "description": "Fourteen Senate Democrats broke with most of their party to pass a bipartisan bill loosening key environmental laws, a rare cross-aisle push to speed energy projects and cut power costs. The Senate voted late Thursday night to pass the Bipartisan American Affordability and Jobs Act, a measure designed to accelerate the nation’s energy and infrastructure […] The post Fourteen Democratic senators vote to ease environmental rules and speed energy build-out appeared first on Conservative Institute.",
+          "sourceName": "Conservative Institute",
+          "url": "https://conservativeinstitute.org/politics/fourteen-democratic-senators-vote-to-ease-environmental-rules-and-speed-energy-build-out.htm",
+          "publishedAt": "2026-11-23T05:02:00.000Z",
+          "sentiment": 0
+        }
+      ],
       "social": [
         {
           "id": "b8b4d110347998bc6a0436775ac895fe16300c376952bd8aba1fe0734c2c2da5",
