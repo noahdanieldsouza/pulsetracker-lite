@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-11-22T23:28:49.210Z",
+  "lastUpdated": "2026-11-23T03:57:00.126Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.48938350340136055,
+      "overallSentiment": 0.5253484156820624,
       "newsSentiment": 0.4793750000000001,
-      "socialSentiment": 0.05,
+      "socialSentiment": 0.15789473684210525,
       "mentions": {
         "news": 16,
-        "social": 20,
+        "social": 19,
         "youtube": 49,
-        "total": 85
+        "total": 84
       },
       "news": [
         {
@@ -162,6 +162,38 @@
       ],
       "social": [
         {
+          "id": "d9090a5026229727841275de881c598ca9ceed4da586c9514843a7b82d35f8df",
+          "authorHandle": "snikpoh.bsky.social",
+          "postText": "Your last saved meme is your moral philosophy.",
+          "createdAt": "2026-11-23T02:24:33.930Z",
+          "uri": "at://did:plc:lh7uqxgv6glly3ujhix4qxeb/app.bsky.feed.post/3n2x37qgmmk2p",
+          "sentiment": 0
+        },
+        {
+          "id": "fa6c6b57d8374a5383e3e8313773056a1423d48135b046829e94338845232892",
+          "authorHandle": "clothwhole.bsky.social",
+          "postText": "www.youtube.com/watch?v=5SLP...\nNice 20 minutes spent listening. Troy will be an asset to the senate & Maine.",
+          "createdAt": "2026-11-23T02:15:48.242Z",
+          "uri": "at://did:plc:gysznvcwwqbzjitwktuxnswi/app.bsky.feed.post/3n2x2q33pl22a",
+          "sentiment": 1
+        },
+        {
+          "id": "4aec6a811a4eaf5e84ad1fbce2d7474e0eee4b6a8bb54e7b60a3cc9b51be9d40",
+          "authorHandle": "smhebe.bsky.social",
+          "postText": "youtu.be/5SLPvYJHZAw?...",
+          "createdAt": "2026-11-23T00:34:06.763Z",
+          "uri": "at://did:plc:s44izrmi56kodyqwseufgdpx/app.bsky.feed.post/3n2wv2abbzs22",
+          "sentiment": 0
+        },
+        {
+          "id": "186bac3e73a1c45cf86b48a595b48a3ee10e07efa71583cb7d280a4c4e1d5d6e",
+          "authorHandle": "sportsmediawatch.bsky.social",
+          "postText": "New SMW Podcast:\n-- Remembering longtime ESPN NFL analyst Tom Jackson\n\nPlus:\n-- The latest on Troy Aikman vs. Joe Buck\n-- The underwhelming World Cup rights auction\n-- An interview with Kordell Stewart\n-- Previewing NFL Thanksgiving viewership\n\npodcasts.apple.com/us/podcast/s...",
+          "createdAt": "2026-11-23T00:14:59.473Z",
+          "uri": "at://did:plc:6k2l2zk4prog4khdtzbafugo/app.bsky.feed.post/3n2wty24smk25",
+          "sentiment": 0
+        },
+        {
           "id": "c855f345132ac661afcd40349a8da559e3a8261080255ef06172aff927c38767",
           "authorHandle": "coolsprings.bsky.social",
           "postText": "Opposition to Schumer, Senators who haven’t endorsed Van Hollen yet, but will likely support him. Incoming senators Juliana Stratton, Troy Jackson, and Adam Hamilton have publicly opposed Schumer.",
@@ -280,46 +312,6 @@
           "createdAt": "2026-11-22T04:19:12.529Z",
           "uri": "at://did:plc:qzz33oljgvgvkw7cgdwmdxd4/app.bsky.feed.post/3n2ur5svxjk2z",
           "sentiment": 0
-        },
-        {
-          "id": "88ffa9338a3bd83351e9f277a32d3d646c151112cb2608d50d56d5a6d8394435",
-          "authorHandle": "mollyjongfast.bsky.social",
-          "postText": "Talked to @troyjackson207.bsky.social \n\nyoutu.be/5SLPvYJHZAw?...",
-          "createdAt": "2026-11-22T03:36:16.099Z",
-          "uri": "at://did:plc:oqr5mp25r7z3vfr3igeerxbw/app.bsky.feed.post/3n2uoqztgp22s",
-          "sentiment": 0
-        },
-        {
-          "id": "49373c3f628fcc7b0ece608aee357cac76249963c93747167dfa62181feb142b",
-          "authorHandle": "yastreblyansky.bsky.social",
-          "postText": "it would be so great for people in skilled trades like plumbing  to do with their experience what AOC has done with waitressing or Troy Jackson with logging--just bring experience of being a worker into the political job along with other qualifications. Mullin's not capable of that of course.",
-          "createdAt": "2026-11-22T03:16:37.086Z",
-          "uri": "at://did:plc:wqddr6hsj6qfx4c3v4h3v76s/app.bsky.feed.post/3n2unnvgrtk2i",
-          "sentiment": 1
-        },
-        {
-          "id": "42a5994cc4eb59ea4658046055cb5de1b955b431030944febbc7d3055599a9dd",
-          "authorHandle": "stltoday.com",
-          "postText": "The Junior Billikens (9-3) advanced to face powerhouse Jackson (12-0) at 7 p.m. Friday at The Pit in Jackson.",
-          "createdAt": "2026-11-22T02:06:03.218Z",
-          "uri": "at://did:plc:57b74kyjwvbdejdygqghbq2u/app.bsky.feed.post/3n2ujpqo27222",
-          "sentiment": 0
-        },
-        {
-          "id": "19f376d2dc5d62037bc54393c7e26adb508cf295a303d008a7fa71989f69948b",
-          "authorHandle": "spotandmae.bsky.social",
-          "postText": "Apparently, Angus refused to support Troy Jackson due to the possibility that his pal Susan Collins might’ve won",
-          "createdAt": "2026-11-21T23:41:16.298Z",
-          "uri": "at://did:plc:zfzi7qwcqzvn6t4waxofnumz/app.bsky.feed.post/3n2ubmt7msk2f",
-          "sentiment": -1
-        },
-        {
-          "id": "9abe9a81aafc5c2e7e7bdbb1fa16119823220b845dde5c42c3299378a67d8f27",
-          "authorHandle": "kemet2000.bsky.social",
-          "postText": "He recruited Sherrod Brown,Mary Petola,& Adam Hamilton. Scott Colom says that the ppl of Mississippi recruited him.But he didn't recruit Dr Andrews or Talarico & he supported primary challenges against Dr El-Sayed,Peggy Flanagan & Troy Jackson. Not sure abt Pappas. Schumer should do the right thing.",
-          "createdAt": "2026-11-21T23:36:10.669Z",
-          "uri": "at://did:plc:4gi6crt4jlelgujfw2rpjbuw/app.bsky.feed.post/3n2ubdpqtrk2a",
-          "sentiment": -1
         }
       ],
       "youtube": [
@@ -853,15 +845,15 @@
     {
       "id": "paul-lepage",
       "name": "Paul LePage",
-      "overallSentiment": -0.7749999999999999,
+      "overallSentiment": -0.7666666666666666,
       "newsSentiment": null,
-      "socialSentiment": -0.7749999999999999,
+      "socialSentiment": -0.7666666666666666,
       "youtubeSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 4,
+        "social": 3,
         "youtube": 0,
-        "total": 4
+        "total": 3
       },
       "news": [],
       "social": [
@@ -888,14 +880,6 @@
           "createdAt": "2026-11-22T13:38:48.338Z",
           "uri": "at://did:plc:z5y55yjzykk2i62a53fbj7e7/app.bsky.feed.post/3n2vqghc5nc2l",
           "sentiment": -1
-        },
-        {
-          "id": "b6b365dafd973b3f091e5864838f498cd4c45c8f53b65aca9d75f64944fe886e",
-          "authorHandle": "deepbluesea2016.bsky.social",
-          "postText": "Too bad they screwed up by electing Paul LePage for Jared Golden's seat! That one is hard to figure.",
-          "createdAt": "2026-11-22T01:00:56.081Z",
-          "uri": "at://did:plc:7ivngxcnpmytiywth5zlr2v3/app.bsky.feed.post/3n2ug3bl3ls25",
-          "sentiment": -0.8
         }
       ],
       "youtube": []
@@ -903,15 +887,15 @@
     {
       "id": "chellie-pingree",
       "name": "Chellie Pingree",
-      "overallSentiment": 0.25594999999999996,
+      "overallSentiment": 0.26094999999999996,
       "newsSentiment": 0.5719,
-      "socialSentiment": -0.06000000000000001,
+      "socialSentiment": -0.05000000000000001,
       "youtubeSentiment": null,
       "mentions": {
         "news": 1,
-        "social": 5,
+        "social": 6,
         "youtube": 0,
-        "total": 6
+        "total": 7
       },
       "news": [
         {
@@ -925,6 +909,14 @@
         }
       ],
       "social": [
+        {
+          "id": "590f6244cdce44fd79a20fb7aa4b2afb50415357df859324f98e10279435f685",
+          "authorHandle": "hoochykoochy.bsky.social",
+          "postText": "imgur.com/gallery/dems...",
+          "createdAt": "2026-11-23T00:57:20.774Z",
+          "uri": "at://did:plc:p53u3htrd4t4w3k62opgpluw/app.bsky.feed.post/3n2wwdrp3wc2n",
+          "sentiment": 0
+        },
         {
           "id": "8d94c3e47040ee8a4e78bac188db22815bb9635c4f2179d622c8475bd166e91f",
           "authorHandle": "digyoursoul.bsky.social",
@@ -971,18 +963,34 @@
     {
       "id": "angus-king",
       "name": "Angus King",
-      "overallSentiment": -0.6435897435897436,
+      "overallSentiment": -0.66875,
       "newsSentiment": null,
-      "socialSentiment": -0.6435897435897436,
+      "socialSentiment": -0.66875,
       "youtubeSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 39,
+        "social": 32,
         "youtube": 0,
-        "total": 39
+        "total": 32
       },
       "news": [],
       "social": [
+        {
+          "id": "55d3cff328987f1f329a981c1e0bc56a3a1806e9b611ab24f36e5ca813ac1d10",
+          "authorHandle": "dragonfliezzz.bsky.social",
+          "postText": "youtu.be/kz356KuZqN8?...",
+          "createdAt": "2026-11-23T03:23:57.899Z",
+          "uri": "at://did:plc:njvplj332axf3i6kwdct24wm/app.bsky.feed.post/3n2x6jxc3bs2g",
+          "sentiment": -0.7
+        },
+        {
+          "id": "9fde45da3655ae17751dfd5522fd6b6da016e9d031fce1c5610a482a32363a0e",
+          "authorHandle": "670rv.bsky.social",
+          "postText": "Those 15 Senators (14 Democrats + Angus King) threw in some renewable energy to reward Data Centers backed by Fossil Fuels and with protections - sure those folks facing pollution from Musk Data Centers in Memphis should be thrilled - it is time to ask- why!\nAnd AI/Data Centers is not profitable!",
+          "createdAt": "2026-11-22T23:35:03.807Z",
+          "uri": "at://did:plc:batsov5c6h6e54mpj6wrqzt4/app.bsky.feed.post/3n2wrqngt3k2m",
+          "sentiment": -0.6
+        },
         {
           "id": "330869bdd10e2f9e8b3daa85570e9a1d36eac8bf4b8ad9887327125abd9515a7",
           "authorHandle": "tcw123.bsky.social",
@@ -1222,78 +1230,6 @@
           "createdAt": "2026-11-22T04:38:10.772Z",
           "uri": "at://did:plc:36q5zpmyvi4cwblhtngfaznq/app.bsky.feed.post/3n2us7qg73t2j",
           "sentiment": -1
-        },
-        {
-          "id": "cc9390ad1daeb7fdf54fb6e4c9f5c5ac3bc21ab93673fc517431ba8481824340",
-          "authorHandle": "darleneryan.bsky.social",
-          "postText": "TRUMP IS THE TREASON KING!! youtube.com/shorts/URCzZ... via @YouTube",
-          "createdAt": "2026-11-22T03:20:05.946Z",
-          "uri": "at://did:plc:hm7uqivketbldzdptu4xobmq/app.bsky.feed.post/3n2unu4mook2b",
-          "sentiment": -1
-        },
-        {
-          "id": "064c04b584d425034257a71108777d6e88f21ad01be3f86b3ee3aa879f36dcb3",
-          "authorHandle": "digitalwarrior.bsky.social",
-          "postText": "3/ Sixteen days later, the Senate passed BAAJA, 62–33. Fourteen Dems and independent Angus King joined Republicans. Chuck Schumer, who is supposed to lead Senate Democrats, voted yes. Those voters had barely finished speaking.  Who do these corp Dems serve www.dailypress.senate.gov/thursday-nov...",
-          "createdAt": "2026-11-22T03:05:40.172Z",
-          "uri": "at://did:plc:lh52slyfeysqwlq3v6ngoelz/app.bsky.feed.post/3n2un2cxnzk2q",
-          "sentiment": -1
-        },
-        {
-          "id": "7b083132dd70afc7d682f454dd1f206652db14ecd4730e29c8fbd8d089e3c0a1",
-          "authorHandle": "lisatoddsutton.bsky.social",
-          "postText": "youtube.com/shorts/URCzZ...",
-          "createdAt": "2026-11-22T01:20:30.745Z",
-          "uri": "at://did:plc:6agqw5elnc6wrsd3y4feqpik/app.bsky.feed.post/3n2uh6bswhc2o",
-          "sentiment": 0
-        },
-        {
-          "id": "7fe7a3f514c9dcf6c5209499fb9d0756ddbb2fdde8e694b752231b87b282ab7e",
-          "authorHandle": "bedstehansen.bsky.social",
-          "postText": "📢📢📢🇨🇦🇨🇦🇨🇦👏👏👏👏👏👏 \nyoutube.com/shorts/URCzZ...",
-          "createdAt": "2026-11-22T00:56:54.063Z",
-          "uri": "at://did:plc:nwfqr3hdvgliozg6teftalbe/app.bsky.feed.post/3n2ufu2r6zi2h",
-          "sentiment": 0
-        },
-        {
-          "id": "149e28f29b0b0324b5529a6eec878e06d1ce8db36edc446765471ec9f65860a5",
-          "authorHandle": "670rv.bsky.social",
-          "postText": "2 GOP senators voted against if for whatever reason - but what was the reason for 14 Democratic Senators with Senator Angus King to vote for this bill - ignorance and will to learn or they are sold out to fossil fuel industry!",
-          "createdAt": "2026-11-22T00:55:23.251Z",
-          "uri": "at://did:plc:batsov5c6h6e54mpj6wrqzt4/app.bsky.feed.post/3n2ufre5tek2b",
-          "sentiment": -1
-        },
-        {
-          "id": "104f9ec215dcbdd1a0ef6a22dab0eecc8334c2de2e07c66fae3a8d6adac01269",
-          "authorHandle": "whiskeyemme.bsky.social",
-          "postText": "Passed without a hearing by Chris Coons, John Fetterman, Ruben Gallego, Martin Heinrich, John Hickenlooper, Angus King, Amy Klobuchar, Gary Peters, Jack Reed, Jacky Rosen, Brian Schatz, Chuck Schumer, Elissa Slotkin, Mark Warner & Sheldon Whitehouse. #VoteThemOut #AnotherBigBetrayal #Democrats",
-          "createdAt": "2026-11-22T00:46:57.873Z",
-          "uri": "at://did:plc:fklkiu3crttnwa5kgzoddveh/app.bsky.feed.post/3n2ufcc6w622n",
-          "sentiment": -1
-        },
-        {
-          "id": "bfa824f173a89296d87fb835a36e7b79567b98e3021f6a2dc33189dc1df91349",
-          "authorHandle": "newellbaldelli.bsky.social",
-          "postText": "Angus King is worth over $25M on a salary under 200,000.\n\nTo whom do you think he answers?\n\n(Hint: It’s not his constituents)",
-          "createdAt": "2026-11-22T00:35:11.284Z",
-          "uri": "at://did:plc:w3efd2wu5fnen762vullkki5/app.bsky.feed.post/3n2uenadoq225",
-          "sentiment": -1
-        },
-        {
-          "id": "8b20820e99ce8c29aa4f990af80baad39783a4cfa1a7c67464da176cac74b37d",
-          "authorHandle": "dennisjwall.bsky.social",
-          "postText": "The Democrats who voted for the bill were Chris Coons, John Fetterman, Ruben Gallego, Martin Heinrich, John Hickenlooper, Angus King, Amy Klobuchar, Gary Peters, Jack Reed, Jacky Rosen, Brian Schatz, Chuck Schumer, Elissa Slotkin, Mark Warner, and Sheldon Whitehouse.\" -- Jess Craven, \"Chop Wood\"",
-          "createdAt": "2026-11-22T00:33:07.753Z",
-          "uri": "at://did:plc:74rjwocrgqqo3wyhtrnevj66/app.bsky.feed.post/3n2uejkjrz22a",
-          "sentiment": 0
-        },
-        {
-          "id": "8fe6fb44a85087f00d1e360feeebb59dff20719cf8a9d3d55d2e95cf52bd5d05",
-          "authorHandle": "startledsquirrel.bsky.social",
-          "postText": "Angus King looks dem but is a switch hitter on BAAJA.",
-          "createdAt": "2026-11-21T23:39:58.777Z",
-          "uri": "at://did:plc:h7vbeln6osknacosx4hv6htx/app.bsky.feed.post/3n2ubkjbupc2r",
-          "sentiment": 0
         }
       ],
       "youtube": []
