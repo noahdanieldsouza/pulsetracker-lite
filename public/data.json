@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-11-27T08:24:04.388Z",
+  "lastUpdated": "2026-11-27T18:24:11.676Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.21797121212121215,
+      "overallSentiment": 0.23345333333333332,
       "newsSentiment": 0.1875,
-      "socialSentiment": 0.2789136363636364,
+      "socialSentiment": 0.32536,
       "mentions": {
         "news": 16,
-        "social": 44,
+        "social": 30,
         "youtube": 8,
-        "total": 68
+        "total": 54
       },
       "news": [
         {
@@ -161,6 +161,70 @@
         }
       ],
       "social": [
+        {
+          "id": "e523eed876fb1d0b04166d6abda853a060a29cf15f84caa51a4bc89e25a44fbf",
+          "authorHandle": "leftohio.bsky.social",
+          "postText": "Neither does Janet Mills, who lost in the primary, didn't endorse the winner (less said about that the better), and then lost again to the Governor candidate Troy Jackson. The people of Maine were that antithetical to Schumer's pick for one reason or another. He's 2 for 3 and they're going fast.",
+          "createdAt": "2026-11-27T17:28:20.749Z",
+          "uri": "at://did:plc:lud64ms6zvjy7lnwgtl45jyb/app.bsky.feed.post/3n3cplj2rzk2e",
+          "sentiment": 0.7
+        },
+        {
+          "id": "d0570ff4602f1609b5c4a9800f7f5c141be6f9dd4c1f4bd2e2f87189f69dc04f",
+          "authorHandle": "justinyselonia.bsky.social",
+          "postText": "Day 672.\nSenators-elect Peggy Flanagan and Troy Jackson are backing Chris Van Hollen for Majority Leader.\nA Federal Judge has prohibited the FCC from its license review against ABC.\nMacy’s Thanksgiving Parade has been rescheduled to tomorrow morning.",
+          "createdAt": "2026-11-27T16:48:20.942Z",
+          "uri": "at://did:plc:vl32mckzjznqfy766hbroyjo/app.bsky.feed.post/3n3cndyec6s2m",
+          "sentiment": 0
+        },
+        {
+          "id": "603a4fc2fa92e61246d05d56ceb256234bd62accbb3be213cb843a217c84a748",
+          "authorHandle": "cindylod35.bsky.social",
+          "postText": "open.substack.com/pub/rawstory...",
+          "createdAt": "2026-11-27T16:03:19.086Z",
+          "uri": "at://did:plc:3oos4ixrrcbebva4eubr3sig/app.bsky.feed.post/3n3ckthobuk2d",
+          "sentiment": 0
+        },
+        {
+          "id": "b7329f0ba42c154cb62acae8b3431e6ef0e23e6254336893a24f07655d11bb25",
+          "authorHandle": "jemma2485.bsky.social",
+          "postText": "I’d guarantee that she’s extremely mad that Troy Jackson won, killing her theory that only rape-y flannel dude could win against Collins. Also, willing to bet she’d have stuck by Platner if that most recent allegation had come from another republican woman.",
+          "createdAt": "2026-11-27T15:00:36.945Z",
+          "uri": "at://did:plc:l5nyjrc537sa7tmgw47a32ay/app.bsky.feed.post/3n3chddss3s2n",
+          "sentiment": 0.6
+        },
+        {
+          "id": "9aa8bb9735a8bdd738174f91075b9e9e2901ab128a55333a966b698a4760873e",
+          "authorHandle": "adnan-rahman.bsky.social",
+          "postText": "'I've Talked With #Mainers': #TroyJackson Latest Senator-Elect to Endorse #VanHollen Over #Shumer",
+          "createdAt": "2026-11-27T14:37:25.732Z",
+          "uri": "at://did:plc:misdl6fbmmqcsidw6vtnxnx3/app.bsky.feed.post/3n3cfzv2aps2n",
+          "sentiment": 0.5
+        },
+        {
+          "id": "52439c9530ab8a8cb2ec428df4e0eae6d30b63089bf725777511993241cc7475",
+          "authorHandle": "gomcgill.com",
+          "postText": "Hollywood actor and producer Mark Ruffalo thanked Democratic Senator-elect Troy Jackson for endorsing Chris Van Hollen as the next Senate Majority Leader. Ruffalo has publicly supported Van Hollen, calling for a change in leadership from Chuck Schumer.",
+          "createdAt": "2026-11-27T12:01:13.410Z",
+          "uri": "at://did:plc:ckqmqpqrcwem2fuazkbyyrue/app.bsky.feed.post/3n3c5cmol6x2v",
+          "sentiment": 0.7
+        },
+        {
+          "id": "397d0bbcbaeb9e04e41a14540d715ab53d86d79e912adc80668d4a94b845fa9a",
+          "authorHandle": "vulcansmile.bsky.social",
+          "postText": "So proud of Senator-elect Troy Jackson refusing to apologize for telling her to shut up.",
+          "createdAt": "2026-11-27T09:50:21.211Z",
+          "uri": "at://did:plc:taaalkhyiuumqnybfuuotfhu/app.bsky.feed.post/3n3bvykhmfs24",
+          "sentiment": 0.8
+        },
+        {
+          "id": "5b8ca3270022a28f56f7da193b1c5fc863c8ac84b79ce30015f43ceea6252f47",
+          "authorHandle": "piyushmittal.bsky.social",
+          "postText": "'I've Talked With Mainers': Troy Jackson Latest Senator-Elect to Endorse Van Hollen Over Schumer.\nPeople from the land of the free and home of the brave aren’t intimidated by the likes of Chuck Schumer.\nwww.commondreams.org/news/troy-ja...",
+          "createdAt": "2026-11-27T09:02:21.896Z",
+          "uri": "at://did:plc:3nxoecyqfinoh25u7p4rha5g/app.bsky.feed.post/3n3btcqjve22u",
+          "sentiment": 0.7
+        },
         {
           "id": "4ed4c4075cd4dd8ceb6887356dcac74f4612373787dfac305da280125f91d6a0",
           "authorHandle": "realjournalism.bsky.social",
@@ -336,182 +400,6 @@
           "createdAt": "2026-11-26T20:00:03.230Z",
           "uri": "at://did:plc:bns72e4q4kjm5d6e5dktgyhk/app.bsky.feed.post/3n3ahludidk2i",
           "sentiment": 0
-        },
-        {
-          "id": "ba253daa673f965d152ac7be2c3d80686dc1d2c5c7470338d7b1f957c254392a",
-          "authorHandle": "heatherlynn8571.mastodon.social.ap.brid.gy",
-          "postText": "Democrat\n🧵\nTroy Jackson on healthcare ...\nbsky.app/profile/troy…",
-          "createdAt": "2026-11-26T16:58:42.000Z",
-          "uri": "at://did:plc:pkect3o254wrxh3ejfjp63wk/app.bsky.feed.post/3n3a5hzezvme2",
-          "sentiment": 0
-        },
-        {
-          "id": "34fc9d28dc3e1049d9c8ba2da2ecb8e9a04c090d6f4f3161474a9efca51bcd38",
-          "authorHandle": "nopolzone.bsky.social",
-          "postText": "Revealed: Trump Slammed Over Move That Would Lead to ‘Privatization of Medicare’\nopen.substack.com/pub/rawstory...",
-          "createdAt": "2026-11-26T16:25:39.699Z",
-          "uri": "at://did:plc:digcbxjcaim6rnhq7zxtxhyg/app.bsky.feed.post/3n3a3mipods2e",
-          "sentiment": 0
-        },
-        {
-          "id": "4cab70e7a327a6164387f80947d57a216516f2ab01c92565853c2875c27f4acf",
-          "authorHandle": "sid-eschenbach.bsky.social",
-          "postText": "What am I thankful for?\n\nAbdul El-Sayed, Adam Hamilton, Annie Andrews, Chris Pappas, James Talarico, Josh Turek, Juliana Stratton, Peggy Flanagan, Mary Peltola, Roy Cooper, Scott Colom, Sherrod Brown, Troy Jackson...\n\nand the 73 NEWLY ELECTED DEMOCRATIC REPRESENTATIVES!\n\nNothing else comes close.",
-          "createdAt": "2026-11-26T16:19:02.354Z",
-          "uri": "at://did:plc:sec2eyr74isw5deu3byed6fl/app.bsky.feed.post/3n3a3anro4k2b",
-          "sentiment": 0.6114
-        },
-        {
-          "id": "86ac459a92675cd0744efb4f5a9978277b7be793636023deb5c355795e7c5441",
-          "authorHandle": "conceptofzero999.bsky.social",
-          "postText": "open.substack.com/pub/rawstory...",
-          "createdAt": "2026-11-26T16:17:33.652Z",
-          "uri": "at://did:plc:fwerkgxyv4jmh33g3bhqtb7q/app.bsky.feed.post/3n3a35z6o3s2p",
-          "sentiment": 0
-        },
-        {
-          "id": "a1adaf6a105cb977dc36c53f72d72e88fb1764d8c38da373e8b80989b58dc60e",
-          "authorHandle": "collinswatch.bsky.social",
-          "postText": "Troy Jackson sits for a six-minute interview with local TV...and pushes the same exact bills and issues he was pushing before the election. Refreshing!\n\n(Someone give that guy some lighting tips!) #MEpolitics",
-          "createdAt": "2026-11-26T15:17:44.885Z",
-          "uri": "at://did:plc:kvityvfmxlhrepqg5kugljtd/app.bsky.feed.post/3n37xt2oark2v",
-          "sentiment": -0.3
-        },
-        {
-          "id": "386f630e0b06d8089c0f75e3948e3f10f770dfabcc25c0d80866717c6cc903f0",
-          "authorHandle": "jillpiggott.bsky.social",
-          "postText": "Sen-Elect Troy Jackson: Fashion Trendsetter \nHappy Thanksgiving, #mepolitics.\n\nwww.sunjournal.com/2026/11/24/a...",
-          "createdAt": "2026-11-26T15:13:28.663Z",
-          "uri": "at://did:plc:qoewv4sal6ftjn3gwcrzyn4g/app.bsky.feed.post/3n37xlgcyxc26",
-          "sentiment": 0.2
-        },
-        {
-          "id": "bd696f563a0395c25f130888933548da96dd942160bc5e81273f0aed70431a71",
-          "authorHandle": "dharmalee3.bsky.social",
-          "postText": "'I've Talked With Mainers': Troy Jackson Latest Senator-Elect to Endorse Van Hollen Over Shumer www.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-11-26T14:43:36.171Z",
-          "uri": "at://did:plc:y3wyn2keqln5hdywt7btznbj/app.bsky.feed.post/3n37vvyuhj22c",
-          "sentiment": 0
-        },
-        {
-          "id": "6b9c8a060a64efeb7514cef24379d63b58794f41c955d3de70a288b563c66342",
-          "authorHandle": "diane52a.bsky.social",
-          "postText": "Fukk this!\n\nopen.substack.com/pub/rawstory...",
-          "createdAt": "2026-11-26T14:35:51.914Z",
-          "uri": "at://did:plc:w2qwg77fgaryw3rauktjseyc/app.bsky.feed.post/3n37vi64flc23",
-          "sentiment": 0
-        },
-        {
-          "id": "db7efd4f22e2ee5eb1b552122fdc3f0e48c119eff04a24882c3ce88d514a8d79",
-          "authorHandle": "sid-eschenbach.bsky.social",
-          "postText": "What am I thankful for?\n\nAbdul El-Sayed, Adam Hamilton, Annie Andrews, Chris Pappas, James Talarico, Josh Turek, Juliana Stratton, Peggy Flanagan, Mary Peltola, Roy Cooper, Scott Colom, Sherrod Brown, Troy Jackson...\n\nand the 73 NEWLY ELECTED DEMOCRATIC REPRESENTATIVES!\n\nNothing else comes close.",
-          "createdAt": "2026-11-26T14:30:17.037Z",
-          "uri": "at://did:plc:sec2eyr74isw5deu3byed6fl/app.bsky.feed.post/3n37v66qrb22b",
-          "sentiment": 0.8
-        },
-        {
-          "id": "cccbfb1e4d678e7726995b38bae79a5202d84d54f01d1ca4ceb63f952d8de03b",
-          "authorHandle": "veronicalbluesky.bsky.social",
-          "postText": "‘I’ve Talked With Mainers’: Troy Jackson Latest Senator-Elect to Endorse Van Hollen Over Shumer. “From one end of Maine to the other, I heard the same thing. People are working harder, falling further behind, and getting tired of being told to wait.”\nwww.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-11-26T14:17:04.956Z",
-          "uri": "at://did:plc:xnaf7yri2xm7ajb6lmcnejgx/app.bsky.feed.post/3n37uglefn224",
-          "sentiment": 0.5
-        },
-        {
-          "id": "e0dd18361c18a2bed99f2dbe901d656056ba87ca850377c70229dc46cc45fc52",
-          "authorHandle": "dfreedgood.bsky.social",
-          "postText": "Revealed: Trump Slammed Over Move That Would Lead to ‘Privatization of Medicare’\nopen.substack.com/pub/rawstory...",
-          "createdAt": "2026-11-26T14:14:37.821Z",
-          "uri": "at://did:plc:zwnklbtyfumejezdkid7xumd/app.bsky.feed.post/3n37uc7274c24",
-          "sentiment": 0
-        },
-        {
-          "id": "059125b044f1eadbef3dffba619095120659b7e2a51fe0153e20c37bd752d880",
-          "authorHandle": "justmekirsten.bsky.social",
-          "postText": "Revealed: Trump Slammed Over Move That Would Lead to ‘Privatization of Medicare’\nopen.substack.com/pub/rawstory...",
-          "createdAt": "2026-11-26T13:47:59.341Z",
-          "uri": "at://did:plc:z737wyppksuflgsnqrh6q57k/app.bsky.feed.post/3n37sskmhic2l",
-          "sentiment": 0
-        },
-        {
-          "id": "30c0ea788664dbf4861e805c28f45a0aa441ccadd7cf522eb74575adc9f6b7a4",
-          "authorHandle": "leeday22.bsky.social",
-          "postText": "Maine Senator-Elect Troy Jackson endorses Senator Chris Van Hollen for Senate majority leader saying working people don't want to wait but need action now. @bostonglobe.com",
-          "createdAt": "2026-11-26T13:30:36.656Z",
-          "uri": "at://did:plc:jn6byz35ssq3x7wvnxtyp4lz/app.bsky.feed.post/3n37rtiabfc2h",
-          "sentiment": 0.6
-        },
-        {
-          "id": "07c8443b34be2cc20ad4c4bbf77cbf813fefb48c1d58b25a5e82a2cfa518402f",
-          "authorHandle": "jc-82.bsky.social",
-          "postText": "Thank you for having a spine Senator-elect Troy Jackson!",
-          "createdAt": "2026-11-26T13:26:02.556Z",
-          "uri": "at://did:plc:vusnpfaigs2lnhwh7g7kkzrs/app.bsky.feed.post/3n37rlctdns2v",
-          "sentiment": 0.8
-        },
-        {
-          "id": "03dfc5412d059a9fd66bb7c0cef7edcf66cb05c8c4294db49a39eca6fd2ad2fa",
-          "authorHandle": "90for90.bsky.social",
-          "postText": "thehill.com/homenews/sen...",
-          "createdAt": "2026-11-26T13:13:50.381Z",
-          "uri": "at://did:plc:bteo5fw7egewx6ehqg3a6y37/app.bsky.feed.post/3n37qvil5yc2k",
-          "sentiment": 0
-        },
-        {
-          "id": "0e17139e8a0f310b5e4dc8b0437164b004010242ae17c1300074c0b64514b2c6",
-          "authorHandle": "chaiah.bsky.social",
-          "postText": "Happy Thanksgiving, Senator-Elect Troy Jackson and family!!!!   Thank you all for all you’ve done in these past few months and will do in the next six years.  Sincerely.",
-          "createdAt": "2026-11-26T12:55:41.252Z",
-          "uri": "at://did:plc:xv5ta5oawg2p7bucarujbjmr/app.bsky.feed.post/3n37puzvkhs2q",
-          "sentiment": 0.9
-        },
-        {
-          "id": "4b4db6927d547f29f4f70632c466346658e508db29a992e5cd1e5a650ef31cae",
-          "authorHandle": "conifergirl.bsky.social",
-          "postText": "“From one end of Maine to the other, I heard the same thing. People are working harder, falling further behind, and getting tired of being told to wait.”\nwww.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-11-26T12:44:44.697Z",
-          "uri": "at://did:plc:cukyh664zwfwfsi2qo7otdkl/app.bsky.feed.post/3n37pbhr4ix27",
-          "sentiment": 0
-        },
-        {
-          "id": "78234be340e770df65b4d1b1ff89ce5e959035a8defa0d5ecc45a64c6a414185",
-          "authorHandle": "sid-eschenbach.bsky.social",
-          "postText": "What am I thankful for?\n\nAbdul El-Sayed, Adam Hamilton, Annie Andrews, Chris Pappas, James Talarico, Josh Turek, Juliana Stratton, Peggy Flanagan, Mary Peltola, Roy Cooper, Scott Colom, Sherrod Brown, Troy Jackson...\n\nand the 73 NEWLY ELECTED DEMOCRATIC REPRESENTATIVES!\n\nNothing else comes close.",
-          "createdAt": "2026-11-26T12:43:13.220Z",
-          "uri": "at://did:plc:sec2eyr74isw5deu3byed6fl/app.bsky.feed.post/3n37p6qjhh22s",
-          "sentiment": 0.8
-        },
-        {
-          "id": "994bc85127e04070ff9bd226a7a2e94bd9b69abc6d40f8d59c930043784aac1a",
-          "authorHandle": "samnotscott.bsky.social",
-          "postText": "Troy Jackson won btw",
-          "createdAt": "2026-11-26T12:16:51.509Z",
-          "uri": "at://did:plc:qfi6ysrpkv73j5lpbdblybyl/app.bsky.feed.post/3n37npm3gt22b",
-          "sentiment": 0.3
-        },
-        {
-          "id": "873e81afdb5b9c56f6ac46595006f77ae14b65dcaa3a8985f981064f705c4cbc",
-          "authorHandle": "dennisjkoch.bsky.social",
-          "postText": "Trump Slammed Over Move That Would Lead to ‘Privatization of Medicare’\n\nTrump slammed for pushing seniors into Medicare Advantage plans, judge shoots down Trump’s new attack on birthright citizenship, Troy Jackson rejects Chuck Schumer\n\n#USA #Trump #uspoli\n\nopen.substack.com/pub/rawstory...",
-          "createdAt": "2026-11-26T11:35:56.244Z",
-          "uri": "at://did:plc:mv6loxcddhj3i6pzfvzicc36/app.bsky.feed.post/3n37lggkq3227",
-          "sentiment": 0.4
-        },
-        {
-          "id": "8f8d9e89852f15ad8555ac2c18d9285731ef62947f43ad350927834f17b75f94",
-          "authorHandle": "mialong.bsky.social",
-          "postText": "open.substack.com/pub/rawstory...",
-          "createdAt": "2026-11-26T10:43:51.464Z",
-          "uri": "at://did:plc:tgri7wx4f4jiurgoxlekfl7t/app.bsky.feed.post/3n37ijcjz4222",
-          "sentiment": 0
-        },
-        {
-          "id": "a2b4ceb568711bb5f455070f232eb2bbba5ee0500d91da36e466c304bc5208cd",
-          "authorHandle": "peaceful1.bsky.social",
-          "postText": "Character and courage manifest.  TY Senator-elect Troy Jackson! 🌊💥🦃",
-          "createdAt": "2026-11-26T09:50:37.901Z",
-          "uri": "at://did:plc:mubxi5wpd5ewx3c6mrnn7lbv/app.bsky.feed.post/3n37fk4wbbh2n",
-          "sentiment": 0.9
         }
       ],
       "youtube": [
@@ -702,15 +590,15 @@
     {
       "id": "chellie-pingree",
       "name": "Chellie Pingree",
-      "overallSentiment": 0.22666666666666663,
+      "overallSentiment": 0.14999999999999997,
       "newsSentiment": 0.2333333333333333,
-      "socialSentiment": 0.21999999999999997,
+      "socialSentiment": 0.06666666666666665,
       "youtubeSentiment": null,
       "mentions": {
         "news": 3,
-        "social": 10,
+        "social": 3,
         "youtube": 0,
-        "total": 13
+        "total": 6
       },
       "news": [
         {
@@ -743,6 +631,14 @@
       ],
       "social": [
         {
+          "id": "c0014b632e8fbe924a6c9ef569eac07a68ab824a58a070acee6343564d22bce5",
+          "authorHandle": "reallyamerican.bsky.social",
+          "postText": "BREAKING: Rep. Chellie Pingree promises to investigate Trump’s attempt to control the Smithsonian once Democrats are sworn in.",
+          "createdAt": "2026-11-27T18:00:52.085Z",
+          "uri": "at://did:plc:zlltnkapnzyse6am2n2jws7g/app.bsky.feed.post/3n3crfnwtqk2b",
+          "sentiment": -0.3
+        },
+        {
           "id": "fb72dfb950956bee2cee1ec71f541e2952f198dc0da3d71fa4ca2eee24ce12db",
           "authorHandle": "rajoyce.bsky.social",
           "postText": "There is so much to track so I am delighted to see the Democrats say they will act to defend the Smithsonian",
@@ -757,70 +653,6 @@
           "createdAt": "2026-11-26T23:25:35.065Z",
           "uri": "at://did:plc:wzrfdpbi3s43ar7usuxtgdgu/app.bsky.feed.post/3n3at3evbvs2z",
           "sentiment": 1
-        },
-        {
-          "id": "d6fcf1e3da9953b97ce337a0cde167b155d1c0cc2d13222833549f4a54d734dc",
-          "authorHandle": "sstrumello.bsky.social",
-          "postText": "Rep. Chellie Pingree (D-ME), who's in line to chair a House Appropriations subcommittee that controls funding for the Interior Dept, recently told MoJo that she's considering language that would block the the Park Service from reorganizing \"without congressional approval.\"",
-          "createdAt": "2026-11-26T16:51:29.435Z",
-          "uri": "at://did:plc:zepu7eiumgkvzhbww3qzibvm/app.bsky.feed.post/3n3a52ontgk2p",
-          "sentiment": 0
-        },
-        {
-          "id": "0d1ccf2e1556beead29bd880b39e1db5ffe75ad2dc7c3900b4a7666e7cc237a3",
-          "authorHandle": "billmiddleton.bsky.social",
-          "postText": "Thanks and Thanksgiving wishes to Representative Chellie Pingree (ME-01)\nbillmiddleton1.substack.com/p/thanks-and...",
-          "createdAt": "2026-11-26T16:24:11.638Z",
-          "uri": "at://did:plc:h6u75myfh2hniqbvgsfihhpb/app.bsky.feed.post/3n3a3juqbbk2z",
-          "sentiment": 1
-        },
-        {
-          "id": "38bd9ec7a35fb0f5935531db357137a589caf6b53172fa6c9269919270af62e7",
-          "authorHandle": "smhebe.bsky.social",
-          "postText": "mainenewsroom.substack.com/p/rep-pingre...",
-          "createdAt": "2026-11-26T16:12:22.430Z",
-          "uri": "at://did:plc:s44izrmi56kodyqwseufgdpx/app.bsky.feed.post/3n3a2uqexdk2r",
-          "sentiment": 0
-        },
-        {
-          "id": "f27144ac6b504700e1729c1a872b80dbcf81600b4cc9b02521298eeb2bd0e02c",
-          "authorHandle": "hear-me-roar-2025.bsky.social",
-          "postText": "11/25/26\n\nwww.propublica.org/article/smit...",
-          "createdAt": "2026-11-26T14:29:22.966Z",
-          "uri": "at://did:plc:2i6lxyesthfj5ns3ofk7flim/app.bsky.feed.post/3n37v4l6nkc2m",
-          "sentiment": -0.1
-        },
-        {
-          "id": "02f2ae01c2fd647733f638388036a3ad8fc1d2af45705122faf00ea6396dd4ea",
-          "authorHandle": "hear-me-roar-2025.bsky.social",
-          "postText": "11/25/26 \n\nwww.propublica.org/article/smit...",
-          "createdAt": "2026-11-26T14:28:50.488Z",
-          "uri": "at://did:plc:2i6lxyesthfj5ns3ofk7flim/app.bsky.feed.post/3n37v3m7jq22m",
-          "sentiment": -0.1
-        },
-        {
-          "id": "57aef32672429de7ef8fac8107797eeb3d8bac20233e51e97069165a04ab6be7",
-          "authorHandle": "kylegcrider.bsky.social",
-          "postText": "www.propublica.org/article/smit...",
-          "createdAt": "2026-11-26T13:46:45.010Z",
-          "uri": "at://did:plc:fkct4kdwrtd3tn6qziksjlmk/app.bsky.feed.post/3n37sqdq2mk2x",
-          "sentiment": -0.1
-        },
-        {
-          "id": "f71065c56c8b272f1630ead8d577732fb71ad56260143d60bd0f7718b362775e",
-          "authorHandle": "veratify.bsky.social",
-          "postText": "V confirms Rep. Chellie Pingree did say this — and what they said is true. propublica.org quotes Pingree stating no White House employee gets to design future Smithsonian exhibit plans.\n\nReal-time fact-checks on your feed: https://veratify.ai\nErrors or comments: info@veratify.ai",
-          "createdAt": "2026-11-26T12:28:54.676Z",
-          "uri": "at://did:plc:6jqaj5qku73kt3qgkfey2ued/app.bsky.feed.post/3n37of5twwx2w",
-          "sentiment": 0.5
-        },
-        {
-          "id": "33a2197985d12c28e0154b2cbe113da9908b15cd0ac94438d6243618a142bef4",
-          "authorHandle": "veratify.bsky.social",
-          "postText": "V confirms Rep. Chellie Pingree did say this — and what they said is true. propublica.org quotes Pingree stating no White House employee gets to design future Smithsonian exhibit plans.\n\nReal-time fact-checks on your feed: https://veratify.ai\nErrors or comments: info@veratify.ai",
-          "createdAt": "2026-11-26T12:28:54.127Z",
-          "uri": "at://did:plc:6jqaj5qku73kt3qgkfey2ued/app.bsky.feed.post/3n37of5nq6o23",
-          "sentiment": 0.5
         }
       ],
       "youtube": []
@@ -828,15 +660,15 @@
     {
       "id": "angus-king",
       "name": "Angus King",
-      "overallSentiment": -0.392974358974359,
+      "overallSentiment": -0.43080333333333337,
       "newsSentiment": 0,
-      "socialSentiment": -0.17892307692307693,
+      "socialSentiment": -0.29241,
       "youtubeSentiment": -1,
       "mentions": {
         "news": 3,
-        "social": 13,
+        "social": 10,
         "youtube": 1,
-        "total": 17
+        "total": 14
       },
       "news": [
         {
@@ -868,6 +700,30 @@
         }
       ],
       "social": [
+        {
+          "id": "35b7f19f384f6156e3b1c4124df56224a56de4f6cb7abf4c101bdd3f237f7f29",
+          "authorHandle": "oprev7.bsky.social",
+          "postText": "WAKE UP CALL YOUR SENATORS TODAY!!\n\nsubstack.com/@genxgirl199...",
+          "createdAt": "2026-11-27T18:16:35.387Z",
+          "uri": "at://did:plc:lcydfn4klubqjpgmhltgtd2z/app.bsky.feed.post/3n3csbrjuok2d",
+          "sentiment": -1
+        },
+        {
+          "id": "7e7357e8fbf02d54ec1204e7aedf0bb3f8b40ca7731353ca48d9987a7d637313",
+          "authorHandle": "brainspikes.bsky.social",
+          "postText": "youtube.com/watch?v=X6Ix... THE NEXT SET OF SENATE DEMS THAT NEED TO GET ‘THROWN OUT OF CONGRESS’:  \nAngus King (I) ME\nAmy Klobuchar (D) MN\nGary Peters (D) MI\nElissa Slotkin (D) MI\nMark Warner (D) VA\nJack Reed (D) RI\nJacky Rosen (D) NV\nBrian Schatz (D) HI\nSheldon Whitehouse (D) RI",
+          "createdAt": "2026-11-27T18:08:47.798Z",
+          "uri": "at://did:plc:gvg644irhhpg6c3k7fob3kl5/app.bsky.feed.post/3n3crttmaqs2h",
+          "sentiment": -1
+        },
+        {
+          "id": "c6f8a9d31be9ac1de7d8e58d569c1acec01bcd1c613fad308d78ba2bec4aa411",
+          "authorHandle": "jamesrhodesphotos.bsky.social",
+          "postText": "The new James Bond... Looks interesting. He did the movie called, \"The Batman.\"\n\nwww.youtube.com/watch?v=VqXu...",
+          "createdAt": "2026-11-27T17:09:15.204Z",
+          "uri": "at://did:plc:r2ns6tkkjghzdnqcszg6nfgx/app.bsky.feed.post/3n3cojejdgc2t",
+          "sentiment": 0
+        },
         {
           "id": "b61f10220b23a382a36049fb1ddcb3aaca0bafe55410312bf50987deebf39f1c",
           "authorHandle": "nettyroyal.bsky.social",
@@ -923,54 +779,6 @@
           "createdAt": "2026-11-26T18:29:53.091Z",
           "uri": "at://did:plc:eryxhcuxbeczurxpskirxr4c/app.bsky.feed.post/3n3ackmt5hs2r",
           "sentiment": 0.7824
-        },
-        {
-          "id": "9bb20c1ee45bfd2d7dee8aecb3f03e5d654659c677c93dbd0719d8abeececc39",
-          "authorHandle": "heyheygoodbye.bsky.social",
-          "postText": "@vanhollen.senate.gov @democrats.senate.gov @judiciarydems.senate.gov \nNope. Pd them too. I call them 'Corporate Dems'. In other words, 'my position is for sale'. We will take US tax dollars & give them to another country regardless if they commit war crimes.  They take AIPAC, pro-Israel,",
-          "createdAt": "2026-11-26T17:58:50.346Z",
-          "uri": "at://did:plc:ihkzkisyjfl2w7i5eu3nszot/app.bsky.feed.post/3n3aat4hldc2a",
-          "sentiment": -0.4019
-        },
-        {
-          "id": "5e87b5185fb6c1867bbdcd3ab6fe94f0405cca2927e080a3352f0e55b8854c9c",
-          "authorHandle": "jimmcmurray.bsky.social",
-          "postText": "youtube.com/watch?v=kz35...",
-          "createdAt": "2026-11-26T16:36:05.353Z",
-          "uri": "at://did:plc:lsrsxaereisnquywmgbw3v7h/app.bsky.feed.post/3n3a475f4lc2l",
-          "sentiment": 0
-        },
-        {
-          "id": "728b381d6cd35b5f0f7ad6b56f88e8c3be02cc74f750061d78fd60597284bdd0",
-          "authorHandle": "jimmcmurray.bsky.social",
-          "postText": "youtube.com/watch?v=kz35...",
-          "createdAt": "2026-11-26T16:21:39.589Z",
-          "uri": "at://did:plc:lsrsxaereisnquywmgbw3v7h/app.bsky.feed.post/3n3a3fdq4vk2l",
-          "sentiment": 0
-        },
-        {
-          "id": "53d5749f5f3dd2e5f767cb5cee459be62cc322737108e4b77ab2bc0ee88f2fd7",
-          "authorHandle": "notintofascism.bsky.social",
-          "postText": "The 15 members of the Senate Democratic caucus who voted for the bill were Chris Coons (Del.), John Fetterman (Pa.), Ruben Gallego (Ariz.), Martin Heinrich (NM), John Hickenlooper (Colo.), Angus King (Maine), \nwww.commondreams.org/news/senate-...",
-          "createdAt": "2026-11-26T15:49:17.643Z",
-          "uri": "at://did:plc:mujsd3e7n6jea7jgarbscysf/app.bsky.feed.post/3n37zlhqmbs2p",
-          "sentiment": 0
-        },
-        {
-          "id": "7ca9d2b27d60683633bf68d7491a4ed8b8ed99c9172b827065c0db095bf81316",
-          "authorHandle": "weetabixsu.bsky.social",
-          "postText": "Those of you wanting to eat Jollibee in Hong Kong (why?) should know the patty they use for the Jolliburger tasets exactly or similar to a Burger King Whopper patty. The taste of this and a Yum patty is night and day, and right now they’re poising it as their rep vs tthe McDonald’s Angus burgers.",
-          "createdAt": "2026-11-26T13:30:17.552Z",
-          "uri": "at://did:plc:cooat6rl7yf5ljjp6zweqq3c/app.bsky.feed.post/3n37rsvzjwk2g",
-          "sentiment": 0
-        },
-        {
-          "id": "2d611a8c20fcfd8a284adf1158a23e50321fae1366f0dab38f8d8ac66f4bbce8",
-          "authorHandle": "officiallilsilver.bsky.social",
-          "postText": "TREASON KING THREATENS CANADA!!\n\nwww.youtube.com/watch?v=kz35...",
-          "createdAt": "2026-11-26T10:00:54.705Z",
-          "uri": "at://did:plc:onosb7hressea4vw5yyiajsk/app.bsky.feed.post/3n37g4j5kvc2q",
-          "sentiment": -1
         }
       ],
       "youtube": [
