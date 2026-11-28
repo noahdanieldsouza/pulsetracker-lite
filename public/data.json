@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-11-28T01:36:21.241Z",
+  "lastUpdated": "2026-11-28T09:27:56.799Z",
   "windowHours": 24,
   "politicians": [
     {
       "id": "troy-jackson",
       "name": "Troy Jackson",
-      "overallSentiment": 0.3333333333333333,
+      "overallSentiment": 0.35333333333333333,
       "newsSentiment": 0,
-      "socialSentiment": 0.19999999999999998,
+      "socialSentiment": 0.25999999999999995,
       "mentions": {
         "news": 4,
-        "social": 18,
+        "social": 16,
         "youtube": 2,
-        "total": 24
+        "total": 22
       },
       "news": [
         {
@@ -53,6 +53,14 @@
         }
       ],
       "social": [
+        {
+          "id": "992fc84adb9e9377bfa802c789bc0e685c5b7e43c62fffa028a332b32214e39f",
+          "authorHandle": "leftoverture76.bsky.social",
+          "postText": "",
+          "createdAt": "2026-11-28T06:37:06.613Z",
+          "uri": "at://did:plc:siuhkvwemb7hruhclywv5sud/app.bsky.feed.post/3n3e3nwheqs2n",
+          "sentiment": null
+        },
         {
           "id": "c9a008530f2d62adfb66810bd23b16b896cd03dc849eb831792393e503191a98",
           "authorHandle": "jflem2.bsky.social",
@@ -172,30 +180,6 @@
           "createdAt": "2026-11-27T09:50:21.211Z",
           "uri": "at://did:plc:taaalkhyiuumqnybfuuotfhu/app.bsky.feed.post/3n3bvykhmfs24",
           "sentiment": 0.8
-        },
-        {
-          "id": "5b8ca3270022a28f56f7da193b1c5fc863c8ac84b79ce30015f43ceea6252f47",
-          "authorHandle": "piyushmittal.bsky.social",
-          "postText": "'I've Talked With Mainers': Troy Jackson Latest Senator-Elect to Endorse Van Hollen Over Schumer.\nPeople from the land of the free and home of the brave aren’t intimidated by the likes of Chuck Schumer.\nwww.commondreams.org/news/troy-ja...",
-          "createdAt": "2026-11-27T09:02:21.896Z",
-          "uri": "at://did:plc:3nxoecyqfinoh25u7p4rha5g/app.bsky.feed.post/3n3btcqjve22u",
-          "sentiment": 0.7
-        },
-        {
-          "id": "4ed4c4075cd4dd8ceb6887356dcac74f4612373787dfac305da280125f91d6a0",
-          "authorHandle": "realjournalism.bsky.social",
-          "postText": "Statement from IAM Union on Senator-Elect Troy Jackson’s Endorsement of Chris Van Hollen for Majority Leader www.goiam.org/news/stateme... #Maine #1u",
-          "createdAt": "2026-11-27T05:57:56.202Z",
-          "uri": "at://did:plc:7a7q4in52kdal6mpesb3lj3o/app.bsky.feed.post/3n3biyxholc2m",
-          "sentiment": -1
-        },
-        {
-          "id": "dcceed4bbda7e5b6b7360eb1cd0ae4ddf50029dd2e2a62f56b0760f9b60fe7f0",
-          "authorHandle": "shihtzu24.bsky.social",
-          "postText": "substack.com/@mainenewsro...",
-          "createdAt": "2026-11-27T04:41:10.821Z",
-          "uri": "at://did:plc:icmzdmka7gyv2tw565gklggy/app.bsky.feed.post/3n3beppgn6c2l",
-          "sentiment": 0
         }
       ],
       "youtube": [
@@ -276,18 +260,34 @@
     {
       "id": "chellie-pingree",
       "name": "Chellie Pingree",
-      "overallSentiment": 0.31999999999999995,
+      "overallSentiment": 0.32857142857142857,
       "newsSentiment": null,
-      "socialSentiment": 0.31999999999999995,
+      "socialSentiment": 0.32857142857142857,
       "youtubeSentiment": null,
       "mentions": {
         "news": 0,
-        "social": 5,
+        "social": 7,
         "youtube": 0,
-        "total": 5
+        "total": 7
       },
       "news": [],
       "social": [
+        {
+          "id": "845bc6aced8413e8ea0afec38f91089a2aaa56e488a3a136cd68a1b4951e0a53",
+          "authorHandle": "cats75.bsky.social",
+          "postText": "www.propublica.org/article/smit... 💙💙",
+          "createdAt": "2026-11-28T01:58:51.343Z",
+          "uri": "at://did:plc:hxw5b7k2saarrcv6zci7x2rl/app.bsky.feed.post/3n3dm4em5622b",
+          "sentiment": 0.6
+        },
+        {
+          "id": "ad2114a9528166fcb63103d2a8959c6b32366887de071b02b74b862cd6484ab9",
+          "authorHandle": "jflem2.bsky.social",
+          "postText": "On Wednesday, Nov. 25, ProPublica reported that Democratic Maine Rep. Chellie Pingree intends to investigate the White House’s potential overhaul of the Smithsonian Institution. Her announcement follows the publication of a 25-point wish list.",
+          "createdAt": "2026-11-28T01:45:09.797Z",
+          "uri": "at://did:plc:ns4wf3i52hvevoprdckcni25/app.bsky.feed.post/3n3dldv4j6c2w",
+          "sentiment": 0.1
+        },
         {
           "id": "87a7385ea524358b46cf71a5aed3bb949def10f563e8e12716c507b91366be10",
           "authorHandle": "atlblackstar.bsky.social",
@@ -334,15 +334,15 @@
     {
       "id": "angus-king",
       "name": "Angus King",
-      "overallSentiment": -0.2916666666666667,
+      "overallSentiment": -0.27777777777777773,
       "newsSentiment": 0,
-      "socialSentiment": -0.375,
+      "socialSentiment": -0.3333333333333333,
       "youtubeSentiment": -0.5,
       "mentions": {
         "news": 1,
-        "social": 8,
+        "social": 6,
         "youtube": 2,
-        "total": 11
+        "total": 9
       },
       "news": [
         {
@@ -402,22 +402,6 @@
           "postText": "The new James Bond... Looks interesting. He did the movie called, \"The Batman.\"\n\nwww.youtube.com/watch?v=VqXu...",
           "createdAt": "2026-11-27T17:09:15.204Z",
           "uri": "at://did:plc:r2ns6tkkjghzdnqcszg6nfgx/app.bsky.feed.post/3n3cojejdgc2t",
-          "sentiment": 0
-        },
-        {
-          "id": "b61f10220b23a382a36049fb1ddcb3aaca0bafe55410312bf50987deebf39f1c",
-          "authorHandle": "nettyroyal.bsky.social",
-          "postText": "King Charles's distant cousin is banned from driving after being caught drunk behind the wheel again\n\nwww.dailymail.com/news/article...",
-          "createdAt": "2026-11-27T08:01:12.134Z",
-          "uri": "at://did:plc:vyqvxh5opvifffgppksuh2f5/app.bsky.feed.post/3n3bpvermgc2r",
-          "sentiment": -1
-        },
-        {
-          "id": "de8df66e9e516cd5f2f5933c976408b5a0ab300ac381474a50c82067927e9667",
-          "authorHandle": "ftorange518.bsky.social",
-          "postText": "Why is Bill Kristol assuming John Fetterman and Angus King will vote to impeach?",
-          "createdAt": "2026-11-27T03:48:39.517Z",
-          "uri": "at://did:plc:7e4vght6gm4trifutcawy6jp/app.bsky.feed.post/3n3bbrs4huc2a",
           "sentiment": 0
         }
       ],
